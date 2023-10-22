@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em %d hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Em %d minutos</item>
+        <item quantity="one">Em %d minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">%d min atrás</item>
+    </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">"Você não faz backup de seus itens há %s semanas. Toque para ver como ativar os backups automáticos."</item>
+        <item quantity="one">"Você não fez backup de seus itens em %s semana. Toque para ver como ativar os backups automáticos."</item>
+    </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">"Você não fez backup de itens há %s semanas. Crie backups para evitar perder arquivos importantes."</item>
+        <item quantity="one">"Você não fez backup de itens há %s semana. Crie backups para evitar perder arquivos importantes."</item>
+    </plurals>
+    <plurals name="cloud_backup_detail_manage_summary">
+        <item quantity="other">%1$s backups (%2$s)</item>
+        <item quantity="one">%1$s backup (%2$s)</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d apps neste dispositivo</item>
+        <item quantity="one">%d app neste dispositivo</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">Prioridade normal: %d apps</item>
+        <item quantity="one">Prioridade normal: %d app</item>
+    </plurals>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">Alta prioridade: %d apps</item>
+        <item quantity="one">Alta prioridade: %d app</item>
+    </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Backup de %d apps</item>
+        <item quantity="one">Backup de %d app</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d apps restaurados</item>
+        <item quantity="one">%d app restaurado</item>
+    </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">Cerca de %s minutos restantes</item>
+        <item quantity="one">Cerca de %s minuto restante</item>
+    </plurals>
+</resources>

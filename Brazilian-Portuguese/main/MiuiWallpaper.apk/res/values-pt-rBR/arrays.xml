@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Nosso planeta</item>
+        <item>Plano de fundo/Super plano de fundo/Nosso planeta</item>
+        <item>Terra;Super plano de fundo;Edição Terra;Plano de fundo</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometria</item>
+        <item>Plano de fundo/Super plano de fundo/Geometria</item>
+        <item>Geometria;Abstrato;Super plano de fundo;Plano de fundo</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>O planeta vermelho</item>
+        <item>Plano de fundo/Super plano de fundo/O planeta vermelho</item>
+        <item>Marte;Edição Marte;Super plano de fundo;Plano de fundo</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Anéis de Saturno</item>
+        <item>Plano de fundo/Super plano de fundo/Anéis de Saturno</item>
+        <item>Planeta;Saturno;Super plano de fundo;Plano de fundo</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Picos nevados</item>
+        <item>Plano de fundo/Super planos de fundo/Picos nevados</item>
+        <item>Terra;Montanhas;Super plano de fundo;Plano de fundo</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super plano de fundo</item>
+        <item>Plano de fundo/Super plano de fundo</item>
+        <item>Super plano de fundo;Plano de fundo;Plano de fundo dinâmico;Plano de fundo 3D</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Clima</item>
+        <item>Plano de fundo/Super planos de fundo/Clima</item>
+        <item>Tempo;Informações meteorológicas;Super plano de fundo;Plano de fundo</item>
+    </string-array>
+</resources>

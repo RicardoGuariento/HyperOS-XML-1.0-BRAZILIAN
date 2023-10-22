@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pesquisar…</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="accept">"OK"</string>
+    <string name="app_name">Estrutura de serviços Xiaomi</string>
+    <string name="app_update_dialog_btn_bg_update">Atualizar</string>
+    <string name="app_update_dialog_btn_cancel">Agora não</string>
+    <string name="app_update_dialog_btn_update">Atualizar</string>
+    <string name="app_update_dialog_desc_title">"O que há de novo"</string>
+    <string name="app_update_dialog_support">As atualizações são fornecidas por GetApps</string>
+    <string name="app_update_dialog_title">Uma atualização está disponível</string>
+    <string name="error_device_id_message">"ID do dispositivo inválida: %s
+A ID do dispositivo precisa ser um IMEI ou endereço MAC válidos. Sem a ID do dispositivo, alguns recursos da Conta Mi e MiCloud não estarão disponíveis."</string>
+    <string name="error_device_id_title">Não é possível obter uma ID de dispositivo válida</string>
+    <string name="explain_send_sms_permission_button">Verificar</string>
+    <string name="explain_send_sms_permission_msg">Para ativar a função %s, a Estrutura de serviços Xiaomi enviará um SMS para verificar seu número de telefone. Você será cobrado por um SMS comum por sua operadora.</string>
+    <string name="explain_send_sms_permission_title">Verificar seu número de telefone</string>
+    <string name="pop_up_allow_notify_dialog">Permitir</string>
+    <string name="pop_up_deny_notify_dialog">Recusar</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="sync_notification_title_format">Sincronizando item: %1$s</string>
+    <string name="xiaomi_cloud_service">"MiCloud"</string>
+    <string name="xmsf_activate_info">Informações de ativação da XMSF</string>
+</resources>

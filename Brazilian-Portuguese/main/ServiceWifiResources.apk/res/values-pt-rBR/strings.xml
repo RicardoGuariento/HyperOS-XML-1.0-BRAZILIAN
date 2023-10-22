@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Aceitar</string>
+    <string name="decline">Rejeitar</string>
+    <string name="dlg_ok">"OK"</string>
+    <string name="notification_channel_network_alerts">Alertas de rede</string>
+    <string name="notification_channel_network_available">Rede disponível</string>
+    <string name="notification_channel_network_status">Status da rede</string>
+    <string name="ok">"OK"</string>
+    <string name="wifiResourcesAppLabel">Recursos do Wi-Fi do Sistema</string>
+    <string name="wifi_available_action_all_networks">Todas as redes</string>
+    <string name="wifi_available_action_connect">Conectar</string>
+    <string name="wifi_available_content_failed_to_connect">Toque para ver todas as redes</string>
+    <string name="wifi_available_title">Conecte-se a uma rede Wi-Fi aberta</string>
+    <string name="wifi_available_title_connected">Conectado à rede Wi-Fi</string>
+    <string name="wifi_available_title_connecting">Conectando-se à rede Wi-Fi</string>
+    <string name="wifi_available_title_failed_to_connect">Não foi possível conectar à rede Wi-Fi</string>
+    <string name="wifi_ca_cert_dialog_abort_text">"Não, não conectar"</string>
+    <string name="wifi_ca_cert_dialog_continue_text">Sim, conectar</string>
+    <string name="wifi_ca_cert_dialog_message_contact_text">"Contato:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"Validade do certificado:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_hint">"Só permita a conexão desta rede se as informações abaixo parecerem corretas.
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Nome do emissor:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_organization_text">"Organização:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_server_name_text">"Nome do servidor:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Impressão digital SHA-256:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">"Desconectar agora"</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Permaneça conectado</string>
+    <string name="wifi_ca_cert_dialog_preT_message_hint">Falta um certificado na rede %1$s.</string>
+    <string name="wifi_ca_cert_dialog_preT_message_link">Saiba como adicionar certificados</string>
+    <string name="wifi_ca_cert_dialog_preT_title">"Não é possível verificar esta rede"</string>
+    <string name="wifi_ca_cert_dialog_title">Esta rede é confiável?</string>
+    <string name="wifi_ca_cert_failed_to_install_ca_cert">Falha na instalação do certificado.</string>
+    <string name="wifi_ca_cert_notification_message">Revise os detalhes da rede para %1$s antes de conectar. Clique para continuar.</string>
+    <string name="wifi_ca_cert_notification_preT_abort_text">"Não conectar"</string>
+    <string name="wifi_ca_cert_notification_preT_continue_text">Conectar mesmo assim</string>
+    <string name="wifi_ca_cert_notification_preT_message">Falta um certificado na rede %1$s. Toque para saber como adicionar certificados.</string>
+    <string name="wifi_ca_cert_notification_preT_title">"Não é possível verificar esta rede"</string>
+    <string name="wifi_ca_cert_notification_title">A rede precisa ser verificada</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_message">Toque para alterar as configurações de privacidade e tente novamente</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_title">Não é possível conectar-se a %1$s</string>
+    <string name="wifi_connect_alert_message">App %1$s gostaria de se conectar à rede Wifi %2$s</string>
+    <string name="wifi_connect_alert_title">Permitir conexão?</string>
+    <string name="wifi_connect_default_application">Um app</string>
+    <string name="wifi_disable_mac_randomization_dialog_confirm_text">Alterar configuração</string>
+    <string name="wifi_disable_mac_randomization_dialog_failure">Não é possível alterar a configuração de privacidade</string>
+    <string name="wifi_disable_mac_randomization_dialog_message">"Para se conectar, %1$s precisa usar o endereço MAC do seu dispositivo, um identificador exclusivo. Atualmente, sua configuração de privacidade para esta rede usa um identificador aleatório. 
+
+Esta mudança pode permitir que a localização do seu dispositivo seja rastreada por dispositivos próximos."</string>
+    <string name="wifi_disable_mac_randomization_dialog_network_not_found">Rede não encontrada</string>
+    <string name="wifi_disable_mac_randomization_dialog_success">Configuração atualizada. Tente conectar novamente.</string>
+    <string name="wifi_disable_mac_randomization_dialog_title">Alterar configuração de privacidade?</string>
+    <string name="wifi_eap_error_message_code_16384">%1$s : Erro de autenticação EAP 16384</string>
+    <string name="wifi_eap_error_message_code_16385">%1$s : Erro de autenticação EAP 16385</string>
+    <string name="wifi_eap_error_message_code_32756">%1$s : Erro de autenticação EAP 32756</string>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Erro de autenticação EAP 32760</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Erro de autenticação EAP 32761</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Erro de autenticação EAP 32762</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Erro de autenticação EAP 32763</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Erro de autenticação EAP 32764</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Erro de autenticação EAP 32765</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Erro de autenticação EAP 32766</string>
+    <string name="wifi_eap_error_message_code_32767">%1$s : Erro de autenticação EAP 32767</string>
+    <string name="wifi_eap_error_message_unknown_error_code">%1$s : Erro de autenticação EAP, código de erro desconhecido</string>
+    <string name="wifi_enable_request_dialog_message">Você pode destivar o Wi‑Fi nas Configurações rápidas</string>
+    <string name="wifi_enable_request_dialog_negative_button">"Não permitir"</string>
+    <string name="wifi_enable_request_dialog_positive_button">Permitir</string>
+    <string name="wifi_enable_request_dialog_title">Permitir que %1$s ative o Wi-Fi?</string>
+    <string name="wifi_interface_priority_approve">Permitir</string>
+    <string name="wifi_interface_priority_message">Isso pode causar problemas para %3$s.</string>
+    <string name="wifi_interface_priority_message_plural">Isso pode causar problemas para estes apps: %3$s.</string>
+    <string name="wifi_interface_priority_reject">"Não permitir"</string>
+    <string name="wifi_interface_priority_title">%1$s quer usar um recurso de rede</string>
+    <string name="wifi_p2p_enter_pin_message">Digite o PIN:</string>
+    <string name="wifi_p2p_frequency_conflict_message">O telefone se desconectará temporariamente do Wi-Fi enquanto estiver conectado a %1$s</string>
+    <string name="wifi_p2p_from_message">A partir de:</string>
+    <string name="wifi_p2p_invitation_sent_title">Convite enviado</string>
+    <string name="wifi_p2p_invitation_to_connect_title">Convite para conectar</string>
+    <string name="wifi_p2p_show_pin_message">"PIN:"</string>
+    <string name="wifi_p2p_to_message">Para:</string>
+    <string name="wifi_sim_required_message">Para se conectar a %1$s, insira um %2$s SIM</string>
+    <string name="wifi_sim_required_title">Wi‑Fi desconectado</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">Nenhum dispositivo conectado. Toque para modificar.</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_title">Ponto de acesso desativado</string>
+    <string name="wifi_suggestion_action_allow_app">Permitir</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Conectar mesmo assim</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Conectar</string>
+    <string name="wifi_suggestion_action_disallow_app">Não, obrigado</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">Não conectar</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">Não conectar</string>
+    <string name="wifi_suggestion_content">%s redes sugeridas. O dispositivo pode se conectar automaticamente.</string>
+    <string name="wifi_suggestion_imsi_privacy_content">Essas redes recebem um ID único que pode ser usado para rastrear a localização do dispositivo</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">Se você se conectar, as redes Wi-Fi %s podem acessar ou compartilhar uma ID exclusiva associada ao seu chip. Isso pode permitir que a localização do seu dispositivo seja rastreada.</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Confirmar a conexão?</string>
+    <string name="wifi_suggestion_imsi_privacy_title">%s quer se conectar automaticamente</string>
+    <string name="wifi_suggestion_title">Permitir redes Wi-Fi sugeridas?</string>
+    <string name="wifi_tofu_invalid_cert_chain_message">A cadeia de certificados do servidor é inválida.</string>
+    <string name="wifi_tofu_invalid_cert_chain_ok_text">"OK"</string>
+    <string name="wifi_tofu_invalid_cert_chain_title">"Não é possível conectar a %1$s"</string>
+    <string name="wifi_wakeup_enabled_content">Você está próximo de uma rede salva: %1$s</string>
+    <string name="wifi_wakeup_enabled_title">Wi-Fi ativado automaticamente</string>
+    <string name="wifi_wakeup_onboarding_action_disable">Não ative novamente</string>
+    <string name="wifi_wakeup_onboarding_subtext">Quando você estiver perto de uma rede salva de alta qualidade</string>
+    <string name="wifi_wakeup_onboarding_title">O Wi-Fi será ativado automaticamente</string>
+    <string name="wifi_watchdog_network_disabled">Não foi possível conectar ao Wi-Fi</string>
+    <string name="wifi_watchdog_network_disabled_detailed"> tem uma conexão de Internet ruim.</string>
+</resources>

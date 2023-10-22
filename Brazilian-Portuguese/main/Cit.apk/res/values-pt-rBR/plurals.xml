@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="show_hiden_test">
+        <item quantity="other">Agora você só precisa executar a etapa %1$d para entrar nos testes</item>
+        <item quantity="one">Agora você só precisa executar a etapa %1$d para entrar nos testes</item>
+    </plurals>
+</resources>

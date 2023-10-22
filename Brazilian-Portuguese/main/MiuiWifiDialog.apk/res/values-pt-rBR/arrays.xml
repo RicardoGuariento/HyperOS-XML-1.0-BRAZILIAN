@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s : Há um problema ao conectar você ao Wi-Fi da Verizon. Acesso devido ao erro 16384.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s : Há um problema ao conectar você ao Wi-Fi da Verizon. Acesso devido ao erro 16385.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32756_carrier_overrides">
+        <item>:::1839:::</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s : Você não pode se conectar ao Wi-Fi da Verizon. Acesso fora da área de cobertura da Verizon. (Error = 32760)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839:::%1$s : Você não está inscrito no acesso ao Wi-Fi da Verizon. Por favor, ligue para nós em 800-922-0204. (Error = 32761)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839:::%1$s : Há um problema com sua conta de acesso do Wi-Fi da Verizon. Por favor, ligue para nós em 800-922-0204. (Error = 32762)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839:::%1$s : Você já está conectado ao acesso do Wi-Fi da Verizon. (Error = 32763)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839:::%1$s : Há um problema ao conectar você ao acesso do Wi-Fi da Verizon. Por favor, ligue para nós em 800-922-0204. (Error = 32764)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839:::%1$s : Há um problema com sua conta de acesso ao Wi-Fi da Verizon. Por favor, ligue para nós em 800-922-0204. (Error = 32765)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839:::%1$s : O acesso ao Wi-Fi da Verizon não está disponível na sua localização. Tente novamente mais tarde ou tente de um local diferente. (Error = 32766)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839:::%1$s : Há um problema ao conectar você ao acesso do Wi-Fi da Verizon. Tente novamente mais tarde ou tente de um local diferente.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839:::%1$s : Há um problema ao conectar você ao acesso do Wi-Fi da Verizon.</item>
+    </string-array>
+</resources>
