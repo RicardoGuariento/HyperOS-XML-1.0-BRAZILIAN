@@ -44,7 +44,7 @@
     <string name="abc_slices_permission_request">%1$s quer mostrar partes do app %2$s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="about_ad_service_instructions">Sobre os serviços de anúncios e privacidade</string>
-    <string name="about_ad_service_instructions_for_global">Sobre serviços de anúncios e privacidade em apps do sistema Miui</string>
+    <string name="about_ad_service_instructions_for_global">Sobre serviços de anúncios e privacidade em apps do sistema HyperOS</string>
     <string name="about_phone_device_name_warning">O nome do seu dispositivo está visível para os apps no seu dispositivo. Ele também pode ser visto por outras pessoas quando você se conecta a dispositivos Bluetooth ou a uma rede Wi-Fi ou quando configura um ponto de acesso Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Saiba mais</string>
     <string name="about_settings">Sobre o telefone</string>
@@ -665,7 +665,7 @@ Widget: %2$s
     <string name="allow_mock_modem">Permitir Modem simulado</string>
     <string name="allow_mock_modem_summary">Permitir que este dispositivo execute o serviço de Modem simulado para teste de instrumentação. Não habilite isso durante o uso normal do telefone</string>
     <string name="allow_oaid_used">Usar a ID Virtual</string>
-    <string name="allow_oaid_used_desc">A MIUI fornecerá a ID Virtual (OAID) aos apps instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente em decorrer disso.</string>
+    <string name="allow_oaid_used_desc">O HyperOS fornecerá a ID Virtual (OAID) aos apps instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente em decorrer disso.</string>
     <string name="allow_ongoing_title">Permitir notificações permanentes</string>
     <string name="allow_overlay_description">Permite que este app seja sobreposto a outros apps que você esteja usando. Este app será capaz de ver ou alterar o que é exibido na tela.</string>
     <string name="allow_sound_title">Permitir som</string>
@@ -2041,7 +2041,7 @@ Você pode desativar este recurso em Configurações > Bluetooth > Dispositivos 
     <string name="bt_audio_share_switch_title">Compartilhar áudio</string>
     <string name="bt_audiorepair_dialog_open_success">Corrigido com sucesso. Aguarde até que o dispositivo se reconecte.</string>
     <string name="bt_audiorepair_dialog_openok">Corrigir</string>
-    <string name="bt_audiorepair_open_dialog_summary">A MIUI detectará e corrigirá os problemas que causam falhas no áudio do Bluetooth. O Bluetooth será reiniciado durante este processo. Não saia desta página até ver os resultados.</string>
+    <string name="bt_audiorepair_open_dialog_summary">O HyperOS detectará e corrigirá os problemas que causam falhas no áudio do Bluetooth. O Bluetooth será reiniciado durante este processo. Não saia desta página até ver os resultados.</string>
     <string name="bt_audiorepair_open_dialog_title">Corrigir falha de áudio</string>
     <string name="bt_audiorepair_pre_title">Corrigir falha de áudio</string>
     <string name="bt_audiorepair_summary">Corrigir falhas de áudio em dispositivos Bluetooth conectados</string>
@@ -2365,8 +2365,8 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="close_fod_aod">Você não conseguirá desbloquear seu dispositivo usando sua impressão digital quando a tela estiver desligada. O \"Modo Always On\" também não estará disponível. O desbloqueio por impressão digital só funcionará quando a tela estiver ligada.</string>
     <string name="close_hotspot_hint">Desative o ponto de acesso portátil antes de transmitir</string>
     <string name="close_lid_display_settings_title">Depois de dobrar</string>
-    <string name="close_miui_optimization_title">Desativar otimização MIUI</string>
-    <string name="close_optimization_message">Layout de texto, contas e outras partes da MIUI podem ser afetadas depois que você desligar este recurso.</string>
+    <string name="close_miui_optimization_title">Desativar otimização HyperOS</string>
+    <string name="close_optimization_message">Layout de texto, contas e outras partes do HyperOS podem ser afetadas depois que você desligar este recurso.</string>
     <string name="close_optimization_option">Desativar</string>
     <string name="close_privacy_thumbnail_blur_title">As prévias não estão desfocadas</string>
     <string name="close_slave_wifi_hint">Desconecte do Wi-Fi auxiliar antes de transmitir</string>
@@ -3091,9 +3091,9 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_mall_card_title">Confira os benefícios disponíveis</string>
     <string name="device_memory">"RAM"</string>
     <string name="device_miui_more">Ver mais</string>
-    <string name="device_miui_version">Versão da MIUI</string>
-    <string name="device_miui_version_for_POCO">Versão da MIUI (Para POCO)</string>
-    <string name="device_miui_version_parameters">Versão da MIUI</string>
+    <string name="device_miui_version">Versão do HyperOS</string>
+    <string name="device_miui_version_for_POCO">Versão do HyperOS (Para POCO)</string>
+    <string name="device_miui_version_parameters">Versão do HyperOS</string>
     <string name="device_miui_version_update">Atualizar</string>
     <string name="device_name">Nome do dispositivo</string>
     <string name="device_name_input_error">Não foi possível salvar o nome do dispositivo</string>
@@ -3101,7 +3101,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_name_input_overlength">O texto inserido é muito longo</string>
     <string name="device_name_usage_point">Dispositivos próximos poderão ver este nome.</string>
     <string name="device_oaid">Gerenciar ID Virtual</string>
-    <string name="device_oaid_desc">Em vez do seu identificador único, a MIUI fornecerá um identificador virtual (OAID) a apps instalados. Ele evita que os apps rastreiem o seu comportamento e preferências, e protege a sua privacidade.</string>
+    <string name="device_oaid_desc">Em vez do seu identificador único, o HyperOS fornecerá um identificador virtual (OAID) a apps instalados. Ele evita que os apps rastreiem o seu comportamento e preferências, e protege a sua privacidade.</string>
     <string name="device_oaid_title">ID Virtual</string>
     <string name="device_of_someone">"%1$s's %2$s"</string>
     <string name="device_opcust_version">Versão do operador</string>
@@ -3362,7 +3362,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="double_tap_power_for_camera_title">Abrir a câmera</string>
     <string name="double_twist_for_camera_mode_title">Inverter a câmara para selfie</string>
     <string name="double_twist_for_camera_suggestion_title">Tirar selfies com mais rapidez</string>
-    <string name="download_current_rom">Obter a última versão da MIUI</string>
+    <string name="download_current_rom">Obter a última versão do HyperOS</string>
     <string name="downloaded_sim_category_title">SIM BAIXADO</string>
     <string name="downloaded_sims_category_title">DOWNLOADED SIMS</string>
     <string name="downloading_description">Baixando…</string>
@@ -3434,7 +3434,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_wifi_switching_prompt">Alternando entre redes</string>
     <string name="dual_wifi_switching_summary">A Aceleração de velocidade com Wi-Fi Dual band precisa usar duas bandas de Wi-Fi diferentes (2.5GHz e 5GHz). Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
     <string name="dump_log">Obter logs relacionados com o problema</string>
-    <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log %s na versão Beta da MIUI. Use-o com cautela.
+    <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log %s na versão Beta do HyperOS. Use-o com cautela.
 Você pode ver os logs gerados no app Arquivos."</string>
     <string name="dump_log_title">Sobre este recurso</string>
     <string name="early_morning">"AM"</string>
@@ -4052,7 +4052,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="font_size_make_smaller_desc">Tornar menor</string>
     <string name="font_size_medium">Médio</string>
     <string name="font_size_normal">Pequeno</string>
-    <string name="font_size_preview">"MIUI"</string>
+    <string name="font_size_preview">"HyperOS"</string>
     <string name="font_size_preview_text_body">"Mesmo com os olhos protegidos pelos óculos verdes, Dorothy e seus amigos foram ofuscados pelo brilho da magnífica cidade. As ruas estavam repletas de belas casas, todas feitas de mármore verde e cravejadas de esmeraldas brilhantes por toda a parte. Eles caminharam pela calçada do mesmo mármore verde, e, onde os blocos se encontravam, havia fileiras de esmeraldas bem próximas umas das outras, brilhantes à luz do sol. As janelas eram de vidro verde. Até mesmo o céu sobre a cidade era esverdeado, e os raios do sol eram verdes. 
 
 Havia muitas pessoas, homens, mulheres e crianças, caminhando por lá, e todos vestiam roupas verdes e tinham a pele esverdeada. Eles olharam para Dorothy e seus estranhos companheiros com olhos curiosos, e todas as crianças fugiram e se esconderam atrás de suas mães quando viram o Leão; mas ninguém falou com eles. Havia muitas lojas na rua, e Dorothy viu que tudo nelas era verde. Doces verdes e pipoca verde estavam à venda, assim como sapatos verdes, chapéus verdes e roupas verdes de todos os tipos. Em um lugar, um homem estava vendendo limonada verde, e quando as crianças a compravam, Dorothy viu que elas pagavam com moedas verdes. 
@@ -5928,7 +5928,7 @@ Não poderá reverter esta ação."</string>
     <string name="miui_bubbles_notification_status_opened">Ativado</string>
     <string name="miui_data_usage_menu_metered">Pontos de acesso móveis</string>
     <string name="miui_device_control_description">Exibe apps compatíveis com controles de dispositivos para poder controlar dispositivos domésticos inteligentes compatíveis</string>
-    <string name="miui_experience_optimization">Ativar otimização MIUI</string>
+    <string name="miui_experience_optimization">Ativar otimização HyperOS</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Cancelar</string>
     <string name="miui_face_enroll_risk_warning_title_text">Atenção!</string>
     <string name="miui_face_enroll_risk_warning_title_text_cn">Declaração sobre segurança</string>
@@ -5947,7 +5947,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_lab_feature_applied">Aplicado</string>
     <string name="miui_lab_feature_off">Desativado</string>
     <string name="miui_lab_feature_on">Ativado</string>
-    <string name="miui_lab_features">Recursos da MIUI Lab</string>
+    <string name="miui_lab_features">Recursos da HyperOS Lab</string>
     <string name="miui_lab_gallery_search_desc">Pesquisa melhorada de imagens</string>
     <string name="miui_lab_gallery_search_title">Encontrar fotos na Galeria</string>
     <string name="miui_lab_gesture_desc">Use gestos ao invés dos botões para navegação</string>
@@ -5955,7 +5955,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_lab_install_drive_mode_error">Não foi possível instalar. Tente novamente.</string>
     <string name="miui_lab_install_drive_mode_summary">O Modo carro é um app de sistema. A instalação não requer uma conexão com a internet.</string>
     <string name="miui_lab_install_drive_mode_title">Instalar Modo carro</string>
-    <string name="miui_lab_settings">MIUI Lab</string>
+    <string name="miui_lab_settings">HyperOS Lab</string>
     <string name="miui_lab_slogan">Aprenda. Explore. Descubra.</string>
     <string name="miui_master_clear_prompt_battery_low">Não é possível redefinir para as configurações de fábrica com %1$s de bateria restante. Carregue o seu dispositivo antes de continuar</string>
     <string name="miui_master_clear_summary">Apaga todos os dados neste dispositivo</string>
@@ -5965,7 +5965,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_nfc_dialog_positive">Cancelar</string>
     <string name="miui_nfc_dialog_title">Desativando NFC</string>
     <string name="miui_nfc_mi_pay_summary">Mi Pay, cartões de transporte, cartões de acesso</string>
-    <string name="miui_optimization_disabled">Desativar otimização MIUI</string>
+    <string name="miui_optimization_disabled">Desativar otimização HyperOS</string>
     <string name="miui_sos_around_photo_summary">Anexe %d foto das câmeras frontal e traseira à mensagem de texto enviada aos seus contatos de emergência</string>
     <string name="miui_sos_around_photo_title">Anexar fotos</string>
     <string name="miui_sos_around_voice_summary">Anexe uma gravação de áudio de %d segundos à mensagem de texto enviada aos seus contatos de emergência</string>
@@ -6687,7 +6687,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_dashboard_summary">Histórico de notificação, conversas</string>
     <string name="notification_display_settings">Área de notificações</string>
     <string name="notification_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Este recurso filtra notificações com pouca importância e as coloca em uma pasta separada.</string>
-    <string name="notification_fold_description2">A MIUI lembrará quais notificações você tocar, e então usará vários critérios para determinar a sua importância.</string>
+    <string name="notification_fold_description2">O HyperOS lembrará quais notificações você tocar, e então usará vários critérios para determinar a sua importância.</string>
     <string name="notification_fold_description3">Se notificações que você considerar importantes ainda forem para a pasta de Notificações não importantes, certifique-se de reportar estes problemas para nós. Agradecemos o seu feedback.</string>
     <string name="notification_fold_footer_icon_summary">Mostrar ícones de apps quando notificações não importantes estiverem agrupadas</string>
     <string name="notification_fold_footer_icon_title">Mostrar ícones de apps</string>
@@ -6864,7 +6864,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="open_demo_mode_warning_message">Quando o Modo de demonstração está ativado, o relógio da barra de status irá parar, e os ícones de sinal e bateria serão exibidos totalmente cheios. Você pode desativar o Modo de demonstração ou reiniciar o dispositivo para alterar isso.</string>
     <string name="open_game_accelerate">Ativar o Game Turbo</string>
     <string name="open_haptic_feedback">Retorno tátil</string>
-    <string name="open_miui_optimization_title">Ativar otimização MIUI</string>
+    <string name="open_miui_optimization_title">Ativar otimização HyperOS</string>
     <string name="open_optimization_message">Ative a otimização para aproveitar uma IU mais rápida e suave.</string>
     <string name="open_optimization_option">Ativar</string>
     <string name="open_privacy_thumbnail_blur_title">As prévias estão desfocadas</string>
@@ -7711,7 +7711,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="resolution_fhd_summary" formatted="false" >%d×%d (economiza bateria)</string>
     <string name="resolution_qhd">"WQHD+"</string>
     <string name="resolution_qhd_summary" formatted="false" >%d×%d (maior nitidez)</string>
-    <string name="resolution_sub_title">A MIUI pode encerrar os apps em execução em segundo plano enquanto muda de resolução</string>
+    <string name="resolution_sub_title">O HyperOS pode encerrar os apps em execução em segundo plano enquanto muda de resolução</string>
     <string name="resolver_settings_label">Ordenar</string>
     <string name="restore_default_apn">Restaurando as configurações APN padrão.</string>
     <string name="restore_default_apn_completed">Redefinição das configurações padrão do APN concluída.</string>
@@ -8080,7 +8080,7 @@ Para usar a fixação de apps: \u0009
     <string name="se_wallet_hce">Carteira HCE</string>
     <string name="se_wallet_uicc">Carteira SIM %1$s</string>
     <string name="se_wallet_uicc_jp">"Cartão SIM %1$s (não pode ser selecionado automaticamente)"</string>
-    <string name="search_about_settings">Sobre o telefone;Número do modelo;Versão do Android;Versão da MIUI;CPU;RAM;Armazenamento interno;Memória;Armazenamento;Memória interna;Versão da baseband;Versão do kernel;Número da compilação;Meu dispositivo;Telefone;Dispositivo</string>
+    <string name="search_about_settings">Sobre o telefone;Número do modelo;Versão do Android;Versão do HyperOS;CPU;RAM;Armazenamento interno;Memória;Armazenamento;Memória interna;Versão da baseband;Versão do kernel;Número da compilação;Meu dispositivo;Telefone;Dispositivo</string>
     <string name="search_accelerometer_title">Girar tela automaticamente;Girar tela;Orientação;Retrato;Paisagem</string>
     <string name="search_access_control">Configurações de privacidade;Segurança de privacidade;Convidado;Modo convidado</string>
     <string name="search_accessibility_captioning_title">Legendas</string>
@@ -9985,7 +9985,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="uninstall_device_admin">Desinstalar app</string>
     <string name="uninstall_dlg_msg">A desinstalação apagará todos os dados deste app.</string>
     <string name="uninstall_dlg_title">Desinstalar agora?</string>
-    <string name="uninstall_protected_dlg_msg">Desinstalar apps de sistema pode impedir que alguns componentes da MIUI funcionem corretamente. Desinstalar mesmo assim?</string>
+    <string name="uninstall_protected_dlg_msg">Desinstalar apps de sistema pode impedir que alguns componentes do HyperOS funcionem corretamente. Desinstalar mesmo assim?</string>
     <string name="uninstall_protected_dlg_title">Desinstalando apps de sistema</string>
     <string name="uninstall_text">Desinstalar</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Os dual apps correspondentes serão removidos junto com os dados dos mesmos.</string>
@@ -10119,10 +10119,10 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="uplmn_list_setting_add_plmn">Novo PLMN</string>
     <string name="uplmn_settings_summary">Definir os PLMNs padrões por prioridade</string>
     <string name="uplmn_settings_title">PLMN controlado pelo usuário</string>
-    <string name="upload_debug_log_detail">Ajude a melhorar a experiência do dispositivo MIUI enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema MIUI, e da estabilidade do app e muito mais.
-Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o usa (ex.: nível da bateria, atividade do sistema, dos apps e erros). Os dados serão usados para melhorar os dispositivos MIUI.
+    <string name="upload_debug_log_detail">Ajude a melhorar a experiência do dispositivo HyperOS enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema HyperOS, e da estabilidade do app e muito mais.
+Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o usa (ex.: nível da bateria, atividade do sistema, dos apps e erros). Os dados serão usados para melhorar os dispositivos HyperOS.
 Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança."</string>
-    <string name="upload_debug_log_summary">Compartilhe dados para ajudar a melhorar a MIUI</string>
+    <string name="upload_debug_log_summary">Compartilhe dados para ajudar a melhorar o HyperOS</string>
     <string name="upload_debug_log_title">Uso e diagnóstico</string>
     <string name="usage">Utilização</string>
     <string name="usage_access">Acesso ao uso</string>
@@ -10318,9 +10318,9 @@ ou com conector de 3.5mm."</string>
     <string name="use_otg_file_transfers_summary">Carregamento lento de 500mA e transferência de arquivos</string>
     <string name="use_otg_title">"USB OTG"</string>
     <string name="use_personalized_ad_service">Recomendação personalizada de anúncios</string>
-    <string name="use_personalized_ad_service_for_global">Personalize anúncios MIUI</string>
+    <string name="use_personalized_ad_service_for_global">Personalize anúncios HyperOS</string>
     <string name="use_personalized_ad_service_summary">Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios que quando o recurso está ativado. Os anúncios, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais.</string>
-    <string name="use_personalized_ad_service_summary_for_global">"Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios nos apps do sistema MIUI de quando o recurso está ativado. Os anúncios da Xiaomi e de plataformas de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
+    <string name="use_personalized_ad_service_summary_for_global">"Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios nos apps do sistema HyperOS de quando o recurso está ativado. Os anúncios da Xiaomi e de plataformas de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="use_privacy_password_immediate">Usar</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma do sistema</string>
     <string name="use_system_preference">Usar preferência do sistema (Padrão)</string>
@@ -11129,7 +11129,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_property">Propriedades do Wi-Fi</string>
     <string name="wifi_protection_on">Ativado</string>
     <string name="wifi_protection_settings_title">Proteção contra pedidos de sondagem Wi-Fi</string>
-    <string name="wifi_protection_tip">A MIUI protegerá seus dados pessoais de pedidos de sondagem por Wi-Fi provenientes de endereços MAC aleatórios e sniffers de sondagem Wi-Fi quando seu dispositivo estiver pesquisando por redes Wi-Fi.</string>
+    <string name="wifi_protection_tip">O HyperOS protegerá seus dados pessoais de pedidos de sondagem por Wi-Fi provenientes de endereços MAC aleatórios e sniffers de sondagem Wi-Fi quando seu dispositivo estiver pesquisando por redes Wi-Fi.</string>
     <string name="wifi_quick_toggle_summary">Ativar Wi-Fi</string>
     <string name="wifi_quick_toggle_title">"Wi-Fi"</string>
     <string name="wifi_region_summary">Requer que o Wi-Fi seja reiniciado para entrar em vigor.</string>
@@ -11215,21 +11215,21 @@ Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
 você pode usar a rede de outros usuários também."</string>
     <string name="wifi_share_connect">Conectar</string>
     <string name="wifi_share_connected_summary">Você está conectado a uma rede Wi-Fi pública que foi compartilhada por um outro usuário.</string>
-    <string name="wifi_share_connected_title">Wi-Fi compartilhada da MIUI</string>
+    <string name="wifi_share_connected_title">Wi-Fi compartilhada do HyperOS</string>
     <string name="wifi_share_current_network">Rede atual</string>
     <string name="wifi_share_know">Entendi</string>
     <string name="wifi_share_list_empty">Nenhuma rede compartilhada foi encontrada.</string>
     <string name="wifi_share_login">Compartilhar rede Wi-Fi</string>
-    <string name="wifi_share_login_summary">Se esta for uma rede pública, você poderá compartilhá-la com outros usuários MIUI.</string>
-    <string name="wifi_share_notification_summary">O MIUI conectou você a uma rede Wi-Fi pública.</string>
+    <string name="wifi_share_login_summary">Se esta for uma rede pública, você poderá compartilhá-la com outros usuários HyperOS.</string>
+    <string name="wifi_share_notification_summary">O HyperOS conectou você a uma rede Wi-Fi pública.</string>
     <string name="wifi_share_other_network">Outras redes</string>
     <string name="wifi_share_qrcode_finish">Concluído</string>
     <string name="wifi_share_qrcode_summary">Para compartilhar, escaneie o código QR acima.</string>
     <string name="wifi_share_qrcode_title">Compartilhar rede Wi-Fi</string>
     <string name="wifi_share_show_network">Mostrar redes</string>
-    <string name="wifi_share_summary1">Usuários MIUI podem compartilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc) entre si.</string>
-    <string name="wifi_share_summary2">Quando outro usuário MIUI compartilha uma rede, você pode conectar-se diretamente sem usar uma senha.</string>
-    <string name="wifi_share_summary3">Você pode ainda compartilhar suas redes Wi-Fi públicas com outros usuários MIUI.</string>
+    <string name="wifi_share_summary1">Usuários HyperOS podem compartilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc) entre si.</string>
+    <string name="wifi_share_summary2">Quando outro usuário HyperOS compartilha uma rede, você pode conectar-se diretamente sem usar uma senha.</string>
+    <string name="wifi_share_summary3">Você pode ainda compartilhar suas redes Wi-Fi públicas com outros usuários HyperOS.</string>
     <string name="wifi_share_turn_off">Desativado</string>
     <string name="wifi_share_turn_on">Ativado</string>
     <string name="wifi_share_upload">Compartilhar</string>

@@ -162,7 +162,7 @@
     <string name="add_done">Adicionado com sucesso</string>
     <string name="add_game">Adicionar jogo</string>
     <string name="add_game_notification_summary">Toque para executar e otimizar a velocidade</string>
-    <string name="add_miservice_dialog_content">%s requer que você adicione a estrutura de serviços Mi à lista de exceções. Você poderá receber notificações de apps integrados da MIUI e outros apps de terceiros.</string>
+    <string name="add_miservice_dialog_content">%s requer que você adicione a estrutura de serviços Mi à lista de exceções. Você poderá receber notificações de apps integrados do HyperOS e outros apps de terceiros.</string>
     <string name="add_miservice_dialog_title">Estrutura de serviços Mi</string>
     <string name="add_to_whitelist_button">Exceções do roaming de dados</string>
     <string name="add_whitelist">Adicionar às exceções</string>
@@ -264,7 +264,7 @@
     <string name="apn_exception_summary">Testar configurações de APN da operadora</string>
     <string name="apn_exception_title">Verificar config. de APN</string>
     <string name="apn_exception_wap_summary">O WAP está instável agora. Mude para NET.</string>
-    <string name="app_behavior_about_content_no_link">A MIUI pode exibir quando apps iniciarem outros apps, iniciaram automaticamente, usaram permissões e executaram ações sensíveis. Devido a problemas de compatibilidade com versões do Android, alguns destes registros podem não ser precisos. Se você acredita que um registro de comportamento de um app não é preciso, reporte-o para nós usando o app \"Serviços e feedback\"</string>
+    <string name="app_behavior_about_content_no_link">O HyperOS pode exibir quando apps iniciarem outros apps, iniciaram automaticamente, usaram permissões e executaram ações sensíveis. Devido a problemas de compatibilidade com versões do Android, alguns destes registros podem não ser precisos. Se você acredita que um registro de comportamento de um app não é preciso, reporte-o para nós usando o app \"Serviços e feedback\"</string>
     <string name="app_behavior_about_negative">Reportar inconsistências</string>
     <string name="app_behavior_about_positive">Entendi</string>
     <string name="app_behavior_about_setting">Configurações</string>
@@ -476,7 +476,7 @@
     <string name="app_manager_app_version_name">"Versão: "</string>
     <string name="app_manager_appupdate_remind">Notificar sobre atualizações</string>
     <string name="app_manager_as_dlg_msg">Permitir que apps iniciem automaticamente poderá exigir mais recursos de RAM e bateria. Permitir mesmo assim?</string>
-    <string name="app_manager_as_dlg_msg_new">"Permitir que um app inicie automaticamente pode aumentar a quantidade de memória e a duração da bateria que ele usa. A MIUI otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do seu dispositivo."</string>
+    <string name="app_manager_as_dlg_msg_new">"Permitir que um app inicie automaticamente pode aumentar a quantidade de memória e a duração da bateria que ele usa. O HyperOS otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do seu dispositivo."</string>
     <string name="app_manager_as_dlg_title">Atenção!</string>
     <string name="app_manager_back">Voltar</string>
     <string name="app_manager_bipartition">"Dual apps"</string>
@@ -545,7 +545,7 @@
     <string name="app_manager_permission_power_saving_title">Economia de bateria</string>
     <string name="app_manager_permission_startself_title">Início automático</string>
     <string name="app_manager_permission_summary_reject">Restringir tudo</string>
-    <string name="app_manager_powerkeeper_miui_auto">Economia de bateria MIUI</string>
+    <string name="app_manager_powerkeeper_miui_auto">Economia de bateria HyperOS</string>
     <string name="app_manager_powerkeeper_no_bg">Restringir atividade em segundo plano</string>
     <string name="app_manager_powerkeeper_no_restrict">Sem restrições</string>
     <string name="app_manager_powerkeeper_restrict_bg">Restringir apps em segundo plano</string>
@@ -580,7 +580,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_manager_uninstall">Desinstalar</string>
     <string name="app_manager_uninstall_button_text">Desinstalar</string>
     <string name="app_manager_uninstall_notify_title">Desinstale apps usados raramente</string>
-    <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar apps de sistema pode impedir que alguns componentes da MIUI funcionem corretamente. Desinstalar mesmo assim?</string>
+    <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar apps de sistema pode impedir que alguns componentes do HyperOS funcionem corretamente. Desinstalar mesmo assim?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Desinstalando apps de sistema</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Os dual apps correspondentes serão removidos juntamente com seus dados.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Desinstalar o dual app removerá seus dados correspondentes.</string>
@@ -755,7 +755,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="apps_item_sms_default_set_success">Definido com sucesso</string>
     <string name="apps_item_sms_reset_button_text">Restaurar padrões</string>
     <string name="apps_item_sms_title">O app de mensagens padrão foi substituído</string>
-    <string name="apps_item_summary_sms">%s está gerenciando seus SMS agora. Para uma experiência mais estável e segura, use o app do sistema MIUI.</string>
+    <string name="apps_item_summary_sms">%s está gerenciando seus SMS agora. Para uma experiência mais estável e segura, use o app do sistema HyperOS.</string>
     <string name="apps_item_summary_system_rooted">O acesso Root foi autorizado. Restaure as configurações padrão para evitar riscos de segurança.</string>
     <string name="apps_item_summary_system_update">Alguns erros foram corrigidos na nova versão para tornar os pagamentos mais seguros.</string>
     <string name="apps_item_title_system">Atualização de sistema</string>
@@ -780,7 +780,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_import_games">Coloque todos os seus jogos em um só lugar</string>
     <string name="auto_send_correcting_msg">Deixe em branco para verificar automaticamente com um SMS gratuito</string>
     <string name="auto_set_by_brand">Sincronizar detalhes do plano de dados com sua operadora</string>
-    <string name="auto_start_tips">"A MIUI otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do dispositivo."</string>
+    <string name="auto_start_tips">"O HyperOS otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do dispositivo."</string>
     <string name="auto_task_allow_suggestion">Sugestões de tarefas inteligentes</string>
     <string name="auto_task_available_device">Dispositivos disponíveis</string>
     <string name="auto_task_condition_choose_battery_level_down">"Quando a bateria atingir um certo nível"</string>
@@ -1342,7 +1342,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_title_pickup">Redução de ruído</string>
     <string name="cs_title_smart_subtitle">Transcrição da legenda</string>
     <string name="cs_title_ultraclear">Modo Ultra HD</string>
-    <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Centro de Alerta MIUI, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Centro de Alerta HyperOS, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada</string>
     <string name="cta_agree_desc">Para poder usar os nossos serviços, permita que este app conecte-se à internet e conceda as permissões listadas acima.</string>
     <string name="cta_close_dialog_cancel">Cancelar</string>
     <string name="cta_close_dialog_content">Se você restringir o acesso do app Segurança à internet e informações de localização, você não poderá receber alertas de terremotos, atualizar definições do antivírus e informações da lista de bloqueio. Seu dispositivo ficará menos seguro. Restringir mesmo assim?</string>
@@ -1351,8 +1351,8 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cta_dialog_negative">Sair</string>
     <string name="cta_dialog_positive">Aceitar</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
-    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança MIUI, serviços do sistema, e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança MIUI se conectarão à Internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
-    <string name="cta_main_purpose_new">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança MIUI, segurança, serviços do sistema e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança MIUI se conectarão à Internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
+    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança HyperOS, serviços do sistema, e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança HyperOS se conectarão à Internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
+    <string name="cta_main_purpose_new">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança HyperOS, segurança, serviços do sistema e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança HyperOS se conectarão à Internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
     <string name="cta_settings">Permita o acesso à internet e à localização</string>
     <string name="current_network_state_not_need_diagnose">A conexão com a internet está normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar a lista de bloqueio e fazer chamadas para contatos de emergência quando avisos de terremoto forem emitidos</string>
@@ -1364,7 +1364,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Para usar a lista de bloqueio e enviar mensagens de calibração para sua operadora</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Para excluir mensagens de sua lista de bloqueio</string>
     <string name="custom_define_permission_desc_android.permission.group.SENSORS">Para detectar ondas sísmicas para monitoramento de terremotos</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para fornecer os recursos relevantes para sua localização no Centro de Alerta MIUI, SOS de emergência, app de economia de bateria, scanner de segurança de pagamento e serviço de localização aproximada</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para fornecer os recursos relevantes para sua localização no Centro de Alerta HyperOS, SOS de emergência, app de economia de bateria, scanner de segurança de pagamento e serviço de localização aproximada</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Para gravar áudio enquanto usa o Game Turbo</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para limpar o lixo e o antivírus realizar verificações</string>
     <string name="customize_limit_pkg">%s (personalizado)</string>
@@ -1372,7 +1372,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="daily_card_setting_fragment_daily_card_brand">Operadora</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">Selecionar operadora</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Configurações do plano de dados diário</string>
-    <string name="daily_card_setting_fragment_daily_card_summary">A MIUI definirá o limite de dados e apps com dados ilimitados de acordo com a operadora selecionada. Se sua operadora não estiver na lista, selecione \"Outros\" e defina o seu plano de dados diário manualmente.</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">O HyperOS definirá o limite de dados e apps com dados ilimitados de acordo com a operadora selecionada. Se sua operadora não estiver na lista, selecione \"Outros\" e defina o seu plano de dados diário manualmente.</string>
     <string name="daily_card_setting_fragment_daily_package">Limite diário de dados</string>
     <string name="daily_card_setting_fragment_month_package">Pacote de dados mensal</string>
     <string name="daily_card_setting_fragment_package_summary">Se seu plano de dados diário contiver um pacote de dados mensal, ele será usado antes do pacote diário.</string>
@@ -1395,15 +1395,15 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="data_usage_leisure_warning_body">Toque para ver o uso de dados.</string>
     <string name="data_usage_leisure_warning_title">Limite de uso fora do pico</string>
     <string name="data_usage_limit_body">Toque para ativar os dados móveis.</string>
-    <string name="data_usage_mobile_dialog_title">Você já usou 5GB de dados móveis. A MIUI desativou os dados móveis.</string>
+    <string name="data_usage_mobile_dialog_title">Você já usou 5GB de dados móveis. O HyperOS desativou os dados móveis.</string>
     <string name="data_usage_mobile_limit_title">Limite de dados móveis atingido</string>
     <string name="data_usage_no_total_package_body">Toque para definir limite de dados</string>
     <string name="data_usage_no_total_package_body_dual">Limite de dados não definido para %s</string>
     <string name="data_usage_no_total_package_title">Defina um limite de uso de dados</string>
-    <string name="data_usage_protected_dialog_message">"A MIUI desativou os dados móveis para impedir a geração de tarifas adicionais com a sua operadora.
+    <string name="data_usage_protected_dialog_message">"O HyperOS desativou os dados móveis para impedir a geração de tarifas adicionais com a sua operadora.
 
 A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móveis novamente."</string>
-    <string name="data_usage_protected_notify_message">A MIUI desativou os dados móveis para impedir que você receba cobranças adicionais da operadora.</string>
+    <string name="data_usage_protected_notify_message">O HyperOS desativou os dados móveis para impedir que você receba cobranças adicionais da operadora.</string>
     <string name="data_usage_protected_notify_title">Você já usou 5GB de dados móveis</string>
     <string name="data_usage_warning_body">Toque para ver o uso de dados.</string>
     <string name="data_usage_warning_body_notify">Toque para ver detalhes</string>
@@ -1456,8 +1456,8 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_btn_yes_install_icon">Instalar</string>
     <string name="dialog_change_package_type_summary">Alterar o tipo do plano de dados redefinirá as configurações de uso de dados (ex.: limites de dados) para seus valores padrão. Alterar o tipo do plano de dados agora?</string>
     <string name="dialog_change_package_type_title">Alterando tipo do plano de dados</string>
-    <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações > Apps.</string>
-    <string name="dialog_msg_auto_start_declare_global">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações.</string>
+    <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que o HyperOS os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações > Apps.</string>
+    <string name="dialog_msg_auto_start_declare_global">Alguns apps podem indicar incorretamente que o HyperOS os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações.</string>
     <string name="dialog_msg_create_icon_content">Adicionar um atalho da tela inicial agora?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">"Não mostrar novamente"</string>
     <string name="dialog_msg_delete_icon_content">A Segurança permite que você limpe a lixeira do seu dispositivo, encontre e neutralize vírus, economize bateria, gerencie permissões e muito mais.</string>
@@ -1791,7 +1791,7 @@ de monitoramento de terremoto"</string>
     <string name="ew_monitor_summary2">Relata informações relacionadas ao alerta de terremoto.</string>
     <string name="ew_monitor_summary3">Ajude mais pessoas a receber alertas de terremoto mais rápido.</string>
     <string name="ew_monitor_support">Suporte técnico fornecido pelo Instituto de redução de desastres Chengdu Hi-tech</string>
-    <string name="ew_monitor_support_rom">• Este recurso é compatível com alguns dispositivos Xiaomi/Redmi e versões MIUI.</string>
+    <string name="ew_monitor_support_rom">• Este recurso é compatível com alguns dispositivos Xiaomi/Redmi e versões HyperOS.</string>
     <string name="ew_monitor_thanks_tips">"Obrigado por se tornar um voluntário no
 monitoramento de terremoto Nº %s!"</string>
     <string name="ew_monitor_title">Voluntário de monitoramento de terremoto</string>
@@ -1803,7 +1803,7 @@ monitoramento de terremotos"</string>
     <string name="ew_push_message">Intensidade estimada: %s. Espere um tremor leve perto de você.</string>
     <string name="ew_push_title">Alerta de terremoto para %s</string>
     <string name="ew_safe_place_no_maps_tips">Não é possível pesquisar agora. Instale o Baidu Maps ou o Amap primeiro</string>
-    <string name="ew_setting_desc_message">A MIUI estima a intensidade do terremoto com base em sua magnitude, a localização do epicentro e sua localização. Quanto maior a intensidade estimada, mais devastador será o terremoto na sua área.</string>
+    <string name="ew_setting_desc_message">O HyperOS estima a intensidade do terremoto com base em sua magnitude, a localização do epicentro e sua localização. Quanto maior a intensidade estimada, mais devastador será o terremoto na sua área.</string>
     <string name="ew_setting_desc_title">Qual é a intensidade estimada?</string>
     <string name="ew_setting_more_title">Saiba mais sobre avisos de terremoto</string>
     <string name="ew_setting_normal_push_message">Quando a intensidade estimada é inferior ao limite de aviso</string>
@@ -1819,7 +1819,7 @@ monitoramento de terremotos"</string>
     <string name="ew_settings_push_tips">Os alertas sobre áreas fora de sua localização virão apenas na forma de notificações.</string>
     <string name="ew_settings_set_level_summary">Receba alertas sobre terremotos quando sua intensidade for %s ou maior</string>
     <string name="ew_settings_set_level_title">Definir limite de alerta de terremotos</string>
-    <string name="ew_sleep_mode_alert_content">"Para garantir que você possa receber alertas antecipados de terremoto, a MIUI desativará o Modo sono. Apps em segundo plano, NFC, Bluetooth, GPS, dados móveis e Wi-Fi funcionarão normalmente mesmo quando você estiver dormindo. Ativar o alerta de terremotos agora?"</string>
+    <string name="ew_sleep_mode_alert_content">"Para garantir que você possa receber alertas antecipados de terremoto, o HyperOS desativará o Modo sono. Apps em segundo plano, NFC, Bluetooth, GPS, dados móveis e Wi-Fi funcionarão normalmente mesmo quando você estiver dormindo. Ativar o alerta de terremotos agora?"</string>
     <string name="ew_sleep_mode_alert_title">Alerta de terremoto</string>
     <string name="ew_subscribe_area_title">Gerenciar áreas adicionadas</string>
     <string name="ew_subscribe_city">Áreas adicionadas</string>
@@ -2006,7 +2006,7 @@ monitoramento de terremotos"</string>
     <string name="first_settings_default_location_subtitle">Remove informações de localização das fotos compartilhadas</string>
     <string name="first_settings_default_location_title">Compartilhar sem informações de localização (padrão)</string>
     <string name="first_settings_share_enable">Adicionar emblema \"Compartilhamento seguro\"</string>
-    <string name="first_settings_share_enable_subtitle">Os itens que você compartilha no WeChat aparecerão com um emblema da MIUI</string>
+    <string name="first_settings_share_enable_subtitle">Os itens que você compartilha no WeChat aparecerão com um emblema do HyperOS</string>
     <string name="first_settings_subtitle">Aqui estão as opções de compartilhamento seguro disponíveis para você:</string>
     <string name="first_settings_title">Proteja sua privacidade</string>
     <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
@@ -2705,7 +2705,7 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Operadora errada?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"Sua operadora atual: "</string>
     <string name="guide_quck_open">Ativar</string>
-    <string name="guide_second_text">Após você definir a sua operadora, a MIUI monitorará seu uso diário de dados enviando um SMS gratuito para a sua operadora. Quando a MIUI detectar que você excedeu o limite do seu plano de dados, ele irá desconectá-lo da rede e o notificará.</string>
+    <string name="guide_second_text">Após você definir a sua operadora, o HyperOS monitorará seu uso diário de dados enviando um SMS gratuito para a sua operadora. Quando o HyperOS detectar que você excedeu o limite do seu plano de dados, ele irá desconectá-lo da rede e o notificará.</string>
     <string name="guide_wait_setting">Agora não</string>
     <string name="handle_bar_summary_wifi_unknown">Desconhecido</string>
     <string name="handle_bar_title_system">Sistema</string>
@@ -2840,7 +2840,7 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="load_only_under_wlan">Carregar apenas em Wi-Fi</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_text_format" formatted="false">Verificando se as fotos contêm informações pessoais %d/%d</string>
-    <string name="local_ip_exception_summary">Não foi possível obter o endereço de IP local. Para relatar este erro à equipe de desenvolvimento da MIUI, vá para o app Relatar Erro e envie um registro de seu dispositivo.</string>
+    <string name="local_ip_exception_summary">Não foi possível obter o endereço de IP local. Para relatar este erro à equipe de desenvolvimento do HyperOS, vá para o app Relatar Erro e envie um registro de seu dispositivo.</string>
     <string name="lock_all_title">Bloquear todos os apps</string>
     <string name="lock_mode_title">Configurações de bloqueio</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s usado(s) na Tela de bloqueio</string>
@@ -3078,8 +3078,8 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="midnight">"AM"</string>
     <string name="midrop_post_notification_contentText">Transfira arquivos em velocidades de até 50Mbps no Mi Drop.</string>
     <string name="midrop_post_notification_contentTitle">Precisa compartilhar arquivos?</string>
-    <string name="miui_optimization_close_final_tip">Desativar a otimização MIUI?</string>
-    <string name="miui_optimization_close_title">Este recurso é destinado a desenvolvedores e pode não ser conveniente para usuários em geral. Desativar a otimização MIUI pode acarretar nas seguintes mudanças:</string>
+    <string name="miui_optimization_close_final_tip">Desativar a otimização HyperOS?</string>
+    <string name="miui_optimization_close_title">Este recurso é destinado a desenvolvedores e pode não ser conveniente para usuários em geral. Desativar a otimização HyperOS pode acarretar nas seguintes mudanças:</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -3284,7 +3284,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="network_speed_for_apps_title">Conexão</string>
     <string name="network_speed_for_apps_total">Velocidade da conexão</string>
     <string name="network_test_speed">Testar velocidade do Wi-Fi</string>
-    <string name="network_traffic_warning_text">A MIUI não pode calcular as estatísticas de uso de dados para apps de sistema individuais aqui. Você conseguirá ver as informações de uso de dados nos detalhes do app caso ele esteja usando dados móveis ativamente.</string>
+    <string name="network_traffic_warning_text">O HyperOS não pode calcular as estatísticas de uso de dados para apps de sistema individuais aqui. Você conseguirá ver as informações de uso de dados nos detalhes do app caso ele esteja usando dados móveis ativamente.</string>
     <string name="network_traffic_warning_title">Uso de dados para apps do sistema</string>
     <string name="networkchanged_exception_summary">A conexão de rede foi alterada. Por favor teste novamente.</string>
     <string name="networkchanged_exception_title">Conexão alterada</string>
@@ -3492,7 +3492,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="optimize_result_button_to_set">Definir</string>
     <string name="optimize_result_button_update_now">Atualizar</string>
     <string name="optimize_result_summary_sucurity_risk">Alguns recursos de segurança estão desativados. Ative estes recursos para tornar seu dispositivo mais seguro:</string>
-    <string name="optimize_result_summary_system_default_settings">Usar os apps padrão da MIUI aumentam os níveis de estabilidade e segurança do sistema.</string>
+    <string name="optimize_result_summary_system_default_settings">Usar os apps padrão do HyperOS aumentam os níveis de estabilidade e segurança do sistema.</string>
     <string name="optimize_result_title_sucurity_risk">Riscos de segurança encontrados</string>
     <string name="optimize_result_title_system_default_settings">As configurações padrão do sistema foram alteradas</string>
     <string name="optimize_result_title_uninstall_apps">Desinstalar apps</string>
@@ -3594,7 +3594,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_fast_charge_notifi_switch_title">Notificar sobre aumento</string>
     <string name="pc_fast_charge_notifi_title">Carregando a %d W</string>
     <string name="pc_fast_charge_notifi_title_on">Pare de aumentar a velocidade de carregamento</string>
-    <string name="pc_fast_charge_switch_summary">Ative para acelerar o processo de carregamento. A MIUI irá priorizar a velocidade de carregamento, garantindo a segurança do seu dispositivo. Quanto menor for a capacidade da bateria, mais rápido ela será carregada. Este recurso pode aquecer seu dispositivo.</string>
+    <string name="pc_fast_charge_switch_summary">Ative para acelerar o processo de carregamento. O HyperOS irá priorizar a velocidade de carregamento, garantindo a segurança do seu dispositivo. Quanto menor for a capacidade da bateria, mais rápido ela será carregada. Este recurso pode aquecer seu dispositivo.</string>
     <string name="pc_fast_charge_switch_summary_new">Lembre-se de aumentar a velocidade de carregamento quando o carregador fornecido estiver conectado e a bateria ficar abaixo do nível definido</string>
     <string name="pc_fast_charge_switch_title">Aumente a velocidade de carregamento</string>
     <string name="pc_fast_charge_switch_toast_message">As alterações serão aplicadas no próximo carregamento do dispositivo</string>
@@ -3714,7 +3714,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_dont_disturb">Esta permissão permite que os apps ativem e desativem o modo Não perturbe.</string>
     <string name="permission_instruction_draw_overlay">Esta permissão permite que os apps exibam janelas flutuantes sobre qualquer outra interface em seu dispositivo, o que pode afetar o uso normal de outros apps. Apps maliciosos podem usar esta permissão para ler ou coletar informações pessoais (por exemplo, senhas) através de janelas flutuantes transparentes.</string>
     <string name="permission_instruction_external_storage">Esta permissão permite que apps acessem fotos, mídias e arquivos em seu dispositivo. Tenha cuidado com esta permissão para evitar divulgação desnecessária de informações pessoais.</string>
-    <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, a MIUI para proteger sua privacidade permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
+    <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, o HyperOS para proteger sua privacidade permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
     <string name="permission_instruction_get_accounts">Esta permissão permite aos apps acessar a lista de contas armazenadas em seu dispositivo. Esta lista pode conter todas as suas contas pessoais criadas pelos apps instalados, assim como as contas de plataformas de mídia social e ferramentas de comunicação.</string>
     <string name="permission_instruction_get_identifier">Acessar o identificador de dispositivo</string>
     <string name="permission_instruction_install_shortcuts">Esta permissão permite que os apps criem atalhos para a Tela inicial.</string>
@@ -3751,8 +3751,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_send_sms">Esta permissão permite que os apps enviem mensagens de texto, o que pode gerar taxas adicionais. Os apps maliciosos podem usar esta permissão para enviar mensagens pagas sem seu consentimento.</string>
     <string name="permission_instruction_shake">"Esta permissão permite que os apps rastreiem a orientação e o movimento do seu dispositivo (por exemplo, agitação, inclinação e rotação)"</string>
     <string name="permission_instruction_show_locked">Esta permissão permite que os apps exibam itens em sua Tela de bloqueio. Apps maliciosos podem usar esta permissão para mostrar anúncios irritantes.</string>
-    <string name="permission_instruction_sociality">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
-    <string name="permission_instruction_storage">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os itens em sua Galeria e os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
+    <string name="permission_instruction_sociality">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade o HyperOS permite que você decida se também deseja que esses apps acessem os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
+    <string name="permission_instruction_storage">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade o HyperOS permite que você decida se também deseja que esses apps acessem os itens em sua Galeria e os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
     <string name="permission_instruction_touch_pay">Esta permissão permite que os apps realizem pagamentos sem contato.</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Transferir dados para outros dispositivos</string>
     <string name="permission_instruction_use_sip">Esta permissão permite que os apps utilizem os serviços de vídeo SIP.</string>
@@ -3851,7 +3851,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_dialog_msg_bottom">Você pode aumentar a duração da bateria em até %1$d h e %2$d min. Ativar a Economia de bateria?</string>
     <string name="power_center_dialog_msg_title">Ative para obter %1$s de tempo extra. As seguintes ações serão executadas para economizar bateria:</string>
     <string name="power_center_dialog_msg_title_screen_on">"Você terá %1$s de tempo de tela se ativar esse recurso. Aqui estão as medidas que vão economizar bateria:"</string>
-    <string name="power_center_dialog_msg_top">Quando a Economia de bateria está ativada, a MIUI efetuará as seguintes otimizações:</string>
+    <string name="power_center_dialog_msg_top">Quando a Economia de bateria está ativada, o HyperOS efetuará as seguintes otimizações:</string>
     <string name="power_center_hints_scan_danger_result">Você pode corrigir problemas de bateria agora</string>
     <string name="power_center_list_item_auto_brightness">Ajustar brilho da tela automaticamente</string>
     <string name="power_center_list_item_battery_status_time">"h"</string>
@@ -3869,7 +3869,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_night_charge_noti_title">O carregamento otimizado está ativado</string>
     <string name="power_center_night_charge_protection">Carregamento otimizado</string>
     <string name="power_center_night_charge_protection_setting">Veja mais opções em Segurança > Bateria.</string>
-    <string name="power_center_night_charge_protection_summary">A MIUI aprende com sua rotina diária de carregamento, para reduzir o carregamento contínuo desnecessário e assim aumentar a vida útil da bateria</string>
+    <string name="power_center_night_charge_protection_summary">O HyperOS aprende com sua rotina diária de carregamento, para reduzir o carregamento contínuo desnecessário e assim aumentar a vida útil da bateria</string>
     <string name="power_center_one_key_save">Otimizar</string>
     <string name="power_center_ontime_boot">Horário para ligar</string>
     <string name="power_center_ontime_shutdown">Horário para desligar</string>
@@ -3952,7 +3952,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_consume_software_total_format">"Apps: %s"</string>
     <string name="power_customize_giveup_change">Descartar alterações?</string>
     <string name="power_dailog_night_charge_protection_done">Entendi</string>
-    <string name="power_dailog_night_charge_protection_summary">Parece que a bateria está totalmente carregada na maior parte do tempo, o que pode diminuir sua vida útil. A MIUI ativou o carregamento otimizado para você evitar tais problemas.</string>
+    <string name="power_dailog_night_charge_protection_summary">Parece que a bateria está totalmente carregada na maior parte do tempo, o que pode diminuir sua vida útil. O HyperOS ativou o carregamento otimizado para você evitar tais problemas.</string>
     <string name="power_dialog_cancel">Cancelar</string>
     <string name="power_dialog_ok">"OK"</string>
     <string name="power_dialog_performance_mode_checkbox">Alternar para taxa de atualização de %d Hz</string>
@@ -4104,7 +4104,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_app_permission_settings">Permissões dos apps</string>
     <string name="pp_app_permission_settings_detail">Permite que apps usem permissões relacionadas à privacidade</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Proteger a área de transferência</string>
-    <string name="pp_app_reads_clipboard_smart_reminder_detail">"A MIUI decidirá se os apps têm permissão para acessar sua área de transferência. Quando isso acontecer, você receberá uma notificação."</string>
+    <string name="pp_app_reads_clipboard_smart_reminder_detail">"O HyperOS decidirá se os apps têm permissão para acessar sua área de transferência. Quando isso acontecer, você receberá uma notificação."</string>
     <string name="pp_app_warning_permission_tips">Comportamento dos apps</string>
     <string name="pp_app_warning_permission_tips_detail">Receba notificações quando os apps acessarem sua localização, gravarem áudio ou usarem a câmera</string>
     <string name="pp_block_mac">Restringir o acesso ao endereço MAC</string>
@@ -4129,7 +4129,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_interception_net_visit_content_manager">Proteger a Galeria e apps de rede social</string>
     <string name="pp_interception_net_visit_content_manager_detail">Selecione quais apps têm permissão para acessar a sua Galeria e os arquivos de apps de redes sociais</string>
     <string name="pp_lab_compact_blur_location">Apps acessando a localização aproximada</string>
-    <string name="pp_lab_compact_blur_location_summary">"Selecione \"Padrão\" para usar a funcionalidade de localização aproximada do Android ou \"Todos\" para alternar para MIUI."</string>
+    <string name="pp_lab_compact_blur_location_summary">"Selecione \"Padrão\" para usar a funcionalidade de localização aproximada do Android ou \"Todos\" para alternar para HyperOS."</string>
     <string name="pp_local_msg">Informações de localização</string>
     <string name="pp_manage_apps_location_information">Permite que apps acessem sua localização</string>
     <string name="pp_manage_track">Monitorar rastreadores</string>
@@ -4147,7 +4147,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_privacy_lab_blur_location">Localização aproximada</string>
     <string name="pp_privacy_lab_blur_location_summary">Permite que os apps acessem sua localização aproximada ao invés da real</string>
     <string name="pp_privacy_lab_clipboard">Proteger a área de transferência</string>
-    <string name="pp_privacy_lab_clipboard_summary">Permite que a MIUI decida se um app pode acessar a área de transferência e receber notificações quando isso acontecer</string>
+    <string name="pp_privacy_lab_clipboard_summary">Permite que o HyperOS decida se um app pode acessar a área de transferência e receber notificações quando isso acontecer</string>
     <string name="pp_privacy_lab_operator_get_number">Necessário aprovação para acessar o número de telefone</string>
     <string name="pp_privacy_lab_operator_get_number_summary">Exige que os apps solicitem sua permissão quando quiserem acessar seu número de telefone para fazer login</string>
     <string name="pp_privacy_lab_operator_introduction">Atenção!</string>
@@ -4185,7 +4185,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="precise_location_title">Localização precisa</string>
     <string name="pref_about_traffic_title">Configurações do uso de dados</string>
     <string name="pref_adjust_data_usage">Modelo de mensagem da operadora</string>
-    <string name="pref_adjust_data_usage_summary">Após você alterar o modelo de calibração, a MIUI irár usá-lo para obter as estatísticas de uso de dados com a sua operadora</string>
+    <string name="pref_adjust_data_usage_summary">Após você alterar o modelo de calibração, o HyperOS irár usá-lo para obter as estatísticas de uso de dados com a sua operadora</string>
     <string name="pref_adjust_traffic_data">Insira a quantidade de dados usado</string>
     <string name="pref_allow_connect_network_title">Roaming de dados internacional</string>
     <string name="pref_auto_adjust_traffic">Ajustar estatísticas de dados automaticamente</string>
@@ -4234,7 +4234,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pref_roaming_setting_gategory">Configurações</string>
     <string name="pref_special_package_setting">Plano de dados personalizado</string>
     <string name="pref_special_package_setting_summary">Gerencie dados fora do limite, pacotes de recarga e dados designados</string>
-    <string name="pref_summary_upload_data_usage">Reporte as suas informações de uso de dados para nos ajudar a melhorar os serviços MIUI. O processo de relatório será executado de acordo com a nossa Política de Privacidade.</string>
+    <string name="pref_summary_upload_data_usage">Reporte as suas informações de uso de dados para nos ajudar a melhorar os serviços HyperOS. O processo de relatório será executado de acordo com a nossa Política de Privacidade.</string>
     <string name="pref_title_declaration">Aviso importante</string>
     <string name="pref_title_diagnostics_show_float_notification">Notificações flutuantes</string>
     <string name="pref_title_manual_check_virus_db_update">Procurar atualizações</string>
@@ -4307,15 +4307,15 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_dialog_call_item_1">Acessar informações do dispositivo</string>
     <string name="privacy_dialog_call_item_2">Fazer chamadas</string>
     <string name="privacy_dialog_call_item_3">Acessar o status do dispositivo</string>
-    <string name="privacy_dialog_call_message">Por padrão, a MIUI não permite que apps de terceiros façam o seguinte:</string>
+    <string name="privacy_dialog_call_message">Por padrão, o HyperOS não permite que apps de terceiros façam o seguinte:</string>
     <string name="privacy_dialog_call_result">Você ainda poderá usar apps e serviços de terceiros normalmente. No entanto, se você encontrar algum problema, sinta-se à vontade para nos enviar uma mensagem.</string>
     <string name="privacy_dialog_call_title">Proteger chamadas</string>
-    <string name="privacy_dialog_camera_message">Para proteger a sua privacidade, a MIUI não permite que apps usem a sua câmera em 2º plano.</string>
+    <string name="privacy_dialog_camera_message">Para proteger a sua privacidade, o HyperOS não permite que apps usem a sua câmera em 2º plano.</string>
     <string name="privacy_dialog_camera_title">Restringir uso de câmera em 2º plano</string>
     <string name="privacy_dialog_content_part1">Bem-vindo à Segurança! Este app verifica seu dispositivo em busca de lixo e vírus, além de permitir que você gerencie apps, controle o uso de dados móveis, bloqueie chamadas e mensagens e muito mais.</string>
     <string name="privacy_dialog_content_part2"><Data>O app Segurança precisa coletar informações pessoais necessárias para lhe fornecer seus serviços e para poder aprimorar os seus recursos. Você pode saber mais sobre como gerenciamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento à Política de Privacidade do app Segurança a qualquer momento nas Configurações.</Data></string>
     <string name="privacy_dialog_content_part3"><Data>Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o app Segurança. Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, a sua funcionalidade básica ainda estará disponível para você.</Data></string>
-    <string name="privacy_dialog_danger_mission_message">O Android possui várias permissões de alto risco (ex.: a permissão para enviar notificações push para você). Para proteger a sua privacidade, a MIUI perguntará se você permite tais comportamentos, e fornecerá opções de restrição.</string>
+    <string name="privacy_dialog_danger_mission_message">O Android possui várias permissões de alto risco (ex.: a permissão para enviar notificações push para você). Para proteger a sua privacidade, o HyperOS perguntará se você permite tais comportamentos, e fornecerá opções de restrição.</string>
     <string name="privacy_dialog_danger_mission_title">Permissões de alto risco</string>
     <string name="privacy_dialog_feedback">"Feedback"</string>
     <string name="privacy_dialog_message">Quando você se conecta à Internet, esta mensagem juntamente com informações de sua operadora serão criptografadas e enviadas para servidores da Mi para nos ajudar a melhorar o monitoramento de uso de dados.</string>
@@ -4353,7 +4353,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_flares_recent_detail_more">Usou uma permissão sensível</string>
     <string name="privacy_global_guide_permission_guide_text">Você receberá um alerta na barra de status quando os apps gravarem áudio ou usarem a câmera. Para saber qual app fez isso, toque no alerta.</string>
     <string name="privacy_guide_permission_guide_text">Você pode receber um alerta na barra de status quando apps acessarem sua localização, gravarem áudio ou tirarem fotos.</string>
-    <string name="privacy_guide_permission_use_text">A MIUI contará e exibirá o número de vezes que um app usa permissões sensíveis, incluindo localização, contatos, histórico de chamadas e acesso ao armazenamento, assim como a gravação de áudio. Você poderá saber quantas vezes cada app usa essas permissões e determinar se você precisa ajustar suas configurações de permissão.</string>
+    <string name="privacy_guide_permission_use_text">O HyperOS contará e exibirá o número de vezes que um app usa permissões sensíveis, incluindo localização, contatos, histórico de chamadas e acesso ao armazenamento, assim como a gravação de áudio. Você poderá saber quantas vezes cada app usa essas permissões e determinar se você precisa ajustar suas configurações de permissão.</string>
     <string name="privacy_hide_other_permissions">Ocultar outras permissões</string>
     <string name="privacy_informed_title">Estatísticas</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Protegido</string>
@@ -4370,7 +4370,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_look_all_permission_times">Todos os apps</string>
     <string name="privacy_look_privacy">Política de Privacidade</string>
     <string name="privacy_manage_title">Gerenciar</string>
-    <string name="privacy_mask_summary">Em vez do seu identificador real, a MIUI fornecerá um identificador virtual (OAID) a apps de terceiros. Ele evita que os apps rastreiem o seu comportamento e preferências, e protege a sua privacidade.</string>
+    <string name="privacy_mask_summary">Em vez do seu identificador real, o HyperOS fornecerá um identificador virtual (OAID) a apps de terceiros. Ele evita que os apps rastreiem o seu comportamento e preferências, e protege a sua privacidade.</string>
     <string name="privacy_mask_title">ID Virtual ativada</string>
     <string name="privacy_mode_dialog_title">Modo convidado</string>
     <string name="privacy_more_info_title">Saiba mais sobre os recursos de proteção de privacidade</string>
@@ -4402,9 +4402,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_pop_record">Gravou áudio hoje</string>
     <string name="privacy_pop_storage">Acessou o armazenamento hoje</string>
     <string name="privacy_prompt_tc_sms_report_message">Seu número de telefone e detalhes da operadora serão encriptados e enviados para os servidores da Mi para atualizar suas informações de uso de dados.</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Após iniciar a calibração, a MIUI irá conectar-se à rede e codificar a suas informação de operadora, número de telefone, IMEI, Conta Mi, e enviar estes itens para servidores Mi. Isto é feito para adquirir os modelos de calibração da operadora e aprender se possível a comprar dados na sua localização.
+    <string name="privacy_prompt_traffic_adjust_message">"Após iniciar a calibração, o HyperOS irá conectar-se à rede e codificar a suas informação de operadora, número de telefone, IMEI, Conta Mi, e enviar estes itens para servidores Mi. Isto é feito para adquirir os modelos de calibração da operadora e aprender se possível a comprar dados na sua localização.
 
-Enquanto calibra, a MIUI irá enviar uma mensagem de texto para receber os modelos de calibração."</string>
+Enquanto calibra, o HyperOS irá enviar uma mensagem de texto para receber os modelos de calibração."</string>
     <string name="privacy_prompt_upload">Enviar</string>
     <string name="privacy_protect_summary">Proteja suas informações pessoais</string>
     <string name="privacy_protect_title">Proteção de privacidade</string>
@@ -4513,7 +4513,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_show_password_summary">Manter senhas visíveis por um curto período de tempo</string>
     <string name="privacy_special_permission_summary">Monitore como apps usam permissões sensíveis</string>
     <string name="privacy_special_permission_title">Permissões especiais</string>
-    <string name="privacy_summary">Saiba mais sobre a proteção de privacidade na MIUI</string>
+    <string name="privacy_summary">Saiba mais sobre a proteção de privacidade no HyperOS</string>
     <string name="privacy_thumbnail_blur_category_financial">Finanças</string>
     <string name="privacy_thumbnail_blur_category_other">Outros</string>
     <string name="privacy_thumbnail_blur_category_photography">Foto e vídeo</string>
@@ -4542,7 +4542,7 @@ Retirar consentimento agora?"</string>
     <string name="protect_screen_information">Sua tela está protegida</string>
     <string name="protect_screen_information_detail">Você não poderá fazer uma captura de tela ou gravar sua tela enquanto estiver digitando.</string>
     <string name="protocol_exception_title">Diagnóstico de protocolos de rede</string>
-    <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, selecione o app Feedback para enviar um registro a partir do seu dispositivo.</string>
+    <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema ao HyperOS, selecione o app Feedback para enviar um registro a partir do seu dispositivo.</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_next">Avançar</string>
     <string name="provision_skip_underline">Pular</string>
@@ -4661,7 +4661,7 @@ Retirar consentimento agora?"</string>
     <string name="safe_result_item_info_system_antivirus">Proteção contra vírus de phishing</string>
     <string name="safe_result_item_info_system_root">Root seguro</string>
     <string name="safe_result_item_info_system_scan">Monitoramento de pagamentos ativado</string>
-    <string name="safe_result_item_info_system_version">A MIUI está atualizada</string>
+    <string name="safe_result_item_info_system_version">O HyperOS está atualizado</string>
     <string name="safepay_alert_dialog_button_continue">Continuar</string>
     <string name="safepay_alert_dialog_button_fix">Corrigir</string>
     <string name="saturday">Sábado</string>
@@ -4759,7 +4759,7 @@ Retirar consentimento agora?"</string>
     <string name="settings_privacy_revoke_desc">Ao desativar o seletor, você estará retirando o seu consentimento à Política de Privacidade do app Segurança.</string>
     <string name="settings_privacy_revoke_title">Retirada de consentimento</string>
     <string name="settings_privacy_settings_title">Privacidade</string>
-    <string name="settings_share_enable_summary">Os itens que você compartilha no WeChat aparecerão com um emblema da MIUI</string>
+    <string name="settings_share_enable_summary">Os itens que você compartilha no WeChat aparecerão com um emblema do HyperOS</string>
     <string name="settings_share_info">Aqui estão as opções de compartilhamento seguro disponíveis para itens compartilhados da Galeria e dos Arquivos:</string>
     <string name="settings_show_detail">Ver detalhes</string>
     <string name="settings_tip">Vá em Galeria > Configurações para ver mais opções</string>
@@ -4949,7 +4949,7 @@ Retirar consentimento agora?"</string>
     <string name="sp_lock_screen_password_summary">Defina o bloqueio de tela</string>
     <string name="sp_lock_screen_password_title">Bloqueio de tela</string>
     <string name="sp_micare_summary">Segurança pessoal</string>
-    <string name="sp_micare_title">Centro de Alerta MIUI</string>
+    <string name="sp_micare_title">Centro de Alerta HyperOS</string>
     <string name="sp_monitored_apps_count_zero">Nenhum app de pagamento protegido</string>
     <string name="sp_monitored_apps_list_title">Segurança de pagamento</string>
     <string name="sp_more_security_settings">Configurações adicionais</string>
@@ -5317,7 +5317,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="suggest_to_use_mi_sim">Use o Mi Chip para evitar cobranças adicionais da operadora.</string>
     <string name="summary_app_lock_disable">Proteja seus dados com o Bloqueio de apps</string>
     <string name="summary_app_update_new">Atualize os apps para acessar novos recursos</string>
-    <string name="summary_auto_update">A MIUI selecionará o horário mais propício para baixar e instalar atualizações.</string>
+    <string name="summary_auto_update">O HyperOS selecionará o horário mais propício para baixar e instalar atualizações.</string>
     <string name="summary_background_connection">Você restringiu a conexão em segundo plano para este app.</string>
     <string name="summary_block_calls_from_cantacts">Chamadas de contatos estão bloqueadas.</string>
     <string name="summary_block_calls_from_strangers">Chamadas de desconhecidos estão bloqueadas.</string>
@@ -5532,7 +5532,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tc_sms_report_get_sms_successs">Informação de uso de dados atualizada com sucesso</string>
     <string name="tc_sms_report_get_sms_timeout">Tempo limite atingido</string>
     <string name="tc_sms_report_get_success">SMS do relatório de uso de dados da operadora recebido. Certifique-se de que ele está correto e envie-o para nós.</string>
-    <string name="tc_sms_report_get_success_notify_body">Certifique-se de que o relatório está correto e envie-o para a MIUI.</string>
+    <string name="tc_sms_report_get_success_notify_body">Certifique-se de que o relatório está correto e envie-o para o HyperOS.</string>
     <string name="tc_sms_report_get_success_notify_title">SMS do relatório de uso de dados recebido</string>
     <string name="tc_sms_report_geting_sms">Obtendo informações de SMS…</string>
     <string name="tc_sms_report_notify_correction_body">Vá para o app de Uso de dados na Central de Segurança e tente ver manualmente.</string>
@@ -5543,7 +5543,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tc_sms_report_notify_get_timeout_body">O processo expirou. Confirme com a sua operadora se o código de requisição SMS que você inseriu está correto.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Não é possível obter SMS de uso de dados</string>
     <string name="tc_sms_report_receive_content">Conteúdo do SMS de relatório de uso de dados (Confirme as estatísticas de uso)</string>
-    <string name="tc_sms_report_receive_content_null">Ajude a melhorar este recurso!&lt;br/>Veja como:&lt;br/>1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/>2. Toque \"Obter modelo SMS\"&lt;br/>3. Aguarde até receber uma mensagem da sua operadora &lt;br/>4. Toque \"Enviar para a MIUI\"</string>
+    <string name="tc_sms_report_receive_content_null">Ajude a melhorar este recurso!&lt;br/>Veja como:&lt;br/>1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/>2. Toque \"Obter modelo SMS\"&lt;br/>3. Aguarde até receber uma mensagem da sua operadora &lt;br/>4. Toque \"Enviar para o HyperOS\"</string>
     <string name="tc_sms_report_receive_num">Número do destinatário</string>
     <string name="tc_sms_report_send_num">Telefone da operadora</string>
     <string name="tc_sms_report_summary">Ajude-nos a melhorar este recurso através do envio de um relatório quando a sua informação de utilização de dados estiver incorreta ou não atualizar.</string>
@@ -5629,7 +5629,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="thermal_tips_message">Jogar no Modo Desempenho pode causar aquecimento do dispositivo.</string>
     <string name="thermal_tips_title">Atenção!</string>
     <string name="third_application">App instalado</string>
-    <string name="third_desktop_dialog_content">Como apps de Launchers de terceiros podem causar problemas como vazamento de dados, drenagem de bateria anormal e lentidões de sistema, apenas os verificados pela MIUI podem ser definidos como o Launcher padrão.</string>
+    <string name="third_desktop_dialog_content">Como apps de Launchers de terceiros podem causar problemas como vazamento de dados, drenagem de bateria anormal e lentidões de sistema, apenas os verificados pelo HyperOS podem ser definidos como o Launcher padrão.</string>
     <string name="third_desktop_dialog_ok">Entendi</string>
     <string name="third_desktop_dialog_title">Erro</string>
     <string name="three_percent_total_pkg">%s (3%% dos dados mensais)</string>
@@ -5713,7 +5713,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_limit_traffic_per_day">Limite diário de uso de dados</string>
     <string name="title_mifi_insurance">Garantia estendida</string>
     <string name="title_miui_update">Atualização disponível</string>
-    <string name="title_miui_update_latest">A MIUI está atualizada</string>
+    <string name="title_miui_update_latest">O HyperOS está atualizado</string>
     <string name="title_mms_no">O filtro de mensagens está desativado</string>
     <string name="title_mms_yes">O filtro de mensagens está ativado</string>
     <string name="title_network_switch">Conexão de rede</string>
@@ -6085,7 +6085,7 @@ Experimente interpolar a resolução!"</string>
     <string name="warningcenter_action_check">Visualizar</string>
     <string name="warningcenter_alert_home">Localização</string>
     <string name="warningcenter_alert_room">Quarto</string>
-    <string name="warningcenter_alert_source">Centro de Alertas MIUI | Fonte de dados: %s</string>
+    <string name="warningcenter_alert_source">Centro de Alertas HyperOS | Fonte de dados: %s</string>
     <string name="warningcenter_alert_time">Hora</string>
     <string name="warningcenter_alert_warning_time">Hora recebida: %s</string>
     <string name="warningcenter_disaster_all">Todos os alertas</string>
@@ -6175,7 +6175,7 @@ Experimente interpolar a resolução!"</string>
     <string name="warningcenter_policeassist_privacy"><Data>"Eu li e concordei com &lt;a href=\"%1$s\">Contrato de Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>."</Data></string>
     <string name="warningcenter_policeassist_title">Localização de emergência</string>
     <string name="warningcenter_smarthome">"Mi Home"</string>
-    <string name="warningcenter_title">Centro de Alertas MIUI</string>
+    <string name="warningcenter_title">Centro de Alertas HyperOS</string>
     <string name="website">Site</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>

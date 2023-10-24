@@ -71,7 +71,7 @@
     <string name="carousel_setting">Configurar sua Tela de bloqueio</string>
     <string name="carousel_setting_sub">O Carrossel de planos de fundo mostrará novas histórias toda vez que você desbloquear seu dispositivo</string>
     <string name="carrier_introduction">Para lhe fornecer melhores serviços, o seu dispositivo pode enviar periodicamente informações sobre a versão do dispositivo, dados de identificação do dispositivo (incluindo o endereço IMEI/IMSI/MSISDN/MAC, MEID/ICCID) e informações aproximadas de localização (incluindo ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS grátis. A operadora se compromete a analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas, e não divulgará informações relevantes a terceiros de nenhuma forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo do uso deste serviço.</string>
-    <string name="carrier_introduction_china">Para lhe fornecer melhores serviços, os processos em execução no seu dispositivo (incluindo SystemHelper, RegService e Carrier Services) podem enviar periodicamente as informações relacionadas do seu dispositivo e cartão SIM (incluindo IMEI, IMSI, MSISDN, MEID, ICCID, endereço MAC, versão da MIUI, versão do Android, modelo do dispositivo e especificações básicas de hardware), bem como informações de localização aproximada (incluindo região, coordenadas, identificador de área e ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS gratuito. A operadora promete analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas e não divulgará informações relevantes a terceiros de qualquer forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo de utilização deste serviço.</string>
+    <string name="carrier_introduction_china">Para lhe fornecer melhores serviços, os processos em execução no seu dispositivo (incluindo SystemHelper, RegService e Carrier Services) podem enviar periodicamente as informações relacionadas do seu dispositivo e cartão SIM (incluindo IMEI, IMSI, MSISDN, MEID, ICCID, endereço MAC, versão do HyperOS, versão do Android, modelo do dispositivo e especificações básicas de hardware), bem como informações de localização aproximada (incluindo região, coordenadas, identificador de área e ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS gratuito. A operadora promete analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas e não divulgará informações relevantes a terceiros de qualquer forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo de utilização deste serviço.</string>
     <string name="check_box_label"><Data>"Ao ativar esse recurso, você concorda com a &lt;a href=%1$s>Política de Privacidade dos Serviços de Interconectividade da Xiaomi&lt;/a >."</Data></string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="clock_introduction">Você pode usar este app para ver as horas, bem como usar o timer, relógio mundial, cronômetro, definir alarmes, entre outros.</string>
@@ -133,7 +133,7 @@
     <string name="exclusive_member_merchandise">Mercadoria exclusiva</string>
     <string name="expand_button_title">Avançado</string>
     <string name="fast_application_introduction">A Estrutura de Quick apps permite que você crie e receba serviços dos quick apps.</string>
-    <string name="fast_pairing_introduction">O Mi Link permite que seu dispositivo se conecte a dispositivos Bluetooth próximos usando o Serviço Bluetooth MIUI. Para encontrar dispositivos próximos, permita que o Serviço Bluetooth MIUI conecte-se à Internet.</string>
+    <string name="fast_pairing_introduction">O Mi Link permite que seu dispositivo se conecte a dispositivos Bluetooth próximos usando o Serviço Bluetooth HyperOS. Para encontrar dispositivos próximos, permita que o Serviço Bluetooth HyperOS conecte-se à Internet.</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -172,8 +172,8 @@
     <string name="fmt_weekday_short">E</string>
     <string name="font_hint_large">Tamanho do texto padrão</string>
     <string name="font_hint_normal">Aumentar tamanho do texto</string>
-    <string name="framework_introduction">A Estrutura de Serviços Mi permite que você use a Conta Mi, o Mi Push, Mi Stats e o MIUI BI.</string>
-    <string name="framwork_base_service">Para lhe fornecer estes serviços, a Estrutura de Serviços Mi (Conta Mi, Mi Push, Mi Stats, MIUI BI) precisa se conectar à Internet, acessar sua localização, número de telefone, IMEI e IMSI, e permitir que seu dispositivo receba notificações push</string>
+    <string name="framework_introduction">A Estrutura de Serviços Mi permite que você use a Conta Mi, o Mi Push, Mi Stats e o HyperOS BI.</string>
+    <string name="framwork_base_service">Para lhe fornecer estes serviços, a Estrutura de Serviços Mi (Conta Mi, Mi Push, Mi Stats, HyperOS BI) precisa se conectar à Internet, acessar sua localização, número de telefone, IMEI e IMSI, e permitir que seu dispositivo receba notificações push</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -220,7 +220,7 @@ Para poder funcionar normalmente, esses serviços precisam se conectar à intern
 \u0009\u0009Gravar áudio
 \u0009\u0009Para transferir a reprodução de áudio para dispositivos conectados durante a transmissão
 Caso não concorde em conceder tais permissões, não poderá usar os Serviços de Interconectividade da Xiaomi.
-Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não estar disponíveis em todos os modelos de dispositivos ou para todas as versões do sistema. Consulte o site da MIUI (www.miui.com) para verificar a compatibilidade."</string>
+Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não estar disponíveis em todos os modelos de dispositivos ou para todas as versões do sistema. Consulte o site do HyperOS (www.miui.com) para verificar a compatibilidade."</string>
     <string name="interconnection_service_title">Serviços de Interconectividade Xiaomi</string>
     <string name="item_contents_wwarning">Se seu dispositivo for perdido, você não poderá impedir que outras pessoas o utilizem e acessem seus dados, a menos que defina um bloqueio de tela. Ignorar mesmo assim?</string>
     <string name="item_facerecognition">Desbloqueio facial</string>
@@ -341,7 +341,7 @@ Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não
     <string name="other_settings">Configurações adicionais</string>
     <string name="other_settings_ad_dialog_agree">Ativar</string>
     <string name="other_settings_ad_dialog_content">Quando a recomendação personalizada de anúncios está desativada, você ainda verá a mesma quantidade de anúncios de quando o recurso está ativo. Os anúncios, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais.</string>
-    <string name="other_settings_ad_dialog_content_for_global">"Quando as recomendações de anúncios personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios em apps do sistema Miui como quando o recurso estiver ativado. Os anúncios de plataformas Xiaomi e de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Quando as recomendações de anúncios personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios em apps do sistema HyperOS como quando o recurso estiver ativado. Os anúncios de plataformas Xiaomi e de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="other_settings_ad_dialog_disagree">Desativar</string>
     <string name="other_settings_ad_disable_summary">Ative para personalizar os anúncios</string>
     <string name="other_settings_ad_enable">Anúncios personalizados</string>
@@ -351,8 +351,8 @@ Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não
     <string name="other_settings_alarm_assistance_summary">"Você pode enviar suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga para os números 110, 120, 119 ou 122. Leia e concorde com nosso &lt;a href=\"%1$s\">Contrato de Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</string>
     <string name="other_settings_alarm_assistance_user">Contrato de Usuário</string>
     <string name="other_settings_auto_update">Atualizar automaticamente</string>
-    <string name="other_settings_auto_update_summary">A MIUI selecionará o melhor horário para baixar e instalar as atualizações. Seu dispositivo será reiniciado automaticamente para aplicar as mudanças.</string>
-    <string name="other_settings_auto_update_summary_v1">Permita que a MIUI selecione o melhor momento para baixar e instalar atualizações. Seu dispositivo será reinicializado automaticamente para aplicar as alterações.</string>
+    <string name="other_settings_auto_update_summary">O HyperOS selecionará o melhor horário para baixar e instalar as atualizações. Seu dispositivo será reiniciado automaticamente para aplicar as mudanças.</string>
+    <string name="other_settings_auto_update_summary_v1">Permita que o HyperOS selecione o melhor momento para baixar e instalar atualizações. Seu dispositivo será reinicializado automaticamente para aplicar as alterações.</string>
     <string name="other_settings_enhanced_lockscreen">Carrossel de Planos de fundo</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Glance para Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Política de Privacidade</string>
@@ -363,18 +363,18 @@ Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não
 Você pode desativar as atualizações automáticas em GetApps > Configurações > Atualizações automáticas."</string>
     <string name="other_settings_location">Localização</string>
     <string name="other_settings_location_summary">Permite que os apps e sites acessem suas informações de localização para fornecer serviços baseados na localização</string>
-    <string name="other_settings_quality_service">Permissões da MIUI Daemon</string>
-    <string name="other_settings_quality_service_summary">O MIUI Daemon é usado para melhorar a estabilidade e o desempenho do sistema. Para poder funcionar normalmente, este serviço precisa de permissões para acessar e salvar itens no armazenamento do dispositivo.</string>
-    <string name="other_settings_upload_debug_log_detail">"Ajude a melhorar a experiência do dispositivo MIUI enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema MIUI, e da estabilidade do app e muito mais.
-Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o usa (ex.: nível da bateria, atividade do sistema, dos apps e erros). Os dados serão usados para melhorar os dispositivos MIUI.
+    <string name="other_settings_quality_service">Permissões do HyperOS Daemon</string>
+    <string name="other_settings_quality_service_summary">O HyperOS Daemon é usado para melhorar a estabilidade e o desempenho do sistema. Para poder funcionar normalmente, este serviço precisa de permissões para acessar e salvar itens no armazenamento do dispositivo.</string>
+    <string name="other_settings_upload_debug_log_detail">"Ajude a melhorar a experiência do dispositivo HyperOS enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema HyperOS, e da estabilidade do app e muito mais.
+Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o usa (ex.: nível da bateria, atividade do sistema, dos apps e erros). Os dados serão usados para melhorar os dispositivos HyperOS.
 Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança.
 Você pode controlar esse recurso em Configurações > Senhas e segurança > Privacidade > Uso e diagnósticos."</string>
-    <string name="other_settings_upload_debug_log_summary">Ajude a melhorar a experiência do dispositivo MIUI enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema MIUI, e da estabilidade do app e muito mais.</string>
+    <string name="other_settings_upload_debug_log_summary">Ajude a melhorar a experiência do dispositivo HyperOS enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema HyperOS, e da estabilidade do app e muito mais.</string>
     <string name="other_settings_upload_debug_log_title">Enviar dados de uso e diagnóstico</string>
     <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
     <string name="other_settings_user_experience_summary">Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso e análises conosco.</string>
     <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
-    <string name="permission_MIUIDaemon_introduction">O Daemon MIUI permite que você transfira dados do seu dispositivo quando a tela está danificada.</string>
+    <string name="permission_MIUIDaemon_introduction">O HyperOS Daemon permite que você transfira dados do seu dispositivo quando a tela está danificada.</string>
     <string name="permission_access_calendar">Acessar o calendário</string>
     <string name="permission_access_calendar_fast_application_summary">Para permitir que apps acessem o calendário</string>
     <string name="permission_account">Acessar contas em seu dispositivo</string>
@@ -524,7 +524,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="service_interconnection_communication">Serviços de comunicação da Internet da Xioami</string>
     <string name="service_location_share_policy"><Data>Leia e concorde com a &lt;a href=%1$s>Declaração de privacidade dos serviços de localização&lt;/a > antes de continuar.</Data></string>
     <string name="service_mi_account">Conta Mi</string>
-    <string name="service_name_MIUIDaemon">Daemon MIUI</string>
+    <string name="service_name_MIUIDaemon">HyperOS Daemon</string>
     <string name="service_name_address_dialing">Contatos e telefone</string>
     <string name="service_name_album">Galeria</string>
     <string name="service_name_application_package">Instalador de pacotes</string>
@@ -560,7 +560,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="servicestate_title">Declaração de serviços básicos</string>
     <string name="setting_locale">Definindo região…</string>
     <string name="shut_down">Desligar</string>
-    <string name="sim_activation_introduction">O serviço de ativação do cartão SIM verifica as informações do cartão SIM inserido no momento para garantir que os serviços MIUI possam funcionar normalmente. Esses serviços incluem Encontrar dispositivo, Mi Mensagens, criar Contas Mi usando números de telefone e sincronizar mensagens e histórico de chamadas.</string>
+    <string name="sim_activation_introduction">O serviço de ativação do cartão SIM verifica as informações do cartão SIM inserido no momento para garantir que os serviços HyperOS possam funcionar normalmente. Esses serviços incluem Encontrar dispositivo, Mi Mensagens, criar Contas Mi usando números de telefone e sincronizar mensagens e histórico de chamadas.</string>
     <string name="sim_card_detecting">Procurando um cartão SIM…</string>
     <string name="sim_card_detecting_check">Não foi possível encontrar o cartão SIM. Certifique-se de que o cartão SIM está instalado corretamente e que você possui saldo suficiente.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Permitir a conexão às redes de dados móveis? Caso permita, o cartão SIM inserido será usado para conectar-se à redes de dados móveis.</string>
@@ -599,7 +599,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="terms_of_use">Termos e condições</string>
     <string name="terms_of_use_ble_htmlViewer">Fornecedor de Localização, Visualizador de HTML</string>
     <string name="terms_of_use_label">"Leia nosso Contrato do Usuário e a Política de Privacidade para entender quais informações nós coletamos, como as usamos e quais são as opções disponíveis para você.
-Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade antes de usar a MIUI.
+Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade antes de usar o HyperOS.
 %s e componentes da Conta Mi vão se conectar à internet e obterão a sua localização."</string>
     <string name="terms_of_use_label_MSA">"MSA"</string>
     <string name="terms_of_use_label_Mistore">Plugin de sistema Mi Store</string>
@@ -621,8 +621,8 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_landscape">funcionalidade de otimização de visualização de paisagem</string>
     <string name="terms_of_use_label_mab">"MAB"</string>
     <string name="terms_of_use_label_mi_account">Componentes da Conta Mi</string>
-    <string name="terms_of_use_label_miuiDaemon">"MIUI Daemon"</string>
-    <string name="terms_of_use_label_miuisdk">SDK da MIUI</string>
+    <string name="terms_of_use_label_miuiDaemon">"HyperOS Daemon"</string>
+    <string name="terms_of_use_label_miuisdk">SDK do HyperOS</string>
     <string name="terms_of_use_label_os">Configuração OS AI</string>
     <string name="terms_of_use_label_package">Instalador de pacotes</string>
     <string name="terms_of_use_label_parallel_windows">Janelas paralelas</string>
@@ -638,11 +638,11 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_translation">Serviço de tradução</string>
     <string name="terms_of_use_label_unionplay_security">Elemento seguro UnionPay TSM (versão Xiaomi)</string>
     <string name="terms_of_use_label_updater">Atualizações</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede e acessarão sua localização:</string>
-    <string name="terms_of_use_label_use_network_china">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede e acessarão sua localização:</string>
+    <string name="terms_of_use_label_use_network_china">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede:</string>
     <string name="terms_of_use_label_wallpaper">Plano de fundo</string>
-    <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Xiaomi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
+    <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Xiaomi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, HyperOS Daemon, Componentes de sistema MSA, Serviço de tradução, SDK do HyperOS, Quick apps, Assistente, Estatísticas, Mi Link</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, HyperOS Daemon, Componentes de sistema MSA, Serviço de tradução, SDK do HyperOS, Quick apps, Assistente, Estatísticas, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Você deve concordar com a Política de Privacidade do Facemoji antes de usar este recurso."</string>
@@ -711,11 +711,11 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="user_agreement">Contrato do Usuário</string>
-    <string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-    <string name="user_agreement_declare_gmscore">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Cartões inteligentes, gerenciador de permissões, ConfigUpdater e serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-    <string name="user_agreement_declare_v1">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões, Atualizador e Serviço de verificação de filtro de intenção se conectarão à rede. Cartões inteligentes, gerenciador de permissões e serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-    <string name="user_agreement_declare_wifi_device">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-    <string name="user_agreement_declare_wifi_device_gmscore">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare_gmscore">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Cartões inteligentes, gerenciador de permissões, ConfigUpdater e serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare_v1">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões, Atualizador e Serviço de verificação de filtro de intenção se conectarão à rede. Cartões inteligentes, gerenciador de permissões e serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare_wifi_device">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare_wifi_device_gmscore">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="voice_assist_advice">O Mi AI permite que você use controles por voz, mas ele consumirá mais energia (+1% a cada hora).</string>

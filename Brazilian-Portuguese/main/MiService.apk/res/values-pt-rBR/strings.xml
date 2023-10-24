@@ -91,7 +91,7 @@
     <string name="miservice_channel_boot_name">"boot"</string>
     <string name="miservice_channel_guide_name">guia</string>
     <string name="miservice_channel_update_notification_info">O \"Serviços e feedback\" está solicitando dados online…</string>
-    <string name="miservice_notification_boot_content">Saiba mais sobre o que a MIUI pode fazer</string>
+    <string name="miservice_notification_boot_content">Saiba mais sobre o que o HyperOS pode fazer</string>
     <string name="miservice_notification_huanji_content">Transfira-os usando o Mi Mover</string>
     <string name="miservice_notification_huanji_title">Tem arquivos importantes no seu telefone antigo?</string>
     <string name="miservice_notification_open_feedback_content">Todos os recursos do feedback foram movidos para um novo app</string>
@@ -118,7 +118,7 @@
     <string name="miui_feedback_edit_contact_info_hint">Número de telefone/E-mail</string>
     <string name="miui_feedback_edit_delete_images">Excluir imagens</string>
     <string name="miui_feedback_edit_desc_hint">Descreva o problema que você encontrou</string>
-    <string name="miui_feedback_edit_desc_hint_suggestion">Diga-nos como gostaria que melhorássemos a MIUI</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">Diga-nos como gostaria que melhorássemos o HyperOS</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Não saia ainda</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Descartar</string>
     <string name="miui_feedback_edit_discard_draft_dialog_content">Quaisquer alterações feitas neste relatório serão perdidas.</string>
@@ -155,8 +155,8 @@
     <string name="miui_feedback_edit_storage_permission_name">Acessar o armazenamento do dispositivo</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">Não aceitar</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Aceitar</string>
-    <string name="miui_feedback_edit_submit_dialog_content"><Data>"Você precisa aceitar a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a> para poder usar o Feedback. Os problemas que forem reportados, juntamente com itens anexados (que poderão conter informações pessoais, assim como informações sobre seu dispositivo e a rede) serão enviados aos servidores da MIUI. Isso nos ajudará a localizar e corrigir os problemas reportados."</Data></string>
-    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores da MIUI. Os logs podem conter informações pessoais e os seus dados de localização. Ao selecionar \"Aceitar\" você estará concordando com nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content"><Data>"Você precisa aceitar a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a> para poder usar o Feedback. Os problemas que forem reportados, juntamente com itens anexados (que poderão conter informações pessoais, assim como informações sobre seu dispositivo e a rede) serão enviados aos servidores do HyperOS. Isso nos ajudará a localizar e corrigir os problemas reportados."</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e os seus dados de localização. Ao selecionar \"Aceitar\" você estará concordando com nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">Não mostrar novamente</string>
     <string name="miui_feedback_edit_submit_dialog_title">Enviar relatório</string>
     <string name="miui_feedback_edit_submit_directly">Enviar</string>
@@ -191,12 +191,12 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_withdraw_consent_hint">"Se você continuar, retirará seu consentimento com a Política de Privacidade de %1$s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como %2$s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %3$s. Retirar consentimento agora?"</string>
     <string name="miui_guide_accessibility_image_desc">Imagem</string>
     <string name="miui_guide_clear_db_service">O \"Serviços e feedback\" está limpando o cache de idioma…</string>
-    <string name="miui_guide_footer_desc">O Guia do iniciante foi desenvolvido para lhe ajudar a aprender mais sobre seu dispositivo e a MIUI. Algumas imagens e vídeos no guia foram criados apenas para fins de referência e podem diferir do produto final. Os recursos descritos neste guia podem variar de acordo com o modelo do seu dispositivo, versão da MIUI e ambiente de uso.</string>
+    <string name="miui_guide_footer_desc">O Guia do iniciante foi desenvolvido para lhe ajudar a aprender mais sobre seu dispositivo e o HyperOS. Algumas imagens e vídeos no guia foram criados apenas para fins de referência e podem diferir do produto final. Os recursos descritos neste guia podem variar de acordo com o modelo do seu dispositivo, versão do HyperOS e ambiente de uso.</string>
     <string name="miui_guide_item_complete">Concluído</string>
     <string name="miui_guide_item_new">Novo</string>
     <string name="miui_guide_item_progress">Concluído(s) %1$d/%2$d</string>
     <string name="miui_guide_menu_privacy">Política de Privacidade</string>
-    <string name="miui_guide_top_bar_sub_title">Saiba o que a MIUI pode fazer</string>
+    <string name="miui_guide_top_bar_sub_title">Saiba o que o HyperOS pode fazer</string>
     <string name="miui_guide_top_bar_title">Guia do iniciante</string>
     <string name="miui_main_back">Voltar</string>
     <string name="miui_main_bottom_bar_feedback">"Feedback"</string>
@@ -235,10 +235,10 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_main_shortcut_label_submit_feedback">Enviar feedback</string>
     <string name="miui_main_update_back_to_home">Preparando Tela inicial…</string>
     <string name="miui_main_update_continue">Próximo</string>
-    <string name="miui_main_update_end_title">Bem-vindo à MIUI</string>
+    <string name="miui_main_update_end_title">Bem-vindo ao HyperOS</string>
     <string name="miui_main_update_learn_more">Saiba mais</string>
     <string name="miui_main_update_start">Atualizar agora</string>
-    <string name="miui_main_update_success_sub_title">Conheça a nova MIUI</string>
+    <string name="miui_main_update_success_sub_title">Conheça o novo HyperOS</string>
     <string name="miui_main_update_success_title">A vida fica mais fácil</string>
     <string name="miui_main_update_success_title_12">Unicamente seu</string>
     <string name="miui_main_update_success_title_12_5">Bem-vindo à MIUI 12.5</string>
@@ -339,7 +339,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="permission_imei_disable_desc">Permita que este app se conecte-se à Internet.</string>
     <string name="permission_imei_enable_desc">Permita que este app se conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
-    <string name="permission_main_purpose">Exibir demonstrações de recursos da MIUI, enviar feedback e solicitar serviços de pós-venda.</string>
+    <string name="permission_main_purpose">Exibir demonstrações de recursos do HyperOS, enviar feedback e solicitar serviços de pós-venda.</string>
     <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
     <string name="permission_region_version_msg">&lt;Data>Antes de usar o \"Serviços e feedback\", você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Selecionar todos</string>

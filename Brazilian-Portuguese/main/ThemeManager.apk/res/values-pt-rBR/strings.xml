@@ -507,7 +507,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="incall_show_remove_success">Vídeo de perfil removido com sucesso</string>
     <string name="incall_show_title">Vídeos de perfil</string>
     <string name="incompatible_dialog_cancel">Não aplicar</string>
-    <string name="incompatible_dialog_message">Este tema ainda não é totalmente compatível com esta versão da MIUI. Alguns itens podem não funcionar corretamente.</string>
+    <string name="incompatible_dialog_message">Este tema ainda não é totalmente compatível com esta versão do HyperOS. Alguns itens podem não funcionar corretamente.</string>
     <string name="incompatible_dialog_ok">"OK"</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
     <string name="install_clock">"Você ainda não instalou o Relógio. Baixar agora?"</string>
@@ -592,7 +592,7 @@ Toque para desativar."</string>
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione tempo</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
-    <string name="mi_wallpaper">Fundos da MIUI</string>
+    <string name="mi_wallpaper">Fundos do HyperOS</string>
     <string name="midnight">"AM"</string>
     <string name="mine_tab_not_login">"Entre para ver os itens.
 Toque aqui para entrar agora."</string>
@@ -627,7 +627,7 @@ dd 'de' MMM"</string>
     <string name="miuishare_account_login_ok">Fazer login</string>
     <string name="miuishare_account_need_activate">O compartilhamento no Weibo requer uma conta Weibo que está associada à sua Conta Mi. Ative a sua Conta Mi para continuar.</string>
     <string name="miuishare_account_need_login">O compartilhamento no Weibo requer uma conta Weibo que está associada à sua Conta Mi. Faça o login na sua Conta Mi para continuar.</string>
-    <string name="miuishare_app_name">Compartilhamento MIUI</string>
+    <string name="miuishare_app_name">Compartilhamento HyperOS</string>
     <string name="miuishare_mini_program_title">Veja o Plano de fundo que eu encontrei!</string>
     <string name="miuishare_no_network">Não foi possível conectar-se à rede.</string>
     <string name="miuishare_please_retry">Não foi possível obter as informações. Verifique suas configurações de rede e tente novamente.</string>
@@ -805,7 +805,7 @@ dd 'de' MMM"</string>
     <string name="online_precust_scenery">Cenário</string>
     <string name="online_search_hint">Pesquisar recursos online</string>
     <string name="order_list">Histórico de pedidos</string>
-    <string name="ota_recovery_theme_dialog_message">Alguns elementos do tema usado anteriormente podem não ser compatíveis com a nova versão da MIUI. Os elementos incompatíveis serão substituídos pelas opções padrão.</string>
+    <string name="ota_recovery_theme_dialog_message">Alguns elementos do tema usado anteriormente podem não ser compatíveis com a nova versão do HyperOS. Os elementos incompatíveis serão substituídos pelas opções padrão.</string>
     <string name="ota_recovery_theme_dialog_title">Restaurando tema original</string>
     <string name="ota_recovery_theme_notity_btn">Restaurar</string>
     <string name="ota_recovery_theme_notity_content">Você pode voltar ao tema que estava usando antes da atualização</string>
@@ -1093,8 +1093,8 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_exchange_has_used">O código digitado já foi usado.</string>
     <string name="resource_exchange_hint">Digite o código</string>
     <string name="resource_exchange_purchase_unkown_error">Ocorreu um erro desconhecido. Faça o login em http://market.xiaomi.com para ver o status do seu pagamento.</string>
-    <string name="resource_exchange_share_code_content">Você recebeu um vale-presente (%2$s) para o tema \"%1$s\" na Loja de Temas MIUI. Toque em %3$s para usá-lo agora.</string>
-    <string name="resource_exchange_share_code_dlg_content">Vale-presente para \"%1$s\": %2$s. Quando você enviar o código para outro usuário MIUI, ele poderá baixar este tema.</string>
+    <string name="resource_exchange_share_code_content">Você recebeu um vale-presente (%2$s) para o tema \"%1$s\" na Loja de Temas HyperOS. Toque em %3$s para usá-lo agora.</string>
+    <string name="resource_exchange_share_code_dlg_content">Vale-presente para \"%1$s\": %2$s. Quando você enviar o código para outro usuário HyperOS, ele poderá baixar este tema.</string>
     <string name="resource_exchange_share_code_dlg_title">Enviando</string>
     <string name="resource_exchange_success">Comprado com sucesso</string>
     <string name="resource_exchange_unavailable">Este item não está disponível.</string>
@@ -1421,7 +1421,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="theme_component_title_launcher">Barra de apps</string>
     <string name="theme_component_title_lockstyle">Estilo de bloqueio</string>
     <string name="theme_component_title_lockwallpaper">Tela de bloqueio</string>
-    <string name="theme_component_title_miwallpaper">Plano de fundo MIUI</string>
+    <string name="theme_component_title_miwallpaper">Plano de fundo HyperOS</string>
     <string name="theme_component_title_mms">Mensagens</string>
     <string name="theme_component_title_notification">Notificações</string>
     <string name="theme_component_title_others">Outros</string>
@@ -1665,7 +1665,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_subject_version">MI</string>
     <string name="warning_miui_optimization_closed_dialog_agree">Configurações</string>
     <string name="warning_miui_optimization_closed_dialog_disagree">Aplicar</string>
-    <string name="warning_miui_optimization_closed_dialog_message">"Parece que você não ativou a otimização da MIUI. Sem ela, este tema não funcionará corretamente quando aplicado. Você pode aplicá-lo de qualquer maneira ou ativar a otimização da MIUI em Configurações."</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Parece que você não ativou a otimização do HyperOS. Sem ela, este tema não funcionará corretamente quando aplicado. Você pode aplicá-lo de qualquer maneira ou ativar a otimização do HyperOS em Configurações."</string>
     <string name="warning_miui_optimization_closed_dialog_title">Atenção!</string>
     <string name="warning_subscribe_wallpaper_group_content">"Você ativou a apresentação de slides na Tela inicial. %1$s será aplicado à sua Tela inicial."</string>
     <string name="wechat_not_found">Instale o WeChat primeiro</string>

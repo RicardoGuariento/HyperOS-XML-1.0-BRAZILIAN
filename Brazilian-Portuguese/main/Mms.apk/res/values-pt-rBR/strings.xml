@@ -281,7 +281,7 @@ Tente novamente."</string>
     <string name="dialog_complain_tips">Permita que o app Mensagens conecte-se à rede para poder reportar itens.</string>
     <string name="dialog_message_correct_as_ad">Todas as mensagens de %s (exceto códigos de verificação) serão movidas para mensagens promocionais.</string>
     <string name="dialog_message_correct_as_normal">Selecione mensagens para mover</string>
-    <string name="dialog_message_fake_cell_detect_error">Corrigir a informação sobre esta mensagem? Para fazer isto, a MIUI precisa fazer o upload do número do telefone (%1$s), o conteúdo da mensagem, e as informações sobre a localização aproximada para os nossos servidores.</string>
+    <string name="dialog_message_fake_cell_detect_error">Corrigir a informação sobre esta mensagem? Para fazer isto, o HyperOS precisa fazer o upload do número do telefone (%1$s), o conteúdo da mensagem, e as informações sobre a localização aproximada para os nossos servidores.</string>
     <string name="dialog_message_mx">O Mi Mensagens permite que você envie mensagens para outros usuários da Xiaomi sem a cobrança de tarifas. Uma mensagem SMS é requerida para ativar o Mi Mensagens. A sua operadora cobrará por esta mensagem. Você deve aceitar nosso \"%1$s\" e a \"%2$s\" antes de usar o Mi Mensagens.</string>
     <string name="dialog_message_networking">O app Mensagens precisa usar as Páginas Amarelas para fornecer o reconhecimento de ID de remetente. O app Mensagens e Páginas Amarelas precisarão de uma conexão com a internet e acesso à sua localização para funcionarem normalmente. Permitir?</string>
     <string name="dialog_message_rcs">O sistema de mensagens do China Mobile permite que você envie mensagens para outros usuários China Mobile sem a cobrança de tarifas de mensagens. Tem de aceitar o \"%1$s\" antes de utilizar as Mensagens do China Mobile.</string>
@@ -689,18 +689,18 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx_current_status">Configurações</string>
     <string name="mx_dspt">Enviar mensagens SMS e MMS para outros dispositivos Xiaomi sem cobrança de tarifas quando você estiver conectado ao Wi-Fi.</string>
     <string name="mx_dspt_listview">Enviar mensagens para outros dispositivos Xiaomi sem a cobrança de tarifas</string>
-    <string name="mx_dspt_provision">O Mi Mensagens permite que você envie mensagens para outros usuários MIUI pela internet sem a cobrança de tarifas da operadora. Um SMS pode ser requerido para reativar o Mi Mensagens. Sua operadora irá cobrar por esta mensagem. Além disso, o serviço precisa de acesso aos dados móveis para verificar quando um usuário está ou não online. Aceitar?</string>
+    <string name="mx_dspt_provision">O Mi Mensagens permite que você envie mensagens para outros usuários HyperOS pela internet sem a cobrança de tarifas da operadora. Um SMS pode ser requerido para reativar o Mi Mensagens. Sua operadora irá cobrar por esta mensagem. Além disso, o serviço precisa de acesso aos dados móveis para verificar quando um usuário está ou não online. Aceitar?</string>
     <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
     <string name="mx_enable">Mi Mensagens</string>
     <string name="mx_enable_ex">Mi Mensagens e Voz</string>
-    <string name="mx_enable_popup_msg">O Mi Mensagens permite que você envie mensagens para outros dispositivos com MIUI sem a cobrança de tarifas.</string>
+    <string name="mx_enable_popup_msg">O Mi Mensagens permite que você envie mensagens para outros dispositivos com HyperOS sem a cobrança de tarifas.</string>
     <string name="mx_filter_message_from_stranger">Bloquear Mi Mensagens de números desconhecidos</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Você ainda receberá mensagens SMS de números desconhecidos. Você pode ativar ou desativar este recurso a qualquer momento em Mensagens &gt; Configurações.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Mensagens de números desconhecidos</string>
     <string name="mx_filter_message_from_stranger_summary">Permitir apenas Mi Mensagens de seus contatos</string>
     <string name="mx_main_purpose">"O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da internet sem a cobrança de tarifas.
 Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela sua operadora."</string>
-    <string name="mx_main_purpose_short">O Mi Mensagens permite que usuários da MIUI enviem e recebam mensagens SMS e MMS gratuitamente.</string>
+    <string name="mx_main_purpose_short">O Mi Mensagens permite que usuários do HyperOS enviem e recebam mensagens SMS e MMS gratuitamente.</string>
     <string name="mx_message">Mi Mensagens</string>
     <string name="mx_msg">Mi Mensagens</string>
     <string name="mx_msg_pageview_setting_title">Configurações do Mi Mensagens</string>
@@ -713,7 +713,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="mx_reactivate">Reativar Mi Mensagens</string>
     <string name="mx_recommend_msg">Toque para ativar o Mi Mensagens</string>
     <string name="mx_stranger_recommend_msg">Toque para bloquear Mi Mensagens de números desconhecidos</string>
-    <string name="mx_type_guide">Enviar mensagens a outros dispositivos com MIUI sem a cobrança de taxas</string>
+    <string name="mx_type_guide">Enviar mensagens a outros dispositivos com HyperOS sem a cobrança de taxas</string>
     <string name="need_download">Sincronizando…</string>
     <string name="net_sms_subscribed">Inscrito com sucesso</string>
     <string name="net_sms_unsubscribe">Desinscrito com sucesso</string>
@@ -832,7 +832,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="pref_summary_mms_retrieval_during_roaming">Baixar fotos e vídeos de mensagens automaticamente quando em roaming</string>
     <string name="pref_summary_notification_body_enabled">Mostra mensagens na Tela de bloqueio e na Área de notificações</string>
     <string name="pref_summary_off_system_mms_priority">Usar um app de terceiros como o padrão para enviar e receber MMS</string>
-    <string name="pref_summary_on_system_mms_priority">Usar o app Mensagens da MIUI como o padrão para enviar e receber MMS</string>
+    <string name="pref_summary_on_system_mms_priority">Usar o app Mensagens da HyperOS como o padrão para enviar e receber MMS</string>
     <string name="pref_summary_privacy_authority">Ative ou desative este seletor para conceder ou revogar a sua autorização</string>
     <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega para o remetente ao receber uma mensagem multimídia</string>
     <string name="pref_summary_switch_aim_card">Exibe mensagens que contêm vídeos, imagens e formatação complexa como cartões</string>
@@ -1128,11 +1128,11 @@ Dê uma olhada nos recomendados!"</string>
     <string name="recommend_tip_1">O Mensagens funciona melhor quando o Mi Mensagens está ativado. O Mi Mensagens permite que você envie SMS e MMS gratuitamente através da internet e reconhece a ID do remetente automaticamente.</string>
     <string name="recommend_tip_10">Reconhecer ID do remetente automaticamente para ver os nomes e imagens de perfil de fornecedores confiáveis</string>
     <string name="recommend_tip_12">Configurações de mensagem gratuita via internet</string>
-    <string name="recommend_tip_13">Envie mensagens SMS e MMS gratuitas a outros dispositivos MIUI pela internet</string>
-    <string name="recommend_tip_14">Se você desativar este recurso, você não poderá enviar SMS e MMS a outros dispositivos MIUI sem a cobrança de tarifas quando você estiver conectado à internet. Desativar mesmo assim?</string>
+    <string name="recommend_tip_13">Envie mensagens SMS e MMS gratuitas a outros dispositivos HyperOS pela internet</string>
+    <string name="recommend_tip_14">Se você desativar este recurso, você não poderá enviar SMS e MMS a outros dispositivos HyperOS sem a cobrança de tarifas quando você estiver conectado à internet. Desativar mesmo assim?</string>
     <string name="recommend_tip_15">Reconhecimento inteligente de ID do remetente</string>
     <string name="recommend_tip_16">Se você desativar este recurso, o Mensagens não poderá reconhecer o ID do remetente automaticamente, permitindo que você veja os nomes e imagens de perfil de fornecedores confiáveis. Desativar mesmo assim?</string>
-    <string name="recommend_tip_2">O envio gratuito de mensagens pela Internet permite-lhe enviar SMS e MMS para outros dispositivos MIUI sem incorrer em tarifas quando está conectado à Internet.</string>
+    <string name="recommend_tip_2">O envio gratuito de mensagens pela Internet permite-lhe enviar SMS e MMS para outros dispositivos HyperOS sem incorrer em tarifas quando está conectado à Internet.</string>
     <string name="recommend_tip_3">Mensagens de texto pagas serão enviadas à sua operadora para ativar o serviço de mensagens gratuitas pela internet, Encontrar dispositivo, sincronizar com a nuvem, e outros serviços relacionados.</string>
     <string name="recommend_tip_4">O Mi Mensagens pode reconhecer a ID do remetente automaticamente, permitindo que você veja os nomes e imagens de perfil de fornecedores confiáveis.</string>
     <string name="recommend_tip_5">O reconhecimento inteligente de ID do remetente torna a sua caixa de entrada mais organizada e lhe ajuda a identificar remetentes confiáveis.</string>
@@ -1564,7 +1564,7 @@ Tentativas efetuadas: %s."</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
-    <string name="yellowpage_recommend_msg">"Confira os recursos de mensagens da MIUI"</string>
+    <string name="yellowpage_recommend_msg">"Confira os recursos de mensagens da HyperOS"</string>
     <string name="yes">"OK"</string>
     <string name="yesterday">Ontem</string>
     <string name="you_have_new_message">Você tem novas mensagens</string>

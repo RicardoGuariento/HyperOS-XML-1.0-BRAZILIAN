@@ -61,7 +61,7 @@
     <string name="cloud_russion_addr">Atualizar dados do servidor Russion</string>
     <string name="cloud_staging_addr">Atualizar dados com servidor intermediário</string>
     <string name="config_classify">Ordenar por configurações dos apps</string>
-    <string name="config_description">A MIUI consegue identificar apps com processos específicos em segundo plano (ex.: apps de mensagem, posicionamento e reprodutores de mídia), e aplica as regras de economia de uma forma que não influencie as atividades importantes em segundo plano.</string>
+    <string name="config_description">O HyperOS consegue identificar apps com processos específicos em segundo plano (ex.: apps de mensagem, posicionamento e reprodutores de mídia), e aplica as regras de economia de uma forma que não influencie as atividades importantes em segundo plano.</string>
     <string name="config_mode_title">Configurações em segundo plano</string>
     <string name="config_no_restrict_description">A Economia de bateria não restringirá as atividades deste app</string>
     <string name="config_no_restrict_title">Nenhuma restrição</string>
@@ -279,7 +279,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
     <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="night">"PM"</string>
-    <string name="nonui_mode_config_description">Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando a MIUI detectar que você não está usando seu dispositivo.</string>
+    <string name="nonui_mode_config_description">Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando o HyperOS detectar que você não está usando seu dispositivo.</string>
     <string name="nonui_mode_config_title">Modo não-interativo</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
@@ -300,8 +300,8 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="power_checker_mobile_radio_title">%1$s acessa a rede com frequência</string>
     <string name="power_checker_multi_apps_title">Apps descarregando a bateria: %2$s</string>
     <string name="power_checker_notify_summary">Otimizar apps que estão descarregando a bateria</string>
-    <string name="power_checker_partial_wakelock_multi_apps_title">%1$s previne a MIUI de entrar no modo de inatividade</string>
-    <string name="power_checker_partial_wakelock_title">%1$s previne a MIUI de entrar no modo de inatividade</string>
+    <string name="power_checker_partial_wakelock_multi_apps_title">%1$s previne o HyperOS de entrar no modo de inatividade</string>
+    <string name="power_checker_partial_wakelock_title">%1$s previne o HyperOS de entrar no modo de inatividade</string>
     <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s está sendo executado com frequência</string>
     <string name="power_checker_wakeup_alarm_title">%1$s está sendo executado com frequência</string>
     <string name="power_checker_wifi_scan_multi_apps_title">%1$s procura redes Wi-Fi com frequência</string>
@@ -331,9 +331,9 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="search_result_text">Não foi possível encontrar nenhum app</string>
     <string name="send">Enviar</string>
     <string name="show_system_app">Mostrar apps do sistema</string>
-    <string name="sleep_config_enhance_description">Sempre que a MIUI detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o NFC, Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
-    <string name="sleep_config_enhance_description_non_nfc">Sempre que a MIUI detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
-    <string name="sleep_config_enhance_description_pad">Sempre que a MIUI detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o Bluetooth e o Wi-Fi, e não ligará a tela para notificações.</string>
+    <string name="sleep_config_enhance_description">Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o NFC, Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
+    <string name="sleep_config_enhance_description_non_nfc">Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
+    <string name="sleep_config_enhance_description_pad">Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o Bluetooth e o Wi-Fi, e não ligará a tela para notificações.</string>
     <string name="sleep_config_enhance_title">Modo sono</string>
     <string name="sleepmode_disclaimer_agree">Aceitar</string>
     <string name="sleepmode_disclaimer_cancel">Cancelar</string>

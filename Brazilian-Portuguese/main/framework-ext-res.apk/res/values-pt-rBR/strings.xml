@@ -43,7 +43,7 @@
     <string name="auto_start_warning_deny">Negar</string>
     <string name="auto_start_warning_title">Permitir que %s inicie automaticamente?</string>
     <string name="autofill">Preenchimento automático</string>
-    <string name="autofill_save_message">Permitir que a MIUI salve suas contas e senhas?</string>
+    <string name="autofill_save_message">Permitir que o HyperOS salve suas contas e senhas?</string>
     <string name="autofill_save_ok">Permitir</string>
     <string name="autofill_save_sub_message">Você pode visualizar e gerenciar suas senhas em Configurações &gt; Senhas &gt; Segurança &gt; %s.</string>
     <string name="autofill_save_title">Salve senhas automaticamente</string>
@@ -319,7 +319,7 @@
     <string name="mihouse">Mi Eletrônica</string>
     <string name="mijazz">"Mi Jazz"</string>
     <string name="miremix">"Mi (Remix)"</string>
-    <string name="miui">Miui</string>
+    <string name="miui">HyperOS</string>
     <string name="miui_device_name">"Android"</string>
     <string name="miui_forbid_poweroff_when_device_locked">Não é possível desligar, o dispositivo está bloqueado.</string>
     <string name="miui_landscape_compat_toast">"Não pode ser adequado para dispositivo dobrável enquanto você estiver usando o app em modo paisagem, é recomendável usar em modo retrato"</string>
@@ -360,7 +360,7 @@
     <string name="onehour">30 minutos</string>
     <string name="open_close_tip_action">"OK"</string>
     <string name="open_close_tip_content">Para fechar a janela flutuante, pressione e segure a barra de ação e depois deslize para cima</string>
-    <string name="open_miui_optimization">Ative a otimização MIUI primeiro</string>
+    <string name="open_miui_optimization">Ative a otimização HyperOS primeiro</string>
     <string name="other_ime">Outros teclados</string>
     <string name="package_delete_confirm_step_1">Desinstalar %s?</string>
     <string name="package_delete_confirm_step_2">Desinstalar este app poderá causar instabilidade em seu sistema.</string>
@@ -465,7 +465,7 @@
     <string name="security_permission_failed_text">Ocorreu um erro, tente novamente mais tarde</string>
     <string name="security_permission_network_failed_text">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="security_permission_open_wifi_settings">Abrir configurações de Wi-Fi</string>
-    <string name="security_permission_validate_warning">Obrigado por ajudar a melhorar a MIUI!</string>
+    <string name="security_permission_validate_warning">Obrigado por ajudar a melhorar o HyperOS!</string>
     <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ativados</string>
     <string name="security_permission_xiaomi_account_missed_text">Digite sua ID da Conta Mi</string>
     <string name="security_share_text">Proteção de Privacidade</string>

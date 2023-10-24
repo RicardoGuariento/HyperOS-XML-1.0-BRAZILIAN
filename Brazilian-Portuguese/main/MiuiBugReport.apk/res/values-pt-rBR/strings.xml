@@ -196,7 +196,7 @@ Envie este código ao supervisor."</string>
     <string name="err_type_suggestion">Sugestões</string>
     <string name="err_type_system">Sistema</string>
     <string name="err_type_system_summary">Memória, desempenho, etc.</string>
-    <string name="err_type_systemapp">"Apps MIUI"</string>
+    <string name="err_type_systemapp">"Apps HyperOS"</string>
     <string name="err_type_translate">Idioma</string>
     <string name="err_type_xiaomi_family">"Mi Home"</string>
     <string name="err_type_xiaomi_service">Atendimento ao cliente</string>
@@ -234,7 +234,7 @@ Envie este código ao supervisor."</string>
 %1$d. Em qual app ou em qual página você encontrou o problema?
 %2$d. Após quais ações executadas o problema aconteceu?
 %3$d. Forneça informações adicionais que possam nos ajudar a corrigir o problema."</string>
-    <string name="feedback_description_hint_suggestion">Diga-nos como gostaria que melhorássemos a MIUI.</string>
+    <string name="feedback_description_hint_suggestion">Diga-nos como gostaria que melhorássemos o HyperOS.</string>
     <string name="feedback_description_suggest_hint">Gostaria de adicionar uma nova função () porque eu preciso de ().</string>
     <string name="feedback_detail_copy_toast">Copiado para a área de transferência</string>
     <string name="feedback_detail_feedback_attach">Anexos</string>
@@ -444,7 +444,7 @@ Envie este código ao supervisor."</string>
     <string name="miui_feedback_edit_contact_info_hint">Número de telefone/e-mail</string>
     <string name="miui_feedback_edit_delete_images">Excluir imagens</string>
     <string name="miui_feedback_edit_desc_hint">"Descreva o problema que você encontrou"</string>
-    <string name="miui_feedback_edit_desc_hint_suggestion">"Diga-nos como você gostaria de melhorar a MIUI"</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">"Diga-nos como você gostaria de melhorar o HyperOS"</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Fique aqui</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Descartar</string>
     <string name="miui_feedback_edit_discard_draft_dialog_content">"Quaisquer alterações feitas neste relatório serão perdidas."</string>
@@ -481,8 +481,8 @@ Envie este código ao supervisor."</string>
     <string name="miui_feedback_edit_storage_permission_name">Acessar o armazenamento do dispositivo</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Não aceitar"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Aceitar</string>
-    <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data>Você deve concordar com a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a> para poder usar o Feedback. Os problemas relatados junto com os itens anexados (podem conter informações pessoais, bem como informações sobre seu dispositivo e rede) serão carregados nos servidores da MIUI. Isso nos ajudará a localizar e resolver os problemas relatados.&lt;/Data>"</string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data>Seu feedback, juntamente com anexos (se houver) e logs (você pode desmarcar as caixas correspondentes aos itens que não deseja enviar) serão enviados aos servidores da MIUI. Os logs podem conter informações pessoais e dados de localização. Selecionar \"Aceitar\" significa que você leu e concordou com a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data>Você deve concordar com a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a> para poder usar o Feedback. Os problemas relatados junto com os itens anexados (podem conter informações pessoais, bem como informações sobre seu dispositivo e rede) serão carregados nos servidores do HyperOS. Isso nos ajudará a localizar e resolver os problemas relatados.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data>Seu feedback, juntamente com anexos (se houver) e logs (você pode desmarcar as caixas correspondentes aos itens que não deseja enviar) serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e dados de localização. Selecionar \"Aceitar\" significa que você leu e concordou com a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Não mostrar novamente"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Enviar relatório</string>
     <string name="miui_feedback_edit_submit_directly">Enviar</string>
@@ -780,7 +780,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="permission_imei_disable_desc">Permitir que este app se conecte à Internet.</string>
     <string name="permission_imei_enable_desc">Permita que este app se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
-    <string name="permission_main_purpose">Exibindo demonstrações de recursos MIUI, enviando comentários e solicitando serviços pós-venda.</string>
+    <string name="permission_main_purpose">Exibindo demonstrações de recursos HyperOS, enviando comentários e solicitando serviços pós-venda.</string>
     <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
     <string name="permission_region_version_msg">&lt;Data>Antes de usar \"Serviços e feedback\", você deve ler e concordar com nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Selecionar todos</string>
@@ -796,7 +796,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="please_agree_protocal">Aceite o protocolo</string>
     <string name="please_download_gallery">Instale a Galeria para visualizar</string>
     <string name="pm">"PM"</string>
-    <string name="post_miui_bbs_failed">Não foi possível publicar no Fórum MIUI</string>
+    <string name="post_miui_bbs_failed">Não foi possível publicar no Fórum HyperOS</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_category_title">Privacidade</string>
     <string name="privacy_policy_title">Política de Privacidade</string>
@@ -870,9 +870,9 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="stop_full_log_dialog_title">Gerando logs…</string>
     <string name="submit_dialog_cancel">Não aceitar</string>
     <string name="submit_dialog_confirm">Aceitar</string>
-    <string name="submit_dialog_content">"&lt;Data>Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de enviar seu feedback. Os problemas que você reportar, juntamente com os itens que você anexar (incluindo os logs que podem conter informações pessoais, bem como informações sobre seu dispositivo e a rede) serão enviados aos servidores da MIUI. Isto nos ajudará a localizar e corrigir os problemas que você reportar. Se você reportar problemas relacionados a vários dispositivos, os logs dos outros dispositivos onde a sua Conta Mi é usada também serão enviados.&lt;/Data>"</string>
-    <string name="submit_dialog_content_global">"&lt;Data>O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores da MIUI. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
-    <string name="submit_dialog_content_global_with_contactinfo">"&lt;Data>O seu feedback, junto com anexos (caso existam), logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar), número de telefone ou e-mail serão enviados aos servidores da MIUI. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
+    <string name="submit_dialog_content">"&lt;Data>Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de enviar seu feedback. Os problemas que você reportar, juntamente com os itens que você anexar (incluindo os logs que podem conter informações pessoais, bem como informações sobre seu dispositivo e a rede) serão enviados aos servidores do HyperOS. Isto nos ajudará a localizar e corrigir os problemas que você reportar. Se você reportar problemas relacionados a vários dispositivos, os logs dos outros dispositivos onde a sua Conta Mi é usada também serão enviados.&lt;/Data>"</string>
+    <string name="submit_dialog_content_global">"&lt;Data>O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
+    <string name="submit_dialog_content_global_with_contactinfo">"&lt;Data>O seu feedback, junto com anexos (caso existam), logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar), número de telefone ou e-mail serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
     <string name="submit_dialog_not_show_again">Não mostrar novamente</string>
     <string name="submit_dialog_title">Enviar relatório</string>
     <string name="submit_feedback_info_failed">Não foi possível enviar o relatório</string>
@@ -948,8 +948,8 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="title_frequent_question_feedback_main">Perguntas frequentes</string>
     <string name="title_mi_family">Mi Homes próximas</string>
     <string name="title_nonsystem_app">Outros apps</string>
-    <string name="title_same_question_feedback_main">Problemas semelhantes no Fórum MIUI</string>
-    <string name="title_system_app">Apps MIUI</string>
+    <string name="title_same_question_feedback_main">Problemas semelhantes no Fórum HyperOS</string>
+    <string name="title_system_app">Apps HyperOS</string>
     <string name="title_user_guide">Guia do usuário</string>
     <string name="toast_app_tag_required">Selecione o problema primeiro</string>
     <string name="toast_catch_full_log_catching">Você só pode gerar um log por vez.</string>

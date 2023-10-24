@@ -563,7 +563,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_space_duokan_detail">Baixe e gerencie e-books com o app Duokan.</string>
     <string name="micloud_space_duokan_title">"Duokan"</string>
     <string name="micloud_space_soundrecorder_detail">Abra o app Gravador em seu dispositivo Xiaomi e selecione a pasta com os itens armazenados na nuvem.
-Verifique se você está usando a conta Xiaomi associada como sua conta do sistema MIUI.</string>
+Verifique se você está usando a conta Xiaomi associada como sua conta do sistema HyperOS.</string>
     <string name="micloud_space_soundrecorder_title">Gravações</string>
     <string name="micloud_storage_detail">Detalhes</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Você precisa renovar sua assinatura.</string>
@@ -695,7 +695,7 @@ Verifique se você está usando a conta Xiaomi associada como sua conta do siste
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="mx_dspt">Mi Mensagens</string>
-    <string name="mx_dspt_provision">"O Mi Mensagens permite que você envie mensagens para outros dispositivos com MIUI sem a cobrança de tarifas de SMS.
+    <string name="mx_dspt_provision">"O Mi Mensagens permite que você envie mensagens para outros dispositivos com HyperOS sem a cobrança de tarifas de SMS.
 
 Você pode ativar ou desativar esta função a qualquer momento nas Configurações."</string>
     <string name="mx_dspt_provision_privacy">"Esta função pode exigir seu número de telefone. 1 SMS poderá ser requerido para ativar este serviço. O SMS poderá ser cobrado por sua operadora.
@@ -707,7 +707,7 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
     <string name="mx_dspt_provision_privacy_no_sim">"Esta função pode exigir seu número de telefone. Quando o cartão SIM for detectado, 1 SMS poderá ser requerido para ativar este serviço. O SMS poderá ser cobrados por sua operadora.
 
 Esta função criptografa e envia a ID do seu dispositivo para os servidores da Xiaomi."</string>
-    <string name="mx_dspt_provision_with_voip">Ligue para outros dispositivos com MIUI de graça usando sua conexão com a internet. Você pode ativar ou desativar esta função a qualquer momento nas Configurações. VoIP fornecido por Weihui. Veja a Política de Privacidade do serviço</string>
+    <string name="mx_dspt_provision_with_voip">Ligue para outros dispositivos com HyperOS de graça usando sua conexão com a internet. Você pode ativar ou desativar esta função a qualquer momento nas Configurações. VoIP fornecido por Weihui. Veja a Política de Privacidade do serviço</string>
     <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
     <string name="mx_sub_dspt_provision">Mi Mensagens</string>
     <string name="mx_sub_dspt_provision_with_voip">Chamada pela internet</string>
@@ -900,7 +900,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_invite_suggestion_list_error">Nenhuma pessoa recomendada para convidar</string>
     <string name="share_sdk_invite_way_contact_summary">Convide várias pessoas de uma só vez</string>
     <string name="share_sdk_invite_way_contact_title">Convidar por SMS</string>
-    <string name="share_sdk_invite_way_qr_code_summary">Use o Scanner do WeChat ou da MIUI</string>
+    <string name="share_sdk_invite_way_qr_code_summary">Use o Scanner do WeChat ou do HyperOS</string>
     <string name="share_sdk_invite_way_qr_code_title">Convidar por código QR</string>
     <string name="share_sdk_invite_way_wechat_summary">Convide pessoas ou grupos</string>
     <string name="share_sdk_invite_way_wechat_title">Convidar por WeChat</string>
@@ -978,9 +978,9 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="sync_dspt">Sincronização</string>
     <string name="sync_dspt_entrance_provision">Sincronize suas fotos, notas e outros itens entre os seus dispositivos. Acesse os itens que você sincroniza de qualquer navegador em %s.</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Não usar</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">Os apps de sistema da MIUI precisam da MiCloud para fazer o backup das suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Os apps de sistema do HyperOS precisam da MiCloud para fazer o backup das suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_pad">Você pode usar o MiCloud para fazer backup de suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
-    <string name="sync_dspt_entrance_provision_confirm_content_v2">Os apps de sistema da MIUI precisam da MiCloud para fazer backup de suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_v2">Os apps de sistema do HyperOS precisam da MiCloud para fazer backup de suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Usar a MiCloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Não usar a MiCloud?</string>
     <string name="sync_dspt_entrance_provision_network">Este app precisa de uma conexão com a internet para funcionar normalmente. A sincronização de dados pode requerer uma conexão de dados móveis e o Wi-Fi ativados.</string>
