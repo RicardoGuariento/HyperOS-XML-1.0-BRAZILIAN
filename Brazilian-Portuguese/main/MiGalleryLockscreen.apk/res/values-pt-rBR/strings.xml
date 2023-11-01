@@ -106,6 +106,7 @@
     <string name="app_self_upgrade_dlg_postive_btn">Atualizar agora</string>
     <string name="app_self_upgrade_dlg_title">Atualização disponível</string>
     <string name="app_self_upgrade_toast_downloading_install">Iniciando atualização…</string>
+    <string name="applied_and_added_to_custom_wallpaper">"Adicionado à sua apresentação de slides com sucesso. &lt;font color ='#3482FF'>&lt;a href='%1$s'>View&lt;/font>&lt;/a>"</string>
     <string name="apply">Aplicar</string>
     <string name="apply_to_above_all">Aplicar em ambos</string>
     <string name="apply_to_screenlock">Aplicar na Tela de bloqueio</string>
@@ -843,7 +844,7 @@ mm"</string>
     <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>. da Conta Mi"</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
     <string name="passport_user_agreement_hint_with_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
@@ -914,6 +915,7 @@ mm"</string>
     <string name="pull_to_refresh_refreshing_label">Atualizando…</string>
     <string name="pull_to_refresh_release_label">Solte para atualizar</string>
     <string name="qq_login_btn_content_description">Fazer login com o QQ</string>
+    <string name="reach_custom_limitation">"Não é possível adicionar mais planos de fundo &lt;font color ='#3482FF'>&lt;a href='%1$s'>Manage&lt;/font>&lt;/a>"</string>
     <string name="recommend_switch_desc">Receba recomendações de conteúdo com base em suas preferências</string>
     <string name="recommend_switch_dlg_close">Desativar</string>
     <string name="recommend_switch_dlg_desc">Não poderá receber recomendações baseadas nas suas preferências se desativar este recurso</string>
@@ -973,6 +975,7 @@ mm"</string>
     <string name="see_detail">Visualizar</string>
     <string name="see_more">Ver mais</string>
     <string name="see_more_content">Ver mais</string>
+    <string name="select_at_least_one_mode">Selecione um Modo Carrossel de planos de fundos</string>
     <string name="select_package">Selecionar versão</string>
     <string name="select_photo_album">Selecionar imagens</string>
     <string name="select_picture">Selecionar imagens</string>
@@ -986,6 +989,8 @@ mm"</string>
     <string name="setting_about_item_des">Versão</string>
     <string name="setting_about_item_title">Sobre</string>
     <string name="setting_des">O serviço de apresentação de slides é fornecido pelo Carrossel de Planos de fundo. Pesquise por \"Carrossel de Planos de fundo\" no app Configurações para ver todas as opções disponíveis.</string>
+    <string name="setting_des_custom_only">Nosso recurso de apresentação de slides agora é totalmente personalizável. Você pode ajustar a frequência com que seu plano de fundo muda em: Configurações > Tela de bloqueio > Configurações do Carrossel de planos de fundo.</string>
+    <string name="setting_des_recommend_selected">"Nosso recurso de apresentação de slides agora é totalmente personalizável. Obtenha recomendações de imagens que você vai gostar e adicione as suas próprias. Você pode ajustar a frequência com que seu papel de parede muda em: Configurações > Tela de bloqueio > Configurações do Carrossel de planos de fundo."</string>
     <string name="setting_head">Configurações</string>
     <string name="setting_ok">Configurações</string>
     <string name="setting_tip">Não mostrar novamente</string>

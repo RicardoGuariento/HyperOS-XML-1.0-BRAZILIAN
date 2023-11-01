@@ -39,6 +39,10 @@
         <item quantity="other">%1$d dispositivos</item>
         <item quantity="one">%1$d dispositivo</item>
     </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="other">Digite o código de %1$s (%2$d segundos)</item>
+        <item quantity="one">Digite o código de %1$s (%2$d segundo)</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>

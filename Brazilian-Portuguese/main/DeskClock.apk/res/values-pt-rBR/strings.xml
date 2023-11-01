@@ -340,6 +340,10 @@ mm"</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
+    <string name="miuix_item_view_role_description">Aba</string>
+    <string name="miuix_navigator_content_switch_description">Mostrar barra lateral</string>
+    <string name="miuix_navigator_multiple_choice">Selecione</string>
+    <string name="miuix_navigator_navigator_switch_description">Ocultar barra lateral</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -462,11 +466,11 @@ mm"</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hora de antecedência</string>
     <string name="notification_adv_time_entries5">Nenhum</string>
     <string name="notification_permission_desc">"Caso não conceda as permissões de notificação, não poderá desativar os alarmes quando eles tocarem. Conceder permissão agora?"</string>
-    <string name="oneshot_alarm">Excluir após alarme disparar</string>
     <string name="notification_permission_dialog_content">Permitir que este app envie notificações para receber notificações de alarme. Você pode conceder essa permissão em Configurações.</string>
     <string name="notification_permission_dialog_not_open">Agora não</string>
     <string name="notification_permission_dialog_open">Configurações</string>
     <string name="notification_permission_dialog_title">Permissões necessárias</string>
+    <string name="oneshot_alarm">Excluir após alarme disparar</string>
     <string name="open_keep_screen">A tela será mantida ligada</string>
     <string name="open_notification_permission_remind">Permita notificações para poder desativar os alarmes</string>
     <string name="open_sleep_record">Ativar</string>

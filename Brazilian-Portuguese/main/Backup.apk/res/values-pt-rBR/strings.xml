@@ -92,6 +92,7 @@
     <string name="backup_security_tips_title">Backups podem não funcionar</string>
     <string name="backup_update">Atualizar</string>
     <string name="batch_delete_backup_confirm">Excluir os backups selecionados?</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="broken_screen_rescue_service">Backups com tela danificada</string>
     <string name="broken_screen_rescue_service_content">"Esse recurso permite que você faça backup de itens usando um cabo USB quando a tela do seu dispositivo estiver danificada ou não responder. Para poder fazer backup de itens quando a tela não estiver respondendo, você deve ativar esse recurso quando a tela ainda estiver funcionando corretamente."</string>
     <string name="broken_screen_rescue_service_disable">Desativar backups com tela danificada</string>
@@ -410,6 +411,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -532,6 +534,8 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_usb_select_data_no_space">Só há %s de espaço disponível no seu drive USB. Libere espaço no armazenamento.</string>
     <string name="new_usb_tab_backup">Fazer backup</string>
     <string name="new_usb_tab_restore">Restaurar</string>
+    <string name="new_usb_unwritable_storage_content">"Não foi possível salvar itens no dispositivo de armazenamento externo. Tente conectá-lo novamente."</string>
+    <string name="new_usb_unwritable_storage_title">"Não foi possível salvar"</string>
     <string name="night">"PM"</string>
     <string name="no_encrypt_password">Nenhuma senha</string>
     <string name="no_network">Não é possível conectar-se à rede</string>
@@ -598,6 +602,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_management_entrance">Gerenciar permissões</string>
     <string name="permission_not_admit">Não permitido</string>
     <string name="permission_purpose">Esse recurso permite fazer backup e restaurar itens usando seus dispositivos móveis, computadores e unidades USB.</string>
+    <string name="permission_purpose_pad">Esse recurso permite fazer backup e restaurar itens usando seus dispositivos móveis, computadores e unidades USB.</string>
     <string name="permission_read_apps">Acesse a lista de apps instalados neste dispositivo</string>
     <string name="permission_read_calendar">Acessar eventos de calendário</string>
     <string name="permission_read_calllog">Acessar Histórico de chamadas</string>
@@ -605,6 +610,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_read_sms">Acessar Mensagens</string>
     <string name="permission_read_storage">Ler e gravar itens no armazenamento interno</string>
     <string name="permission_read_storage_global">Acessar o armazenamento</string>
+    <string name="permission_read_storage_global_pad">Acessar o armazenamento</string>
     <string name="permission_read_write_storage">Para poder fazer backup de itens, permita que esse recurso acesse o armazenamento primeiro.</string>
     <string name="permission_read_write_sys_app">Para poder fazer backup e restaurar mensagens, contatos e histórico de chamadas, permita que esse recurso acesse esses itens primeiro.</string>
     <string name="permission_read_write_sys_app1">Permita que este recurso acesse suas mensagens e contatos para poder fazer backup e restaurar esses itens.</string>
@@ -621,6 +627,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_write_calllog">Editar histórico de chamadas</string>
     <string name="permission_write_contacts">Editar contatos</string>
     <string name="permission_write_storage">Salvar itens no armazenamento</string>
+    <string name="permission_write_storage_pad">Salvar itens no armazenamento</string>
     <string name="phone_title">Configurações do telefone</string>
     <string name="platform_chooser_item_android_mi">Mi Phone</string>
     <string name="platform_chooser_item_android_others">Outras marcas</string>

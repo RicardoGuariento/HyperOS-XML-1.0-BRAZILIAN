@@ -165,6 +165,12 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="dialog_rating_desc_less">Dê-nos algumas sugestões para que possamos melhorar nosso app?</string>
     <string name="dialog_rating_desc_perfect">Obrigado! Deseja avaliar o Mi Mover no GetApps também?</string>
     <string name="dialog_rating_title">Avalie o Mi Mover</string>
+    <string name="dialog_request_all_permission_content">"Para transferir dados do seu dispositivo antigo para o novo, este app precisa estar conectado à internet e requer as seguintes permissões:
+• Acessar fotos, áudio e vídeos
+• Acessar mensagens, contatos e histórico de chamadas
+• Acessar armazenamento
+• Acessar a lista de apps instalados no dispositivo"</string>
+    <string name="dialog_request_all_permission_title">Permissões necessárias</string>
     <string name="dialog_request_network_btn_negative">Sair</string>
     <string name="dialog_request_network_btn_positive">Concordar</string>
     <string name="dialog_request_permission_message">Bem-vindo ao Mi Mover! Você pode usar este app para transferir dados do seu antigo dispositvo para um novo. Os dados serão transferidos entre os dois dispositivos e não serão enviados aos nossos servidores. Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
@@ -413,6 +419,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="miuix_appcompat_delete_description">Excluir</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -584,6 +591,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="perm_write_settings">Alterar configurações do sistema</string>
     <string name="permission_about_contacts">Permissão para editar contatos e histórico de chamadas é necessário</string>
     <string name="permission_about_storage">Permissão para acessar o armazenamento do dispositivo é necessária</string>
+    <string name="permission_about_storage_pad">Permissão para acessar o armazenamento do dispositivo é necessária</string>
     <string name="permission_alert_message_usage_access">O Mi Mover precisa acessar as estatísticas de uso do app. Dê ao Mi Mover as permissões necessárias nas Configurações.</string>
     <string name="permission_alert_title">Permissões necessárias</string>
     <string name="permission_bluetooth_summary">Para encontrar dispositivos disponíveis nas proximidades</string>
@@ -619,12 +627,17 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="prompt_before_transmission_message4_title">Fique conectado durante toda a transferência</string>
     <string name="prompt_before_transmission_message5_summary">Transferir grandes quantidades de dados sem fio pode causar um superaquecimento leve, o que é normal. Seu dispositivo esfriará logo após a transferência ser concluída.</string>
     <string name="prompt_before_transmission_message5_title">Seu dispositivo pode aquecer durante as transferências.</string>
+    <string name="provisiion_set_old_pad_summary">Use o Mi Mover para importar dados do seu dispositivo antigo sem conexão com a internet</string>
     <string name="provisiion_set_old_phone">Importar do dispositivo antigo</string>
     <string name="provisiion_set_old_phone_summary">Use o Mi Mover para importar dados do seu dispositivo antigo sem se conectar à Internet</string>
     <string name="provision_cta_title">Transferência do dispositivo antigo</string>
+    <string name="provision_cta_title_pad">Transferir do dispositivo antigo</string>
     <string name="provision_receiver_finish_button">Próximo</string>
     <string name="provision_select_data_null">Selecione os itens para transferir</string>
+    <string name="provision_select_data_one">Selecione os itens a serem transferidos</string>
+    <string name="provision_set_new_pad">Usar como novo dispositivo</string>
     <string name="provision_set_new_phone">Use como novo dispositivo</string>
+    <string name="provision_set_old_pad">Importar do dispositivo antigo</string>
     <string name="qq_app">"QQ"</string>
     <string name="qq_app_receive_fail">Não foi possível receber o QQ</string>
     <string name="qq_app_send_fail">"Não foi possível enviar o QQ</string>
@@ -638,7 +651,9 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="receiver_finish_title">"Você está pronto!"</string>
     <string name="receiver_finish_transferred">Transferido</string>
     <string name="receiver_video_summary">Desbloquear seu dispositivo antigo, toque em \"Transferir\" e digitalize esta imagem</string>
+    <string name="receiver_video_summary_pad">Desbloqueie seu dispositivo antigo, toque em \"Transferir\" e digitalize esta imagem</string>
     <string name="receiver_video_title">Transferência do dispositivo antigo</string>
+    <string name="receiver_video_title_pad">Transferir do dispositivo antigo</string>
     <string name="recent_one_year">Past 1 year</string>
     <string name="recent_seven_days">Past 7 days</string>
     <string name="recent_thirty_days">Past 30 days</string>

@@ -167,6 +167,11 @@
         <item>Peixes</item>
         <item>19/2 - 20/3</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Desativado</item>
+        <item>Para todos os eventos</item>
+        <item>Para eventos urgentes</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
         <item>Apenas no Modo silencioso</item>

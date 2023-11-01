@@ -8,4 +8,54 @@
         <item>"LeLink"</item>
         <item>"DLNA"</item>
     </string-array>
+    <string-array name="settings_search_connect_car">
+        <item>Combinar apps</item>
+        <item>Interconectividade/Combinar apps</item>
+        <item>Recursos do carro</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Interconectividade</item>
+        <item>Interconectividade/Interconectividade</item>
+        <item>Interconectividade de dispositivos, Serviços de interconectividade de dispositivos, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, conexão inteligente, Mi Smart Hub, Interconectividade, Duo, dispositivo Xiaomi, laptop Xiaomi, Multiscreen, Dueto, transmissão, combinar apps, transferência, transferência de apps, espelhamento, Ecossistema Xiaomi, conexão do dispositivo</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Privacidade</item>
+        <item>Interconectividade/Privacidade</item>
+        <item>Privacidade e interconectividade, Privacidade</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Serviços de interconectividade</item>
+        <item>Interconectividade/Serviços de interconectividade</item>
+        <item>Serviços de interconectividade</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>App de transferência</item>
+        <item>Interconectividade/App de transferência</item>
+        <item>Transferir aplicativos, transferência, transferência</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Chamadas</item>
+        <item>Interconectividade/Chamadas</item>
+        <item>Chamadas</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Assistência de rede</item>
+        <item>Interconectividade/Assistência de rede</item>
+        <item>Assistência de rede, tethering, compartilhamento de hotspot</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Home screen+</item>
+        <item>Interconectividade/Home screen+</item>
+        <item>Home screen+, Mi Smart Hub, compartilhamento de tela</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Área de transferência</item>
+        <item>Interconectividade/Área de transferência</item>
+        <item>Área de transferência</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Notificações entre dispositivos</item>
+        <item>Interconectividade/Notificações</item>
+        <item>Notificações entre dispositivos</item>
+    </string-array>
 </resources>

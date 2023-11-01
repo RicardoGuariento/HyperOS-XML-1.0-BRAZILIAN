@@ -146,6 +146,9 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="fully_managed_device_provisioning_step_2_subheader">O administrador de TI pode ver seus dados e atividade neste dispositivo.</string>
     <string name="fully_managed_device_provisioning_summary">Use este dispositivo para acessar seus apps de trabalho com facilidade. Ele não é privado e, portanto, o administrador de TI pode ver seus dados e atividade.</string>
     <string name="fully_managed_device_reset_and_return_button">Reinicializar e retornar o dispositivo</string>
+    <string name="fully_managed_device_reset_button">Restauração de fábrica</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_header">"Não é possível configurar o dispositivo"</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_subheader">"Este dispositivo não pode ser inscrito no modo totalmente gerenciado. Redefina seu dispositivo para a configuração original e entre em contato com seu administrador de TI."</string>
     <string name="fully_managed_device_with_permission_control_provisioning_summary">Use este dispositivo para acessar facilmente seus apps de trabalho. Este dispositivo não é particular, então seu administrador de TI pode ver sua atividade e seus dados. Seu administrador de TI também pode definir permissões para apps neste dispositivo, como microfone, câmera e permissões de localização.</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="if_questions_contact_admin">Em caso de dúvidas, entre em contato com o administrador de TI</string>

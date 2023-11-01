@@ -39,6 +39,7 @@
     <string name="antifraud_center">Plataforma de alerta antifraude</string>
     <string name="antifraud_center_incoming_prompt">"Não perca nenhuma ligação da plataforma oficial de alerta antifraude"</string>
     <string name="antispam_local_marked">Marcado localmente</string>
+    <string name="antispam_notification_text">Toque para ativar os recursos inteligentes de DND</string>
     <string name="antispam_notification_title">Número desconhecido</string>
     <string name="antispam_provider">Identificado por %s</string>
     <string name="app_name">Ui de chamadas</string>
@@ -227,6 +228,7 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="focus_notification_on_call">Chamando…</string>
     <string name="font_camera_tip">Dobre o dispositivo para usar a câmera frontal</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
@@ -266,6 +268,7 @@
     <string name="miuix_appcompat_delete_description">Excluir</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -376,11 +379,15 @@
     <string name="relay_cal_from_device_name">A partir de %1$s</string>
     <string name="relay_call">Não interferir</string>
     <string name="relay_call_device_name">Dispositivo conectado (%1$s)</string>
+    <string name="relay_call_unable_to_work">"Não é possível usar esse recurso para chamadas transferidas"</string>
     <string name="relay_deny_permission_msg">"Não é possível fazer chamadas sem a permissão para gravar áudio"</string>
+    <string name="relay_device_local">Este dispositivo</string>
+    <string name="relay_device_type_pc">Computador</string>
     <string name="relay_grant_permissions_on_phone">Permita a permissão para gravar áudio em seu dispositivo</string>
     <string name="relay_known">Entendi</string>
     <string name="relay_network_error">Erro de rede</string>
     <string name="relay_network_error_msg">"Não é possível atender chamadas neste dispositivo devido a um erro de rede. Em vez disso, volte para o seu telefone."</string>
+    <string name="relay_stop_recorder">Gravação interrompida</string>
     <string name="remind_unlock_message">Seu dispositivo está bloqueado agora. \"%s\" estará disponível após desbloquear seu dispositivo. Desbloquear agora?</string>
     <string name="remind_unlock_screen_message">Desbloqueie seu dispositivo para poder usar \"%s\". Desbloquear agora?</string>
     <string name="respond_via_sms_custom_message">SMS personalizado</string>
@@ -394,6 +401,25 @@ Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
     <string name="saf_permission_refused">"Não é possível gravar chamadas devido a ausência de permissões"</string>
     <string name="saf_permission_title">Permissões necessárias</string>
     <string name="saf_permission_use_this_folder">Usar esta pasta</string>
+    <string name="satellite_call_failed">Sinal interrompido. Tente novamente.</string>
+    <string name="satellite_dialog_button">Janela flutuante</string>
+    <string name="satellite_dialog_cancel">Cancelar</string>
+    <string name="satellite_guide_down">"Incline seu dispositivo para baixo
+até colocar a bola na área azul"</string>
+    <string name="satellite_guide_found">Satélite encontrado</string>
+    <string name="satellite_guide_left">"Incline seu dispositivo para a esquerda
+para colocar o ícone do satélite na área azul"</string>
+    <string name="satellite_guide_right">"Incline seu dispositivo para a direita
+para colocar o ícone do satélite na área azul"</string>
+    <string name="satellite_guide_searching">Procurando por satélite…</string>
+    <string name="satellite_guide_searching_floating">Procurando…</string>
+    <string name="satellite_guide_up">"Incline seu dispositivo para cima
+até colocar a bola na área azul"</string>
+    <string name="satellite_incall_tip">O alto-falante está ligado</string>
+    <string name="satellite_service_provider">Fornecido pela China Telecom</string>
+    <string name="satellite_state">"Não mova seu dispositivo"</string>
+    <string name="satellite_state_connected">"Conectado ao satélite. Não mova seu dispositivo."</string>
+    <string name="satellite_state_connected_floating">"Não mova seu dispositivo"</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
