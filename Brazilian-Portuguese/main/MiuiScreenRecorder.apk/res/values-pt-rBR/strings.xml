@@ -35,8 +35,7 @@
     <string name="app_notification_info">Atualmente gravando tela</string>
     <string name="app_notification_record_complete">"A gravação de tela foi salva na Galeria.
 Toque para ver."</string>
-    <string name="app_notification_record_saved">"Gravação salva com sucesso
-Toque para ver"</string>
+    <string name="app_notification_record_saved">"Gravação de tela salva. Toque para visualizar."</string>
     <string name="app_notification_title">Gravador de Tela</string>
     <string name="auto_stop_title">Vídeo salvo com sucesso</string>
     <string name="battery_not_allowed" formatted="false">Não é possível gravar com a bateria abaixo de 3%. Certifique-se de que a bateria esteja no mínimo 20% carregada.</string>
@@ -142,15 +141,16 @@ Toque para ver"</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
