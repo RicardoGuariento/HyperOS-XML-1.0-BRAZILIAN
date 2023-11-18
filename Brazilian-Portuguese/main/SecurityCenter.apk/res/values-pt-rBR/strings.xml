@@ -6248,7 +6248,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="allow_notify">permitir_notificar</string>
 	<string name="allow_tips_smart_task">permitir_tips_smart_task</string>
 	<string name="androidx_startup">androidx.startup</string>
-	<string name="app_manager_autostart_title">@string/app_manager_permission_startself_title</string>
 	<string name="app_manager_permission_backgroundstart_title">Início automático em segundo plano</string>
 	<string name="app_manager_power_consume">%.1f%%</string>
 	<string name="app_manager_systemapp_setting">Configurações do aplicativo do sistema</string>
@@ -6305,7 +6304,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="card_click_type_close_ad">Feche o botão de publicidade no canto superior direito</string>
 	<string name="card_click_type_open_or_download">Abra/download no canto inferior direito</string>
 	<string name="card_click_type_other">Outras áreas</string>
-	<string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
 	<string name="character_counter_pattern">%1$d/%2$d</string>
 	<string name="chinese_day_1">初一</string>
 	<string name="chinese_day_10">初十</string>
@@ -6413,24 +6411,13 @@ Experimente interpolar a resolução!"</string>
 	<string name="connected_devices_screen_title">&quot;Permitir que o dispositivo acima visualize e interaja com o conteúdo da tela deste dispositivo?&quot;</string>
 	<string name="connected_interconnection">Interconectividade</string>
 	<string name="conversation_summary_new">Embelezamento, legendas e outros recursos durante chamadas de áudio e vídeo</string>
-	<string name="create_table_aaid">CREATE TABLE AAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, aaid TEXT NOT NULL );</string>
-	<string name="create_table_keyword">Palavra-chave CREATE TABLE (_id INTEGER PRIMARY KEY AUTOINCREMENT, dados TEXT DEFAULT NULL, tipo INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sim_id INTEGER NOT NULL DEFAULT 1);</string>
-	<string name="create_table_mode">modo CREATE TABLE (_id INTEGER PRIMARY KEY AUTOINCREMENT, nome TEXT DEFAULT NULL, estado TEXT DEFAULT NULL );</string>
-	<string name="create_table_oaid">CREATE TABLE OAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, oaid TEXT NOT NULL );</string>
-	<string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, número TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notas TEXT DEFAULT NULL, estado INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 1, tipo INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL , sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
-	<string name="create_table_report_sms">CREATE TABLE reportSms(id TEXT NOT NULL);</string>
-	<string name="create_table_report_sms_pending">CREATE TABLE reportSmsPending( id TEXT NOT NULL, endereço TEXT, corpo TEXT, data TEXT );</string>
-	<string name="create_table_sim">CREATE TABLE sim (_id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode INTEGER DEFAULT 0);</string>
 	<string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, digite INTEGER NOT NULL );</string>
-	<string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
-	<string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, número TEXT DEFAULT NULL, data INTEGER NOT NULL DEFAULT 0, tipo INTEGER NOT NULL DEFAULT 0, razão INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, leia INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, modo INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
 	<string name="default_web_client_id">436805358632-1au5ms49utfaeginkj9m0muaescgnt0p.apps.googleusercontent.com</string>
 	<string name="demo_number">241</string>
 	<string name="desc_share_uid_sec" formatted="false">%1s. %2s</string>
 	<string name="dialog_remobe_luckymoney_cancle">Versão única</string>
 	<string name="dialog_remobe_luckymoney_ok">Vá para abrir</string>
 	<string name="dialog_remove_luckymoney">A versão atual do sistema suportou o assistente de envelope vermelho no nível do sistema. Você desinstala a versão única e vai à governanta do celular para abrir um assistente de envelope vermelho de milho mais rápido e mais estável?</string>
-	<string name="ellipsis">…</string>
 	<string name="empty_activity_title">&quot; &quot;</string>
 	<string name="enter">Digitar</string>
 	<string name="execute_notify">excluir_notificar</string>
@@ -6439,8 +6426,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="exo_controls_custom_playback_speed">%1$.2fx</string>
 	<string name="exo_item_list">%1$s, %2$s</string>
 	<string name="exo_player_time_seperate">/</string>
-	<string name="exo_track_bitrate">%1$,2f Mbps</string>
-	<string name="exo_track_resolution">%1$d × %2$d</string>
 	<string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
 	<string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
 	<string name="fast_open">Modo Rush</string>
@@ -6543,9 +6528,7 @@ Experimente interpolar a resolução!"</string>
 	<string name="material_motion_easing_emphasized">caminho (M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1, 1)</string>
 	<string name="material_motion_easing_linear">bezier cúbico (0,0, 0,0, 1,0, 1,0)</string>
 	<string name="material_motion_easing_standard">bezier cúbico (0,4, 0,0, 0,2, 1,0)</string>
-	<string name="menu_text_networkassistants_data">%1$s%2$s</string>
 	<string name="menu_text_power_percent">%s</string>
-	<string name="menu_text_power_percent_title">%s</string>
 	<string name="mi_sim_link_custom">&quot;%1$s&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;%2$s&lt;/U&gt;&lt;/font&gt;&quot;</string>
 	<string name="mic">Microfone</string>
 	<string name="miui_blur_location">Localização aproximada</string>
@@ -6553,7 +6536,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="model_type_phone">celular</string>
 	<string name="more_setting_summary">Suportar tipos de lembrete de envelope vermelho, janelas de suspensão de desktop, não perturbar o tempo e outras funções</string>
 	<string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
-	<string name="mtrl_picker_cancel">@android:string/cancelar</string>
 	<string name="mtrl_picker_date_header_selected">%1$s</string>
 	<string name="new_result_sound_only">Som</string>
 	<string name="no_lucky_money">Não receberam um envelope vermelho</string>
@@ -6569,7 +6551,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="open_fast_open_mode_summary">Abra o modo de agarrar de velocidade. Quando o envelope vermelho for recebido, o sistema abrirá automaticamente a página do envelope vermelho.</string>
 
 	<string name="open_right_now_short">Pegar</string>
-	<string name="open_shut_down_password">@string/ew_guide_start_agree</string>
 	<string name="operator_number_cmcc">10086</string>
 	<string name="operator_number_telcom">10000</string>
 	<string name="operator_number_unicom">10010</string>
@@ -6611,8 +6592,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="permgroupdesc_installapplist">Acesse a lista de aplicativos instalados neste dispositivo</string>
 	<string name="permgroupdesc_readmediafile">Acesse fotos, vídeos e áudio armazenados neste dispositivo</string>
 	<string name="permisison_usage_menu_all">Todos</string>
-	<string name="permisison_usage_menu_camera">@string/câmera</string>
-	<string name="permisison_usage_menu_location">@string/local</string>
 	<string name="permisison_usage_menu_mic">@corda/microfone</string>
 	<string name="permisison_usage_menu_terminal">Interconectividade</string>
 	<string name="permisison_usage_now_camera">Este aplicativo está acessando a câmera agora</string>
@@ -6734,8 +6713,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="pref_key_bubble_settings_switch">pref_key_bubble_settings_switch</string>
 	<string name="pref_key_g_bubble_settings_notification">pref_key_g_bubble_settings_notification</string>
 	<string name="pref_key_g_bubble_settings_preview">pref_key_group_bubble_settings_preview</string>
-	<string name="pref_operator_setting">%1$s%2$s</string>
-	<string name="preference_category_information_setting">categoria_informações_configuração</string>
 	<string name="preference_category_key_antivirus_setting">key_category_antivirus_setting</string>
 	<string name="preference_category_revoke_privacy_setting">revogar_privacy_setting</string>
 	<string name="preference_category_videobox_app_group">categoria_videobox_app_group</string>
@@ -6759,8 +6736,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="preference_key_cta_settings">key_cta_settings</string>
 	<string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
 	<string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-	<string name="preference_key_information_setting_close">key_information_setting_close</string>
-	<string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
 	<string name="preference_key_manual_item_create_icon">key_manual_item_create_icon</string>
 	<string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
 	<string name="preference_key_module_antipam">módulo_antipam</string>
@@ -6792,7 +6767,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="privacy_screen_share_notification_title">Transmitindo conteúdo da tela</string>
 	<string name="privacy_screen_share_protect_tip">Protegido</string>
 	<string name="privacy_screen_share_tip">Fundição</string>
-	<string name="process_kernel_label">Android</string>
 	<string name="project_id">centro de segurança-89b35</string>
 	<string name="prompt_danger">Perigo</string>
 	<string name="prompt_safe">Seguro</string>
@@ -6838,11 +6812,6 @@ Experimente interpolar a resolução!"</string>
 	<string name="solar_term_winter_solstice">Solstício de inverno</string>
 	<string name="sp_payment_detection_title">Verificação de segurança de pagamento</string>
 	<string name="sp_safe_install_mode_title">Mi proteger</string>
-	<string name="st_antispam_mode_blacklist_state">11112121</string>
-	<string name="st_antispam_mode_only_all_deny_state">10000000</string>
-	<string name="st_antispam_mode_only_contacts_state">11110000</string>
-	<string name="st_antispam_mode_only_whitelist_state">11000000</string>
-	<string name="st_antispam_mode_smart_state">11111111</string>
 	<string name="status_bar_notification_info_overflow">999+</string>
 	<string name="storage_click_apk">Pacote de instalação</string>
 	<string name="storage_click_app">Aplicação e dados</string>

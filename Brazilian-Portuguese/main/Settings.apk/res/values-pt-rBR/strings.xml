@@ -11998,7 +11998,6 @@ Atualizar configurações para:
 	<string name="bluetooth_scan_change">Mudar</string>
 	<string name="bluetooth_show_leaudio_device_details">Mostrar alternância de áudio LE nos detalhes do dispositivo</string>
 	<string name="bluetooth_system_sounds_title">Notificações e outros sons do sistema</string>
-	<string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
 	<string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
 	<string name="bottomsheet_action_collapse">Recolher a folha inferior</string>
 	<string name="bottomsheet_action_expand">Expanda a folha inferior</string>
@@ -12017,7 +12016,6 @@ Atualizar configurações para:
 	<string name="bt_leaudio_summary_V2">Desfrute de áudio de alta qualidade e baixo consumo de energia com latência reduzida</string>
 	<string name="button_label_confirmation_of_system_locale_change">Mudar</string>
 	<string name="cache_db_name">app_icons.db</string>
-	<string name="call_manager_summary">%1$s</string>
 	<string name="call_notification_answer_action">Responder</string>
 	<string name="call_notification_answer_video_action">Vídeo</string>
 	<string name="call_notification_decline_action">Declínio</string>
@@ -12032,7 +12030,6 @@ Atualizar configurações para:
 	<string name="category_clone">Clone</string>
 	<string name="cellular_network_title">Depuração de rede celular</string>
 	<string name="celsius_temperature_unit">Celsius (°C)</string>
-	<string name="certinstaller_package">com.android.certinstaller</string>
 	<string name="change_nfc_tag_apps_detail_summary">&quot;Permitir que este aplicativo seja iniciado quando uma etiqueta NFC for digitalizada. Se esta permissão estiver ativada, o aplicativo estará disponível como opção sempre que uma tag for detectada.&quot;</string>
 	<string name="change_nfc_tag_apps_detail_switch">Permitir inicialização na varredura NFC</string>
 	<string name="change_nfc_tag_apps_title">Iniciar via NFC</string>
@@ -12238,13 +12235,11 @@ Atualizar configurações para:
 	<string name="device_info_protected_single_press">Toque para mostrar informações</string>
 	<string name="device_mall_card_title_new">Direitos e interesses</string>
 	<string name="dialog">Diálogo</string>
-	<string name="digital_clock_dot">:</string>
 	<string name="disable_phantom_process_monitor_summary">Desabilitar restrições sobre o uso de recursos do sistema dos processos filhos do aplicativo</string>
 	<string name="disable_phantom_process_monitor_title">Desabilitar restrições de processos filhos</string>
 	<string name="disabled_by_policy_parental_consent">Entregue o telefone aos seus pais para permitir que essa configuração seja alterada.</string>
 	<string name="display_settings_new">Tela e brilho</string>
 	<string name="dlg_remove_locales_title">{count, plural, =1 {Remover idioma selecionado?} other {Remover idiomas selecionados?} }</string>
-	<string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
 	<string name="dock_multi_instances_not_supported_text">Este aplicativo só pode ser aberto em 1 janela</string>
 	<string name="doublepress_summary">Reproduzir e pausar a reprodução</string>
 	<string name="doublepress_title">Execute um movimento de pressão dupla</string>
@@ -12423,7 +12418,6 @@ Atualizar configurações para:
 	<string name="keyboard_settings">Teclado</string>
 	<string name="keyboard_settings_summary">Teclado na tela, ferramentas</string>
 	<string name="keyboard_settings_with_physical_keyboard_summary">Teclado na tela, teclado físico, ferramentas</string>
-	<string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
 	<string name="keywords_access_point_names">apn</string>
 	<string name="keywords_active_unlock_settings">assistir desbloqueio, adicionar desbloqueio de relógio</string>
 	<string name="keywords_change_nfc_tag_apps_state">NFC, etiqueta, leitor</string>
@@ -12443,7 +12437,6 @@ Atualizar configurações para:
 	<string name="leftright_waving_summary">Ajuste o progresso da reprodução e alterne entre músicas</string>
 	<string name="leftright_waving_title">Onda horizontalmente</string>
 	<string name="link_locale_picker_footer_learn_more">https://support.google.com/android?p=per_language_app_settings</string>
-	<string name="link_speed">%1$d Mbps</string>
 	<string name="link_to_windows_setting_off">Desligado</string>
 	<string name="link_to_windows_setting_on">Sobre</string>
 	<string name="link_to_windows_settings_title">Vincular ao Windows</string>
@@ -12530,7 +12523,6 @@ Atualizar configurações para:
 	<string name="media_transfer_external_device_name">Dispositivo externo</string>
 	<string name="meid_multi_sim_primary">MEID (slot SIM %1$d) (primário)</string>
 	<string name="memory_usage_apps_summary">{count, plural, =1 {1 aplicativo usou memória na última {vez}} other {# aplicativos usaram memória na última {vez}} }</string>
-	<string name="memory_use_running_format">%1$s/%2$s</string>
 	<string name="memtag_footer">&quot;Você terá que reiniciar seu dispositivo para ativar ou desativar a proteção avançada de memória. Quando estiver ativado, você poderá notar um desempenho mais lento do dispositivo.&quot;</string>
 	<string name="memtag_force_off">Atualmente indisponível para seu dispositivo</string>
 	<string name="memtag_force_on">Sempre ativado para o seu dispositivo</string>
@@ -12576,14 +12568,7 @@ Atualizar configurações para:
 	<string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">OK</string>
 	<string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Desbloqueio facial</string>
 	<string name="miui_face_unlock_open_toast_for_sensor_light_virtual">&quot;O brilho da tela não será ajustado automaticamente&quot;</string>
-	<string name="miui_keyboard_assistance_category">@string/keyboard_assistance_category</string>
 	<string name="miui_keyboard_back_light">nulo</string>
-	<string name="miui_keyboard_layout_default_label">@string/keyboard_layout_default_label</string>
-	<string name="miui_keyboard_mouse_touch">@string/keyboard_mouse_touch</string>
-	<string name="miui_keyboard_shortcuts_helper">@string/keyboard_shortcuts_helper</string>
-	<string name="miui_keyboard_shortcuts_helper_summary">@string/keyboard_shortcuts_helper_summary</string>
-	<string name="miui_pointer_settings_category">@string/pointer_settings_category</string>
-	<string name="miui_pointer_speed">@string/pointer_speed</string>
 	<string name="miui_sos_focus_notification_ticker">SOS de emergência ativado</string>
 	<string name="miui_tof_screen_on_close_switch_dialog_msg">Ative \&quot;%s\&quot; para poder usar esse recurso normalmente. Você pode ativar esse recurso em Configurações.</string>
 	<string name="miui_tof_screen_on_close_switch_dialog_positive">Configurações</string>
@@ -12640,7 +12625,6 @@ Atualizar configurações para:
 	<string name="near_loclscreen_title">Ativar tela ao retornar</string>
 	<string name="network_connection_error">Erro de conexão de rede</string>
 	<string name="next">Próximo</string>
-	<string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
 	<string name="nfc_reboot_dialog_confirm">Reiniciar</string>
 	<string name="nfc_reboot_dialog_message">O registro NFC detalhado destina-se apenas a fins de desenvolvimento. Dados NFC adicionais estão incluídos em relatórios de erros, que podem conter informações privadas. Reinicie o seu dispositivo para alterar esta configuração.</string>
 	<string name="nfc_reboot_dialog_title">Dispositivo de reinício?</string>
@@ -12658,7 +12642,6 @@ Atualizar configurações para:
 	<string name="notif_listener_more_settings_desc">Mais configurações estão disponíveis dentro deste aplicativo</string>
 	<string name="notification_app_permissions">Permissões de notificação</string>
 	<string name="notification_control_center_new">Notificações e barra de status</string>
-	<string name="notification_header_divider_symbol_with_spaces">&quot; • &quot;</string>
 	<string name="notification_history_count">{count, plural, =1 {# notificação} other {# notificações} }</string>
 	<string name="notification_status_bar">Notificações e barra de status</string>
 	<string name="notification_style_settings">Estilo de notificação</string>
@@ -12692,7 +12675,6 @@ Atualizar configurações para:
 	<string name="please_connect_to_the_wifi">Conecte-se à WLAN para terminar de limpar os dados do eSIM.</string>
 	<string name="please_stop_broadcast_audio">Termine de transmitir o áudio local primeiro</string>
 	<string name="please_stop_listen_broadcast_audio">Por favor, termine de ouvir a transmissão atual</string>
-	<string name="power_charging">%1$s - %2$s</string>
 	<string name="power_charging_future_paused">%1$s – Carregamento otimizado</string>
 	<string name="power_cpu">CPU</string>
 	<string name="power_gps">GPS</string>
@@ -12701,7 +12683,6 @@ Atualizar configurações para:
 	<string name="power_menu_long_press_for_power_menu_title">Menu de energia</string>
 	<string name="power_menu_summary_long_press_for_assistant">Acesse o assistente digital</string>
 	<string name="power_menu_summary_long_press_for_power_menu">Acesse o menu de energia</string>
-	<string name="power_remaining_settings_home_page">%1$s - %2$s</string>
 	<string name="preference_summary_default_combination">%1$s/%2$s</string>
 	<string name="preferred_nw_incompatible_ciwlan_nw_mode_dialog_body">Para selecionar um tipo de rede que não contenha LTE, NR ou Global, desative o Voice Over Cellular Internet.</string>
 	<string name="preferred_nw_incompatible_ciwlan_nw_mode_dialog_title">Tipo de rede incompatível</string>
@@ -12714,11 +12695,6 @@ Atualizar configurações para:
 	<string name="privacy_input_mode_img_detail">Funciona com teclados autorizados pela Xiaomi</string>
 	<string name="private_dns_mode_provider_custom_name">Nome personalizado</string>
 	<string name="private_dns_mode_provider_exposed_hostname">Detectável</string>
-	<string name="process_kernel_label">SO Android</string>
-	<string name="proxy_exclusionlist_hint">exemplo.com,mycomp.test.com,localhost</string>
-	<string name="proxy_hostname_hint">proxy.exemplo.com</string>
-	<string name="proxy_port_hint">8080</string>
-	<string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
 	<string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
 	<string name="qtifeedback_intent_action">com.qti.smq.snapdragonConfigurações</string>
 	<string name="qtifeedback_package">com.qti.smq.Feedback</string>
@@ -12784,7 +12760,6 @@ Atualizar configurações para:
 	<string name="screensaver_settings_summary_on">Ativado / %1$s</string>
 	<string name="screensaver_settings_when_to_dream_bedtime">Indisponível porque o modo hora de dormir está ativado</string>
 	<string name="search_bar_search">Procurar</string>
-	<string name="security_encryption_attention_symbol">•</string>
 	<string name="security_header">Segurança</string>
 	<string name="security_patch_subtitle">&quot;Atualização de segurança do Android:&quot;</string>
 	<string name="security_settings_activeunlock_biometric_setup">Configurar</string>
@@ -12839,16 +12814,12 @@ Atualizar configurações para:
 	<string name="sensors_hal_log_title">Registros HAL de sensores</string>
 	<string name="separate_ring_volume_option_title">Volume do toque</string>
 	<string name="separator">ꚙ</string>
-	<string name="service_client_name">%1$s</string>
-	<string name="service_process_name">%1$s</string>
-	<string name="settings_package">com.android.settings</string>
 	<string name="settingslib_category_personal">Pessoal</string>
 	<string name="settingslib_category_work">Trabalhar</string>
 	<string name="show_dev_countdown">{count, plural, =1 {Você está agora a # passos de se tornar um desenvolvedor.} other {Você está agora a # passos de se tornar um desenvolvedor.} }</string>
 	<string name="sim_invalid_pin_hint">Digite um PIN com 4 a 8 números</string>
 	<string name="size_compat1">%1$d:%2$d</string>
 	<string name="size_compat2">%1$d:%2$d</string>
-	<string name="size_suffix">%1$s %2$s</string>
 	<string name="snackbar_dismiss">Liberar</string>
 	<string name="software_cursor_trigger_hints_enabled_title">Dicas de área de detecção de gestos</string>
 	<string name="software_cursor_trigger_keyboard_shift_enabled_title">Mude a região de detecção de gestos acima do teclado</string>
@@ -12881,8 +12852,6 @@ Atualizar configurações para:
 	<string name="split_operation_guide_title">Como usar a tela dividida</string>
 	<string name="ssl_ca_cert_dialog_title">{count, plural, =1 {Confiar ou remover certificado} other {Confiar ou remover certificados} }</string>
 	<string name="ssl_ca_cert_settings_button">{count, plural, =1 {Verificar certificado} other {Verificar certificados} }</string>
-	<string name="status_bar_notification_info_overflow">999+</string>
-	<string name="status_bar_settings_carrier_sim">&quot;SIM %1$s:&quot;</string>
 	<string name="status_eid">IDE</string>
 	<string name="status_iccid">ICCID</string>
 	<string name="status_imei">IMEI</string>
@@ -12905,10 +12874,8 @@ Atualizar configurações para:
 	<string name="sud_skip_button_label">Pular</string>
 	<string name="suggestions_available">Sugestões abaixo</string>
 	<string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-	<string name="summary_font_size">%1$s</string>
 	<string name="summary_placeholder"/>
 	<string name="summary_quick_control_all_devices">Mostrar controles para TVs, alto-falantes e carros próximos na Central de controle</string>
-	<string name="summary_range_symbol_combination">%1$s - %2$s</string>
 	<string name="summary_two_lines_placeholder">&quot; &quot;</string>
 	<string name="sunday_first_day_of_week">Domingo</string>
 	<string name="sunlight_mode_boost_summary">Expanda a faixa de brilho e ajuste o brilho automaticamente sob condições de luminosidade. Este recurso fará com que seu dispositivo aqueça e consuma mais energia.</string>
@@ -13018,7 +12985,6 @@ Atualizar configurações para:
 	<string name="volume_key_launch_camera">Câmera Aberta</string>
 	<string name="volume_key_launch_camera_and_take_photo">Tirar fotos</string>
 	<string name="wednesday_first_day_of_week">Quarta-feira</string>
-	<string name="wifi_calling_roaming_mode_summary">%1$s</string>
 	<string name="wifi_dns1_hint">8.8.8.8</string>
 	<string name="wifi_dns2_hint">8.8.4.4</string>
 	<string name="wifi_eap_min_tls_ver">Versão mínima do TLS</string>
@@ -13066,7 +13032,6 @@ Atualizar configurações para:
 	<string name="wifi_security_eap_wpa3">WPA3-Empresarial</string>
 	<string name="wifi_security_eap_wpa_wpa2">WPA/WPA2-Empresarial</string>
 	<string name="wifi_security_passpoint">Passaporte</string>
-	<string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
 	<string name="wifi_security_psk_sae">WPA2/WPA3-Pessoal</string>
 	<string name="wifi_security_sae">WPA3-Pessoal</string>
 	<string name="wifi_security_short_dpp">DPP</string>
@@ -13075,7 +13040,6 @@ Atualizar configurações para:
 	<string name="wifi_security_short_eap_wpa">WPA-EAP</string>
 	<string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
 	<string name="wifi_security_short_owe">DEVER</string>
-	<string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
 	<string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
 	<string name="wifi_security_short_sae">WPA3</string>
 	<string name="wifi_security_short_wep">WEP</string>
@@ -13134,8 +13098,6 @@ Atualizar configurações para:
 	<string name="zen_mode_calls_summary_one">%1$s</string>
 	<string name="zen_mode_summary_alarms_only_by_hour">{count, plural, =1 {Mude para alarmes apenas por uma hora até {hora}} other {Mude para alarmes apenas por # horas até {hora}} }</string>
 	<string name="zen_mode_summary_alarms_only_by_minute">{count, plural, =1 {Mude para alarmes apenas por um minuto até {hora}} other {Mude para alarmes apenas por # minutos (até {hora})} }</string>
-	<string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
 	<string name="zone_info_footer_first_sentence">Usa %1$s. %2$s</string>
 	<string name="zone_info_footer_second_sentence">%1$s começa em %2$s.</string>
-	<string name="zone_info_offset_and_name">%2$s (%1$s)</string>	
 </resources>
