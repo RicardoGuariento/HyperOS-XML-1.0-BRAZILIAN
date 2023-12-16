@@ -54,7 +54,7 @@
     <string name="app_name_downloads">"Downloads"</string>
     <string name="app_name_market">"App Store"</string>
     <string name="app_name_midrop">"Mi Drop"</string>
-    <string name="app_name_miui">"HyperOS"</string>
+    <string name="app_name_miui">"Recursos do sistema"</string>
     <string name="app_name_miuimusic">Música</string>
     <string name="app_name_miuiringtone">Toques</string>
     <string name="app_name_miuiwallpaper">Planos de fundo</string>
@@ -334,7 +334,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="ftp_account_req_notice">O nome de usuário e a senha diferenciam maiúsculas de minúsculas e devem conter %1$d-%2$d caracteres. Você pode combinar letras, símbolos especiais e números.</string>
+    <string name="ftp_account_req_notice">O nome de usuário e a senha deve conter %1$d-%2$d caractere, diferenciam maiúsculas de minúsculas e não devem conter caracteres especiais.</string>
     <string name="ftp_anonymous_login">Iniciar sessão anônima</string>
     <string name="ftp_anonymous_warning_msg">Os recursos de anonimato podem representar riscos de segurança. Usar esses recursos mesmo assim?</string>
     <string name="ftp_anonymous_warning_title">Atenção!</string>
@@ -473,14 +473,14 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="mirror_tip_show_type">Ordenar por</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecione itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Deletar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
@@ -731,7 +731,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="permission_storage_title">Acessar o armazenamento do dispositivo</string>
     <string name="permission_storage_title_pad">Acessar o armazenamento do dispositivo</string>
     <string name="petabyteShort">"PB"</string>
-    <string name="phone">Armazenamento interno</string>
+    <string name="phone">Armazenamento</string>
     <string name="phone_storage">Armazenamento</string>
     <string name="phone_storage_apk_title">"APKs: "</string>
     <string name="phone_storage_audio_title">"Música: "</string>

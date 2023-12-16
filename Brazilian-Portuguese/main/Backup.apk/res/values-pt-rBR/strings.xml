@@ -257,7 +257,7 @@ https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="findlost_contact">Restaurar contatos</string>
     <string name="findlost_contact_online">Restaurar contatos da nuvem</string>
     <string name="flash_drive_backup_btn">Backup para o drive USB</string>
-    <string name="flash_drive_backup_note">"Faça o backup de apps para um drive USB.
+    <string name="flash_drive_backup_note">"Faça o backup do conteúdo em uma unidade USB.
 Certifique-se de que o drive USB tem espaço suficiente antes de iniciar."</string>
     <string name="flash_drive_backup_restore">Backups USB</string>
     <string name="flash_drive_connection_failed">Drive USB desconectado</string>
@@ -402,14 +402,14 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="miliao_account_login">Fazer login com o Mi Talk</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
@@ -481,7 +481,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_britem_other">Outros</string>
     <string name="new_britem_pic">Imagens</string>
     <string name="new_britem_video">Vídeos</string>
-    <string name="new_confirm_enable_encrypt_content">O HyperOS associa os backups criptografados com a sua Conta Mi. Você precisará fazer o login em sua Conta Mi para restaurar os itens destes backups.</string>
+    <string name="new_confirm_enable_encrypt_content">Os backups criptografados estão associados à sua Conta Mi. Você precisará fazer o login em sua Conta Mi para restaurar os itens destes backups.</string>
     <string name="new_confirm_enable_encrypt_title">Criptografar</string>
     <string name="new_local_button_backup">Fazer backup</string>
     <string name="new_local_button_restore">Restaurar</string>
@@ -527,8 +527,8 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_tab_pc_restore">Restaurar</string>
     <string name="new_task_finished">Concluído</string>
     <string name="new_usb_detail_description">"Observação:
-%1$d. Este método permite fazer o backup de apps e dados de terceiros.
-%2$d. Certifique-se de que há espaço suficiente no seu drive USB para armazenar os backups."</string>
+%1$d. Faça backup do conteúdo em uma unidade USB.
+%2$d. Certifique-se de que há espaço suficiente na sua unidade USB antes de começar."</string>
     <string name="new_usb_disconnect_dialog_message">Conecte um drive USB primeiro.</string>
     <string name="new_usb_disconnect_dialog_title">Não foi possível encontrar o drive USB</string>
     <string name="new_usb_select_data_no_space">Só há %s de espaço disponível no seu drive USB. Libere espaço no armazenamento.</string>

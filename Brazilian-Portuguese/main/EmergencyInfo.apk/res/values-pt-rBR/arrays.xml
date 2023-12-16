@@ -77,6 +77,8 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+	    <item>LC3</item>
+        <item>Opus</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LC3</item>
@@ -88,6 +90,8 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
 	    <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LC3</item>
@@ -115,6 +119,18 @@
         <item>Ativado</item>
         <item>Ativado Cabeçalhos Filtrados</item>
         <item>Ativado Pacotes de mídia filtrados</item>
+	    <item>Ativado Perfis filtrados</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Deixe apenas cabeçalhos ACL</item>
+        <item>Filtrar pacotes de mídia A2DP</item>
+        <item>Filtrar canal RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Desativado</item>
+        <item>Preencha com sequência de caracteres</item>
+        <item>Deixe apenas o cabeçalho</item>
+        <item>Remover totalmente</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Cores aprimoradas</item>
@@ -222,16 +238,11 @@
         <item>Este é um exemplo de síntese de voz em espanhol.</item>
         <item>Este é um exemplo de síntese de voz em koreano.</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Muito devagar</item>
-        <item>Devagar</item>
-        <item>normal</item>
-        <item>Rápida</item>
-        <item>Mais rápido</item>
-        <item>Muito rápido</item>
-        <item>Rápida</item>
-        <item>Muito rápido.</item>
-        <item>O mais rápido</item>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mova para a esquerda</item>
+        <item>Mover para baixo</item>
+        <item>Mover para a direita</item>
+        <item>Mover para cima</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Carregando</item>

@@ -4,13 +4,13 @@
         <item quantity="other">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
+        <item quantity="other">%d hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em 1 hora</item>
+        <item quantity="other">Em %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
@@ -19,15 +19,15 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">em %d min</item>
-        <item quantity="one">em 1 min</item>
+        <item quantity="other">Em %d min</item>
+        <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d min atrás</item>
-        <item quantity="one">1 min atrás</item>
+        <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="age_label_days">
         <item quantity="other">%d dias</item>
@@ -40,6 +40,10 @@
     <plurals name="age_label_yrs">
         <item quantity="other">anos</item>
         <item quantity="one">ano</item>
+    </plurals>
+    <plurals name="delete_msg">
+        <item quantity="other">Excluir %d itens agora?</item>
+        <item quantity="one">Excluir %d item agora?</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">%d itens</item>
@@ -87,6 +91,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="select_items">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d meses</item>

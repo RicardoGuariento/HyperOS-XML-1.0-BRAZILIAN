@@ -344,15 +344,16 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="minusDesc">subtração</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -522,7 +523,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="select_all">Selecionar todos</string>
     <string name="select_item">Selecionar itens</string>
     <string name="send">Enviar</string>
-    <string name="settingsDesc">configurações</string>
+    <string name="settingsDesc">Configurações</string>
     <string name="sin">sen</string>
     <string name="sinDesc">seno</string>
     <string name="sin_mathematical_value">sen</string>
@@ -556,7 +557,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="tax_cal_method_fixed_salary">Cálculo de imposto de renda</string>
     <string name="tax_cal_method_format">Entrada pessoal: %s</string>
     <string name="tax_city_error">Insira uma cidade válida</string>
-    <string name="tax_city_located">Localização</string>
+    <string name="tax_city_located">Localização atual</string>
     <string name="tax_city_picker">Cidade</string>
     <string name="tax_credit_input_your_pretax_bonuse">Insira seu bônus bruto</string>
     <string name="tax_credit_monthly_salary">Salário mensal</string>
@@ -857,7 +858,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="unit_data_display_volume_hl">Hectolitro</string>
     <string name="unit_data_display_volume_l">Litro</string>
     <string name="unit_data_display_volume_ml">Mililitro</string>
-    <string name="unit_data_display_weight_ct">Quilate</string>
+    <string name="unit_data_display_weight_ct">Peso (kg)</string>
     <string name="unit_data_display_weight_dan">"Dan"</string>
     <string name="unit_data_display_weight_dr">"Dram"</string>
     <string name="unit_data_display_weight_g">Grama</string>
