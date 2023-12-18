@@ -84,14 +84,14 @@
     <string name="add">Anúncios</string>
     <string name="add_cw_fail_tip">Não foi possível adicionar plano de fundo</string>
     <string name="add_cw_success_tip">Plano de fundo adicionado com sucesso</string>
-    <string name="add_first_cw_toast1">Adicionado com sucesso.</string>
-    <string name="add_first_cw_toast2">Adicionados alguns itens com sucesso.</string>
-    <string name="add_first_cw_toast3">Planos de fundo adicionados com sucesso.</string>
-    <string name="add_first_cw_toast4">Carrossel de Planos de fundo ativado e a apresentação de slides iniciada</string>
+    <string name="add_first_cw_toast1">Adicionado com sucesso. Exibindo seus planos de fundo selecionados</string>
+    <string name="add_first_cw_toast2">Adicionados alguns planos de fundo selecionados com sucesso</string>
+    <string name="add_first_cw_toast3">Adicionados seus planos de fundo com sucesso.</string>
+    <string name="add_first_cw_toast4">Carrossel de Planos de fundo ativado. Exibindo seus planos de fundo selecionados</string>
     <string name="add_launch_hint_text">Adicionar atalho à tela inicial</string>
     <string name="add_local_picture">Galeria</string>
     <string name="add_online_picture">Imagens online</string>
-    <string name="add_to_cw">Adicionar à apresentação de slides</string>
+    <string name="add_to_cw">Adicionar à apresentação de slides personalizada</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="add_wallpaper">Adicionar planos de fundo</string>
     <string name="addcw_apply_btn_txt">Adicionar plano de fundo</string>
@@ -180,9 +180,9 @@
     <string name="custom_wallpaper_des">Ative o Carrossel de Planos de fundo, adicione suas fotos e imagens online ao mix para que apareçam na apresentação de slides automaticamente.</string>
     <string name="cw_add">Adicionar</string>
     <string name="cw_add2">Adicionar (%1$d)</string>
-    <string name="cw_add_fail">Não foi possível adicionar à apresentação de slides</string>
-    <string name="cw_add_num_tip">Não é possível adicionar mais itens à apresentação de slides</string>
-    <string name="cw_add_success">Adicionado à apresentação de slides com sucesso</string>
+    <string name="cw_add_fail">Não foi possível adicionar</string>
+    <string name="cw_add_num_tip">Não é possível selecionar mais planos de fundo para adicionar</string>
+    <string name="cw_add_success">Adicionado com sucesso</string>
     <string name="cw_add_tip_fail">Não foi possível adicionar</string>
     <string name="cw_add_wallpaper">Adicionar plano de fundo</string>
     <string name="cw_add_wallpaper_more_recomm">Mais recomendações</string>
@@ -206,9 +206,9 @@
     <string name="cw_local_pic">Selecionar imagens</string>
     <string name="cw_my_fav">Favoritos</string>
     <string name="cw_permission_tip">Permitir que o Carrossel de Planos de fundo tenha acesso ao armazenamento em Configurações &gt; Gerenciar apps</string>
-    <string name="cw_wallpaper_empty_dlg_btn">OK</string>
-    <string name="cw_wallpaper_empty_dlg_content">Você não adicionou nenhum item à sua apresentação de slides. Trocado para recomendações</string>
-    <string name="cw_wallpaper_empty_dlg_title">Sem itens</string>
+    <string name="cw_wallpaper_empty_dlg_btn">"OK"</string>
+    <string name="cw_wallpaper_empty_dlg_content">Você não adicionou nenhum plano de fundo à sua apresentação de slides personalizada. O Carrossel de Planos de fundo exibirá papéis de parede recomendados</string>
+    <string name="cw_wallpaper_empty_dlg_title">Sem itens adicionados</string>
     <string name="cw_wallpaper_manager">Gerenciar planos de fundo</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -268,9 +268,9 @@ Envie este código para o supervisor."</string>
     <string name="double_click_to_exit_activity">Toque novamente para sair</string>
     <string name="early_morning">"AM"</string>
     <string name="edit_wallpaper">Gerenciar planos de fundo</string>
-    <string name="enable_toast_ar">Alterado para recomendações</string>
-    <string name="enable_toast_cw">Alterado para apresentação</string>
-    <string name="enable_toast_cwo">Carrossel de Planos de fundo ativado e a apresentação de slides iniciada</string>
+    <string name="enable_toast_ar">Mostrando planos de fundo recomendados</string>
+    <string name="enable_toast_cw">Mostrando apresentação de slides personalizada</string>
+    <string name="enable_toast_cwo">Carrossel de Planos de fundo e a apresentação de slides personalizada estão ativados</string>
     <string name="enable_toast_subscribe">Carrossel de Planos de fundo ativo e assinaturas ativadas</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -283,7 +283,7 @@ Envie este código para o supervisor."</string>
     <string name="explorer_activity_title">Carrossel de Planos de fundo</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="external_storage_permission">Acessar armazenamento</string>
-    <string name="external_storage_permission_summary">Para selecionar planos de fundo personalizados e salvar itens baixados</string>
+    <string name="external_storage_permission_summary">Permita que este app acesse arquivos em seu dispositivo para poder adicionar seus próprios papéis de parede ao Carrossel de Planos de fundo e salvar o conteúdo baixado em seu dispositivo.</string>
     <string name="facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
     <string name="favor_list_no_data">Sem itens</string>
@@ -369,7 +369,7 @@ Envie este código para o supervisor."</string>
     <string name="lks_cta_ok">Aceitar</string>
     <string name="lks_cta_reject">"Não aceito"</string>
     <string name="lks_cta_summary1">O Carrossel de Planos de fundo fornece os seguintes recursos:</string>
-    <string name="lks_cta_summary2">"1. Planos de fundo atualizados automaticamente&lt;br>2. Novas imagens e histórias entregues em sua Tela de bloqueio&lt;br>3. Opções de personalização&lt;br>Este recurso precisa se conectar à internet para funcionar normalmente.&lt;br>&lt;br>Para fornecer serviços adicionais, podemos solicitar permissão para acessar e salvar itens no armazenamento deste dispositivo. Leia e concorde com o nosso &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a> antes de continuar."</string>
+    <string name="lks_cta_summary2">"1. Planos de fundo atualizados automaticamente&lt;br>2. Novas imagens e histórias entregues em sua Tela de bloqueio&lt;br>3. Opções de personalização&lt;br>Este recurso precisa se conectar à internet para funcionar normalmente.&lt;br>&lt;br>Para fornecer serviços adicionais, podemos solicitar permissão para acessar e salvar itens no armazenamento deste dispositivo. Leia e concorde com o nosso &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a> antes de continuar."</string>
     <string name="lks_cta_title">Termos e Condições</string>
     <string name="lks_current_lks_wallpaper">Tela de bloqueio atual</string>
     <string name="lks_data_warning_toast_1">"Você está usando dados móveis para pesquisar planos de fundo.
@@ -935,7 +935,7 @@ mm"</string>
     <string name="request_error_unknown">Ocorreu um erro de sistema. Volte e tente novamente.</string>
     <string name="request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
     <string name="require_permission">Permissões necessárias</string>
-    <string name="require_permission_text">Para poder salvar e visualizar itens, permita que o Carrossel de Planos de fundo acesse o armazenamento.</string>
+    <string name="require_permission_text">Este app precisa de permissão para acessar arquivos em seu dispositivo para poder adicionar seus próprios papéis de parede ao Carrossel de Planos de fundo e salvar o conteúdo baixado em seu dispositivo.</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
     <string name="resend_email_reach_limit_title">Muitas tentativas</string>
@@ -994,7 +994,7 @@ mm"</string>
     <string name="setting_head">Configurações</string>
     <string name="setting_ok">Configurações</string>
     <string name="setting_tip">Não mostrar novamente</string>
-    <string name="setting_title">Apresentação de slides</string>
+    <string name="setting_title">Adicionado com sucesso</string>
     <string name="settings">Configurações</string>
     <string name="share">Compartilhar</string>
     <string name="share_today_morning">Compartilhar</string>
@@ -1023,7 +1023,7 @@ mm"</string>
     <string name="sns_bind_limit">Muitas tentativas efetuadas. Tente outras formas de login.</string>
     <string name="sns_sign_in">Outras formas de login</string>
     <string name="sst_auto_recommand_desc">Inscreva-se em suas categorias favoritas para receber novas imagens e histórias entregues em sua Tela de bloqueio diariamente</string>
-    <string name="sst_auto_recommand_title">Obter recomendações para planos de fundo personalizados</string>
+    <string name="sst_auto_recommand_title">Planos de fundo recomendados</string>
     <string name="sst_change_wallpaper_desc">Selecionar onde quer aplicar o plano de fundo</string>
     <string name="sst_change_wallpaper_desk">Tela inicial</string>
     <string name="sst_change_wallpaper_lock">Tela de bloqueio</string>
@@ -1035,7 +1035,7 @@ mm"</string>
     <string name="sst_cover_chg_enable_title">Mostrar carregando</string>
     <string name="sst_custom_wallpaper_desc">Selecionar imagens da galeria e recomendações</string>
     <string name="sst_custom_wallpaper_title">Apresentação de slides personalizada</string>
-    <string name="sst_custom_wallpaper_title2">Apresentação de slides</string>
+    <string name="sst_custom_wallpaper_title2">Selecione meus planos de fundo</string>
     <string name="sst_disable_unopen">Recurso beta</string>
     <string name="sst_effect_next_wallpaper">Defina um novo plano de fundo para aplicar as mudanças</string>
     <string name="sst_favor_desc">Ver favoritos</string>
@@ -1074,13 +1074,13 @@ mm"</string>
     <string name="sst_subscrible_manager_title_bar_text">Gerenciar inscrições</string>
     <string name="sst_subscripted">Subscrito</string>
     <string name="sst_subscripted2">Categorias disponíveis</string>
-    <string name="sst_switch_wallpaper_order_desc">Selecione a ordem pela qual serão atualizados</string>
+    <string name="sst_switch_wallpaper_order_desc">Seleciona a ordem dos slides</string>
     <string name="sst_switch_wallpaper_order_fixed">Sequência</string>
     <string name="sst_switch_wallpaper_order_random">Aleatória</string>
     <string name="sst_switch_wallpaper_order_title">Ordem de atualização</string>
     <string name="sst_wallpaper_define_desc">Gerenciar</string>
-    <string name="sst_wallpaper_define_title">As minhas apresentações</string>
-    <string name="sst_wallpaper_define_title2">Adicionar imagens</string>
+    <string name="sst_wallpaper_define_title">Apresentação de slides personalizada</string>
+    <string name="sst_wallpaper_define_title2">Adicionar slides</string>
     <string name="sst_wallpaper_history_des">Ver recomendações recentes</string>
     <string name="sst_wallpaper_history_title">Histórico</string>
     <string name="sst_wifi_only_desc">Desative para atualizar somente por Wi-Fi</string>
@@ -1203,7 +1203,7 @@ mm"</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="understand_band_story">Saiba mais</string>
-    <string name="uninstall_introducation_text_desc">O Carrossel de Planos de fundo oferece novas imagens de qualidade diretamente na tela de bloqueio. Certifique-se que consegue fazer isto antes de desinstalar</string>
+    <string name="uninstall_introducation_text_desc">O Carrossel de Planos de fundo oferece imagens novas e de alta de qualidade diretamente na Tela de bloqueio. Certifique-se de que você pode ficar sem seus recursos antes de desinstalar</string>
     <string name="uninstall_introduction_text_title">Sobre</string>
     <string name="uninstall_warning_text_desc">Sem o Carrossel de Planos de fundo, você não irá receber novas imagens na sua tela de bloqueio diariamente. Excluir o Carrossel de Planos de fundo?</string>
     <string name="uninstall_warning_text_title">Excluindo Carrossel de Planos de fundo</string>

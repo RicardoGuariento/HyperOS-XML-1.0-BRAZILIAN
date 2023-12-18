@@ -104,6 +104,7 @@
     <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
     <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
     <string name="exo_track_unknown">Unknown</string>
+    <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="grant_dialog_button_allow">Permitir</string>
     <string name="grant_dialog_button_deny">Recusar</string>
@@ -234,12 +235,12 @@
     <string name="picker_motion_photo">Motion Photo</string>
     <string name="picker_motion_photo_text">Motion Photo</string>
     <string name="picker_mute_video">Mute video</string>
-    <string name="picker_pause_video">Pause video</string>
+    <string name="picker_pause_video">Pausar</string>
     <string name="picker_personal_profile">Switch to personal</string>
     <string name="picker_photo">Photo</string>
     <string name="picker_photos">Photos</string>
     <string name="picker_photos_empty_message">No photos or videos</string>
-    <string name="picker_play_video">Play video</string>
+    <string name="picker_play_video">Reproduzir</string>
     <string name="picker_preview">Preview</string>
     <string name="picker_privacy_message">This app can only access the photos you select</string>
     <string name="picker_profile_admin_msg_from_personal">Accessing work data from a personal app is not permitted</string>

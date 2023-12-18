@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="action_mode_select_all">Selecionar todos</string>
     <string name="afternoon">"PM"</string>
+    <string name="age">Idade</string>
     <string name="age_label_add_to_calendar">Adicionar à Agenda</string>
     <string name="age_label_dob">Data de nascimento</string>
     <string name="age_label_hours">Horas</string>
@@ -47,14 +48,23 @@
     <string name="arccos">"arccos"</string>
     <string name="arcsin">"arcsen"</string>
     <string name="arctan">"arctan"</string>
+    <string name="baby_care">Cuidados com o bebê</string>
     <string name="base_rate">Taxa de juro base</string>
+    <string name="base_rate_first_house">Taxa básica de juros do primeiro imóvel (%1$s)</string>
+    <string name="base_rate_second_house">Taxa básica de juros do segundo imóvel (%1$s)</string>
+    <string name="bmi">IMC</string>
     <string name="bmi_error_text">Insira parâmetros válidos</string>
+    <string name="bmi_input_age_error">"Não é possível calcular o IMC para menores de 14 anos"</string>
+    <string name="bmi_input_error">"As informações inseridas não estão corretas"</string>
+    <string name="bmi_label">Sobre o IMC</string>
     <string name="bmi_label_information">Informação</string>
     <string name="bmi_label_normal">"Normal"</string>
     <string name="bmi_label_overweight">Sobrepeso</string>
     <string name="bmi_label_underweight">Subpeso</string>
     <string name="bmi_normal">"Normal"</string>
     <string name="bmi_over_weight">Sobrepeso</string>
+    <string name="bmi_result_label">Índice de massa corporal</string>
+    <string name="bmi_tips">"O índice de massa corporal (IMC) é o peso de uma pessoa em quilogramas dividido pelo quadrado da altura em metros. O IMC é um método fácil de triagem para categoria de peso."</string>
     <string name="bmi_underweight">Subpeso</string>
     <string name="btn_float_window_alpha">Ajustar opacidade</string>
     <string name="btn_float_window_back_to_app">Maximizar a Calculadora</string>
@@ -67,6 +77,7 @@
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">Texto copiado</string>
     <string name="cancel">Cancelar</string>
+    <string name="card_mortgage_average_repayment_monthly">Pagamento mensal</string>
     <string name="children_education">Educação infantil</string>
     <string name="choose_currency">Selecione a moeda</string>
     <string name="choose_radix">Selecione o sistema numérico</string>
@@ -101,6 +112,7 @@
     <string name="convertion_unit">Conversor de unidades</string>
     <string name="convertion_unit_area">Conversor de área</string>
     <string name="convertion_unit_data">Conversor de dados</string>
+    <string name="convertion_unit_finance">Cálculo de financas</string>
     <string name="convertion_unit_length">Conversor de comprimento</string>
     <string name="convertion_unit_radix">Sistema numérico</string>
     <string name="convertion_unit_temperature">Conversor de temperatura</string>
@@ -112,11 +124,13 @@
     <string name="cos">"cos"</string>
     <string name="cosDesc">cosseno</string>
     <string name="cos_mathematical_value">"cos"</string>
+    <string name="cta_desc">Bem-vindo à Calculadora! Este app combina os recursos de uma calculadora normal com vários conversores e recursos de estilo de vida. Este app precisa se conectar à Internet para funcionar normalmente.</string>
     <string name="currency_dialog_privacy_content">&lt;Data>O conversor de moedas precisa se conectar à Internet para obter as taxas de câmbio mais recentes. Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso.&lt;/Data></string>
     <string name="currency_update_connect_to_get_data">Tarifas de câmbio fornecidas pelo Webull. Conecte-se à Internet para obter as últimas informações.</string>
     <string name="currency_update_support">Taxas de câmbio fornecidas por Webull.</string>
     <string name="currency_update_time_format">Taxas de câmbio fornecidas por Webull (%s)</string>
     <string name="currency_update_updating">Atualizando taxas…</string>
+    <string name="data_analysis">Análise</string>
     <string name="date_format">"dd 'de' MMMM 'de' yyyy"</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -124,10 +138,14 @@
     <string name="day">dia</string>
     <string name="degDesc">Ângulo</string>
     <string name="del">"DEL"</string>
+    <string name="delete">Excluir</string>
     <string name="deleteDesc">excluir</string>
+    <string name="delete_tips">Excluindo itens</string>
     <string name="description_content">Além dos recursos básicos, a Calculadora também funciona como um conversor universal, além de calcular impostos e hipotecas. Certifique-se de que não precisará destes recursos antes de desinstalar o app.</string>
     <string name="description_title">Sobre a Calculadora</string>
     <string name="deselect_all">Desmarcar</string>
+    <string name="detail_close_btn">Ocultar extrato de reembolso</string>
+    <string name="detail_expand_btn">Exibir extrato de reembolso</string>
     <string name="devided_by_zero_reminder_message">Não é possível dividir por 0</string>
     <string name="dialog_privacy_content">&lt;Data>Além dos recursos básicos de uma calculadora, nosso app também possui uma calculadora científica e um conversor multifunções. Alguns recursos precisam de conexão com a Internet para funcionarem normalmente. Você deve ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar a Calculadora.&lt;/Data></string>
     <string name="dialog_privacy_disagree_msg">Ao desativar o seletor, você retira seu consentimento para a Política de Privacidade do app Calculadora. Nós deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, conforme exigido pelas leis aplicáveis. O app Calculadora precisa coletar as informações pessoais necessárias para fornecer-lhe serviços básicos. Sua retirada de consentimento de sua Política de Privacidade será considerada como recusa a aceitar seus serviços com base nas informações pessoais coletadas.</string>
@@ -148,6 +166,7 @@
     <string name="digit7">7</string>
     <string name="digit8">8</string>
     <string name="digit9">9</string>
+    <string name="disallow">"Não aceito"</string>
     <string name="divDesc">divisão</string>
     <string name="dob_selection_error">A data de nascimento deve ser anterior à data de hoje</string>
     <string name="dont_allow">Não aceitar</string>
@@ -155,6 +174,7 @@
     <string name="e">e</string>
     <string name="eDesc">Número de Euler</string>
     <string name="early_morning">"AM"</string>
+    <string name="empty_history">Nenhum item aqui ainda</string>
     <string name="equalDesc">igual a</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -167,6 +187,10 @@
     <string name="extra_deduction_tips">Toque no botão no canto superior da tela para ver os detalhes da dedução.</string>
     <string name="extra_deduction_title">Deduções adicionais</string>
     <string name="factorialDesc">fatorial</string>
+    <string name="fat">Sobrepeso</string>
+    <string name="female">Gênero: Feminino</string>
+    <string name="finance_interest">Taxa de juro (%s)</string>
+    <string name="float_window">Minimizar</string>
     <string name="float_window_guide_text">Toque aqui para minimizar a calculadora</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -210,6 +234,8 @@
     <string name="from_unit_en">Quilômetro por hora</string>
     <string name="fund_loan">Empréstimos</string>
     <string name="further_education">Educação</string>
+    <string name="get_loaction_permission_title">Acesso a Localização</string>
+    <string name="get_location_fail_prompt">"Não foi possível obter a localização"</string>
     <string name="global_network_confirm_content">O conversor de moedas precisa de uma conexão à internet para funcionar normalmente.</string>
     <string name="global_search_key_area_convertion">Área;Conversor de área;Conversão de área</string>
     <string name="global_search_key_calculation">Calcular;Calculadora;Conversão de unidades;Conversor;Converter unidades</string>
@@ -227,19 +253,28 @@
     <string name="golbal_search_calculator_setting">Calculadora;Configurações da calculadora;Configurações</string>
     <string name="golbal_search_path_calculator_setting">Apps do sistema/Calculadora/Configurações</string>
     <string name="height_prompt">Altura</string>
+    <string name="height">Altura (cm)</string>
     <string name="help_content_desc">Ajuda</string>
+    <string name="hint_age">Insira a idade</string>
     <string name="hint_annual_rate">Inserir taxa anual</string>
     <string name="hint_enter_amount">Inserir valor</string>
+    <string name="hint_height">Insira a altura</string>
+    <string name="hint_weight">Insira o peso</string>
     <string name="hint_floatwindow_alpha_guide_text">Toque para ajustar a opacidade</string>
+    <string name="histories">Histórico</string>
     <string name="history_delete_confirmation">Limpar o histórico agora?</string>
+    <string name="history_guidance">Veja o histórico aqui</string>
+    <string name="history_time_date_format">dd/MM/yyyy</string>
     <string name="home_loan">Juros de hipotecas</string>
     <string name="home_title_calculator">Calculadora</string>
     <string name="house_rent">Aluguel</string>
+    <string name="input_limit">"Não é possível inserir mais itens"</string>
     <string name="install">Instalar</string>
     <string name="install_scanner_to_continued_use">O Scanner não está instalado. Instalá-lo novamente?</string>
     <string name="interest_rate_hint">Insira a taxa de juros</string>
     <string name="investment_invalid_duration">A duração do investimento deve ser maior que zero</string>
     <string name="investment_loan_result">Detalhes</string>
+    <string name="investment_type">Caminho</string>
     <string name="investment_type_once">Único</string>
     <string name="investment_type_recurring">Recorrente</string>
     <string name="item_page_title_investment">Calculadora de investimento</string>
@@ -254,14 +289,18 @@
     <string name="item_title_discount">Desconto</string>
     <string name="item_title_dress_size">Tamanho de roupas</string>
     <string name="item_title_emi">Calculadora de empréstimo</string>
+    <string name="item_title_finance">Financeiro</string>
     <string name="item_title_gst">GST</string>
     <string name="item_title_investment">Investimento</string>
     <string name="item_title_length_conversion">Comprimento</string>
     <string name="item_title_loan">Empréstimo</string>
+    <string name="item_title_menu_income_tax">Imposto de Renda</string>
+    <string name="item_title_menu_mortgage">Hipoteca</string>
     <string name="item_title_mortgage">Empréstimo à habitação</string>
     <string name="item_title_percentage">Porcentagem</string>
     <string name="item_title_radix">Sistema numérico</string>
     <string name="item_title_relationship">Termos de parentesco</string>
+    <string name="item_title_result">Seu IMC atual</string>
     <string name="item_title_scientific_calculator">Científica</string>
     <string name="item_title_spilt_bill">Dividir conta</string>
     <string name="item_title_tax">Taxas</string>
@@ -331,13 +370,15 @@
     <string name="loan_repayment_detail_loading">Carregando reembolso detalhado…</string>
     <string name="loan_type_summary_lpr">TJP</string>
     <string name="loan_type_title">Taxa de juros padrão</string>
+    <string name="locating_prompt">Localizando</string>
     <string name="loan_unit">(×10K)</string>
-    <string name="localised_number">%d</string>
+    <string name="lpr_info">Informações de LPR</string>
     <string name="lpr_ok">Entendi</string>
     <string name="lpr_tips_msg">"A partir de 8 de outubro de 2019, a taxa de juros do empréstimo de habitação comercial pessoal será calculado de acordo com a taxa de juros principal (TJP), em vez da taxa de juro de referência previamente implementada de 4,9%. Agora, a taxa final será confirmada pela adição de um ponto de base TJP.
 
 Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem ocorrer devido a feriados bancários) no site do Banco Popular da China."</string>
     <string name="lpr_tips_title">TJP (Taxa de Juros Preferencial)</string>
+    <string name="male">Género: Masculino</string>
     <string name="medical_treatment">Tratamento médico</string>
     <string name="menuDesc">"menu"</string>
     <string name="midnight">"AM"</string>
@@ -421,6 +462,8 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="mortgage_detail_monthly_principal">"Principal"</string>
     <string name="mortgage_detail_monthly_remain">Restante</string>
     <string name="mortgage_detail_monthly_repayment">Reembolso</string>
+    <string name="mortgage_detail_monthly_repayment_commercial">Comercial</string>
+    <string name="mortgage_detail_monthly_repayment_lending">Fundo de previdência</string>
     <string name="mortgage_detail_yearly_interest">Juros</string>
     <string name="mortgage_detail_yearly_repayment">Reembolso</string>
     <string name="mortgage_details">Detalhes da hipoteca</string>
@@ -433,6 +476,8 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="mortgage_item_repayment">Método de reembolso</string>
     <string name="mortgage_item_start_time">Data de início</string>
     <string name="mortgage_item_years">Posse de empréstimo</string>
+    <string name="mortgage_item_years_commercial">Prazo do empréstimo comercial</string>
+    <string name="mortgage_item_years_lending">Prazo do empréstimo do fundo de previdência</string>
     <string name="mortgage_loans_amount">Valor da hipoteca</string>
     <string name="mortgage_provident_found_interest_rate">Taxa de juros do fundo</string>
     <string name="mortgage_provider_east_money">Dados fornecidos por East Money</string>
@@ -467,10 +512,19 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="night">"PM"</string>
     <string name="none">Nenhum</string>
     <string name="noon">"PM"</string>
+    <string name="normal">"Normal"</string>
     <string name="not_set">Não definido</string>
     <string name="not_supported_due_to_language">Este recurso só está disponível no idioma Chinês</string>
     <string name="ok">"OK"</string>
     <string name="percentDesc">porcento</string>
+    <string name="permission_location_desc_miui12">Para usar taxas de impostos e hipotecas relevantes para sua localização</string>
+    <string name="permission_location_miui12">Acessando localização</string>
+    <string name="permission_option_desc_miui12">"Essas permissões são necessárias quando você usa recursos adicionais."</string>
+    <string name="permission_option_miui12">Permissões opcionais</string>
+    <string name="permission_privacy_link"><Data>Antes de usar este app, leia e concorde com o nosso &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a>.</Data></string>
+    <string name="permission_purpose_miui12_system">Bem-vindo à Calculadora! Este app combina os recursos de uma calculadora normal com vários conversores e recursos de estilo de vida.</string>
+    <string name="permission_remove_desc_miui12">Permita que este app se conecte à Internet e conceda permissões opcionais para poder usar todos os seus recursos.</string>
+    <string name="permission_title_miui12">Atenção!!</string>
     <string name="piDesc">pi</string>
     <string name="plusDesc">adição</string>
     <string name="pm">"PM"</string>
@@ -489,8 +543,14 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="preference_follow_web_title">Site oficial</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_get_device_address">Acesso a localização</string>
+    <string name="preference_get_local_tax_info">Por fornecer informações relevantes sobre empréstimos e impostos</string>
+    <string name="preference_has_allowed">Permitido</string>
     <string name="preference_help">Ajuda e feedback</string>
+    <string name="preference_not_allowance">Não permitido</string>
     <string name="preference_other">Outros</string>
+    <string name="preference_permission_info">Detalhes das permissões</string>
+    <string name="preference_privacy_setting">Privacidade</string>
     <string name="preference_privacy_title">Política de Privacidade</string>
     <string name="preference_rating_title">Classifique nosso app</string>
     <string name="preference_settings">Configurações</string>
@@ -500,14 +560,21 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="preference_use_voice_summary">Ative para usar a saída de voz durante cálculos</string>
     <string name="preference_use_voice_title">Saída de voz</string>
     <string name="preference_user_feedback_title">"Feedback"</string>
+    <string name="preference_view_privacy_title">Ver Política de Privacidade</string>
     <string name="privacy_dialog_title">Privacidade</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_revoke_error">Não foi possível retirar. Tente novamente.</string>
     <string name="privacy_revoke_progress">Retirando…</string>
     <string name="privacy_switch">Retirada de consentimento</string>
+    <string name="pull_to_refresh">Puxe para baixo para ver o histórico</string>
     <string name="radDesc">Radianos</string>
     <string name="rate_data_provider">Taxas de juros fornecidas por hexun.com</string>
+    <string name="rate_number_first_house">Primeira propriedade %1$ taxa de fator (%2$s)</string>
+    <string name="rate_number_second_house">Segunda propriedade %1$s taxa de fator (%2$s)</string>
+    <string name="re_compute">Recalculate</string>
     <string name="reciprocalDesc">Recíproco</string>
+    <string name="relationship">Relação</string>
+    <string name="release_to_refresh">Solte para ver o histórico</string>
     <string name="reverceDesc">arc</string>
     <string name="rightParen">)</string>
     <string name="rightParenDesc">parêntesis direito</string>
@@ -534,9 +601,11 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="statistic_label_monthly">Mensalmente</string>
     <string name="statistic_label_yearly">Anualmente</string>
     <string name="statistic_year">Ano %d</string>
+    <string name="suggest_weight">Peso sugerido (kg)</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="super_fat">Obeso</string>
     <string name="support_elder">Previdência</string>
     <string name="switchDesc">Alternar</string>
     <string name="tab_title_calculator">Calculadora</string>
@@ -642,6 +711,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
+    <string name="thin">Abaixo do peso</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
@@ -652,10 +722,13 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
+    <string name="turn_on_location_permission_prompt">As permissões de localização estão desativadas</string>
     <string name="tv_recurrence_monthly">Mensal</string>
     <string name="tv_recurrence_quaterly">Trimestral</string>
     <string name="tv_recurrence_yearly">Anual</string>
     <string name="unKnow_error">Erro desconhecido</string>
+    <string name="uninstall_warning_content">"Calculadora é um app de sistema. Você não poderá usar sua funcionalidade básica, bem como converter moedas e unidades de medida, calcular pagamentos de hipotecas ou usar outros recursos após a desinstalação."</string>
+    <string name="uninstall_warning_title">Desinstalar a Calculadora?</string>
     <string name="unit_cm">Centímetros</string>
     <string name="unit_data_display_area_acre">"Acre"</string>
     <string name="unit_data_display_area_are">"Are"</string>
@@ -1011,7 +1084,10 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="weight_prompt">Peso</string>
+    <string name="weight">Peso (kg)</string>
     <string name="wf_word_figure">Caracteres financeiros</string>
+    <string name="widget_calculator_name">Básico</string>
+    <string name="widget_currency_name">Moeda</string>
     <string name="wife">Esposa</string>
     <string name="withdraw_network_error">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="word_figure_guide_text">Pressione e segure o texto para mudar entre maiúsculas e minúsculas.</string>
@@ -1021,6 +1097,9 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="xiaomi_calculator_remove_icon_title">Remover \"Calculadora\" da Tela inicial?</string>
     <string name="xiaomi_connect_download_manager_fail">Não foi possível conectar-se aos Downloads. Verifique se este app tem todas as permissões necessárias em Configurações > Apps instalados.</string>
     <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível. Verifique seu cartão SD.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="xiaomi_update_dialog_message">"Introduzindo a versão %1$s
 Tamanho: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Introduzindo a versão %1$s

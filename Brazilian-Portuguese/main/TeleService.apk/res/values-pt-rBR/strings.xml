@@ -905,6 +905,7 @@ Seleção"</string>
     <string name="dial_emergency_empty_error">Não é possível efetuar a chamada. Disque para um número de emergência.</string>
     <string name="dial_emergency_error">Não é possível efetuar a chamada. %s não é um número de emergência.</string>
     <string name="dial_related_setting_catory">Discador</string>
+    <string name="dial_settings_screen_title">Configurações do discador</string>
     <string name="dialerKeyboardHintText">Use o teclado para discar</string>
     <string name="dialog_alert_title">Atenção!</string>
     <string name="dialog_cancel">Cancelar</string>
@@ -1582,11 +1583,16 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="mobile_property">Propriedades da rede móvel</string>
     <string name="mobile_special_network_optimization_config_summary">Melhore a qualidade da chamada adaptando-se a diferentes cenários automaticamente</string>
     <string name="mobile_special_network_optimization_config_title">Adapte-se a diferentes cenários</string>
+    <string name="mobile_settings_screen_title">Dados móveis</string>
+    <string name="mobile_special_network_optimization_config_summary">Percebe de forma inteligente vários cenários na rede para aprimorar a experiência de comunicação</string>
+    <string name="mobile_special_network_optimization_config_title">Modo adaptativo de cena</string>
     <string name="mock_location_app">Selecionar app de local fictício</string>
     <string name="mock_location_app_not_set">Nenhum app de local fictício definido</string>
     <string name="mock_location_app_set">App de local fictício: %1$s</string>
     <string name="modem_dialog_body">A rede móvel está instável, causando interrupções e problemas de rede. Enviar seu feedback para a Mi analisar? O relatório poderá conter informações pessoais. Seu relatório será usado para ajudar na correção deste erro e nunca será compartilhado em contextos comerciais.</string>
     <string name="modem_dialog_title">Rede móvel instável</string>
+    <string name="modem_log_notification__message">Isso pode aumentar o consumo de energia</string>
+    <string name="modem_log_notification_title">Gerando logs de modem…</string>
     <string name="modem_set_title">CONFIGURAÇÃO DO MODEM</string>
     <string name="modem_setting_button_title">Entre no menu de configurações</string>
     <string name="modem_setting_info">INFORMAÇÕES DE CONFIGURAÇÃO DO MODEM</string>

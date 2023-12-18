@@ -145,7 +145,7 @@
     <string name="document_file_size">Tamanho do arquivo: %s</string>
     <string name="document_preview_cancel_text">Parar carregamento</string>
     <string name="document_preview_download_failed">"Não foi possível carregar. Tente novamente."</string>
-    <string name="download_done">Baixado com sucesso</string>
+    <string name="download_done">Download completo</string>
     <string name="download_done_info_for_sys_title">Baixado com sucesso. Toque para visualizar.</string>
     <string name="download_fail">"Não foi possível baixar"</string>
     <string name="download_list">"Downloads"</string>
@@ -275,8 +275,8 @@
     <string name="micloud_space_duokan_detail">"Abra o Duokan no seu telefone e vá em Prateleira &gt; Armazenamento na nuvem para gerenciar o armazenamento na nuvem.
 Verifique se você está usando a Conta Mi atual como sua conta do sistema HyperOS."</string>
     <string name="micloud_space_duokan_title">Espaço de armazenamento do Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Abra o Gravador no seu dispositivo móvel e selecione a pasta com os itens armazenados na nuvem.
-Verifique se você está usando a Conta Mi atual como sua conta do sistema HyperOS."</string>
+    <string name="micloud_space_soundrecorder_detail">"Abra o Gravador no seu dispositivo Xiaomi e selecione a pasta com os itens armazenados na nuvem.
+Verifique se você está usando a sua Conta Mi associada como sua conta do sistema."</string>
     <string name="micloud_space_soundrecorder_title">Gravações de áudio</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
@@ -614,7 +614,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema Hyper
     <string name="update_no_network">Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente</string>
     <string name="update_no_update">A versão atual já está atualizada</string>
     <string name="update_progress_dialog_content">Baixando…</string>
-    <string name="upload_done">Enviado com sucesso</string>
+    <string name="upload_done">Upload completo</string>
     <string name="upload_done_info_for_sys_title">Enviado com sucesso. Toque para ver.</string>
     <string name="upload_fail">Não foi possível enviar</string>
     <string name="upload_file_list_is_empty">Selecione os itens para enviar</string>

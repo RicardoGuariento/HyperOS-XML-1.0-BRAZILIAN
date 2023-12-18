@@ -11853,14 +11853,14 @@ Atualizar configurações para:
 	<string name="applications_settings_title_new">Gerenciar aplicativos</string>
 	<string name="assistant_add_fail">Não consigo ouvir por enquanto, por favor, tente novamente mais tarde</string>
 	<string name="assistant_operate_timeout">O tempo limite da operação, tente novamente mais tarde</string>
-	<string name="audio_share_abs_volume_message">&quot;Não é possível ajustar o volume de forma independente ao usar o compartilhamento de áudio&quot;</string>
+	<string name="audio_share_abs_volume_message">"Não é possível ajustar o volume de forma independente ao usar o compartilhamento de áudio"</string>
 	<string name="auracast_add_source_code_error">A senha está errada, a audição de rádio é anormal, junte -se à audição novamente</string>
 	<string name="auracast_add_source_conflict_broadcasting">Esta máquina está na transmissão, desligue a transmissão de áudio antes de ouvir a transmissão próxima</string>
 	<string name="auracast_add_source_conflict_listening">Por favor, termine primeiro ouça a transmissão atual</string>
 	<string name="auracast_scan_not_support">Fones de ouvido apoiados desconectados, incapazes de procurar por ouvir o rádio próximo</string>
 	<string name="auto_confirm_off_pin_verify_description">Digite o PIN do dispositivo para desativar a confirmação automática</string>
 	<string name="auto_confirm_on_pin_verify_description">Digite o PIN do dispositivo para ativar a confirmação automática</string>
-	<string name="auto_data_switch_dialog_managed_profile_warning">&quot;Chamadas, mensagens e tráfego de rede podem ficar visíveis para sua organização.&quot;</string>
+	<string name="auto_data_switch_dialog_managed_profile_warning">"Chamadas, mensagens e tráfego de rede podem ficar visíveis para sua organização."</string>
 	<string name="auto_data_switch_summary">Use esta rede quando ela tiver melhor disponibilidade</string>
 	<string name="auto_data_switch_title">Alternar dados móveis automaticamente</string>
 	<string name="auto_pin_confirm_opt_in_security_message">Confirmar seu PIN tocando em Enter é mais seguro do que usar a confirmação automática</string>
@@ -11877,7 +11877,7 @@ Atualizar configurações para:
 	<string name="background_install_before">{count, plural, =1 {Aplicativos instalados no último # mês} other {Aplicativos instalados nos últimos # meses} }</string>
 	<string name="background_install_feature_list_no_entry">Nenhum aplicativo instalado em segundo plano</string>
 	<string name="background_install_preference_summary">{count, plural, =1 {# app} other {# apps} }</string>
-	<string name="background_install_summary">&quot;O fabricante do seu dispositivo pode instalar aplicativos no seu dispositivo em segundo plano ou permitir que sua operadora e outros parceiros façam isso. Nenhum aplicativo listado aqui é necessário para que seu dispositivo funcione normalmente. Você pode desinstalar aplicativos que não deseja.&quot;</string>
+	<string name="background_install_summary">"O fabricante do seu dispositivo pode instalar aplicativos no seu dispositivo em segundo plano ou permitir que sua operadora e outros parceiros façam isso. Nenhum aplicativo listado aqui é necessário para que seu dispositivo funcione normalmente. Você pode desinstalar aplicativos que não deseja."</string>
 	<string name="background_install_title">Aplicativos instalados em segundo plano</string>
 	<string name="background_install_uninstall_button_description">Desinstalar aplicativo</string>
 	<string name="backup_calling_enable_dialog_incompatible_nw_type">Para ativar o Voice Over Cellular Internet, defina o tipo de rede preferido como LTE, NR ou Global.</string>
@@ -11897,18 +11897,18 @@ Atualizar configurações para:
 	<string name="battery_system_usage">Uso do sistema desde a última carga completa</string>
 	<string name="battery_system_usage_since_last_full_charge_to">Uso do sistema desde a última carga completa até %s</string>
 	<string name="battery_tip_charge_to_full_button">Carregue até o máximo</string>
-	<string name="battery_tip_dock_defender_active_summary">&quot;Para ajudar a prolongar a vida útil da bateria, o carregamento é otimizado enquanto estiver acoplado&quot;</string>
+	<string name="battery_tip_dock_defender_active_summary">"Para ajudar a prolongar a vida útil da bateria, o carregamento é otimizado enquanto estiver acoplado"</string>
 	<string name="battery_tip_dock_defender_active_title">Carregamento otimizado para proteger sua bateria</string>
-	<string name="battery_tip_dock_defender_future_bypass_summary">&quot;Para ajudar a prolongar a vida útil da bateria, o carregamento é otimizado enquanto estiver acoplado&quot;</string>
+	<string name="battery_tip_dock_defender_future_bypass_summary">"Para ajudar a prolongar a vida útil da bateria, o carregamento é otimizado enquanto estiver acoplado"</string>
 	<string name="battery_tip_dock_defender_future_bypass_title">Carregamento otimizado para proteger sua bateria</string>
 	<string name="battery_tip_dock_defender_temporarily_bypassed_summary">Para proteger sua bateria, o carregamento será otimizado na próxima vez que seu tablet for encaixado</string>
 	<string name="battery_tip_dock_defender_temporarily_bypassed_title">Carregando totalmente</string>
 	<string name="battery_tip_incompatible_charging_content_description">Saiba mais sobre carregamento incompatível</string>
-	<string name="battery_tip_incompatible_charging_message">&quot;A bateria está carregando lentamente ou não carrega. Verifique se o cabo e o adaptador de energia funcionam com o seu telefone&quot;</string>
+	<string name="battery_tip_incompatible_charging_message">"A bateria está carregando lentamente ou não carrega. Verifique se o cabo e o adaptador de energia funcionam com o seu telefone"</string>
 	<string name="battery_tip_incompatible_charging_title">Problema com acessório de carregamento</string>
 	<string name="battery_tip_limited_temporarily_sec_button_content_description">Saiba mais sobre o carregamento pausado</string>
 	<string name="battery_tip_restrict_app_dialog_title">{count, plural, =1 {Restringir aplicativo?} other {Restringir # aplicativos?} }</string>
-	<string name="battery_tip_restrict_handled_summary">&quot;{count, plural, =1 {Este aplicativo não pode ser executado em segundo plano} other {Esses aplicativos não podem ser executados em segundo plano} }&quot;</string>
+	<string name="battery_tip_restrict_handled_summary">"{count, plural, =1 {Este aplicativo não pode ser executado em segundo plano} other {Esses aplicativos não podem ser executados em segundo plano} }"</string>
 	<string name="battery_tip_restrict_handled_title">{count, plural, =1 {{label} restrito recentemente} other {# aplicativos restritos recentemente} }</string>
 	<string name="battery_tip_restrict_summary">{count, plural, =1 {{label} tem alto uso de bateria em segundo plano} other {# aplicativos têm alto uso de bateria em segundo plano} }</string>
 	<string name="battery_tip_restrict_title">{count, plural, =1 {Restringir # aplicativo} other {Restringir # aplicativos} }</string>
@@ -11934,7 +11934,7 @@ Atualizar configurações para:
 	<string name="biometric_settings_add_fingerprint_in_split_mode_message">Saia da tela dividida para configurar o desbloqueio por impressão digital</string>
 	<string name="biometric_settings_add_fingerprint_in_split_mode_title">Não é possível configurar a impressão digital</string>
 	<string name="biometric_settings_category_use_face_fingerprint">Use rosto ou impressão digital para</string>
-	<string name="biometric_settings_intro_with_activeunlock">&quot;Quando você configura o Desbloqueio facial e o Desbloqueio por impressão digital, seu telefone solicitará sua impressão digital quando você usar uma máscara ou estiver em um local escuro. Você pode desbloquear com o relógio quando seu rosto ou impressão digital não for reconhecido.&quot;</string>
+	<string name="biometric_settings_intro_with_activeunlock">"Quando você configura o Desbloqueio facial e o Desbloqueio por impressão digital, seu telefone solicitará sua impressão digital quando você usar uma máscara ou estiver em um local escuro. Você pode desbloquear com o relógio quando seu rosto ou impressão digital não for reconhecido."</string>
 	<string name="biometric_settings_intro_with_face">Você pode desbloquear com o relógio quando seu rosto não for reconhecido.</string>
 	<string name="biometric_settings_intro_with_fingerprint">Você pode desbloquear com seu relógio quando sua impressão digital não for reconhecida.</string>
 	<string name="biometric_settings_use_face_fingerprint_or_watch_for">Use rosto, impressão digital ou relógio para</string>
@@ -11951,10 +11951,10 @@ Atualizar configurações para:
 	<string name="bluetooth_audio_routing_footer_summary">Por padrão, a saída de áudio é determinada por aplicativos individuais</string>
 	<string name="bluetooth_audio_routing_summary">Direcione sons para o seu aparelho auditivo ou alto-falante do telefone</string>
 	<string name="bluetooth_audio_routing_title">Saída de áudio</string>
-	<string name="bluetooth_audio_share_request_disable">&quot;Você está compartilhando áudio com outro par de fones de ouvido. Mudar para outro dispositivo encerrará o compartilhamento de áudio. Mudar mesmo assim?&quot;</string>
+	<string name="bluetooth_audio_share_request_disable">"Você está compartilhando áudio com outro par de fones de ouvido. Mudar para outro dispositivo encerrará o compartilhamento de áudio. Mudar mesmo assim?"</string>
 	<string name="bluetooth_audio_share_request_disable_title">Trocar de dispositivo?</string>
-	<string name="bluetooth_audio_share_request_disconnect">&quot;Se você desconectar agora, seus dispositivos não compartilharão áudio automaticamente na próxima vez que você se conectar. Desconectar mesmo assim?&quot;</string>
-	<string name="bluetooth_audoi_share">&quot; | Compartilhando áudio&quot;</string>
+	<string name="bluetooth_audio_share_request_disconnect">"Se você desconectar agora, seus dispositivos não compartilharão áudio automaticamente na próxima vez que você se conectar. Desconectar mesmo assim?"</string>
+	<string name="bluetooth_audoi_share">" | Compartilhando áudio"</string>
 	<string name="bluetooth_auracast_assist_add_source">Ouvir</string>
 	<string name="bluetooth_auracast_assist_leave_broadcast">Terminar</string>
 	<string name="bluetooth_auracast_password_input_hint">Por favor, insira o código de verificação de escuta</string>
@@ -11964,19 +11964,19 @@ Atualizar configurações para:
 	<string name="bluetooth_auracast_source_opend_summary">Por favor, insira o código de verificação ao ouvir esta máquina：</string>
 	<string name="bluetooth_broadcast_audio_dialog_title">Começar a transmissão</string>
 	<string name="bluetooth_broadcast_audio_onlysource">Transmitir áudio deste dispositivo</string>
-	<string name="bluetooth_broadcast_audio_started_toast">“Não se esqueça de parar de transmitir a tempo. As transmissões de áudio esgotam a bateria.&quot;</string>
-	<string name="bluetooth_broadcast_code">&quot;Senha: &quot;</string>
-	<string name="bluetooth_broadcast_dialog_text">&quot;O áudio compartilhado será criptografado e estará disponível para dispositivos compatíveis. Durante a transmissão, o som não será reproduzido neste dispositivo e nos dispositivos Bluetooth conectados.&quot;</string>
+	<string name="bluetooth_broadcast_audio_started_toast">“Não se esqueça de parar de transmitir a tempo. As transmissões de áudio esgotam a bateria."</string>
+	<string name="bluetooth_broadcast_code">"Senha: "</string>
+	<string name="bluetooth_broadcast_dialog_text">"O áudio compartilhado será criptografado e estará disponível para dispositivos compatíveis. Durante a transmissão, o som não será reproduzido neste dispositivo e nos dispositivos Bluetooth conectados."</string>
 	<string name="bluetooth_call_title">Áudio durante chamadas</string>
 	<string name="bluetooth_connect_battery_state">%1$s %2$s</string>
 	<string name="bluetooth_device_audio_share_connecting">Conectando…</string>
-	<string name="bluetooth_device_audio_share_message">&quot;Compartilhe o áudio deste dispositivo com este par de fones de ouvido&quot;</string>
+	<string name="bluetooth_device_audio_share_message">"Compartilhe o áudio deste dispositivo com este par de fones de ouvido"</string>
 	<string name="bluetooth_device_button_accept">OK</string>
 	<string name="bluetooth_device_button_accept_permission">Concordar</string>
 	<string name="bluetooth_device_button_audio_share_success">Entendi</string>
 	<string name="bluetooth_device_button_cancel">Cancelar</string>
 	<string name="bluetooth_device_button_enable_audio_share">Compartilhar</string>
-	<string name="bluetooth_device_button_reject_permission">&quot;Não concordo&quot;</string>
+	<string name="bluetooth_device_button_reject_permission">"Não concordo"</string>
 	<string name="bluetooth_device_button_replace_current_device">Trocar dispositivo</string>
 	<string name="bluetooth_device_controls_general">Para todos os aparelhos auditivos disponíveis</string>
 	<string name="bluetooth_device_controls_specific">Para este dispositivo</string>
@@ -11984,7 +11984,7 @@ Atualizar configurações para:
 	<string name="bluetooth_device_controls_title">Configurações do aparelho auditivo</string>
 	<string name="bluetooth_device_keyboard_settings_preference_title">Configurações do teclado</string>
 	<string name="bluetooth_device_title_audio_share">Ouça junto com %1$s</string>
-	<string name="bluetooth_device_title_audio_share_fail">&quot;Não foi possível conectar-se a %1$s. Tente novamente.&quot;</string>
+	<string name="bluetooth_device_title_audio_share_fail">"Não foi possível conectar-se a %1$s. Tente novamente."</string>
 	<string name="bluetooth_device_title_audio_share_success">Ouvindo junto com %1$s</string>
 	<string name="bluetooth_disable_leaudio">Desativar áudio Bluetooth LE</string>
 	<string name="bluetooth_disable_leaudio_summary">Desativa o recurso de áudio Bluetooth LE se o dispositivo suportar recursos de hardware de áudio LE.</string>
@@ -12030,7 +12030,7 @@ Atualizar configurações para:
 	<string name="category_clone">Clone</string>
 	<string name="cellular_network_title">Depuração de rede celular</string>
 	<string name="celsius_temperature_unit">Celsius (°C)</string>
-	<string name="change_nfc_tag_apps_detail_summary">&quot;Permitir que este aplicativo seja iniciado quando uma etiqueta NFC for digitalizada. Se esta permissão estiver ativada, o aplicativo estará disponível como opção sempre que uma tag for detectada.&quot;</string>
+	<string name="change_nfc_tag_apps_detail_summary">"Permitir que este aplicativo seja iniciado quando uma etiqueta NFC for digitalizada. Se esta permissão estiver ativada, o aplicativo estará disponível como opção sempre que uma tag for detectada."</string>
 	<string name="change_nfc_tag_apps_detail_switch">Permitir inicialização na varredura NFC</string>
 	<string name="change_nfc_tag_apps_title">Iniciar via NFC</string>
 	<string name="character_counter_pattern">%1$d/%2$d</string>
@@ -12155,14 +12155,14 @@ Atualizar configurações para:
 	<string name="convert_to_esim_title">Converter para eSIM</string>
 	<string name="credential_being_used_by">Sendo usado por</string>
 	<string name="credential_for_wifi_in_use">Instalado para Wi-Fi (em uso)</string>
-	<string name="credman_autofill_confirmation_message">&quot;&lt;b&gt;Usar &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Provider&gt; %1$s&lt;/xliff:g&gt; usa o que está na sua tela para determinar o que pode ser preenchido automaticamente. Novas senhas, chaves de acesso e outras informações serão salvas aqui a partir de agora.&quot;</string>
+	<string name="credman_autofill_confirmation_message">"&lt;b&gt;Usar &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Provider&gt; %1$s&lt;/xliff:g&gt; usa o que está na sua tela para determinar o que pode ser preenchido automaticamente. Novas senhas, chaves de acesso e outras informações serão salvas aqui a partir de agora."</string>
 	<string name="credman_autofill_keywords">automático, preenchimento, preenchimento automático, dados, chave de acesso, senha</string>
 	<string name="credman_chosen_app_title">Senhas, chaves de acesso e serviços de dados</string>
-	<string name="credman_confirmation_message">&quot;&lt;b&gt;Desativar este serviço?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Informações salvas como senhas, chaves de acesso, formas de pagamento e outras informações não serão preenchidas quando você fizer login. Para usar suas informações salvas, escolha uma senha, chave de acesso ou serviço de dados.&quot;</string>
+	<string name="credman_confirmation_message">"&lt;b&gt;Desativar este serviço?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Informações salvas como senhas, chaves de acesso, formas de pagamento e outras informações não serão preenchidas quando você fizer login. Para usar suas informações salvas, escolha uma senha, chave de acesso ou serviço de dados."</string>
 	<string name="credman_confirmation_message_positive_button">Desligar</string>
 	<string name="credman_confirmation_message_title">Desativar %1$s?</string>
 	<string name="credman_credentials">Provedores adicionais</string>
-	<string name="credman_enable_confirmation_message">&quot;%1$s usa o que está na sua tela para determinar o que pode ser preenchido automaticamente.&quot;</string>
+	<string name="credman_enable_confirmation_message">"%1$s usa o que está na sua tela para determinar o que pode ser preenchido automaticamente."</string>
 	<string name="credman_enable_confirmation_message_title">Usar %1$s?</string>
 	<string name="credman_error_message">Você pode ter até 5 senhas, chaves de acesso e serviços de dados ativos ao mesmo tempo. Desative um serviço para adicionar mais.</string>
 	<string name="credman_error_message_title">Limite de senhas, chaves de acesso e serviços de dados</string>
@@ -12172,7 +12172,7 @@ Atualizar configurações para:
 	<string name="daily_battery_usage_chart">Gráfico diário de uso da bateria</string>
 	<string name="dark_mode_display_enable_summary">Mude para uma IU com pouca luz que exibe principalmente superfícies escuras</string>
 	<string name="dark_mode_power_save_alert_dialog_confirm">Entendi</string>
-	<string name="dark_mode_power_save_alert_dialog_message">&quot;Se você desativar a otimização do sistema e ativar a Economia de bateria, o modo escuro será ativado automaticamente. Para desativar o modo escuro, desative a Economia de bateria ou ative a otimização do sistema em Configurações &gt; Opções do desenvolvedor &gt; Ativar otimização do sistema.&quot;</string>
+	<string name="dark_mode_power_save_alert_dialog_message">"Se você desativar a otimização do sistema e ativar a Economia de bateria, o modo escuro será ativado automaticamente. Para desativar o modo escuro, desative a Economia de bateria ou ative a otimização do sistema em Configurações &gt; Opções do desenvolvedor &gt; Ativar otimização do sistema."</string>
 	<string name="dark_mode_power_save_alert_dialog_title">Modo escuro</string>
 	<string name="dark_mode_settings">Opções de modo escuro</string>
 	<string name="data_connection_4g_lte">4G LTE</string>
@@ -12228,8 +12228,8 @@ Atualizar configurações para:
 	<string name="development_memtag_intro">A Memory Tagging Extension (MTE) torna mais fácil encontrar problemas de segurança de memória em seu aplicativo e tornar o código nativo mais seguro.</string>
 	<string name="development_memtag_learn_more">Saiba mais sobre o MTE</string>
 	<string name="development_memtag_page_title">Extensão de marcação de memória</string>
-	<string name="development_memtag_reboot_message_off">&quot;Você precisará reiniciar seu dispositivo para desligar o MTE.&quot;</string>
-	<string name="development_memtag_reboot_message_on">&quot;Você precisará reiniciar seu dispositivo para ativar o MTE.&quot;</string>
+	<string name="development_memtag_reboot_message_off">"Você precisará reiniciar seu dispositivo para desligar o MTE."</string>
+	<string name="development_memtag_reboot_message_on">"Você precisará reiniciar seu dispositivo para ativar o MTE."</string>
 	<string name="development_memtag_toggle">Ative o MTE até desligá-lo</string>
 	<string name="device_details_leaudio_toggle_summary">Experimental. Melhora a qualidade do áudio.</string>
 	<string name="device_info_protected_single_press">Toque para mostrar informações</string>
@@ -12266,7 +12266,7 @@ Atualizar configurações para:
 	<string name="enable_angle_as_system_driver_summary">Habilite ANGLE como driver OpenGL ES do sistema</string>
 	<string name="enable_auto_data_switch_dialog_message">Permita que seu dispositivo mude automaticamente para %1$s para dados móveis quando tiver melhor disponibilidade.</string>
 	<string name="enable_auto_data_switch_dialog_title">Melhorar a cobertura de dados móveis?</string>
-	<string name="enable_crbt_pref_summary">&quot;Não mostre vídeos de perfil para chamadas recebidas durante o teste&quot;</string>
+	<string name="enable_crbt_pref_summary">"Não mostre vídeos de perfil para chamadas recebidas durante o teste"</string>
 	<string name="enable_crbt_pref_title">Desative vídeos de perfil para chamadas recebidas</string>
 	<string name="enable_guest_calling">Permitir que o convidado use o telefone</string>
 	<string name="enable_guest_calling_summary">O histórico de chamadas será compartilhado com o usuário convidado</string>
@@ -12283,9 +12283,9 @@ Atualizar configurações para:
 	<string name="ex_func_find_device">Segurança - Encontre o dispositivo</string>
 
 	<string name="extension_function_hint">Os atalhos de recursos não aparecerão mais nas configurações depois que você desligar os interruptores</string>
-	<string name="eye_gaze_dialog_message">&quot;Quando você ativa Detectar olhar, o dispositivo não será bloqueado ao detectar que você está olhando para a tela. Suas características faciais não serão analisadas e as informações do seu rosto não serão armazenadas no seu dispositivo nem carregadas na nuvem. Ligue agora?&quot;</string>
+	<string name="eye_gaze_dialog_message">"Quando você ativa Detectar olhar, o dispositivo não será bloqueado ao detectar que você está olhando para a tela. Suas características faciais não serão analisadas e as informações do seu rosto não serão armazenadas no seu dispositivo nem carregadas na nuvem. Ligue agora?"</string>
 	<string name="eye_gaze_dialog_title">Aviso de segurança</string>
-	<string name="eye_gaze_summary_fold_device">&quot;O dispositivo não bloqueia quando detecta que você está olhando para a tela externa&quot;</string>
+	<string name="eye_gaze_summary_fold_device">"O dispositivo não bloqueia quando detecta que você está olhando para a tela externa"</string>
 	<string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
 	<string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
 	<string name="face_password_unlock_new">Dados faciais e bloqueio de tela</string>
@@ -12302,7 +12302,7 @@ Atualizar configurações para:
 	<string name="flash_notifications_intro">Pisque a luz da câmera ou a tela quando receber notificações ou quando os alarmes soarem</string>
 	<string name="flash_notifications_intro_without_camera_flash">Pisque a tela quando você receber notificações ou quando os alarmes soarem</string>
 	<string name="flash_notifications_keywords">flash, luz, dificuldade de audição, perda auditiva</string>
-	<string name="flash_notifications_note">&quot;\&quot;Beam for notifications\&quot; visualiza sons e toques de notificação usando o flash da câmera e a tela. Se você é sensível à luz, use esse recurso com cautela.&quot;</string>
+	<string name="flash_notifications_note">"\"Beam for notifications\" visualiza sons e toques de notificação usando o flash da câmera e a tela. Se você é sensível à luz, use esse recurso com cautela."</string>
 	<string name="flash_notifications_preview">Visualização</string>
 	<string name="flash_notifications_summary">Use o flash da câmera ou mostre feixes coloridos na tela conforme as notificações chegam ou o dispositivo está tocando</string>
 	<string name="flash_notifications_summary_off">Desligado</string>
@@ -12332,7 +12332,7 @@ Atualizar configurações para:
 	<string name="footer_description_full_screen_intent">Permitir que este aplicativo mostre notificações que ocupam tela inteira quando o dispositivo está bloqueado. Os aplicativos podem usá-los para destacar alarmes, chamadas recebidas ou outras notificações urgentes.</string>
 	<string name="freeform_guide_free_drag_summary">Arraste texto, imagens ou arquivos entre as diferentes janelas dos aplicativos suportados.</string>
 	<string name="freeform_guide_free_drag_title">Arraste itens pelas janelas</string>
-	<string name="freeform_guide_multiple_window_summary">&quot;Pressione e segure o ícone de um aplicativo no dock para abrir uma nova janela. *Este recurso funciona com Notas, Mail, Navegador e WPS.&quot;</string>
+	<string name="freeform_guide_multiple_window_summary">"Pressione e segure o ícone de um aplicativo no dock para abrir uma nova janela. *Este recurso funciona com Notas, Mail, Navegador e WPS."</string>
 	<string name="freeform_guide_multiple_window_title">Abra várias janelas</string>
 	<string name="freeform_guide_split_screen_combination_fold">Combinação de tela dividida</string>
 	<string name="freeform_guide_split_screen_combination_pad">Combinação de tela dividida</string>
@@ -12381,7 +12381,7 @@ Atualizar configurações para:
 	<string name="gxzw_quick_open_show_summary">· Mantenha o dedo no ícone da impressão digital após o dispositivo ser desbloqueado para abrir o menu de atalho.</string>
 	<string name="handle_ota_connect_first">Conecte a alça</string>
 	<string name="handle_ota_finish_fw">Atualizado com sucesso</string>
-	<string name="handle_ota_update_failed">&quot;Não foi possível atualizar&quot;</string>
+	<string name="handle_ota_update_failed">"Não foi possível atualizar"</string>
 	<string name="handle_ota_update_title">Atualizações de firmware</string>
 	<string name="handle_ota_updating_firmware">Só um segundo…</string>
 	<string name="handle_ota_updating_tip">Atualizando em segundo plano…</string>
@@ -12399,7 +12399,7 @@ Atualizar configurações para:
 	<string name="heavenly_stems_xin">辛</string>
 	<string name="heavenly_stems_yi">乙</string>
 	<string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-	<string name="high_temperature_toast">&quot;Seu dispositivo está superaquecido. Não é possível usar esse recurso agora.&quot;</string>
+	<string name="high_temperature_toast">"Seu dispositivo está superaquecido. Não é possível usar esse recurso agora."</string>
 	<string name="hourly_battery_usage_chart">Gráfico de uso da bateria por hora</string>
 	<string name="hover_mode_guide_text">Quando a tela interna está atendendo uma chamada ou reproduzindo vídeos, você pode usar o modo Hover na metade inferior da tela.</string>
 	<string name="hover_mode_name">Modo pairar</string>
@@ -12440,9 +12440,9 @@ Atualizar configurações para:
 	<string name="link_to_windows_setting_off">Desligado</string>
 	<string name="link_to_windows_setting_on">Sobre</string>
 	<string name="link_to_windows_settings_title">Vincular ao Windows</string>
-	<string name="load_error">&quot;Não foi possível carregar&quot;</string>
+	<string name="load_error">"Não foi possível carregar"</string>
 	<string name="load_esim_info">Obtendo informações do eSIM…</string>
-	<string name="load_esim_info_error">&quot;Não foi possível carregar as informações do eSIM. Espere um ou dois minutos e tente novamente.&quot;</string>
+	<string name="load_esim_info_error">"Não foi possível carregar as informações do eSIM. Espere um ou dois minutos e tente novamente."</string>
 	<string name="location_agps_def_location_mode">MSB</string>
 	<string name="location_agps_def_network_mode">LAR</string>
 	<string name="location_agps_def_reset_type">QUENTE</string>
@@ -12471,23 +12471,23 @@ Atualizar configurações para:
 	<string name="lockpassword_password_too_long">{count, plural, =1 {Deve ter menos de # caractere} other {Deve ter menos de # caracteres} }</string>
 	<string name="lockpassword_password_too_short">{count, plural, =1 {Deve conter pelo menos # caractere} other {Deve ter pelo menos # caracteres} }</string>
 	<string name="lockpassword_pin_too_short_autoConfirm_extra_message">{count, plural, =1 {O PIN deve conter pelo menos # dígito, mas um PIN de {minAutoConfirmLen} dígitos é recomendado para maior segurança} other {O PIN deve ter pelo menos # dígitos, mas um PIN de {minAutoConfirmLen} dígitos é recomendado para maior segurança} }</string>
-	<string name="lockpassword_remote_validation_header">&quot;Verifique se é você&quot;</string>
-	<string name="lockpassword_remote_validation_password_details">&quot;Para transferir Contas do Google, configurações e muito mais, digite a senha do outro dispositivo. Sua senha está criptografada.&quot;</string>
-	<string name="lockpassword_remote_validation_pattern_details">&quot;Para transferir Contas do Google, configurações e muito mais, insira o padrão do seu outro dispositivo. Seu padrão está criptografado.&quot;</string>
-	<string name="lockpassword_remote_validation_pin_details">&quot;Para transferir Contas do Google, configurações e muito mais, insira o PIN do seu outro dispositivo. Seu PIN está criptografado.&quot;</string>
+	<string name="lockpassword_remote_validation_header">"Verifique se é você"</string>
+	<string name="lockpassword_remote_validation_password_details">"Para transferir Contas do Google, configurações e muito mais, digite a senha do outro dispositivo. Sua senha está criptografada."</string>
+	<string name="lockpassword_remote_validation_pattern_details">"Para transferir Contas do Google, configurações e muito mais, insira o padrão do seu outro dispositivo. Seu padrão está criptografado."</string>
+	<string name="lockpassword_remote_validation_pin_details">"Para transferir Contas do Google, configurações e muito mais, insira o PIN do seu outro dispositivo. Seu PIN está criptografado."</string>
 	<string name="lockpassword_remote_validation_set_password_as_screenlock">Use também a senha para desbloquear este dispositivo</string>
 	<string name="lockpassword_remote_validation_set_pattern_as_screenlock">Use também o padrão para desbloquear este dispositivo</string>
 	<string name="lockpassword_remote_validation_set_pin_as_screenlock">Use também o PIN para desbloquear este dispositivo</string>
 	<string name="lockpattern_settings_enhanced_pin_privacy_summary">Desative animações ao inserir o PIN</string>
 	<string name="lockpattern_settings_enhanced_pin_privacy_title">Privacidade aprimorada do PIN</string>
 	<string name="lockscreen_quick_affordances_title">Atalhos</string>
-	<string name="long_background_tasks_footer_title">&quot;Permitir que este aplicativo execute longas tarefas em segundo plano. Isso permite que o aplicativo execute tarefas que podem levar mais do que alguns minutos para serem concluídas, como downloads e uploads. Se essa permissão for negada, o sistema limitará o tempo que o aplicativo pode executar tais tarefas em segundo plano.&quot;</string>
+	<string name="long_background_tasks_footer_title">"Permitir que este aplicativo execute longas tarefas em segundo plano. Isso permite que o aplicativo execute tarefas que podem levar mais do que alguns minutos para serem concluídas, como downloads e uploads. Se essa permissão for negada, o sistema limitará o tempo que o aplicativo pode executar tais tarefas em segundo plano."</string>
 	<string name="long_background_tasks_label">Tarefas longas em segundo plano</string>
 	<string name="long_background_tasks_switch_title">Permitir tarefas em segundo plano de longa duração</string>
 	<string name="long_background_tasks_title">Tarefas longas em segundo plano</string>
 	<string name="lyra_account_ap_summary">Permitir que tablets e computadores próximos conectados à sua conta Xiaomi ativem o ponto de acesso neste dispositivo e se conectem a ele</string>
 	<string name="lyra_account_ap_title">Assistência de rede</string>
-	<string name="lyra_auto_connect_summary">&quot;Ative o ponto de acesso automaticamente e conecte dispositivos próximos conectados à sua conta Xiaomi, caso eles não estejam conectados à rede&quot;</string>
+	<string name="lyra_auto_connect_summary">"Ative o ponto de acesso automaticamente e conecte dispositivos próximos conectados à sua conta Xiaomi, caso eles não estejam conectados à rede"</string>
 	<string name="lyra_auto_connect_title">Ative o ponto de acesso automaticamente</string>
 	<string name="m3_sys_motion_easing_emphasized">caminho (M 0,0 C 0,05, 0, 0,133333, 0,06, 0,166666, 0,4 C 0,208333, 0,82, 0,25, 1, 1, 1)</string>
 	<string name="m3_sys_motion_easing_emphasized_accelerate">bezier cúbico (0,3, 0,0, 0,8, 0,2)</string>
@@ -12512,18 +12512,18 @@ Atualizar configurações para:
 	<string name="media_controls_lockscreen_description">Para retomar rapidamente a reprodução, o media player permanece aberto na tela de bloqueio</string>
 	<string name="media_controls_lockscreen_title">Mostrar mídia na tela de bloqueio</string>
 	<string name="media_output_status_device_in_low_power_mode">Ative o dispositivo para jogar aqui</string>
-	<string name="media_output_status_not_support_downloads">&quot;Não é possível reproduzir downloads aqui&quot;</string>
+	<string name="media_output_status_not_support_downloads">"Não é possível reproduzir downloads aqui"</string>
 	<string name="media_output_status_require_premium">Atualize a conta para mudar</string>
 	<string name="media_output_status_track_unsupported">Não é possível reproduzir esta mídia aqui</string>
 	<string name="media_output_status_try_after_ad">Tente novamente após o anúncio</string>
-	<string name="media_output_status_unauthorized">&quot;O dispositivo não está aprovado para jogar&quot;</string>
-	<string name="media_output_status_unknown_error">&quot;Não é possível jogar neste dispositivo&quot;</string>
+	<string name="media_output_status_unauthorized">"O dispositivo não está aprovado para jogar"</string>
+	<string name="media_output_status_unknown_error">"Não é possível jogar neste dispositivo"</string>
 	<string name="media_transfer_default_device_name">Dispositivo conectado</string>
 	<string name="media_transfer_dock_speaker_device_name">Alto-falante de base</string>
 	<string name="media_transfer_external_device_name">Dispositivo externo</string>
 	<string name="meid_multi_sim_primary">MEID (slot SIM %1$d) (primário)</string>
 	<string name="memory_usage_apps_summary">{count, plural, =1 {1 aplicativo usou memória na última {vez}} other {# aplicativos usaram memória na última {vez}} }</string>
-	<string name="memtag_footer">&quot;Você terá que reiniciar seu dispositivo para ativar ou desativar a proteção avançada de memória. Quando estiver ativado, você poderá notar um desempenho mais lento do dispositivo.&quot;</string>
+	<string name="memtag_footer">"Você terá que reiniciar seu dispositivo para ativar ou desativar a proteção avançada de memória. Quando estiver ativado, você poderá notar um desempenho mais lento do dispositivo."</string>
 	<string name="memtag_force_off">Atualmente indisponível para seu dispositivo</string>
 	<string name="memtag_force_on">Sempre ativado para o seu dispositivo</string>
 	<string name="memtag_intro">Este recurso beta ajuda a proteger seu dispositivo contra bugs que podem colocar sua segurança em risco.</string>
@@ -12532,8 +12532,8 @@ Atualizar configurações para:
 	<string name="memtag_off_pending">Desligado após reiniciar</string>
 	<string name="memtag_on">Sobre</string>
 	<string name="memtag_on_pending">Ligado após reiniciar</string>
-	<string name="memtag_reboot_message_off">&quot;Você precisará reiniciar seu dispositivo para desativar a Proteção avançada de memória.&quot;</string>
-	<string name="memtag_reboot_message_on">&quot;Você precisará reiniciar seu dispositivo para ativar a proteção avançada de memória.&quot;</string>
+	<string name="memtag_reboot_message_off">"Você precisará reiniciar seu dispositivo para desativar a Proteção avançada de memória."</string>
+	<string name="memtag_reboot_message_on">"Você precisará reiniciar seu dispositivo para ativar a proteção avançada de memória."</string>
 	<string name="memtag_reboot_no">Agora não</string>
 	<string name="memtag_reboot_title">Dispositivo de reinício?</string>
 	<string name="memtag_reboot_yes">Reiniciar</string>
@@ -12564,23 +12564,23 @@ Atualizar configurações para:
 	<string name="miui_cta_privacy">开启隐私测试模式</string>
 	<string name="miui_desktop_mode_settings">工作台模式</string>
 	<string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Cancelar</string>
-	<string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">&quot;Para obter melhores resultados ao usar o Desbloqueio facial, não permita que seu dispositivo ajuste o brilho da tela automaticamente&quot;</string>
+	<string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">"Para obter melhores resultados ao usar o Desbloqueio facial, não permita que seu dispositivo ajuste o brilho da tela automaticamente"</string>
 	<string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">OK</string>
 	<string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Desbloqueio facial</string>
-	<string name="miui_face_unlock_open_toast_for_sensor_light_virtual">&quot;O brilho da tela não será ajustado automaticamente&quot;</string>
+	<string name="miui_face_unlock_open_toast_for_sensor_light_virtual">"O brilho da tela não será ajustado automaticamente"</string>
 	<string name="miui_keyboard_back_light">nulo</string>
 	<string name="miui_sos_focus_notification_ticker">SOS de emergência ativado</string>
-	<string name="miui_tof_screen_on_close_switch_dialog_msg">Ative \&quot;%s\&quot; para poder usar esse recurso normalmente. Você pode ativar esse recurso em Configurações.</string>
+	<string name="miui_tof_screen_on_close_switch_dialog_msg">Ative \"%s\" para poder usar esse recurso normalmente. Você pode ativar esse recurso em Configurações.</string>
 	<string name="miui_tof_screen_on_close_switch_dialog_positive">Configurações</string>
-	<string name="miui_tof_screen_on_close_switch_dialog_title">Ative \&quot;%s\&quot;</string>
-	<string name="miui_tof_screen_on_close_tip_dialog_msg">\&quot;%1$s\&quot; está ativado. Para evitar que seu dispositivo exiba imediatamente a tela inicial ou o conteúdo do aplicativo ao reconhecer seu rosto, recomendamos manter \&quot;%2$s\&quot; ativado também.</string>
+	<string name="miui_tof_screen_on_close_switch_dialog_title">Ative \"%s\"</string>
+	<string name="miui_tof_screen_on_close_tip_dialog_msg">\"%1$s\" está ativado. Para evitar que seu dispositivo exiba imediatamente a tela inicial ou o conteúdo do aplicativo ao reconhecer seu rosto, recomendamos manter \"%2$s\" ativado também.</string>
 	<string name="miui_tof_screen_on_close_tip_dialog_negative">Desligar</string>
 	<string name="miui_tof_screen_on_close_tip_dialog_positive">Continuar</string>
 	<string name="miui_tof_screen_on_close_tip_dialog_title">Aviso de privacidade</string>
 	<string name="miui_tof_screen_on_msg">Quando o dispositivo detecta uma pessoa próxima a ele, a tela liga, tenta reconhecer um rosto e desbloqueia se for bem-sucedido</string>
-	<string name="miui_tof_screen_on_open_dialog_msg">Ative \&quot;%s\&quot; para evitar que seu dispositivo exiba imediatamente a tela inicial ou o conteúdo do aplicativo ao reconhecer seu rosto.</string>
-	<string name="miui_tof_screen_on_open_dialog_title">Ative \&quot;%s\&quot;</string>
-	<string name="miui_tof_screen_on_success_toast">\&quot;Reconhecer rosto quando próximo do dispositivo\&quot; está ativado. Para sua privacidade, ative também a opção &quot;Permanecer na tela de bloqueio após desbloquear&quot;.</string>
+	<string name="miui_tof_screen_on_open_dialog_msg">Ative \"%s\" para evitar que seu dispositivo exiba imediatamente a tela inicial ou o conteúdo do aplicativo ao reconhecer seu rosto.</string>
+	<string name="miui_tof_screen_on_open_dialog_title">Ative \"%s\"</string>
+	<string name="miui_tof_screen_on_success_toast">\"Reconhecer rosto quando próximo do dispositivo\" está ativado. Para sua privacidade, ative também a opção "Permanecer na tela de bloqueio após desbloquear".</string>
 	<string name="miui_tof_screen_on_title">Reconhecer rosto quando estiver perto do dispositivo</string>
 	<string name="mobile_data_settings_summary_default_data_unavailable">Os dados serão transferidos automaticamente para esta operadora após o término da chamada</string>
 	<string name="mobile_data_settings_summary_on_smart_dds_unavailable">Indisponível durante uma chamada quando o switch DDS inteligente está ligado</string>
@@ -12613,7 +12613,7 @@ Atualizar configurações para:
 	<string name="mtrl_switch_track_decoration_path">M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
 	<string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
 	<string name="mtrl_timepicker_cancel">Cancelar</string>
-	<string name="multi_music_coexistence_summary">&quot;Não ajuste o volume da mídia durante notificações recebidas ou enquanto o áudio de outra fonte estiver sendo reproduzido&quot;</string>
+	<string name="multi_music_coexistence_summary">"Não ajuste o volume da mídia durante notificações recebidas ou enquanto o áudio de outra fonte estiver sendo reproduzido"</string>
 	<string name="multi_music_coexistence_title">Múltiplas fontes de áudio</string>
 	<string name="multiple_users_main_switch_keywords">permitir, múltiplo, usuário, permitir, muitos</string>
 	<string name="my_device_camera_params">Especificações da câmera</string>
@@ -12635,7 +12635,7 @@ Atualizar configurações para:
 	<string name="no_screen_lock_issue_notification_text">Para maior segurança, defina um PIN, padrão ou senha para este dispositivo.</string>
 	<string name="no_screen_lock_issue_notification_title">Definir um bloqueio de tela</string>
 	<string name="not_connected_to_wifi">Não conectado à WLAN</string>
-	<string name="not_grant_admin">&quot;Não, não faça deles administradores&quot;</string>
+	<string name="not_grant_admin">"Não, não faça deles administradores"</string>
 	<string name="not_selected">Não selecionado</string>
 	<string name="notice_broadcast_audio_stopped">Parou de transmitir áudio</string>
 	<string name="notif_listener_more_settings">Mais configurações</string>
@@ -12761,7 +12761,7 @@ Atualizar configurações para:
 	<string name="screensaver_settings_when_to_dream_bedtime">Indisponível porque o modo hora de dormir está ativado</string>
 	<string name="search_bar_search">Procurar</string>
 	<string name="security_header">Segurança</string>
-	<string name="security_patch_subtitle">&quot;Atualização de segurança do Android:&quot;</string>
+	<string name="security_patch_subtitle">"Atualização de segurança do Android:"</string>
 	<string name="security_settings_activeunlock_biometric_setup">Configurar</string>
 	<string name="security_settings_activeunlock_preference_title">Assistir desbloqueio</string>
 	<string name="security_settings_activeunlock_require_face_fingerprint_setup_message">Você pode desbloquear com o relógio quando seu rosto ou impressão digital não for reconhecido</string>
@@ -12773,8 +12773,8 @@ Atualizar configurações para:
 	<string name="security_settings_face_enroll_introduction_consent_message_0">Permita que seu filho use o rosto para desbloquear o telefone</string>
 	<string name="security_settings_face_enroll_introduction_consent_message_0_class3">Permita que seu filho use o rosto para desbloquear o telefone ou verificar se é ele. Isso acontece quando eles fazem login em aplicativos, aprovam uma compra e muito mais.</string>
 	<string name="security_settings_face_enroll_introduction_message_class3">Use seu rosto para desbloquear o telefone ou para autenticação em aplicativos, como quando você faz login em aplicativos ou aprova uma compra.</string>
-	<string name="security_settings_face_settings_footer_class3">&quot;Use seu rosto para desbloquear o telefone ou verificar sua identidade, como quando você faz login em aplicativos ou aprova uma compra. Lembre-se: você só pode configurar um rosto por vez. Para adicionar outra face, exclua a atual. Olhar para o telefone pode desbloqueá-lo quando você não pretende. Seu telefone pode ser desbloqueado por outra pessoa se estiver próximo ao seu rosto. Seu telefone pode ser desbloqueado por alguém que se parece muito com você, como um irmão idêntico.&quot;</string>
-	<string name="security_settings_face_settings_footer_class3_attention_not_supported">&quot;Use seu rosto para desbloquear o telefone ou verificar sua identidade, como quando você faz login em aplicativos ou aprova uma compra. Lembre-se: você só pode configurar um rosto por vez. Para adicionar outra face, exclua a atual. Olhar para o telefone pode desbloqueá-lo quando você não pretende. Seu telefone pode ser desbloqueado por outra pessoa se for segurado perto de seu rosto, mesmo que seus olhos estejam fechados. Seu telefone pode ser desbloqueado por alguém que se parece muito com você, como um irmão idêntico.&quot;</string>
+	<string name="security_settings_face_settings_footer_class3">"Use seu rosto para desbloquear o telefone ou verificar sua identidade, como quando você faz login em aplicativos ou aprova uma compra. Lembre-se: você só pode configurar um rosto por vez. Para adicionar outra face, exclua a atual. Olhar para o telefone pode desbloqueá-lo quando você não pretende. Seu telefone pode ser desbloqueado por outra pessoa se estiver próximo ao seu rosto. Seu telefone pode ser desbloqueado por alguém que se parece muito com você, como um irmão idêntico."</string>
+	<string name="security_settings_face_settings_footer_class3_attention_not_supported">"Use seu rosto para desbloquear o telefone ou verificar sua identidade, como quando você faz login em aplicativos ou aprova uma compra. Lembre-se: você só pode configurar um rosto por vez. Para adicionar outra face, exclua a atual. Olhar para o telefone pode desbloqueá-lo quando você não pretende. Seu telefone pode ser desbloqueado por outra pessoa se for segurado perto de seu rosto, mesmo que seus olhos estejam fechados. Seu telefone pode ser desbloqueado por alguém que se parece muito com você, como um irmão idêntico."</string>
 	<string name="security_settings_face_watch_preference_summary">Rosto e %s adicionados</string>
 	<string name="security_settings_fingerprint">Impressão digital</string>
 	<string name="security_settings_fingerprint_bad_calibration_title">Não é possível usar o sensor de impressão digital</string>
@@ -12784,7 +12784,7 @@ Atualizar configurações para:
 	<string name="security_settings_fingerprint_enroll_error_unable_to_process_dialog_title">Não é possível concluir a configuração da impressão digital</string>
 	<string name="security_settings_fingerprint_enroll_error_unable_to_process_message">Você pode tentar novamente agora ou configurar sua impressão digital mais tarde.</string>
 	<string name="security_settings_fingerprint_enroll_error_unable_to_process_message_setup">Você pode tentar novamente agora ou configurar sua impressão digital mais tarde em Configurações.</string>
-	<string name="security_settings_fingerprint_enroll_finish_v2_add_fingerprint_message">&quot;Agora você pode usar sua impressão digital para desbloquear seu telefone ou verificar sua identidade, como quando faz login em aplicativos ou aprova uma compra. Adicione outra impressão digital para facilitar o desbloqueio quando você segura o telefone de diferentes maneiras.&quot;</string>
+	<string name="security_settings_fingerprint_enroll_finish_v2_add_fingerprint_message">"Agora você pode usar sua impressão digital para desbloquear seu telefone ou verificar sua identidade, como quando faz login em aplicativos ou aprova uma compra. Adicione outra impressão digital para facilitar o desbloqueio quando você segura o telefone de diferentes maneiras."</string>
 	<string name="security_settings_fingerprint_enroll_introduction_v3_message">Use sua impressão digital para desbloquear %s ou verificar sua identidade, como quando você faz login em aplicativos ou aprova uma compra</string>
 	<string name="security_settings_fingerprint_multiple_face_watch_preference_summary">Rosto, impressões digitais e %s adicionados</string>
 	<string name="security_settings_fingerprint_multiple_watch_preference_summary">Impressões digitais e %s adicionadas</string>
@@ -12805,7 +12805,7 @@ Atualizar configurações para:
 	<string name="security_settings_sfps_enroll_left_edge_title">Coloque a borda esquerda do seu dedo no sensor</string>
 	<string name="security_settings_sfps_enroll_progress_a11y_message">Registrando impressão digital %d por cento</string>
 	<string name="security_settings_sfps_enroll_right_edge_title">Por fim, coloque a borda direita do seu dedo no sensor</string>
-	<string name="security_settings_sfps_enroll_start_message">“Sem pressionar o botão, mantenha sua impressão digital no sensor até sentir uma vibração. Mova o dedo levemente a cada vez. Isso ajuda a capturar mais impressões digitais.&quot;</string>
+	<string name="security_settings_sfps_enroll_start_message">“Sem pressionar o botão, mantenha sua impressão digital no sensor até sentir uma vibração. Mova o dedo levemente a cada vez. Isso ajuda a capturar mais impressões digitais."</string>
 	<string name="security_settings_work_biometric_preference_title">Desbloqueio facial e de impressão digital para o trabalho</string>
 	<string name="see_all_apps_title">{count, plural, =1 {Ver todos os aplicativos} other {Ver todos os # aplicativos} }</string>
 	<string name="select_gpo_version_title">Selecione a versão do GPO</string>
@@ -12858,7 +12858,7 @@ Atualizar configurações para:
 	<string name="status_imei_sv">IMEI SV</string>
 	<string name="storage_menu_format_button">Formatar cartão</string>
 	<string name="storage_menu_format_option">Formatar</string>
-	<string name="storage_wizard_format_confirm_v2_body_external">&quot;Este ^1 precisa ser formatado para armazenar fotos, vídeos, músicas e muito mais. A formatação apagará o conteúdo existente no ^2. Para evitar a perda de conteúdo, faça backup em outro ^3 ou dispositivo.&quot;</string>
+	<string name="storage_wizard_format_confirm_v2_body_external">"Este ^1 precisa ser formatado para armazenar fotos, vídeos, músicas e muito mais. A formatação apagará o conteúdo existente no ^2. Para evitar a perda de conteúdo, faça backup em outro ^3 ou dispositivo."</string>
 	<string name="storage_wizard_guest">Os usuários do modo visitante não podem formatar cartões SD</string>
 	<string name="stylus_connected_devices_title">Caneta</string>
 	<string name="stylus_default_notes_app">Aplicativo de notas padrão</string>
@@ -12876,7 +12876,6 @@ Atualizar configurações para:
 	<string name="summary_collapsed_preference_list">%1$s, %2$s</string>
 	<string name="summary_placeholder"/>
 	<string name="summary_quick_control_all_devices">Mostrar controles para TVs, alto-falantes e carros próximos na Central de controle</string>
-	<string name="summary_two_lines_placeholder">&quot; &quot;</string>
 	<string name="sunday_first_day_of_week">Domingo</string>
 	<string name="sunlight_mode_boost_summary">Expanda a faixa de brilho e ajuste o brilho automaticamente sob condições de luminosidade. Este recurso fará com que seu dispositivo aqueça e consuma mais energia.</string>
 	<string name="supported_app_title">Aplicativos suportados</string>
@@ -12900,7 +12899,7 @@ Atualizar configurações para:
 	<string name="time_picker_am">SOU</string>
 	<string name="time_picker_hour_24h_suffix">%1$d horas</string>
 	<string name="time_picker_hour_selection">Selecione a hora</string>
-	<string name="time_picker_hour_suffix">&quot;%1$d horas&quot;</string>
+	<string name="time_picker_hour_suffix">"%1$d horas"</string>
 	<string name="time_picker_minute_selection">Selecione minutos</string>
 	<string name="time_picker_minute_suffix">%1$d minutos</string>
 	<string name="time_picker_period_toggle_description">Selecione AM ou PM</string>
@@ -12911,7 +12910,7 @@ Atualizar configurações para:
 	<string name="title_show_notification_icon">Mostrar ícones de notificação</string>
 	<string name="title_smart_device_control">Controles de dispositivos inteligentes</string>
 	<string name="title_unavailable_locale">%s não disponível</string>
-	<string name="title_wordless_mode">&quot;Não mostrar rótulos de ícones&quot;</string>
+	<string name="title_wordless_mode">"Não exibir nome dos atalhos"</string>
 	<string name="toast_ap_works_wifi_display_disable">Desative o ponto de acesso antes de transmitir</string>
 	<string name="tof_gesture_cue_tone_summary">Reproduza um som de confirmação sempre que sua palma for detectada</string>
 	<string name="tof_gesture_cue_tone_title">Reproduzir som de confirmação</string>
@@ -12967,20 +12966,20 @@ Atualizar configurações para:
 	<string name="user_category_title">Usuários</string>
 	<string name="user_grant_admin">Tornar este usuário um administrador</string>
 	<string name="user_grant_admin_button">Tornar administrador</string>
-	<string name="user_grant_admin_message">&quot;Os administradores têm privilégios especiais que outros usuários não têm. Um administrador pode gerenciar todos os usuários, atualizar ou redefinir este dispositivo, modificar configurações, ver todos os aplicativos instalados e conceder ou revogar privilégios de administrador para outros.&quot;</string>
+	<string name="user_grant_admin_message">"Os administradores têm privilégios especiais que outros usuários não têm. Um administrador pode gerenciar todos os usuários, atualizar ou redefinir este dispositivo, modificar configurações, ver todos os aplicativos instalados e conceder ou revogar privilégios de administrador para outros."</string>
 	<string name="user_grant_admin_title">Tornar este usuário um administrador?</string>
 	<string name="user_revoke_admin_confirm_message">Se você remover os privilégios de administrador deste usuário, você ou outro administrador poderá devolvê-los mais tarde.</string>
 	<string name="user_revoke_admin_confirm_title">Remover privilégios de administrador?</string>
 	<string name="uwb_settings_summary_no_uwb_regulatory">UWB não está disponível no local atual</string>
 	<string name="valid_net_access">Ver credenciais de acesso à rede</string>
 	<string name="valid_net_ok">OK</string>
-	<string name="valid_net_result_fail">&quot;Não foi possível obter informações. Espere um ou dois minutos e tente novamente.&quot;</string>
+	<string name="valid_net_result_fail">"Não foi possível obter informações. Espere um ou dois minutos e tente novamente."</string>
 	<string name="valid_net_result_title">Resultado</string>
 	<string name="view_face_privacy_policy">
-		<Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/&gt;\&quot;Declaração de privacidade de dados faciais &amp;#038; bloqueio de tela\&quot;&lt;/a&gt; antes de continuar.</Data>
+		<Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/&gt;\"Declaração de privacidade de dados faciais &amp;#038; bloqueio de tela\"&lt;/a&gt; antes de continuar.</Data>
 	</string>
 	<string name="view_fingerprint_privacy_policy">
-		<Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/&gt;\&quot;Declaração de privacidade de impressões digitais &amp;#038; bloqueio de tela\&quot;&lt;/a&gt; antes de continuar.</Data>
+		<Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/&gt;\"Declaração de privacidade de impressões digitais &amp;#038; bloqueio de tela\"&lt;/a&gt; antes de continuar.</Data>
 	</string>
 	<string name="volume_key_launch_camera">Câmera Aberta</string>
 	<string name="volume_key_launch_camera_and_take_photo">Tirar fotos</string>
@@ -13002,7 +13001,7 @@ Atualizar configurações para:
 	<string name="wifi_hotspot_speed_6g">6GHz</string>
 	<string name="wifi_hotspot_speed_6g_summary">Velocidades mais rápidas. Compatível com poucos dispositivos.</string>
 	<string name="wifi_hotspot_speed_category">Frequência preferida</string>
-	<string name="wifi_hotspot_speed_footer">&quot;Se a sua frequência preferida não estiver disponível, o seu hotspot poderá usar uma frequência diferente. As configurações de segurança do ponto de acesso podem mudar se você alterar a frequência.&quot;</string>
+	<string name="wifi_hotspot_speed_footer">"Se a sua frequência preferida não estiver disponível, o seu hotspot poderá usar uma frequência diferente. As configurações de segurança do ponto de acesso podem mudar se você alterar a frequência."</string>
 	<string name="wifi_hotspot_speed_intro">Escolha uma frequência para o seu hotspot. A frequência afeta a velocidade da conexão e os tipos de dispositivos que podem encontrar seu ponto de acesso.</string>
 	<string name="wifi_hotspot_speed_summary_2g">2,4 GHz / Compatível com a maioria dos dispositivos</string>
 	<string name="wifi_hotspot_speed_summary_2g_and_5g">2,4 e 5 GHz / Compatível com a maioria dos dispositivos</string>
@@ -13015,10 +13014,10 @@ Atualizar configurações para:
 	<string name="wifi_repair_btn_confirm">confirme</string>
 	<string name="wifi_repair_btn_no">Não</string>
 	<string name="wifi_repair_btn_yes">Tente reparar</string>
-	<string name="wifi_repair_confirm_desc">&quot;Você já passou por algum desses problemas? %1$d. Não foi possível ativar a WLAN %2$d. A rede WLAN está lenta %3$d. Outros recursos WLAN não funcionam.&quot;</string>
+	<string name="wifi_repair_confirm_desc">"Você já passou por algum desses problemas? %1$d. Não foi possível ativar a WLAN %2$d. A rede WLAN está lenta %3$d. Outros recursos WLAN não funcionam."</string>
 	<string name="wifi_repair_fail_desc">Ocorreu um erro que impediu a restauração da funcionalidade WLAN. Envie um feedback ao nosso engenheiro.</string>
-	<string name="wifi_repair_fail_title">&quot;Não foi possível restaurar&quot;</string>
-	<string name="wifi_repair_ongoing">&quot;Restaurando… Não saia desta página.&quot;</string>
+	<string name="wifi_repair_fail_title">"Não foi possível restaurar"</string>
+	<string name="wifi_repair_ongoing">"Restaurando… Não saia desta página."</string>
 	<string name="wifi_repair_pass_desc">Por favor, verifique se o seu problema desapareceu, caso contrário, por favor, faça um feedback para nosso engenheiro</string>
 	<string name="wifi_repair_pass_title">Restaurado com sucesso</string>
 	<string name="wifi_saved_access_points_summary">{count, plural, =1 {1 rede} other {# redes} }</string>

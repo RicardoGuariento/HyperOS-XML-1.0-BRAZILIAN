@@ -70,6 +70,39 @@
         <item>Moderada</item>
         <item>Leve</item>
     </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excelente</item>
+        <item>Boa</item>
+        <item>Levemente poluído</item>
+        <item>Moderadamente poluído</item>
+        <item>Fortemente poluído</item>
+        <item>Severamente poluído</item>
+        <item>Além do índice</item>
+    </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Seco</item>
+        <item>Confortável</item>
+        <item>Úmido</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Alta</item>
+        <item>Moderado</item>
+        <item>Baixo</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Muito frio</item>
+        <item>Frio</item>
+        <item>Confortável</item>
+        <item>Esquentar</item>
+        <item>Muito quente</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Fraco</item>
+        <item>Moderado</item>
+        <item>Forte</item>
+        <item>Muito forte</item>
+        <item>Severa</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Limpo</item>
         <item>Nublado</item>
@@ -92,12 +125,12 @@
         <item>Tempestade de areia forte</item>
         <item>Tempestade de areia</item>
         <item>Areia</item>
-        <item>Ventania</item>
+        <item>Tempestade de areia</item>
         <item>Granizo</item>
         <item>Poeira</item>
         <item>Neblina</item>
         <item>Chuva congelada</item>
-        <item/>
+        <item></item>
     </string-array>
     <string-array name="wind_direction">
         <item>Norte</item>

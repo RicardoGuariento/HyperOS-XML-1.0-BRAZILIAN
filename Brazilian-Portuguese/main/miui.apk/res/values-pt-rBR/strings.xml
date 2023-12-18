@@ -21,6 +21,8 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="click_to_restore">Restaure os itens do sistema para poder usar o HyperOS normalmente após uma restauração de fábrica. Clique para começar.</string>
     <string name="close">Fechar</string>
+    <string name="com_android_deskclock">Relógio</string>
+    <string name="com_android_download_ui">"Downloads"</string>
     <string name="com_android_email">E-mail</string>
     <string name="com_android_soundrecorder">Gravador</string>
     <string name="com_mi_globalbrowser">Navegador Mi</string>
@@ -28,12 +30,14 @@
     <string name="com_miui_calculator">Calculadora</string>
     <string name="com_miui_cleanmaster">Limpeza</string>
     <string name="com_miui_compass">Bússola</string>
+    <string name="com_miui_gallery">Galeria</string>
     <string name="com_miui_health">Mi Saúde</string>
     <string name="com_miui_huanji">"Mi Mover"</string>
     <string name="com_miui_notes">Notas</string>
     <string name="com_miui_screenrecorder">Gravador de tela</string>
     <string name="com_miui_virtualsim">"Mi Roaming"</string>
     <string name="com_miui_weather2">Clima</string>
+    <string name="com_xiaomi_calendar">Agenda</string>
     <string name="com_xiaomi_drivemode">Modo carro</string>
     <string name="com_xiaomi_gamecenter">Jogos</string>
     <string name="com_xiaomi_jr">"Mi Finance"</string>

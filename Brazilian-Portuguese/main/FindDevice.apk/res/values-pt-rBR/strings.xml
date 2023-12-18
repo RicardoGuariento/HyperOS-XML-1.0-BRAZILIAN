@@ -33,6 +33,13 @@
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
     <string name="app_name">Encontrar dispositivo</string>
+    <string name="call_notification_answer_action">Responder</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Recusar</string>
+    <string name="call_notification_hang_up_action">Desligar</string>
+    <string name="call_notification_incoming_text">Chamada recebida</string>
+    <string name="call_notification_ongoing_text">Chamada em andamento</string>
+    <string name="call_notification_screening_text">Triagem de uma chamada recebida</string>
     <string name="captcha">"Captcha"</string>
     <string name="change_find_device_status_failed">Não foi possível desbloquear. %s.</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
@@ -67,7 +74,7 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="find_device_capture_notification_title">O \"Encontrar dispositivo\" está prestes a tirar uma foto</string>
     <string name="find_device_crash">Encontrar dispositivo fechou inesperadamente.</string>
     <string name="find_device_error_access_denied">Acesso negado.</string>
-    <string name="find_device_error_account_sys_timeout">"Não foi possível conectar-se à Conta Mi. "</string>
+    <string name="find_device_error_account_sys_timeout">"Não foi possível conectar-se à Conta Mi."</string>
     <string name="find_device_error_account_unknown_error">Erro na Conta Mi (%s).</string>
     <string name="find_device_error_network">Erro de rede.</string>
     <string name="find_device_error_password_changed">A senha da conta foi alterada recentemente.</string>
@@ -129,15 +136,16 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -198,6 +206,7 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="open_wifi_settings">Abrir configurações de Wi-Fi</string>
+    <string name="open_wifi_settings_china">Abrir configurações de Wi-Fi</string>
     <string name="passport_checking_vcode">Verificando a senha…</string>
     <string name="passport_error_empty_vcode">Inserir código de verificação</string>
     <string name="passport_notification_need_unlock_again">Tente desbloquear novamente</string>
@@ -295,6 +304,14 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="unlock_error_user_name">Usuário inválido</string>
     <string name="unlock_error_wrong_vcode">O código inserido está incorreto</string>
     <string name="unlock_help">"Conecte-se à rede.
+Insira um cartão SIM ativado e não conecte-se a redes Wi-Fi inválidas.
+
+Esqueceu a senha?
+Acesse id.mi.com, selecione \"Esqueceu a senha?\", e siga as instruções.
+
+Não consegue ativar o dispositivo?
+Acesse i.mi.com/ss e envie sua solicitação para desbloquear o dispositivo."</string>
+    <string name="unlock_help_china">"Conecte-se à rede.
 Insira um cartão SIM ativado e não conecte-se a redes Wi-Fi inválidas.
 
 Esqueceu a senha?

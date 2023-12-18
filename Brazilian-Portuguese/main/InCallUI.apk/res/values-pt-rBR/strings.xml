@@ -91,7 +91,7 @@
     <string name="call_progress_info_user_busy">A outra pessoa está ocupada agora. Por favor, ligue de volta mais tarde</string>
     <string name="call_progress_info_user_call_rejected">Seu número está fora de serviço</string>
     <string name="call_record_wait_label">Aguardando</string>
-    <string name="call_recording_deny_permission_msg">A permissão de gravação foi negada, não é possível gravar.</string>
+    <string name="call_recording_deny_permission_msg">Não é possível gravar. Conceda permissões em Configurações primeiro.</string>
     <string name="call_recording_error_low_storage">Não há espaço suficiente no armazenamento.</string>
     <string name="call_recording_error_privacy">Não é possível gravar enquanto você está no Modo convidado</string>
     <string name="call_recording_error_sd_access">Não é possível acessar o cartão SD</string>
@@ -259,14 +259,14 @@
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
@@ -356,7 +356,7 @@
     <string name="onscreen_change_to_video">Videochamada</string>
     <string name="onscreen_change_to_voice">Chamada de voz</string>
     <string name="onscreen_close_preview_camera">Fechar</string>
-    <string name="onscreen_collapsed">Colapso</string>
+    <string name="onscreen_collapsed">Recolher</string>
     <string name="onscreen_collapsed_dialpad">Mostrar teclado de discagem</string>
     <string name="onscreen_expand">Mais</string>
     <string name="onscreen_expand_dialpad">Ocultar teclado de discagem</string>

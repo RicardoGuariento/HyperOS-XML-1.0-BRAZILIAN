@@ -32,8 +32,8 @@
     <string name="access_list_of_links">Acessar uma lista de links</string>
     <string name="access_terms">Acessar termos</string>
     <string name="account_management_disclaimer_header">Sua conta é gerenciada</string>
-    <string name="account_management_disclaimer_subheader">Seu administrador de TI usa o gerenciamento de dispositivos móveis para aplicar políticas de segurança</string>
-    <string name="admin_has_ability_to_monitor_device">"Seu administrador de TI pode monitorar e gerenciar configurações, acesso corporativo, apps, permissões e dados associados a este dispositivo, incluindo sua atividade de rede, bem como a localização do seu dispositivo, histórico de chamadas e histórico de pesquisa de contato.
+    <string name="account_management_disclaimer_subheader">Seu administrador de TI usa o gerenciamento móvel para aplicar políticas de segurança</string>
+    <string name="admin_has_ability_to_monitor_device">"Seu administrador de TI pode monitorar e gerenciar configurações, acesso corporativo, apps, permissões e dados associados a este %1$s, incluindo sua atividade de rede, bem como a localização do seu dispositivo, histórico de chamadas e histórico de pesquisa de contato.
 
 Entre em contato com seu administrador de TI para obter mais informações, incluindo as políticas de privacidade de sua organização."</string>
     <string name="admin_has_ability_to_monitor_profile">"Seu administrador de TI pode monitorar e gerenciar configurações, acesso corporativo, apps, permissões, dados e atividades de rede associadas a esse perfil, bem como seu histórico de chamadas e histórico de pesquisa de contatos. Entre em contato com seu administrador de TI para obter mais informações e saber mais sobre as políticas de privacidade de sua organização."</string>
@@ -84,7 +84,7 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="cope_provisioning_step_1_header">Os apps de trabalho são mantidos em seu perfil de trabalho e são gerenciados pelo administrador de TI</string>
     <string name="cope_provisioning_step_2_header">Apps pessoais são separados e ocultos dos apps de trabalho</string>
     <string name="cope_provisioning_step_3_header">O administrador de TI pode controlar este dispositivo e bloquear alguns apps</string>
-    <string name="cope_provisioning_summary">Os apps de trabalho são mantidos em seu perfil de trabalho e gerenciados pelo administrador de TI. Os apps pessoais ficam separados e ocultos dos apps de trabalho. O administrador de TI pode controlar este dispositivo e bloquear determinados apps.</string>
+    <string name="cope_provisioning_summary">Os apps de trabalho são mantidos em seu perfil de trabalho e gerenciados pelo administrador de TI. Os apps pessoais ficam separados e ocultos dos apps de trabalho. O administrador de TI pode controlar este %1$s e bloquear determinados apps.</string>
     <string name="copy">Copiar</string>
     <string name="copying_certs">Instalação de certificados de CA</string>
     <string name="couldnt_set_up_device">Não foi possível configurar o dispositivo. Entre em contato com o administrador de TI para receber ajuda.</string>
@@ -94,9 +94,9 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="default_owned_device_username">Usuário de dispositivo de trabalho</string>
     <string name="delete_profile">Excluir</string>
     <string name="delete_profile_title">Deseja excluir o perfil já existente?</string>
-    <string name="device_already_set_up">O dispositivo já foi configurado</string>
-    <string name="device_doesnt_allow_encryption_contact_admin">Este dispositivo não é compatível com criptografia, que é necessária para a configuração. Entre em contato com o administrador de TI para receber ajuda.</string>
-    <string name="device_has_reset_protection_contact_admin">Seu dispositivo está com a proteção contra redefinição ativada. Entre em contato com o administrador de TI para receber ajuda.</string>
+    <string name="device_already_set_up">Este %1$s já foi configurado</string>
+    <string name="device_doesnt_allow_encryption_contact_admin">Este %1$s não é compatível com criptografia, que é necessária para a configuração. Entre em contato com o administrador de TI para receber ajuda.</string>
+    <string name="device_has_reset_protection_contact_admin">Seu %1$s está com a proteção contra redefinição ativada. Entre em contato com o administrador de TI para receber ajuda.</string>
     <string name="device_owner_cancel_cancel">Cancelar</string>
     <string name="device_owner_cancel_message">Interromper a configuração e limpar os dados do seu dispositivo?</string>
     <string name="device_owner_description">Este dispositivo será mantido em segurança por sua organização</string>
@@ -108,8 +108,8 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="done">Concluído</string>
     <string name="downloading_administrator_header">Preparando para configuração de trabalho…</string>
     <string name="encrypt">Criptografar</string>
-    <string name="encrypt_device_text_for_device_owner_setup">Para configurar este dispositivo, é necessário criptografá-lo primeiro. Isso pode demorar um pouco.</string>
-    <string name="encrypt_device_text_for_profile_owner_setup">Para configurar seu perfil de trabalho, é preciso criptografar o dispositivo. Isso pode demorar um pouco.</string>
+    <string name="encrypt_device_text_for_device_owner_setup">Para configurar o %1$s, é necessário criptografá-lo primeiro. Isso pode demorar um pouco.</string>
+    <string name="encrypt_device_text_for_profile_owner_setup">Para configurar seu perfil de trabalho, é preciso criptografar o %1$s. Isso pode demorar um pouco.</string>
     <string name="encrypt_this_device_question">Cript. dispositivo?</string>
     <string name="error_download_failed">Não foi possível baixar o app de administração</string>
     <string name="error_hash_mismatch">Não foi possível usar o app para o administrador devido a um erro de soma de verificação. Entre em contato com seu administrador de TI para receber ajuda.</string>
@@ -117,17 +117,17 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="error_installation_failed">Não foi possível instalar o app de administração</string>
     <string name="error_package_invalid">Não é possível usar o app para o administrador, porque estão faltando alguns componentes ou o app foi corrompido. Entre em contato com o administrador de TI para receber ajuda.</string>
     <string name="error_role_holder_download_install_failed">Tente novamente mais tarde ou peça ajuda ao seu administrador de TI</string>
-    <string name="error_role_holder_hash_mismatch">"Não é possível configurar o dispositivo. Entre em contato com seu administrador de TI e mencione \"Soma de verificação inválida\"."</string>
-    <string name="error_role_holder_package_invalid">"Não é possível configurar o dispositivo. Entre em contato com seu administrador de TI e informe \"Componentes ausentes ou corrompidos\"."</string>
+    <string name="error_role_holder_hash_mismatch">"Não é possível configurar o %1$s. Entre em contato com seu administrador de TI e mencione \"Soma de verificação inválida\"."</string>
+    <string name="error_role_holder_package_invalid">"Não é possível configurar o %1$s. Entre em contato com seu administrador de TI e informe \"Componentes ausentes ou corrompidos\"."</string>
     <string name="error_wifi">Não foi possível conectar ao Wi-Fi</string>
     <string name="expand">Expandir</string>
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
-    <string name="financed_device_screen_header">Este dispositivo é fornecido por %1$s</string>
-    <string name="financed_make_payments_subheader_description">%1$s pode instalar o app %2$s para fazer pagamentos por este dispositivo.</string>
-    <string name="financed_make_payments_subheader_title">Faça pagamentos por este dispositivo</string>
-    <string name="financed_restrict_device_subheader_description">%1$s pode restringir o acesso a este dispositivo se você não fizer pagamentos.</string>
-    <string name="financed_restrict_device_subheader_title">Este dispositivo pode ser restrito</string>
+    <string name="financed_device_screen_header">Este %1$s é fornecido por %2$s</string>
+    <string name="financed_make_payments_subheader_description">%1$s pode instalar o app %2$s para fazer pagamentos por este %3$s.</string>
+    <string name="financed_make_payments_subheader_title">Faça pagamentos por este %1$s</string>
+    <string name="financed_restrict_device_subheader_description">%1$s pode restringir o acesso a este %2$s se você não fizer pagamentos.</string>
+    <string name="financed_restrict_device_subheader_title">O %1$s pode ser restrito</string>
     <string name="for_help_contact_admin">Entre em contato com seu administrador para receber ajuda</string>
     <string name="frp_clear_progress_text">Aguarde…</string>
     <string name="frp_clear_progress_title">Apagando</string>
@@ -142,14 +142,14 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="fully_managed_device_provisioning_return_device_subheader">Volte para a tela anterior ou reinicie este dispositivo e devolva-o ao seu administrador de TI.</string>
     <string name="fully_managed_device_provisioning_return_device_title">Devolva este dispositivo ao seu administrador de TI</string>
     <string name="fully_managed_device_provisioning_step_1_header">Tenha os apps de trabalho na palma da sua mão</string>
-    <string name="fully_managed_device_provisioning_step_2_header">Este dispositivo não é privado</string>
-    <string name="fully_managed_device_provisioning_step_2_subheader">O administrador de TI pode ver seus dados e atividade neste dispositivo.</string>
-    <string name="fully_managed_device_provisioning_summary">Use este dispositivo para acessar seus apps de trabalho com facilidade. Ele não é privado e, portanto, o administrador de TI pode ver seus dados e atividade.</string>
+    <string name="fully_managed_device_provisioning_step_2_header">Este %1$s não é privado</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader">O administrador de TI pode ver seus dados e atividade no %1$s.</string>
+    <string name="fully_managed_device_provisioning_summary">Use este %1$s para acessar seus apps de trabalho com facilidade. %1$s não é privado e, portanto, o administrador de TI pode ver seus dados e atividade.</string>
     <string name="fully_managed_device_reset_and_return_button">Reinicializar e retornar o dispositivo</string>
     <string name="fully_managed_device_reset_button">Restauração de fábrica</string>
     <string name="fully_managed_device_unsupported_DPC_in_headless_mode_header">"Não é possível configurar o dispositivo"</string>
     <string name="fully_managed_device_unsupported_DPC_in_headless_mode_subheader">"Este dispositivo não pode ser inscrito no modo totalmente gerenciado. Redefina seu dispositivo para a configuração original e entre em contato com seu administrador de TI."</string>
-    <string name="fully_managed_device_with_permission_control_provisioning_summary">Use este dispositivo para acessar facilmente seus apps de trabalho. Este dispositivo não é particular, então seu administrador de TI pode ver sua atividade e seus dados. Seu administrador de TI também pode definir permissões para apps neste dispositivo, como microfone, câmera e permissões de localização.</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">Use este %1$s para acessar facilmente seus apps de trabalho. Este dispositivo não é particular, então seu administrador de TI pode ver sua atividade e seus dados. Seu administrador de TI também pode definir permissões para apps neste dispositivo, como microfone, câmera e permissões de localização.</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="if_questions_contact_admin">Em caso de dúvidas, entre em contato com o administrador de TI</string>
     <string name="info_anim_title_0">Mude a forma como você trabalha</string>
@@ -191,6 +191,7 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
     <string name="mtrl_picker_a11y_prev_month">Alterar para o mês anterior</string>
     <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_cancel">Cancelar</string>
     <string name="mtrl_picker_confirm">"OK"</string>
     <string name="mtrl_picker_date_header_title">Selecione a data</string>
     <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
@@ -253,7 +254,7 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="read_more_delete_profile">Antes de prosseguir, <a href="#read_this_link">leia isso</a>.</string>
     <string name="read_terms">Ler os termos</string>
     <string name="reset">Redefinir</string>
-    <string name="reset_device">Redefina o dispositivo e tente configurar novamente</string>
+    <string name="reset_device">Redefina o %1$s e tente configurar novamente</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="section_content">Conteúdo da seção %1$s: %2$s</string>
     <string name="section_heading">Título da seção %1$s.</string>
@@ -261,9 +262,9 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="set_up_your_device">Configure o dispositivo</string>
     <string name="setting_up">Configurando…</string>
     <string name="setting_up_workspace">Configurando seu perfil de trabalho…</string>
-    <string name="setup_device">Configurar o dispositivo</string>
-    <string name="setup_device_encryption">Configurar seu dispositivo. Criptografia</string>
-    <string name="setup_device_progress">Configurar seu dispositivo. Mostrando progresso</string>
+    <string name="setup_device">Configurar o %1$s</string>
+    <string name="setup_device_encryption">Configurar seu %1$s. Criptografia</string>
+    <string name="setup_device_progress">Configurar seu %1$s. Mostrando progresso</string>
     <string name="setup_isnt_finished_contact_admin">A configuração não foi concluída. Entre em contato com o administrador de TI para receber ajuda.</string>
     <string name="setup_profile">Configurar seu perfil</string>
     <string name="setup_profile_encryption">Configurar seu perfil. Criptografia</string>
@@ -273,8 +274,9 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="setup_work_device">Configurando dispositivo de trabalho…</string>
     <string name="setup_work_profile">Configurar perfil de trabalho</string>
     <string name="something_went_wrong">Algo deu errado</string>
-    <string name="stop_setup_reset_device_question">Parar configuração e redefinir o dispositivo?</string>
+    <string name="stop_setup_reset_device_question">Parar configuração e redefinir o %1$s?</string>
     <string name="sud_back_button_label">Voltar</string>
+    <string name="sud_default_device_name">dispositivo</string>
     <string name="sud_more_button_label">Mais</string>
     <string name="sud_next_button_label">Próxima</string>
     <string name="sure_you_want_to_delete_profile">Se você continuar, todos os apps e dados deste perfil serão excluídos.</string>
@@ -283,14 +285,14 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="the_following_is_your_mdm">O seguinte app precisará acessar este perfil:</string>
     <string name="the_following_is_your_mdm_for_device">O seguinte app gerenciará seu dispositivo:</string>
     <string name="theft_protection_disabled_warning">Para usar os recursos de proteção contra roubo, é necessário um bloqueio de tela protegido por senha no dispositivo.</string>
-    <string name="this_will_reset_take_back_first_screen">Isso redefinirá o dispositivo e levará você de volta à primeira tela</string>
+    <string name="this_will_reset_take_back_first_screen">Isso redefinirá o %1$s e levará você de volta à primeira tela</string>
     <string name="url_error">O link não pode ser exibido.</string>
     <string name="user_consent_msg">Eu concordo</string>
     <string name="user_setup_incomplete">Configuração de usuário incompleta</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="view_terms">Ver termos</string>
-    <string name="work_profile_cant_be_added_contact_admin">Não é possível adicionar um perfil de trabalho a este dispositivo. Se você tiver dúvidas, entre em contato com o administrador de TI.</string>
+    <string name="work_profile_cant_be_added_contact_admin">Não é possível adicionar um perfil de trabalho a este %1$s. Se você tiver dúvidas, entre em contato com o administrador de TI.</string>
     <string name="work_profile_description">Seus apps de trabalho serão mantidos neste perfil e gerenciados pela sua organização</string>
     <string name="work_profile_info">Informações do perfil de trabalho</string>
     <string name="work_profile_provisioning_accept_header_post_suw">Vamos configurar seu perfil de trabalho</string>
