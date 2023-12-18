@@ -2420,9 +2420,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_screen_rotation_outer_unlocked">Rotação da tela externa ativada</string>
     <string name="quick_settings_rssi_emergency_only">Apenas chamadas de emergência</string>
     <string name="quick_settings_rssi_label">"RSSI"</string>
-    <string name="quick_settings_screen_record_label">Gravar tela</string>
-    <string name="quick_settings_screen_record_start">Iniciar</string>
-    <string name="quick_settings_screen_record_stop">Parar</string>
     <string name="quick_settings_screenbutton_label">Botões</string>
     <string name="quick_settings_screenlock_label">Bloquear tela</string>
     <string name="quick_settings_screensaver_label">Protetor de tela</string>
@@ -2616,7 +2613,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="screenrecord_permission_dialog_warning_entire_screen">Enquanto você grava, o Android tem acesso a qualquer coisa visível na tela ou reproduzida no seu dispositivo. Portanto, tome cuidado com senhas, detalhes de pagamento, mensagens, fotos e áudio e vídeo.</string>
     <string name="screenrecord_permission_error">Falha ao obter permissões</string>
     <string name="screenrecord_resume_label">Continuar</string>
-    <string name="screenrecord_save_error">Erro ao salvar a gravação da tela</string>
     <string name="screenrecord_save_message">Gravação de tela salva, toque para ver</string>
     <string name="screenrecord_save_text">Toque para ver</string>
     <string name="screenrecord_save_title">Gravação de tela salva</string>
@@ -3693,8 +3689,6 @@ Parece que o armazenamento de credenciais não está ativado."</string>
 	<string name="notification_channel_instant">Aplicativos instantâneos</string>
 	<string name="notification_channel_setup">Configurar</string>
 	<string name="pip_menu_accessibility_title">Menu imagem em imagem</string>
-	<string name="screenrecord_permission_dialog_title">Comece a gravar?</string>
-	<string name="screenrecord_permission_dialog_warning_entire_screen">Enquanto você grava, o Android tem acesso a qualquer coisa visível na tela ou reproduzida no seu dispositivo. Portanto, tome cuidado com coisas como senhas, detalhes de pagamento, mensagens, fotos e áudio e vídeo.</string>
 	<string name="screenrecord_save_error">Erro ao salvar a gravação da tela</string>
 	<string name="screenrecord_title">Gravador de ecrã</string>
 	<string name="screenshot_blocked_by_admin">A captura de tela foi bloqueada pelo administrador de TI</string>
