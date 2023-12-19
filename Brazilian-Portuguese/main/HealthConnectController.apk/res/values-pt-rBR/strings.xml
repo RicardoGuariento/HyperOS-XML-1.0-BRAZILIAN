@@ -43,20 +43,20 @@
     <string name="all_categories_title">Todas as categorias</string>
     <string name="all_entries_button">See all entries</string>
     <string name="app_access_title">Acesso ao app</string>
-    <string name="app_label">Conexão Saúde</string>
+    <string name="app_label">Conexão de saúde</string>
     <string name="app_perms_content_provider_24h">Accessed in past 24 hours</string>
     <string name="app_priority_button">App priority</string>
     <string name="app_update_needed_banner_button">Check for updates</string>
-    <string name="app_update_needed_banner_description_multiple">Some apps need to be up-to-date in order to keep working with Health Connect</string>
-    <string name="app_update_needed_banner_description_single">%1$s needs to be up-to-date in order to keep working with Health Connect</string>
+    <string name="app_update_needed_banner_description_multiple">Some apps need to be up-to-date in order to keep working with Conexão de saúde</string>
+    <string name="app_update_needed_banner_description_single">%1$s needs to be up-to-date in order to keep working with Conexão de saúde</string>
     <string name="app_update_needed_banner_title">App update needed</string>
     <string name="app_update_needed_seen">App Update Seen</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="arm_curl">Arm curl</string>
     <string name="auto_delete_button">Auto-delete</string>
-    <string name="auto_delete_header">Control how long your data is stored in Health Connect by scheduling it to delete after a set time</string>
+    <string name="auto_delete_header">Control how long your data is stored in Conexão de saúde by scheduling it to delete after a set time</string>
     <string name="auto_delete_learn_more">Learn more about auto-delete</string>
-    <string name="auto_delete_rationale">When you change these settings, Health Connect deletes existing data to reflect your new preferences</string>
+    <string name="auto_delete_rationale">When you change these settings, Conexão de saúde deletes existing data to reflect your new preferences</string>
     <string name="auto_delete_section">Auto-delete data</string>
     <string name="auto_delete_title">Auto-delete</string>
     <string name="back_button">Back</string>
@@ -143,7 +143,7 @@
     <string name="calories_long">{count, plural, =1 {1 caloria} other {# calorias}}</string>
     <string name="can_read">Can read %s</string>
     <string name="can_write">Can write %s</string>
-    <string name="cant_see_all_your_apps_description">"If you can't see an installed app, it may not be compatible with Health Connect yet"</string>
+    <string name="cant_see_all_your_apps_description">"If you can't see an installed app, it may not be compatible with Conexão de saúde yet"</string>
     <string name="cervical_mucus_lowercase_label">cervical mucus</string>
     <string name="cervical_mucus_read_content_description">Read cervical mucus</string>
     <string name="cervical_mucus_uppercase_label">Cervical mucus</string>
@@ -158,13 +158,13 @@
     <string name="chromium">Chromium</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="config_headlineFontFamily" />
-    <string name="confirming_message_x_months">{count, plural, =1{Health Connect will auto-delete new data after # month. Setting this will also delete existing data older than # month.} other{Health Connect will auto-delete new data after # months. Setting this will also delete existing data older than # months.} }</string>
+    <string name="confirming_message_x_months">{count, plural, =1{Conexão de saúde will auto-delete new data after # month. Setting this will also delete existing data older than # month.} other{Conexão de saúde will auto-delete new data after # months. Setting this will also delete existing data older than # months.} }</string>
     <string name="confirming_question_all">Permanently delete all data from all time?</string>
     <string name="confirming_question_app_data_all">Permanently delete %s data from all time?</string>
     <string name="confirming_question_app_data_one_day">Permanently delete %s data from the last 24 hours?</string>
     <string name="confirming_question_app_data_one_month">Permanently delete %s data from the last 30 days?</string>
     <string name="confirming_question_app_data_one_week">Permanently delete %s data from the last 7 days?</string>
-    <string name="confirming_question_app_remove_all_permissions">Also remove all %s permissions from Health Connect</string>
+    <string name="confirming_question_app_remove_all_permissions">Also remove all %s permissions from Conexão de saúde</string>
     <string name="confirming_question_category_all">Permanently delete %s data from all time?</string>
     <string name="confirming_question_category_one_day">Permanently delete %s data from the last 24 hours?</string>
     <string name="confirming_question_category_one_month">Permanently delete %s data from the last 30 days?</string>
@@ -176,7 +176,7 @@
     <string name="confirming_question_data_type_one_week">Permanently delete %s data from the last 7 days?</string>
     <string name="confirming_question_delete_button">Delete</string>
     <string name="confirming_question_go_back_button">Go back</string>
-    <string name="confirming_question_message">Connected apps will no longer be able to access this data from Health Connect</string>
+    <string name="confirming_question_message">Connected apps will no longer be able to access this data from Conexão de saúde</string>
     <string name="confirming_question_message_menstruation">This will delete all menstruation entries from %1$s to %2$s.</string>
     <string name="confirming_question_one_day">Permanently delete all data from the last 24 hours?</string>
     <string name="confirming_question_one_month">Permanently delete all data from the last 30 days?</string>
@@ -190,7 +190,7 @@
     <string name="connected_apps_one_app_connected_subtitle">%1$s app has access</string>
     <string name="connected_apps_section_title">Allowed access</string>
     <string name="connected_apps_subtitle">Manage your apps and permissions</string>
-    <string name="connected_apps_text">Control which apps can access data stored in Health Connect. Tap an app to review the data it can read or write.</string>
+    <string name="connected_apps_text">Control which apps can access data stored in Conexão de saúde. Tap an app to review the data it can read or write.</string>
     <string name="connected_apps_title">App permissions</string>
     <string name="copper">Copper</string>
     <string name="copy">Copiar</string>
@@ -203,7 +203,7 @@
     <string name="cycling_rpm">{count, plural, =1 {1 rpm} other {# rpm}}</string>
     <string name="cycling_rpm_long">{count, plural, =1 {1 revolution per minute} other {# revolutions per minute}}</string>
     <string name="dancing">Dancing</string>
-    <string name="data_access_empty_message">Apps can no longer read or write %1$s and there is no %2$s data stored in Health Connect</string>
+    <string name="data_access_empty_message">Apps can no longer read or write %1$s and there is no %2$s data stored in Conexão de saúde</string>
     <string name="data_access_exercise_description">This data includes information like active time, exercise type, laps, repetitions, sessions, or swimming strokes</string>
     <string name="data_access_sleep_description">This data includes information like sleep stages and sleep sessions</string>
     <string name="data_entry_header">%1$s • %2$s</string>
@@ -223,33 +223,33 @@
     <string name="delete_button_content_description">Delete data</string>
     <string name="delete_category_data_button">Delete %s data</string>
     <string name="delete_data_notification_channel_name">Data deletion</string>
-    <string name="delete_data_notification_ticker_text">Deleting Health Connect data</string>
-    <string name="delete_data_notification_title">Deleting Health Connect data</string>
+    <string name="delete_data_notification_ticker_text">Deleting Conexão de saúde data</string>
+    <string name="delete_data_notification_title">Deleting Conexão de saúde data</string>
     <string name="delete_data_point">Delete entry</string>
     <string name="delete_dialog_failure_close_button">Close</string>
-    <string name="delete_dialog_failure_message">"Something went wrong and Health Connect couldn't delete your data"</string>
+    <string name="delete_dialog_failure_message">"Something went wrong and Conexão de saúde couldn't delete your data"</string>
     <string name="delete_dialog_failure_title">"Couldn't delete data"</string>
     <string name="delete_dialog_failure_try_again_button">Try again</string>
     <string name="delete_dialog_success_got_it_button">Done</string>
-    <string name="delete_dialog_success_message">This data is no longer stored in Health Connect.</string>
+    <string name="delete_dialog_success_message">This data is no longer stored in Conexão de saúde.</string>
     <string name="delete_dialog_success_title">Data deleted</string>
     <string name="delete_permission_type_data_button">Delete this data</string>
     <string name="delete_progress_indicator">Deleting your data</string>
     <string name="deletion_started_category_list_section">Data to be deleted from these</string>
     <string name="deletion_started_done_button">Done</string>
     <string name="deletion_started_title">Existing data will be deleted</string>
-    <string name="deletion_started_x_months">{count, plural, =1{Health Connect will delete all data older than # months. It may take a day for these changes to appear in your connected apps.} other{Health Connect will delete all data older than # months. It may take a day for these changes to appear in your connected apps.} }</string>
+    <string name="deletion_started_x_months">{count, plural, =1{Conexão de saúde will delete all data older than # months. It may take a day for these changes to appear in your connected apps.} other{Conexão de saúde will delete all data older than # months. It may take a day for these changes to appear in your connected apps.} }</string>
     <string name="denied_apps_banner_button">See details</string>
-    <string name="denied_apps_banner_message_many_apps">Health Connect removed permissions for %1$s, %2$s, %3$s and other apps</string>
-    <string name="denied_apps_banner_message_one_app">Health Connect removed permissions for %s</string>
-    <string name="denied_apps_banner_message_three_apps">Health Connect removed permissions for %1$s, %2$s and %3$s</string>
-    <string name="denied_apps_banner_message_two_apps">Health Connect removed permissions for %1$s and %2$s</string>
+    <string name="denied_apps_banner_message_many_apps">Conexão de saúde removed permissions for %1$s, %2$s, %3$s and other apps</string>
+    <string name="denied_apps_banner_message_one_app">Conexão de saúde removed permissions for %s</string>
+    <string name="denied_apps_banner_message_three_apps">Conexão de saúde removed permissions for %1$s, %2$s and %3$s</string>
+    <string name="denied_apps_banner_message_two_apps">Conexão de saúde removed permissions for %1$s and %2$s</string>
     <string name="denied_apps_banner_title">Removed app permissions</string>
     <string name="denied_apps_dialog_got_it_button">Got it</string>
-    <string name="denied_apps_dialog_message">"If an app is suspended or removed from Google Play, Health Connect automatically removes its permissions.
+    <string name="denied_apps_dialog_message">"If an app is suspended or removed from Google Play, Conexão de saúde automatically removes its permissions.
 
-This means the app can no longer access data stored in Health Connect. If this app has previously written data, it appears in the inactive apps list."</string>
-    <string name="denied_apps_dialog_title">Why Health Connect removes app permissions</string>
+This means the app can no longer access data stored in Conexão de saúde. If this app has previously written data, it appears in the inactive apps list."</string>
+    <string name="denied_apps_dialog_title">Why Conexão de saúde removes app permissions</string>
     <string name="dest_title">destination title</string>
     <string name="dietary_fiber">Dietary fiber</string>
     <string name="disconnect_all_apps">Remove access for all apps</string>
@@ -321,13 +321,13 @@ This means the app can no longer access data stored in Health Connect. If this 
     <string name="frisbee_disc">Frisbee</string>
     <string name="front_raise">Front raise</string>
     <string name="golf">Golf</string>
-    <string name="gram_long_format">{count, plural, =1 {1 gram} other {# grams}}</string>
+    <string name="gram_long_format">{count, plural, =1 {1 grama} other {# gramas}}</string>
     <string name="gram_short_format">{count, plural, =1 {1 g} other {# g}}</string>
     <string name="guided_breathing">Guided breathing</string>
     <string name="gymnastics">Gymnastics</string>
     <string name="handball">Handball</string>
     <string name="hc_get_started_link">https://support.google.com/android?p=get_started_hc</string>
-    <string name="health_connect_summary">Manage app access to health data</string>
+    <string name="health_connect_summary">Gerenciar o acesso de apps a dados de saúde</string>
     <string name="health_permission_header_description">Apps with this permission can read and write your health and fitness data.</string>
     <string name="heart_rate_long_value">{count, plural, =1 {1 beat per minute} other {# beats per minute}}</string>
     <string name="heart_rate_lowercase_label">heart rate</string>
@@ -378,8 +378,8 @@ This means the app can no longer access data stored in Health Connect. If this 
     <string name="ice_skating">Ice skating</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
     <string name="inactive_apps">Inactive apps</string>
-    <string name="inactive_apps_message">These apps can no longer write %s, but still have data stored in Health Connect</string>
-    <string name="inactive_apps_section_message">These apps no longer have access, but still have data stored in Health Connect</string>
+    <string name="inactive_apps_message">These apps can no longer write %s, but still have data stored in Conexão de saúde</string>
+    <string name="inactive_apps_section_message">These apps no longer have access, but still have data stored in Conexão de saúde</string>
     <string name="inactive_apps_section_title">Inactive apps</string>
     <string name="install_type_instant">App instantâneo</string>
     <string name="intermenstrual_bleeding_lowercase_label">intermenstrual bleeding</string>
@@ -466,20 +466,20 @@ This means the app can no longer access data stored in Health Connect. If this 
     <string name="menstruation_read_content_description">Read menstruation</string>
     <string name="menstruation_uppercase_label">Menstruation</string>
     <string name="menstruation_write_content_description">Write menstruation</string>
-    <string name="migration_app_update_needed_action">Before continuing, update the Health Connect app to the latest version.</string>
-    <string name="migration_app_update_needed_notification_title">Health Connect update needed</string>
+    <string name="migration_app_update_needed_action">Before continuing, update the Conexão de saúde app to the latest version.</string>
+    <string name="migration_app_update_needed_notification_title">Conexão de saúde update needed</string>
     <string name="migration_complete_notification_action">Open</string>
-    <string name="migration_complete_notification_title">Health Connect integration complete</string>
-    <string name="migration_in_progress_notification_title">Health Connect integration in progress</string>
+    <string name="migration_complete_notification_title">Conexão de saúde integration complete</string>
+    <string name="migration_in_progress_notification_title">Conexão de saúde integration in progress</string>
     <string name="migration_in_progress_permissions_dialog_button_got_it">Got it</string>
-    <string name="migration_in_progress_permissions_dialog_content">"Health Connect is being integrated with the Android system.
+    <string name="migration_in_progress_permissions_dialog_content">"Conexão de saúde is being integrated with the Android system.
 
-You'll get a notification when the process is complete and you can use %1$s with Health Connect."</string>
-    <string name="migration_in_progress_permissions_dialog_content_apps">"Health Connect is being integrated with the Android system.
+You'll get a notification when the process is complete and you can use %1$s with Conexão de saúde."</string>
+    <string name="migration_in_progress_permissions_dialog_content_apps">"Conexão de saúde is being integrated with the Android system.
 
-You'll get a notification when the process is complete and you can use Health Connect."</string>
-    <string name="migration_in_progress_permissions_dialog_title">Health Connect integration in progress</string>
-    <string name="migration_in_progress_screen_integration_details">"Health Connect is being integrated with the Android system.
+You'll get a notification when the process is complete and you can use Conexão de saúde."</string>
+    <string name="migration_in_progress_permissions_dialog_title">Conexão de saúde integration in progress</string>
+    <string name="migration_in_progress_screen_integration_details">"Conexão de saúde is being integrated with the Android system.
 
 It may take some time while your data and permissions are being transferred."</string>
     <string name="migration_in_progress_screen_integration_dont_close">"Don't close the app until you get a notification that the process is complete."</string>
@@ -487,36 +487,36 @@ It may take some time while your data and permissions are being transferred."</s
     <string name="migration_module_update_needed_action">Before continuing, update your phone system.</string>
     <string name="migration_module_update_needed_notification_title">System update needed</string>
     <string name="migration_module_update_needed_restart">"If you've already updated your phone system, try restarting your phone to continue the integration"</string>
-    <string name="migration_more_space_needed_notification_content">Health Connect needs %1$s of storage space on your phone to continue integrating.</string>
+    <string name="migration_more_space_needed_notification_content">Conexão de saúde needs %1$s of storage space on your phone to continue integrating.</string>
     <string name="migration_more_space_needed_notification_title">More space needed</string>
-    <string name="migration_more_space_needed_screen_details">"Health Connect needs %1$s of storage space on your phone in order for the integration to continue.
+    <string name="migration_more_space_needed_screen_details">"Conexão de saúde needs %1$s of storage space on your phone in order for the integration to continue.
 
 Clear some space on your phone and then try again."</string>
     <string name="migration_more_space_needed_screen_title">More space needed</string>
     <string name="migration_not_complete_dialog_button">Got it</string>
     <string name="migration_not_complete_dialog_content">"You'll get a notification when it becomes available again."</string>
     <string name="migration_not_complete_dialog_seen">Migration Not Complete Seen</string>
-    <string name="migration_not_complete_dialog_title">"Health Connect integration didn't complete"</string>
+    <string name="migration_not_complete_dialog_title">"Conexão de saúde integration didn't complete"</string>
     <string name="migration_not_complete_notification_action">Read more</string>
-    <string name="migration_not_complete_notification_title">"Health Connect integration didn't complete"</string>
-    <string name="migration_paused_notification_content">Health Connect is being integrated with the Android system. Tap to continue</string>
+    <string name="migration_not_complete_notification_title">"Conexão de saúde integration didn't complete"</string>
+    <string name="migration_paused_notification_content">Conexão de saúde is being integrated with the Android system. Tap to continue</string>
     <string name="migration_paused_notification_title">Integration paused</string>
-    <string name="migration_paused_screen_details">"The Health Connect app closed while it was being integrated with the Android system.
+    <string name="migration_paused_screen_details">"The Conexão de saúde app closed while it was being integrated with the Android system.
 
 Click resume to reopen the app and continue transferring your data and permissions."</string>
-    <string name="migration_paused_screen_details_timeout">In order to keep your Health Connect data, complete this within %1$s</string>
+    <string name="migration_paused_screen_details_timeout">In order to keep your Conexão de saúde data, complete this within %1$s</string>
     <string name="migration_paused_screen_title">Integration paused</string>
     <string name="migration_pending_permissions_dialog_button_continue">Continue</string>
     <string name="migration_pending_permissions_dialog_button_start_integration">Start integration</string>
-    <string name="migration_pending_permissions_dialog_content">Health Connect is ready to be integrated with your Android system. If you give %1$s access now, some features may not work until integration is complete.</string>
-    <string name="migration_pending_permissions_dialog_content_apps">Health Connect is ready to be integrated with your Android system. If you give apps access now, some features may not work until integration is complete.</string>
-    <string name="migration_pending_permissions_dialog_title">Health Connect integration</string>
+    <string name="migration_pending_permissions_dialog_content">Conexão de saúde is ready to be integrated with your Android system. If you give %1$s access now, some features may not work until integration is complete.</string>
+    <string name="migration_pending_permissions_dialog_content_apps">Conexão de saúde is ready to be integrated with your Android system. If you give apps access now, some features may not work until integration is complete.</string>
+    <string name="migration_pending_permissions_dialog_title">Conexão de saúde integration</string>
     <string name="migration_update_needed_notification_action">Update now</string>
-    <string name="migration_update_needed_notification_content">Start this update so that Health Connect can continue integrating with your system settings</string>
-    <string name="migration_update_needed_screen_details">Health Connect is being integrated with the Android system so you can access it directly from your settings.</string>
+    <string name="migration_update_needed_notification_content">Start this update so that Conexão de saúde can continue integrating with your system settings</string>
+    <string name="migration_update_needed_screen_details">Conexão de saúde is being integrated with the Android system so you can access it directly from your settings.</string>
     <string name="migration_update_needed_screen_title">Update needed</string>
     <string name="migration_whats_new_dialog_button">Got it</string>
-    <string name="migration_whats_new_dialog_content">You can now access Health Connect directly from your settings. Uninstall the Health Connect app any time.</string>
+    <string name="migration_whats_new_dialog_content">You can now access Conexão de saúde directly from your settings. Uninstall the Conexão de saúde app any time.</string>
     <string name="migration_whats_new_dialog_title">"What's new"</string>
     <string name="millimoles_per_liter">{count, plural, =1 {1 mmol/L} other {# mmol/L}}</string>
     <string name="millimoles_per_liter_long">{count, plural, =1 {1 millimole per liter} other {# millimoles per liter}}</string>
@@ -579,9 +579,9 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string name="niacin">Niacin</string>
     <string name="no_apps_allowed">No apps allowed</string>
     <string name="no_apps_denied">No apps denied</string>
-    <string name="no_categories">"You don't have any data in Health Connect"</string>
+    <string name="no_categories">"You don't have any data in Conexão de saúde"</string>
     <string name="no_data">No data</string>
-    <string name="no_recent_access">No apps recently accessed Health Connect</string>
+    <string name="no_recent_access">No apps recently accessed Conexão de saúde</string>
     <string name="no_results">No Results</string>
     <string name="not_connected_apps_section_title">Not allowed access</string>
     <string name="not_set">Não definido</string>
@@ -592,10 +592,10 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string name="nutrition_read_content_description">Read nutrition</string>
     <string name="nutrition_uppercase_label">Nutrition</string>
     <string name="nutrition_write_content_description">Write nutrition</string>
-    <string name="onboarding_description">Health Connect stores your health and fitness data, giving you a simple way to sync the different apps on your phone</string>
+    <string name="onboarding_description">Conexão de saúde stores your health and fitness data, giving you a simple way to sync the different apps on your phone</string>
     <string name="onboarding_get_started_button_text">Get started</string>
     <string name="onboarding_go_back_button_text">Go back</string>
-    <string name="onboarding_title">Get Started with Health Connect</string>
+    <string name="onboarding_title">Get Started with Conexão de saúde</string>
     <string name="other_android_permissions">To manage other Android permissions this app can access, go to Settings > Apps</string>
     <string name="other_android_permissions_content_description">To manage other Android permissions this app can access, go to Settings, then tap Apps</string>
     <string name="ovulation_high">High</string>
@@ -624,17 +624,17 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string name="period_day">Period day %1$d of %2$d</string>
     <string name="permdesc_readCaloriesBurned">Allows the app to read the calories burned</string>
     <string name="permgroupdesc_health">access your health data</string>
-    <string name="permgrouplab_health">Health Connect</string>
+    <string name="permgrouplab_health">Conexão de saúde</string>
     <string name="permission_types_title">Your data</string>
     <string name="permissions_and_data_header">Permissions and data</string>
     <string name="permissions_disconnect_all_dialog_disconnect">Remove all</string>
-    <string name="permissions_disconnect_all_dialog_message">"None of your apps will be able to access or add new data to Health Connect. This doesn't delete any existing data.
+    <string name="permissions_disconnect_all_dialog_message">"None of your apps will be able to access or add new data to Conexão de saúde. This doesn't delete any existing data.
 
 This doesn't affect other permissions this app may have, like location, camera, or microphone."</string>
     <string name="permissions_disconnect_all_dialog_title">Remove access for all apps?</string>
-    <string name="permissions_disconnect_dialog_checkbox">Also delete %1$s data from Health Connect</string>
+    <string name="permissions_disconnect_dialog_checkbox">Also delete %1$s data from Conexão de saúde</string>
     <string name="permissions_disconnect_dialog_disconnect">Remove all</string>
-    <string name="permissions_disconnect_dialog_message">"%1$s will no longer be able to read or write any data from Health Connect.
+    <string name="permissions_disconnect_dialog_message">"%1$s will no longer be able to read or write any data from Conexão de saúde.
 
 This doesn't affect other permissions this app may have, like location, camera, or microphone."</string>
     <string name="permissions_disconnect_dialog_title">Remove all permissions?</string>
@@ -656,7 +656,7 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="power_write_content_description">Write power</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="previously_opened">Previously Opened</string>
-    <string name="priority_dialog_message">If more than one app adds %s data, Health Connect prioritizes the app highest in this list. Drag apps to reorder them.</string>
+    <string name="priority_dialog_message">If more than one app adds %s data, Conexão de saúde prioritizes the app highest in this list. Drag apps to reorder them.</string>
     <string name="priority_dialog_positive_button">Save</string>
     <string name="priority_dialog_title">Set app priority</string>
     <string name="protein">Protein</string>
@@ -677,14 +677,14 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="request_permissions_allow_all">Allow all</string>
     <string name="request_permissions_cancel">Cancel</string>
     <string name="request_permissions_dont_allow">"Don't allow"</string>
-    <string name="request_permissions_header_desc">Choose data you want this app to read or write to Health Connect</string>
+    <string name="request_permissions_header_desc">Choose data you want this app to read or write to Conexão de saúde</string>
     <string name="request_permissions_header_time_frame_desc">If you give read access, this app can read new data and data from the past 30 days</string>
-    <string name="request_permissions_header_title">Allow %1$s to access Health Connect?</string>
+    <string name="request_permissions_header_title">Allow %1$s to access Conexão de saúde?</string>
     <string name="request_permissions_privacy_policy">privacy policy</string>
     <string name="request_permissions_rationale">"You can learn how %1$s handles your data in the developer's %2$s"</string>
     <string name="request_route_disclaimer_notice">This app will be able to read your past location in the route</string>
-    <string name="request_route_header_title">Allow %1$s to access this exercise route in Health Connect?</string>
-    <string name="request_route_info_access_management_summary">You can manage app access to exercise routes in Health Connect settings</string>
+    <string name="request_route_header_title">Allow %1$s to access this exercise route in Conexão de saúde?</string>
+    <string name="request_route_info_access_management_summary">You can manage app access to exercise routes in Conexão de saúde settings</string>
     <string name="request_route_info_access_management_title">How can I manage access?</string>
     <string name="request_route_info_header_title">Exercise routes include location information</string>
     <string name="request_route_info_who_can_see_data_summary">Only apps you allow to access your exercise routes</string>
@@ -702,11 +702,11 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="resting_heart_rate_write_content_description">Write resting heart rate</string>
     <string name="resume_button">Resume</string>
     <string name="resume_migration_banner_button">Continue</string>
-    <string name="resume_migration_banner_description">Tap to continue integrating Health Connect with the Android system. In order to keep your data, complete this within %1$s</string>
-    <string name="resume_migration_banner_description_fallback">Tap to continue integrating Health Connect with the Android system.</string>
+    <string name="resume_migration_banner_description">Tap to continue integrating Conexão de saúde with the Android system. In order to keep your data, complete this within %1$s</string>
+    <string name="resume_migration_banner_description_fallback">Tap to continue integrating Conexão de saúde with the Android system.</string>
     <string name="resume_migration_banner_title">Resume integration</string>
     <string name="resume_migration_notification_content">In order to keep your data, complete this within %1$s</string>
-    <string name="resume_migration_notification_title">Resume Health Connect integration</string>
+    <string name="resume_migration_notification_title">Resume Conexão de saúde integration</string>
     <string name="riboflavin">Riboflavin</string>
     <string name="rock_climbing">Rock climbing</string>
     <string name="roller_hockey">Roller hockey</string>
@@ -718,8 +718,8 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="sailing">Sailing</string>
     <string name="saturated_fat">Saturated fat</string>
     <string name="scuba_diving">Scuba diving</string>
-    <string name="search_breadcrumbs_data">Health Connect > Data and access</string>
-    <string name="search_breadcrumbs_permissions">Health Connect > App permissions</string>
+    <string name="search_breadcrumbs_data">Conexão de saúde > Dados e acesso</string>
+    <string name="search_breadcrumbs_permissions">Conexão de saúde > Permissões do app</string>
     <string name="search_connected_apps">Search apps</string>
     <string name="search_keywords_data">health connect, health data, health categories, data access, activity, body measurements, cycle tracking, nutrition, sleep, vitals</string>
     <string name="search_keywords_home">fitness, wellness</string>
@@ -731,7 +731,7 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="select_all_apps_title">All apps</string>
     <string name="selenium">Selenium</string>
     <string name="send_feedback">Send feedback</string>
-    <string name="send_feedback_description">"Tell us which health &amp; fitness apps you'd like to work with Health Connect"</string>
+    <string name="send_feedback_description">"Tell us which health &amp; fitness apps you'd like to work with Conexão de saúde"</string>
     <string name="session_title">%1$s, %2$s</string>
     <string name="set_auto_delete_button">Set auto-delete</string>
     <string name="set_units_label">Set data units</string>
@@ -744,7 +744,7 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="sexual_activity_uppercase_label">Sexual activity</string>
     <string name="sexual_activity_write_content_description">Write sexual activity</string>
     <string name="share_data">Share data with your apps</string>
-    <string name="share_data_description">Choose the data each app can read or write to Health Connect</string>
+    <string name="share_data_description">Choose the data each app can read or write to Conexão de saúde</string>
     <string name="shoulder_press">Shoulder press</string>
     <string name="show_recent_access_entries_button_title">See all recent access</string>
     <string name="single_arm_triceps_extension">Single arm triceps extension</string>
@@ -819,9 +819,9 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="swimming_pool">Pool swimming</string>
     <string name="table_tennis">Table tennis</string>
     <string name="temperature_celsius">{value, plural, =1 {1 ℃} other {# ℃}}</string>
-    <string name="temperature_celsius_long">{value, plural, =1 {1 degree Celsius} other {# degrees Celsius}}</string>
+    <string name="temperature_celsius_long">{value, plural, =1 {1° Celsius} other {#° Celsius}}</string>
     <string name="temperature_fahrenheit">{value, plural, =1 {1 ℉} other {# ℉}}</string>
-    <string name="temperature_fahrenheit_long">{value, plural, =1 {1 degree Fahrenheit} other {# degrees Fahrenheit}}</string>
+    <string name="temperature_fahrenheit_long">{value, plural, =1 {1° Fahrenheit} other {#° Fahrenheit}}</string>
     <string name="temperature_kelvin">{value, plural, =1 {1 K} other {# K}}</string>
     <string name="temperature_kelvin_long">{value, plural, =1 {1 kelvin} other {# kelvins}}</string>
     <string name="temperature_location_armpit">Armpit</string>
@@ -844,10 +844,10 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="time_range">%1$s - %2$s</string>
     <string name="time_range_all">Delete all data</string>
     <string name="time_range_long">from %1$s to %2$s</string>
-    <string name="time_range_message_all">This permanently deletes all data added to Health Connect in the chosen time period</string>
-    <string name="time_range_message_app_data">This permanently deletes %s data added to Health Connect in the chosen time period</string>
-    <string name="time_range_message_category">This permanently deletes %s data added to Health Connect in the chosen time period</string>
-    <string name="time_range_message_data_type">This permanently deletes %s data added to Health Connect in the chosen time period</string>
+    <string name="time_range_message_all">This permanently deletes all data added to Conexão de saúde in the chosen time period</string>
+    <string name="time_range_message_app_data">This permanently deletes %s data added to Conexão de saúde in the chosen time period</string>
+    <string name="time_range_message_category">This permanently deletes %s data added to Conexão de saúde in the chosen time period</string>
+    <string name="time_range_message_data_type">This permanently deletes %s data added to Conexão de saúde in the chosen time period</string>
     <string name="time_range_next_button">Next</string>
     <string name="time_range_one_day">Delete last 24 hours</string>
     <string name="time_range_one_month">Delete last 30 days</string>

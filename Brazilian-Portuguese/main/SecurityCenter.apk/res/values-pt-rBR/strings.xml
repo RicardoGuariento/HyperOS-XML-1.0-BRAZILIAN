@@ -5906,6 +5906,8 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="untrust_app_perm_oaid">Permitir acesso a sua ID virtual</string>
     <string name="untrust_app_perm_title">App de fonte desconhecida</string>
     <string name="untrust_app_perm_warn">Este app vem de uma fonte desconhecida e pode representar riscos à segurança. Ele pode usar as permissões listadas abaixo para comprometer sua privacidade. Conceda essas permissões após uma consideração cuidadosa.</string>
+    <string name="unused_apps_switch">Pausar a atividade do app se não for usado</string>
+    <string name="unused_apps_switch_summary">Remove permissões, exclue arquivos temporários e interrompe notificações</string>
     <string name="upgrade_tvm_component_desc">Para garantir a segurança de suas transações, atualize o plug-in do Componente de chave do dispositivo via Segurança.</string>
     <string name="upgrade_tvm_component_title">Atualizar o plug-in do componente de chave do dispositivo</string>
     <string name="usage_sorted_activity_lable">Uso de dados</string>
@@ -6281,7 +6283,7 @@ Experimente interpolar a resolução!"</string>
 	<string name="blur_external_storage">Armazenamento externo</string>
 	<string name="blur_key_words_oaid">OAID</string>
 	<string name="blur_key_words_permission_records">Registros de comportamento do app</string>
-	<string name="blur_location_off">Desligue para manter a localização aproximada disponível apenas para os apps que já a utilizaram</string>
+	<string name="blur_location_off">Desative para manter a localização aproximada disponível apenas para os apps que já a utilizaram</string>
 	<string name="blur_location_on">Ative para disponibilizar a opção de localização aproximada para todos os apps</string>
 	<string name="blur_message">Mensagens</string>
 	<string name="blur_multiple_device_permissions">Permissões para vários dispositivos</string>
