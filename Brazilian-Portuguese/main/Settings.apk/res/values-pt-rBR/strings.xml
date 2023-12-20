@@ -11881,7 +11881,6 @@ Atualizar configurações para:
 	<string name="auto_data_switch_title">Alternar dados móveis automaticamente</string>
 	<string name="auto_pin_confirm_opt_in_security_message">Confirmar seu PIN tocando em Enter é mais seguro do que usar a confirmação automática</string>
 	<string name="auto_pin_confirm_user_message">Confirmar automaticamente o PIN correto</string>
-	<string name="auto_zone_requires_location_summary">A localização será usada para definir o fuso horário quando esta opção estiver ativada</string>
 	<string name="autofill_passwords_count">{count, plural, =1 {# senha} other {# senhas} }</string>
 	<string name="autofill_passwords_count_placeholder">—</string>
 	<string name="background_blur_enable">Texturas avançadas</string>
@@ -12953,8 +12952,6 @@ Atualizar configurações para:
 	<string name="unseen_notifs_lock_screen">Mostrar apenas novas notificações na Tela de bloqueio</string>
 	<string name="unseen_notifs_lock_screen_summary">Remova automaticamente notificações visualizadas anteriormente da Tela de bloqueio</string>
 	<string name="unused_apps_summary">{count, plural, =1 {# app não utilizado} other {# apps não utilizados} }</string>
-	<string name="unused_apps_switch">Pausar a atividade do app se não for usado</string>
-	<string name="unused_apps_switch_summary">Remove permissões, exclue arquivos temporários e interrompe notificações</string>
 	<string name="updown_waving_summary">Ajuste o volume da mídia, alterne entre vídeos curtos e vire páginas em documentos</string>
 	<string name="updown_waving_title">Onda verticalmente</string>
 	<string name="uri_permissions_text">{contagem, plural, =1 {1 item} other {# itens} }</string>

@@ -55,6 +55,15 @@
         <item>Roxo</item>
         <item>Marrom</item>
     </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Desativado</item>
+        <item>Em apps e widgets</item>
+        <item>Em widgets</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Desativado</item>
+        <item>Em apps e widgets</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Deslizar</item>
         <item>Suavizar</item>

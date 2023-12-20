@@ -560,9 +560,14 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="local_mode_hint">"Você está usando o modo off-line.
 Toque para desativar."</string>
     <string name="local_mode_open">Modo offline</string>
+    <string name="local_notification_default_title">Temas</string>
+    <string name="local_notification_font_trial_title">Confira novas fontes</string>
+    <string name="local_notification_update_theme_title">Atualize seus temas</string>
     <string name="local_photos">Fotos locais</string>
     <string name="local_resouce_creator_name">Desenvolvedor: %1$s</string>
     <string name="lock_screen_apply">Definir como Tela de bloqueio</string>
+    <string name="lock_screen_keyguard_guide_popup">Confira os novos recursos e design personalizados da Tela de bloqueio</string>
+    <string name="lock_screen_keyguard_tip_title">Nova Tela de bloqueio personalizada</string>
     <string name="lockscreen_apply_failured">Não é possível aplicar o plano de fundo à Tela de bloqueio</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Plano de fundo aplicado à Tela inicial. Não é possível aplicá-lo à Tela de bloqueio.</string>
     <string name="lockscreen_apply_success">Plano de fundo aplicado à Tela de bloqueio</string>
@@ -573,6 +578,7 @@ Toque para desativar."</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s planos de fundo</string>
     <string name="lockscreen_magazine_system_title">"Offline"</string>
     <string name="lockscreen_magazine_title">Carrossel de Planos de fundo</string>
+    <string name="lockscreen_tip_content">Pressione e segure a Tela de bloqueio para iniciar a edição. Torne-o verdadeiramente sua com novas opções e modelos de personalização.</string>
     <string name="lockscreen_wallpaper">Tela de bloqueio</string>
     <string name="lockstyle_personal_settings">Personalizar</string>
     <string name="login_theme">Fazer login no Temas</string>

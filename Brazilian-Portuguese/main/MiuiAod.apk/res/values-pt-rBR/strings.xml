@@ -75,6 +75,7 @@ dd/MM"</string>
     <string name="aod_mode_time_summary">Programar hora para ativar e desativar o Ambiente Display</string>
     <string name="aod_mode_time_title">Programar</string>
     <string name="aod_mode_title">Tela ambiente</string>
+    <string name="aod_notification_use_app_icon">Use ícones de apps para notificações</string>
     <string name="aod_show_date_and_time">Mostrar data e hora</string>
     <string name="aod_show_style_title">Exibir itens</string>
     <string name="aod_signature_12">h:mm a</string>
@@ -86,6 +87,7 @@ dd/MM"</string>
     <string name="apply_succeed">Aplicado com sucesso</string>
     <string name="aqi_format">IQA %s</string>
     <string name="aqi_format_desc">Índice de qualidade do ar: %s</string>
+    <string name="atmosphere_pressure_unit">"hPa"</string>
     <string name="background_icon">Fundo</string>
     <string name="below_image">Abaixo</string>
     <string name="bold_font">Fonte Bold</string>
@@ -193,7 +195,7 @@ dd/MM"</string>
     <string name="health_chart_sleep_time_format">%1$sh %2$sm</string>
     <string name="health_chart_sleep_time_good">Suficiente</string>
     <string name="health_chart_sleep_time_low">Insuficiente</string>
-    <string name="health_chart_sleep_time_normal">Normal</string>
+    <string name="health_chart_sleep_time_normal">"Normal"</string>
     <string name="health_chart_sleep_time_very_good">Bom</string>
     <string name="health_chart_step_count_unit">Passos</string>
     <string name="health_no_data">Sem dados de saúde</string>
@@ -224,7 +226,7 @@ dd/MM"</string>
     <string name="kg_classic_item_lunar_month_day">Calendário tradicional chinês</string>
     <string name="kg_classic_item_lunar_year">Ano (calendário tradicional chinês)</string>
     <string name="kg_classic_item_month">Mês</string>
-    <string name="kg_classic_item_number_clock">Digital</string>
+    <string name="kg_classic_item_number_clock">"Digital"</string>
     <string name="kg_classic_item_number_hour">Horário (digital)</string>
     <string name="kg_classic_item_number_min">Minutos (digitais)</string>
     <string name="kg_classic_item_operator">Operadora</string>
@@ -237,6 +239,7 @@ dd/MM"</string>
     <string name="kg_classic_item_temperature">Temperatura</string>
     <string name="kg_classic_item_ultraviolet_ray">índice UV</string>
     <string name="kg_classic_item_vitality">Estatísticas</string>
+    <string name="kg_classic_item_weather_cloudy">Nublado</string>
     <string name="kg_classic_item_week">Semana</string>
     <string name="kg_classic_item_wind">Vento</string>
     <string name="kg_classic_primary_color_label">Cor primária</string>
@@ -244,6 +247,10 @@ dd/MM"</string>
     <string name="kg_classic_signature_area_hint">Toque para inserir a assinatura</string>
     <string name="kg_classic_signature_label">Assinatura</string>
     <string name="kg_color_editor_high_text_contrast_tips">"Não é possível alterar a cor do texto ao usar texto de alto contraste"</string>
+    <string name="kg_color_value_editor_hue">Matiz</string>
+    <string name="kg_color_value_editor_lightness">Leveza</string>
+    <string name="kg_color_value_editor_saturation">Saturação</string>
+    <string name="kg_color_value_editor_title">Editar cor</string>
     <string name="kg_confirm">"OK"</string>
     <string name="kg_customize">Customizar</string>
     <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Esta Tela de bloqueio não suporta Super papéis de parede. O papel de parede nas telas inicial e de bloqueio será substituído se você continuar. Continue de qualquer maneira?"</string>
@@ -253,7 +260,7 @@ dd/MM"</string>
     <string name="kg_dialog_fashion_gallery_button_negative">Aplicar</string>
     <string name="kg_dialog_fashion_gallery_button_positive">Cancelar</string>
     <string name="kg_dialog_fashion_gallery_message">"Você está usando o Carrossel de papéis de parede. Aplicar um papel de parede dinâmico desativará o Carrossel de papéis de parede. Aplicar mesmo assim?"</string>
-    <string name="kg_dialog_fashion_gallery_title">Atenção</string>
+    <string name="kg_dialog_fashion_gallery_title">Atenção!</string>
     <string name="kg_doodle_primary_label">Doodles</string>
     <string name="kg_doodle_secondary_disable_tip">Ative o efeito de profundidade</string>
     <string name="kg_doodle_secondary_label">Fundo</string>
@@ -294,6 +301,7 @@ dd/MM"</string>
     <string name="kg_main_item_delete_button_text">Excluir</string>
     <string name="kg_main_toast_current_template_delete">"Não é possível excluir a Tela de bloqueio atual"</string>
     <string name="kg_main_toast_current_template_delete_third_party_theme">"Não é possível excluir este item quando um tema é aplicado"</string>
+    <string name="kg_main_toast_recover_default_style">O relógio duplo está desativado. Usando o layout padrão.</string>
     <string name="kg_rhombus_primary_color_label">Dígitos</string>
     <string name="kg_rhombus_secondary_color_label">Divisor</string>
     <string name="kg_rhombus_switch_label">Dígitos multicoloridos</string>
@@ -306,6 +314,7 @@ dd/MM"</string>
     <string name="kg_template_title_magazine">Revista</string>
     <string name="kg_template_title_mine">Tela de bloqueio</string>
     <string name="kg_template_title_rhombus">Losango</string>
+    <string name="kg_tip_cant_get_third_party_wallpaper">"Não é possível acessar o plano de fundo de terceirosr"</string>
     <string name="kg_wallpaper_scale_hint_text">Aperte para cortar</string>
     <string name="large_time">Relógio grande</string>
     <string name="letter_space">Espaçamento de letras</string>
@@ -319,6 +328,7 @@ dd/MM"</string>
     <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Fim do intervalo,</string>
     <string name="material_slider_range_start">Início do intervalo,</string>
+    <string name="material_slider_value">Valor</string>
     <string name="material_timepicker_am">"AM"</string>
     <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
@@ -329,7 +339,7 @@ dd/MM"</string>
     <string name="midnight">"AM"</string>
     <string name="mini_time">Relógio pequeno</string>
     <string name="minimalist_clock">Relógio simples</string>
-    <string name="miui_clock_city_name_local">Local</string>
+    <string name="miui_clock_city_name_local">"Localização"</string>
     <string name="miui_clock_city_name_second">Segundo relógio</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
