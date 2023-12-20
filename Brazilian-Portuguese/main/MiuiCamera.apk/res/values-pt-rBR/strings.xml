@@ -918,7 +918,7 @@ A gravação em dois telefones também permite que você se conecte a outro disp
     <string name="film_video_b">Disparo lento</string>
     <string name="film_video_b_tip">Capturar em baixa luminosidade</string>
     <string name="film_video_c">Congelar tempo</string>
-    <string name="film_video_d">Lapso de tempo noturno</string>
+    <string name="film_video_d">Time-lapse noturno</string>
     <string name="film_video_e">Mundo paralelo</string>
     <string name="film_video_f">De volta no tempo</string>
     <string name="film_video_tip">Use um tripé</string>
@@ -1599,7 +1599,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_auto_capture_when_stable_title">Capturar objetos quando estável</string>
     <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
     <string name="pref_camera_auto_hibernation">Gravar com a tela desligada</string>
-    <string name="pref_camera_auto_hibernation_desc">Desative a tela após %d minutos de inatividade para economizar energia durante a gravação de vídeos regulares ou com lapso de tempo, usando rajadas cronometradas ou longa exposição</string>
+    <string name="pref_camera_auto_hibernation_desc">Desative a tela após %d minutos de inatividade para economizar energia durante a gravação de vídeos regulares ou com time-lapse, usando rajadas cronometradas ou longa exposição</string>
     <string name="pref_camera_auto_hibernation_description">Ao gravar, a tela será desligada após %d minutos de inatividade para economizar energia</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Média de quadros</string>
@@ -1930,7 +1930,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_zoom_mode_entry_tele_abbr">"TELE"</string>
     <string name="pref_camera_zoom_mode_entry_tele_standalone">"TELE 5X"</string>
     <string name="pref_camera_zoom_mode_entry_ultra">GRANDE ANGULAR</string>
-    <string name="pref_camera_zoom_mode_entry_ultra_abbr">Ultra-angular</string>
+    <string name="pref_camera_zoom_mode_entry_ultra_abbr">GA</string>
     <string name="pref_camera_zoom_mode_entry_wide">ANGULAR</string>
     <string name="pref_camera_zoom_mode_entry_wide_abbr">Principal</string>
     <string name="pref_camera_zoom_mode_title">LENTE</string>
@@ -2085,7 +2085,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_video_speed_entry_fast">Rápido</string>
     <string name="pref_video_speed_entry_normal">Padrão</string>
     <string name="pref_video_speed_entry_slow">Lento</string>
-    <string name="pref_video_speed_fast_title">Lapso de tempo</string>
+    <string name="pref_video_speed_fast_title">Time-lapse</string>
     <string name="pref_video_speed_slow_title">Câmera lenta</string>
     <string name="pref_video_subtitle">Legendas</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (%.1f-seg de intervalo)</string>
@@ -2101,7 +2101,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_video_time_lapse_frame_interval_entry_60">60X (%d-seg de intervalo)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_90">90X (%d-seg de intervalo)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">900X (%d-seg de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_title">Intervalo do lapso de tempo</string>
+    <string name="pref_video_time_lapse_frame_interval_title">Intervalo do time-lapse</string>
     <string name="pref_watermark_off">Desativada</string>
     <string name="pref_watermark_on">Ativada</string>
     <string name="pref_watermark_summary">"As marcas d'água aparecerão nas fotos JPEG e HEIF. Imagens em sequência, Ultra HD e Fun Cam não são suportadas."</string>
