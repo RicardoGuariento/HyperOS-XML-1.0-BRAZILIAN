@@ -42,7 +42,7 @@
     <string name="account_crop_user_avatar">Cortar foto</string>
     <string name="account_empty_user_name">Insira o nome de usuário de sua Conta Mi</string>
     <string name="account_error_all_space_user_name">O nome não pode conter apenas espaços</string>
-    <string name="account_error_invalid_user_name">O nome não pode conter &lt;, >, /</string>
+    <string name="account_error_invalid_user_name">O nome não pode conter \"&lt;\", \">\", \"/\", ou \"%\"</string>
     <string name="account_error_longer_user_name">O nome não pode exceder %d caracteres</string>
     <string name="account_error_shorter_user_name">O nome deve ser maior que %d caracteres</string>
     <string name="account_error_user_birthday">O aniversário inserido é inválido</string>
@@ -237,6 +237,7 @@ Envie este código para o supervisor."</string>
     <string name="download_file">Baixando %s…</string>
     <string name="dropdown_menu">Menu suspenso</string>
     <string name="early_morning">"AM"</string>
+    <string name="empty_device_list">Nada aqui ainda</string>
     <string name="empty_device_list_notice">Nenhum dispositivo</string>
     <string name="enable">Configurações</string>
     <string name="ep_unsupported">Não é possível fazer login na Conta Mi em seu dispositivo</string>
