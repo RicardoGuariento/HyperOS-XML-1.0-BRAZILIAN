@@ -4210,6 +4210,8 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="game_settings_summary">Ative o atalho do painel de jogo, etc</string>
     <string name="game_settings_title">Configurações de jogo</string>
     <string name="game_storage_settings">Jogos</string>
+    <string name="gaze_lock_screen_summary">O dispositivo permanecerá desbloqueado quando sua presença for detectada e bloqueado quando você se afastar da tela</string>
+    <string name="gaze_lock_screen_title">Detectar presença</string>
     <string name="gd_setting_title">Barra inteligente</string>
     <string name="general_category_title">Geral</string>
     <string name="general_notification_header">Gerenciar</string>
@@ -8909,6 +8911,7 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="skip_lock_screen_confirm_msg">Notificações, controles de música e atalhos não serão exibidos na Tela de bloqueio.</string>
     <string name="skip_lock_screen_dialog_button_label">Pular</string>
     <string name="skip_step">Pular</string>
+    <string name="slave_wifi_menu_p2p">SLAVE Wi-Fi Direct</string>
     <string name="slider_app_open">Abrir app</string>
     <string name="slider_app_open_name">Abrir %1$s</string>
     <string name="slider_app_open_none">Nenhum</string>

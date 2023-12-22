@@ -55,6 +55,7 @@
     <string name="app_name">Configuração inicial</string>
     <string name="application_package_introduction">Este app permite que você instale apps de terceiros, verificando-os antes de instalá-los, e dando recomendações após as instalações.</string>
     <string name="application_permissions">Permissões do app</string>
+    <string name="aquire_device_info">Acessar informações do dispositivo</string>
     <string name="back">Voltar</string>
     <string name="backup_introduction">Você pode usar este app para fazer backup e restaurá-los em seu dispositivo.</string>
     <string name="bluetooth_introduction">O Bluetooth é usado pelo sistema para comunicação sem fio. Para poder funcionar normalmente, o Bluetooth precisa das seguintes permissões:</string>
@@ -380,6 +381,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_account">Acessar contas em seu dispositivo</string>
     <string name="permission_account_introduction">Para fazer login com a Conta Mi</string>
     <string name="permission_application_package_introduction">Para acessar o armazenamento para analisar e verificar pacotes de instalação (APKs)</string>
+    <string name="permission_application_scope_description">"Usamos essas permissões apenas ao realizar a verificação de segurança e não as usaremos para nenhuma outra finalidade."</string>
     <string name="permission_backup">Acessar o armazenamento</string>
     <string name="permission_backup_introduction">Para acessar e salvar backups em seu dispositivo</string>
     <string name="permission_call_records">Acessar o histórico de chamadas</string>
@@ -502,6 +504,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
     <string name="provision_next">Avançar</string>
     <string name="provision_skip_underline">Pular</string>
+    <string name="read_application_info">Acessar informações do app</string>
     <string name="recorder_introduction">Você pode usar este app para gravar áudio e fazer o backup dessas gravações para a nuvem.</string>
     <string name="refuse_cookie">Recusar cookies</string>
     <string name="require_authority_list_statement">Para funcionar normalmente, este serviço requer as seguintes permissões:</string>
@@ -510,6 +513,8 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="require_network_and_authority_statement">Para funcionar normalmente, este serviço precisa se conectar à Internet e requer as seguintes permissões:</string>
     <string name="require_network_authority_statement">Para que possamos fornecer-lhe serviços básicos, você precisa se conectar à internet e conceder as seguintes permissões para que possamos coletar suas informações pessoais:</string>
     <string name="require_network_authority_statement_dual">Para funcionar normalmente, este serviço precisa se conectar à Internet e requer as seguintes permissões:</string>
+    <string name="safe_open_service">Serviços abertos seguros</string>
+    <string name="safe_open_service_introduction">Serviços abertos seguros auxiliam os desenvolvedores e fornecem recursos de segurança em nível de sistema para proteger os usuários e sua privacidade.</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -722,6 +727,8 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="voice_assist_condition">"Você conseguirá usar o Mi AI nestes casos:
 1. Quando a tela estiver ligada.
 2. Quando você estiver ouvindo música com a tela desligada."</string>
+    <string name="verify_application_security">Para verificar a segurança do app</string>
+    <string name="verify_device_security">Para verificar a segurança do dispositivo</string>
     <string name="voice_assist_desp">Diga \"Mi AI\" no seu telefone. O Mi AI reconhecerá a sua voz e poderá controlar o seu dispositivo.</string>
     <string name="voice_assist_title">Ligar tela com voz</string>
     <string name="wc_dialog_agree">Aceitar</string>
