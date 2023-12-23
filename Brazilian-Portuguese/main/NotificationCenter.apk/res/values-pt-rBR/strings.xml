@@ -76,6 +76,9 @@
     <string name="feedback_tip_title">Feedback sobre categoria de notificação</string>
     <string name="float_notification_snooze_strategy">Ocultar temporariamente</string>
     <string name="float_notification_snooze_summary">Deslize para cima em uma notificação flutuante para ocultar temporariamente as seguintes</string>
+    <string name="float_notification_snooze_summary_1_min">Deslize para cima em uma notificação flutuante para ocultar as seguintes por %d minuto</string>
+    <string name="float_notification_snooze_summary_always_float">Sempre exbixir notificações flutuantes</string>
+    <string name="float_notification_snooze_summary_until_unlock">Deslize para cima em uma notificação flutuante para ocultar as seguintes até que o dispositivo seja bloqueado</string>
     <string name="float_notifications">Notificações flutuantes</string>
     <string name="float_notifications_short">Flutuante</string>
     <string name="fmt_date_day">dd</string>
