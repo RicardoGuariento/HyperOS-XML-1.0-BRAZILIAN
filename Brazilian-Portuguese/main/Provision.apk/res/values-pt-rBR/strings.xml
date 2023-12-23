@@ -607,10 +607,10 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
 Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade antes de usar o HyperOS.
 %s e componentes da Conta Mi vão se conectar à internet e obterão a sua localização."</string>
     <string name="terms_of_use_label_MSA">"MSA"</string>
-    <string name="terms_of_use_label_Mistore">Plugin de sistema Mi Store</string>
+    <string name="terms_of_use_label_Mistore">Loja Mi</string>
     <string name="terms_of_use_label_RMS">Gerenciador de permissões</string>
     <string name="terms_of_use_label_ai_assistant">Assistente AI</string>
-    <string name="terms_of_use_label_app_vault">Assistente</string>
+    <string name="terms_of_use_label_app_vault">"Mi Link"</string>
     <string name="terms_of_use_label_back">Serviço de backup</string>
     <string name="terms_of_use_label_ble">Provedor de localização fundido</string>
     <string name="terms_of_use_label_cloud">"MiCloud"</string>
@@ -621,9 +621,9 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_home">Tela inicial</string>
     <string name="terms_of_use_label_htmlViewer">Visualizador de HTML</string>
     <string name="terms_of_use_label_htmlviewer">Visualizador de HTML</string>
-    <string name="terms_of_use_label_info_assistant">"Mi Link"</string>
+    <string name="terms_of_use_label_info_assistant">Assistente</string>
     <string name="terms_of_use_label_joyose">"Joyose"</string>
-    <string name="terms_of_use_label_landscape">funcionalidade de otimização de visualização de paisagem</string>
+    <string name="terms_of_use_label_landscape">Visualização em paisagem</string>
     <string name="terms_of_use_label_mab">"MAB"</string>
     <string name="terms_of_use_label_mi_account">Componentes da Conta Mi</string>
     <string name="terms_of_use_label_miuiDaemon">"HyperOS Daemon"</string>
@@ -636,8 +636,8 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_power_performance">Bateria e desempenho</string>
     <string name="terms_of_use_label_quickapp">Apps rápidos</string>
     <string name="terms_of_use_label_secure">Elemento de segurança do app</string>
-    <string name="terms_of_use_label_simcard">Serviços de ativação Mi SIM</string>
-    <string name="terms_of_use_label_smart_service">serviços inteligentes</string>
+    <string name="terms_of_use_label_simcard">Serviço de ativação do SIM</string>
+    <string name="terms_of_use_label_smart_service">Serviços inteligentes</string>
     <string name="terms_of_use_label_statistics">Estatisticas</string>
     <string name="terms_of_use_label_systemhelper">Serviço auto-registrado</string>
     <string name="terms_of_use_label_translation">Serviço de tradução</string>
