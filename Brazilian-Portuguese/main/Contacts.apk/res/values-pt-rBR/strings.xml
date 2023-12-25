@@ -54,7 +54,7 @@
     <string name="afternoon">"PM"</string>
     <string name="aggregation_suggestion_edit_dialog_message">Passar para a edição do contato com o mesmo nome? As informações inseridas até agora serão copiadas.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Nomes iguais</string>
-    <string name="aggregation_suggestion_join_dialog_message">Unir o contato atual ao contato selecionado?</string>
+    <string name="aggregation_suggestion_join_dialog_message">Mesclar o contato atual ao contato selecionado?</string>
     <string name="ai_calllog_call_record_menu">Gravação de chamadas por IA</string>
     <string name="all_list_empty">Nenhum contato</string>
     <string name="am">"AM"</string>
@@ -259,7 +259,7 @@
     <string name="bind_simcard_not_set">Não definido</string>
     <string name="bind_simcard_title">SIM padrão para chamadas</string>
     <string name="bluetooth_connection_failed_toast">Conexão Bluetooth interrompida</string>
-    <string name="blurbJoinContactDataWith">Escolha o contato que deseja unir com %s:</string>
+    <string name="blurbJoinContactDataWith">Escolha o contato que deseja mesclar com %s:</string>
     <string name="btn_split_contact">Separar</string>
     <string name="button_cancel_scan">Parar</string>
     <string name="button_scan">Pesquisar novamente</string>
@@ -497,7 +497,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
     <string name="delete_call_log_title">Excluir histórico de chamadas</string>
     <string name="delete_conference_call_log_message">Excluir todos os registros de conferência telefônica associados a este contato agora?</string>
     <string name="delete_conference_call_log_title">Excluir registros de conferência telefônica</string>
-    <string name="delete_duplicate">Unir</string>
+    <string name="delete_duplicate">Mesclar</string>
     <string name="delete_duplicate_message">"Unindo contatos… "</string>
     <string name="delete_group_dialog_message">Excluir o grupo \"%1$s\"? Os contatos não serão excluídos.</string>
     <string name="delete_group_dialog_title">Excluir grupo</string>
@@ -717,7 +717,7 @@ Motivo: \"%s\""</string>
     <string name="hide_app_description_content">Contatos é um app do sistema. Você ainda poderá usá-lo através do app Telefone ao remover o seu atalho da Tela inicial.</string>
     <string name="hide_app_description_title">Remover \"Contatos\" da Tela inicial?</string>
     <string name="hint_findContacts">Localizar contatos</string>
-    <string name="hint_more_contact">Unir contatos duplicados</string>
+    <string name="hint_more_contact">Mesclar contatos duplicados</string>
     <string name="hybrid_check_network">Configurações de rede</string>
     <string name="hybrid_data_error">Ocorreu um erro</string>
     <string name="hybrid_locating_fail">Não foi possível obter sua localização</string>
@@ -1179,7 +1179,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="picker_contact_title">Escolha um contato</string>
     <string name="picker_email_title">Escolha um endereço de e-mail</string>
     <string name="picker_groups_list_empty">Nenhum grupo</string>
-    <string name="picker_join_title">Unir com %s</string>
+    <string name="picker_join_title">Mesclar com %s</string>
     <string name="picker_number_title">Escolha um número</string>
     <string name="picker_postal_title">Escolha um CEP</string>
     <string name="picker_recent_list_empty">Nenhum contato recente</string>
@@ -1224,7 +1224,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="preference_privacy_policy_title">Política de Privacidade</string>
     <string name="preference_privacy_settings">Privacidade</string>
     <string name="preference_privacy_settings_title">Privacidade</string>
-    <string name="preference_remove_duplicate">Unir contatos duplicados</string>
+    <string name="preference_remove_duplicate">Mesclar contatos duplicados</string>
     <string name="preference_show_firewall_calllog">Mostrar chamadas bloqueadas no histórico</string>
     <string name="preference_show_yellowpage_tab_description">As Páginas amarelas e seus serviços não serão exibidos se você desativar esse recurso.</string>
     <string name="preference_show_yellowpage_tab_title">Mostrar Páginas amarelas</string>
@@ -1299,8 +1299,8 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="quick_dial_setting_set_dialog_option_set">Sim</string>
     <string name="quick_dial_setting_title">Discagem rápida</string>
     <string name="quickcontact_missing_app">Nenhum app foi encontrado para executar essa ação</string>
-    <string name="quit_dialog_confirm_message">Você não uniu nenhum contato</string>
-    <string name="quit_dialog_confirm_title">Cancelar união de contatos</string>
+    <string name="quit_dialog_confirm_message">Você não mesclou nenhum contato</string>
+    <string name="quit_dialog_confirm_title">Cancelar mesclagem de contatos</string>
     <string name="readingSimContacts">Lendo o cartão SIM…</string>
     <string name="reading_vcard_failed_title">Não foi possível ler os dados do vCard</string>
     <string name="rebuild_t9_index_dialog_message">Recriando…</string>
@@ -1314,9 +1314,9 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="remove_blacklist">Desbloquear</string>
     <string name="remove_blacklist_dialog_message">Mostrar chamadas e mensagens deste número?</string>
     <string name="remove_blacklist_dialog_title">Desbloquear este número de telefone?</string>
-    <string name="remove_duplicate">"Este recurso ajuda você a encontrar e unir contatos duplicados.
+    <string name="remove_duplicate">"Este recurso ajuda você a encontrar e mesclar contatos duplicados.
 
-Para começar, toque em \"Unir\" na parte inferior da tela"</string>
+Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="residual_time_description">%1$s dia e %2$s hora(s)</string>
     <string name="residual_time_description2">"%1$d h"</string>
     <string name="residual_time_description3">"%1$d min"</string>
@@ -1522,7 +1522,7 @@ Para começar, toque em \"Unir\" na parte inferior da tela"</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="titleJoinContactDataWith">Unir contatos</string>
+    <string name="titleJoinContactDataWith">Mesclar contatos</string>
     <string name="toast_call_no_SoundRecorder">O Gravador não está disponível</string>
     <string name="toast_call_no_notes">O app Notas não está disponível</string>
     <string name="toast_copy_done">Concluído</string>

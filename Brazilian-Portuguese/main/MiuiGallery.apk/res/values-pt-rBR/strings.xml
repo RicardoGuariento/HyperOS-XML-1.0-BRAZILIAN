@@ -747,8 +747,8 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="confirm_hidden_recommend_group_message">Quando as recomendações estiverem desativadas, você poderá usar a opção \"Mais pessoas parecidas\"</string>
     <string name="confirm_hidden_recommend_group_title">Não mostrar recomendações</string>
     <string name="confirm_hide_selected_albums">Ocultar os álbuns selecionados?</string>
-    <string name="confirm_merge_face_albums">" "<Data> Unir este álbum com %s? </Data>" "</string>
-    <string name="confirm_merge_many_face_albums">" "<Data> Unir estes álbuns com %s? </Data>" "</string>
+    <string name="confirm_merge_face_albums">" "<Data> Mesclar este álbum com %s? </Data>" "</string>
+    <string name="confirm_merge_many_face_albums">" "<Data> Mesclar estes álbuns com %s? </Data>" "</string>
     <string name="confirm_not_face">Não corresponde</string>
     <string name="confirm_recommandation_face_is">" "<Data> Você tem certeza que esta pessoa é &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Ela será movida para o álbum \"%2$s\". </Data>" "</string>
     <string name="confirm_recommandation_face_not">" "<Data> Você tem certeza que esta pessoa não é &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
@@ -1674,8 +1674,8 @@ para personalizar a Galeria"</string>
     <string name="menu_new_display_open">Abrir em uma nova janela</string>
     <string name="menu_pc_open">Abra com um programa de computador</string>
     <string name="menu_view_contact">Ver contato</string>
-    <string name="merge_album">Unir</string>
-    <string name="merge_album_title">Unir a uma pessoa</string>
+    <string name="merge_album">Mesclar</string>
+    <string name="merge_album_title">Mesclar a uma pessoa</string>
     <string name="messagelist_sender_self">Eu</string>
     <string name="mi_10i">"Mi 10I"</string>
     <string name="mi_10t">"Mi 10T"</string>
@@ -2452,9 +2452,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="recommanded_face_added_tip">Adicionado ao álbum \"%s\"</string>
     <string name="recommend_category_title">Escolhas da Galeria</string>
     <string name="recommend_page_label">Recomendado</string>
-    <string name="recovery_merge">Unir</string>
-    <string name="recovery_merge_or_rename">Unir álbuns</string>
-    <string name="recovery_merge_or_rename_message">Já existe um álbum com este nome. Unir agora?</string>
+    <string name="recovery_merge">Mesclar</string>
+    <string name="recovery_merge_or_rename">Mesclar álbuns</string>
+    <string name="recovery_merge_or_rename_message">Já existe um álbum com este nome. Mesclar agora?</string>
     <string name="recovery_not_synced_reason">Os itens não foram restaurados</string>
     <string name="recovery_not_synced_solution">Conecte-se à rede para restaurar itens.</string>
     <string name="recovery_rename">Renomear</string>
@@ -2517,8 +2517,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="remove_hidden_status_title">Reexibir</string>
     <string name="remove_single_album_from_rubbish_page_tip">Restaurar os álbuns selecionados?</string>
     <string name="remove_single_manual_hide_album_from_rubbish_page_tip">Restaurar álbuns selecionados e excluir os arquivos \".nomedia\"?</string>
-    <string name="remove_to_album_title">Unir com</string>
-    <string name="remove_to_other_album">Unir com uma pessoa diferente</string>
+    <string name="remove_to_album_title">Mesclar com</string>
+    <string name="remove_to_other_album">Mesclar com uma pessoa diferente</string>
     <string name="removed_from_favorites_desc">Removido dos favoritos</string>
     <string name="remover_edit_type_free">Objetos</string>
     <string name="remover_edit_type_line">Linhas</string>
@@ -2702,6 +2702,18 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="security_share_subtitle_no_hide">Contém informações de localização</string>
     <string name="see_ignore_faces">Ver pessoas que você ignorou</string>
     <string name="see_more_settings">Configurações adicionais</string>
+    <string name="segment_change_background">Alterar o fundo</string>
+    <string name="segment_copy">Copiar</string>
+    <string name="segment_copy_fail">"Não foi possível copiar"</string>
+    <string name="segment_copy_processing">Copiando…</string>
+    <string name="segment_copy_success">Copiado com sucesso</string>
+    <string name="segment_no_result">"Não foi possível detectar o objeto desta foto"</string>
+    <string name="segment_save">Salvar</string>
+    <string name="segment_save_fail">"Não foi possível salvar"</string>
+    <string name="segment_save_processing">Salvando…</string>
+    <string name="segment_save_success">Salvo na Galeria</string>
+    <string name="segment_send">Enviar</string>
+    <string name="segment_send_processing">Preparando para enviar…</string>
     <string name="select_all">Selecionar todos</string>
     <string name="select_backup">Selecionar backup</string>
     <string name="select_image_operation">Adicionando fotos</string>

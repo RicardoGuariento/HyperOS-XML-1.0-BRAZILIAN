@@ -488,10 +488,10 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_local_click_to_jump">Toque para ver instruções detalhadas</string>
     <string name="new_local_detail_description">"Observação:
 %1$d. Copie os backups para o seu computador para evitar a perda de dados. %2$s.
-%3$d. Os backups serão salvos em MIUI-Backup-AllBackup."</string>
+%3$d. Os backups serão salvos no Armazenamento/MIUI/backup/AllBackup."</string>
     <string name="new_local_detail_description_global">"Observação:
 %1$d. Copie os backups para o seu computador para evitar a perda de dados. %2$s.
-%3$d. Os backups serão salvos em MIUI-Backup-AllBackup.
+%3$d. Os backups serão salvos em Armazenamento/MIUI/backup/AllBackup.
 %4$d. Alguns apps podem não ser compatíveis com backups."</string>
     <string name="new_local_tab_backup">Fazer backup</string>
     <string name="new_local_tab_backup_pad">Fazer backup</string>
@@ -501,7 +501,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_more_settings_label">Configurações adicionais</string>
     <string name="new_pc_backup_content1">%1$d. Abra \"%2$s\".</string>
     <string name="new_pc_backup_content2">%d. Aguarde até que o backup de todos os itens seja concluído.</string>
-    <string name="new_pc_backup_content3">%d. Localize o seu backup em MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_backup_content3">%d. Localize o seu backup em Armazenamento/MIUI/backup/AllBackup.</string>
     <string name="new_pc_backup_content4">%d. Copie o arquivo para o seu computador.</string>
     <string name="new_pc_backup_restore_link">Dispositivo móvel</string>
     <string name="new_pc_backup_restore_link_pad">Dispositivo móvel</string>
@@ -511,8 +511,8 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_pc_backup_summary4">Observação: você também pode copiar fotos e vídeos em DCIM.</string>
     <string name="new_pc_restore_content1">%d. Conecte o seu smartphone ao computador usando um cabo USB.</string>
     <string name="new_pc_restore_content1_pad">%d. Conecte o seu smartphone ao computador usando um cabo USB.</string>
-    <string name="new_pc_restore_content2">%d. Copie o backup do seu computador para a pasta MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_restore_content2_pad">%d. Copie o backup do seu computador para a pasta MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2">%d. Copie o backup do seu computador para a pasta \"AllBackup\" em: Armazenamento/MIUI/backup/AllBackup.</string>
+    <string name="new_pc_restore_content2_pad">%d. Copie o backup do seu computador para a pasta \"AllBackup\" em: Armazenamento/MIUI/backup/AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Abra \"%2$s\" e selecione os itens para restaurar.</string>
     <string name="new_pc_title">Copiar backups</string>
     <string name="new_select_file">Áudio, vídeos e arquivos</string>

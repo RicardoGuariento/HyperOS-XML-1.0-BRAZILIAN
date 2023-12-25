@@ -160,6 +160,9 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="empty_app">Nenhum app</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
+    <string name="error_a11y_label">Erro: inválido</string>
+    <string name="error_detail_info">"Detalhes:
+%1$s"</string>
     <string name="error_icon_content_description">Erro</string>
     <string name="evening">"PM"</string>
     <string name="exit_install_button">Não instalar</string>
@@ -287,6 +290,8 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="install_unknow_source">Instale apps desconhecidos</string>
     <string name="install_version">Versão: %1$s</string>
     <string name="install_version_replace">Versão: %1$s -> %2$s</string>
+    <string name="isntall_failed_verification">"Não foi possível verificar este pacote de instalação. Este app pode não ser compatível com a versão atual do Android."</string>
+    <string name="isntall_failed_verification_resolve_uggestion">Tente encontrar uma outra versão para este app em uma fonte confiável</string>
     <string name="install_vip_account_mode_explain_des">Esta é uma versão beta do app. Inscreva-se para obter permissões de teste Beta antes de instalá-lo.</string>
     <string name="install_vip_account_mode_solution_des">Inscrever-se no Beta</string>
     <string name="installing">Instalando…</string>
