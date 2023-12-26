@@ -1266,7 +1266,7 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="battery_saver_schedule_settings_title">Definir uma programação</string>
     <string name="battery_saver_seekbar_title">Em %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Ativar</string>
-    <string name="battery_saver_sticky_description_new">A Economia de bateria é desativada quando a carga do smartphone chega a ^1%</string>
+    <string name="battery_saver_sticky_description_new">A economia de bateria é desativada quando a bateria atinge %1$s</string>
     <string name="battery_saver_sticky_title_new">Desativar quando estiver carregado</string>
     <string name="battery_saver_turn_on_automatically_never">Nunca</string>
     <string name="battery_saver_turn_on_automatically_pct">com %1$s de bateria</string>
@@ -1757,7 +1757,7 @@ Para parear o esquerdo, verifique se ele está ligado e pronto para pareamento."
     <string name="bluetooth_pairing_error_message">Não foi possível parear com %1$s.</string>
     <string name="bluetooth_pairing_key_msg">Código de pareamento Bluetooth</string>
     <string name="bluetooth_pairing_page_title">Parear novo dispositivo</string>
-    <string name="bluetooth_pairing_pin_error_message">Não foi possível parear com %1$s porque o PIN está incorreto.</string>
+    <string name="bluetooth_pairing_pin_error_message">"PIN ou senha incorretos. Não foi possível parear."</string>
     <string name="bluetooth_pairing_pref_title">Parear novo dispositivo</string>
     <string name="bluetooth_pairing_rejected_error_message">Pareamento rejeitado por %1$s.</string>
     <string name="bluetooth_pairing_request">Parear com %1$s?</string>
@@ -11907,7 +11907,7 @@ Atualizar configurações para:
 		</small>
 	</string>
 	<string name="battery_info_status_charging_dock">Carregando</string>
-	<string name="battery_manager_app_restricted">{count, plural, =1 {# aplicativo restrito} other {# aplicativos restritos} }</string>
+	<string name="battery_manager_app_restricted">{count, plural, =1 {# app restrito} other {# apps restritos} }</string>
 	<string name="battery_meter_very_low_overlay_symbol">!</string>
 	<string name="battery_saver_sticky_title_percentage">Desligar em %1$s</string>
 	<string name="battery_state_and_duration">%1$s • %2$s</string>
