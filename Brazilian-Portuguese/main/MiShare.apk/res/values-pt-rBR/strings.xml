@@ -86,8 +86,8 @@
     <string name="enable_midrop">Ativar</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
-    <string name="error_ap_in_use">Não é possível enviar arquivos para outros dispositivos quando o ponto de acesso está ativado</string>
-    <string name="error_ap_or_screen_already_hosting">Não é possível enviar itens a outros dispositivos enquanto transmite a tela ou usa o o ponto de acesso portátil.</string>
+    <string name="error_ap_in_use">Não é possível enviar arquivos para outros dispositivos quando o hotspot está ativado</string>
+    <string name="error_ap_or_screen_already_hosting">Não é possível enviar itens a outros dispositivos enquanto transmite a tela ou usa o hotspot portátil.</string>
     <string name="error_ble_connect_failure">O dispositivo receptor não pôde se conectar ao Bluetooth. Certifique-se de que sua tela esteja ligada.</string>
     <string name="error_ble_connect_timeout">Não foi possível conectar ao Bluetooth. Reconecte-se ao Bluetooth em ambos os dispositivos e tente novamente.</string>
     <string name="error_device_lost">Parece que o outro dispositivo não está respondendo. Aguarde um momento e tente novamente.</string>
@@ -110,7 +110,7 @@
     <string name="error_receive_user_cancel">Transferência cancelada</string>
     <string name="error_receive_user_interrupted">A outra pessoa cancelou a transferência</string>
     <string name="error_refuse_receive">Transferência cancelada</string>
-    <string name="error_remote_ap_working">Peça à outra pessoa para desativar o ponto de acesso portátil</string>
+    <string name="error_remote_ap_working">Peça à outra pessoa para desativar o hotspot portátil</string>
     <string name="error_remote_busy">Parece que o outro dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="error_remote_mirror_working">O outro dispositivo não pode aceitar itens enquanto estiver compartilhando a tela</string>
     <string name="error_self_busy">O dispositivo está ocupado. Aguarde um momento e tente novamente.</string>

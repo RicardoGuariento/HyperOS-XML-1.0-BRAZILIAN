@@ -6,7 +6,7 @@
     <string name="CurrentDsi">\u0009\u0009Dsi atual</string>
     <string name="DsiSetSwitch">\u0009Modo de depuração DSI</string>
     <string name="GPIO_Status">\u0009\u0009Status GPIO</string>
-    <string name="HotspotStatus">\u0009\u0009Status do Ponto de acesso</string>
+    <string name="HotspotStatus">\u0009\u0009Status do Hotspot</string>
     <string name="SAR">"SAR"</string>
     <string name="SAROnOff">\u0009SAR Ativado/Desativado</string>
     <string name="SARUnLockLock">\u0009Bloqueio emitido manualmente por DSI</string>
@@ -854,7 +854,7 @@ Falha no teste!"</string>
     <string name="cit_wifi_address_check_title">Endereço Wi-Fi</string>
     <string name="cit_wifi_address_error">Erro ao obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está ativado</string>
     <string name="cit_wifi_ap_scan_check_summary">Abaixo encontra-se a informação dos Pontos de acesso detectados. Confirme se a informação destacada em verde está correta</string>
-    <string name="cit_wifi_ap_scan_check_title">Pesquisar Ponto de acesso Wi-Fi</string>
+    <string name="cit_wifi_ap_scan_check_title">Pesquisar Hotspot Wi-Fi</string>
     <string name="cit_wifi_ap_scan_retry">Pesquisando novamente…</string>
     <string name="cit_wifi_ap_scanning">Pesquisando…</string>
     <string name="cit_wifi_fail_to_scan">Não foi possível pesquisar redes</string>

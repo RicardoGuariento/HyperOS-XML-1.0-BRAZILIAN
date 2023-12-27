@@ -2633,7 +2633,7 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb">Ancoragem USB</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
-    <string name="tether_settings_title_wifi">Ponto de acesso</string>
+    <string name="tether_settings_title_wifi">"Hotspot"</string>
     <string name="tethering_hardware_offload">Aceleração de hardware de ancoragem</string>
     <string name="tethering_hardware_offload_summary">Usar aceleração de hardware de ancoragem quando disponível</string>
     <string name="tethering_settings_not_available">As configurações de ancoragem não estão disponíveis para este usuário</string>
@@ -2973,7 +2973,7 @@ Se você selecionar redes móveis como preferenciais, elas serão usadas por pad
     <string name="wifi_connected_low_quality">Baixa qualidade</string>
     <string name="wifi_connected_no_internet">Sem Internet</string>
     <string name="wifi_coverage_extend">Ative o recurso de extensão de cobertura de Wi-Fi</string>
-    <string name="wifi_coverage_extend_summary">Ative a extensão da cobertura de Wi-Fi usando Ponto de acesso</string>
+    <string name="wifi_coverage_extend_summary">Ative a extensão da cobertura de Wi-Fi usando um Hotspot</string>
     <string name="wifi_disabled_by_recommendation_provider">Não conectado devido à baixa qualidade da rede</string>
     <string name="wifi_disabled_generic">Desativado</string>
     <string name="wifi_disabled_network_failure">Falha de configuração de IP</string>

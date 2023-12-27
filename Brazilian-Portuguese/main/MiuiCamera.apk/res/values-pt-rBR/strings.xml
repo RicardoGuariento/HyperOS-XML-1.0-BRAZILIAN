@@ -1008,18 +1008,18 @@ A gravação em dois telefones também permite que você se conecte a outro disp
     <string name="friend_mode_intro_1_content">Mantenha dois dispositivos a %s metros um do outro e abra Assistente da câmera em ambos.</string>
     <string name="friend_mode_intro_1_title">%d. Abrir Assistente da câmera</string>
     <string name="friend_mode_intro_2_content">"Para tornar os dispositivos visíveis um ao outro, conecte ambos à mesma rede Wi-Fi ou conecte um dispositivo ao outro através do hotspot portátil.
-Conectar os dispositivos através do ponto de acesso pode ser mais confiável, pois as redes Wi-Fi externas podem não permitir que os dispositivos sejam descobertos."</string>
+Conectar os dispositivos através do hotspot pode ser mais confiável, pois as redes Wi-Fi externas podem não permitir que os dispositivos sejam descobertos."</string>
     <string name="friend_mode_intro_2_content_china">"Para tornar os dispositivos visíveis um ao outro, conecte ambos à mesma rede Wi-Fi ou conecte um dispositivo ao outro através do hotspot portátil.
-Conectar os dispositivos através do ponto de acesso pode ser mais confiável, pois as redes Wi-Fi externas podem não permitir que os dispositivos sejam descobertos."</string>
+Conectar os dispositivos através do hotspot pode ser mais confiável, pois as redes Wi-Fi externas podem não permitir que os dispositivos sejam descobertos."</string>
     <string name="friend_mode_intro_2_title">%d. Conecte dispositivos juntos</string>
     <string name="friend_mode_intro_3_content">"Selecione o dispositivo ao qual deseja se conectar, envie um convite e aceite-o no outro dispositivo.
 Use o Assistente da câmera em um ambiente de rede estável; caso contrário, você poderá sofrer atrasos.
-Se você estiver usando um ponto de acesso para se conectar, defina sua banda AP para %s GHz em Configurações > Conectividade > Ponto de acesso portátil > Configurar ponto de acesso portátil."</string>
+Se você estiver usando um ponto de acesso para se conectar, defina sua banda AP para %s GHz em Configurações > Conectividade > Hotspot portátil > Configurar hotspot portátil."</string>
     <string name="friend_mode_intro_3_title">%d. Iniciar a sessão</string>
     <string name="friend_mode_introduction_content">Assistente da câmera permite compartilhar visualizações ao vivo entre dois dispositivos e tirar fotos com um dispositivo do outro.</string>
     <string name="friend_mode_introduction_title">Sobre Assistente da câmera</string>
-    <string name="friend_mode_network_connection_prerequisites">Para poder usar o Assistente da câmera, conecte-se primeiro a uma rede Wi-Fi ou ponto de acesso.</string>
-    <string name="friend_mode_network_connection_prerequisites_china">Para poder usar o Assistente da câmera, conecte-se primeiro a uma rede Wi-Fi ou ponto de acesso.</string>
+    <string name="friend_mode_network_connection_prerequisites">Para poder usar o Assistente da câmera, conecte-se primeiro a uma rede Wi-Fi ou hotspot.</string>
+    <string name="friend_mode_network_connection_prerequisites_china">Para poder usar o Assistente da câmera, conecte-se primeiro a uma rede Wi-Fi ou hotspot.</string>
     <string name="friend_mode_not_found_device">"Não foi possível encontrar dispositivos"</string>
     <string name="friend_mode_re_searching">Procure novamente</string>
     <string name="friend_mode_searching">Procurando dispositivos…</string>

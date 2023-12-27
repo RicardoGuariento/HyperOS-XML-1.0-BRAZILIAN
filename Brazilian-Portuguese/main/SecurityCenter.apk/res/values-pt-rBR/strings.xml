@@ -260,7 +260,7 @@
     <string name="antivirus_update_btn_update">Atualizar</string>
     <string name="antivirus_website_check_status">Ativado</string>
     <string name="antivirus_website_check_title">Navegação segura na web</string>
-    <string name="apn_exception_modify_summary">Ponto de acesso padrão da operadora não está em uso ou foi modificado</string>
+    <string name="apn_exception_modify_summary">Ponto de acesso padrão da operadora não é usado ou foi modificado</string>
     <string name="apn_exception_summary">Testar configurações de APN da operadora</string>
     <string name="apn_exception_title">Verificar config. de APN</string>
     <string name="apn_exception_wap_summary">O WAP está instável agora. Mude para NET.</string>
@@ -802,7 +802,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_task_default_add_to_task_list">Adicionar à \"Minhas tarefas\"</string>
     <string name="auto_task_default_do_action">Então</string>
     <string name="auto_task_default_if_exclude">Condição</string>
-    <string name="auto_task_default_task_summary_driver_car">Ative o ponto de acesso Wi-Fi quando conectado ao sistema do carro via Bluetooth</string>
+    <string name="auto_task_default_task_summary_driver_car">Ative o hotspot portátil quando conectado ao sistema do carro via Bluetooth</string>
     <string name="auto_task_default_task_summary_get_up">Desative o Modo Não pertube e ative o Bluetooth, Wi-Fi e dados móveis novamente</string>
     <string name="auto_task_default_task_summary_listen_music">Ouça suas músicas e selecione o tipo de fone de ouvido</string>
     <string name="auto_task_default_task_summary_meet">Programe o horário da reunião e ative o Modo Não pertube</string>
@@ -1543,7 +1543,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="dlg_sec_network_unavailable">O app Segurança não pode ser atualizado porque você restringiu o seu acesso à Internet. Permitir que o app conecte-se à Internet?</string>
     <string name="dlg_summary_close_app">Os apps não serão executados em segundo plano. As notificações serão restringidas.</string>
     <string name="dlg_summary_close_theme">Temas dinâmicos não funcionarão.</string>
-    <string name="dlg_summary_close_wifi">O Wi-Fi, Bluetooth e o ponto de acesso portátil serão desativados.</string>
+    <string name="dlg_summary_close_wifi">O Wi-Fi, Bluetooth e o hotspot portátil serão desativados.</string>
     <string name="dlg_summary_nfc">O NFC será desativado.</string>
     <string name="dlg_summary_title">A atividade em segundo plano será restrita quando você sair de um app ou voltar para a Tela inicial. Adicione apps às exceções da Economia de bateria para permitir que eles executem em segundo plano.</string>
     <string name="dlg_title_not_open_stranger_identify">ID de chamadas</string>
@@ -1964,7 +1964,7 @@ monitoramento de terremotos"</string>
     <string name="first_aid_card_consume_power_button1">Restringir</string>
     <string name="first_aid_card_consume_power_button2">Desativar</string>
     <string name="first_aid_card_consume_power_summary1">Mais de 5 apps estão iniciando automaticamente. Restrinja-os para economizar bateria.</string>
-    <string name="first_aid_card_consume_power_summary2">Desative o ponto de acesso portátil para economizar bateria</string>
+    <string name="first_aid_card_consume_power_summary2">Desative o hotspot portátil para economizar bateria</string>
     <string name="first_aid_card_consume_power_summary_app">Mais de %d apps têm permissão para auto iniciar. Restrinja para economizar bateria.</string>
     <string name="first_aid_card_consume_power_title">Uso da bateria</string>
     <string name="first_aid_card_kadun_button1">Liberar espaço</string>
@@ -3789,7 +3789,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_with_call_and_contact">Permissões relacionadas a chamadas telefônicas, informações de contatos e registros de chamadas.</string>
     <string name="permission_with_read_write_clipboard">Permite que apps acessem e salvem itens na área de transferência</string>
     <string name="permit_running_network">Dados móveis em 2º plano</string>
-    <string name="person_hotpot">Ponto de acesso móveis</string>
+    <string name="person_hotpot">Hotspot portátil</string>
     <string name="phone">Telefone</string>
     <string name="phone_manage">Utilitários</string>
     <string name="phone_manage_app_manager_summary">Gerencie os apps do seu dispositivo</string>
@@ -4000,7 +4000,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_optimize_close_gps">Desativar serviços de localização</string>
     <string name="power_optimize_close_haptic_feedback">Desativar retorno tátil</string>
     <string name="power_optimize_close_wake_notification">Não ligar a tela para notificações</string>
-    <string name="power_optimize_close_wlan">Desativar ponto de acesso portátil</string>
+    <string name="power_optimize_close_wlan">Desativar hotspot portátil</string>
     <string name="power_optimize_close_wlan_summary">Economiza bateria quando não tem dispositivos conectados</string>
     <string name="power_optimize_darkmode">Alterar para o Modo escuro</string>
     <string name="power_optimize_darkmode_dialog_confirm">Ativar</string>
@@ -5497,7 +5497,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_close_dial_tone">Desativar os tons do teclado</string>
     <string name="task_summary_close_drive_mode">Desativar o Modo carro</string>
     <string name="task_summary_close_eye_care_mode">Desativar o Modo leitura</string>
-    <string name="task_summary_close_hotspot">Desativar o ponto de acesso portátil</string>
+    <string name="task_summary_close_hotspot">Desativar o hotspot portátil</string>
     <string name="task_summary_close_location">Desativar os serviços de localização</string>
     <string name="task_summary_close_mute">Desativar Modo silencioso</string>
     <string name="task_summary_close_network">Desativar os dados móveis</string>
@@ -5517,7 +5517,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_open_disturb_mode">Ativar o Modo Não perturbe</string>
     <string name="task_summary_open_drive_mode">Ativar o Modo carro</string>
     <string name="task_summary_open_eye_care_mode">Ativar o Modo leitura</string>
-    <string name="task_summary_open_hotspot">Ativar o ponto de acesso portátil</string>
+    <string name="task_summary_open_hotspot">Ativar o hotspot portátil</string>
     <string name="task_summary_open_location">Ativar os serviços de localização</string>
     <string name="task_summary_open_mute">Ativar Modo silencioso</string>
     <string name="task_summary_open_mute_mode">Ativar o Modo silencioso</string>
@@ -5593,11 +5593,11 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_value_custom">Personalizado</string>
-    <string name="tether_over_limit_dialog_cancle_btn">Redefinir ponto de acesso</string>
-    <string name="tether_over_limit_dialog_message">Você atingiu o limite de dados do ponto de acesso móvel.</string>
+    <string name="tether_over_limit_dialog_cancle_btn">Redefinir hotspot</string>
+    <string name="tether_over_limit_dialog_message">Você atingiu o limite de dados do hotspot portátil.</string>
     <string name="tether_over_limit_dialog_title">Aviso sobre o uso de dados</string>
-    <string name="tether_over_limit_warning_notify_message">Desativar ponto de acesso portátil.</string>
-    <string name="tether_over_limit_warning_notify_title">Limite de dados do ponto de acesso atingido</string>
+    <string name="tether_over_limit_warning_notify_message">Desativar hotspot portátil.</string>
+    <string name="tether_over_limit_warning_notify_title">Limite de dados do hotspot atingido</string>
     <string name="text_button">Entendi</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_done">"OK"</string>
@@ -5689,7 +5689,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_condition_connect_wlan">Conectar-se ao Wi-Fi</string>
     <string name="title_condition_disconnect_wlan">Desativar o Wi-Fi</string>
     <string name="title_condition_headset">Fones de ouvido com fio</string>
-    <string name="title_condition_hotspot">Ponto de acesso portátil</string>
+    <string name="title_condition_hotspot">Hotspot portátil</string>
     <string name="title_condition_incall">Ligar</string>
     <string name="title_condition_leave">Sair do local</string>
     <string name="title_condition_leave_activity">Sair do app</string>
@@ -5756,7 +5756,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_result_examination">Varificação de segurança</string>
     <string name="title_result_eye_care">Modo leitura</string>
     <string name="title_result_flashlight">Lanterna</string>
-    <string name="title_result_hotspot">Ponto de acesso portátil</string>
+    <string name="title_result_hotspot">Hotspot portátil</string>
     <string name="title_result_location">Localização</string>
     <string name="title_result_lock_screen">Bloquear tela</string>
     <string name="title_result_music">Tocar música</string>

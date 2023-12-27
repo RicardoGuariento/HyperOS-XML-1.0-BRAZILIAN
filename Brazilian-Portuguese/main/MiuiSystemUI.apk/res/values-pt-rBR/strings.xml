@@ -260,8 +260,8 @@
     <string name="accessibility_quick_settings_flashlight_off">Lanterna desligada.</string>
     <string name="accessibility_quick_settings_flashlight_on">Lanterna ligada.</string>
     <string name="accessibility_quick_settings_flashlight_unavailable">Lanterna indisponível.</string>
-    <string name="accessibility_quick_settings_hotspot_changed_off">O ponto de acesso móvel foi desativado.</string>
-    <string name="accessibility_quick_settings_hotspot_changed_on">O ponto de acesso móvel foi ativado.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Hotspot portátil foi desativado.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Hotspot portátil foi ativado.</string>
     <string name="accessibility_quick_settings_less_time">Menos tempo.</string>
     <string name="accessibility_quick_settings_location_changed_off">O registro de localização foi desativado.</string>
     <string name="accessibility_quick_settings_location_changed_on">O registro de localização foi ativado.</string>
@@ -322,7 +322,7 @@
     <string name="accessibility_splite_screen_secondary">Adicionado como app secundário na Tela dividida</string>
     <string name="accessibility_status_bar_headphones">Fones de ouvido conectados</string>
     <string name="accessibility_status_bar_headset">Headset conectado</string>
-    <string name="accessibility_status_bar_hotspot">Ponto de acesso</string>
+    <string name="accessibility_status_bar_hotspot">"Hotspot"</string>
     <string name="accessibility_status_bar_micphone">Microfone conectado com sucesso</string>
     <string name="accessibility_status_bar_no_slave_wifi">Wi-Fi auxiliar desconectado</string>
     <string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi auxiliar quatro barras</string>
@@ -2350,12 +2350,12 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_googlehome_label">"Google Home"</string>
     <string name="quick_settings_googlepay_label">"Google Pay"</string>
     <string name="quick_settings_header_onboarding_text">Toque e segure os ícones para mais opções</string>
-    <string name="quick_settings_hotspot_label">Ponto de acesso</string>
+    <string name="quick_settings_hotspot_label">"Hotspot"</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Economia de dados ativada</string>
     <string name="quick_settings_hotspot_secondary_label_num_devices">{count, plural, =1 {# dispositivo} other {# dispositivos} }</string>
     <string name="quick_settings_hotspot_secondary_label_transient">Ativando…</string>
-    <string name="quick_settings_hotspot_state_change_message_off">Ponto de acesso desativado</string>
-    <string name="quick_settings_hotspot_state_change_message_on">Ponto de acesso ativado</string>
+    <string name="quick_settings_hotspot_state_change_message_off">Hotspot desativado</string>
+    <string name="quick_settings_hotspot_state_change_message_on">Hotspot ativado</string>
     <string name="quick_settings_ime_label">Método de entrada</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Usa os dados móveis do SIM secundário para aumentar a velocidade de conexão</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_title">Dual SIM inteligente</string>
@@ -2841,11 +2841,11 @@ Deslize para baixo para bloquear"</string>
     <string name="tap_to_renew_subscription_and_connect">Toque para renovar a assinatura e conectar</string>
     <string name="tap_to_sign_up">Toque para registrar-se</string>
     <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>
-    <string name="tether_settings_title_all">Ancoragem e ponto de acesso portátil</string>
+    <string name="tether_settings_title_all">Ancoragem e hotspot portátil</string>
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb">Ancoragem USB</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
-    <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
+    <string name="tether_settings_title_wifi">Hotspot portátil</string>
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
     <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para ancoragem de Internet se disponível</string>
     <string name="tethering_settings_not_available">As configurações de ancoragem não estão disponíveis para este usuário</string>
@@ -3186,7 +3186,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_connected_mac_randomization">Randomização de MAC conectado</string>
     <string name="wifi_connected_no_internet">Sem Internet</string>
     <string name="wifi_coverage_extend">Ativar ampliação de cobertura de Wi-Fi</string>
-    <string name="wifi_coverage_extend_summary">Estender cobertura do Wi-Fi usando um ponto de acesso</string>
+    <string name="wifi_coverage_extend_summary">Estender cobertura do Wi-Fi usando um hotspot</string>
     <string name="wifi_debugging_allow">Permitir</string>
     <string name="wifi_debugging_always">Sempre permitir nesta rede</string>
     <string name="wifi_debugging_message">"Nome da rede (SSID)
@@ -3751,7 +3751,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
 		Para melhorar a experiência do dispositivo, os aplicativos e serviços ainda podem procurar redes Wi-Fi a qualquer momento, mesmo quando o Wi-Fi estiver desligado. Você pode alterar isso nas configurações de verificação de Wi-Fi.
 		<annotation id="link">Mudar</annotation>
 	</string>
-	<string name="wifi_unavailable_dream_overlay_content_description">WLAN não disponível</string>
+	<string name="wifi_unavailable_dream_overlay_content_description">Wi-Fi não disponível</string>
 	<string name="wifi_wont_autoconnect_for_now">O Wi-Fi não se conectará automaticamente por enquanto</string>
 	<string name="wifitrackerlib_admin_restricted_network">Não permitido pela sua organização</string>
 	<string name="wifitrackerlib_checking_for_internet_access">Verificando acesso à Internet...</string>

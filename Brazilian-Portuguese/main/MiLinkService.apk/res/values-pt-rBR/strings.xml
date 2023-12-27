@@ -340,8 +340,8 @@ seus dispositivos?"</string>
     <string name="close">Fechar</string>
     <string name="close_auxiliary_wifi_hint">Desative \"Aumentar velocidade do Wi-Fi\" para poder transmitir</string>
     <string name="close_auxiliary_wifi_hint_china">Desative \"Aumentar velocidade do Wi-Fi\" para poder transmitir</string>
-    <string name="close_hotspot_hint">Desative o ponto de acesso Wi-Fi antes de transmitir</string>
-    <string name="close_hotspot_hint_DFS">Para transferir itens para uma TV, primeiro desligue o ponto de acesso.</string>
+    <string name="close_hotspot_hint">Desative o hotspot portátil antes de transmitir</string>
+    <string name="close_hotspot_hint_DFS">Para transferir itens para uma TV, primeiro desative o hotspot.</string>
     <string name="close_invisible_mode_dialog_cancel">Cancelar</string>
     <string name="close_invisible_mode_dialog_message">"Não é possível usar o Mi Smart Play agora. Desative o Modo incógnito nas configurações para poder usar esse recurso."</string>
     <string name="close_invisible_mode_dialog_ok">Configurações</string>
@@ -598,7 +598,10 @@ Se os dois dispositivos não puderem ser conectados à mesma rede, ative o Mirac
     <string name="help_page_text_12_new_1">Selecione um dispositivo externo na lista de dispositivos disponíveis para iniciar a transmissão.</string>
     <string name="help_page_text_13">Não consegue se conectar a um dispositivo externo?</string>
     <string name="help_page_text_13_act_label_1">Perguntas frequentes</string>
-    <string name="help_page_text_13_desc_1">%1$d. Certifique-se de que seu dispositivo móvel e monitor externo estejam conectados à mesma rede Wi-Fi ou ponto de acesso. %2$d. Certifique-se de que o ambiente de rede esteja estável. Caso contrário, tente reiniciar o roteador ou mudar para uma banda de rede de %3$d GHz. %4$d. Ao transmitir para uma TV Xiaomi, ative o recurso de transmissão sem fio na TV. Permaneça na página de transmissão enquanto se conecta. %5$d. Algumas grandes LANs públicas, como as de empresas e escolas, não suportam a capacidade de descobrir dispositivos na mesma LAN.</string>
+    <string name="help_page_text_13_desc_1">"%1$d. Certifique-se de que seu dispositivo móvel e monitor externo estejam conectados à mesma rede Wi-Fi ou hotspot.
+%2$d. Certifique-se de que o ambiente de rede esteja estável. Caso contrário, tente reiniciar o roteador ou mudar para uma banda de rede de %3$d GHz.
+%4$d. Ao transmitir para uma TV Xiaomi, ative o recurso de transmissão sem fio na TV. Permaneça na página de transmissão enquanto se conecta.
+%5$d. Algumas grandes LANs públicas, como as de empresas e escolas, não suportam a capacidade de descobrir dispositivos na mesma LAN."</string>
     <string name="help_page_text_13_desc_2">Algumas TVs usam conexão não-LAN durante a transmissão. É normal que esses dispositivos sejam desconectados da rede. Eles geralmente se reconectarão dentro de %1$d-%2$d segundos após o término da transmissão.</string>
     <string name="help_page_text_13_summary_1">Não é possível conectar a um dispositivo externo</string>
     <string name="help_page_text_13_summary_2">Interrupções de rede durante a transmissão</string>
@@ -870,7 +873,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="notify">A transmissão está funcionando em 2º plano</string>
     <string name="notify_content">Executar em segundo plano</string>
     <string name="notify_str">Serviço de Hardware Distribuído</string>
-    <string name="notify_wifiap_dialog_msg">Para digitalizar o código e configurar a rede, desative o ponto de acesso portátil primeiro.</string>
+    <string name="notify_wifiap_dialog_msg">Para digitalizar o código e configurar a rede, desative o hotspot portátil primeiro.</string>
     <string name="notify_wifiap_dialog_negative">Entedi</string>
     <string name="notify_wifiap_dialog_title">Configurar rede</string>
     <string name="ok_button">Entendi</string>
@@ -1140,7 +1143,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="toast_nfc_dont_move">Não afaste o seu telefone</string>
     <string name="toast_nfc_same_wifi">Conecte sua TV e este dispositivo à mesma rede</string>
     <string name="toast_title_for_small_window">Selecione \"Minimizar janela\" no app</string>
-    <string name="toast_turn_off_hotspot_before_cast">Desative o ponto de acesso Wi-Fi antes de transmitir</string>
+    <string name="toast_turn_off_hotspot_before_cast">Desative o hotspot portátil antes de transmitir</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="trust_device_desc">Estes dispositivos aparecerão aqui primeiro quando estiverem próximos</string>

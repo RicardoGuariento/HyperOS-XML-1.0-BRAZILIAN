@@ -75,8 +75,8 @@
     <string name="ble_host_verification_title">Conectando com dispositivos antigos…</string>
     <string name="ble_manual_connect">Conectar manualmente</string>
     <string name="ble_refuse_button">Rejeitar</string>
-    <string name="ble_start_ap_successed">O ponto de acesso foi criado com sucesso. Aguardando para conectar…</string>
-    <string name="ble_starting_ap">Criando ponto de acesso…</string>
+    <string name="ble_start_ap_successed">O hotspot foi criado com sucesso. Aguardando para conectar…</string>
+    <string name="ble_starting_ap">Criando hotspot…</string>
     <string name="ble_wait_verify_code">Gerando código no novo dispositivo…</string>
     <string name="ble_waiting_verify_code">Verificando código…</string>
     <string name="ble_waiting_verify_code_error">O código que você inseriu está incorreto</string>
@@ -132,8 +132,8 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="connecting">Conectando…</string>
     <string name="connection_tips_activity_label">Solução de problemas</string>
     <string name="connection_tips_other_message">"1. Certifique-se de que a versão mais recente do Mi Mover está instalada no seu antigo dispositvo. Você pode baixar a versão mais recente do Mi Mover no GetApps ou usar este link: %1$s.
-2. Se o ponto de acesso do novo dispositivo não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você pode vê-lo lá. Se você conseguir, não toque.
-3. Volte ao Mi Mover e toque no nome do ponto de acesso."</string>
+2. Se o hotspot do novo dispositivo não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você pode vê-lo lá. Se você conseguir, não toque.
+3. Volte ao Mi Mover e toque no nome do hotspot."</string>
     <string name="connection_tips_other_message_global">Caso você não consiga encontrar o hotspot do antigo dispositvo por um longo período de tempo, volte para a página inicial no novo dispositivo, toque em \"Sou o remetente\", e tente novamente.</string>
     <string name="connection_tips_other_title">Se o seu antigo dispositvo for um telefone Android de outra fabricante:</string>
     <string name="connection_tips_owner_message">O Mi Mover está pré-instalado em todos os dispositivos que executam a MIUI 11. Se você possui uma versão mais antiga da MIUI, pode baixar a versão mais recente do Mi Mover no GetApps ou usar este link: %1$s.</string>
@@ -290,7 +290,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="host_dialog_message">Certifique-se de que a versão mais recente do Mi Mover está instalada no outro dispositivo, caso contrário, pode ser que os dois dispositivos não consigam se conectar.</string>
     <string name="host_dialog_title">Não é possível conectar há um tempo</string>
     <string name="host_install_hint">"O Mi Mover não está instalado?"</string>
-    <string name="host_manual_connect_link_text">Se demorar muito para seu antigo dispositvo encontrar o ponto de acesso, tente conectar manualmente.</string>
+    <string name="host_manual_connect_link_text">Se demorar muito para seu antigo dispositvo encontrar o hotspot, tente conectar manualmente.</string>
     <string name="host_memory_insuff_cancel">Cancelar</string>
     <string name="host_memory_insuff_confirm">Selecionar novamente</string>
     <string name="host_memory_insuff_summary">Não há espaço de armazenamento suficiente no novo dispositivo para iniciar a transferência</string>
@@ -339,7 +339,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="import_again">Importar novamente</string>
     <string name="import_data_from_icloud">Importar dados do iCloud</string>
     <string name="install_app_dialog_title">Não foi possível encontrar dispositivos próximos</string>
-    <string name="install_app_link_text">Por que meu antigo dispositvo não pode se conectar ao ponto de acesso?</string>
+    <string name="install_app_link_text">Por que meu antigo dispositvo não pode se conectar ao hotspot?</string>
     <string name="install_app_message">"Caso não consiga encontrar o novo dispositivo, tente o seguinte:
 1. Verifique se o Mi Mover está instalado no seu novo dispositivo.
 2. Aproxime os dois dispositivos."</string>
@@ -393,11 +393,11 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="main_sender_summary">Toque para enviar itens</string>
     <string name="main_sender_title">Antigo</string>
     <string name="manual_connection_content1">1. Toque \"Conectar com o novo dispositivo manualmente\" no antigo dispositvo.</string>
-    <string name="manual_connection_content2">2. Selecione o seguinte ponto de acesso Wi-Fi.</string>
+    <string name="manual_connection_content2">2. Selecione o seguinte hotspot Wi-Fi.</string>
     <string name="manual_connection_content3">3. Digite esta senha no antigo dispositvo para conectar.</string>
-    <string name="manual_connection_summary2">"Se você não conseguir encontrar este ponto de acesso, atualize a lista de redes Wi-Fi disponíveis e tente novamente."</string>
+    <string name="manual_connection_summary2">"Se você não conseguir encontrar este hotspot, atualize a lista de redes Wi-Fi disponíveis e tente novamente."</string>
     <string name="manual_connection_hint">Toque em \"Conectar manualmente\" em seu antigo dispositvo.</string>
-    <string name="manual_connection_title">Conecte o antigo dispositvo a este ponto de acesso</string>
+    <string name="manual_connection_title">Conecte o antigo dispositvo a este hotspot</string>
     <string name="message_request_manage_external_storage_perm">Mi Mover precisa acessar todos os arquivos neste dispositivo para poder movê-los do seu antigo dispositvo para um novo.</string>
     <string name="message_request_package_stats_perm">O Mi Mover precisa desta permissão para saber quais apps estão instalados em um dispositivo e transferir esses apps para outro.</string>
     <string name="midnight">"AM"</string>
@@ -407,7 +407,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="miui_need_open_high_accuracy_title">Permitir acesso a informações precisas de localização</string>
     <string name="miui_wait_link_message_1">"O botão \"Eu sou remetente\" está na página inicial do Mi Mover."</string>
     <string name="miui_wait_link_title_1">"%d. Toque \"Eu sou remetente\" e aguarde um momento."</string>
-    <string name="miui_wait_link_title_2">%d. Selecione este ponto de acesso no seu antigo dispositvo para conectar-se.</string>
+    <string name="miui_wait_link_title_2">%d. Selecione este hotspot no seu antigo dispositvo para conectar-se.</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
@@ -492,27 +492,28 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="need_more_memory_title">Espaço de armazenamento insuficiente</string>
     <string name="new_app_name">Nova versão</string>
     <string name="new_main_activity_label">"Mi Mover"</string>
-    <string name="new_trans_intro_desc_2">"Não é necessário digitar a senha na nova versão do Mi Mover. Basta abrir o Mi Mover no seu antigo dispositvo, toque \"Sou remetente\"    e toque no nome do ponto de acesso para conectar."</string>
+    <string name="new_trans_intro_desc_2">"Não é necessário digitar a senha na nova versão do Mi Mover. Basta abrir o Mi Mover no seu antigo dispositvo, toque \"Sou remetente\" e toque no nome do hotspot para conectar."</string>
     <string name="new_trans_intro_desc_3">O Mi Mover precisa de espaço de armazenamento para criar um arquivo de transferência no seu antigo dispositvo antes de enviá-lo para o novo. Libere espaço de armazenamento para poder continuar.</string>
     <string name="new_trans_intro_desc_4">Pode haver problemas de compatibilidade de dispositivos, sistemas e versões de apps que impedem que alguns apps sejam transferidos com êxito.</string>
     <string name="new_trans_intro_desc_5">"Alguns apps (ex. serviços financeiros e ferramentas de pagamento) não permitem a transferência de senhas por motivos de segurança."</string>
     <string name="new_trans_intro_desc_6">O seu novo telefone Mi pode não ter as permissões necessárias para fazer isso.</string>
     <string name="new_trans_intro_desc_7">O Mi Mover será capaz de retomar de onde você parou. No entanto, pode ser necessário reiniciar se os problemas de compatibilidade do dispositivo impedirem a retomada da transferência interrompida.</string>
     <string name="new_trans_intro_desc_8">O histórico do WeChat do seu antigo dispositvo substituirá o histórico do WeChat do seu novo dispositivo durante a transferência.</string>
-    <string name="new_trans_intro_desc_new">1. Certifique-se de que o Mi Mover no seu novo dispositivo está atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou usar este link: %1$s.</string>
+    <string name="new_trans_intro_desc_new">"%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo está atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou usar este link: %1$s.
+%3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você consegue vê-lo lá. Nesse caso, volte para Mi Mover e toque no nome do hotspot."</string></string>
     <string name="new_trans_intro_desc_new_click">Baixar</string>
-    <string name="new_trans_intro_desc_old">"2. Se o ponto de acesso ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você pode vê-lo lá. Nesse caso, volte ao Mi Mover e toque no nome do ponto de acesso."</string>
-    <string name="new_trans_intro_question_1">"1. Por que não consigo ver o ponto de acesso do novo dispositivo no antigo?"</string>
-    <string name="new_trans_intro_question_2">2. Qual é a senha do ponto de acesso?</string>
-    <string name="new_trans_intro_question_3">"3. Por que diz que não há espaço de armazenamento suficiente no antigo dispositvo?"</string>
-    <string name="new_trans_intro_question_4">"4. Por que todos os apps não são transferidos com sucesso?"</string>
-    <string name="new_trans_intro_question_5">"5. Por que as senhas de algumas contas de apps de terceiros não são transferidas com sucesso?"</string>
-    <string name="new_trans_intro_question_6">"6. Por que os dados do app não podem ser transferidos de um dispositivo de terceiro?"</string>
-    <string name="new_trans_intro_question_7">7. Se eu sair do Mi Mover durante uma transferência, terei de recomeçar da próxima vez?</string>
-    <string name="new_trans_intro_question_8">8. Por que meu histórico do WeChat desapareceu no novo dispositivo?</string>
+    <string name="new_trans_intro_desc_old">"2. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você pode vê-lo lá. Nesse caso, volte ao Mi Mover e toque no nome do hotspot."</string>
+    <string name="new_trans_intro_question_1">"%d. Por que não consigo ver o hotspot do novo dispositivo no antigo?"</string>
+    <string name="new_trans_intro_question_2">%d. Qual é a senha do hotspot?</string>
+    <string name="new_trans_intro_question_3">"%d. Por que diz que não há espaço de armazenamento suficiente no antigo dispositvo?"</string>
+    <string name="new_trans_intro_question_4">"%d. Por que todos os apps não são transferidos com sucesso?"</string>
+    <string name="new_trans_intro_question_5">"%d. Por que as senhas de algumas contas de apps de terceiros não são transferidas com sucesso?"</string>
+    <string name="new_trans_intro_question_6">"%d. Por que os dados do app não podem ser transferidos de um dispositivo de terceiro?"</string>
+    <string name="new_trans_intro_question_7">%d. Se eu sair do Mi Mover durante uma transferência, terei de recomeçar da próxima vez?</string>
+    <string name="new_trans_intro_question_8">%d. Por que meu histórico do WeChat desapareceu no novo dispositivo?</string>
     <string name="new_wait_link_first">"1. Abra o Mi Mover no seu antigo dispositvo.
 2. Toque \"Sou remetente\" e aguarde um momento.
-3. Selecione o seguinte ponto de acesso no antigo dispositvo."</string>
+3. Selecione o seguinte hotspot no antigo dispositvo."</string>
     <string name="new_wait_link_message_2">"O botão \"Eu sou remetente\" está na página inicial do Mi Mover."</string>
     <string name="new_wait_link_title_2">"1. Toque \"Eu sou um remetente\" e aguarde um momento."</string>
     <string name="new_wait_link_title_3">2. Selecione o seguinte Wi-Fi no antigo dispositvo.</string>
@@ -749,14 +750,14 @@ Libere pelo menos %s."</string>
     <string name="skip_transfer">Pular</string>
     <string name="skip_underline">Pular esta etapa</string>
     <string name="sms">"SMS"</string>
-    <string name="soft_ap_create_failed">Não foi possível criar o ponto de acesso. Tente novamente</string>
+    <string name="soft_ap_create_failed">Não foi possível criar o hotspot. Tente novamente</string>
     <string name="soft_ap_create_failed_apple">"Não foi possível gerar o código QR"</string>
-    <string name="soft_ap_creating">Criando ponto de acesso…</string>
+    <string name="soft_ap_creating">Criando hotspot…</string>
     <string name="ssid_name">Nome do Wi-Fi/SSID</string>
     <string name="succ_description">Concluído</string>
     <string name="summary_open_wlan">O Mi Mover precisa desta permissão para garantir a estabilidade do processo de transferência.</string>
     <string name="summary_request_alert_window_prem">O Mi Mover precisa desta permissão para garantir a estabilidade do processo de transferência.</string>
-    <string name="summary_request_write_settings_prem">O Mi Mover precisa dessa permissão para ativar o Wi-Fi e criar um ponto de acesso para transferir arquivos.</string>
+    <string name="summary_request_write_settings_prem">O Mi Mover precisa dessa permissão para ativar o Wi-Fi e criar um hotspot para transferir arquivos.</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -865,7 +866,7 @@ no seu iPhone"</string>
     <string name="transfer_lose_connect_summary">Parece que a conexão foi interrompida. Conecte novamente.</string>
     <string name="transfer_lose_connect_title">A conexão foi interrompida</string>
     <string name="transfer_multi_connect_summary">A sua conexão foi interrompida por questões de segurança. Você pode tocar em \"Conectar novamente\" para continuar mesmo assim.</string>
-    <string name="transfer_multi_connect_title">Parece que vários dispositivos estão conectados a este ponto de acesso</string>
+    <string name="transfer_multi_connect_title">Parece que vários dispositivos estão conectados a este hotspot</string>
     <string name="transfer_quit_alert_btn_negative">Sair</string>
     <string name="transfer_quit_alert_btn_positive">Não sair</string>
     <string name="transfer_quit_alert_message">"O Mi Mover está em execução agora. Sair mesmo assim?

@@ -732,11 +732,11 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="tab_title_info">Informação</string>
     <string name="tap_pencil">Com o telefone desbloqueado, toque no ícone de lápis para adicionar informações que serão exibidas aqui em caso de emergência</string>
     <string name="tap_to_sign_up">Toque para se inscrever</string>
-    <string name="tether_settings_title_all">Ancoragem e ponto de acesso Wi-Fi</string>
+    <string name="tether_settings_title_all">Ancoragem e hotspot portátil</string>
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb">Ancoragem USB</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
-    <string name="tether_settings_title_wifi">Ponto de acesso Wi-Fi</string>
+    <string name="tether_settings_title_wifi">Hotspot portátil</string>
     <string name="tethering_hardware_offload">Aceleração de hardware da ancoragem</string>
     <string name="tethering_hardware_offload_summary">Use aceleração de hardware da ancoragem, se disponível</string>
     <string name="tethering_settings_not_available">Configurações de ancoragem não estão disponíveis para este usuário</string>
@@ -859,7 +859,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_connected_low_quality">Baixa qualidade</string>
     <string name="wifi_connected_no_internet">Sem internet</string>
     <string name="wifi_coverage_extend">Ativar recurso de extensão de cobertura Wi‑Fi</string>
-    <string name="wifi_coverage_extend_summary">Habilita a extensão da cobertura Wi‑Fi usando o Ponto de acesso</string>
+    <string name="wifi_coverage_extend_summary">Habilita a extensão da cobertura Wi‑Fi usando o Hotspot</string>
     <string name="wifi_disabled_by_recommendation_provider">Não conectado devido a rede de baixa qualidade</string>
     <string name="wifi_disabled_generic">Desabilitado</string>
     <string name="wifi_disabled_network_failure">Falha de configuração IP.</string>

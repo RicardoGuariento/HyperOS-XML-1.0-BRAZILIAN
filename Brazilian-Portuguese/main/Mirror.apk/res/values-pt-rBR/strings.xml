@@ -419,8 +419,8 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="pad_settings_handoff_disconnect">Não conectado</string>
     <string name="pad_settings_handoff_enable_bluetooth">Ative o Bluetooth para encontrar dispositivos nas proximidades</string>
     <string name="pad_settings_handoff_enable_disconnect">Mantenha os dispositivos próximos um do outro com Bluetooth ativado</string>
-    <string name="pad_settings_handoff_p2p_summary">Conecte-se ao ponto de acesso portátil em um toque</string>
-    <string name="pad_settings_handoff_p2p_title">Ponto de acesso</string>
+    <string name="pad_settings_handoff_p2p_summary">Conecte-se ao hotspot portátil em um toque</string>
+    <string name="pad_settings_handoff_p2p_title">"Hotspot"</string>
     <string name="pad_settings_handoff_video_summary">Pegue a reprodução de vídeo de onde você parou em uma tela diferente</string>
     <string name="pad_settings_handoff_video_title">Vídeos</string>
     <string name="pad_settings_handoff_wps_summary">Visualizar, editar e salvar documentos enquanto alterna entre dispositivos</string>
@@ -458,7 +458,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="phone_pad_message_introduction_title">Área de transferência compartilhada</string>
     <string name="phone_pad_video_introduction_summary">Retome a reprodução do vídeo de onde você parou em uma tela diferente</string>
     <string name="phone_pad_video_introduction_title">Vídeos</string>
-    <string name="phone_pad_wifi_introduction_summary">"Conecte-se ao ponto de acesso pessoal do seu dispositivo sem inserir senhas"</string>
+    <string name="phone_pad_wifi_introduction_summary">"Conecte-se ao hotspot pessoal do seu dispositivo sem inserir senhas"</string>
     <string name="phone_pad_wifi_introduction_title">Conectar automaticamente</string>
     <string name="phone_pc_app_introduction_summary">Use apps do dispositivo no seu computador</string>
     <string name="phone_pc_app_introduction_title">"Apps"</string>
@@ -609,13 +609,13 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="size_tera_byte">"TB"</string>
     <string name="softap_connect_fail_message">"Não foi possível conectar"</string>
     <string name="softap_dialog_cancel">Cancelar</string>
-    <string name="softap_dialog_message">"Não há redes Wi-Fi disponíveis nas proximidades. Conectar-se ao ponto de acesso em vez disso?"</string>
+    <string name="softap_dialog_message">"Não há redes Wi-Fi disponíveis nas proximidades. Conectar-se ao hotspot em vez disso?"</string>
     <string name="softap_dialog_ok">"OK"</string>
     <string name="softap_dialog_title">Conectar a %1$s</string>
     <string name="softap_notification_action">Conectar</string>
-    <string name="softap_notification_message">Nenhuma rede Wi-Fi disponível. Conectar-se a este ponto de acesso?</string>
-    <string name="softap_notification_message_china">Nenhuma rede Wi-Fi disponível. Conectar-se a este ponto de acesso?</string>
-    <string name="softap_notification_title">"Conecte-se ao ponto de acesso %1$s's"</string>
+    <string name="softap_notification_message">Nenhuma rede Wi-Fi disponível. Conectar-se a este hotspot?</string>
+    <string name="softap_notification_message_china">Nenhuma rede Wi-Fi disponível. Conectar-se a este hotspot?</string>
+    <string name="softap_notification_title">"Conecte-se ao hotspot %1$s"</string>
     <string name="sub_screen_lock_message">"Desbloqueie seu telefone para continuar"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -678,7 +678,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="time_picker_label_minute">M</string>
     <string name="toast_calling_warning">Encerre a chamada em andamento e tente novamente</string>
     <string name="to_settings">Configurações</string>
-    <string name="tip_connect_fail_for_hotspot">Não foi possível conectar. Desative o ponto de acesso portátil e tente novamente.</string>
+    <string name="tip_connect_fail_for_hotspot">Não foi possível conectar. Desative o hotspot portátil e tente novamente.</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="traffic_log">Logs de tráfego</string>

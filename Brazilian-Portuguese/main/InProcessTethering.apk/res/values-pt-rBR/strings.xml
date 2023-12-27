@@ -2,7 +2,7 @@
 <resources>
     <string name="disable_tether_notification_message">Entre em contato com seu administrador para obter detalhes</string>
     <string name="disable_tether_notification_title">Ancoragem desativada</string>
-    <string name="notification_channel_tethering_status">Status do ponto de acesso e ancoragem</string>
+    <string name="notification_channel_tethering_status">Status do hotspot e ancoragem</string>
     <string name="tethered_notification_message">Toque para configurar.</string>
-    <string name="tethered_notification_title">Ancoragem ou ponto de acesso ativo</string>
+    <string name="tethered_notification_title">Ancoragem ou hotspot ativo</string>
 </resources>

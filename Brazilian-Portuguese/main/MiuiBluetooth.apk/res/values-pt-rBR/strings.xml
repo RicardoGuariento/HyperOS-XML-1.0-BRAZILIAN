@@ -938,11 +938,11 @@ Protocolo de conexão mais rápido"</string>
     <string name="sunday_shortest">Dom</string>
     <string name="tap_to_renew_subscription_and_connect">Toque para renovar a assinatura e conectar</string>
     <string name="tap_to_sign_up">Toque para registrar-se</string>
-    <string name="tether_settings_title_all">Ancoragem e ponto de acesso portátil</string>
+    <string name="tether_settings_title_all">Ancoragem e hotspot portátil</string>
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb">Ancoragem USB</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
-    <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
+    <string name="tether_settings_title_wifi">Hotspot portátil</string>
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
     <string name="tethering_hardware_offload_summary">Use a aceleração de hardware para ancoragem de internet se disponível</string>
     <string name="tethering_settings_not_available">As configurações de ancoragem não estão disponíveis para este usuário</string>
@@ -1126,7 +1126,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_connected_mac_randomization">Randomização de MAC conectado</string>
     <string name="wifi_connected_no_internet">Sem Internet</string>
     <string name="wifi_coverage_extend">Ativar ampliação de cobertura do Wi-Fi</string>
-    <string name="wifi_coverage_extend_summary">Estende a cobertura do Wi-Fi usando    um ponto de acesso</string>
+    <string name="wifi_coverage_extend_summary">Estende a cobertura do Wi-Fi usando um hotspot</string>
     <string name="wifi_disabled_by_recommendation_provider">Não conectado devido à rede estar com baixa qualidade</string>
     <string name="wifi_disabled_generic">Desativada</string>
     <string name="wifi_disabled_network_failure">Falha na configuração do IP</string>
