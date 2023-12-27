@@ -818,9 +818,9 @@ dd 'de' MMM"</string>
     <string name="ota_recovery_theme_notity_title">Restaure seu tema</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Você não poderá realizar as seguintes ações depois de sair:
 Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</string>
-    <string name="pad_fold_exit_wallpaper_warning_title">Sair do plano de fundo e personalização?</string>
+    <string name="pad_fold_exit_wallpaper_warning_title">Sair da Personalização?</string>
     <string name="pad_fold_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do com o plano de fundo e a personalização, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
-    <string name="pad_fold_log_in_wallpaper">Faça login no plano de fundo e personalização</string>
+    <string name="pad_fold_log_in_wallpaper">Faça login na Personalização</string>
     <string name="pad_fold_no_permission">Permissões de armazenamento necessárias</string>
     <string name="pad_fold_no_permission_detail">Para poder alterar as preferências de personalização e salvar itens baixados, permita que este recurso acesse o armazenamento primeiro.</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
@@ -841,7 +841,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="personalize_second_space_not_support_set_font">Não é possível alterar a fonte no Segundo espaço</string>
     <string name="personalize_theme_entrance">Temas</string>
     <string name="personalize_third_font">Fontes</string>
-    <string name="personalize_title">Plano de fundo e personalização</string>
+    <string name="personalize_title">Personalização</string>
     <string name="personalize_wallpaper_sub_title">Super planos de fundo e imagens em destaque</string>
     <string name="personalize_wallpaper_title">Plano de fundo</string>
     <string name="personalized_cta_content_text">Bem-vindo ao Temas! Você pode usar este app para gerenciar seus planos de fundo, tons de toque, fontes e muito mais.</string>
@@ -885,7 +885,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="privacy_network_exception">Ocorreu um erro de rede. Espere um momento e tente novamente.</string>
     <string name="privacy_pad_fold_Read_write_storage">Acessar armazenamento</string>
     <string name="privacy_pad_fold_entry">Privacidade</string>
-    <string name="privacy_pad_fold_logoff_service_content">Cancelar serviços de Plano de fundo e personalização</string>
+    <string name="privacy_pad_fold_logoff_service_content">Cancelar serviços de Personalização</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Todos os planos de fundo, fontes e toques baixados para este dispositivo.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Certifique-se de ter o direito de cancelar os serviços antes de continuar.
@@ -897,18 +897,18 @@ Todos os planos de fundo, fontes e toques baixados para este dispositivo.
 Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.
 Todos os itens de personalização usados atualmente neste dispositivo. As preferências de personalização padrão serão restauradas."</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. O cancelamento do serviço não implica isenção ou mitigação em relação às responsabilidades decorrentes de ações realizadas antes do cancelamento dos serviços.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Declaração de Cancelamento de Serviços de Plano de fundo e personalização</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Leia e concorde com o \"Declaração de Cancelamento de Serviços de Plano de fundo e personalização\" antes de cancelar nossos serviços.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Você está prestes a cancelar os serviços de Plano de fundo e personalização."</string>
-    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração de Cancelamento de Serviços de Plano de fundo e personalização&lt;/a>&lt;/font>\"."</Data></string>
-    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada do Consentimento à Política de Privacidade de Plano de fundo e personalização&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Declaração de Cancelamento de Serviços de Personalização</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Leia e concorde com o \"Declaração de Cancelamento de Serviços de Personalização\" antes de cancelar nossos serviços.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Você está prestes a cancelar os serviços de Personalização."</string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração de Cancelamento de Serviços de Personalização&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada do Consentimento à Política de Privacidade de Personalização&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_pad_fold_revoke_agree_content_3">3. Todos os planos de fundo, fontes e toques baixados para este dispositivo.</string>
     <string name="privacy_pad_fold_revoke_agree_content_4">4. Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.</string>
     <string name="privacy_pad_fold_revoke_agree_detail_prompt">Declaração sobre a Retirada do Consentimento à Política de Privacidade de Papel de Parede e personalização</string>
     <string name="privacy_pad_fold_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada do Consentimento à Política de Privacidade de Papel de Parede e personalização\" antes de retirar o seu consentimento.</string>
-    <string name="privacy_pad_fold_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade de Papel de Parede e personalização. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Uma vez que o Plano de fundo e personalização fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar serviços de Plano de fundo e personalização."</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade de Personalização. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Uma vez que o Personalização fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar serviços de Plano de fundo e personalização."</string>
     <string name="privacy_pad_fold_update_content">Política de privacidade de Plano de fundo e personalização foi atualizada:</string>
-    <string name="privacy_pad_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do usuário e Política de privacidade. No entanto, os recursos e serviços básicos do Plano de fundo e personalização ainda estão disponíveis para você.
+    <string name="privacy_pad_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do usuário e Política de privacidade. No entanto, os recursos e serviços básicos do Personalização ainda estão disponíveis para você.
 Sempre que você usar os itens armazenados neste dispositivo para personalização (ex.: configurá-los como planos de fundo ou toques), pediremos que você permita que este app acesse o armazenamento do dispositivo."</string>
     <string name="privacy_permission_management_description">Detalhes de permissões</string>
     <string name="privacy_permission_related_content">Permissões</string>
@@ -975,7 +975,7 @@ All the information about your likes, comments, ratings, and followers generated
 All the wallpapers, fonts, and ringtones downloaded to this device.
 All the permissions preferences, settings, and cached items generated on this device.
 All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Depois de retirar o seu consentimento com a política de privacidade do Plano de fundo e personalização, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário.
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Depois de retirar o seu consentimento com a política de privacidade do Personalização, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário.
 5. A retirada do consentimento não implica isenção ou mitigação no que diz respeito às responsabilidades decorrentes de ações realizadas antes da retirada do consentimento."</string>
     <string name="provision_default_theme_title">Padrão</string>
     <string name="provision_loading_tips">Aguarde…</string>
@@ -1336,7 +1336,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="system_aod_dialog_title">A exibição está desativada</string>
     <string name="system_cta_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="system_cta_all_purpose">"Bem-vindo ao Temas! Você pode usar este app para gerenciar seus temas, planos de fundo, toques e fontes. "</string>
-    <string name="system_cta_all_purpose_fold">Bem-vindo ao Plano de fundo e personalização! Você pode usar este app para gerenciar seus temas de Tela ambiente, planos de fundo, toques e fontes.</string>
+    <string name="system_cta_all_purpose_fold">Bem-vindo ao Personalização! Você pode usar este app para gerenciar seus temas de Tela ambiente, planos de fundo, toques e fontes.</string>
     <string name="system_cta_all_purpose_pad">Bem-vindo ao Personalização! Você pode usar este app para gerenciar seus planos de fundo, toques, ícones de app e fontes.</string>
     <string name="system_cta_main_purpose">Gerenciar e usar temas online e offline, planos de fundo, toques, fontes e planos de fundo de vídeo</string>
     <string name="system_cta_retry_get_permission_btn_pad">Iniciar</string>
