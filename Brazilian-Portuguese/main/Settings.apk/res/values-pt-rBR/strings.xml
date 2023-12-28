@@ -12621,7 +12621,7 @@ Atualizar configurações para:
 	<string name="nfc_verbose_vendor_log_title">Log detalhado de depuração do fornecedor NFC</string>
 	<string name="no_screen_lock_issue_notification_text">Para maior segurança, defina um PIN, padrão ou senha para este dispositivo.</string>
 	<string name="no_screen_lock_issue_notification_title">Definir um bloqueio de tela</string>
-	<string name="not_connected_to_wifi">Não conectado à Wi-Fi</string>
+	<string name="not_connected_to_wifi">Não conectado ao Wi-Fi</string>
 	<string name="not_grant_admin">"Não, não faça deles administradores"</string>
 	<string name="not_selected">Não selecionado</string>
 	<string name="notice_broadcast_audio_stopped">Parou de transmitir áudio</string>
@@ -12658,8 +12658,8 @@ Atualizar configurações para:
 	<string name="path_password_strike_through">M3.27,4,27 L19,74,20,74</string>
 	<string name="pc_install_manager">Instalar via USB</string>
 	<string name="permit_full_screen_intent">Permitir notificações em tela cheia deste app</string>
-	<string name="please_connect_to_the_network">Conecte-se à Wi-Fi ou aos dados móveis para concluir a limpeza dos dados do eSIM.</string>
-	<string name="please_connect_to_the_wifi">Conecte-se à Wi-Fi para terminar de limpar os dados do eSIM.</string>
+	<string name="please_connect_to_the_network">Conecte-se ao Wi-Fi ou aos dados móveis para concluir a limpeza dos dados do eSIM.</string>
+	<string name="please_connect_to_the_wifi">Conecte-se ao Wi-Fi para terminar de limpar os dados do eSIM.</string>
 	<string name="please_stop_broadcast_audio">Termine de transmitir o áudio local primeiro</string>
 	<string name="please_stop_listen_broadcast_audio">Por favor, termine de ouvir a transmissão atual</string>
 	<string name="power_charging_future_paused">%1$s – Carregamento otimizado</string>
@@ -12998,7 +12998,7 @@ Atualizar configurações para:
 	<string name="wifi_repair_btn_confirm">confirme</string>
 	<string name="wifi_repair_btn_no">Não</string>
 	<string name="wifi_repair_btn_yes">Tente reparar</string>
-	<string name="wifi_repair_confirm_desc">"Você já passou por algum desses problemas? %1$d. Não foi possível ativar a Wi-Fi %2$d. A rede Wi-Fi está lenta %3$d. Outros recursos Wi-Fi não funcionam."</string>
+	<string name="wifi_repair_confirm_desc">"Você já passou por algum desses problemas? %1$d. Não foi possível ativar o Wi-Fi %2$d. A rede Wi-Fi está lenta %3$d. Outros recursos Wi-Fi não funcionam."</string>
 	<string name="wifi_repair_fail_desc">Ocorreu um erro que impediu a restauração da funcionalidade Wi-Fi. Envie um feedback ao nosso engenheiro.</string>
 	<string name="wifi_repair_fail_title">"Não foi possível restaurar"</string>
 	<string name="wifi_repair_ongoing">"Restaurando… Não saia desta página."</string>
