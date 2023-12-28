@@ -351,7 +351,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="install_mi_cloud_app_title">Instale a MiCloud</string>
     <string name="install_new_app_link_text">Instale o Mi Mover no seu novo dispositivo para poder se conectar. Toque para instalar.</string>
     <string name="international_new_trans_intro_desc_8">Não é possível transferir mensagens de texto devido a problemas de compatibilidade. Apps de terceiros podem restringir a transferência de dados de apps por motivos de segurança.</string>
-    <string name="international_new_trans_intro_question_8">8. Por que não é possível transferir mensagens de texto e dados de apps de alguns apps de terceiros?</string>
+    <string name="international_new_trans_intro_question_8">%d. Por que não é possível transferir mensagens de texto e dados de apps de alguns apps de terceiros?</string>
     <string name="international_scanner_send_dialog_message">Mensagens de texto e dados de apps de alguns apps de terceiros não podem ser transferidos. Não desative o Wi-Fi ou alterne entre redes durante a transferência.</string>
     <string name="lack_perm_msg">O Mi Mover precisa das seguintes permissões para funcionar normalmente: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Permissões necessárias</string>
@@ -410,14 +410,14 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="miui_wait_link_title_2">%d. Selecione este hotspot no seu antigo dispositvo para conectar-se.</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
@@ -524,10 +524,10 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="no_sim">Nenhum cartão SIM detectado.</string>
     <string name="not_set">Não definido</string>
     <string name="not_support">Not supported</string>
-    <string name="not_support_data_content1">1. Itens específicos para o modelo do dispositivo</string>
-    <string name="not_support_data_content2">2. Dados de apps selecionados</string>
-    <string name="not_support_data_content3">3. Dados do segundo espaço</string>
-    <string name="not_support_data_content4">"4. Dual apps"</string>
+    <string name="not_support_data_content1">%d. Itens específicos para o modelo do dispositivo</string>
+    <string name="not_support_data_content2">%d. Dados de apps selecionados</string>
+    <string name="not_support_data_content3">%d. Dados do segundo espaço</string>
+    <string name="not_support_data_content4">"%d. Dual apps"</string>
     <string name="not_support_data_link">"Itens que não podem ser transferidos"</string>
     <string name="not_support_data_summary1">"Cartões de transporte e acesso não podem ser transferidos; temas e planos de fundo podem ser transferidos em alguns modelos."</string>
     <string name="not_support_data_summary2">Alguns apps colocam medidas de segurança estritas em vigor para evitar que dados sejam transferidos. Estes apps podem incluir apps bancários ou serviços financeiros.</string>
@@ -597,7 +597,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="permission_alert_title">Permissões necessárias</string>
     <string name="permission_bluetooth_summary">Para encontrar dispositivos disponíveis nas proximidades</string>
     <string name="permission_bluetooth_title">Ativar e desativar o Bluetooth</string>
-    <string name="permission_calender_summary">Para transferir os eventos da agenda do iCloud</string>
+    <string name="permission_calender_summary">Para mover eventos do dispositivo antigo para o novo</string>
     <string name="permission_calender_title">Acessar eventos da agenda</string>
     <string name="permission_call_log_summary">Para transferir o histórico de chamadas para o seu novo dispositivo</string>
     <string name="permission_call_log_title">Acessar histórico de chamadas</string>
@@ -856,7 +856,7 @@ Baixar e instalar o Mi Mover."</string>
 no seu iPhone"</string>
     <string name="trans_sync_transfer_data_list_hint">Aguarde…</string>
     <string name="trans_sync_transfer_data_list_summary_for_pad">Selecione os itens em seu antigo dispositvo e toque em \"Enviar\".</string>
-    <string name="trans_time_format_second">Menos de 1 minuto</string>
+    <string name="trans_time_format_second">Menos de %d minuto</string>
     <string name="trans_time_spent">Tempo: %s</string>
     <string name="transfer_bottom_tip">Você não poderá usar Wi-Fi ou Bluetooth durante a transferência. Não saia desta página.</string>
     <string name="transfer_connect_fail_summary">Toque no botão abaixo para conectar manualmente</string>
