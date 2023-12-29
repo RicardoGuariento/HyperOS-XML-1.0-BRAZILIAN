@@ -199,7 +199,7 @@
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_permission_description">Executar ações desconhecidas</string>
     <string name="deny_fine_keep_blur_location">Localização aproximada</string>
-    <string name="deny_fine_keep_blur_location_dont_ask_again">Sempre permitir aproximado</string>
+    <string name="deny_fine_keep_blur_location_dont_ask_again">Sempre permitir aproximada</string>
     <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -375,7 +375,7 @@
     <string name="permdesc_location">Permitir que %1$s acesse informações de localização?</string>
     <string name="permdesc_location_background">Permitir que %1$s acesse informações de localização em segundo plano?</string>
     <string name="permdesc_microphone">Permitir que %1$s use o microfone para gravar áudio?</string>
-    <string name="permdesc_nearby_devices">Permitir que %1$s descubra e se conecte aos dispositivos próximos?</string>
+    <string name="permdesc_nearby_devices">Permitir que %1$s descubra e conecte-se a dispositivos próximos?</string>
     <string name="permdesc_post_notification">Permitir que %1$s envie notificações?</string>
     <string name="permdesc_process_outgoing_call">Permitir que %1$s atenda e encerre chamadas?</string>
     <string name="permdesc_read_calendar">Permitir que %1$s acesse eventos da Agenda?</string>
@@ -519,7 +519,7 @@
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="tilte_request_coarse_location">Permitir que %1$s acesse sua localização aproximada?</string>
-    <string name="tilte_request_fine_location">Permitir que %1$s acesse sua localização precisa ou use a localização aproximada?</string>
+    <string name="tilte_request_fine_location">Permitir que %1$s acesse sua localização exata ou aproximada?</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
