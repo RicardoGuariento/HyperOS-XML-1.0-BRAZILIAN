@@ -2192,6 +2192,12 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="camera_front">"Frontal %s"</string>
     <string name="camera_gesture_desc">Abrir o app Câmera girando o pulso duas vezes</string>
     <string name="camera_gesture_title">Girar duas vezes para abrir a câmera</string>
+    <string name="camera_grip_firmware_need_update">Atualizar</string>
+    <string name="camera_grip_firmware_new_version">Atualizado</string>
+    <string name="camera_grip_firmware_title_text">Atualizar firmware</string>
+    <string name="camera_grip_firmware_update_faild">"Não foi possível atualizar"</string>
+    <string name="camera_grip_firmware_update_ongoing">Atualizando…</string>
+    <string name="camera_grip_firmware_update_successful">Atualizado com sucesso</string>
     <string name="camera_key_action_app_title">Abrir app</string>
     <string name="camera_key_action_category_title">Não é possível usar a Câmera</string>
     <string name="camera_key_action_none_title">Nenhuma ação</string>
@@ -7101,6 +7107,14 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="phone_call_noise_suppression">Redução de ruído durante chamadas</string>
     <string name="phone_language">Idiomas</string>
     <string name="photo_data">Fotos e vídeos</string>
+    <string name="photography_handle_button_function_settings">Configurar botão grip</string>
+    <string name="photography_handle_charge_protected">Grip de carregamento com desconexão automática</string>
+    <string name="photography_handle_charge_protected_summary">"Quando o dispositivo reconhecer que você está usando o grip da câmera, o dispositivo irá parar de carregar e manter a bateria em %1$s"</string>
+    <string name="photography_handle_launch_and_take_photo">Tirar fotos</string>
+    <string name="photography_handle_launch_camera">Abrir câmera</string>
+    <string name="photography_handle_long_press_camera_key_enter_camera">Pressione e segure o botão do obturador para realizar uma ação</string>
+    <string name="photography_handle_quick_launch_camera_title">Inicialização rápida</string>
+    <string name="photography_handle_title">Câmera grip</string>
     <string name="physical_keyboard_title">Teclado físico</string>
     <string name="pick_up_gesture_wakeup_title">Levantar para ligar tela</string>
     <string name="picker_text">Selecionar tempo</string>
@@ -7485,13 +7499,15 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_thumbnail_blur_progress_message">Aguarde…</string>
     <string name="privacy_thumbnail_blur_title">Desfocar prévias de apps</string>
     <string name="private_dns_broken">Não é possível acessar ao servidor DNS privado</string>
-    <string name="private_dns_help_message"><annotation id="url">Saiba mais</annotation> sobre recursos de DNS particular</string>
+    <string name="private_dns_help_message"><annotation id="url">Saiba mais</annotation> sobre recursos de DNS privado</string>
+    <string name="private_dns_host_name">Nome de host do provedor DNS privado</string>
     <string name="private_dns_mode_off">Desativado</string>
     <string name="private_dns_mode_on">Ativado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
     <string name="private_dns_mode_provider">Nome do host do provedor de DNS</string>
     <string name="private_dns_mode_provider_failure">Não é possível conectar-se</string>
     <string name="private_dns_mode_provider_hostname_hint">Insira o nome do host do provedor de DNS</string>
+    <string name="private_dns_title">DNS privado</string>
     <string name="private_gallery_need_to_unlock">Insira a senha</string>
     <string name="private_gallery_recording_intro_header">Desenhe um padrão de desbloqueio</string>
     <string name="private_gallery_reset_by_account">Para redefinir sua senha, faça o login em sua Conta Mi.</string>

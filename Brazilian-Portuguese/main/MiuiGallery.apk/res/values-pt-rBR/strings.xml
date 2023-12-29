@@ -1644,6 +1644,7 @@ para personalizar a Galeria"</string>
     <string name="mark_operation_succeeded">Adicionado com sucesso</string>
     <string name="mark_people_ignore_info_message">Pressione e segure em fotos de pessoas para adicioná-las em grupos</string>
     <string name="media_type_burst_photo">Estouro</string>
+    <string name="media_type_cinematic">Modo filme</string>
     <string name="media_type_clone_photo">"Clones"</string>
     <string name="media_type_doc_photo">Documentos</string>
     <string name="media_type_fast_motion_video">Time-lapse</string>
@@ -2731,6 +2732,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="send_public_url">Enviar URL do álbum</string>
     <string name="send_secret_file_failed">Não foi possível compartilhar</string>
     <string name="send_secret_file_space_low">Não há espaço de armazenamento suficiente</string>
+    <string name="send_special_video_duration_more_than_40s">Vídeos processados com mais de %d minutos só podem ser compartilhados em seu formato original, que pode não ser compatível com o dispositivo receptor. Continuar?</string>
     <string name="send_too_many_files_error">É possível enviar até %d itens de uma só vez</string>
     <string name="service_is_provided_by_miui_cloud_service">Este serviço é fornecido pela MiCloud</string>
     <string name="set_as_baby_lock_wallpaper">Definir como fundo da Tela de bloqueio</string>
@@ -3258,6 +3260,8 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="tip_capture_time">Tirada em:</string>
     <string name="tip_file_info">Info. do arquivo:</string>
     <string name="tip_file_path">Caminho:</string>
+    <string name="tip_leica_authentic">Leica Autêntico</string>
+    <string name="tip_leica_vibrant">Leica Vibrante</string>
     <string name="tip_not_download">O item não está no dispositivo. Ele será baixado da MiCloud durante a reprodução.</string>
     <string name="tip_screenshot_package_info">Nome do app:</string>
     <string name="tips_for_photo_page_selection">Você pode tocar nos itens para visualizá-los</string>
