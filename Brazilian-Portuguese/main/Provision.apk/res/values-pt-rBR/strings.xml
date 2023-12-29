@@ -191,6 +191,8 @@
     <string name="install_preinstall_app">Carregando apps…</string>
     <string name="intent_filter_verification_service">Serviço de verificação de filtro de intenção</string>
     <string name="interconnection_communication_introduction">Os Serviços de comunicação da Internet da Xiaomi, permite que você descubra, conecte e se comunique com outros dispositivos Xiaomi.</string>
+    <string name="interconnection_service_global_item_title">Interconectividade Xiaomi</string>
+    <string name="interconnection_service_global_label">"&lt;Data>A Interconectividade Xiaomi permite que seus dispositivos interajam entre si sem fio. Ao ativar esta opção, você concorda com a &lt;a href=%1$s>Política de Privacidade&lt;/a > da Interconectividade da Xiaomi.&lt;/Data>"</string>
     <string name="interconnection_service_summary">"Os Serviços de Interconectividade da Xiaomi permitem que seus dispositivos interajam uns com os outros sem fio. Esses serviços incluem Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Compartilhamento Mi e transmição.
 Para poder funcionar normalmente, esses serviços precisam se conectar à internet e exigir as seguintes permissões:
 \u0009\u0009Mi Smart Hub:
@@ -222,6 +224,69 @@ Para poder funcionar normalmente, esses serviços precisam se conectar à intern
 \u0009\u0009Para transferir a reprodução de áudio para dispositivos conectados durante a transmissão
 Caso não concorde em conceder tais permissões, não poderá usar os Serviços de Interconectividade da Xiaomi.
 Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não estar disponíveis em todos os modelos de dispositivos ou para todas as versões do sistema. Consulte o site do HyperOS (www.miui.com) para verificar a compatibilidade."</string>
+    <string name="interconnection_service_summary_china">"Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Esses serviços incluem Mi Smart Play, transmissão, transferência de apps, Tela inicial +, área de transferência compartilhada, captura de imagens entre dispositivos, assistência de rede, teclados e mouses compartilhados, câmera compartilhada e Mi Smart Hub, Para poder funcionar normalmente, os Serviços de Interconectividade Xiaomi precisam estar conectados à Internet e exigir as seguintes permissões:
+\u0009\u0009Mi Smart Play e transmissão:
+\u0009\u0009Ativar e desativar o Bluetooth
+\u0009\u0009Para descobrir dispositivos próximos para conectar via Bluetooth
+\u0009\u0009Ativar e desativar o Wi-Fi
+\u0009\u0009Para descobrir dispositivos próximos e transferir itens via Wi-Fi
+\u0009\u0009Transferir itens para outros dispositivos
+\u0009\u0009Para estabelecer uma conexão Bluetooth entre dispositivos e transferir itens
+\u0009\u0009Acessar informações de localização
+\u0009\u0009Para acessar as informações de dispositivos próximos
+\u0009\u0009Gravar áudio interno do dispositivo
+\u0009\u0009Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento
+\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
+\u0009\u0009Para enviar e receber conteúdo transferido
+\u0009\u0009Acessar o endereço MAC do dispositivo
+\u0009\u0009Para reconhecer dispositivos conectados
+\u0009\u0009Acessar o conteúdo da tela
+\u0009\u0009Para acessar o conteúdo da tela durante a gravação ou transmissão, incluindo informações confidenciais como áudio, senhas, senhas de pagamento, fotos, mensagens, etc.
+\u0009\u0009App handoff e Tela inicial+:
+\u0009\u0009Ativar e desativar o Bluetooth
+\u0009\u0009Para descobrir dispositivos próximos via Bluetooth
+\u0009\u0009Ativar e desativar o Wi-Fi
+\u0009\u0009Para descobrir dispositivos próximos e transferir itens via Wi-Fi
+\u0009\u0009Acessar o endereço MAC do dispositivo
+\u0009\u0009Para reconhecer dispositivos conectados
+\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
+\u0009\u0009Para enviar e receber conteúdo transferido
+\u0009\u0009Transferir itens para outros dispositivos
+\u0009\u0009Para estabelecer uma conexão Bluetooth entre dispositivos e transferir itens
+\u0009\u0009Gravar áudio interno do dispositivo
+\u0009\u0009Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento
+\u0009\u0009Acessar o conteúdo da tela
+\u0009\u0009Para acessar o conteúdo da tela durante a gravação ou transmissão, incluindo informações confidenciais como áudio, senhas, senhas de pagamento, fotos, mensagens, etc.
+\u0009\u0009Área de transferência compartilhada e captura de imagens entre dispositivos:
+\u0009\u0009Ativar e desativar o Bluetooth
+\u0009\u0009Para descobrir dispositivos próximos via Bluetooth
+\u0009\u0009Ativar e desativar o Wi-Fi
+\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
+\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
+\u0009\u0009Para enviar e receber conteúdo transferido
+\u0009\u0009Acessar a área de transferência
+\u0009\u0009Para permitir que apps acessem conteúdo copiado
+\u0009\u0009Assistência de rede, teclados, mouses e câmera compartilhados:
+\u0009\u0009Ativar e desativar o Bluetooth
+\u0009\u0009Para descobrir dispositivos próximos via Bluetooth
+\u0009\u0009Ativar e desativar o Wi-Fi
+\u0009\u0009Para descobrir dispositivos próximos e transferir itens via Wi-Fi
+\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
+\u0009\u0009Para enviar e receber conteúdo transferido
+\u0009\u0009Acessar câmera
+\u0009\u0009Para tirar fotos e gravar vídeos
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Ativar e desativar o Bluetooth
+\u0009\u0009Para descobrir dispositivos próximos via Bluetooth
+\u0009\u0009Ativar e desativar o Wi-Fi
+\u0009\u0009Para descobrir dispositivos próximos e transferir itens via Wi-Fi
+\u0009\u0009Gravar áudio interno do dispositivo
+\u0009\u0009Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento
+\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
+\u0009\u0009Para enviar e receber conteúdo transferido
+Se você não concordar em conceder essas permissões, não poderá usar esses serviços.
+Os serviços de interconectividade disponíveis podem diferir com base na versão do sistema e no modelo do dispositivo. Encontre mais informações em %s."</string>
+    <string name="interconnection_service_summary_global">"Os recursos de interconectividade Xiaomi podem variar dependendo do modelo do dispositivo e da versão do sistema. Visite o site oficial do sistema para saber mais."</string>
     <string name="interconnection_service_title">Serviços de Interconectividade Xiaomi</string>
     <string name="item_contents_wwarning">Se seu dispositivo for perdido, você não poderá impedir que outras pessoas o utilizem e acessem seus dados, a menos que defina um bloqueio de tela. Ignorar mesmo assim?</string>
     <string name="item_facerecognition">Desbloqueio facial</string>
