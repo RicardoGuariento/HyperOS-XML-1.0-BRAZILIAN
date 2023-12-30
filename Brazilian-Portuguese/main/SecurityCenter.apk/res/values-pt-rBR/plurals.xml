@@ -813,8 +813,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%1$s | Editou seus contatos %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_allow_wake_path">
-        <item quantity="other">%1$s | Iniciado automaticamente %2$s %3$d vezes</item>
-        <item quantity="one">%1$s | Iniciado automaticamente %2$s %3$d vez</item>
+        <item quantity="other">%1$s | Iniciado automaticamente por %2$s %3$d vezes</item>
+        <item quantity="one">%1$s | Iniciado automaticamente por %2$s %3$d vez</item>
     </plurals>
     <plurals name="permission_usage_allow_wakepath">
         <item quantity="other">%1$s | Permitido %2$d vezes</item>
