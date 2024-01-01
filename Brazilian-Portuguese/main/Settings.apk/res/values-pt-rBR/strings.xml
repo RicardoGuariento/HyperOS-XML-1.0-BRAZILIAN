@@ -124,7 +124,12 @@
     <string name="accessibility_caption_primary_switch_title">Mostrar legendas</string>
     <string name="accessibility_captioning_about_title">Sobre as preferências de legenda</string>
     <string name="accessibility_captioning_footer_learn_more_content_description">Saiba mais sobre as preferências de legenda</string>
+    <string name="accessibility_captioning_preference_intro">Personalize o tamanho e o estilo das legendas para torná-las mais fáceis de ler</string>
+    <string name="accessibility_captioning_preference_summary">Essas preferências de legenda não são suportadas por todos os apps de mídia</string>
+    <string name="accessibility_captioning_primary_switch_summary">Apenas para apps compatíveis</string>
+    <string name="accessibility_captioning_primary_switch_title">Mostrar legendas</string>
     <string name="accessibility_captioning_title">Preferências de legenda</string>
+    <string name="accessibility_category_clone">Clonar contas de perfil</string>
     <string name="accessibility_category_personal">Contas do perfil pessoal</string>
     <string name="accessibility_category_work">Contas do perfil de trabalho - %s</string>
     <string name="accessibility_clear">Limpar</string>
@@ -170,8 +175,22 @@
     <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
     <string name="accessibility_feature_state_off">Desativado</string>
     <string name="accessibility_feature_state_on">Ativado</string>
+    <string name="accessibility_fingerprint_label">Sensor de impressão digital</string>
+    <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">Tamanho da fonte adicionado às configurações rápidas. Deslize para baixo para alterar o tamanho da fonte a qualquer momento.</string>
+    <string name="accessibility_found_all_devices">Não vê seu aparelho auditivo?</string>
+    <string name="accessibility_found_hearing_devices">Aparelhos auditivos disponíveis</string>
     <string name="accessibility_global_gesture_preference_title">Atalho da tecla de volume</string>
-    <string name="accessibility_haptic">Acessibilidade</string>
+    <string name="accessibility_hac_mode_summary">Melhora a compatibilidade com bobinas telefônicas e reduz ruídos indesejados</string>
+    <string name="accessibility_hac_mode_title">Compatibilidade com aparelhos auditivos</string>
+    <string name="accessibility_hearing_device_about_title">Sobre aparelhos auditivos</string>
+    <string name="accessibility_hearing_device_connected_title">Aparelhos auditivos</string>
+    <string name="accessibility_hearing_device_control">Controles do aparelho auditivo</string>
+    <string name="accessibility_hearing_device_footer_summary">Certifique-se de que seu aparelho auditivo esteja ligado e pronto para emparelhar</string>
+    <string name="accessibility_hearing_device_pairing_page_title">Emparelhar aparelho auditivo</string>
+    <string name="accessibility_hearing_device_pairing_title">Emparelhar novo dispositivo</string>
+    <string name="accessibility_hearing_device_saved_title">Dispositivos salvos</string>
+    <string name="accessibility_hearing_device_shortcut_title">Atalho para aparelho auditivo</string>
+    <string name="accessibility_hearingaid_intro">Você pode usar aparelhos auditivos, implantes cocleares e outros dispositivos de amplificação com seu telefone</string>    
     <string name="accessibility_hearingaid_active_device_summary">%1$s ativo no momento</string>
     <string name="accessibility_hearingaid_adding_summary">Adicionar aparelhos auditivos</string>
     <string name="accessibility_hearingaid_instruction_continue_button">Continuar</string>
@@ -184,8 +203,10 @@ Certifique-se de que seus aparelhos auditivos estejam ligados e prontos para o p
     <string name="accessibility_hearingaid_pair_instructions_title">Parear aparelhos auditivos</string>
     <string name="accessibility_hearingaid_right_side_device_summary">%1$s, apenas o direito</string>
     <string name="accessibility_hearingaid_title">Aparelhos auditivos</string>
+    <string name="accessibility_haptic">Acessibilidade</string>
     <string name="accessibility_interactive_haptics_category_title">Retorno tátil interativo</string>
     <string name="accessibility_introduction_title">Sobre %1$s</string>
+    <string name="accessibility_list_all_devices_title">Veja mais dispositivos</string>
     <string name="accessibility_lock_screen_progress">%1$d de %2$d caracteres usados</string>
     <string name="accessibility_long_press_timeout_preference_title">Atraso ao tocar e pressionar</string>
     <string name="accessibility_magnification_area_settings_all_summary">Tela inteira e parte da tela</string>
@@ -239,6 +260,7 @@ Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela
     <string name="accessibility_notification_vibration_title">Vibração de notificação</string>
     <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">Modo para uma só mão adicionado às configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
     <string name="accessibility_one_handed_mode_qs_tooltip_content">Você também pode adicionar o Modo para uma só mão às Configurações rápidas na parte superior da tela</string>
+    <string name="accessibility_pair_hearing_device_about_title">Sobre Emparelhar novo dispositivo</string>
     <string name="accessibility_personal_account_title">Conta pessoal - %s</string>
     <string name="accessibility_phone_one_bar">Telefone um barra.</string>
     <string name="accessibility_phone_signal_full">Sinal de telefone cheio.</string>
@@ -251,7 +273,11 @@ Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela
     <string name="accessibility_reduce_bright_colors_qs_tooltip_content">Você também pode adicionar Mais escuro às Configurações rápidas na parte superior da tela</string>
     <string name="accessibility_ring_vibration_title">Vibração do toque</string>
     <string name="accessibility_screen_magnification_about_title">Sobre a amplicação</string>
+    <string name="accessibility_screen_magnification_always_on_summary">A Lupa permanece ligada e diminui o zoom quando você alterna entre apps</string>
+    <string name="accessibility_screen_magnification_always_on_title">Continue enquanto troca de app</string>
     <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
+    <string name="accessibility_screen_magnification_joystick_summary">Ative e mova a lupa com um joystick na tela. Toque e segure e arraste o joystick para controlar a lupa. Toque e arraste para mover o joystick.</string>
+    <string name="accessibility_screen_magnification_joystick_title">Controle de video game</string>
     <string name="accessibility_screen_magnification_follow_typing_summary">A amplificação segue o texto enquanto você digita</string>
     <string name="accessibility_screen_magnification_follow_typing_title">Ampliar digitação</string>
     <string name="accessibility_screen_magnification_footer_learn_more_content_description">Saiba mais sobre a ampliação</string>
@@ -386,6 +412,7 @@ Eu só queria verificar como os projetos estão indo. Eles estarão prontos ante
     <string name="accessibility_touch_vibration_title">Vibrar ao tocar na tela</string>
     <string name="accessibility_turn_screen_darker_title">Tornar a tela mais escura</string>
     <string name="accessibility_tutorial_dialog_button">Entendi</string>
+    <string name="accessibility_tutorial_dialog_link_button">Configurações do botão de acessibilidade</string>
     <string name="accessibility_tutorial_dialog_message_button">"Para usar esse recurso, toque no botão de acessibilidade %s na parte inferior da tela.
 
 Para alternar entre os recursos, toque no botão de acessibilidade e o mantenha pressionado."</string>
@@ -410,6 +437,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="accessibility_tutorial_dialog_title_triple">Toque três vezes na tela para abrir</string>
     <string name="accessibility_tutorial_dialog_title_volume">Mantenha as teclas de volume pression. para abrir</string>
     <string name="accessibility_tutorial_pager">Página %1$d de %2$d</string>
+    <string name="accessibility_usage_summary">{count, plural, =1 {1 app tem acesso total ao seu dispositivo} other {# apps têm acesso total ao seu dispositivo} }</string>
     <string name="accessibility_usage_title">Uso de acessibilidade</string>
     <string name="accessibility_vibration_intensity_high">Alta</string>
     <string name="accessibility_vibration_intensity_low">Baixa</string>
@@ -437,6 +465,10 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="accessibility_wifi_two_bars">Wi-Fi duas barras.</string>
     <string name="accessibility_work_account_title">Conta de trabalho - %s</string>
     <string name="accessibility_work_profile_app_description">Trabalho %s</string>
+    <string name="accessibilty_autoclick_delay_unit_second">{contagem, plural, =1 {{tempo} segundo} other {{tempo} segundos} }</string>
+    <string name="accessibilty_autoclick_preference_subtitle_long_delay">{count, plural, =1 {Longo ({tempo} segundos)} other {Longo ({tempo} segundos)} }</string>
+    <string name="accessibilty_autoclick_preference_subtitle_medium_delay">{count, plural, =1 {Médio ({tempo} segundos)} other {Médio ({tempo} segundos)} }</string>
+    <string name="accessibilty_autoclick_preference_subtitle_short_delay">{count, plural, =1 {Curto ({tempo} segundos)} other {Curto ({tempo} segundos)} }</string>
     <string name="accessor_expires_text">O licenciamento expira em %s</string>
     <string name="accessor_info_title">Apps compartilhando dados</string>
     <string name="accessor_never_expires_text">O licenciamento nunca expira.</string>
@@ -3100,9 +3132,9 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_mall_card_title">Confira os benefícios disponíveis</string>
     <string name="device_memory">"RAM"</string>
     <string name="device_miui_more">Ver mais</string>
-    <string name="device_miui_version">Versão do HyperOS</string>
-    <string name="device_miui_version_for_POCO">Versão do HyperOS (Para POCO)</string>
-    <string name="device_miui_version_parameters">Versão do HyperOS</string>
+    <string name="device_miui_version">Versão do OS</string>
+    <string name="device_miui_version_for_POCO">Versão do OS (Para POCO)</string>
+    <string name="device_miui_version_parameters">Versão do OS</string>
     <string name="device_miui_version_update">Atualizar</string>
     <string name="device_name">Nome do dispositivo</string>
     <string name="device_name_input_error">Não foi possível salvar o nome do dispositivo</string>
@@ -8114,7 +8146,7 @@ Para usar a fixação de apps: \u0009
     <string name="se_wallet_hce">Carteira HCE</string>
     <string name="se_wallet_uicc">Carteira SIM %1$s</string>
     <string name="se_wallet_uicc_jp">"Cartão SIM %1$s (não pode ser selecionado automaticamente)"</string>
-    <string name="search_about_settings">Sobre o telefone;Número do modelo;Versão do Android;Versão do HyperOS;CPU;RAM;Armazenamento interno;Memória;Armazenamento;Memória interna;Versão da baseband;Versão do kernel;Número da compilação;Meu dispositivo;Telefone;Dispositivo</string>
+    <string name="search_about_settings">Sobre o telefone;Número do modelo;Versão do Android;Versão do OS;CPU;RAM;Armazenamento interno;Memória;Armazenamento;Memória interna;Versão da baseband;Versão do kernel;Número da compilação;Meu dispositivo;Telefone;Dispositivo</string>
     <string name="search_accelerometer_title">Girar tela automaticamente;Girar tela;Orientação;Retrato;Paisagem</string>
     <string name="search_access_control">Configurações de privacidade;Segurança de privacidade;Convidado;Modo convidado</string>
     <string name="search_accessibility_captioning_title">Legendas</string>
@@ -11829,38 +11861,6 @@ Atualizar configurações para:
     <string name="zone_menu_by_region">Selecionar por região</string>
     <string name="zone_time_type_dst">Horário de verão</string>
     <string name="zone_time_type_standard">Horário padrão</string>
-    <string name="accessibility_captioning_preference_intro">Personalize o tamanho e o estilo das legendas para torná-las mais fáceis de ler</string>
-    <string name="accessibility_captioning_preference_summary">Essas preferências de legenda não são suportadas por todos os apps de mídia</string>
-    <string name="accessibility_captioning_primary_switch_summary">Apenas para apps compatíveis</string>
-    <string name="accessibility_captioning_primary_switch_title">Mostrar legendas</string>
-    <string name="accessibility_category_clone">Clonar contas de perfil</string>
-    <string name="accessibility_fingerprint_label">Sensor de impressão digital</string>
-    <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">Tamanho da fonte adicionado às configurações rápidas. Deslize para baixo para alterar o tamanho da fonte a qualquer momento.</string>
-    <string name="accessibility_found_all_devices">Não vê seu aparelho auditivo?</string>
-    <string name="accessibility_found_hearing_devices">Aparelhos auditivos disponíveis</string>
-    <string name="accessibility_hac_mode_summary">Melhora a compatibilidade com bobinas telefônicas e reduz ruídos indesejados</string>
-    <string name="accessibility_hac_mode_title">Compatibilidade com aparelhos auditivos</string>
-    <string name="accessibility_hearing_device_about_title">Sobre aparelhos auditivos</string>
-    <string name="accessibility_hearing_device_connected_title">Aparelhos auditivos</string>
-    <string name="accessibility_hearing_device_control">Controles do aparelho auditivo</string>
-    <string name="accessibility_hearing_device_footer_summary">Certifique-se de que seu aparelho auditivo esteja ligado e pronto para emparelhar</string>
-    <string name="accessibility_hearing_device_pairing_page_title">Emparelhar aparelho auditivo</string>
-    <string name="accessibility_hearing_device_pairing_title">Emparelhar novo dispositivo</string>
-    <string name="accessibility_hearing_device_saved_title">Dispositivos salvos</string>
-    <string name="accessibility_hearing_device_shortcut_title">Atalho para aparelho auditivo</string>
-    <string name="accessibility_hearingaid_intro">Você pode usar aparelhos auditivos, implantes cocleares e outros dispositivos de amplificação com seu telefone</string>
-    <string name="accessibility_list_all_devices_title">Veja mais dispositivos</string>
-    <string name="accessibility_pair_hearing_device_about_title">Sobre Emparelhar novo dispositivo</string>
-    <string name="accessibility_screen_magnification_always_on_summary">A Lupa permanece ligada e diminui o zoom quando você alterna entre apps</string>
-    <string name="accessibility_screen_magnification_always_on_title">Continue enquanto troca de app</string>
-    <string name="accessibility_screen_magnification_joystick_summary">Ative e mova a lupa com um joystick na tela. Toque e segure e arraste o joystick para controlar a lupa. Toque e arraste para mover o joystick.</string>
-    <string name="accessibility_screen_magnification_joystick_title">Controle de video game</string>
-    <string name="accessibility_tutorial_dialog_link_button">Configurações do botão de acessibilidade</string>
-    <string name="accessibility_usage_summary">{count, plural, =1 {1 app tem acesso total ao seu dispositivo} other {# apps têm acesso total ao seu dispositivo} }</string>
-    <string name="accessibilty_autoclick_delay_unit_second">{contagem, plural, =1 {{tempo} segundo} other {{tempo} segundos} }</string>
-    <string name="accessibilty_autoclick_preference_subtitle_long_delay">{count, plural, =1 {Longo ({tempo} segundos)} other {Longo ({tempo} segundos)} }</string>
-    <string name="accessibilty_autoclick_preference_subtitle_medium_delay">{count, plural, =1 {Médio ({tempo} segundos)} other {Médio ({tempo} segundos)} }</string>
-    <string name="accessibilty_autoclick_preference_subtitle_short_delay">{count, plural, =1 {Curto ({tempo} segundos)} other {Curto ({tempo} segundos)} }</string>
     <string name="activity_title_root_acquired">Permitir acesso root</string>
     <string name="activity_title_root_manager">Acesso raiz</string>
     <string name="activity_title_root_note">Sobre o acesso root</string>
@@ -11914,12 +11914,6 @@ Atualizar configurações para:
     <string name="backup_calling_enable_dialog_incompatible_nw_type">Para ativar o Voice Over Cellular Internet, defina o tipo de rede preferido como LTE, NR ou Global.</string>
     <string name="battery_app_usage">Uso do app desde a última carga completa</string>
     <string name="battery_app_usage_since_last_full_charge_to">Uso do app desde a última carga completa até %s</string>
-    <string name="battery_header_title_alternate">
-        ^1
-        <small>
-            <font size="20">%</font>
-        </small>
-    </string>
     <string name="battery_info_status_charging_dock">Carregando</string>
     <string name="battery_manager_app_restricted">{count, plural, =1 {# app restrito} other {# apps restritos} }</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -12045,7 +12039,6 @@ Atualizar configurações para:
     <string name="bt_hci_snoop_log_filters_dashboard_title">Filtragem de log de espionagem Bluetooth HCI</string>
     <string name="bt_leaudio_summary_V2">Desfrute de áudio de alta qualidade e baixo consumo de energia com latência reduzida</string>
     <string name="button_label_confirmation_of_system_locale_change">Mudar</string>
-    <string name="cache_db_name">app_icons.db</string>
     <string name="call_notification_answer_action">Responder</string>
     <string name="call_notification_answer_video_action">Vídeo</string>
     <string name="call_notification_decline_action">Declínio</string>
@@ -12056,7 +12049,6 @@ Atualizar configurações para:
     <string name="camera_flash_notification_title">Flash da câmera</string>
     <string name="captioning_appearance_summary">Tamanho do texto %1$s</string>
     <string name="captioning_appearance_title">Tamanho e estilo da legenda</string>
-    <string name="carrier_test">transportadora_common_dir</string>
     <string name="category_clone">Clone</string>
     <string name="cellular_network_title">Depuração de rede celular</string>
     <string name="celsius_temperature_unit">Celsius (°C)</string>
@@ -12298,17 +12290,6 @@ Atualizar configurações para:
     <string name="haptic_descripthion_for_medium_level">Médio</string>
     <string name="headset_adaptive_hearing_summary">Ajuste automaticamente o som com base no formato do seu ouvido e no ambiente</string>
     <string name="headset_adaptive_hearing_title">Som adaptativo</string>
-    <string name="heavenly_stems_bing">丙</string>
-    <string name="heavenly_stems_ding">丁</string>
-    <string name="heavenly_stems_geng">庚</string>
-    <string name="heavenly_stems_gui">癸</string>
-    <string name="heavenly_stems_ji">己</string>
-    <string name="heavenly_stems_jia">甲</string>
-    <string name="heavenly_stems_ren">壬</string>
-    <string name="heavenly_stems_wu">戊</string>
-    <string name="heavenly_stems_xin">辛</string>
-    <string name="heavenly_stems_yi">乙</string>
-    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="high_temperature_toast">"Seu dispositivo está superaquecido. Não é possível usar esse recurso agora."</string>
     <string name="hourly_battery_usage_chart">Gráfico de uso da bateria por hora</string>
     <string name="hover_mode_guide_text">Quando a tela interna está atendendo uma chamada ou reproduzindo vídeos, você pode usar o modo Hover na metade inferior da tela.</string>
@@ -12346,9 +12327,8 @@ Atualizar configurações para:
     <string name="leave_loclscreen_title">Bloquear tela ao sair</string>
     <string name="leftright_waving_summary">Ajuste o progresso da reprodução e alterne entre músicas</string>
     <string name="leftright_waving_title">Onda horizontalmente</string>
-    <string name="link_locale_picker_footer_learn_more">https://support.google.com/android?p=per_language_app_settings</string>
-    <string name="link_to_windows_setting_off">Desligado</string>
-    <string name="link_to_windows_setting_on">Sobre</string>
+    <string name="link_to_windows_setting_off">Desativado</string>
+    <string name="link_to_windows_setting_on">Ativado</string>
     <string name="link_to_windows_settings_title">Vincular ao Windows</string>
     <string name="load_error">"Não foi possível carregar"</string>
     <string name="load_esim_info">Obtendo informações do eSIM…</string>
@@ -12356,16 +12336,11 @@ Atualizar configurações para:
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="location_agps_def_network_mode">LAR</string>
     <string name="location_agps_def_reset_type">QUENTE</string>
-    <string name="location_agps_def_supl_host">221.176.0.55</string>
-    <string name="location_agps_def_supl_port">7275</string>
-    <string name="location_app_permission_summary_location_on">{count, plural, =1 {# de {total} apps têm acesso à localização} other {# de {total} apps têm acesso à localização} }</string>
-    <string name="location_settings_footer_learn_more_link">https://support.google.com/android/answer/3467281</string>
-    <string name="location_settings_summary_location_on">{count, plural, =1 {On - # app has access to location} other {On - # apps have access to location} }</string>
+    <string name="location_settings_summary_location_on">{count, plural, =1 {Ativado - # app tem acesso à localização} other {Ativado - # apps têm acesso à localização} }</string>
     <string name="location_time_zone_detection_auto_is_on">A localização pode ser usada para definir o fuso horário</string>
     <string name="location_time_zone_detection_status_summary_blocked_by_settings">Localização ou serviços de localização estão desativados</string>
     <string name="location_time_zone_detection_status_title">Não é possível definir o fuso horário automaticamente</string>
     <string name="location_time_zone_provider_fix_dialog_ok_button">Conserte isso</string>
-    <string name="lock_intro_message">Lock_intro_message</string>
     <string name="lock_password_checking">Verificando o bloqueio de tela…</string>
     <string name="lock_screen_auto_pin_confirm_summary">Desbloqueie automaticamente se você inserir um PIN correto de 6 dígitos ou mais. Isso é um pouco menos seguro do que tocar em Enter para confirmar.</string>
     <string name="lock_screen_auto_pin_confirm_title">Confirmação automática de desbloqueio</string>
@@ -12433,36 +12408,14 @@ Atualizar configurações para:
     <string name="memtag_reboot_yes">Reiniciar</string>
     <string name="memtag_title">Proteção avançada de memória beta</string>
     <string name="memtag_toggle">Proteção avançada de memória</string>
-    <string name="menu_key_about_device">top_level_about_device</string>
-    <string name="menu_key_accessibility">acessibilidade_de_nível_superior</string>
-    <string name="menu_key_accounts">contas_de_nível superior</string>
-    <string name="menu_key_apps">top_level_apps</string>
-    <string name="menu_key_battery">bateria_de_nível_superior</string>
-    <string name="menu_key_communal">top_level_communal</string>
-    <string name="menu_key_connected_devices">dispositivos_conectados_de_nível_superior</string>
-    <string name="menu_key_display">exibição_de_nível_superior</string>
-    <string name="menu_key_emergency">nível_superior_emergência</string>
-    <string name="menu_key_location">top_level_location</string>
-    <string name="menu_key_network">rede_de_nível_superior</string>
-    <string name="menu_key_notifications">notificações_de_nível_superior</string>
-    <string name="menu_key_privacy">privacidade_de_nível_superior</string>
-    <string name="menu_key_safety_center">top_level_safety_center</string>
-    <string name="menu_key_security">segurança_de_nível_superior</string>
-    <string name="menu_key_sound">som_de_nível_superior</string>
-    <string name="menu_key_storage">armazenamento_de_nível_superior</string>
-    <string name="menu_key_support">suporte_de_nível_superior</string>
-    <string name="menu_key_system">sistema_de_nível_superior</string>
     <string name="menu_key_wallpaper">papel de parede de nível superior</string>
     <string name="miheadset_slide_left_temple_back_forward">Deslize para a esquerda na têmpora</string>
     <string name="miheadset_slide_right_temple_back_forward">Deslize a têmpora para a direita</string>
-    <string name="miui_cta_privacy">开启隐私测试模式</string>
-    <string name="miui_desktop_mode_settings">工作台模式</string>
     <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Cancelar</string>
     <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">"Para obter melhores resultados ao usar o Desbloqueio facial, não permita que seu dispositivo ajuste o brilho da tela automaticamente"</string>
     <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">OK</string>
     <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Desbloqueio facial</string>
     <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">"O brilho da tela não será ajustado automaticamente"</string>
-    <string name="miui_keyboard_back_light">nulo</string>
     <string name="miui_sos_focus_notification_ticker">SOS de emergência ativado</string>
     <string name="miui_tof_screen_on_close_switch_dialog_msg">Ative \"%s\" para poder usar esse recurso normalmente. Você pode ativar esse recurso em Configurações.</string>
     <string name="miui_tof_screen_on_close_switch_dialog_positive">Configurações</string>
@@ -12498,14 +12451,6 @@ Atualizar configurações para:
     <string name="more_connection">Mais opções de conectividade</string>
     <string name="more_security_privacy_settings">Mais segurança e privacidade</string>
     <string name="more_volume_settings">Ajuste de volume</string>
-    <string name="mtrl_switch_thumb_group_name">círculo_grupo</string>
-    <string name="mtrl_switch_thumb_path_checked">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
-    <string name="mtrl_switch_thumb_path_morphing">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
-    <string name="mtrl_switch_thumb_path_name">círculo</string>
-    <string name="mtrl_switch_thumb_path_pressed">M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16</string>
-    <string name="mtrl_switch_thumb_path_unchecked">M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16</string>
-    <string name="mtrl_switch_track_decoration_path">M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
-    <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
     <string name="mtrl_timepicker_cancel">Cancelar</string>
     <string name="multi_music_coexistence_summary">"Não ajuste o volume da mídia durante notificações recebidas ou enquanto o áudio de outra fonte estiver sendo reproduzido"</string>
     <string name="multi_music_coexistence_title">Múltiplas fontes de áudio</string>
@@ -12559,10 +12504,6 @@ Atualizar configurações para:
     <string name="palm_circle_summary">Atender ou encerrar chamadas transferidas para o tablet</string>
     <string name="palm_circle_title">Desenhar um círculo</string>
     <string name="password_check_fail">A entrada do código de verificação é erro e não pode ser ouvido</string>
-    <string name="path_password_eye">M12,4,5C7,4,5 2,73,7,61 1,12c1,73,4,39 6,7,5 11,7,5s9,27,-3,11 11,-7,5c-1,73,-4,39 -6,-7,5 -11,-7,5zM12, 17c-2,76,0 -5,-2,24 -5,-5s2,24,-5 5,-5 5,2,24 5,5 -2,24,5 -5,5zM12,9c-1,66,0 -3,1,34 -3 ,3s1,34,3 3,3 3,-1,34 3,-3 -1,34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4,27 L19,73,22 L22,27,19,46 L4,54,1,73 L4,54,1 L23,1 L23,23 L1,23 L1,4,27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4,27 L2,4,27 L4,54,1,73 L4,54,1,73 L4,54,1 L23,1 L23,23 L1,23 L1,4,27 Z</string>
-    <string name="path_password_strike_through">M3.27,4,27 L19,74,20,74</string>
     <string name="pc_install_manager">Instalar via USB</string>
     <string name="permit_full_screen_intent">Permitir notificações em tela cheia deste app</string>
     <string name="please_connect_to_the_network">Conecte-se ao Wi-Fi ou aos dados móveis para concluir a limpeza dos dados do eSIM.</string>
@@ -12570,8 +12511,8 @@ Atualizar configurações para:
     <string name="please_stop_broadcast_audio">Termine de transmitir o áudio local primeiro</string>
     <string name="please_stop_listen_broadcast_audio">Por favor, termine de ouvir a transmissão atual</string>
     <string name="power_charging_future_paused">%1$s – Carregamento otimizado</string>
-    <string name="power_cpu">CPU</string>
-    <string name="power_gps">GPS</string>
+    <string name="power_cpu">"CPU"</string>
+    <string name="power_gps">"GPS"</string>
     <string name="power_menu_long_press_category_title">Pressione e segure o botão liga / desliga para acessar</string>
     <string name="power_menu_long_press_for_assistant_title">Assistente digital</string>
     <string name="power_menu_long_press_for_power_menu_title">Menu de energia</string>
@@ -12589,15 +12530,11 @@ Atualizar configurações para:
     <string name="privacy_input_mode_img_detail">Funciona com teclados autorizados pela Xiaomi</string>
     <string name="private_dns_mode_provider_custom_name">Nome personalizado</string>
     <string name="private_dns_mode_provider_exposed_hostname">Detectável</string>
-    <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
-    <string name="qtifeedback_intent_action">com.qti.smq.snapdragonConfigurações</string>
-    <string name="qtifeedback_package">com.qti.smq.Feedback</string>
     <string name="range_end">Fim do intervalo</string>
     <string name="range_start">Início do intervalo</string>
     <string name="reboot_dialog_enable_angle_as_system_driver">É necessária uma reinicialização para alterar o driver OpenGL ES do sistema</string>
     <string name="reboot_with_mte_already_enabled">MTE já está ativado</string>
     <string name="reboot_with_mte_summary">Reinicie para uma única sessão com MTE ativado</string>
-    <string name="regional_pref_footer_learn_more_link">https://support.google.com/android?p=regional_preferences</string>
     <string name="regional_preferences_main_page_sub_title">Informe aos apps suas preferências regionais para que possam personalizar sua experiência.</string>
     <string name="regional_preferences_option_page_sub_title">Os apps usarão suas preferências regionais sempre que possível.</string>
     <string name="regional_preferences_summary">Definir unidades e preferências numéricas</string>
@@ -12620,7 +12557,6 @@ Atualizar configurações para:
     <string name="restricted_app_summary">{count, plural, =1 {Limitando o uso da bateria para # app} other {Limitando o uso da bateria para # apps} }</string>
     <string name="rhythmic_mode_enable_summary">Obtenha o conforto ideal ajustando as cores automaticamente com base nos tipos de apps e nos horários do nascer/pôr do sol</string>
     <string name="rhythmic_mode_enable_title">Ciclo</string>
-    <string name="ring_to_you_address">http://ringtoyou.kt.com</string>
     <string name="runtime_permissions_additional_count">{count, plural, =1 {# permissão adicional} other {# permissões adicionais} }</string>
     <string name="saturday_first_day_of_week">Sábado</string>
     <string name="screen_dark_mode_time_summary">Seu dispositivo mudará para o modo escuro próximo ao horário programado quando você desligar a tela</string>
@@ -12866,15 +12802,11 @@ Atualizar configurações para:
     <string name="user_revoke_admin_confirm_title">Remover privilégios de administrador?</string>
     <string name="uwb_settings_summary_no_uwb_regulatory">UWB não está disponível no local atual</string>
     <string name="valid_net_access">Ver credenciais de acesso à rede</string>
-    <string name="valid_net_ok">OK</string>
+    <string name="valid_net_ok">"OK"</string>
     <string name="valid_net_result_fail">"Não foi possível obter informações. Espere um ou dois minutos e tente novamente."</string>
     <string name="valid_net_result_title">Resultado</string>
-    <string name="view_face_privacy_policy">
-        <Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/&gt;\"Declaração de privacidade de dados faciais &amp;#038; bloqueio de tela\"&lt;/a&gt; antes de continuar.</Data>
-    </string>
-    <string name="view_fingerprint_privacy_policy">
-        <Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/&gt;\"Declaração de privacidade de impressões digitais &amp;#038; bloqueio de tela\"&lt;/a&gt; antes de continuar.</Data>
-    </string>
+    <string name="view_face_privacy_policy"><Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/&gt;\"Declaração de privacidade de dados faciais e;#038; bloqueio de tela\"&lt;/a&gt; antes de continuar.</Data></string>
+    <string name="view_fingerprint_privacy_policy"><Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/&gt;\"Declaração de privacidade de impressões digitais e;#038; bloqueio de tela\"&lt;/a&gt; antes de continuar.</Data></string>
     <string name="volume_key_launch_camera">Câmera Aberta</string>
     <string name="volume_key_launch_camera_and_take_photo">Tirar fotos</string>
     <string name="wednesday_first_day_of_week">Quarta-feira</string>
@@ -12894,13 +12826,12 @@ Atualizar configurações para:
     <string name="wifi_hotspot_speed_category">Frequência preferida</string>
     <string name="wifi_hotspot_speed_footer">"Se a sua frequência preferida não estiver disponível, o seu hotspot poderá usar uma frequência diferente. As configurações de segurança do ponto de acesso podem mudar se você alterar a frequência."</string>
     <string name="wifi_hotspot_speed_intro">Escolha uma frequência para o seu hotspot. A frequência afeta a velocidade da conexão e os tipos de dispositivos que podem encontrar seu hotspot.</string>
-    <string name="wifi_hotspot_speed_summary_2g">2,4 GHz / Compatível com a maioria dos dispositivos</string>
-    <string name="wifi_hotspot_speed_summary_2g_and_5g">2,4 e 5 GHz / Compatível com a maioria dos dispositivos</string>
-    <string name="wifi_hotspot_speed_summary_5g">5 GHz / Compatível com muitos dispositivos</string>
-    <string name="wifi_hotspot_speed_summary_6g">6 GHz / Compatível com poucos dispositivos</string>
+    <string name="wifi_hotspot_speed_summary_2g">2,4 GHz | Compatível com a maioria dos dispositivos</string>
+    <string name="wifi_hotspot_speed_summary_2g_and_5g">2,4 e 5 GHz | Compatível com a maioria dos dispositivos</string>
+    <string name="wifi_hotspot_speed_summary_5g">5 GHz | Compatível com muitos dispositivos</string>
+    <string name="wifi_hotspot_speed_summary_6g">6 GHz | Compatível com poucos dispositivos</string>
     <string name="wifi_hotspot_speed_summary_unavailable">Não disponível em seu país ou região</string>
     <string name="wifi_hotspot_speed_title">Velocidade e compatibilidade</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_repair_action_btn">Restaurar</string>
     <string name="wifi_repair_btn_confirm">confirme</string>
     <string name="wifi_repair_btn_no">Não</string>
