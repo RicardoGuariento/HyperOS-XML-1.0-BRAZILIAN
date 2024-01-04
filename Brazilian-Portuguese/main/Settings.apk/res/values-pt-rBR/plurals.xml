@@ -297,6 +297,11 @@
         <item quantity="other">Aguarde por %d segundos e tente novamente.</item>
         <item quantity="one">Aguarde por %d segundo e tente novamente.</item>
     </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="zero">Nenhum</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d apps podem ler notificações</item>
         <item quantity="one">%d app pode ler notificações</item>
@@ -364,6 +369,10 @@
     <plurals name="notifications_sent_weekly">
         <item quantity="other">Cerca de ~%d notificações por semana</item>
         <item quantity="one">~%d notificação por semana</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">As alterações serão aplicadas em %d segundos</item>
+        <item quantity="one">As alterações serão aplicadas em %d segundo</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>

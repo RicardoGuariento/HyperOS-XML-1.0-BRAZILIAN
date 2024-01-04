@@ -386,6 +386,11 @@
         <item>" | Ativo (mídia)"</item>
         <item>" | Ativo (telefone)"</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>Usar app padrão</item>
+        <item>Reproduzir no aparelho auditivo</item>
+        <item>Reproduzir no alto-falante do telefone</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.5 (Padrão)</item>
         <item>AVRCP 1.3</item>
@@ -423,6 +428,17 @@
         <item>Cabeçalhos filtrados ativado</item>
         <item>Pacotes de mídia filtrados ativado</item>
         <item>Perfis filtrados ativado</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Deixe apenas cabeçalhos ACL</item>
+        <item>Filtrar pacotes de mídia A2DP</item>
+        <item>Filtrar canal RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Desativar</item>
+        <item>Preencha com sequência de caracteres</item>
+        <item>Deixe apenas o cabeçalho</item>
+        <item>Remover totalmente</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -895,6 +911,15 @@
         <item>Grande</item>
         <item>Maior</item>
     </string-array>
+    <string-array name="first_day_of_week">
+        <item>padrão</item>
+        <item>dom</item>
+        <item>seg</item>
+        <item>ter</item>
+        <item>qua</item>
+        <item>qui</item>
+        <item>sex</item>
+        <item>sáb</item>
     <string-array name="fluency_mode_confirms">
         <item>Reiniciar seu dispositivo para aplicar esta configuração?</item>
         <item>Reiniciar seu dispositivo para aplicar esta configuração?</item>
@@ -1067,6 +1092,14 @@ Atenção!: Apenas para Ubuntu 8.04!"</item>
         <item>A rede está lenta devido ao alto tráfego de dados</item>
         <item>A rede está lenta devido à força do sinal estar fraca</item>
         <item>Movendo…</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_summaries">
+        <item>Cartões de pagamento, acesso e casa inteligente</item>
+        <item>Pareamento Bluetooth, conexão sem fio e cartões domésticos inteligentes</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+        <item>Todos os cartões</item>
+        <item>Cartões reconhecidos pelo sistema</item>
     </string-array>
     <string-array name="nfc_payment_favor">
         <item>Sempre</item>
@@ -1279,6 +1312,18 @@ Atenção!: Apenas para Ubuntu 8.04!"</item>
         <item>Nunca permitir</item>
         <item>Sempre permitir</item>
     </string-array>
+    <string-array name="select_gpo_version_summaries">
+        <item>Desativado</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
+    <string-array name="select_gpo_version_titles">
+        <item>Desativado</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desativado</item>
         <item>64KB</item>
@@ -1349,6 +1394,11 @@ Atenção!: Apenas para Ubuntu 8.04!"</item>
     <string-array name="status_bar_settings_qs_layout_entries">
         <item>Padrão</item>
         <item>Compacto</item>
+    </string-array>
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
+        <item>Nunca</item>
+        <item>Após 1 minuto</item>
+        <item>Após 5 minutos</item>
     </string-array>
     <string-array name="switch_to_user_zero_when_docked_timeout_entries">
         <item>Nunca</item>
@@ -1439,6 +1489,12 @@ Atenção!: Apenas para Ubuntu 8.04!"</item>
         <item>Padrão</item>
         <item>Tocar</item>
         <item>Toque direto</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mova para a esquerda</item>
+        <item>Mova para baixo</item>
+        <item>Mova para a direita</item>
+        <item>Mova para cima</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>"GSM"</item>
