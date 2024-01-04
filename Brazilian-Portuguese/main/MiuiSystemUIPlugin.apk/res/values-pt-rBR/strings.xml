@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="accessibility_airplane_mode">Modo avião.</string>
+    <string name="accessibility_airplane_mode">Modo avião</string>
     <string name="accessibility_back">Voltar</string>
     <string name="accessibility_brightness">Brilho da tela</string>
     <string name="accessibility_desc_add">Adicionar</string>
@@ -235,8 +235,8 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="miui_dnd_count_down">Deslize para definir o timer</string>
     <string name="miui_dnd_count_down_time">"Timer do Não perturbe
 %s"</string>
-    <string name="miui_dnd_mode_off">Não perturbe desativado</string>
-    <string name="miui_dnd_mode_on">Não perturbe ativado</string>
+    <string name="miui_dnd_mode_off">Ininterrupção inativa</string>
+    <string name="miui_dnd_mode_on">Ininterrupção ativa</string>
     <string name="miui_guide_dialog_button_negative_text">Configurações</string>
     <string name="miui_guide_dialog_button_positive_text">Entendi</string>
     <string name="miui_guide_dialog_message">Sons de mídia (música, vídeos, etc.) ainda serão reproduzidos no Modo silencioso. Você pode alterar isto nas Configurações.</string>
@@ -248,8 +248,8 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="miui_ringer_total">Não perturbe</string>
     <string name="miui_ringer_total_description">Silencie os sons e desative a vibração para todos os itens, exceto o alarme</string>
     <string name="miui_screen_rotation_freeze_message">Orientação da tela bloqueada em modo paisagem</string>
-    <string name="miui_silent_mode_off">Modo silencioso desativado</string>
-    <string name="miui_silent_mode_on">Modo silencioso ativado</string>
+    <string name="miui_silent_mode_off">Sons ativados</string>
+    <string name="miui_silent_mode_on">Sons desativados</string>
     <string name="miui_toast_zen_dnd_to_off">Sons de chamadas e notificações foram reativados</string>
     <string name="miui_toast_zen_dnd_to_off_T">As notificações não serão mais silenciadas</string>
     <string name="miui_toast_zen_standard_to_off">Modo silencioso desativado</string>
