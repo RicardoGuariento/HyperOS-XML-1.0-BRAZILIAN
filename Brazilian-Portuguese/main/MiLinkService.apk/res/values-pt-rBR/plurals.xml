@@ -74,4 +74,8 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">%1$d padrões lembrados</item>
+        <item quantity="one">%1$d padrão lembrado</item>
+    </plurals>
 </resources>
