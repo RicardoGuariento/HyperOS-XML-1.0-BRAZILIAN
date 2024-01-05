@@ -2527,7 +2527,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="change_security_lock">Tente outros métodos de desbloqueio</string>
     <string name="change_storage">Alterar armazenamento</string>
     <string name="change_theme_reboot">Alterar o tema requer um reinício.</string>
-    <string name="change_wifi_state_app_detail_summary">Permite que este app ative ou desative o Wi-Fi, verifique redes Wi-Fi e conecte-se a elas, adicione ou remova redes ou inicie um hotspot somente local</string>
+    <string name="change_wifi_state_app_detail_summary">Permite que este app ative ou desative o Wi-Fi, verifique redes Wi-Fi e conecte-se a elas, adicione ou remova redes ou inicie um hotspot somente local.</string>
     <string name="change_wifi_state_app_detail_switch">Permitir que o app controle o Wi-Fi</string>
     <string name="change_wifi_state_title">Controle do Wi-Fi</string>
     <string name="channel_group_notifications_off_desc">Conforme sua solicitação, o Android está impedindo que este grupo de notificações seja exibido neste dispositivo</string>
@@ -4455,7 +4455,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
 "</string>
     <string name="font_size_summary1">"Se o tamanho dos textos do sistema ainda está pequeno, experimente o "</string>
     <string name="font_size_summary2">Modo simplificado</string>
-    <string name="footer_description_full_screen_intent">Permitir que este app mostre notificações que ocupam tela inteira quando o dispositivo está bloqueado. Os apps podem usá-los para destacar alarmes, chamadas recebidas ou outras notificações urgentes.</string>
+    <string name="footer_description_full_screen_intent">Permitir que este app exiba notificações que ocupam a tela inteira quando o dispositivo está bloqueado. O app pode usar notificações em tela inteira para exibir alarmes, chamadas recebidas ou outras notificações urgentes. Esta configuração depende da permissão para abrir novas janelas durante a execução em segundo plano e só pode ser usada quando essa permissão for concedida.</string>
     <string name="footer_learn_more_content_description">Aprender mais sobre %1$s</string>
     <string name="for_diagnosis_usage_only">Use esta informação apenas para diagnóstico.</string>
     <string name="forbidden_network">(proibida)</string>
