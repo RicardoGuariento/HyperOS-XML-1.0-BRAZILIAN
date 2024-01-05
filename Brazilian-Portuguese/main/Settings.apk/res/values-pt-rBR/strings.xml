@@ -12556,7 +12556,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_mode_bypassing_apps_header">Apps que podem interromper</string>
     <string name="zen_mode_bypassing_apps_none">Nenhum app selecionado</string>
     <string name="zen_mode_bypassing_apps_some_summary">Algumas notificações</string>
-    <string name="zen_mode_bypassing_apps_subtext">{count, plural, offset:2 =0 {Nenhum app pode interromper} =1 {{app_1} pode interromper} =2 {{app_1} e {app_2} podem interromper} =3 {{app_1}, {app_2} e {app_3} podem interromper} other {{app_1}, {app_2}, e mais # podem interromper} }</string></string>
+    <string name="zen_mode_bypassing_apps_subtext">{count, plural, offset:2 =0 {Nenhum app pode interromper} =1 {{app_1} pode interromper} =2 {{app_1} e {app_2} podem interromper} =3 {{app_1}, {app_2} e {app_3} podem interromper} other {{app_1}, {app_2}, e mais # podem interromper} }</string>
     <string name="zen_mode_bypassing_apps_subtext_none">Nenhum app pode interromper</string>
     <string name="zen_mode_bypassing_apps_summary_all">Todas as notificações</string>
     <string name="zen_mode_bypassing_apps_summary_some">Algumas notificações</string>
