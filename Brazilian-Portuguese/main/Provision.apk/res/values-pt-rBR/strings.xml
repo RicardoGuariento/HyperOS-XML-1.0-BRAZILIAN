@@ -53,6 +53,8 @@
     <string name="album_introduction">A Galeria permite que você gerencie, otimize e edite fotos e vídeos no seu dispositivo, bem como sincronizá-las com a MiCloud.</string>
     <string name="am">"AM"</string>
     <string name="app_name">Configuração inicial</string>
+    <string name="application_extension_service">Serviços de extensão de app</string>
+    <string name="application_extension_service_introduction">Os serviços de extensão de app fornecerão recursos de login e verificação. Para fornecer serviços básicos, este app precisa das seguintes permissões:</string>
     <string name="application_package_introduction">Este app permite que você instale apps de terceiros, verificando-os antes de instalá-los, e dando recomendações após as instalações.</string>
     <string name="application_permissions">Permissões do app</string>
     <string name="aquire_device_info">Acessar informações do dispositivo</string>
@@ -488,6 +490,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_make_a_call">Fazer chamadas</string>
     <string name="permission_make_a_call_fast_application_summary">Para permitir que apps façam chamadas;</string>
     <string name="permission_message_introduction">Para enviar mensagens a contatos bloqueados</string>
+    <string name="permission_not_agree_service_not_working">"Se você não concordar com as permissões exigidas acima mencionadas, não poderá usar este serviço."</string>
     <string name="permission_phone_imei_device">Para acessar o IMEI para identificar dispositivos</string>
     <string name="permission_phone_network">Para acessar o tipo de rede para otimizar e ajustar itens baixáveis</string>
     <string name="permission_phone_service">Acessar o número do telefone, do IMEI e IMSI</string>
@@ -532,6 +535,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_recording_introduction">Para gravar áudio durante a gravação de vídeos</string>
     <string name="permission_screen_shoot_introduction">Para acessar e salvar gravações de tela</string>
     <string name="permission_send_message">Enviar SMS</string>
+    <string name="permission_sms_verification_code_login">Para fornecer verificação por SMS para rápido login</string>
     <string name="permission_use_camera">Acessar câmera</string>
     <string name="permission_use_camera_camera_summary">Para tirar fotos, gravar vídeos e usar o flash</string>
     <string name="permission_use_camera_desktop_summary">Para determinar se deve ser compatível com o recurso da lanterna</string>
@@ -570,6 +574,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="provision_next">Avançar</string>
     <string name="provision_skip_underline">Pular</string>
     <string name="read_application_info">Acessar informações do app</string>
+    <string name="read_sms_and_mms">Acessar SMS e MMS</string>
     <string name="recorder_introduction">Você pode usar este app para gravar áudio e fazer o backup dessas gravações para a nuvem.</string>
     <string name="refuse_cookie">Recusar cookies</string>
     <string name="require_authority_list_statement">Para funcionar normalmente, este serviço requer as seguintes permissões:</string>
