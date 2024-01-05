@@ -1316,6 +1316,11 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="sunrise_time_format">Nascer do sol %s</string>
+    <string name="sunrise_time_format_desc">Hora do nascer do sol: %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">"Nascer do sol de amanhã: %s"</string>
+    <string name="sunset_time_format">Pôr do sol %s</string>
+    <string name="sunset_time_format_desc">Hora do pôr do sol: %s</string>
     <string name="super_wallpaper">Super plano de fundo</string>
     <string name="super_wallpaper_dialog_content">A Economia de bateria desativará os recursos dinâmicos dos planos de fundo.</string>
     <string name="super_wallpaper_list_footer_text">Aguarde pelo os nossos novos lançamentos!</string>
