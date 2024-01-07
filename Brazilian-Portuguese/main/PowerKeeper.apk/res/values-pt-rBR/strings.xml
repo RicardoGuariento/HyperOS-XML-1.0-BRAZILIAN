@@ -149,16 +149,17 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="high_temp_benchmark_state">Superaquecimento</string>
     <string name="high_temp_benchmark_state_message">"Parece que este dispositivo está muito quente agora, use este app após o seu dispositivo esfriar: "</string>
     <string name="high_temp_state">Superaquecendo</string>
-    <string name="high_temp_state_message">Seu dispositivo está superaquecendo. Os dados móveis, pontos de acesso Wi-Fi, GPS e câmera serão restringidos.</string>
+    <string name="high_temp_state_message">"Seu dispositivo está superaquecendo.
+Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="high_temp_state_message_orange_es">Para melhorar o desempenho do dispositivo, alguns apps foram desativados temporariamente.</string>
     <string name="hints_loading_text">Aguarde…</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="important_warning">Atenção!</string>
     <string name="insert_data">Inserir dados</string>
     <string name="item_view_role_description">Guia</string>
-    <string name="kill_all_back_pro_toast_message">Seu dispositivo está superaquecido. Todos os apps em execução em segundo plano foram fechados por enquanto</string>
+    <string name="kill_all_back_pro_toast_message">Seu dispositivo está superaquecido. Todos os apps em execução em segundo plano foram encerrados</string>
     <string name="kill_pkg_toast_message">Seu dispositivo está superaquecendo e o app será encerrado</string>
-    <string name="kill_some_back_pro_toast_message">Seu dispositivo está superaquecido. Alguns apps em execução em segundo plano foram fechados por enquanto</string>
+    <string name="kill_some_back_pro_toast_message">Seu dispositivo está superaquecido. Alguns apps em execução em segundo plano foram encerrados</string>
     <string name="lasttime_applist_cloud">Apps atualizados:</string>
     <string name="lasttime_feature_cloud">Recursos atualizados:</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>

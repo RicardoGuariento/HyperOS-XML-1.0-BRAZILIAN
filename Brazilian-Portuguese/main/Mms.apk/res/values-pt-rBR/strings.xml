@@ -779,7 +779,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="perm_purpose_rcs_account">Para exibir o guia rápido para novos usuários</string>
     <string name="perm_purpose_rcs_phone_state">Para acessar o IMEI para identificar o seu dispositivo</string>
     <string name="perm_purpose_rcs_storage">Para salvar imagens, vídeos, arquivos e outros anexos do RCS</string>
-    <string name="permission_new_retry_dialog_msg">O serviço de mensagens precisa acessar os contatos para funcionar normalmente. Você pode alterar as permissões em Configurações > Apps > Configurações de apps do sistema.</string>
+    <string name="permission_new_retry_dialog_msg">O serviço de mensagens precisa acessar os contatos para funcionar normalmente. Você pode alterar as permissões em Configurações > Apps > Configurar Apps do sistema.</string>
     <string name="permission_retry_deny">Cancelar</string>
     <string name="permission_retry_dialog_msg">O app Mensagens necessita de permissões para poder funcionar corretamente. Para permitir, toque em \"Configurações\", selecione \"Permissões do app\", e permita o acesso as seguintes permissões: telefone, SMS e contatos.</string>
     <string name="permission_retry_setting">Configurações</string>

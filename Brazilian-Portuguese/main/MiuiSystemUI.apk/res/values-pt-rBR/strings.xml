@@ -1035,7 +1035,7 @@ Use-a ou digite seu PIN para desbloquear o dispositivo."</string>
     <string name="fingerprint_dialog_use_fingerprint">Use sua impressão digital para continuar</string>
     <string name="fingerprint_dialog_use_fingerprint_instead">Não consigo reconhecer o rosto. Em vez disso, use a impressão digital.</string>
     <string name="fingerprint_enter_second_psw_msg">Insira a senha do Segundo espaço após reiniciar o dispositivo para usar o desbloqueio por impressão digital</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo espaço usando o Modo simplificado</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo espaço usando o Modo simples</string>
     <string name="fingerprint_enter_second_psw_title">Insira a senha do Segundo espaço</string>
     <string name="fingerprint_not_identified_msg">Muitas tentativas incorretas. Insira a senha agora ou tente usar a impressão digital em alguns segundos.</string>
     <string name="fingerprint_not_identified_msg_lock">Muitas tentativas incorretas. Insira a senha agora.</string>
@@ -3752,10 +3752,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
 	<string name="weather_no_data">Não há dados meteorológicos</string>
 	<string name="wifi_empty_list_wifi_on">Procurando redes…</string>
 	<string name="wifi_failed_connect_message">Falha ao conectar-se à rede</string>
-	<string name="wifi_scan_notify_message">
-		Para melhorar a experiência do dispositivo, os aplicativos e serviços ainda podem procurar redes Wi-Fi a qualquer momento, mesmo quando o Wi-Fi estiver desligado. Você pode alterar isso nas configurações de verificação de Wi-Fi.
-		<annotation id="link">Mudar</annotation>
-	</string>
+	<string name="wifi_scan_notify_message">Para melhorar a experiência do dispositivo, os aplicativos e serviços ainda podem procurar redes Wi-Fi a qualquer momento, mesmo quando o Wi-Fi estiver desligado. Você pode alterar isso nas configurações de verificação de Wi-Fi. <annotation id="link">Mudar</annotation></string>
 	<string name="wifi_unavailable_dream_overlay_content_description">Wi-Fi não disponível</string>
 	<string name="wifi_wont_autoconnect_for_now">O Wi-Fi não se conectará automaticamente por enquanto</string>
 	<string name="wifitrackerlib_admin_restricted_network">Não permitido pela sua organização</string>

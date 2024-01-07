@@ -3294,7 +3294,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="default_input_method">Selecionar teclado padrão</string>
     <string name="default_keyboard">Padrão</string>
     <string name="default_keyboard_layout">Padrão</string>
-    <string name="default_launcher_set_jeejen_message">Pressione o botão Início para configurar o Modo simplificado</string>
+    <string name="default_launcher_set_jeejen_message">Pressione o botão Início para configurar o Modo simples</string>
     <string name="default_launcher_set_system_message">Pressione o botão Início para restaurar o launcher padrão</string>
     <string name="default_launcher_title">Launcher padrão</string>
     <string name="default_map_app_title">App Mapa</string>
@@ -3774,9 +3774,9 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
 Você pode ver os logs gerados no app Arquivos."</string>
     <string name="dump_log_title">Sobre este recurso</string>
     <string name="early_morning">"AM"</string>
-    <string name="easymode_hint">Toque para desativar o Modo simplificado</string>
+    <string name="easymode_hint">Toque para desativar o Modo simples</string>
     <string name="easymode_hint_summary">Toque para desativar</string>
-    <string name="easymode_hint_title">Modo lite ativado</string>
+    <string name="easymode_hint_title">Modo simples ativado</string>
     <string name="edge_mode_back">Voltar</string>
     <string name="edge_mode_back_summary">Toque duas vezes na borda do telefone para voltar</string>
     <string name="edge_mode_clean">Limpar memória</string>
@@ -4454,7 +4454,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
 
 "</string>
     <string name="font_size_summary1">"Se o tamanho dos textos do sistema ainda está pequeno, experimente o "</string>
-    <string name="font_size_summary2">Modo simplificado</string>
+    <string name="font_size_summary2">Modo simples</string>
     <string name="footer_description_full_screen_intent">Permitir que este app exiba notificações que ocupam a tela inteira quando o dispositivo está bloqueado. O app pode usar notificações em tela inteira para exibir alarmes, chamadas recebidas ou outras notificações urgentes. Esta configuração depende da permissão para abrir novas janelas durante a execução em segundo plano e só pode ser usada quando essa permissão for concedida.</string>
     <string name="footer_learn_more_content_description">Aprender mais sobre %1$s</string>
     <string name="for_diagnosis_usage_only">Use esta informação apenas para diagnóstico.</string>
@@ -7478,15 +7478,15 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="ok">"OK"</string>
     <string name="ok_rules">Concluído</string>
     <string name="okay">"OK"</string>
-    <string name="oldman_app_label">Modo simplificado</string>
+    <string name="oldman_app_label">Modo simples</string>
     <string name="oldman_installed_current_btn">Restaurar Tela inicial original</string>
-    <string name="oldman_installed_current_des">Você definiu o Modo simplificado como a sua Tela inicial padrão. Toque no botão abaixo para voltar para a Tela inicial original.</string>
+    <string name="oldman_installed_current_des">Você definiu o Modo simples como a sua Tela inicial padrão. Toque no botão abaixo para voltar para a Tela inicial original.</string>
     <string name="oldman_installed_not_current_btn">Definir como Tela inicial padrão</string>
-    <string name="oldman_installed_not_current_des">O Modo simplificado está instalado no seu dispositivo. Você pode usá-lo como sua Tela inicial padrão.</string>
-    <string name="oldman_mode_entry_name">Modo simplificado</string>
-    <string name="oldman_mode_settings">Modo simplificado</string>
+    <string name="oldman_installed_not_current_des">O Modo simples está instalado no seu dispositivo. Você pode usá-lo como sua Tela inicial padrão.</string>
+    <string name="oldman_mode_entry_name">Modo simples</string>
+    <string name="oldman_mode_settings">Modo simples</string>
     <string name="oldman_uninstalled_btn">Instalar</string>
-    <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua Tela inicial simples e minimalista.</string>
+    <string name="oldman_uninstalled_des">O Modo simples remove alguns itens visuais e mantém a sua Tela inicial simples e minimalista.</string>
     <string name="on">Ativado</string>
     <string name="on_device_recognition_settings">Configurações de reconhecimento no dispositivo</string>
     <string name="on_device_recognition_settings_summary">Reconhecimento de fala no dispositivo</string>
@@ -8936,7 +8936,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_nfc_se_route_title">Posição do elemento de segurança</string>
     <string name="search_notification_sound_title">Toque padrão de notificações;toque de notificação;toque de notificações</string>
     <string name="search_ntts_settings_title">TTS;Configurações de TTS</string>
-    <string name="search_oldman_mode_entry_name">Modo Simplificado;Modo simples;Modo lite</string>
+    <string name="search_oldman_mode_entry_name">Modo Simplificado;Modo simples;Modo Lite</string>
     <string name="search_onekey_migrate">Transferência;Mi Mover;Telefone antigo;Novo telefone;Transferir arquivos</string>
     <string name="search_other_advanced_settings">Configurações adicionais;Mais configurações</string>
     <string name="search_other_settings_sync_settings">Sincronizar;Automático;Apenas Wi-Fi</string>
@@ -9397,7 +9397,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="services_subtitle">Serviços</string>
     <string name="set_data_limit">Definir limite de dados</string>
     <string name="set_data_warning">Definir alerta de uso de dados</string>
-    <string name="set_jeejen_prompt_message">O Modo simplificado será definido como seu launcher padrão. Você pode alterar o launcher padrão em Configurações > Configurações do sistema > Tela inicial e Recentes > Launcher padrão.</string>
+    <string name="set_jeejen_prompt_message">O Modo simples será definido como seu launcher padrão. Você pode alterar o launcher padrão em Configurações > Configurações do sistema > Tela inicial e Recentes > Launcher padrão.</string>
     <string name="set_jeejen_prompt_title">Confirmar alterações</string>
     <string name="set_screen_paper_mode">Modo leitura</string>
     <string name="set_shoulder_key_shortcut_checkbox_message">Não mostrar novamente</string>
@@ -10454,7 +10454,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="system_alert_window_summary">%1$d de %2$d apps têm permissão para serem sobrepostos a outros apps</string>
     <string name="system_and_device_section_title">Configurações do sistema</string>
     <string name="system_app">(Sistema)</string>
-    <string name="system_app_settings">Apps do sistema</string>
+    <string name="system_app_settings">Configurar Apps do sistema</string>
     <string name="system_apps_updater">Atualização de apps do sistema</string>
     <string name="system_backup_section_title">Backups do sistema</string>
     <string name="system_backup_section_title_new">"Local"</string>

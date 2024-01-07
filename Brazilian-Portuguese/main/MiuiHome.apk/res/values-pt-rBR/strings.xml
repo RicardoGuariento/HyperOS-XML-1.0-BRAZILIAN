@@ -88,7 +88,7 @@
     <string name="all_apps_setting_drawer_tips_desc">A Gaveta de apps é aberta ao deslizar para cima na Tela inicial. Alternar para o modo de Tela inicial com a Gaveta de apps fará com que a Central de Conteúdo fique indisponível. Alternar mesmo assim?</string>
     <string name="all_apps_setting_drawer_tips_title">Usando a Gaveta de apps</string>
     <string name="all_apps_setting_drawer_title">Com gaveta de apps</string>
-    <string name="all_apps_setting_jeejen_title">Modo lite</string>
+    <string name="all_apps_setting_jeejen_title">Modo simples</string>
     <string name="all_apps_setting_letter_scrollbar">"A-Z"</string>
     <string name="all_apps_setting_original_scrollbar">Layout original</string>
     <string name="all_apps_setting_scroll_bar">Barra de rolagem</string>
@@ -266,8 +266,8 @@
     <string name="copy">Copiar</string>
     <string name="current_preview">Pré-visualizar</string>
     <string name="current_wallpaper">Atual</string>
-    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para fazer chamadas a contatos de emergência no Modo lite</string>
-    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Para exibir contatos de emergência no Modo lite</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para fazer chamadas a contatos de emergência no Modo simples</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Para exibir contatos de emergência no Modo simples</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Para exibir o status do dispositivo</string>
     <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Para exibir widgets da agenda</string>
     <string name="custom_define_permission_desc_android.permission_group.CAMERA">Para exibir widgets da Galeria</string>

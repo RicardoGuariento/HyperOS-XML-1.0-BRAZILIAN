@@ -446,6 +446,8 @@
     <string name="app_classification_search_hint">Pesquisar apps</string>
     <string name="app_classification_suggest_app">Sugestões</string>
     <string name="app_detail">Detalhes</string>
+    <string name="app_disable_dlg_positive">Desativar</string>
+    <string name="app_disable_dlg_text">"Se você desativar este app, o sistema e outros apps poderão não funcionar corretamente. Este app do sistema não pode ser desinstalado. Ele ficará oculto se você decidir desativá-lo."</string>
     <string name="app_error_tip_for_launcher">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade ou fazer que alguns apps não funcionem corretamente, travem, ou parem de funcionar inesperadamente. Caso encontre estes problemas, compartilhe seu feedback com os desenvolvedores do app.</string>
     <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns apps. Caso encontre problemas como malfuncionamento, apps travando ou fechando forçadamente, compartilhe seu feedback com os desenvolvedores do app.</string>
     <string name="app_info_all_services_label">Todos os serviços</string>
@@ -545,7 +547,7 @@
     <string name="app_manager_permission_power_saving_title">Economia de bateria</string>
     <string name="app_manager_permission_startself_title">Início automático</string>
     <string name="app_manager_permission_summary_reject">Restringir tudo</string>
-    <string name="app_manager_powerkeeper_miui_auto">Economia de bateria HyperOS</string>
+    <string name="app_manager_powerkeeper_miui_auto">Economia de bateria</string>
     <string name="app_manager_powerkeeper_no_bg">Restringir atividade em segundo plano</string>
     <string name="app_manager_powerkeeper_no_restrict">Sem restrições</string>
     <string name="app_manager_powerkeeper_restrict_bg">Restringir apps em segundo plano</string>
@@ -971,7 +973,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="battery_low_percent_format_save_mode_closed">Há menos de %s de bateria restante. Não se esqueça de carregar seu dispositivo.</string>
     <string name="battery_low_percent_format_save_mode_closed_new_version">Bateria está fraca. Carregue seu dispositivo agora.</string>
     <string name="battery_low_percent_format_save_mode_open">Há menos de %1$s de bateria restante. Ative a Economia de bateria para adicionar %2$s de tempo extra.</string>
-    <string name="battery_low_percent_format_save_mode_open_new_version">Ative a Economia de bateria para adicionar %s.</string>
+    <string name="battery_low_percent_format_save_mode_open_new_version">Ative a Economia de bateria para adicionar mais: %s, de duração.</string>
     <string name="battery_low_title">A bateria está acabando</string>
     <string name="battery_low_title_power_save">Economia de bateria</string>
     <string name="battery_statistics_activity_title">Estatísticas de uso da bateria</string>
@@ -6132,11 +6134,9 @@ Experimente interpolar a resolução!"</string>
     <string name="alarm_lockscreen_btn">Comece a pegar envelopes vermelhos</string>
     <string name="alarm_setting_title">Configuração de alarme do envelope vermelho</string>
     <string name="allow_notify">permitir_notificar</string>
-    <string name="allow_tips_smart_task">permitir_tips_smart_task</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_manager_permission_backgroundstart_title">Início automático em segundo plano</string>
     <string name="app_manager_power_consume">%.1f%%</string>
-    <string name="app_manager_systemapp_setting">Configurações do app do sistema</string>
+    <string name="app_manager_systemapp_setting">Configurar Apps do sistema</string>
     <string name="app_source_global_search">Pesquisa global</string>
     <string name="app_source_home">Área de Trabalho</string>
     <string name="app_source_notification">notificar</string>

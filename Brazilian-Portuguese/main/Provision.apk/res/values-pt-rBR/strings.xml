@@ -460,7 +460,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_contact_describe">Acessar contatos</string>
     <string name="permission_contact_describe_MIUIDaemon_summary">Para verificar sua identidade.</string>
     <string name="permission_contact_describe_bluetooth_summary">Para permitir que outros dispositivos compatíveis que você conectou a este dispositivo acessem os contatos. Isso só acontecerá quando você ativar o Bluetooth ou editar seus contatos enquanto o Bluetooth estiver ativado.</string>
-    <string name="permission_contact_describe_desktop_summary">Para usar o recurso de contato de emergência da Tela inicial no Modo lite e exibir notificações de conversa;</string>
+    <string name="permission_contact_describe_desktop_summary">Para usar o recurso de contato de emergência da Tela inicial no Modo simples e exibir notificações de conversa;</string>
     <string name="permission_contact_describe_message_summary">Para exibir as informações de contato correspondentes de SMS e MMS.</string>
     <string name="permission_contact_introduction">Para fornecer recursos da Lista de bloqueio e ligar para contatos de emergência</string>
     <string name="permission_device">Acessar informações do dispositivo</string>
