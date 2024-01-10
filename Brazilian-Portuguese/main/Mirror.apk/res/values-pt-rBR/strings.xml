@@ -239,10 +239,10 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="mirror_to_full_screen_mode">Mude para o modo de tela cheia</string>
     <string name="mirror_call_closed">Esta chamada foi atendida em outro dispositivo</string>
     <string name="mirror_have_been_opened">Tela inicial+ está ativado</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_content">Você pode ativar os serviços de interconectividade em Configurações > Interconectividade.</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_title">Ative os serviços de interconectividade no tablet</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_content">Você pode ativar os serviços de interconectividade em Configurações > Interconectividade.</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_title">Ative os serviços de interconectividade no computador</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_content">Você pode ativar a Interconectividade Xiaomi no seu tablet em Configurações > Interconectividade.</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_title">Interconectividade Xiaomi desativado</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_content">Você pode ativar Interconectividade Xiaomi no seu computador em Configurações > Interconectividade.</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_title">Interconectividade Xiaomi desativado</string>
     <string name="mirror_to_settings_phone_content">Ativar a Tela inicial+ agora?</string>
     <string name="mirror_to_settings_remote_pad_content">Você pode ativar a Tela inicial+ em Configurações > Interconectividade.</string>
     <string name="mirror_to_settings_remote_pad_title">Ative a Tela inicial+ no tablet</string>
@@ -363,7 +363,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="notification_channel_name_download">Mostrar progresso do download</string>
     <string name="notification_mirror">A outra pessoa está compartilhando sua tela. Tente mais tarde.</string>
     <string name="notification_state_cancel">Desconectar</string>
-    <string name="notification_state_content">"Este dispositivo está conectado ao computador de %1$s. Você pode compartilhar dispositivos de entrada, arquivos e imagens agora."</string>
+    <string name="notification_state_content">"Este dispositivo está conectado ao computador de %1$s. Você pode compartilhar arquivos e imagens agora, bem como usar controles entre dispositivos."</string>
     <string name="notification_state_title">Conectado com sucesso</string>
     <string name="notify_clip_action_browser">Visitar</string>
     <string name="notify_clip_action_call">Chamar</string>
@@ -392,7 +392,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="pad_pc_mirror_introduction_summary">Espelhe a tela do computador no seu tablet</string>
     <string name="pad_pc_mirror_introduction_title">Espelhamento de tela</string>
     <string name="pad_pc_share_introduction_summary">"Use o mouse e o teclado do seu computador com este tablet"</string>
-    <string name="pad_pc_share_introduction_title">Dispositivos de entrada</string>
+    <string name="pad_pc_share_introduction_title">Controles entre dispositivos</string>
     <string name="pad_settings_bluetooth_enable_summary">Ative o Bluetooth para poder encontrar dispositivos nas proximidades. Ligar agora?</string>
     <string name="pad_settings_bluetooth_enable_title">Ative o Bluetooth.</string>
     <string name="pad_settings_click_toast_msg">Conecte-se usando o Mi Smart Hub no seu computador</string>
@@ -597,8 +597,8 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="share_pc_folder_multi_error_dialog_ok">Entendi</string>
     <string name="share_pc_folder_multi_error_dialog_title">"Não foi possível transferir todos os itens"</string>
     <string name="share_stop_share_to_start_screen">Pare de transmitir para poder compartilhar sua tela</string>
-    <string name="share_to_settings_phone_content">Ativar os serviços de interconectividade agora?</string>
-    <string name="share_to_settings_title">Ative os serviços de interconectividade</string>
+    <string name="share_to_settings_phone_content">Ativar a Interconectividade Xiaomi agora?</string>
+    <string name="share_to_settings_title">Interconectividade Xiaomi</string>
     <string name="sink_pc_click_again_to_finish_extent">Toque novamente para desativar a extensão da tela</string>
     <string name="sink_pc_click_again_to_finish_mirror">Toque novamente para parar de espelhar a tela</string>
     <string name="size_byte">"B"</string>

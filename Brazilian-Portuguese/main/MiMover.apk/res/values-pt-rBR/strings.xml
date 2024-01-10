@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="PRD_summary_1">Se você transferir dados desses apps do dispositivo antigo para o novo, os dados do novo dispositivo (incluindo o histórico de bate-papo) serão substituídos.</string>
+    <string name="PRD_summary_4">Desativar ou trocar de rede Wi-Fi durante o processo de transferência pode causar falha no processo de transferência.</string>
+    <string name="PRD_summary_4_china">Desativar ou trocar de rede Wi-Fi durante o processo de transferência pode causar falha no processo de transferência.</string>
+    <string name="PRD_summary_5">Transferências em alta velocidade podem fazer com que seu dispositivo fique mais quente que o normal. Tenha certeza de que seu dispositivo esfriará quando a transferência terminar.</string>
+    <string name="PRD_title_4">%1$d. Opere seu dispositivo com cuidado</string>
+    <string name="PRD_title_5">%1$d. Seu dispositivo ficará quente durante a transferência</string>
+    <string name="PRD_title_tablet_1">%1$d. Já existem dados de apps no novo dispositivo para os seguintes apps:</string>
+    <string name="PRD_title_tablet_4">%1$d. Opere seu dispositivo com cuidado</string>
+    <string name="PRD_title_tablet_5">%1$d. Seu dispositivo ficará quente durante a transferência</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
@@ -173,7 +182,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="dialog_request_all_permission_title">Permissões necessárias</string>
     <string name="dialog_request_network_btn_negative">Sair</string>
     <string name="dialog_request_network_btn_positive">Concordar</string>
-    <string name="dialog_request_permission_message">Bem-vindo ao Mi Mover! Você pode usar este app para transferir dados do seu antigo dispositvo para um novo. Os dados serão transferidos entre os dois dispositivos e não serão enviados aos nossos servidores. Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
+    <string name="dialog_request_permission_message">Bem-vindo ao Mi Mover! Você pode usar este app para transferir dados do seu antigo dispositvo para um novo. Os dados serão transferidos entre os dois dispositivos e não serão enviados aos nossos servidores.</string>
     <string name="dialog_request_permission_message_buttom_content">Permita que este app se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="dialog_request_permission_message_extra_summary">Estas permissões são necessárias para disponibilizar os recursos e serviços básicos deste app.</string>
     <string name="dialog_request_permission_message_extra_title">"Permissões obrigatórias "</string>
@@ -628,6 +637,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="prompt_before_transmission_message4_title">Fique conectado durante toda a transferência</string>
     <string name="prompt_before_transmission_message5_summary">Transferir grandes quantidades de dados sem fio pode causar um superaquecimento leve, o que é normal. Seu dispositivo esfriará logo após a transferência ser concluída.</string>
     <string name="prompt_before_transmission_message5_title">Seu dispositivo pode aquecer durante as transferências.</string>
+    <string name="prompt_before_transmission_tablet_message3_title">Segundo espaço ativado</string>
     <string name="provisiion_set_old_pad_summary">Use o Mi Mover para importar dados do seu dispositivo antigo sem conexão com a internet</string>
     <string name="provisiion_set_old_phone">Importar do dispositivo antigo</string>
     <string name="provisiion_set_old_phone_summary">Use o Mi Mover para importar dados do seu dispositivo antigo sem se conectar à Internet</string>
