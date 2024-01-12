@@ -388,7 +388,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="other_settings_pref_title">Configurações adicionais</string>
     <string name="password_toggle_content_description">Exibir senha</string>
     <string name="path_soundrecorder_setting">Configurar Apps do sistema/Gravador</string>
-    <string name="pause_status_focus_notification">Pausado</string>
+    <string name="pause_status_focus_notification">Gravação pausada</string>
     <string name="pause">Pausar</string>
     <string name="pay_error_cancel">O pagamento foi cancelado</string>
     <string name="pay_error_null">Não foi possível concluir o pagamento. Verifique a sua conta.</string>
@@ -396,8 +396,8 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="permission_desc">Detalhes de permissões</string>
     <string name="permission_dialog_cancel">Cancelar</string>
     <string name="permission_dialog_ok">Configurações</string>
-    <string name="permission_notification_description">Para enviar alertas ao gravar, reproduzir e baixar conteúdo</string>
-    <string name="permission_notification_dialog_description">"Para enviar alertas sobre o estado atual do app"</string>
+    <string name="permission_notification_description">Este app precisa de permissão para enviar notificações para poder enviar alertas ao gravar, reproduzir e baixar conteúdo</string>
+    <string name="permission_notification_dialog_description">"Este app precisa de permissão para enviar notificações para poder enviar alertas sobre o estado atual do app"</string>
     <string name="permission_notification_title">Permissões necessárias</string>
     <string name="permission_read_phone_state">Acessar informações do dispositivo</string>
     <string name="permission_read_phone_state_description">Para acessar o status da chamada para interromper automaticamente a gravação ao receber chamadas</string>
@@ -582,7 +582,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="status_bar_back">Toque para voltar ao Gravador</string>
     <string name="status_bar_recording">Gravando…</string>
     <string name="status_bar_recording_pause">Gravação pausada</string>
-    <string name="stop_status_focus_notification">Finalizada</string>
+    <string name="stop_status_focus_notification">Gravação concluída</string>
     <string name="storage_permission_dialog_title">Permissão de armazenamento necessária</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>

@@ -35,6 +35,7 @@
     <string name="access_token_invalid_warning">A conta Weibo é inválida</string>
     <string name="account">Conta</string>
     <string name="account_and_password">Senha</string>
+    <string name="account_auth_failed_message">"As credenciais de login da Conta Mi %1$s expiraram. Tente novamente."</string>
     <string name="account_bind_devices">Dispositivos</string>
     <string name="account_bind_secure_email_title">Adicionar e-mail</string>
     <string name="account_bind_secure_phone_title">Adicionar número de telefone</string>
@@ -257,6 +258,23 @@ Envie este código para o supervisor."</string>
     <string name="family_service">Serviços familiares</string>
     <string name="family_service_not_open">Convidar membros</string>
     <string name="family_share">Compartilhamento familiar</string>
+    <string name="fido2_client_for_fingerprint_auth">Toque para verificar por impressão digital</string>
+    <string name="fido2_close_fingerprint_auth">Desativando</string>
+    <string name="fido2_close_fingerprint_auth_desc">Desativar a verificação de impressão digital agora?</string>
+    <string name="fido2_err_already_registered">Esta conta já ativou esse recurso</string>
+    <string name="fido2_err_def">Um erro ocorreu. Espere um pouco e tente novamente.</string>
+    <string name="fido2_err_not_regisetered">"Esta conta ainda não ativou esse recurso"</string>
+    <string name="fido2_err_not_support">"Este recurso não é compatível com este dispositivo"</string>
+    <string name="fido2_err_security">"Riscos de segurança detectados. Não é possível usar esse recurso."</string>
+    <string name="fido2_err_service_exception">Ocorreu um erro no servidor. Espere um pouco e tente novamente.</string>
+    <string name="fido2_err_timeout">O pedido excedeu o tempo limite. Espere um pouco e tente novamente.</string>
+    <string name="fido2_fingerprint_auth">Verificação de impressão digital</string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Use sua impressão digital para entrar em sua Conta Mi e verificar sua identidade.&lt;a href=>Saiba mais&lt;/a></Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">A impressão digital do seu dispositivo mudou. Verifique novamente sua conta para poder ativar a verificação de impressão digital.</string>
+    <string name="fido2_fingerprint_verify">Verificação de impressão digital</string>
+    <string name="fido2_psw_changed_and_afresh_register">Sua senha foi alterada. Verifique sua impressão digital novamente.</string>
+    <string name="fido2_setting_ps_notify">"Você precisará definir uma senha de conta para poder usar a verificação de impressão digital. Você pode fazer isso em Configurações > Conta Mi > Segurança da conta > Senha."</string>
+    <string name="fido2_verify_fingerprint">Verifique a impressão digital</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_access_denied">Não é possível obter o status, acesso negado</string>
     <string name="find_device_account_error">Não é possível obter o status devido a um erro na conta</string>
@@ -343,6 +361,7 @@ Envie este código para o supervisor."</string>
     <string name="get_identity_auth_url_failed">Não foi possível verificar a ID</string>
     <string name="get_phone_bind_exceed_limit">Você pode associar até %d Contas Mi a um número de telefone. Não é possível adicionar mais contas.</string>
     <string name="get_phone_verifycode_exceed_limit">Não é possível enviar mais códigos de verificação para este número.</string>
+    <string name="go_to_setting">Configurações</string>
     <string name="google">"Google"</string>
     <string name="google_login">Fazer o login com o Google</string>
     <string name="goto_accept">"OK"</string>
@@ -365,6 +384,7 @@ Envie este código para o supervisor."</string>
     <string name="indeterminate">Nem marcado nem desmarcado</string>
     <string name="input_email_address_notice">Enviaremos um e-mail com um código de verificação para o endereço que você fornecer</string>
     <string name="input_new_pwd">Insira uma nova senha</string>
+    <string name="input_ps">Insira a senha</string>
     <string name="io_error_title">Confirme sua rede</string>
     <string name="item_view_role_description">Aba</string>
     <string name="just_a_second">Aguarde…</string>
@@ -383,6 +403,7 @@ Envie este código para o supervisor."</string>
     <string name="login_notification_button_text">Entrar</string>
     <string name="login_notification_desc">Desfrute de serviços em nuvem, espaço de armazenamento familiar e muito mais</string>
     <string name="login_notification_title">Entrar na sua Conta Mi</string>
+    <string name="login_or_register_by_other_way">Use outro método</string>
     <string name="login_with_other">Mais opções</string>
     <string name="logout_account">Sair</string>
     <string name="logout_failed">Não é possível sair</string>
@@ -964,13 +985,14 @@ Envie este código para o supervisor."</string>
     <string name="qrcode_login_entry_text"><Data>Fez login em um dispositivo diferente? Use o &lt;a href=>login rápido&lt;/a></Data></string>
     <string name="qrcode_login_load_refresh"><Data>Este código QR expirou. Toque para &lt;a href=>atualizar&lt;/a>.</Data></string>
     <string name="qrcode_login_load_retry"><Data>"Não foi possível carregar. &lt;a href=>Tente novamente&lt;/a>."</Data></string>
-    <string name="qrcode_login_message">"Digitalize com o app Scanner do seu telefone ou tablet Xiaomi, Mi Home ou outro app Xiaomi para fazer login"</string>
+    <string name="qrcode_login_message">"Digitalize com Mi AI Scanner ou outro app da Xiaomi para entrar em sua Conta Mi"</string>
     <string name="qrcode_login_title">Digitalize para fazer login</string>
     <string name="range_end">Fim do intervalo</string>
     <string name="range_start">Início do intervalo</string>
     <string name="recycle_phone_notification_msg">Parece que seu número de telefone já está em uso. Toque para atualizar.</string>
     <string name="recycle_phone_notification_title">Risco de segurança da Conta Mi</string>
     <string name="removing_account">Saindo…</string>
+    <string name="reopen">Ativar</string>
     <string name="replace_binded_phone">Substituir telefone</string>
     <string name="request_open_permission">Permissões necessárias</string>
     <string name="request_use_camera_message">"Permitir que Conta Mi acesse a câmera do seu dispositivo?"</string>
@@ -1018,6 +1040,7 @@ Envie este código para o supervisor."</string>
     <string name="sending">Enviando…</string>
     <string name="service_error">Erro no serviço</string>
     <string name="set_success">Alterado com sucesso</string>
+    <string name="setting_ps">Configurações de senha</string>
     <string name="setting_later">Agora não</string>
     <string name="setting_now">Adicionar</string>
     <string name="sign_in">Login</string>

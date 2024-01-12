@@ -172,6 +172,10 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"A sincronização não está ativada para %s itens"</item>
+        <item quantity="one">"A sincronização não está ativada para %s item"</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s serviços serão sincronizados com a MiCloud</item>
         <item quantity="one">%s serviço será sincronizado com a MiCloud</item>

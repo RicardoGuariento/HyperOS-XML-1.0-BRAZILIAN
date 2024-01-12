@@ -478,7 +478,7 @@
     <string name="app_manager_app_version_name">"Versão: "</string>
     <string name="app_manager_appupdate_remind">Notificar sobre atualizações</string>
     <string name="app_manager_as_dlg_msg">Permitir que apps iniciem automaticamente poderá exigir mais recursos de RAM e bateria. Permitir mesmo assim?</string>
-    <string name="app_manager_as_dlg_msg_new">"Permitir que um app inicie automaticamente pode aumentar a quantidade de memória e a duração da bateria que ele usa. O HyperOS otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do seu dispositivo."</string>
+    <string name="app_manager_as_dlg_msg_new">"Permitir que um app inicie automaticamente pode aumentar a quantidade de memória e a duração da bateria que ele usa. O sistema otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do seu dispositivo."</string>
     <string name="app_manager_as_dlg_title">Atenção!</string>
     <string name="app_manager_back">Voltar</string>
     <string name="app_manager_bipartition">"Dual apps"</string>
@@ -783,7 +783,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_import_games">Coloque todos os seus jogos em um só lugar</string>
     <string name="auto_send_correcting_msg">Deixe em branco para verificar automaticamente com um SMS gratuito</string>
     <string name="auto_set_by_brand">Sincronizar detalhes do plano de dados com sua operadora</string>
-    <string name="auto_start_tips">"O HyperOS otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do dispositivo."</string>
+    <string name="auto_start_tips">"O sistema otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do dispositivo."</string>
     <string name="auto_task_allow_suggestion">Sugestões de tarefas inteligentes</string>
     <string name="auto_task_available_device">Dispositivos disponíveis</string>
     <string name="auto_task_condition_choose_battery_level_down">"Quando a bateria atingir um certo nível"</string>

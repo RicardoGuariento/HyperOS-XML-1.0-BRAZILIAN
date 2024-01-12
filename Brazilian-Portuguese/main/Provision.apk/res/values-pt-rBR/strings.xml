@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="access_calendar">Acessar a agenda</string>
     <string name="access_non_personal_data">Se você retirar o consentimento para o acesso e uso de dados não pessoais do seu dispositivo, os serviços do Carrossel de Planos de fundo serão desativados e todos os dados coletados serão excluídos dentro do período especificado nas leis e regulamentos aplicáveis.</string>
     <string name="accessibility_enabled">Acessibilidade ativada.</string>
     <string name="actionbar_button_up_description">Voltar</string>
@@ -65,6 +66,7 @@
     <string name="boot_video_replay">Reproduzir novamente</string>
     <string name="boot_video_skip">Pular</string>
     <string name="calculator_introduction">Você pode usar este app para cálculos, conversão de unidades e de moedas, e estimar as parcelas de sua hipoteca.</string>
+    <string name="calendar_storage">Armazenamento da agenda</string>
     <string name="camera_application_introduction">Você pode usar este app para tirar fotos e vídeos.</string>
     <string name="camera_introduction">Você pode usar a Câmera para tirar fotos e capturar vídeos.</string>
     <string name="carousel_cookies_content"><Data>Ao tocar em imagens e histórias no Carrossel de planos de fundo, suas versões completas serão abertas em seu navegador. Nosso provedor de conteúdo terceirizado confiável pode recomendar conteúdo e anúncios adicionais adequados aos seus interesses. Se você concordar em ativar este recurso, eles colocarão cookies em seu navegador, conforme descrito neste &lt;a href=\"%1$s\">Política de Cookies&lt;/a>. Se você recusar cookies, o Carrossel de planos de fundo ainda funcionará, mas seu conteúdo e recomendações podem deixar de ser relevantes para você. Você sempre pode alterar suas preferências em Configurações.</Data></string>
@@ -107,6 +109,7 @@
     <string name="diagnose_report">Enviar dados de diagnóstico para localizar e analisar problemas do sistema e melhorar a experiência do usuário. Esses dados podem incluir informações pessoais (por exemplo, IP, localização, etc.)</string>
     <string name="disageement_abnormal_download">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço.</string>
     <string name="disagree">Cancelar</string>
+    <string name="disagree_unable_serve">"Se você não concordar com as permissões acima, não poderá usar este serviço."</string>
     <string name="disagreement_abnormal_running">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por não usar este app ou restringir as permissões nas Configurações em tais casos.</string>
     <string name="disagreement_abnormal_running_fast_pairing">Caso não concorde em conceder tais permissões, você não poderá usar este app. Você pode optar por restringir as permissões e desativar este recurso a qualquer momento nas Configurações neste caso.</string>
     <string name="disagreement_application_not_working_properly">"Caso não concorde em conceder essas permissões, não poderá usar este app."</string>
@@ -568,6 +571,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="privacy_refuse">"Não concordo"</string>
     <string name="privacy_title">Termos e Política de Privacidade</string>
     <string name="protect_persoanl_info_statement">Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.</string>
+    <string name="provide_date_management_service">Este serviço permite verificar a data e gerenciar eventos.</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_inputmethod_policy_description"><Data>Veja a &lt;a href=%1$s>Política de Privacidade&lt;/a > do teclado selecionado.</Data></string>
     <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
@@ -583,6 +587,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="require_network_and_authority_statement">Para funcionar normalmente, este serviço precisa se conectar à Internet e requer as seguintes permissões:</string>
     <string name="require_network_authority_statement">Para que possamos fornecer-lhe serviços básicos, você precisa se conectar à internet e conceder as seguintes permissões para que possamos coletar suas informações pessoais:</string>
     <string name="require_network_authority_statement_dual">Para funcionar normalmente, este serviço precisa se conectar à Internet e requer as seguintes permissões:</string>
+    <string name="require_statement">Para fornecer serviços básicos, precisamos das seguintes permissões:</string>
     <string name="safe_open_service">Serviços abertos seguros</string>
     <string name="safe_open_service_introduction">Serviços abertos seguros auxiliam os desenvolvedores e fornecem recursos de segurança em nível de sistema para proteger os usuários e sua privacidade.</string>
     <string name="saturday">Sábado</string>
@@ -785,6 +790,7 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
+    <string name="used_date_viewing">Para verificar a data</string>
     <string name="user_agreement">Contrato do Usuário</string>
     <string name="user_agreement_declare">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
     <string name="user_agreement_declare_gmscore">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Cartões inteligentes, gerenciador de permissões, ConfigUpdater e serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
