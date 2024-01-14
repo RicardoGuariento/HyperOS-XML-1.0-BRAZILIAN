@@ -2727,6 +2727,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="small_window_guide_title">Janelas flutuantes</string>
     <string name="small_window_notification_text">Toque para saber mais sobre este recurso do HyperOS %d</string>
     <string name="small_window_notification_title">Janelas flutuantes</string>
+    <string name="snoozeHourOptions">{count, plural, =1 {# hora} =2 {# horas} few {# horas} other {# horas} }</string>
+    <string name="snoozeMinuteOptions">{count, plural, =1 {# minuto} few {# minutos} other {# minutos} }</string>
     <string name="snooze_option_15_min">15 minutos</string>
     <string name="snooze_option_1_hour">1 hora</string>
     <string name="snooze_option_2_hour">2 horas</string>
