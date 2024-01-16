@@ -331,6 +331,7 @@ taxa de amostragem"</string>
     <string name="debug_networking_category">Redes</string>
     <string name="debug_view_attributes">Ativar visualiz. insp. atributo</string>
     <string name="decline_incoming_call">Rejeitar</string>
+    <string name="default_dialer_reset_prompt">"Parece que ocorreram vários erros ao usar %s. Tornar o discador do sistema seu app de telefone padrão agora?"</string>
     <string name="delete_blob_confirmation_text">Você quer mesmo excluir esses dados compartilhados?</string>
     <string name="delete_blob_text">Excluir dados compartilhados</string>
     <string name="delete_icon_description">Desbloquear</string>
@@ -723,6 +724,7 @@ taxa de amostragem"</string>
     <string name="private_dns_mode_provider_hostname_hint">Informe o nome do host do provedor de DNS</string>
     <string name="profile_connect_timeout_subtext">Ocorreu um problema na conexão. Desligue o dispositivo e ligue-o novamente</string>
     <string name="profile_info_settings_title">Informações do perfil</string>
+    <string name="redirect_system_dialer_toast">Ocorreu um erro com %s. Alternando para o app discador do sistema.</string>
     <string name="remaining_length_format">%1$s restante(s)</string>
     <string name="respond_via_sms_canned_response_1">Não posso falar agora. O que houve?</string>
     <string name="respond_via_sms_canned_response_2">Te ligarei de volta em breve.</string>
