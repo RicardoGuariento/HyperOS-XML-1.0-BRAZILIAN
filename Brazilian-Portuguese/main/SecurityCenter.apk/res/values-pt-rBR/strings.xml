@@ -1723,13 +1723,13 @@ Suporte técnico por Xiaomi e ICL"</string>
     <string name="ew_guide_start">Ativar</string>
     <string name="ew_guide_start_agree">Ativar</string>
     <string name="ew_guide_start_find_area">Procurar por áreas</string>
-    <string name="ew_guide_start_warning_range">Os primeiros avisos são fornecidos para as áreas cobertas pela Rede de Alerta de Terremoto do Continente do Instituto de Redução de Desastres de alta tecnologia de Chengdu. Você pode encontrar áreas de cobertura específicas nas Configurações.</string>
-    <string name="ew_guide_statement_text_new">"Este termo de responsabilidade aplica-se a todos os usuários (doravante referido \"você\") que ativam o recurso de aviso de terremoto. Ao concordar com este termo de responsabilidade, você firma um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante referidas como \"Xiaomi\"). Você reconhece que leu todo o conteúdo deste aviso do termo de responsabilidade e compreende totalmente e concorda com todos os termos e condições deste aviso; caso contrário, você deve desativar este recurso de aviso de terremoto imediatamente.
-De acordo com as leis e regulamentos relevantes, a Xiaomi fornecerá a você serviços de alerta antecipado com base no escopo da área de monitoramento de alerta precoce de terremoto coberta pelas agências relevantes, ou seja, quando você ativa o recurso de aviso de terremoto, você pode receber avisos de terremoto emitidos para áreas específicas. Você pode encontrar áreas de cobertura específicas nas Configurações.
+    <string name="ew_guide_start_warning_range"><Data>Os primeiros avisos são fornecidos para as áreas cobertas pela Rede de Alerta de Terremoto do Continente do Instituto de Redução de Desastres de alta tecnologia de Chengdu. Você pode encontrar uma lista de áreas de cobertura suportadas &lt;a href=%s>aqui&lt;/a>.</Data>.</string>
+    <string name="ew_guide_statement_text_new"><Data>"Este termo de responsabilidade aplica-se a todos os usuários (doravante referido \"você\") que ativam o recurso de aviso de terremoto. Ao concordar com este termo de responsabilidade, você firma um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante referidas como \"Xiaomi\"). Você reconhece que leu todo o conteúdo deste aviso do termo de responsabilidade e compreende totalmente e concorda com todos os termos e condições deste aviso; caso contrário, você deve desativar este recurso de aviso de terremoto imediatamente.
+De acordo com as leis e regulamentos relevantes, a Xiaomi fornecerá a você serviços de alerta antecipado com base no escopo da área de monitoramento de alerta precoce de terremoto coberta pelas agências relevantes, ou seja, quando você ativa o recurso de aviso de terremoto, você pode receber avisos de terremoto emitidos para áreas específicas. Você pode encontrar uma lista de áreas de cobertura suportadas &lt;a href=%s>aqui&lt;/a>. Mais áreas de cobertura serão adicionadas periodicamente.
 Este recurso fornece a função de aviso de terremoto. Você deve entender que as informações de alerta de terremoto são fornecidas pelo Instituto de Redução de Desastres Chengdu Hi-tech. Xiaomi não supervisiona esta organização e não tem nenhum controle sobre ela.
 A Xiaomi não promete nem garante a precisão, validade e oportunidade das informações de alerta de terremoto, muito menos que o serviço de alerta de terremoto atenderá a todas as suas necessidades.
 Receber informações de aviso de terremoto exige que você mantenha seu dispositivo conectado à rede móvel. Falhas de linha de comunicação de terceiros, problemas técnicos, falhas de rede ou equipamento terminal, instabilidade do sistema e outros vários eventos de força maior podem impedir que você receba informações de aviso de terremoto. A Xiaomi não assume nenhuma responsabilidade por quaisquer perdas causadas por tais eventos.
-Você deve entender que este recurso é fornecido apenas para sua referência. O aviso que você recebe pode vir segundos antes do início de um terremoto. Você é o único responsável pelos riscos e consequências de quaisquer ações que execute com base nas informações fornecidas por este recurso."</string>
+Você deve entender que este recurso é fornecido apenas para sua referência. O aviso que você recebe pode vir segundos antes do início de um terremoto. Você é o único responsável pelos riscos e consequências de quaisquer ações que execute com base nas informações fornecidas por este recurso."</Data></string>
     <string name="ew_guide_tips_1">Você será notificado sobre os próximos terremotos e ouvirá um som de alerta</string>
     <string name="ew_guide_tips_2">Informações antecipadas do terremoto e som de alerta serão atualizados durante o terremoto</string>
     <string name="ew_guide_tips_3">Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário</string>
@@ -3078,6 +3078,10 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="mi_service_traffic_detail">Detalhes da estrutura</string>
     <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Toque para abrir o Mi Sim.&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Roaming no exterior</string>
+    <string name="mic">Microfone</string>
+    <string name="mic_noise_reduction_mode_standard">Padrão</string>
+    <string name="mic_noise_reduction_mode_ultimate">Selecione</string>
+    <string name="mic_noise_reduction_voiceprint_desc">Reter apenas o áudio de um usuário especificado</string>
     <string name="midnight">"AM"</string>
     <string name="midrop_post_notification_contentText">Transfira arquivos em velocidades de até 50Mbps no Mi Drop.</string>
     <string name="midrop_post_notification_contentTitle">Precisa compartilhar arquivos?</string>
@@ -3605,6 +3609,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_going_to_exit_extreme_mode">Saindo do Modo hibernação</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Seu dispositivo está carregando. O Modo hibernação está desativado.</string>
     <string name="pc_going_to_extreme_mode">Entrando no Modo hibernação</string>
+    <string name="pc_handle_battery_level">Grip</string>
     <string name="pc_hidemode_normal">Equilibrado</string>
     <string name="pc_hidemode_normal_title">Modo equilibrado</string>
     <string name="pc_hidemode_performance">Desempenho</string>
@@ -3653,15 +3658,17 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_performance_mode_dialog_title">Modo desempenho</string>
     <string name="pc_performance_mode_noti_summary">Aumenta o consumo de energia e pode levar a problemas de superaquecimento</string>
     <string name="pc_performance_mode_noti_title">Melhor desempenho</string>
+    <string name="pc_phone_battery_level">Telefone</string>
     <string name="pc_remind_close_cover_to_charge_summary">Dobre o dispositivo antes de carregar para uma experiência de carregamento mais rápida e estável.</string>
     <string name="pc_remind_close_cover_to_charge_title">Dobre para carregar</string>
+    <string name="pc_reminder_always_protect_summary">Mude para carregamento limitado para aumentar a vida útil da bateria</string>
     <string name="pc_search_keywords_battery">Bateria</string>
     <string name="pc_search_keywords_battery_save">Economia de bateria</string>
     <string name="pc_search_keywords_battery_use">Uso da bateria</string>
     <string name="pc_search_keywords_capacity">Capacidade da bateria</string>
     <string name="pc_search_keywords_property">Desempenho</string>
     <string name="pc_settings_title">Bateria</string>
-    <string name="pc_smart_discharge_checkbox_summary">"Ao usar apps de navegação, o carregamento será interrompido automaticamente quando a bateria atingir um nível selecionado. Este recurso não funcionará quando a Economia de bateria ou a Ultra economia de bateria estiverem ativadas."</string>
+    <string name="pc_smart_discharge_checkbox_summary">"Ao usar os recursos de navegação, o carregamento será interrompido automaticamente em uma porcentagem especificada. A Economia de bateria será desativada."</string>
     <string name="pc_smart_discharge_checkbox_title">Desconexão automática de carregamento</string>
     <string name="pc_smart_discharge_drop_down_title">Configurações de desconexão automática</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Para proteger a bateria, o carregamento será interrompido automaticamente em um nível selecionado ao usar apps de navegação</string>
@@ -3676,6 +3683,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_wait_device_cools_down">Aguarde até que seu dispositivo esfrie para poder usar esse recurso.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Coloque-o no carregador sem fio</string>
     <string name="pc_wireless_charge_adjust_position_title">Carregue seu dispositivo mais rápido</string>
+    <string name="pc_wireless_charging_special_stand_summary1">Instale o seu dispositivo no suporte que acompanha o carregador sem fio</string>
+    <string name="pc_wireless_charging_special_stand_summary2">Instale o dispositivo no suporte fornecido com o carregador sem fio para obter melhor desempenho de carregamento</string>
+    <string name="pc_wireless_charging_special_stand_title">Use o suporte de carregamento fornecido</string>
+    <string name="pc_wireless_handle_connected">Dispositivo conectado</string>
+    <string name="pc_wireless_handle_title">Grip de câmera sem fio</string>
     <string name="pc_xiaoai_create_auto_task">Nova tarefa do Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
     <string name="perfermance_optimization_summary">Evita o superaquecimento e problemas relacionados ao hardware</string>
@@ -3865,7 +3877,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_batteryrank_all">Todo o consumo de bateria</string>
     <string name="power_center_batteryrank_hardware">Uso de bateria do hardware %s</string>
     <string name="power_center_batteryrank_software">Uso de bateria do software %s</string>
-    <string name="power_center_batteryscan_normal">Sem problemas de uso da bateria. Veja os resultados.</string>
+    <string name="power_center_batteryscan_normal">Tudo parece bem. Veja os resultados.</string>
     <string name="power_center_charge_status">Carregando</string>
     <string name="power_center_charge_time">%1$s até carregar</string>
     <string name="power_center_consume_fast">Drenando bateria</string>
@@ -3897,7 +3909,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_optimize_title">Sugestões</string>
     <string name="power_center_power_save_summary_text">Aumente o tempo restante em até %1$d h e %2$d min</string>
     <string name="power_center_power_save_title_text">Economia de bateria</string>
-    <string name="power_center_problem_title">Corrigir problemas</string>
+    <string name="power_center_problem_title">Alto consumo de energia</string>
     <string name="power_center_reduce_dpi_summary">QHD+ consome mais energia</string>
     <string name="power_center_reduce_resolution">Diminuir a resolução da tela</string>
     <string name="power_center_repeat">Repetir</string>
@@ -3985,6 +3997,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_main_battery_last_hour_minute">%1$s h e %2$s min restante(s)</string>
     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s de tempo de tela restante</string>
     <string name="power_main_open_last_hour_minute_screen_on">Ative para adicionar %1$s %2$s de tempo de tela</string>
+    <string name="power_ntc_dialog_btn_finish">Entendi</string>
+    <string name="power_ntc_dialog_msg">Desconecte o carregador agora. Limpe e seque a porta de carregamento antes de usá-la novamente.</string>
+    <string name="power_ntc_dialog_title">Um objeto estranho ou líquido detectado</string>
     <string name="power_off_warning_button_ok">Entendi</string>
     <string name="power_off_warning_message">A bateria está fraca. Seu dispositivo desligará em %d segundos. Conecte o carregador.</string>
     <string name="power_off_warning_notification_title">Prestes a desligar</string>
@@ -4155,6 +4170,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_manage_apps_location_information">Permite que apps acessem sua localização</string>
     <string name="pp_manage_track">Monitorar rastreadores</string>
     <string name="pp_manage_track_summary">Detecta e desativa vários tipos de rastreadores embutidos em apps. Esses rastreadores podem compartilhar seus identificadores pessoais, acessando e salvando itens no armazenamento interno ou usar SDKs compartilhados para rastrear sua atividade.</string>
+    <string name="pp_none_read_clipboard_item">"Não notifique"</string>
     <string name="pp_one_app_two_use">Use duas contas sem sair</string>
     <string name="pp_one_phone_two_space">Use um dispositivo como dois</string>
     <string name="pp_only_allow_permission_during_this_run">Permitir que apps usem as permissões uma vez</string>
@@ -4186,6 +4202,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_private_photo_album_detail">Criptografe e proteja itens com um bloqueio de tela</string>
     <string name="pp_prohibit_use_camera_in_background">Restringir o uso da câmera em segundo plano</string>
     <string name="pp_prohibit_use_camera_in_background_detail">Por padrão, os apps não podem usar a câmera em segundo plano.</string>
+    <string name="pp_protect_read_clipboard_item">Proteger</string>
     <string name="pp_read_phone_info_summary">Acessar informações do SIM</string>
     <string name="pp_record_msg">Gravando de áudio</string>
     <string name="pp_safe_box">Espaço privado</string>
@@ -4200,6 +4217,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_special_permission_settings">Permissões especiais</string>
     <string name="pp_special_permission_settings_detail">Controle como os apps usam permissões especiais</string>
     <string name="pp_storage_msg">Armazenamento</string>
+    <string name="pp_toast_read_clipboard">Notificar quando apps acessam itens na área de transferência</string>
+    <string name="pp_toast_read_clipboard_item">Notificar</string>
     <string name="pp_understanding_privacy">Conscientização</string>
     <string name="pp_virtual_identity_manager">ID Virtual</string>
     <string name="pp_virtual_identity_summary">Uma ID virtual (OAID) pode ser fornecida aos apps ao invés de seu identificador real. Ela protege sua privacidade e permite que você controle como os apps rastreiam seu comportamento.</string>
@@ -4492,6 +4511,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_risk_result_protection">Proteção de privacidade</string>
     <string name="privacy_risk_result_screen_fuzzy">Desfocar prévias de apps</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Desfocar prévias de apps sensíveis que são exibidos nos Recentes</string>
+    <string name="privacy_risk_result_screen_shield_msg">Os apps que contêm informações pessoais confidenciais serão exibidos em Recentes com suas visualizações mascaradas</string>
     <string name="privacy_risk_result_set_btn">Configurar</string>
     <string name="privacy_risk_result_success_empty_msg">Tudo parece bem!</string>
     <string name="privacy_risk_result_success_msg">Todos os problemas foram corrigidos!</string>
@@ -4570,10 +4590,10 @@ Retirar consentimento agora?"</string>
     <string name="qucick_replay_instrument">Use respostas rápidas nas notificações de mensageiros selecionados (ex.: WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">Verificando</string>
     <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível estender duração da bateria</string>
-    <string name="quick_optimize_no_fix_issue_title">Não foi possível corrigir os problemas de bateria</string>
+    <string name="quick_optimize_no_fix_issue_title">Não foi possível otimizar itens com alto consumo de energia</string>
     <string name="quick_optimize_no_issue">Nenhum problema de bateria</string>
     <string name="quick_optimize_no_issue_subtitle">Tudo em ordem</string>
-    <string name="quick_optimize_no_issue_title">Nenhum problema detectado</string>
+    <string name="quick_optimize_no_issue_title">Nenhum item com alto consumo de energia</string>
     <string name="quick_optimize_sub_battery_text">Cerca de %s restante(s)</string>
     <string name="quick_optimize_sub_summary_text">%s adicionado à duração da bateria</string>
     <string name="quick_optimize_sub_summary_with_battery_text">%1$s adicionado, cerca de %2$s restante(s)</string>
@@ -4767,7 +4787,7 @@ Retirar consentimento agora?"</string>
     <string name="settings">Configurações do limite de dados</string>
     <string name="settings_battery_consume_abnormal_summary">Receba notificações quando a bateria estiver descarregando rapidamente</string>
     <string name="settings_battery_consume_abnormal_title">Notificação de descarregamento</string>
-    <string name="settings_battery_power_save_suggest_title">Sugestões e avisos da Economia de bateria</string>
+    <string name="settings_battery_power_save_suggest_title">Sugestões de Economia de bateria</string>
     <string name="settings_camera_subtitle_no">Sem metadados</string>
     <string name="settings_category_other">Outras configurações</string>
     <string name="settings_category_overheat">Aquecimento</string>
@@ -5270,6 +5290,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="summary_usb">Prevenir que Malwares sejam transmitidos através da USB</string>
     <string name="summary_virus">Remover vírus para manter seu dispositivo seguro</string>
     <string name="summary_virus_cloudscan">Fazer upload de nome e detalhes de apps e verificá-los usando definições de vírus online</string>
+    <string name="summary_virus_scan_model">Elimine esses riscos de segurança o mais rápido possível</string>
     <string name="summary_virus_update">Obter últimas definições de vírus automaticamente</string>
     <string name="summary_xiaomi_roaming">CNY 0.01/MB pelo roaming de dados móveis.</string>
     <string name="sunday">Domingo</string>
@@ -5837,6 +5858,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="vb_fps_display_unit">Hz</string>
     <string name="vb_fps_settings">Taxa de atualização automática</string>
     <string name="vb_fps_settings_tips">Este recurso ajusta a taxa de atualização da tela para a taxa de quadros do vídeo, o que economiza bateria e torna a reprodução de mídia mais suave. Ativar os comentários flutuantes desativará a taxa de atualização automática.</string>
+    <string name="vb_mv_style_close_toast">O estilo está desativado</string>
     <string name="vb_power_performance_mode_conflict_toast">"Não é possível usar esse recurso quando o Modo performance está ativado"</string>
     <string name="vb_power_save_mode_conflict_toast">"Não é possível usar esse recurso quando a Economia de bateria está ativada"</string>
     <string name="vb_quick_func_auto_bgm">Reconhecer música de fundo</string>
@@ -5909,6 +5931,7 @@ Este recurso não funciona com a suavização de movimento.
 Ativar um destes recursos desativará o outro."</string>
     <string name="vb_video_super_division_tips">"Não está nítido o suficiente?
 Experimente interpolar a resolução!"</string>
+    <string name="vb_vison_dynamic_enhance_close_toast">As animações aprimoradas estão desativadas</string>
     <string name="verify_shut_down_password_content">Exigir a confirmação do bloqueio de tela para poder desligar ou reiniciar o dispositivo</string>
     <string name="verify_shut_down_password_title">Confirmação de desligamento</string>
     <string name="verify_sms_ensure_allow">Enviar</string>
@@ -6258,6 +6281,7 @@ Experimente interpolar a resolução!"</string>
     <string name="group_clipboard">Prancheta</string>
     <string name="group_connect_device">Interconectividade</string>
     <string name="group_file">Arquivos e documentos</string>
+    <string name="group_file_less_t">Acesse arquivos e mídia</string>
     <string name="group_head_data_ai_clipboard">Proteção da área de transferência</string>
     <string name="group_head_data_ai_clipboard_desc">Permitir que o sistema decida se os apps podem acessar os itens na área de transferência</string>
     <string name="group_head_data_camera_desc">Desligue para restringir o acesso à câmera para todos os apps</string>
@@ -6306,6 +6330,7 @@ Experimente interpolar a resolução!"</string>
     <string name="pc_batery_protection">Proteção da bateria</string>
     <string name="pc_battery_health_revise_title">Calibrar informações de integridade da bateria</string>
     <string name="pc_battery_low_health_reminder">"É hora de substituir sua bateria"</string>
+    <string name="pc_button_go_to_setting">Configurações</string>
     <string name="pc_charged_auto_close_summary">Desligue quando a bateria estiver %1$s ou totalmente carregada</string>
     <string name="pc_charged_auto_close_title">Desligue quando carregado</string>
     <string name="pc_current_power_mode">Modo atual</string>
@@ -6313,12 +6338,13 @@ Experimente interpolar a resolução!"</string>
     <string name="pc_hide_more_power_rank_apps">Esconder</string>
     <string name="pc_more_battery_feature">Recursos adicionais</string>
     <string name="pc_more_power_rank_apps">Mais apps</string>
-    <string name="pc_night_charge_protect_summary">Ajuste automaticamente a duração do carregamento para preservar a longevidade da bateria</string>
+    <string name="pc_night_charge_protect_summary">Ajuste a duração do carregamento automaticamente para retardar o envelhecimento da bateria</string>
     <string name="pc_night_charge_protect_title">Proteção de carregamento noturno</string>
     <string name="pc_night_sleep_mode_summary">Desative automaticamente alguns recursos para economizar bateria quando o sono for detectado</string>
     <string name="pc_night_sleep_mode_title">Modo noturno</string>
     <string name="pc_power_consume_check">Verificação da bateria</string>
     <string name="pc_power_consume_check_ing">Verificando…</string>
+    <string name="pc_power_mode_has_performance">Modo desempenho está ativado</string>
     <string name="pc_power_save_settings_new">Configurações de economia de bateria</string>
     <string name="pc_save_charge">Carregando</string>
     <string name="pc_save_other_setting">Outros ajustes</string>
@@ -6337,15 +6363,16 @@ Experimente interpolar a resolução!"</string>
     <string name="permgroupdesc_readmediafile">Acesse fotos, vídeos e áudio armazenados neste dispositivo</string>
     <string name="permisison_usage_menu_all">Todos</string>
     <string name="permisison_usage_menu_terminal">Interconectividade</string>
-    <string name="permisison_usage_now_camera">Este app está acessando a câmera agora</string>
-    <string name="permisison_usage_now_location">Este app está acessando sua localização agora</string>
-    <string name="permisison_usage_now_mic">Este app está acessando o microfone agora</string>
+    <string name="permisison_usage_now_camera">Acessando a câmera agora</string>
+    <string name="permisison_usage_now_location">Acessando sua localização agora</string>
+    <string name="permisison_usage_now_mic">Acessando o microfone agora</string>
     <string name="permission_group_audio">Esta permissão permite que os apps acessem músicas e outros arquivos de áudio armazenados neste dispositivo.</string>
     <string name="permission_group_calendar">Esta permissão permite que os apps acessem, adicionem, excluam e editem eventos da agenda.</string>
     <string name="permission_group_call_log">Esta permissão permite que os apps acessem ou editem o histórico de chamadas.</string>
     <string name="permission_group_camera">Essa permissão permite que apps usem a câmera para tirar fotos ou gravar vídeos.</string>
     <string name="permission_group_contact">Esta permissão permite que os apps acessem ou editem contatos, bem como visualizem os contatos do app criados neste dispositivo.</string>
     <string name="permission_group_file">Esta permissão permite que os apps acessem todos os arquivos armazenados neste dispositivo.</string>
+    <string name="permission_group_file_less_t">Esta permissão permite que os apps acessem fotos, vídeos, áudio e outros arquivos armazenados neste dispositivo.</string>
     <string name="permission_group_image_video">Esta permissão permite que os apps acessem fotos e vídeos armazenados neste dispositivo.</string>
     <string name="permission_group_location">Esta permissão permite que os apps acessem informações de localização via rede ou satélite.</string>
     <string name="permission_group_microphone">Esta permissão permite que os apps usem o microfone para gravar áudio.</string>

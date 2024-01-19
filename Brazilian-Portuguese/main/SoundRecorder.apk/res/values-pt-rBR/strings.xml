@@ -659,9 +659,9 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="time_picker_label_minute">M</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s pode gravar até %2$s</string>
-    <string name="toast_uninstall_fileexplorer">O Gerenciador de Arquivos não está instalado</string>
+    <string name="toast_stop">Gravação concluída</string>
+    <string name="toast_uninstall_fileexplorer">O gerenciador de Arquivos não está instalado</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="trash_box">Itens recentemente excluídos</string>

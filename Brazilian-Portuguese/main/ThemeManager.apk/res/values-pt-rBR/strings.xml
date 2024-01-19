@@ -130,7 +130,7 @@
     <string name="backup_theme_progress_message">Criando backup…</string>
     <string name="backup_theme_success_message">As configurações de tema atuais foram salvas.</string>
     <string name="basic_mode">Modo offline</string>
-    <string name="basic_mode_desc">"O app Temas não se conecta à Internet e usa apenas conteúdo local. Suas informações pessoais não serão coletadas."</string>
+    <string name="basic_mode_desc">"Não permita que este app se conecte à Internet, apenas acesse e use itens do seu dispositivo (por exemplo, fotos, áudio e vídeos). Nenhuma de suas informações pessoais será coletada"</string>
     <string name="boot_audio_dialog_cancel">Cancelar</string>
     <string name="boot_audio_dialog_confirm">"OK"</string>
     <string name="boot_audio_dialog_content">O áudio de inicialização está desativado agora. Deseja ativá-lo e aplicar este som?</string>
@@ -139,7 +139,7 @@
     <string name="both_all_apply_success">Plano de fundo aplicado</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="browse_mode">Modo online</string>
-    <string name="browse_mode_desc">"O app Temas se conectará à Internet e usará conteúdo local e online. Suas informações pessoais não serão coletadas.."</string>
+    <string name="browse_mode_desc">"Permita que este app se conecte à Internet, acesse conteúdo on-line e use itens do seu dispositivo (por exemplo, fotos, áudio e vídeos). Nenhuma de suas informações pessoais será coletada."</string>
     <string name="browser_local_resource">Recursos locais</string>
     <string name="can_not_apply">Não é possível aplicar</string>
     <string name="can_not_apply_error">Este formato de vídeo não é suportado</string>
