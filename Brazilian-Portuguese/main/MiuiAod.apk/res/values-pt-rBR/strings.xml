@@ -164,6 +164,8 @@ dd/MM"</string>
     <string name="chip_text">Texto do chip</string>
     <string name="choose_aod_style">Selecionar tema</string>
     <string name="chosen_picture">Selecione o plano de fundo</string>
+    <string name="classic_calendar_day_of_week_format">"EE"</string>
+    <string name="classic_calendar_month_of_year_format">"MMM"</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="clock_panel_icon">Face do relógio</string>
@@ -197,14 +199,14 @@ dd/MM"</string>
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="fmt_date_day">dd</string>
-    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month">"MMMM"</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
     <string name="fmt_date_long_year_month">"MMMM 'de' yyyy"</string>
     <string name="fmt_date_long_year_month_day">"dd 'de' MMMM 'de' yyyy"</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year">"yyyy"</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">"MMM"</string>
@@ -239,14 +241,17 @@ dd/MM"</string>
     <string name="format_chs_month_day">%1$d m %2$d d</string>
     <string name="format_day_desc">Dia do mês: %s</string>
     <string name="format_day_week_desc">Dia do mês: %1$s, %2$s</string>
-    <string name="format_lunar_calendar_month_day_desc">Data de acordo com o calendário tradicional chinês: %s</string>
-    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, data de acordo com o calendário tradicional chinês: %3$s, feriado: %4$s</string>
+    <string name="format_full_day_of_week">"EEEE"</string>
+    <string name="format_full_month_of_year">"MMMM"</string>
+    <string name="format_lunar_calendar_month_day_desc">Data de acordo com o Calendário Tradicional Chinês: %s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, data de acordo com o Calendário Tradicional Chinês: %3$s, feriado: %4$s</string>
     <string name="format_month_day_style1">d/MMM</string>
     <string name="format_month_day_style2">d/M</string>
     <string name="format_month_day_week">EEE, dd/MMM</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, data de acordo com o calendário tradicional chinês: %4$s</string>
     <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, feriado: %4$s</string>
     <string name="format_solar_lunar_calendar_month_day_desc">Feriado: %1$s, data de acordo com o calendário tradicional chinês: %2$s</string>
+    <string name="format_week_day_style1">"EE d"</string>
     <string name="format_week_day_style1_desc">%1$s, dia do mês: %2$s</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
@@ -326,7 +331,7 @@ dd/MM"</string>
     <string name="kg_dialog_fashion_gallery_button_positive">Cancelar</string>
     <string name="kg_dialog_fashion_gallery_message">"Você está usando o Carrossel de papéis de parede. Aplicar um papel de parede dinâmico desativará o Carrossel de papéis de parede. Aplicar mesmo assim?"</string>
     <string name="kg_dialog_fashion_gallery_title">Atenção!</string>
-    <string name="kg_doodle_primary_label">Doodles</string>
+    <string name="kg_doodle_primary_label">Rabiscos</string>
     <string name="kg_doodle_secondary_disable_tip">Ative o efeito de profundidade</string>
     <string name="kg_doodle_secondary_label">Fundo</string>
     <string name="kg_edit_cancel_dialog_content">Descartar todas as alterações agora?</string>
@@ -407,7 +412,7 @@ dd/MM"</string>
     <string name="miui_clock_city_name_local">"Localização"</string>
     <string name="miui_clock_city_name_second">Segundo relógio</string>
     <string name="miui_lock_screen_date">EEE, dd/MMM</string>
-    <string name="miui_lock_screen_date_12">EEE, </string>
+    <string name="miui_lock_screen_date_12">EEE, dd/MMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEE
 dd/MMM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEE
@@ -416,17 +421,17 @@ dd/MMM"</string>
 d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 d/M"</string>
-    <string name="miui_magazine_c_clock_style1_week">EEEE</string>
+    <string name="miui_magazine_c_clock_style1_week">"EEEE"</string>
     <string name="miui_magazine_c_clock_style2_date">EE d/M</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd/MMM</string>
     <string name="miui_magazine_clock_date">d/M</string>
     <string name="miui_magazine_clock_date_content_description">dd/MM</string>
-    <string name="miui_magazine_clock_week">EEE</string>
+    <string name="miui_magazine_clock_week">"EEE"</string>
     <string name="miui_rhombus_clock_date">dd MMMM</string>
-    <string name="miui_rhombus_clock_week">EEE</string>
-    <string name="miui_rhombus_clock_week_full">EEEE</string>
+    <string name="miui_rhombus_clock_week">"EEE"</string>
+    <string name="miui_rhombus_clock_week_full">"EEEE"</string>
     <string name="miui_smart_frame_clock_date">d/M</string>
-    <string name="miui_smart_frame_clock_week">EEE</string>
+    <string name="miui_smart_frame_clock_week">"EEE"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -573,7 +578,7 @@ mm"</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="scheduled_mode_dialog_msg">Os itens serão exibidos em sua Tela ambiente dentro deste período: %s.</string>
     <string name="scheduled_mode_dialog_msg_12">h:mm a</string>
-    <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
+    <string name="scheduled_mode_dialog_msg_24">"HH:mm"</string>
     <string name="scheduled_mode_msg">Período ativo: %s</string>
     <string name="scheduled_style">Programado</string>
     <string name="scheduled_style_summary">Definir duração personalizada</string>
@@ -589,7 +594,7 @@ mm"</string>
     <string name="settings_view_btn_check_off">Desativado</string>
     <string name="settings_view_btn_check_on">Ativado</string>
     <string name="share">Compartilhar</string>
-    <string name="share_to_community">Compartilhar na Mi Community</string>
+    <string name="share_to_community">Compartilhar na Comunidade Mi</string>
     <string name="show_battery">Mostrar status da bateria</string>
     <string name="show_battery_status">Mostrar status da bateria</string>
     <string name="show_lunar">Mostrar calendário Tradicional Chinês</string>
@@ -622,6 +627,8 @@ mm"</string>
     <string name="super_wallpaper_date">"EEE
 dd/MM"</string>
     <string name="super_wallpaper_date_inter">"EEEE
+dd/MM"</string>
+    <string name="super_wallpaper_date_lunar">"EEE
 dd/MM"</string>
     <string name="temporary_style">Por 10 segundos após tocar na tela</string>
     <string name="temporary_style_5">Por 5 segundos após tocar na tela</string>

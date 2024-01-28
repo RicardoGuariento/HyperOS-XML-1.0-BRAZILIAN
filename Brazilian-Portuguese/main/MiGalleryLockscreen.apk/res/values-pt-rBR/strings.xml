@@ -291,13 +291,13 @@ Envie este código para o supervisor."</string>
     <string name="favor_success">Adicionado aos favoritos com sucesso</string>
     <string name="feed_article_entrance_about">Sobre \"%s\"</string>
     <string name="find_psw">Esqueci a senha</string>
-    <string name="fmt_date_day">dd</string>
-    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_day">"dd"</string>
+    <string name="fmt_date_long_month">"MMMM"</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
     <string name="fmt_date_long_year_month">"MMMM 'de' yyyy"</string>
     <string name="fmt_date_long_year_month_day">"dd 'de' MMMM 'de' yyyy"</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
+    <string name="fmt_date_numeric_day">"dd"</string>
+    <string name="fmt_date_numeric_month">"MM"</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>

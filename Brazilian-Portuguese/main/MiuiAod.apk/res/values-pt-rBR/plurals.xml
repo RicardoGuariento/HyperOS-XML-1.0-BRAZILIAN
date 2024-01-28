@@ -67,6 +67,10 @@ Animações mais longas serão interrompidas neste ponto."</item>
         <item quantity="other">Meta de calorias: %1$s calorias</item>
         <item quantity="one">Meta de calorias: %1$s calorias</item>
     </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">"%1$s/%2$s kcal"</item>
+        <item quantity="one">"%1$s/%2$s kcal"</item>
+    </plurals>
     <plurals name="health_chart_sport_time_current_schedule_format_desc">
         <item quantity="other">Tempo de atividade: %1$s minutos</item>
         <item quantity="one">Tempo de atividade: %1$s minuto</item>

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="UVI_level_0">Fraco</string>
+    <string name="UVI_level_1">Moderado</string>
+    <string name="UVI_level_2">Forte</string>
+    <string name="UVI_level_3">Muito forte</string>
+    <string name="UVI_level_4">Forte</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
@@ -414,7 +419,7 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_long">"EEEE"</string>
     <string name="fold_close_failed">"Não foi possível desativar"</string>
     <string name="fold_close_incall_dialog_content">"Vídeos de perfil não são mais suportados. Você não poderá ativar esse recurso novamente depois disso. Desativar mesmo assim?"</string>
     <string name="fold_close_incall_dialog_title">Desativar os vídeos do perfil</string>
@@ -449,6 +454,19 @@
     <string name="font_trial_end_purchase">Comprar fonte</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Primeiro aplique o plano de fundo transparente no Primeiro espaço.</string>
     <string name="forbid_video_wallpaper_by_second_space">Aplicar primeiro o plano de fundo dinâmico no Primeiro espaço.</string>
+    <string name="format_day_desc">Dia do mês: %s</string>
+    <string name="format_day_week_desc">Dia do mês: %1$s, %2$s</string>
+    <string name="format_full_day_of_week">"EEEE"</string>
+    <string name="format_full_month_of_year">"MMMM"</string>																			 
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, data de acordo com o Calendário Tradicional Chinês: %3$s, feriado: %4$s</string>
+    <string name="format_month_day_style1">dd/MMM</string>
+    <string name="format_month_day_style2">d/M</string>
+    <string name="format_month_day_week">EEE, dd/MMM</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, data de acordo com o Calendário Tradicional Chinês: %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, feriado: %4$s</string>
+    <string name="format_solar_lunar_calendar_month_day_desc">Feriado: %1$s, data de acordo com o Calendário Tradicional Chinês: %2$s</string>
+    <string name="format_week_day_style1">"EE d"</string>
+    <string name="format_week_day_style1_desc">%1$s, dia do mês: %2$s</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -466,6 +484,15 @@
     <string name="has_mamual_hide_theme">Ocultar</string>
     <string name="has_mamual_hide_wallpaper">Ocultar</string>
     <string name="head_portraits">Foto de perfil</string>
+    <string name="health_chart_calories_unit">Calorias</string>
+    <string name="health_chart_sleep_time_format">%1$sh %2$sm</string>
+    <string name="health_chart_sleep_time_good">Suficiente</string>
+    <string name="health_chart_sleep_time_low">Insuficiente</string>
+    <string name="health_chart_sleep_time_normal">"Normal"</string>
+    <string name="health_chart_sleep_time_very_good">Bom</string>
+    <string name="health_chart_step_count_unit">Passos</string>
+    <string name="health_no_data">Sem dados de saúde</string>
+    <string name="health_sleep_desc">Duração do sono %1$s, qualidade do sono: %2$s</string>
     <string name="hide_free_aod">Não mostrar temas gratuitos</string>
     <string name="hide_free_font">Ocultar fontes gratuitas</string>
     <string name="hide_free_icons">Não mostrar ícones gratuitos</string>
@@ -489,6 +516,7 @@
     <string name="home_apply_failured">Não é possível aplicar o plano de fundo à Tela inicial</string>
     <string name="home_apply_success">Plano de fundo aplicado à Tela inicial</string>
     <string name="home_daily">Destaques diários</string>
+    <string name="humidity_format">Umidade %s</string>
     <string name="i_know">Entendi</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="icon_pad_setting_find_more_title">Mais ícones</string>
@@ -528,7 +556,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="large_icon_apply_fail_for_in_folder">"Não é possível usar Super ícones para apps em pastas"</string>
     <string name="large_icon_apply_fail_for_in_oldmode">"Super ícones não são suportados no Modo simples"</string>
     <string name="large_icon_apply_fail_for_not_in_launcher">"Não é possível usar Super ícones para apps que não estão na Tela inicial"</string>
-    <string name="large_icon_detail_title">%s Super icons</string>
+    <string name="large_icon_detail_title">%s Superícones</string>
     <string name="large_icon_detail_warning_dialog_btn_keep">Continuar</string>
     <string name="large_icon_detail_warning_dialog_btn_not_keep">Reverter</string>
     <string name="large_icon_detail_warning_dialog_msg">"Alguns apps estão usando Super ícones. Continuar usando os Super ícones ou reverter para os ícones padrão do seu tema?"</string>
@@ -626,17 +654,17 @@ mm"</string>
 dd 'de' MMM"</string>
     <string name="lock_screen_date_two_lines_12">"EEE
 dd 'de' MMM"</string>
-    <string name="miui_magazine_c_clock_style1_week">EEEE</string>
+    <string name="miui_magazine_c_clock_style1_week">"EEEE"</string>
     <string name="miui_magazine_c_clock_style2_date">EE, d/M</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
     <string name="miui_magazine_clock_date">d/M</string>
     <string name="miui_magazine_clock_date_content_description">dd/MM</string>
-    <string name="miui_magazine_clock_week">EEE</string>
-    <string name="miui_rhombus_clock_date">dd MMMM</string>
-    <string name="miui_rhombus_clock_week">EEE</string>
-    <string name="miui_rhombus_clock_week_full">EEEE</string>
+    <string name="miui_magazine_clock_week">"EEE"</string>
+    <string name="miui_rhombus_clock_date">"dd MMMM"</string>
+    <string name="miui_rhombus_clock_week">"EEE"</string>
+    <string name="miui_rhombus_clock_week_full">"EEEE"</string>
     <string name="miui_smart_frame_clock_date">d/M</string>
-    <string name="miui_smart_frame_clock_week">EEE</string>
+    <string name="miui_smart_frame_clock_week">"EEE"</string>
     <string name="miuishare_account_activate_confirmation">Ativar Conta Mi</string>
     <string name="miuishare_account_activate_ok">Ativar</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
@@ -768,7 +796,6 @@ dd 'de' MMM"</string>
     <string name="mtrl_picker_out_of_range">Fora do intervalo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de término</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Selecione um intervalo</string>
     <string name="mtrl_picker_range_header_unselected">Data de início – Data de término</string>
     <string name="mtrl_picker_save">Salvar</string>
@@ -845,6 +872,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="personalize_fingerprint_style_title">Impressão digital</string>
     <string name="personalize_font_demo_content">"Aa"</string>
     <string name="personalize_icon_title">Ícones</string>
+    <string name="personalize_item_more_setting">Configurações adicionais</string>
     <string name="personalize_notify_ringtone_title">Notificações</string>
     <string name="personalize_notify_style_title">Efeitos</string>
     <string name="personalize_recommend_switch_desc">Receba recomendações de conteúdo personalizado com base na ID do dispositivo</string>
@@ -1176,6 +1204,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_restore_succ">Restaurado com sucesso</string>
     <string name="resource_ringtone_default">Toques</string>
     <string name="resource_ringtone_playing_error">Erro</string>
+    <string name="resource_ringtone_too_large_waring">Os arquivos de toque devem ter %1$d MB ou menos</string>
     <string name="resource_ringtone_volume_mute">Toque silenciado</string>
     <string name="resource_save_to_note">Salvar em Notas</string>
     <string name="resource_search_color_hint_blue">Azul</string>
@@ -1220,7 +1249,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_trial_end_purchase">Comprar</string>
     <string name="resource_trial_end_restore">Finalizar teste</string>
     <string name="resource_trial_end_time">(teste até %1$s)</string>
-    <string name="resource_trial_end_time_format">dd/MMMM, h:mma</string>
+    <string name="resource_trial_end_time_format">dd/MMM, h:mma</string>
     <string name="resource_trial_end_title">Teste expirado</string>
     <string name="resource_trial_fail_cancel">"OK"</string>
     <string name="resource_trial_fail_go_settings">Configurações</string>
@@ -1268,6 +1297,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="selected_resource_file_invalid">Não é possível usar o arquivo do recurso selecionado</string>
     <string name="send">Enviar</string>
     <string name="server_internal_error">Ocorreu um erro de servidor. Tente novamente</string>
+    <string name="server_message">Linha direta de atendimento ao cliente: 400–100–5678</string>
     <string name="set_as_colorring">Definir como toque personalizado</string>
     <string name="set_calling">Definir</string>
     <string name="set_color_ring_back_tone">Definir um toque CRBT personalizado</string>
@@ -1571,6 +1601,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="uid_change_dialog_message">Você excluiu atualizações. Reinicie o dispositivo para conseguir usar temas.</string>
     <string name="uid_change_dialog_ok">OK</string>
     <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
+    <string name="ultraviolet_rays_abbreviation">IUV</string>
     <string name="unable_connect_network">"Não foi possível conectar-se à rede"</string>
     <string name="uninstall_theme">Remover \"Temas\" da Tela inicial?</string>
     <string name="uninstall_theme_description">Temas é um app do sistema. Ele fornece planos de fundo e várias opções de personalização. Você ainda poderá usar o Temas por meio das Configurações após remover o atalho da Tela inicial.</string>
@@ -1593,6 +1624,8 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="using_theme_next_automatic_update">Atualizações automáticas</string>
     <string name="using_theme_next_automatic_update_summary">Atualiza temas baixados por Wi-Fi quando a tela estiver bloqueada</string>
     <string name="using_theme_show_ad">Recomendações</string>
+    <string name="uvi_format">IUV %1$s %2$s</string>
+    <string name="uvi_format_desc">Índice ultravioleta: %1$s, %2$s</string>
     <string name="v7_preference_off">Desativado</string>
     <string name="v7_preference_on">Ativado</string>
     <string name="version_update">Verifique se há atualizações</string>
@@ -1650,6 +1683,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_loop_title">Apresentação de planos de fundo</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Apresentação de planos de fundo da Tela inicial</string>
     <string name="wallpaper_loop_title_lock_walpaper">Apresentação de planos de fundo da Tela de bloqueio</string>
+    <string name="wallpaper_magic_mode_preview_tip">Visualização da Tela de bloqueio</string>
     <string name="wallpaper_no_favorite">Sem itens</string>
     <string name="wallpaper_no_record">Sem itens</string>
     <string name="wallpaper_online">Planos de fundo online</string>
@@ -1694,6 +1728,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="warning_miui_optimization_closed_dialog_message">"Parece que você não ativou a otimização do HyperOS. Sem ela, este tema não funcionará corretamente quando aplicado. Você pode aplicá-lo de qualquer maneira ou ativar a otimização do HyperOS em Configurações."</string>
     <string name="warning_miui_optimization_closed_dialog_title">Atenção!</string>
     <string name="warning_subscribe_wallpaper_group_content">"Você ativou a apresentação de slides na Tela inicial. %1$s será aplicado à sua Tela inicial."</string>
+    <string name="weather_no_data">Não há dados meteorológicos</string>
     <string name="wechat_not_found">Instale o WeChat primeiro</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
@@ -1703,6 +1738,19 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wifi_check_confirm">Confirmar</string>
     <string name="wifi_check_message">Usar os dados móveis para o download de atualizações?</string>
     <string name="wifi_check_tip">Não mostrar novamente</string>
+    <string name="wind_direction_0">Vento N</string>
+    <string name="wind_direction_1">Vento NL</string>
+    <string name="wind_direction_1_f">Vento NL</string>
+    <string name="wind_direction_2">Vento L</string>
+    <string name="wind_direction_3">Vento SL</string>
+    <string name="wind_direction_3_f">Vento SL</string>
+    <string name="wind_direction_4">Vento S</string>
+    <string name="wind_direction_5">Vento SO</string>
+    <string name="wind_direction_5_f">Vento SO</string>
+    <string name="wind_direction_6">Vento O</string>
+    <string name="wind_direction_7">Vento NO</string>
+    <string name="wind_direction_7_f">Vento NO</string>
+    <string name="wind_format">%1$s | Nível %2$s</string>
     <string name="xiaoai_speech_not_installed_download">Baixar</string>
     <string name="xiaoai_speech_not_installed_message">Baixe e instale o Assistente de Voz Mi AI para continuar.</string>
     <string name="xiaoai_speech_not_installed_title">O Assistente de voz Mi AI não está instalado.</string>

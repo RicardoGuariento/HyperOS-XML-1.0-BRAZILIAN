@@ -7732,7 +7732,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="permission_settings_summary">Gerenciar permissões relacionadas a localização, armazenamento, telefone, mensagens e contatos.</string>
     <string name="permission_settings_title">Permissões de apps</string>
     <string name="permissions_label">Permissões</string>
-    <string name="permissions_usage_summary">Mostrar quais apps recentemente usavam permissões</string>
+    <string name="permissions_usage_summary">Exibe quais apps recentemente usavam permissões</string>
     <string name="permissions_usage_title">Painel de privacidade</string>
     <string name="permit_draw_overlay">Permitir sobreposição a outros apps</string>
     <string name="permit_full_screen_intent">Permitir notificações em tela cheia deste app</string>
@@ -8537,7 +8537,7 @@ Essa configuração afeta todos os usuários do smartphone."</string>
     <string name="runningservices_settings_summary">Visualizar e controlar os serviços em execução no momento</string>
     <string name="runningservices_settings_title">Serviços em execução</string>
     <string name="runtime_permissions_additional_count">{count, plural, =1 {# permissão adicional} other {# permissões adicionais} }</string>
-    <string name="runtime_permissions_summary_control_app_access">Controlar acesso de apps aos seus dados</string>
+    <string name="runtime_permissions_summary_control_app_access">Controle o acesso de apps aos seus dados</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Nenhuma permissão concedida</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Nenhuma permissão solicitada</string>
     <string name="rx_link_speed">"%1$d Mbps"</string>

@@ -3653,6 +3653,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_main_sub_battery_text_day_hour">%1$s d e %2$s h restante(s)</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h e %2$s min restante(s)</string>
     <string name="pc_no_more_remind">"Não lembrar"</string>
+    <string name="pc_ordinary_charge_summary">Sempre permitir o carregamento até %1$s</string>
+    <string name="pc_ordinary_charge_title">Carregamento regular</string>
     <string name="pc_performance_mode_dialog_summary">Seu dispositivo poderá funcionar por %s no Modo desempenho. Observe que o Modo desempenho aumenta o consumo de energia e pode levar ao superaquecimento.</string>
     <string name="pc_performance_mode_dialog_summary2">"Este modo irá melhorar o desempenho do dispositivo, entretanto isso pode aumentar o consumo de energia e causar problemas de superaquecimento. Ativar mesmo assim?"</string>
     <string name="pc_performance_mode_dialog_title">Modo desempenho</string>
