@@ -120,12 +120,11 @@
     <string name="bone_mass_uppercase_label">Bone mass</string>
     <string name="bone_mass_write_content_description">Write bone mass</string>
     <string name="boot_camp">Boot camp</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
-    <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
+    <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
+    <string name="bottomsheet_action_expand">Expandir a página inferior</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
-    <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
-    <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+    <string name="bottomsheet_drag_handle_clicked">Arraste a alça com um toque duplo</string>
+    <string name="bottomsheet_drag_handle_content_description">Arraste a alça</string>
     <string name="boxing">Boxing</string>
     <string name="browse_data_category">Browse data</string>
     <string name="burpee">Burpee</string>

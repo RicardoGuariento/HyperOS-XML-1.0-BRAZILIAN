@@ -3437,11 +3437,10 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="biometric_re_enroll_dialog_confirm">Configurar</string>
     <string name="biometric_re_enroll_notification_content">Isso é necessário para melhorar a segurança e o desempenho</string>
     <string name="bluetooth_talkback_group">Dispositivos de grupo</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="bottomsheet_action_collapse">Recolher a folha inferior</string>
-    <string name="bottomsheet_action_expand">Expanda a folha inferior</string>
+    <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
+    <string name="bottomsheet_action_expand">Expanda a página inferior</string>
     <string name="bottomsheet_drag_handle_clicked">Arraste a alça com um toque duplo</string>
-    <string name="bottomsheet_drag_handle_content_description">Alça de arrastar</string>
+    <string name="bottomsheet_drag_handle_content_description">Arraste a alça</string>
     <string name="broadcasting_description_is_broadcasting">Transmissão</string>
     <string name="bt_le_audio_broadcast_dialog_unknown_name">Desconhecido</string>
     <string name="call_from_work_profile_action">Mudar para o perfil de trabalho</string>

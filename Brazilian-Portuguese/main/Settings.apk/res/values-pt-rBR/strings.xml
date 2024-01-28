@@ -2204,12 +2204,12 @@ Se você já fez tudo descrito acima, adicione sua Conta Mi novamente; senão, v
     <string name="bootloader_tips_ok">Entendi</string>
     <string name="bootloader_tips_warning">"Não desconecte da rede, saia da sua Conta Mi, faça uma restauração de fábrica, ou limpe os dados do sistema."</string>
     <string name="bottom_function_settings">Função dos botões adicionais</string>
-    <string name="bottomsheet_action_collapse">Recolher a folha inferior</string>
-    <string name="bottomsheet_action_expand">Expanda a folha inferior</string>
+    <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
+    <string name="bottomsheet_action_expand">Expanda a página inferior</string>
     <string name="bottom_to_top_slide">Deslize para cima</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="bottomsheet_drag_handle_clicked">Arraste a alça com um toque duplo</string>
-    <string name="bottomsheet_drag_handle_content_description">Alça de arrastar</string>
+    <string name="bottomsheet_drag_handle_content_description">Arraste a alça</string>
     <string name="breathing_light_color_menu_title">Cor do LED</string>
     <string name="breathing_light_color_summary">Cor do LED ao receber novas notificações</string>
     <string name="breathing_light_freq_summary">Definir intervalo de pulso para trackball</string>
@@ -9749,6 +9749,7 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="slight_pause">,</string>
     <string name="slot_number">" (Slot %1$d)"</string>
     <string name="slot_status_title">Informação do IMEI</string>
+    <string name="small_window_not_support_add_data_toast">"Não é possível gravar dados em janelas flutuantes. Mude para tela inteira e tente novamente."</string>
     <string name="smallwindow_smartcover_title">Capa flip com abertura frontal</string>
     <string name="smart_battery_footer">Quando o Gerenciador de bateria detectar que apps estão descarregando a bateria, você terá a opção de restringi-los. Apps com restrição podem não funcionar corretamente e é possível que as notificações atrasem.</string>
     <string name="smart_battery_manager_title">Gerenciador de bateria</string>

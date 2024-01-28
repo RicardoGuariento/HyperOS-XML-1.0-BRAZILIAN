@@ -1042,6 +1042,7 @@ Permita que o app Notas grave áudio."</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="view_all_notes">Ver todos</string>
+    <string name="warn_cannot_add_more_content">"Esta nota atingiu seu tamanho máximo. Qualquer conteúdo adicional não será salvo."</string>
     <string name="warn_cannot_add_new_bullet">"Não é possível adicionar uma nova lista com marcadores porque a nota é muito longa"</string>
     <string name="warn_cannot_add_new_checkbox">"Não é possível adicionar uma nova caixa de seleção porque a nota é muito longa"</string>
     <string name="warn_cannot_add_new_content">"Não é possível adicionar um novo conteúdo porque a nota é muito longa"</string>
@@ -1078,5 +1079,4 @@ Permita que o app Notas grave áudio."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="yesterday">Ontem</string>
-    <string name="warn_cannot_add_more_content">"Esta nota atingiu seu tamanho máximo. Qualquer conteúdo adicional não será salvo."</string>
 </resources>
