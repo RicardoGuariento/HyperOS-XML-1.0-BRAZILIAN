@@ -174,6 +174,7 @@
     <string name="projection_fail">Não foi possível transmitir. Verifique sua tela externa e tente novamente</string>
     <string name="public_amazon_autosave_finished">O documento foi salvo automaticamente</string>
     <string name="public_bad_doc_to_process">Documento inválido, não é possível completar a operação</string>
+    <string name="public_banner_action_button">Usar agora</string>
     <string name="public_bookmark">Marcador</string>
     <string name="public_cancel">Cancelar</string>
     <string name="public_chart_category">Categorias</string>
@@ -299,8 +300,13 @@
     <string name="public_sensor_ratation_port_tip">Modo retrato</string>
     <string name="public_service_disable_error_tips">Este recurso não pode ser usado porque o serviço relacionado foi desativado.</string>
     <string name="public_share">Compartilhar</string>
+    <string name="public_share_change_to_pdf">Enviar como PDF</string>
+    <string name="public_share_change_to_pic">Enviar como imagem</string>
+    <string name="public_share_change_to_word">Enviar como Word</string>
+    <string name="public_share_doc">Enviar como arquivo</string>
     <string name="public_share_no_network">Não foi possível conectar-se à rede</string>
     <string name="public_share_retry">Tentar novamente</string>
+    <string name="public_share_title">Método de envio</string>
     <string name="public_share_to_tv">Transmitir</string>
     <string name="public_shareplay_connect_fail">Verifique a sua conexão de rede</string>
     <string name="public_shareplay_connection">Conectando…</string>
