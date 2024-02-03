@@ -468,13 +468,13 @@
         <item>Chuva congelada</item>
     </string-array>
     <string-array name="week_header_name">
-        <item>DOMINGO</item>
-        <item>SEGUNDA</item>
-        <item>TERÇA</item>
-        <item>QUARTA</item>
-        <item>QUINTA</item>
-        <item>SEXTA</item>
-        <item>SÁBADO</item>
+        <item>"DOM"</item>
+        <item>"SEG"</item>
+        <item>"TER"</item>
+        <item>"QUA"</item>
+        <item>"QUI"</item>
+        <item>"SEX"</item>
+        <item>"SÁB"</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Transparente</item>
