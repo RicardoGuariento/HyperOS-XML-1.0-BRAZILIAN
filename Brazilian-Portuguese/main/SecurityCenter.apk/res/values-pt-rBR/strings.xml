@@ -6384,6 +6384,7 @@ Experimente interpolar a resolução!"</string>
     <string name="permission_instruction_receive_sms_mms">Esta permissão permite que os apps leiam todos os SMS e MMS. Essas mensagens podem conter senhas, detalhes de contas bancárias e outras informações pessoais.</string>
     <string name="permission_legacy_storage">Acesse fotos, vídeos, áudio e arquivos</string>
     <string name="permission_precise_location">Localização precisa</string>
+    <string name="permission_precise_location_sumary">Quando esse recurso estiver desativado, os apps só poderão acessar sua localização aproximada</string>
     <string name="permission_share_uid">Localização precisa</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Acessou as informações do seu treino</string>
     <string name="permission_usage_allow_autostart_once">%1$s | Foi iniciado automaticamente</string>
