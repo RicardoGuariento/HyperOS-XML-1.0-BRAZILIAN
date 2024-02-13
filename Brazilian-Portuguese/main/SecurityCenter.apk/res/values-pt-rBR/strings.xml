@@ -1956,6 +1956,10 @@ monitoramento de terremotos"</string>
     <string name="firewall_restrict_notify_title">O %s não pode usar a rede</string>
     <string name="firewall_restrict_wlan">Restringir uso de conexão Wi-Fi</string>
     <string name="firewall_rule_group_title_roaming">Roaming no exterior</string>
+    <string name="firewall_statement_msg">Devido a restrições do sistema e requisitos de qualidade da operadora, um pequeno número de apps pode continuar usando dados móveis mesmo quando desativados. Se você encontrar essa situação, informe-nos em Serviços e feedback.</string>
+    <string name="firewall_statement_no_more">"Não lembrar novamente"</string>
+    <string name="firewall_statement_ok">Entendi</string>
+    <string name="firewall_statement_title">Atenção!</string>
     <string name="firewall_system_title">Conexões de apps do sistema</string>
     <string name="firewall_temp_rule_reason">%2$s restringiu a conexão com a internet do app %1$s</string>
     <string name="firewall_wifi">"Wi-Fi"</string>
