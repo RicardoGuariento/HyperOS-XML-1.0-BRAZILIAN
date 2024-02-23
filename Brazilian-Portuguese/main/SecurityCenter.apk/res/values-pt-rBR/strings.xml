@@ -496,6 +496,9 @@
     <string name="app_manager_data_size">Dados do usuário</string>
     <string name="app_manager_default_cleared">Limpo</string>
     <string name="app_manager_default_close_summary">Nenhum padrão definido.</string>
+    <string name="app_manager_default_open_summary">Você optou por iniciar este app por padrão para algumas ações.</string>
+    <string name="app_manager_default_open_title">Limpar padrões</string>
+    <string name="app_manager_default_close_summary">Nenhum padrão definido.</string>
     <string name="app_manager_default_open_summary">Você escolheu executar este app por padrão para algumas ações.</string>
     <string name="app_manager_default_open_title">Limpar padrões</string>
     <string name="app_manager_defaults_setting">Apps padrão</string>
@@ -2062,6 +2065,7 @@ monitoramento de terremotos"</string>
     <string name="fod_finger_notice_title">Coloque seu dedo na tela</string>
     <string name="fod_finger_windows_tips">Verifique sua impressão digital</string>
     <string name="fod_tips_split_screen_more_than_half">Inserir senha</string>
+    <string name="fold_application_mode_name">Layouts de apps</string>
     <string name="forbid_autobright_summary">O brilho automático será desativado enquanto estiver jogando e será restaurado quando terminar</string>
     <string name="forbid_autobright_title">Corrigir brilho da tela</string>
     <string name="foreground_traffic">1º plano: %s</string>
@@ -3676,7 +3680,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_wireless_charging_special_stand_summary2">Instale o dispositivo no suporte fornecido com o carregador sem fio para obter melhor desempenho de carregamento</string>
     <string name="pc_wireless_charging_special_stand_title">Use o suporte de carregamento fornecido</string>
     <string name="pc_wireless_handle_connected">Dispositivo conectado</string>
-    <string name="pc_wireless_handle_title">Grip de câmera sem fio</string>
+    <string name="pc_wireless_handle_title">Grip de Câmera</string>
     <string name="pc_xiaoai_create_auto_task">Nova tarefa do Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
     <string name="perfermance_optimization_summary">Evita o superaquecimento e problemas relacionados ao hardware</string>
@@ -5966,6 +5970,7 @@ Experimente interpolar a resolução!"</string>
     <string name="virus_update_tips_title">Alerta</string>
     <string name="virus_wait_network_dialog_message">Seu telefone não está conectado ao Wi-Fi no momento. Usar a conexão de dados?</string>
     <string name="vtb_ai_subtitle">Legendas</string>
+    <string name="vtb_ai_subtitle_intl">Legendas de IA</string>
     <string name="vtb_func_desc">Sobre este recurso</string>
     <string name="vtb_func_display_style_desc0">A IA pode reconhecer pessoas, animais, plantas, céu, edifícios e outros objetos apresentados em vídeos e aprimorá-los dinamicamente.</string>
     <string name="vtb_func_display_style_desc1">Os efeitos selecionados não serão aplicados em vídeos HDR nos dispositivos selecionados.</string>

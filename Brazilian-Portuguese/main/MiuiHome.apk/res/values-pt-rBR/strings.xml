@@ -590,7 +590,7 @@ Segurança melhorada."</string>
     <string name="mi_wallpaper">Temas HyperOS</string>
     <string name="midnight">"AM"</string>
     <string name="minus_one_screen">Assistente</string>
-    <string name="miui_screen_config_title">Configurações da Tela inicial</string>
+    <string name="miui_screen_config_title">Layout da Tela inicial</string>
     <string name="miui_setting_config_title">Configurações da Tela inicial</string>
     <string name="miui_widget_menu_replace_text">Trocar</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"Assistente não suporta widgets deste tamanho"</string>
@@ -857,6 +857,7 @@ Segurança melhorada."</string>
     <string name="recent_menu_item_unlock">Desbloquear</string>
     <string name="recent_menu_item_worldcirculate">Transferir tarefas de apps</string>
     <string name="recent_menu_item_worldcirculate_disable">"Não é possível transferir tarefas de apps entre dispositivos conectados"</string>
+    <string name="recent_pin_text">"Pin"</string>
     <string name="recents_app_info_button_label">Informações do app</string>
     <string name="recents_clear_all_tasks">Limpar tudo</string>
     <string name="recents_config_title">Recentes</string>
@@ -990,6 +991,7 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="switch_personal_assistant_summary">Deslize para a direita na Tela inicial para abrir o Google Discover</string>
     <string name="switch_screen_button_order">Espelhar botões</string>
     <string name="switch_screen_button_order_desc">Espelha os botões de Voltar e Menu</string>
+    <string name="system_sdk_disabled_toast">O SDK do sistema foi desativado. Ative-o primeiro.</string>
     <string name="system_shortcuts_edit">Editar</string>
     <string name="system_shortcuts_icon_remove">Remover</string>
     <string name="system_shortcuts_more_operation">Detalhes</string>

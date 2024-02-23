@@ -8686,12 +8686,14 @@ Essa configuração afeta todos os usuários do smartphone."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Atualizar a lista de apps que usam o Modo leitura automaticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Atualizar automaticamente</string>
     <string name="screen_paper_texture">Textura</string>
-    <string name="screen_pinning_description">"Quando um app está fixado, ele pode abrir outros apps e acessar dados pessoais. 
+    <string name="screen_pinning_description">Apps fixados podem abrir outros apps e acessar suas informações pessoais</string>
+    <string name="screen_pinning_dialog_message">"Here's what pinned apps can do:
 
-Para usar a fixação de apps: \u0009
-1. Ative a fixação de apps \u0009
-2. Abra a opção \"Visão geral\" \u0009
-3. Na parte superior da tela, toque no ícone do app e depois em \"Fixar\""</string>
+• Acesse suas informações pessoais
+(ex.: contatos e e-mails)
+• Abra outros apps
+
+Use este recurso com cuidado ao compartilhar este dispositivo com outras pessoas."</string>		
     <string name="screen_pinning_dialog_message">"Quando o app está fixado, ele pode: 
 
 •\u0009\u0009Acessar dados pessoais 
@@ -8707,10 +8709,11 @@ Para usar a fixação de apps: \u0009
 1. Ative a fixação de apps \u0009
 2. Abra a opção \"Visão geral\" \u0009
 3. Na parte superior da tela, toque no ícone do app e depois em \"Fixar\""</string>
+    <string name="screen_pinning_summary">Os apps fixados permanecerão em Recentes até que você os desafixar</string>
     <string name="screen_pinning_switch_off_text">Desativado</string>
     <string name="screen_pinning_switch_on_text">Ativado</string>
-    <string name="screen_pinning_title">Fixação de apps</string>
-    <string name="screen_pinning_unlock_none">Bloquear dispositivo ao desafixar</string>
+    <string name="screen_pinning_title">Permitir fixação de apps</string>
+    <string name="screen_pinning_unlock_none">Verifique o bloqueio de tela para liberar</string>
     <string name="screen_pinning_unlock_password">Pedir senha antes de desafixar</string>
     <string name="screen_pinning_unlock_pattern">Pedir padrão de desbloqueio antes de desafixar</string>
     <string name="screen_pinning_unlock_pin">Pedir PIN antes de desafixar</string>

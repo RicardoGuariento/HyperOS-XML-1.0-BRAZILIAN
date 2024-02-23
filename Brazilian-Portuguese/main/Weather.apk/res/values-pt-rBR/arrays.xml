@@ -2,10 +2,10 @@
 <resources>
     <string-array name="aqi_detail_title">
         <item>Bom</item>
+        <item>Bom tempo</item>
         <item>Moderado</item>
-        <item>Ruim para grupos sensíveis</item>
         <item>Ruim</item>
-        <item>Muito ruim</item>
+        <item>Severo</item>
         <item>Perigoso</item>
     </string-array>
     <string-array name="aqi_title">
@@ -34,11 +34,11 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Boa</item>
-        <item>Satisfatória</item>
-        <item>Poluição moderada</item>
-        <item>Ruim</item>
-        <item>Muito ruim</item>
+        <item>Boa qualidade</item>
+        <item>Moderada</item>
+        <item>Pouco saudável</item>
         <item>Severa</item>
+        <item>Perigosa</item>
         <item>Fora do índice</item>
     </string-array>
     <string-array name="hot_city">
@@ -107,7 +107,7 @@
         <item>Limpo</item>
         <item>Nublado</item>
         <item>Nublado</item>
-        <item>Nebuloso</item>
+        <item>Névoa</item>
         <item>Tempestade intensa</item>
         <item>Chuva torrencial</item>
         <item>Tempestade chuvosa</item>
@@ -116,15 +116,15 @@
         <item>Chuva intensa</item>
         <item>Chuva moderada</item>
         <item>Chuva leve</item>
-        <item>Chuva com neve</item>
+        <item>Granizo</item>
         <item>Nevasca</item>
-        <item>Neve</item>
+        <item>Chuvas de neve</item>
         <item>Neve intensa</item>
         <item>Neve moderada</item>
         <item>Neve leve</item>
         <item>Tempestade de areia forte</item>
         <item>Tempestade de areia</item>
-        <item>Areia</item>
+        <item>Tempestade de areia leve</item>
         <item>Tempestade de areia</item>
         <item>Granizo</item>
         <item>Poeira</item>
