@@ -634,12 +634,12 @@ Motivo: \"%s\""</string>
     <string name="exporting_vcard_canceled_title">Exportação de %s cancelada.</string>
     <string name="exporting_vcard_finished_title">Exportação de %s concluída.</string>
     <string name="external_profile_title">Meu perfil %1$s</string>
-    <string name="fail_reason_could_not_initialize_exporter">Não foi possível iniciar a exportação: \"%s\".</string>
-    <string name="fail_reason_could_not_open_file">Não foi possível abrir \"%1$s\": %2$s.</string>
-    <string name="fail_reason_error_occurred_during_export">Ocorreu um erro durante a exportação: \"%s\".</string>
+    <string name="fail_reason_could_not_initialize_exporter">Não foi possível iniciar a exportação: %s</string>
+    <string name="fail_reason_could_not_open_file">Não foi possível abrir \"%1$s\": %2$s</string>
+    <string name="fail_reason_error_occurred_during_export">Ocorreu um erro durante a exportação: %s</string>
     <string name="fail_reason_io_error">Erro de E/S</string>
     <string name="fail_reason_low_memory_during_import">Não há memória suficiente. O arquivo pode ser muito grande.</string>
-    <string name="fail_reason_no_exportable_contact">Não existem contatos exportáveis.</string>
+    <string name="fail_reason_no_exportable_contact">Nenhum contato exportável encontrado.</string>
     <string name="fail_reason_not_supported">O formato não é suportado.</string>
     <string name="fail_reason_too_long_filename">O nome do arquivo é longo demais (\"%s\").</string>
     <string name="fail_reason_too_many_vcard">Muitos arquivos vCard estão no armazenamento.</string>
@@ -716,8 +716,9 @@ Motivo: \"%s\""</string>
     <string name="heduohao_popup_txt">Sub %d</string>
     <string name="hide_app_description_content">Contatos é um app do sistema. Você ainda poderá usá-lo através do app Telefone ao remover o seu atalho da Tela inicial.</string>
     <string name="hide_app_description_title">Remover \"Contatos\" da Tela inicial?</string>
+    <string name="hint_distance">Mantenha os dois dispositivos próximos um do outro durante o processo de importação para garantir que permaneçam conectados.</string>
     <string name="hint_findContacts">Localizar contatos</string>
-    <string name="hint_more_contact">Mesclar contatos duplicados</string>
+    <string name="hint_more_contact">Se a importação criar contatos duplicados, use o recurso \"Mesclar contatos duplicados\".</string>
     <string name="hybrid_check_network">Configurações de rede</string>
     <string name="hybrid_data_error">Ocorreu um erro</string>
     <string name="hybrid_locating_fail">Não foi possível obter sua localização</string>
@@ -961,6 +962,8 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="notification_missedCall_call_back">Retornar</string>
     <string name="notification_missedCall_message">Enviar SMS</string>
     <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
+    <string name="notification_title_export">Exportar contatos</string>
+    <string name="notification_title_import">Importar contatos</string>
     <string name="open_contact">Ver contato</string>
     <string name="open_dial_pad_description">Abrir teclado de discagem</string>
     <string name="option_delete_contact">Excluir</string>
