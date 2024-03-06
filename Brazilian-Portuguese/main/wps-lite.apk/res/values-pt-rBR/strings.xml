@@ -172,6 +172,7 @@
     <string name="ppt_video_install_videoplayer_tip">Instale um reprodutor de vídeos</string>
     <string name="ppt_volume_is_too_low_tip">Coloque seus fones de ouvido ou aumente o volume</string>
     <string name="projection_fail">Não foi possível transmitir. Verifique sua tela externa e tente novamente</string>
+    <string name="public_2pic">Exportar para imagem</string>
     <string name="public_amazon_autosave_finished">O documento foi salvo automaticamente</string>
     <string name="public_bad_doc_to_process">Documento inválido, não é possível completar a operação</string>
     <string name="public_banner_action_button">Usar agora</string>
@@ -199,6 +200,7 @@
     <string name="public_enter_phonemode">Visualização móvel ativada</string>
     <string name="public_exit_phonemode">Visualização móvel desativada</string>
     <string name="public_exit_play">Sair</string>
+    <string name="public_export_pdf">Exportar para PDF</string>
     <string name="public_fileNotExist">O arquivo já não existe. Ele pode ter sido renomeado, movido ou excluído por outros apps.</string>
     <string name="public_file_cant_write_tips">O arquivo não pode ser salvo na pasta atual. Salvar em outra pasta como um novo arquivo?</string>
     <string name="public_file_download">Carregando arquivo…</string>
@@ -245,6 +247,8 @@
     <string name="public_other_app">Abrir em outro app</string>
     <string name="public_outline">Conteúdo</string>
     <string name="public_paste">Colar</string>
+    <string name="public_pdf2word">PDF para Word</string>
+    <string name="public_pdfFillForm">Preencher formulário</string>
     <string name="public_pdf_converter_item_name">"PDF"</string>
     <string name="public_pdf_converter_normal">"Regular"</string>
     <string name="public_pdf_converter_open_tip">Abrir este documento?</string>
@@ -263,6 +267,7 @@
     <string name="public_picture_savefail">A imagem está danificada e não pode ser salva</string>
     <string name="public_play">Reproduzir</string>
     <string name="public_ppt_label">Visualizador de Apresentações Mi</string>
+    <string name="public_privacy_policy">Política de Privacidade</string>
     <string name="public_privacy_update">&lt;Data>Para entender completamente seus direitos como usuário, bem como as formas como usamos seus dados, leia e concorde com a nova versão da nossa &lt;a href=\"%s\">Política de Privacidade&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="public_re_licensing">Conceder autorização</string>
     <string name="public_readOnlyMode">Somente leitura</string>
@@ -329,6 +334,7 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">O documento foi excluído por outro app e recuperado pelo WPS Cloud Docs</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">O último conteúdo editado não foi salvo e foi recuperado pelo WPS Cloud Docs</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Salvar o documento com segurança</string>
+    <string name="public_writer2pic">Exportar para arquivo somente imagem</string>
     <string name="public_writer_font_enlarge">Aumentar</string>
     <string name="public_writer_font_narrow">Reduzir</string>
     <string name="public_writer_label">Visualizador de Textos Mi</string>
