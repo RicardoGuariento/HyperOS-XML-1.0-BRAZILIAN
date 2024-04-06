@@ -2123,11 +2123,6 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
 
     <string name="passport_bad_authentication">Usuário ou senha incorretos</string>
     <string name="passport_can_not_recevie_verify_code">"Não recebeu o código?"</string>
-	
-    <string name="passport_change_password">Change password</string>
-    <string name="passport_check_security">Checking for security issues…</string>
-
-
     <string name="passport_change_password">Alterar a senha</string>
     <string name="passport_check_security">Verificando problemas de segurança…</string>
     <string name="passport_checking_account">Verificando senha…</string>
@@ -2856,7 +2851,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="segment_send">Enviar</string>
     <string name="segment_send_processing">Preparando para enviar…</string>
     <string name="select_all">Selecionar todos</string>
-	<string name="select_backup">Selecionar backup</string>
+    <string name="select_backup">Selecionar backup</string>
     <string name="select_image_operation">Adicionando fotos</string>
     <string name="select_item_face">"Este(a) é '%s'?"</string>
     <string name="select_origin_tip">Arquivo original (%s)</string>
