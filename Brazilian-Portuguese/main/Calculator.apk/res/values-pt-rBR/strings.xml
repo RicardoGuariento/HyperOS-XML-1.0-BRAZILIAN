@@ -127,7 +127,7 @@
     <string name="cta_desc">Bem-vindo à Calculadora! Este app combina os recursos de uma calculadora normal com vários conversores e recursos de estilo de vida. Este app precisa se conectar à Internet para funcionar normalmente.</string>
     <string name="currency_dialog_privacy_content">&lt;Data>O conversor de moedas precisa se conectar à Internet para obter as taxas de câmbio mais recentes. Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso.&lt;/Data></string>
     <string name="currency_update_connect_to_get_data">Tarifas de câmbio fornecidas pelo Webull. Conecte-se à Internet para obter as últimas informações.</string>
-    <string name="currency_update_support">Taxas de câmbio fornecidas por Webull.</string>
+    <string name="currency_update_support">"Taxas de câmbio fornecidas por Webull."</string>
     <string name="currency_update_time_format">Taxas de câmbio fornecidas por Webull (%s)</string>
     <string name="currency_update_updating">Atualizando taxas…</string>
     <string name="data_analysis">Análise</string>
@@ -310,7 +310,7 @@
     <string name="item_title_vel_conversion">Velocidade</string>
     <string name="item_title_volume_conversion">"Volume"</string>
     <string name="item_title_weight_conversion">Massa</string>
-    <string name="l_name_discount">Desconto (%s off)</string>
+    <string name="l_name_discount">Desconto (%s)</string>
     <string name="label_about">Sobre</string>
     <string name="label_clear_history">Limpar tudo</string>
     <string name="label_date_difference">Diferença</string>
@@ -812,6 +812,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="unit_data_display_currency_lrd">Dólar Liberiano</string>
     <string name="unit_data_display_currency_lyd">Dinar Líbio</string>
     <string name="unit_data_display_currency_mad">Dirame Marroquino</string>
+    <string name="unit_data_display_currency_mdl">Leu da Moldávia</string>
     <string name="unit_data_display_currency_mmk">Kyat de Mianmar</string>
     <string name="unit_data_display_currency_mnt">Tugrique Mongol</string>
     <string name="unit_data_display_currency_mop">Pataca Macaense</string>

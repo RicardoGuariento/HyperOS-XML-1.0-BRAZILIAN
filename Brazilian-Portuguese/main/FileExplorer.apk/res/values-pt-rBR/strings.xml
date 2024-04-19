@@ -245,7 +245,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="encrypt_prefix">PRIVADO</string>
     <string name="encrypt_setting">Criptografia</string>
     <string name="encrypt_success">Os itens selecionados são privados agora</string>
-    <string name="encrypt_success_first_five">Este item agora é privado. Você pode visualizar arquivos privados puxando para baixo na página inicial do gerenciador de Arquivos.</string>
+    <string name="encrypt_success_first_five">Este item agora é privado. Abra a página inicial do gerenciador de Arquivos para visualizá-lo.</string>
     <string name="encrypting">Criptografando…</string>
     <string name="enter">Abra o app Arquivos</string>
     <string name="entry_phone_storage_internal">Armazenamento interno</string>
@@ -718,6 +718,14 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="path_name_email">E-mail</string>
     <string name="path_recent_file">Gerenciar arquivos no seu dispositivo</string>
+    <string name="pattern_hour_minute_12">hh:mm a</string>
+    <string name="pattern_hour_minute_24">HH:mm</string>
+    <string name="pattern_month_day">dd/MM</string>
+    <string name="pattern_month_day_hh_mm_12">dd/MM hh:mm a</string>
+    <string name="pattern_month_day_hh_mm_24">dd/MM HH:mm</string>
+    <string name="pattern_year_month_day">dd/MM/yyyy</string>
+    <string name="pattern_year_month_day_hh_mm_12">dd/MM/yyyy hh:mm a</string>
+    <string name="pattern_year_month_day_hh_mm_24">dd/MM/yyyy HH:mm</string>
     <string name="perm_manage_external_storage">Acesse todos os arquivos</string>
     <string name="permission_account_desc">Para acessar as informações da conta armazenadas em seu dispositivo</string>
     <string name="permission_account_desc_pad">Para acessar as informações da conta armazenadas em seu dispositivo</string>
