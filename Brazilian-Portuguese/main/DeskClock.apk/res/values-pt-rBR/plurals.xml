@@ -137,8 +137,8 @@
         <item quantity="one">A cada %1$d minuto</item>
     </plurals>
     <plurals name="snooze_duration_time">
-        <item quantity="other">Sair %1$d vezes</item>
-        <item quantity="one">Sair %1$d vez</item>
+        <item quantity="other">Repetir %1$d vezes</item>
+        <item quantity="one">Repetir %1$d vez</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Soneca por %d min</item>
