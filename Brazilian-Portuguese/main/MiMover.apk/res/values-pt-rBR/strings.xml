@@ -4,8 +4,10 @@
     <string name="PRD_summary_4">Desativar ou trocar de rede Wi-Fi durante o processo de transferência pode causar falha no processo de transferência.</string>
     <string name="PRD_summary_4_china">Desativar ou trocar de rede Wi-Fi durante o processo de transferência pode causar falha no processo de transferência.</string>
     <string name="PRD_summary_5">Transferências em alta velocidade podem fazer com que seu dispositivo fique mais quente que o normal. Tenha certeza de que seu dispositivo esfriará quando a transferência terminar.</string>
+    <string name="PRD_summary_6">"Álbuns, notas e arquivos privados não podem ser transferidos do dispositivo antigo. Remova-os das pastas privadas antes de iniciar a transferência."</string>
     <string name="PRD_title_4">%1$d. Opere seu dispositivo com cuidado</string>
     <string name="PRD_title_5">%1$d. Seu dispositivo ficará quente durante a transferência</string>
+    <string name="PRD_title_6">"Itens privados não podem ser transferidos"</string>
     <string name="PRD_title_tablet_1">%1$d. Já existem dados de apps no novo dispositivo para os seguintes apps:</string>
     <string name="PRD_title_tablet_4">%1$d. Opere seu dispositivo com cuidado</string>
     <string name="PRD_title_tablet_5">%1$d. Seu dispositivo ficará quente durante a transferência</string>
@@ -912,7 +914,7 @@ no seu iPhone"</string>
     <string name="uncollected">Not collected</string>
     <string name="unselected">Não selecionado</string>
     <string name="update_later">Agora não</string>
-    <string name="update_now">Atualizar agora</string>
+    <string name="update_now">Instalar</string>
     <string name="use_purpose">Purpose of use</string>
     <string name="use_purpose_description">"For connecting to the new device's hotspot"</string>
     <string name="use_scene">Usage scenario</string>

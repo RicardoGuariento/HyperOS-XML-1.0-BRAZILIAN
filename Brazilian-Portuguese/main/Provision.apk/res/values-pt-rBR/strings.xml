@@ -53,6 +53,7 @@
     <string name="ai_button_title">Botão IA</string>
     <string name="album_introduction">A Galeria permite que você gerencie, otimize e edite fotos e vídeos no seu dispositivo, bem como sincronizá-las com a MiCloud.</string>
     <string name="am">"AM"</string>
+    <string name="app_battery_usage">"Para verificar o uso da bateria de apps individuais"</string>
     <string name="app_name">Configuração inicial</string>
     <string name="application_extension_service">Serviços de extensão de app</string>
     <string name="application_extension_service_introduction">Os serviços de extensão de app fornecerão recursos de login e verificação. Para fornecer serviços básicos, este app precisa das seguintes permissões:</string>
@@ -553,12 +554,16 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_write_device_store">Salvar itens no armazenamento do dispositivo</string>
     <string name="permission_write_device_store_summary">Para armazenar em cache os arquivos de configuração de origem baixados.</string>
     <string name="permission_xunlei_introduction">Para entrar e gerenciar contas do sistema, a fim de fornecer serviços do Xunlei</string>
+    <string name="phone_introduction">Você pode usar este app para localizar e neutralizar vírus, bloquear chamadas e mensagens, otimizar o desempenho de jogos, economizar bateria, bem como gerenciar apps, permissões, uso de dados e muito mais.</string>
+    <string name="phone_name_security">Segurança</string>
     <string name="pm">"PM"</string>
     <string name="poco_agree_terms_other">(Incluindo a Política de Privacidade e o Contrato do Usuário do POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Contrato do Usuário do POCO Launcher</string>
     <string name="position_header">Compartilhando informação de localização</string>
     <string name="position_subheading">Informações de localização</string>
+    <string name="power_and_performance">Bateria e desempenho</string>
+    <string name="power_and_performance_introduction">Este serviço fornece gerenciamento básico de bateria, estatísticas de uso, recursos de economia de energia e muito mais.</string>
     <string name="pref_title_data_slot">Cartão SIM para internet</string>
     <string name="pref_title_voice_slot">Cartão SIM para chamadas</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
@@ -595,7 +600,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="saturday_shortest">Sáb</string>
     <string name="screen_recording_introduction">Este app permite que você grave o que está acontecendo na sua tela.</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="security_introduction">Você pode usar este app para limpar o lixo no seu dispositivo, encontrar e neutralizar ameaças, otimizar o desempenho para jogos, economizar sua bateria, gerenciar apps, permissões, entre outros.</string>
+    <string name="security_introduction">Você pode usar este app para localizar e neutralizar vírus, bloquear chamadas e mensagens, otimizar o desempenho de jogos, economizar bateria, bem como gerenciar apps, permissões, uso de dados e muito mais.</string>
     <string name="security_mobile_account_introduction">Para fazer login e gerenciar contas do sistema</string>
     <string name="send">Enviar</string>
     <string name="service_agreement">Eu li e aceito os termos e condições.</string>
@@ -721,6 +726,7 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_use_location_and_network_global">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede e acessarão sua localização:</string>
     <string name="terms_of_use_label_use_network_china">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede:</string>
     <string name="terms_of_use_label_wallpaper">Plano de fundo</string>
+    <string name="terms_of_use_label_webview">WebView do sistema Android</string>
     <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Xiaomi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, HyperOS Daemon, Componentes de sistema MSA, Serviço de tradução, SDK do HyperOS, Quick apps, Assistente, Estatísticas, Mi Link</string>
     <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, HyperOS Daemon, Componentes de sistema MSA, Serviço de tradução, SDK do HyperOS, Quick apps, Assistente, Estatísticas, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
