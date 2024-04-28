@@ -58,7 +58,7 @@
     <string name="accelerometer_summary_on">Alternar orientação automaticamente ao girar o telefone</string>
     <string name="accelerometer_title">Girar tela automaticamente</string>
     <string name="accept_new_connection">Permitir conexão com novos dispositivos</string>
-    <string name="accept_new_connection_detail">Novas conexões foram restritas no Centro de Controle</string>
+    <string name="accept_new_connection_detail">Novas conexões foram restritas no centro de controle</string>
     <string name="access_control_app_entry_multiple">Abrir %s</string>
     <string name="access_control_app_entry_single">Abrir app</string>
     <string name="access_control_need_password">"%s está protegido
@@ -113,7 +113,7 @@
     <string name="accessibility_button_opacity_title">Transparência quando não está em uso</string>
     <string name="accessibility_button_or_gesture_title">Use o botão ou gesto</string>
     <string name="accessibility_button_size_title">Tamanho</string>
-    <string name="accessibility_button_summary">Acessar rapidamente os recursos de acessibilidade</string>
+    <string name="accessibility_button_summary">Acesse rapidamente os recursos de acessibilidade</string>
     <string name="accessibility_button_title">Botão de acessibilidade</string>
     <string name="accessibility_call_vibration_category_title">Ligações</string>
     <string name="accessibility_caption_master_switch_summary">Apenas para apps compatíveis</string>
@@ -501,8 +501,8 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="active">Ativo</string>
     <string name="active_device_admin_msg">App de administrador do dispositivo</string>
     <string name="active_input_method_subtypes">Métodos de entrada ativos</string>
-    <string name="activity_check_context">"Seu dispositivo está tentando se conectar à Internet agora. Este processo pode demorar mais do que o esperado se você estiver usando dados móveis. Você pode voltar e conectar-se a uma rede Wi-Fi ou continuar esperando até que a conexão de dados móveis seja estabelecida."</string>
-    <string name="activity_check_title">Conectando-se à Internet</string>
+    <string name="activity_check_context">"Seu dispositivo está tentando se conectar à internet agora. Este processo pode demorar mais do que o esperado se você estiver usando dados móveis. Você pode voltar e conectar-se a uma rede Wi-Fi ou continuar esperando até que a conexão de dados móveis seja estabelecida."</string>
+    <string name="activity_check_title">Conectando-se à internet</string>
     <string name="activity_not_found">O app não está instalado no telefone.</string>
     <string name="activity_picker_label">Selecione a atividade</string>
     <string name="activity_title_power_manager">Economia de bateria;Economizar bateria</string>
@@ -701,7 +701,7 @@ Widget: %2$s
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="allow_mock_modem">Permitir Modem simulado</string>
-    <string name="allow_mock_modem_summary">Permitir que este dispositivo execute o serviço de Modem simulado para teste de instrumentação. Não habilite isso durante o uso normal do telefone.</string>
+    <string name="allow_mock_modem_summary">Permite que este dispositivo execute o serviço de Modem simulado para teste de instrumentação. Não habilite isso durante o uso normal do telefone.</string>
     <string name="allow_oaid_used">Usar a ID Virtual</string>
     <string name="allow_oaid_used_desc">O HyperOS fornecerá a ID Virtual (OAID) aos apps instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente em decorrer disso.</string>
     <string name="allow_ongoing_title">Notificações permanentes</string>
@@ -1117,7 +1117,7 @@ Alterar as configurações agora?"</string>
     <string name="automatic_storage_manager_text">Para ajudar a liberar espaço de armazenamento, o gerenciador de armazenamento remove fotos e vídeos do seu dispositivo salvos em backup.</string>
     <string name="automatic_system_heap_dump_summary">Capturar automaticamente um despejo de heap para o sistema Android quando ele usar muita memória</string>
     <string name="automatic_system_heap_dump_title">Capturar automaticamente despejos de heap do sistema</string>
-    <string name="autoui_mode_guide_text">Otimize layouts no aplicativo para aplicativos compatíveis para aprimorar a experiência visual</string>
+    <string name="autoui_mode_guide_text">Otimize layouts no app para apps compatíveis para aprimorar a experiência visual</string>
     <string name="autoui_mode_name">Otimize o layout do app</string>
     <string name="autoui_mode_no_support_apps">"Não foi possível encontrar apps compatíveis"</string>
     <string name="autoui_search_hint">Pesquisar apps</string>
@@ -1198,7 +1198,7 @@ Para restringir, ative a otimização."</string>
 Os backups locais podem incluir dados de apps e normalmente contém mais itens. Os arquivos de backup são armazenados em MIUI/backup/AllBackup e precisam ser copiados para um computador após a conclusão do processo de backup.
 
 Backups na nuvem:
-Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse método é mais rápido e fácil que os backups locais, mas ele não pode fazer backup de dados de apps para a MiCloud.
+Os backups são armazenados na MiCloud e podem ser acessados pela internet. Esse método é mais rápido e fácil que os backups locais, mas ele não pode fazer backup de dados de apps para a MiCloud.
 "</string>
     <string name="backup_difference_title">Como os backups locais são diferentes dos backups na nuvem?</string>
     <string name="backup_disabled">Backup desativado</string>
@@ -1385,7 +1385,7 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="battery_sugg_bluetooth_basic">Desativar Bluetooth quando não estiver em uso</string>
     <string name="battery_sugg_bluetooth_headset">Tente conectar a um dispositivo Bluetooth diferente</string>
     <string name="battery_sugg_display">Reduzir o brilho e/ou o tempo limite da tela</string>
-    <string name="battery_sugg_radio">Alternar para o modo avião para economizar energia nas áreas sem cobertura celular</string>
+    <string name="battery_sugg_radio">Alternar para o Modo avião para economizar energia nas áreas sem cobertura celular</string>
     <string name="battery_sugg_wifi">Desativar Wi-Fi quando não estiver em uso ou disponível</string>
     <string name="battery_suggestion_title">Melhorar a duração da bateria do telefone</string>
     <string name="battery_summary">%1$s de uso desde a última carga completa</string>
@@ -1805,8 +1805,8 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_disconnect_dialog_ok">Desconectar</string>
     <string name="bluetooth_disconnect_headset_profile">%1$s será desconectado do áudio do viva-voz.</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s será desconectado do dispositivo de entrada.</string>
-    <string name="bluetooth_disconnect_pan_nap_profile">%1$s será desconectado do compartilhamento da conexão de Internet deste dispositivo.</string>
-    <string name="bluetooth_disconnect_pan_user_profile">O acesso à Internet por meio de %1$s será desconectado.</string>
+    <string name="bluetooth_disconnect_pan_nap_profile">%1$s será desconectado do compartilhamento da conexão de internet deste dispositivo.</string>
+    <string name="bluetooth_disconnect_pan_user_profile">O acesso à internet por meio de %1$s será desconectado.</string>
     <string name="bluetooth_disconnect_title">Desconectar dispositivo?</string>
     <string name="bluetooth_disconnected">Desconectado</string>
     <string name="bluetooth_disconnecting">Desconectando…</string>
@@ -1954,8 +1954,8 @@ Para parear o esquerdo, verifique se ele está ligado e pronto para pareamento."
     <string name="bluetooth_pairing_toast_add_to_blackfile">Você pode gerenciar os itens bloqueados em \"Configurações adicionais\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">O pareamento garante acesso aos seus contatos e histórico de chamadas quando conectado.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhando internet local com dispositivos</string>
-    <string name="bluetooth_pan_profile_summary_use_for">Usado para acesso à Internet</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Conectado a disp. p/ acesso à Internet</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Usado para acesso à internet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Conectado a disp. p/ acesso à internet</string>
     <string name="bluetooth_paring_group_msg">Confirme para parear com o conjunto coordenado</string>
     <string name="bluetooth_pb_acceptance_dialog_text">O %1$s deseja acessar seus contatos e seu histórico de chamadas. Quer conceder acesso ao %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Não perguntar novamente</string>
@@ -1978,7 +1978,7 @@ Você não se conectou a %2$s antes."</string>
     <string name="bluetooth_preference_no_found_devices">Nenhum dispositivo disponível</string>
     <string name="bluetooth_preference_paired_devices">Dispositivos pareados</string>
     <string name="bluetooth_preference_paired_dialog_contacts_option">Contatos e histórico de chamadas</string>
-    <string name="bluetooth_preference_paired_dialog_internet_option">Conexão à Internet</string>
+    <string name="bluetooth_preference_paired_dialog_internet_option">Conexão à internet</string>
     <string name="bluetooth_preference_paired_dialog_keyboard_option">Teclado</string>
     <string name="bluetooth_preference_paired_dialog_name_label">Nome</string>
     <string name="bluetooth_preference_paired_dialog_title">Dispositivo pareado</string>
@@ -1996,7 +1996,7 @@ Você não se conectou a %2$s antes."</string>
     <string name="bluetooth_profile_le_audio">LE Audio</string>
     <string name="bluetooth_profile_map">Usado para acessar mensagens</string>
     <string name="bluetooth_profile_opp">Transferência de arquivo</string>
-    <string name="bluetooth_profile_pan">Acesso à Internet</string>
+    <string name="bluetooth_profile_pan">Acesso à internet</string>
     <string name="bluetooth_profile_pan_nap">Compart. de conexão com a internet</string>
     <string name="bluetooth_profile_pbap">Contatos e compartilhamento de histórico de chamadas</string>
     <string name="bluetooth_profile_pbap_summary">Usado para compartilhar contatos</string>
@@ -2110,15 +2110,15 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bluetooth_talkback_input_peripheral">Dispositivo periférico de entrada</string>
     <string name="bluetooth_talkback_phone">Telefone</string>
     <string name="bluetooth_tether_checkbox_text">Ancoragem Bluetooth</string>
-    <string name="bluetooth_tethering_available_subtext">Compartilhando a conexão à Internet deste telefone via Bluetooth</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Compartilhando a conexão de Internet deste telefone com 1 dispositivo por Bluetooth</string>
-    <string name="bluetooth_tethering_devices_connected_subtext">Compartilhando a conexão de Internet deste telefone com %1$d dispositivos por Bluetooth</string>
+    <string name="bluetooth_tethering_available_subtext">Compartilhando a conexão à internet deste telefone via Bluetooth</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Compartilhando a conexão de internet deste telefone com 1 dispositivo por Bluetooth</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">Compartilhando a conexão de internet deste telefone com %1$d dispositivos por Bluetooth</string>
     <string name="bluetooth_tethering_errored_subtext">Não está ancorado</string>
-    <string name="bluetooth_tethering_off_subtext">Compartilhe a conexão com a Internet do seu telefone usando o Bluetooth</string>
-    <string name="bluetooth_tethering_off_subtext_config">Compartilhando a conexão com a Internet deste %1$d via Bluetooth</string>
+    <string name="bluetooth_tethering_off_subtext">Compartilhe a conexão com a internet do seu telefone usando o Bluetooth</string>
+    <string name="bluetooth_tethering_off_subtext_config">Compartilhando a conexão com a internet deste %1$d via Bluetooth</string>
     <string name="bluetooth_tethering_overflow_error">Não é possível vincular a mais de %1$d dispositivos.</string>
-    <string name="bluetooth_tethering_subtext">Compartilhar a conexão de Internet do smartphone via Bluetooth</string>
-    <string name="bluetooth_turning_off">Desligar o Bluetooth…</string>
+    <string name="bluetooth_tethering_subtext">Compartilhar a conexão de internet do smartphone via Bluetooth</string>
+    <string name="bluetooth_turning_off">Desligando Bluetooth…</string>
     <string name="bluetooth_turning_on">Ativando Bluetooth…</string>
     <string name="bluetooth_unlock_add_device">Adicionar dispositivo</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Você pode adicionar um dispositivo por vez. O novo dispositivo substituirá o antigo. Continuar?</string>
@@ -2723,7 +2723,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="condition_battery_title">Economia de bateria ativada</string>
     <string name="condition_bg_data_summary">Recursos restritos</string>
     <string name="condition_bg_data_title">Economia de dados</string>
-    <string name="condition_cellular_summary">A Internet está disponível apenas por Wi-Fi</string>
+    <string name="condition_cellular_summary">A internet está disponível apenas por Wi-Fi</string>
     <string name="condition_cellular_title">Dados móveis desativados</string>
     <string name="condition_device_muted_action_turn_on_sound">Ativar som</string>
     <string name="condition_device_muted_summary">Para chamadas e notificações</string>
@@ -2846,7 +2846,7 @@ Essa informação identifica se os contatos podem usar recursos específicos, co
     <string name="contrast_title">Contraste</string>
     <string name="contributors_title">Colaboradores</string>
     <string name="control_center">Centro de controle</string>
-    <string name="control_center_force_use_panel_guide_text">Puxe para baixo a barra de status à esquerda para visualizar as notificações. Puxá-la para baixo à direita abrirá o Centro de controle. Você pode alternar entre os dois deslizando para a esquerda e para a direita.</string>
+    <string name="control_center_force_use_panel_guide_text">Puxe para baixo a barra de status à esquerda para visualizar as notificações. Puxá-la para baixo à direita abrirá o centro de controle. Você pode alternar entre os dois deslizando para a esquerda e para a direita.</string>
     <string name="control_center_style">Estilo do centro de controle</string>
     <string name="control_center_style_summary">Selecione como deseja exibir os atalhos e notificações</string>
     <string name="control_panel_switch_side">Alterar o lado do centro de controle</string>
@@ -3029,7 +3029,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="dark_mode_power_save_alert_dialog_confirm">Entendi</string>
     <string name="dark_mode_power_save_alert_dialog_message">"Se você desativar a otimização do sistema e ativar a Economia de bateria, o modo escuro será ativado automaticamente. Para desativar o modo escuro, desative a Economia de bateria ou ative a otimização do sistema em Configurações &gt; Opções do desenvolvedor &gt; Ativar otimização do sistema."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Modo escuro</string>
-    <string name="dark_mode_settings">Opções de modo escuro</string>
+    <string name="dark_mode_settings">Opções do Modo escuro</string>
     <string name="dark_mode_time_settings">Alternar para o Modo escuro</string>
     <string name="dark_theme_main_switch_title">Use o tema escuro</string>
     <string name="dark_theme_slice_subtitle">Ajuda a aumentar a duração da bateria</string>
@@ -3462,7 +3462,7 @@ Para tentar resolver esse problema, você pode forçar a parada do app %1$s e im
     <string name="dialog_check_context">"Seu dispositivo não consegue se conectar à internet agora.
 . Toque \"Conectar-se ao Wi-Fi\" para selecionar uma das redes disponíveis.
 . Se você quiser usar os dados móveis, toque \"Tentar novamente\" ou remova e reinsira o seu cartão SIM."</string>
-    <string name="dialog_check_title">Não é possível conectar à Internet</string>
+    <string name="dialog_check_title">Não é possível conectar à internet</string>
     <string name="dialog_chose_item">Selecione um item para mostrar</string>
     <string name="dialog_content_login">Fazer o login em sua Conta Mi para atualizar?</string>
     <string name="dialog_esim_button_negative">Cancelar</string>
@@ -3484,7 +3484,7 @@ Para resolver esse problema, desative a localização para esse app."</string>
     <string name="dialog_softbank_esim_wipe_info">Todos os dados do eSIM serão apagados se você continuar. Continuar mesmo assim?</string>
     <string name="dialog_softbank_esim_wipe_ok">Continuar</string>
     <string name="dialog_softbank_esim_wipe_title">Limpar dados eSIM</string>
-    <string name="dialog_softbank_esime_context">Este dispositivo precisa se conectar à Internet para ativar o eSIM. Pular a ativação do eSIM também?</string>
+    <string name="dialog_softbank_esime_context">Este dispositivo precisa se conectar à internet para ativar o eSIM. Pular a ativação do eSIM também?</string>
     <string name="dialog_softbank_esime_title">Pular ativação do eSIM</string>
     <string name="dialog_speaker_auto_clean_button">Entendi</string>
     <string name="dialog_speaker_auto_clean_content">A limpeza leva 30 segundos. Não saia desta página. Aumente o volume ao máximo para obter o melhor efeito.</string>
@@ -3508,7 +3508,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dialog_title_login">Faça o login em sua Conta Mi</string>
     <string name="dialog_wifi_button_negative">Não</string>
     <string name="dialog_wifi_button_positive">Sim</string>
-    <string name="dialog_wifi_context">Você precisa se conectar à Internet para configurar seu dispositivo. A menos que você se conecte a um Wi-Fi, os dados móveis podem ser usados. O uso de dados móveis pode gerar taxas adicionais da operadora. Usar os dados móveis mesmo assim?</string>
+    <string name="dialog_wifi_context">Você precisa se conectar à internet para configurar seu dispositivo. A menos que você se conecte a um Wi-Fi, os dados móveis podem ser usados. O uso de dados móveis pode gerar taxas adicionais da operadora. Usar os dados móveis mesmo assim?</string>
     <string name="dialog_wifi_title">Usando dados móveis</string>
     <string name="dialog_yes">Sim</string>
     <string name="direct_boot_unaware_dialog_message">Importate! Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
@@ -3524,13 +3524,13 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="disable_text">Desativar</string>
     <string name="disable_uft">Desativar uft</string>
     <string name="disable_wifi_hotspot_title">Não usar hotspot Wi-Fi</string>
-    <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Compartilhar Internet apenas por Bluetooth e Ethernet</string>
-    <string name="disable_wifi_hotspot_when_bluetooth_on">Compartilhar Internet apenas por Bluetooth</string>
-    <string name="disable_wifi_hotspot_when_ethernet_on">Compartilhar Internet apenas por Ethernet</string>
-    <string name="disable_wifi_hotspot_when_usb_and_bluetooth_and_ethernet_on">Compartilhar Internet apenas por USB, Bluetooth e Ethernet</string>
-    <string name="disable_wifi_hotspot_when_usb_and_bluetooth_on">Compartilhar Internet apenas por USB e Bluetooth</string>
-    <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">Compartilhar Internet apenas por USB e Ethernet</string>
-    <string name="disable_wifi_hotspot_when_usb_on">Compartilhar Internet apenas por USB</string>
+    <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Compartilhar internet apenas por Bluetooth e Ethernet</string>
+    <string name="disable_wifi_hotspot_when_bluetooth_on">Compartilhar internet apenas por Bluetooth</string>
+    <string name="disable_wifi_hotspot_when_ethernet_on">Compartilhar internet apenas por Ethernet</string>
+    <string name="disable_wifi_hotspot_when_usb_and_bluetooth_and_ethernet_on">Compartilhar internet apenas por USB, Bluetooth e Ethernet</string>
+    <string name="disable_wifi_hotspot_when_usb_and_bluetooth_on">Compartilhar internet apenas por USB e Bluetooth</string>
+    <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">Compartilhar internet apenas por USB e Ethernet</string>
+    <string name="disable_wifi_hotspot_when_usb_on">Compartilhar internet apenas por USB</string>
     <string name="disabled">Desativado</string>
     <string name="disabled_authorised_apps_title">Autorização revogada</string>
     <string name="disabled_because_no_backup_security">Para usar, primeiro defina um bloqueio de tela</string>
@@ -4049,7 +4049,7 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="ethernet_data_template">^1 de dados ethernet</string>
     <string name="ethernet_data_usage">Uso de dados ethernet</string>
     <string name="ethernet_tether_checkbox_text">Compartilhar via Ethernet</string>
-    <string name="ethernet_tethering_subtext">Compartilhar conexão de Internet do smartphone via USB Ethernet</string>
+    <string name="ethernet_tethering_subtext">Compartilhar conexão de internet do smartphone via USB Ethernet</string>
     <string name="evening">"PM"</string>
     <string name="every_day">Diariamente</string>
     <string name="ex_func_find_device">Segurança - Encontre o dispositivo</string>
@@ -4327,16 +4327,16 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="firewall_partial">Permitir que alguns apps conectem-se usando o seguinte método</string>
     <string name="firewall_permission">Permissões de conexão</string>
     <string name="firewall_restrict_all">Restringir conexão para todos os apps usando o seguinte método</string>
-    <string name="firewall_restrict_android_dialog_content">Para garantir o funcionamento normal do seu dispositivo, alguns apps de sistema do Android ainda irão se conectar à Internet. Estes apps usarão a sua conexão de dados móveis e poderão gerar cobranças por sua operadora.</string>
+    <string name="firewall_restrict_android_dialog_content">Para garantir o funcionamento normal do seu dispositivo, alguns apps de sistema do Android ainda irão se conectar à internet. Estes apps usarão a sua conexão de dados móveis e poderão gerar cobranças por sua operadora.</string>
     <string name="firewall_restrict_android_dialog_title">Atenção!</string>
     <string name="firewall_restrict_data">Restringir uso de dados móveis</string>
     <string name="firewall_restrict_notify_title">%s não pode usar a rede</string>
     <string name="firewall_restrict_wlan">Restringir uso de conexão Wi-Fi</string>
-    <string name="firewall_set_bg_firewall_default_dialog_summary">Se você restringir a conexão em segundo plano, novos apps não poderão conectar-se à Internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso. Restringir mesmo assim?</string>
+    <string name="firewall_set_bg_firewall_default_dialog_summary">Se você restringir a conexão em segundo plano, novos apps não poderão conectar-se à internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso. Restringir mesmo assim?</string>
     <string name="firewall_set_bg_firewall_default_dialog_title">Restringir conexão em segundo plano para novos apps</string>
-    <string name="firewall_temp_rule_reason">%2$s restringiu a conexão de Internet para %1$s</string>
+    <string name="firewall_temp_rule_reason">%2$s restringiu a conexão de internet para %1$s</string>
     <string name="firewall_wifi">"Wi-Fi"</string>
-    <string name="firewall_wifi_dialog_message">O app instalado não poderá conectar-se à Internet através do Wi-Fi enquanto esta opção estiver desativada.</string>
+    <string name="firewall_wifi_dialog_message">O app instalado não poderá conectar-se à internet através do Wi-Fi enquanto esta opção estiver desativada.</string>
     <string name="firmware_version">Versão do Android</string>
     <string name="first_day_of_week_preferences_title">Primeiro dia da semana</string>
     <string name="fiveg_nrca_switch_summary">Melhora a conexão 5G para ambientes de teste</string>
@@ -5025,7 +5025,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="information_label">Informações</string>
     <string name="ingress_rate_limit_dialog_title">Configurar limite de taxa de download de rede</string>
     <string name="ingress_rate_limit_no_limit_entry">Ilimitado</string>
-    <string name="ingress_rate_limit_summary">Configure o limite de taxa de entrada da largura de banda da rede que é aplicado a todas as redes que fornecem conectividade com a Internet.</string>
+    <string name="ingress_rate_limit_summary">Configure o limite de taxa de entrada da largura de banda da rede que é aplicado a todas as redes que fornecem conectividade com a internet.</string>
     <string name="ingress_rate_limit_title">Limite de taxa de download de rede</string>
     <string name="inner_screen_and_resolution_title">Tamanho e resolução da tela interna</string>
     <string name="input_assistance">Ferramentas</string>
@@ -5145,9 +5145,9 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="internal_storage">Armaz. interno</string>
     <string name="international_lyra_account_ap_summary">"Permitir que tablets e computadores próximos conectados à sua conta sejam ativados e conectados automaticamente ao hotspot deste dispositivo"</string>
     <string name="international_lyra_account_ap_title">Sincronização de rede</string>
-    <string name="international_lyra_auto_connect_summary">"Quando um dispositivo próximo estiver conectado à sua conta e precisar se conectar à Internet, ative e conecte-se automaticamente ao hotspot deste dispositivo"</string>
+    <string name="international_lyra_auto_connect_summary">"Quando um dispositivo próximo estiver conectado à sua conta e precisar se conectar à internet, ative e conecte-se automaticamente ao hotspot deste dispositivo"</string>
     <string name="international_lyra_auto_connect_title">Conecte-se automaticamente ao hotspot</string>
-    <string name="internet_connectivity_panel_title">Conectividade com a Internet</string>
+    <string name="internet_connectivity_panel_title">Conectividade com a internet</string>
     <string name="invalid_location">O local de instalação não é válido.</string>
     <string name="invalid_size_value">Não foi possível calcular o tamanho do pacote.</string>
     <string name="ipaddr_label">Endereço IP:</string>
@@ -5519,7 +5519,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="link_turbo_usage_state_month_total">Este mês</string>
     <string name="link_turbo_usage_state_today">Hoje</string>
     <string name="link_turbo_usage_state_today_total">Hoje</string>
-    <string name="list_bg_header_text">Caso restrinja a conexão em segundo plano, novos apps não poderão conectar-se à Internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso.</string>
+    <string name="list_bg_header_text">Caso restrinja a conexão em segundo plano, novos apps não poderão conectar-se à internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso.</string>
     <string name="list_empty_text">Vazio</string>
     <string name="lite_font_weight_title">Espessura da fonte</string>
     <string name="live_caption_summary">Legendar mídias automaticamente</string>
@@ -5978,7 +5978,7 @@ Conecte pelo menos 4 pontos."</string>
     <string name="lost_internet_access_persist">Não mostrar de novo</string>
     <string name="lost_internet_access_switch">Alternar para rede móvel</string>
     <string name="lost_internet_access_text">Alterne para a rede móvel sempre que o Wi-Fi tiver uma conexão ruim. Cobranças de dados podem ser aplicadas.</string>
-    <string name="lost_internet_access_title">O Wi-Fi não está conectado à Internet</string>
+    <string name="lost_internet_access_title">O Wi-Fi não está conectado à internet</string>
     <string name="low_battery_summary">Bateria Fraca</string>
     <string name="low_dc_light_title">Modo anti-cintilação de luz fraca</string>
     <string name="low_label">Baixa</string>
@@ -6668,13 +6668,13 @@ Continue para acessar as configurações adicionais."</string>
     <string name="mms_message_summary">Enviar e receber quando os dados móveis estiverem desativados</string>
     <string name="mms_message_title">Mensagens MMS</string>
     <string name="mms_privacy_password_role_instruction">Suas conversas com contatos privados serão armazenadas aqui.</string>
-    <string name="mobile_connect_to_internet">Conecte-se à Internet</string>
+    <string name="mobile_connect_to_internet">Conecte-se à internet</string>
     <string name="mobile_data_active">Dados móveis ativados</string>
     <string name="mobile_data_always_on">Sempre manter dados móveis ativo</string>
     <string name="mobile_data_always_on_summary">Sempre mantém dados móveis ativos, mesmo quando o Wi-Fi estiver ativado (para troca rápida de rede).</string>
-    <string name="mobile_data_ap_mode_disabled">Indisponível no modo avião</string>
+    <string name="mobile_data_ap_mode_disabled">Indisponível no Modo avião</string>
     <string name="mobile_data_connection_active">Connectado</string>
-    <string name="mobile_data_disable_message">Você não terá acesso a dados ou na Internet através de %s. A Internet só estará disponível via Wi-Fi.</string>
+    <string name="mobile_data_disable_message">Você não terá acesso a dados ou na internet através de %s. A internet só estará disponível via Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">Sua transportadora</string>
     <string name="mobile_data_disable_title">Desativar dados móveis?</string>
     <string name="mobile_data_no_connection">Sem conexão</string>
@@ -7009,7 +7009,7 @@ Selecione seu sistema operacional:"</string>
     <string name="network_and_internet_preferences_title">Preferências de rede</string>
     <string name="network_assistant">Uso de dados</string>
     <string name="network_auto_switch">Alternar entre redes</string>
-    <string name="network_auto_switch_summery">"Alternar para dados móveis quando o sinal Wi-Fi estiver fraco ou a rede não estiver disponível"</string>
+    <string name="network_auto_switch_summery">"Alterne para dados móveis quando o sinal Wi-Fi estiver fraco ou a rede não estiver disponível"</string>
     <string name="network_changed_noti_summary">Usando dados móveis</string>
     <string name="network_changed_noti_title">Desconectado do Wi-Fi</string>
     <string name="network_changed_notification_text">Sua rede móvel mudou</string>
@@ -7219,7 +7219,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="no_default_home">Não selecionado</string>
     <string name="no_device_admins">Nenhum app de administrador do dispositivo disponível</string>
     <string name="no_internet_access_remember">Não perguntar novamente para esta rede</string>
-    <string name="no_internet_access_text">A rede Wi-Fi: \"%1$s\" não tem acesso à Internet. Continuar conectado nesta rede?</string>
+    <string name="no_internet_access_text">A rede Wi-Fi: \"%1$s\" não tem acesso à internet. Continuar conectado nesta rede?</string>
     <string name="no_media_button_receiver">Não</string>
     <string name="no_memory_use_summary">Nenhuma memória foi usada nas últimas três horas</string>
     <string name="no_nearby_wifi">Nenhuma rede Wi-Fi próxima detectada. Tente adicionar redes manualmente.</string>
@@ -7480,8 +7480,8 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="oem_lock_info_message">Reinicie o dispositivo para ativar o recurso de proteção para dispositivo.</string>
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
     <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">O bootloader já está desbloqueado</string>
-    <string name="oem_unlock_enable_disabled_summary_connectivity">Conecte-se à Internet primeiro</string>
-    <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Conecte-se à Internet ou entre em contato com sua operadora</string>
+    <string name="oem_unlock_enable_disabled_summary_connectivity">Conecte-se à internet primeiro</string>
+    <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Conecte-se à internet ou entre em contato com sua operadora</string>
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Indisponível em dispositivos bloqueados pela operadora</string>
     <string name="oem_unlock_enable_summary">Permite que o bootloader seja desbloqueado</string>
     <string name="off">Desativado</string>
@@ -7544,7 +7544,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="osu_sign_up_complete">Registro concluído. Conectando…</string>
     <string name="osu_sign_up_failed">Não foi possível completar o registro. Toque para tentar novamente.</string>
     <string name="ota_disable_automatic_update">Atualizações automáticas do sistema</string>
-    <string name="ota_disable_automatic_update_summary">Aplicar atualizações quando o dispositivo for reiniciado</string>
+    <string name="ota_disable_automatic_update_summary">Aplique as atualizações quando o dispositivo for reiniciado</string>
     <string name="otg_button">"OTG"</string>
     <string name="otg_closed">Desativado</string>
     <string name="otg_new_tip">Ative o OTG para poder conectar seu dispositivo diretamente a outros dispositivos usando USB. Este recurso será desativado automaticamente após %d minutos de inatividade.</string>
@@ -8538,7 +8538,7 @@ Essa configuração afeta todos os usuários do smartphone."</string>
     <string name="runningservicedetails_settings_title">App em execução</string>
     <string name="runningservicedetails_stop_dlg_text">Se você interromper este serviço, alguns recursos de seu tablet podem parar de funcionar corretamente até que você o desligue e ligue novamente.</string>
     <string name="runningservicedetails_stop_dlg_title">Interromper o serviço do sistema?</string>
-    <string name="runningservices_settings_summary">Visualizar e controlar os serviços em execução no momento</string>
+    <string name="runningservices_settings_summary">Visualize e controle os serviços em execução no momento</string>
     <string name="runningservices_settings_title">Serviços em execução</string>
     <string name="runtime_permissions_additional_count">{count, plural, =1 {# permissão adicional} other {# permissões adicionais} }</string>
     <string name="runtime_permissions_summary_control_app_access">Controle o acesso de apps aos seus dados</string>
@@ -8685,7 +8685,7 @@ Essa configuração afeta todos os usuários do smartphone."</string>
     <string name="screen_paper_mode_turn_on">Ativado</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não mostrar novamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
-    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para atualizar a lista de apps que usam o Modo leitura, você precisa estar conectado à Internet.</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para atualizar a lista de apps que usam o Modo leitura, você precisa estar conectado à internet.</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termos e condições</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Atualizar a lista de apps que usam o Modo leitura automaticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Atualizar automaticamente</string>
@@ -9001,7 +9001,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_status_bar_settings_toggle_position">Posição dos atalhos;Toggles;Atalhos;Alterar atalhos</string>
     <string name="search_storage_settings">Armazenamento;Memória</string>
     <string name="search_sync_settings">Sincronização;Automática;Apenas por Wi-Fi</string>
-    <string name="search_system_app_settings">Configurar Apps do sistema</string>
+    <string name="search_system_app_settings">Configurar apps do sistema</string>
     <string name="search_theme_settings_title">Temas;Tema;Personalização;Personalizar</string>
     <string name="search_title_font_settings">tamanho;altura;estilo</string>
     <string name="search_touch_assistant">Acesso rápido;Assistente de toque</string>
@@ -9439,7 +9439,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="settings_panel_title">Painel de configurações</string>
     <string name="settings_safetylegal_activity_loading">Carregando…</string>
     <string name="settings_safetylegal_activity_title">Informações de segurança</string>
-    <string name="settings_safetylegal_activity_unreachable">Você não tem uma conexão de dados. Para ver essas informações agora, acesse %s em qualquer computador conectado à Internet.</string>
+    <string name="settings_safetylegal_activity_unreachable">Você não tem uma conexão de dados. Para ver essas informações agora, acesse %s em qualquer computador conectado à internet.</string>
     <string name="settings_safetylegal_title">Informações de segurança</string>
     <string name="settings_shortcut">Atalho para as configurações</string>
     <string name="settingslib_category_personal">Pessoal</string>
@@ -9820,7 +9820,7 @@ Caso não concorde em conceder tais permissões, você não poderá usar alguns 
 Este recurso precisa de permissões para acessar sua localização, usar as redes móveis e ler os seus contatos. Aceitar?"</string>
     <string name="sos_privacy_dialog_message_new_version">"O SOS de emergência permite que você compartilhe sua localização em tempo real e envie mensagens de texto para seus contatos de emergência.
 Nós protegeremos as suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
-Observe que este app precisa de uma conexão com a Internet e requer as seguintes permissões para coletar as suas informações pessoais:
+Observe que este app precisa de uma conexão com a internet e requer as seguintes permissões para coletar as suas informações pessoais:
 • Acesso ao armazenamento
 Para salvar contatos de emergência
 • Acesso aos contatos
@@ -9833,7 +9833,7 @@ Caso não concorde em conceder tais permissões ou compartilhar e enviar suas in
 Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_dialog_message_old_version">"O SOS de emergência permite que você compartilhe sua localização em tempo real e envie mensagens de texto para seus contatos de emergência.
 Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
-Observe que este app precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:
+Observe que este app precisa se conectar à internet e requer as seguintes permissões para coletar suas informações pessoais:
 • Acessar o armazenamento
 Para salvar contatos de emergência
 • Acessar contatos
@@ -9999,7 +9999,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="storage_detail_apps">"Apps"</string>
     <string name="storage_detail_audio">Áudio</string>
     <string name="storage_detail_cached">Dados em cache</string>
-    <string name="storage_detail_dialog_other">"Outros incluem arquivos compartilhados salvos por apps, arquivos transferidos por download a partir da Internet ou Bluetooth, arquivos Android e assim por diante. 
+    <string name="storage_detail_dialog_other">"Outros incluem arquivos compartilhados salvos por apps, arquivos transferidos por download a partir da internet ou Bluetooth, arquivos Android e assim por diante. 
 
 Para ver todo o conteúdo visível desse ^1, toque em \"Explorar\"."</string>
     <string name="storage_detail_dialog_system">O sistema inclui arquivos usados para executar a versão %s do Android</string>
@@ -10380,7 +10380,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="sum_carrier_select">Selecione um operador de rede</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_range_verbal_combination">%1$s a %2$s</string>
-    <string name="summary_quick_control_all_devices">Mostrar controles para TVs, alto-falantes e carros próximos na Central de controle</string>
+    <string name="summary_quick_control_all_devices">Mostrar controles para TVs, alto-falantes e carros próximos no centro de controle.</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_first_day_of_week">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -10593,12 +10593,12 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_settings_summary_hotspot_on_tether_off">Hotspot ativado</string>
     <string name="tether_settings_summary_hotspot_on_tether_on">Hotspot ativado, ancoragem</string>
     <string name="tether_settings_summary_hotspot_only">Hotspot apenas</string>
-    <string name="tether_settings_summary_off">Não está compartilhando a Internet com outros dispositivos</string>
+    <string name="tether_settings_summary_off">Não está compartilhando a internet com outros dispositivos</string>
     <string name="tether_settings_summary_usb_and_bluetooth">USB, Bluetooth</string>
     <string name="tether_settings_summary_usb_and_bluetooth_and_ethernet">USB, Bluetooth, Ethernet</string>
     <string name="tether_settings_summary_usb_and_ethernet">USB, Ethernet</string>
     <string name="tether_settings_summary_usb_tethering_only">Somente USB</string>
-    <string name="tether_settings_title_all">Compartilhamento de Internet</string>
+    <string name="tether_settings_title_all">Compartilhamento de internet</string>
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb">Ancoragem USB</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
@@ -10606,10 +10606,10 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_share_qrcode_title">Compartilhar código QR</string>
     <string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompatíveis com o padrão 802.11ax. Desative este recurso caso tenha problemas.</string>
     <string name="tether_use_wifi6_title">Suporte ao padrão de 6ª geração</string>
-    <string name="tethering_footer_info">Use o hotspot e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão de dados móveis. Os apps também podem criar um hotspot para compartilhar conteúdo com dispositivos próximos.</string>
-    <string name="tethering_footer_info_sta_ap_concurrency">Use o hotspot e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão Wi-Fi ou de dados móveis. Os apps podem também podem criar um hotspot para compartilhar conteúdo com dispositivos próximos.</string>
+    <string name="tethering_footer_info">Use o hotspot e ancoragem para fornecer internet a outros dispositivos por meio da sua conexão de dados móveis. Os apps também podem criar um hotspot para compartilhar conteúdo com dispositivos próximos.</string>
+    <string name="tethering_footer_info_sta_ap_concurrency">Use o hotspot e ancoragem para fornecer internet a outros dispositivos por meio da sua conexão Wi-Fi ou de dados móveis. Os apps podem também podem criar um hotspot para compartilhar conteúdo com dispositivos próximos.</string>
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
-    <string name="tethering_hardware_offload_summary">"Usa aceleração de hardware para ancoragem de Internet se disponível"</string>
+    <string name="tethering_hardware_offload_summary">"Usa aceleração de hardware para ancoragem de internet se disponível"</string>
     <string name="tethering_help_button_text">Ajuda</string>
     <string name="tethering_interface_options">Ancoragem</string>
     <string name="tethering_settings_not_available">Altere as configurações de vínculo no Primeiro espaço</string>
@@ -11209,7 +11209,7 @@ ou com conector de 3.5mm."</string>
     <string name="usb_tethering_button_text">Ancoragem USB</string>
     <string name="usb_tethering_errored_subtext">Erro na ancoragem USB</string>
     <string name="usb_tethering_storage_active_subtext">Não é possível usar a ancoragem com o armazenamento USB em uso</string>
-    <string name="usb_tethering_subtext">Compartilhar conexão de Internet do smartphone via USB</string>
+    <string name="usb_tethering_subtext">Compartilhar conexão de internet do smartphone via USB</string>
     <string name="usb_tethering_unavailable_subtext">O USB não está conectado</string>
     <string name="usb_title">"USB"</string>
     <string name="usb_transcode_files">Converter vídeos para AVC</string>
@@ -11470,7 +11470,7 @@ Toque no + para adicionar palavras."</string>
     <string name="voip_assistant_settings_on">Ativado</string>
     <string name="voip_assistant_settings_summary">Grave chamadas VoIP e use a otimização de impressão de voz</string>
     <string name="volte_5G_limited_text">"Isso também desativa sua conexão 5G.
-Durante uma chamada de voz, não é possível usar a Internet, e alguns apps podem não funcionar."</string>
+Durante uma chamada de voz, não é possível usar a internet, e alguns apps podem não funcionar."</string>
     <string name="volte_5G_limited_title">Desativar VoLTE?</string>
     <string name="volume_adjustment">Ajustar volume</string>
     <string name="volume_alarm_description">Alarme</string>
@@ -11518,7 +11518,7 @@ Durante uma chamada de voz, não é possível usar a Internet, e alguns apps pod
     <string name="vpn_done">Dispensar</string>
     <string name="vpn_edit">Editar perfil de VPN</string>
     <string name="vpn_enable">"VPN"</string>
-    <string name="vpn_first_always_on_vpn_message">Quando essa configuração estiver ativada, sua conexão com a Internet não estará disponível até que a VPN se conecte</string>
+    <string name="vpn_first_always_on_vpn_message">Quando essa configuração estiver ativada, sua conexão com a internet não estará disponível até que a VPN se conecte</string>
     <string name="vpn_forget">Esquecer</string>
     <string name="vpn_forget_long">Esquecer VPN</string>
     <string name="vpn_insecure_dialog_subtitle">Não seguro. Atualizar para um IKEV2 VPN</string>
@@ -11549,7 +11549,7 @@ Durante uma chamada de voz, não é possível usar a Internet, e alguns apps pod
     <string name="vpn_password">Senha</string>
     <string name="vpn_replace">Substituir</string>
     <string name="vpn_replace_always_on_vpn_disable_message">Você já está conectado a uma VPN sempre ativa. Caso se conecte a uma diferente, a VPN já existente será substituída, e o modo sempre ativo será desativado.</string>
-    <string name="vpn_replace_always_on_vpn_enable_message">Sua VPN já existente será substituída, e você não terá uma conexão com a Internet até que a VPN se conecte</string>
+    <string name="vpn_replace_always_on_vpn_enable_message">Sua VPN já existente será substituída, e você não terá uma conexão com a internet até que a VPN se conecte</string>
     <string name="vpn_replace_vpn_message">Você já está conectado a uma VPN. Caso se conecte a uma diferente, a VPN já existente será substituída.</string>
     <string name="vpn_replace_vpn_title">Substituir VPN já existente?</string>
     <string name="vpn_require_connection">Bloquear conexões sem VPN</string>
@@ -11725,16 +11725,16 @@ Veja a política de privacidade da sua operadora para obter detalhes."</string>
     <string name="wifi_assist">Assistente Wi-Fi</string>
     <string name="wifi_assistant">Mantenha-se conectado</string>
     <string name="wifi_assistant_auto_confirm_data_help">Você pode desativar este recurso em Configurações > Wi-Fi > Assistente Wi-Fi.</string>
-    <string name="wifi_assistant_auto_confirm_data_message">Usar redes de dados móveis quando o seu dispositivo não conseguir se conectar à Internet via Wi-Fi.</string>
+    <string name="wifi_assistant_auto_confirm_data_message">Usar redes de dados móveis quando o seu dispositivo não conseguir se conectar à internet via Wi-Fi.</string>
     <string name="wifi_assistant_confirm_always">Não pergunte novamente</string>
-    <string name="wifi_assistant_confirm_connection_title">Sem acesso a Internet. Desconectar da rede Wi-Fi?</string>
+    <string name="wifi_assistant_confirm_connection_title">Sem acesso a internet. Desconectar da rede Wi-Fi?</string>
     <string name="wifi_assistant_data_prompt">Aviso!</string>
     <string name="wifi_assistant_data_prompt_summary">Mostrar aviso sobre o uso de dados ao mudar para os dados móveis</string>
     <string name="wifi_assistant_description">"Este recurso funciona da seguinte forma:
 1. Quando a conexão Wi-Fi estiver fraca, seu dispositivo tentará se conectar a outras redes Wi-Fi disponíveis automaticamente.
 2. Caso as redes Wi-Fi estejam fracas e os dados móveis estiverem ativados, seu dispositivo selecionará a melhor conexão de rede disponível."</string>
     <string name="wifi_assistant_disconnect">Desconectar</string>
-    <string name="wifi_assistant_explicitly_confirm_data_message">A rede Wi-Fi atual não possui acesso à Internet, deseja alternar para a conexão de dados móveis?</string>
+    <string name="wifi_assistant_explicitly_confirm_data_message">A rede Wi-Fi atual não possui acesso à internet, deseja alternar para a conexão de dados móveis?</string>
     <string name="wifi_assistant_explicitly_confirm_disconnect">Desconectar da rede Wi-Fi?</string>
     <string name="wifi_assistant_explicitly_confirm_wifi_message">"Há outras redes disponíveis. Alternar a rede?"</string>
     <string name="wifi_assistant_keep_connection">Não, obrigado</string>
@@ -11745,9 +11745,9 @@ Veja a política de privacidade da sua operadora para obter detalhes."</string>
     <string name="wifi_assistant_prompt">Manter conectado</string>
     <string name="wifi_assistant_prompt_button">Entendi</string>
     <string name="wifi_assistant_prompt_checkbox">Solicite a permissão para usar dados móveis</string>
-    <string name="wifi_assistant_prompt_summary">Seu dispositivo se conectará a outras redes Wi-Fi disponíveis ou usará dados móveis quando sua rede Wi-Fi atual não puder se conectar à Internet</string>
+    <string name="wifi_assistant_prompt_summary">Seu dispositivo se conectará a outras redes Wi-Fi disponíveis ou usará dados móveis quando sua rede Wi-Fi atual não puder se conectar à internet</string>
     <string name="wifi_assistant_setup_wifi_assistant">Configurar</string>
-    <string name="wifi_assistant_summary">Conecte-se a outras redes Wi-Fi disponíveis ou use dados móveis quando sua rede Wi-Fi atual não puder se conectar à Internet</string>
+    <string name="wifi_assistant_summary">Conecte-se a outras redes Wi-Fi disponíveis ou use dados móveis quando sua rede Wi-Fi atual não puder se conectar à internet</string>
     <string name="wifi_assistant_switch_data">Usar dados móveis</string>
     <string name="wifi_assistant_switch_wifi">Alternar</string>
     <string name="wifi_auto_connect">Conectar automaticamente</string>
@@ -11755,7 +11755,7 @@ Veja a política de privacidade da sua operadora para obter detalhes."</string>
     <string name="wifi_auto_connect_title">Conexão automática</string>
     <string name="wifi_auto_sel_wapi_cert">Selecionar automaticamente</string>
     <string name="wifi_available_title">Conectar-se à rede Wi-Fi</string>
-    <string name="wifi_avoid_poor_network_detection_summary">Usar apenas redes que tenham uma boa conexão com a Internet</string>
+    <string name="wifi_avoid_poor_network_detection_summary">Usar apenas redes que tenham uma boa conexão com a internet</string>
     <string name="wifi_band_24ghz">"2.4 GHz"</string>
     <string name="wifi_band_5ghz">"5 GHz"</string>
     <string name="wifi_band_60ghz">"60 GHz"</string>
@@ -11783,7 +11783,7 @@ Veja a política de privacidade da sua operadora para obter detalhes."</string>
     <string name="wifi_cant_connect_to_ap">"Não é possível conectar-se à '%1$s'"</string>
     <string name="wifi_carrier_connect">Rede Wi-Fi de operadora</string>
     <string name="wifi_carrier_content">Conecte-se via %1$s</string>
-    <string name="wifi_cellular_data_fallback_summary">Usar dados móveis quando o Wi-Fi perder o acesso à Internet. Cobranças de dados podem ser aplicadas.</string>
+    <string name="wifi_cellular_data_fallback_summary">Usar dados móveis quando o Wi-Fi perder o acesso à internet. Cobranças de dados podem ser aplicadas.</string>
     <string name="wifi_cellular_data_fallback_title">Alternar para dados móveis automaticamente</string>
     <string name="wifi_certificate">Certificado</string>
     <string name="wifi_check_password_try_again">Verifique a senha e tente novamente</string>
@@ -11955,7 +11955,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_hotspot_configure_ap_text_summary">"Hotspot AndroidAP WPA2 PSK"</string>
     <string name="wifi_hotspot_connect">CONECTAR</string>
     <string name="wifi_hotspot_footer_info_local_only">Os apps podem criar um hotspot para compartilhamento de conteúdo com dispositivos nas proximidades.</string>
-    <string name="wifi_hotspot_footer_info_regular">Use o hotspot para criar uma rede Wi-Fi para outros dispositivos. O hotspot fornece Internet usando sua conexão de dados móveis. Pode haver cobrança adicional para dados móveis.</string>
+    <string name="wifi_hotspot_footer_info_regular">Use o hotspot para criar uma rede Wi-Fi para outros dispositivos. O hotspot fornece internet usando sua conexão de dados móveis. Pode haver cobrança adicional para dados móveis.</string>
     <string name="wifi_hotspot_maximize_compatibility">Estender a compatibilidade</string>
     <string name="wifi_hotspot_maximize_compatibility_dual_ap_summary">Ajuda outros dispositivos a encontrar esse hotspot. Aumenta o uso da bateria.</string>
     <string name="wifi_hotspot_maximize_compatibility_single_ap_summary">Ajuda outros dispositivos a encontrar esse hotspot. Reduz a velocidade de conexão do hotspot.</string>
@@ -11964,8 +11964,8 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_hotspot_name_summary_connecting">Ativando %1$s…</string>
     <string name="wifi_hotspot_name_title">Nome do hotspot</string>
     <string name="wifi_hotspot_no_password_subtext">Nenhuma senha definida</string>
-    <string name="wifi_hotspot_off_subtext">Não está compartilhando a Internet ou conteúdo com outros dispositivos</string>
-    <string name="wifi_hotspot_on_local_only_subtext">O app está compartilhando conteúdo. Para compartilhar a conexão com a Internet, desative e ative o hotspot</string>
+    <string name="wifi_hotspot_off_subtext">Não está compartilhando a internet ou conteúdo com outros dispositivos</string>
+    <string name="wifi_hotspot_on_local_only_subtext">O app está compartilhando conteúdo. Para compartilhar a conexão com a internet, desative e ative o hotspot</string>
     <string name="wifi_hotspot_password_title">Senha do hotspot</string>
     <string name="wifi_hotspot_security_footer">As configurações de segurança podem mudar se você alterar a frequência do hotspot</string>
     <string name="wifi_hotspot_security_summary_unavailable">Não disponível com 6 GHz</string>
@@ -11988,9 +11988,9 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_hotspot_speed_title">Velocidade e compatibilidade</string>
     <string name="wifi_hotspot_switch_off_text">Desativado</string>
     <string name="wifi_hotspot_switch_on_text">Ativado</string>
-    <string name="wifi_hotspot_tethering_on_subtext">Compartilhando a conexão com a Internet deste dispositivo via hotspot</string>
+    <string name="wifi_hotspot_tethering_on_subtext">Compartilhando a conexão com a internet deste dispositivo via hotspot</string>
     <string name="wifi_hotspot_title">Fazer login para conectar?</string>
-    <string name="wifi_in_airplane_mode">No modo avião</string>
+    <string name="wifi_in_airplane_mode">No Modo avião</string>
     <string name="wifi_info_reconnect">Não foi possível conectar-se. Tente novamente.</string>
     <string name="wifi_install_credentials">Instalar certificados</string>
     <string name="wifi_ip_address">Endereço IP</string>
@@ -12039,7 +12039,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_network_prefix_length">Tamanho do prefixo</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_domain_warning">É necessário especificar um domínio.</string>
-    <string name="wifi_no_internet">Não é possível conectar-se à Internet</string>
+    <string name="wifi_no_internet">Não é possível conectar-se à internet</string>
     <string name="wifi_no_internet_no_reconnect">Não conectará automaticamente</string>
     <string name="wifi_no_related_sim_card">Nenhum</string>
     <string name="wifi_no_sim_card">Sem cartão SIM</string>
@@ -12246,7 +12246,7 @@ você pode usar a rede de outros usuários também."</string>
     <string name="wifi_suspend_efficiency_title">Melhorar a eficiência</string>
     <string name="wifi_suspend_optimizations">Otimização do Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">Minimizar o uso da bateria quando o Wi-Fi estiver ativado</string>
-    <string name="wifi_switch_away_when_unvalidated">Alternar para dados móveis se o Wi-Fi perder o acesso à Internet.</string>
+    <string name="wifi_switch_away_when_unvalidated">Alternar para dados móveis se o Wi-Fi perder o acesso à internet.</string>
     <string name="wifi_switch_summary">Encontre e conecte-se a redes Wi-Fi</string>
     <string name="wifi_switch_to_gsm_message">Conexão Wi-Fi perdida. Usar dados móveis em vez disso?</string>
     <string name="wifi_switch_to_gsm_title">Usar GSM?</string>
@@ -12348,7 +12348,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="wifitrackerlib_admin_restricted_network">Não permitido pela sua organização</string>
     <string name="wifitrackerlib_auto_connect_disable">Autoconexão desativada</string>
     <string name="wifitrackerlib_available_via_app">Disponível via %1$s</string>
-    <string name="wifitrackerlib_checking_for_internet_access">Verificando acesso à Internet...</string>
+    <string name="wifitrackerlib_checking_for_internet_access">Verificando acesso à internet…</string>
     <string name="wifitrackerlib_connected_via_app">Connectado via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Conectado automaticamente via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
@@ -12393,7 +12393,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Sinal fraco. Tente se aproximar do roteador.</string>
     <string name="wifitrackerlib_wifi_metered_label">Medida</string>
     <string name="wifitrackerlib_wifi_network_not_found">"Não é possível conectar. Tente mais tarde."</string>
-    <string name="wifitrackerlib_wifi_no_internet">Nenhum acesso à Internet</string>
+    <string name="wifitrackerlib_wifi_no_internet">Nenhum acesso à internet</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Não se conectará automaticamente</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Expirada</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Condições de rede pobres temporárias</string>

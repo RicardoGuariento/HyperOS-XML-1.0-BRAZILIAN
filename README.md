@@ -10,19 +10,20 @@ Strings are under:
 - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 Based on a work at:
-- [MIUI](http://miui.com)  http://miui.com
+- [HyperOS](https://hyperos.mi.com/)
 
 For more info, visit:
-- [Multilang MIUI Support](http://xiaomi.eu) 
+- [Xiaomi.eu HyperOS Support](http://xiaomi.eu)
 
 ##### Translators:
 - [@dio_s](https://t.me/dio_s) 
-- [@rickguariento](https://t.me/rickguariento) 
+- [@rickguariento](https://t.me/rickguariento)
 - [@Kircheiss](https://t.me/Kircheiss)
 - [@Feurrado](https://github.com/Feurrado)
+- [@igor](https://github.com/igormiguell)
 
 ##### Credits:
-- ingbrzy [miuios.cz](https://miuios.cz) 
+- ingbrzy [miuios.cz](https://miuios.cz)
 - IgorEisberg
 
 ##### Thanks:

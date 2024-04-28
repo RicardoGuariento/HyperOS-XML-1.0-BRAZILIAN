@@ -31,7 +31,7 @@
     <string name="abort_restore_confirm">A restauração não foi concluída. Parar mesmo assim?</string>
     <string name="account_contact_backup_info">Conta Mi, Conta do Google e dados de Contatos</string>
     <string name="account_login">Fazer login</string>
-    <string name="account_summary">Backup da Conta do Google, Conta Mi e outros dados do usuário</string>
+    <string name="account_summary">Backup da Conta do Google, Conta Mi e outros dados do usuário.</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="agree_button">Aceitar</string>
@@ -39,15 +39,15 @@
     <string name="alert_button_agree_and_continue">Permitir</string>
     <string name="alert_button_deny">Rejeitar</string>
     <string name="alert_message_backup_to_miasist">O Mi PC Suite está solicitando permissão para criar um backup em um computador. Permitir?</string>
-    <string name="alert_message_restore_from_miasist">O Mi PC Suite está solicitando permissão para restaurar itens em seu telefone. Permitir?</string>
+    <string name="alert_message_restore_from_miasist">O Mi PC Suite está solicitando permissão para restaurar itens em seu dispositivo. Permitir?</string>
     <string name="alert_miasist_occupy_backup">Fazendo o backup de itens com o Mi PC Suite… Aguarde até o backup terminar e tente novamente.</string>
     <string name="alert_miasist_occupy_restore">Restaurando itens com o Mi PC Suite… Aguarde até que os itens sejam restaurados e tente novamente.</string>
-    <string name="alert_phone_occupy_backup">Não é possível usar o Mi PC Suite agora. Conclua o backup ou a restauração no seu telefone e tente novamente.</string>
+    <string name="alert_phone_occupy_backup">Não é possível usar o Mi PC Suite agora. Conclua o backup ou a restauração no seu dispositivo e tente novamente.</string>
     <string name="alert_second_space_not_support_miasist">Não é possível usar o Mi PC Suite no Segundo espaço. Troque para o Primeiro espaço.</string>
     <string name="alert_title_backup_to_miasist">Fazer backup de itens com o Mi PC Suite?</string>
-    <string name="alert_title_restore_from_miasist">Restaurar itens no seu telefone?</string>
+    <string name="alert_title_restore_from_miasist">Restaurar itens no seu dispositivo?</string>
     <string name="already_enable_encrypt">A criptografia já está ativada</string>
-    <string name="alternative_ui_content">Este recurso permite que você faça backup e restaure itens usando seu dispositivo móvel e computador. Este recurso precisa se conectar à Internet e requer as seguintes permissões obrigatórias para funcionar normalmente:</string>
+    <string name="alternative_ui_content">Este recurso permite que você faça backup e restaure itens usando seu dispositivo móvel e computador. Este recurso precisa se conectar à internet e requer as seguintes permissões obrigatórias para funcionar normalmente:</string>
     <string name="am">"AM"</string>
     <string name="app_name">"Backup"</string>
     <string name="apps_and_data_item_desc">App e dados</string>
@@ -143,7 +143,7 @@
     <string name="close">Fechar</string>
     <string name="close_twice_auth_btn">Desativar autenticação de dois fatores</string>
     <string name="close_twice_auth_note">"Nota:
-Após criar uma nova pergunta de segurança e confirmar sua data de nascimento, a função de autenticação de dois fatores será desativada. Se você não ver a opção para desativar a autenticação de dois fatores na sua Apple ID, você não poderá desativá-la."</string>
+Após criar uma nova pergunta de segurança e confirmar sua data de nascimento, a função de autenticação de dois fatores será desativada. Se você não ver a opção para desativar a autenticação de dois fatores em sua ID Apple, você não poderá desativá-la."</string>
     <string name="close_twice_auth_operation">"URL:
 https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="close_twice_auth_step_1">1. Abra qualquer navegador em um computador e acesse appleid.apple.com.</string>
@@ -206,7 +206,7 @@ https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="disable_encrypt_title">Desativar criptografia</string>
     <string name="disable_local_backup">Desative backups locais</string>
     <string name="disable_local_backup_and_restore">Desative backups locais</string>
-    <string name="disable_local_backup_tips">Depois de desativar esse recurso, todos os backups locais serão excluídos. As configurações de backup serão apagadas e os itens não serão mais copiados automaticamente. Você ainda poderá usar seu dispositivo normalmente. Desativar mesmo assim?</string>
+    <string name="disable_local_backup_tips">Após desativar esse recurso, todos os backups locais serão excluídos. As configurações de backup serão apagadas e os itens não serão mais copiados automaticamente. Você ainda poderá usar seu dispositivo normalmente. Desativar mesmo assim?</string>
     <string name="early_morning">"AM"</string>
     <string name="enable_encrypt">Ativar criptografia</string>
     <string name="enable_encrypt_description">Criptografar</string>
@@ -227,18 +227,18 @@ https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="err_bakfile_broken">Não é possível usar este backup.</string>
     <string name="err_bakfile_not_exist">O arquivo do backup não existe.</string>
     <string name="err_binder_died">O app parou inesperadamente.</string>
-    <string name="err_filesystem_mount">Não é possível acessar o armazenamento do roteador</string>
+    <string name="err_filesystem_mount">Não foi possível acessar o armazenamento do roteador</string>
     <string name="err_low_storage">Espaço insuficiente</string>
     <string name="err_no_gms">Versão do app incompatível. Instale este app separadamente.</string>
     <string name="err_not_allow">Não suportado</string>
     <string name="err_pkg_not_exist">Não foi possível encontrar o app.</string>
     <string name="err_router_disconnected">Verifique a conexão com o roteador e tente novamente.</string>
-    <string name="err_router_files_delete">Não foi possível excluir arquivos de backup no roteador</string>
+    <string name="err_router_files_delete">Não foi possível excluir os arquivos de backup no roteador</string>
     <string name="err_unknown">Erro desconhecido</string>
     <string name="err_user_abort">Cancelado pelo usuário.</string>
     <string name="err_version_too_old">O arquivo de backup é muito antigo.</string>
     <string name="err_version_unsupported">A versão do backup não é suportada.</string>
-    <string name="error_permissions">Este app não tem as permissões necessárias para acesso à Agenda. Vá nas Configurações e ative as permissões para continuar.</string>
+    <string name="error_permissions">Este app não tem as permissões necessárias para acessar à Agenda. Vá nas Configurações e ative as permissões para continuar.</string>
     <string name="evening">"PM"</string>
     <string name="every_day">Diariamente</string>
     <string name="exchange_account">Trocar contas</string>
@@ -323,9 +323,9 @@ Não altere ou renomeie os arquivos de backup."</string>
     <string name="hsa_tip_message_with_device">"1. Uma mensagem com o código de verificação foi enviada para o \"%s\" associado à sua ID Apple.
 2. Desative a autenticação de dois fatores se o código de verificação não funcionar."</string>
     <string name="hsa_tip_title">Dicas:</string>
-    <string name="hsa_title">Autenticação em 2 etapas</string>
-    <string name="hsa_verify_failed">Falha na autenticação em 2 etapas</string>
-    <string name="hsa_verify_failed_message">Falha na autenticação em 2 etapas. Você pode tentar novamente ou desativá-la.</string>
+    <string name="hsa_title">Autenticação de dois fatores</string>
+    <string name="hsa_verify_failed">Falha na autenticação de dois fatores</string>
+    <string name="hsa_verify_failed_message">Falha na autenticação de dois fatores. Você pode tentar novamente ou desativá-la.</string>
     <string name="hsa_verify_retry">Tente novamente</string>
     <string name="hsa_verify_shutdown">Desativar</string>
     <string name="iCloud_ID_verification_tip">Toque em \"Permitir\" no seu dispositivo Apple para fazer com que o código de verificação apareça. Insira o código de verificação aqui.</string>
@@ -398,7 +398,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="login_failed">Não foi possível fazer o login. Tente novamente.</string>
     <string name="logining">Fazendo o login…</string>
     <string name="midnight">"AM"</string>
-    <string name="miliao_account_guide">Use sua Conta Mi para fazer login na MiCloud, Loja de Temas HyperOS e outros serviços Mi, de qualquer lugar.</string>
+    <string name="miliao_account_guide">Use sua Conta Mi para fazer login na MiCloud, loja de Temas e outros serviços Mi, de qualquer lugar.</string>
     <string name="miliao_account_login">Fazer login com o Mi Talk</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -488,7 +488,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_local_click_to_jump">Toque para ver instruções detalhadas</string>
     <string name="new_local_detail_description">"Observação:
 %1$d. Copie os backups para o seu computador para evitar a perda de dados. %2$s.
-%3$d. Os backups serão salvos no Armazenamento/MIUI/backup/AllBackup."</string>
+%3$d. Os backups serão salvos em Armazenamento/MIUI/backup/AllBackup."</string>
     <string name="new_local_detail_description_global">"Observação:
 %1$d. Copie os backups para o seu computador para evitar a perda de dados. %2$s.
 %3$d. Os backups serão salvos em Armazenamento/MIUI/backup/AllBackup.
@@ -531,14 +531,14 @@ você precisa criar um backup na iCloud primeiro."</string>
 %2$d. Certifique-se de que há espaço suficiente na sua unidade USB antes de começar."</string>
     <string name="new_usb_disconnect_dialog_message">Conecte um drive USB primeiro.</string>
     <string name="new_usb_disconnect_dialog_title">Não foi possível encontrar o drive USB</string>
-    <string name="new_usb_select_data_no_space">Só há %s de espaço disponível no seu drive USB. Libere espaço no armazenamento.</string>
+    <string name="new_usb_select_data_no_space">Só há %s de espaço disponível no seu drive USB. Libere espaço de armazenamento.</string>
     <string name="new_usb_tab_backup">Fazer backup</string>
     <string name="new_usb_tab_restore">Restaurar</string>
     <string name="new_usb_unwritable_storage_content">"Não foi possível salvar itens no dispositivo de armazenamento externo. Tente conectá-lo novamente."</string>
     <string name="new_usb_unwritable_storage_title">"Não foi possível salvar"</string>
     <string name="night">"PM"</string>
     <string name="no_encrypt_password">Nenhuma senha</string>
-    <string name="no_network">Não é possível conectar-se à rede</string>
+    <string name="no_network">Não foi possível conectar-se à rede</string>
     <string name="noon">"PM"</string>
     <string name="not_enough_storage_tips">Espaço de armazenamento insuficiente. Libere espaço e tente novamente.</string>
     <string name="not_set">Não definido</string>
@@ -574,21 +574,21 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="notif_trans_sending_failed">Não foi possível enviar dados</string>
     <string name="notif_trans_wait_for_reconnecting">A conexão foi interrompida. Conecte-se novamente.</string>
     <string name="old_soft_name">Conectar-se via código QR</string>
-    <string name="old_way">Você também pode gerar um código QR no seu novo dispositivo e digitalizá-lo usando o antigo.</string>
+    <string name="old_way">Você também pode gerar um código QR em seu novo dispositivo e digitalizá-lo usando o antigo.</string>
     <string name="page_loading">Aguarde…</string>
     <string name="password">Senha</string>
     <string name="password_null">A senha não pode estar em branco</string>
     <string name="pause">Pausar</string>
     <string name="perm_camera">Câmera</string>
     <string name="perm_location">Localização</string>
-    <string name="perm_read_call_log">Ler o registro de chamadas</string>
+    <string name="perm_read_call_log">Ler o histórico de chamadas</string>
     <string name="perm_read_contacts">Ler contatos</string>
-    <string name="perm_read_phone_state">Ler o status do telefone</string>
+    <string name="perm_read_phone_state">Ler o status do dispositivo</string>
     <string name="perm_read_sms">Ler as mensagens SMS</string>
     <string name="perm_storage">Ler e escrever no armazenamento externo</string>
     <string name="permission_admitted">Permitir</string>
-    <string name="permission_backup_calendar">Para fazer backup de eventos de calendário</string>
-    <string name="permission_backup_calendar_desc">Para poder fazer backup de eventos de calendário, permita que este app edite primeiro seus eventos de calendário.</string>
+    <string name="permission_backup_calendar">Para fazer backup de eventos da Agenda</string>
+    <string name="permission_backup_calendar_desc">Para poder fazer backup de eventos da Agenda, permita que este app edite primeiro seus eventos da Agenda.</string>
     <string name="permission_backup_calllog">Para fazer backup de histórico de chamadas</string>
     <string name="permission_backup_calllog_desc">Para poder fazer backup do histórico de chamadas, permita que este app acesse seu histórico de chamadas primeiro.</string>
     <string name="permission_backup_contacts">Para fazer backup de contatos</string>
@@ -604,10 +604,10 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_purpose">Esse recurso permite fazer backup e restaurar itens usando seus dispositivos móveis, computadores e unidades USB.</string>
     <string name="permission_purpose_pad">Esse recurso permite fazer backup e restaurar itens usando seus dispositivos móveis, computadores e unidades USB.</string>
     <string name="permission_read_apps">Acesse a lista de apps instalados neste dispositivo</string>
-    <string name="permission_read_calendar">Acessar eventos de calendário</string>
-    <string name="permission_read_calllog">Acessar Histórico de chamadas</string>
-    <string name="permission_read_contacts">Acessar Contatos</string>
-    <string name="permission_read_sms">Acessar Mensagens</string>
+    <string name="permission_read_calendar">Acessar eventos da Agenda</string>
+    <string name="permission_read_calllog">Acessar histórico de chamadas</string>
+    <string name="permission_read_contacts">Acessar contatos</string>
+    <string name="permission_read_sms">Acessar mensagens</string>
     <string name="permission_read_storage">Ler e gravar itens no armazenamento interno</string>
     <string name="permission_read_storage_global">Acessar o armazenamento</string>
     <string name="permission_read_storage_global_pad">Acessar o armazenamento</string>
@@ -628,7 +628,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_write_contacts">Editar contatos</string>
     <string name="permission_write_storage">Salvar itens no armazenamento</string>
     <string name="permission_write_storage_pad">Salvar itens no armazenamento</string>
-    <string name="phone_title">Configurações do telefone</string>
+    <string name="phone_title">Configurações do dispositivo</string>
     <string name="platform_chooser_item_android_mi">Mi Phone</string>
     <string name="platform_chooser_item_android_others">Outras marcas</string>
     <string name="platform_chooser_item_ios">Importar de um dispositivo iOS</string>
@@ -685,7 +685,7 @@ Libere pelo menos %s."</string>
     <string name="sc_precondition_failed">Você precisa adicionar um endereço de e-mail em sua Conta Mi primeiro.</string>
     <string name="sc_request_timeout">Requisição expirada</string>
     <string name="sc_service_unavailable">A MiCloud não está disponível</string>
-    <string name="sc_unaccess_password_file">Não é possível localizar a senha da rede Wi-Fi</string>
+    <string name="sc_unaccess_password_file">Não foi possível localizar a senha da rede Wi-Fi</string>
     <string name="sc_unauthorized">Fazer login novamente</string>
     <string name="scan_soft_ap">Procurando pelo novo dispositivo…</string>
     <string name="scan_soft_ap_label">Conecte-se ao dispositivo antigo</string>
@@ -844,7 +844,7 @@ Libere pelo menos %s."</string>
     <string name="trans_detail_category_sysdata">Dados do sistema (incluindo mensagens, contatos e registro de chamadas)</string>
     <string name="trans_detail_category_user_app_data">Dados do app</string>
     <string name="trans_detail_category_userdata">"Apps"</string>
-    <string name="trans_detail_category_wechat_qq">Dados do Wechat e QQ (incluindo histórico de chats)</string>
+    <string name="trans_detail_category_wechat_qq">Dados do WeChat e QQ (incluindo histórico de chats)</string>
     <string name="trans_detail_item_app_data_selected_tip">Apps correspondentes também foram selecionados.</string>
     <string name="trans_detail_item_app_data_skip_data">Não é possível transferir os dados do app</string>
     <string name="trans_detail_item_app_data_too_large_tip">Parece que o item é muito grande para ser transferido.</string>
@@ -865,23 +865,23 @@ Libere pelo menos %s."</string>
     <string name="trans_disconnected_tips_message">Dispositivo remoto desconectado. Conecte-se novamente manualmente ou cancele a transferência.</string>
     <string name="trans_disconnected_tips_title">Dispositivo remoto desconectado</string>
     <string name="trans_failed_details_page_title">Transferências sem sucesso</string>
-    <string name="trans_generate_qr_code_failed">Não foi possível criar código QR</string>
+    <string name="trans_generate_qr_code_failed">Não foi possível gerar código QR</string>
     <string name="trans_generate_qrcode_failed">Não foi possível gerar o código QR. Feche outros apps e tente novamente.</string>
     <string name="trans_generating_qrcode">Gerando o código QR…</string>
     <string name="trans_install_guide_button_start">Iniciar</string>
-    <string name="trans_install_guide_page_title">Instale o Mi Mover no seu telefone antigo</string>
-    <string name="trans_install_guide_scan_install_tip">"Digitalize este código QR com o seu telefone antigo
+    <string name="trans_install_guide_page_title">Instale o Mi Mover no seu dispositivo antigo</string>
+    <string name="trans_install_guide_scan_install_tip">"Digitalize este código QR com o seu dispositivo antigo
 para baixar e instalar o Mi Mover."</string>
-    <string name="trans_install_guide_step1_content">Digitalize o código QR com o seu telefone antigo para baixar e instalar o \"Mi Mover\".</string>
+    <string name="trans_install_guide_step1_content">Digitalize o código QR com o seu dispositivo antigo para baixar e instalar o \"Mi Mover\".</string>
     <string name="trans_install_guide_step1_title">Passo 1</string>
     <string name="trans_install_guide_step2_content">Depois da instalação, toque em \"Iniciar\" abaixo.</string>
     <string name="trans_install_guide_step2_title">Passo 2</string>
-    <string name="trans_intro_desc_1">Em um Telefone Mi, conecte-se ao Wi-Fi e toque em \"Sou o destinatário\". Selecione seu dispositivo iOS, faça o login na iCloud, e importe os dados.</string>
+    <string name="trans_intro_desc_1">Em um dispositivo Mi, conecte-se ao Wi-Fi e toque em \"Sou o destinatário\". Selecione seu dispositivo iOS, faça o login na iCloud, e importe os dados.</string>
     <string name="trans_intro_desc_10">Toque em \"Conectar-se com código QR\" no novo dispositivo e escaneie o código QR para estabelecer uma conexão.</string>
     <string name="trans_intro_desc_3">Cancele a transferência, saia do Mi Mover, e comece novamente. Arquivos duplicados serão sobrescritos durante a nova transferência.</string>
-    <string name="trans_intro_desc_4">O Mi Mover usa o Wi-Fi para transferir arquivos. É por isso que você não pode conectar-se à Internet usando o Wi-Fi nos dispositivos usados durante a transferência. Você poderá usar os dados móveis, entretanto. Em alguns dispositivos ainda será possível usar a conexão de Internet Wi-Fi (como o Mi 6, por exemplo).</string>
-    <string name="trans_intro_desc_4_market">O Mi Mover usa o Wi-Fi para transferir arquivos. Este é o motivo pelo o qual não pode conectar-se à Internet via Wi-Fi durante a transferência. Pode continuar usando dados móveis, entretanto.</string>
-    <string name="trans_intro_desc_5">O espaço de armazenamento nos dispositivos antigos é usado para criar os pacotes de transferência. Certifique-se de que você tem no mínimo 500MB - 1GB de armazenamento disponível no seu dispositivo antigo antes de iniciar uma transferência.</string>
+    <string name="trans_intro_desc_4">O Mi Mover usa o Wi-Fi para transferir arquivos. É por isso que você não pode conectar-se à internet usando o Wi-Fi nos dispositivos usados durante a transferência. Você poderá usar os dados móveis, entretanto. Em alguns dispositivos ainda será possível usar a conexão de internet Wi-Fi (como o Mi 6, por exemplo).</string>
+    <string name="trans_intro_desc_4_market">O Mi Mover usa o Wi-Fi para transferir arquivos. Este é o motivo pelo o qual não pode conectar-se à internet via Wi-Fi durante a transferência. Pode continuar usando dados móveis, entretanto.</string>
+    <string name="trans_intro_desc_5">O espaço de armazenamento nos dispositivos antigos é usado para criar os pacotes de transferência. Certifique-se de que você tem no mínimo 500 MB - 1 GB de armazenamento disponível no seu dispositivo antigo antes de iniciar uma transferência.</string>
     <string name="trans_intro_desc_6">Existem vários fatores que podem causar isso: problemas de versão de compatibilidade entre o sistema e apps, problemas de rede, problemas de compatibilidade específicos de um dispositivo, etc.</string>
     <string name="trans_intro_desc_7">Alguns perfis de apps (ex.: e-banking, etc) são associados ao dispositivo que foram instalados inicialmente. Tente limpar os dados do app ou reinstalá-lo no novo dispositivo.</string>
     <string name="trans_intro_desc_8">Os dados do WeChat e seu histórico podem não ser transferidos completamente usando o Mi Mover. Acesse as configurações do WeChat e faça o logout da sua conta para aumentar as chances de uma transferência completa.</string>
@@ -891,13 +891,13 @@ para baixar e instalar o Mi Mover."</string>
     <string name="trans_intro_desc_9_method_2_title">2. Nos envie um e-mail</string>
     <string name="trans_intro_desc_9_method_3_dec">Grupo do Mi Mover no QQ: 687338378</string>
     <string name="trans_intro_desc_9_method_3_title">3. Reporte os problemas no QQ</string>
-    <string name="trans_intro_desc_account">Você precisará fazer o login novamente em suas contas (ex.: Conta Mi, Exchange, Google, etc) no novo dispositivo para garantir sua segurança.</string>
+    <string name="trans_intro_desc_account">Você precisará fazer o login novamente em suas contas (ex.: Conta Mi, Exchange, Google, etc.) no novo dispositivo para garantir sua segurança.</string>
     <string name="trans_intro_desc_gms">Devido a alta possibilidade de falhas na transferência serem causados por problemas de compatibilidade, o Mi Mover não suporta a transferência de dados gerados por apps do Google.</string>
     <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados de dual apps para evitar conflitos entre arquivos.</string>
     <string name="trans_intro_desc_multiuser">O Mi Mover não pode acessar itens no Segundo espaço. Mova os itens para o Primeiro espaço e inicie o Mi Mover.</string>
     <string name="trans_intro_desc_new">Toque em \"Sou o destinatário\". Um código QR será gerado.</string>
-    <string name="trans_intro_desc_old">Toque em \"Sou o remetente\". Leia o código QR no novo telefone, aguarde até o Mi Mover localizar arquivos para enviar, e toque em \"Enviar\".</string>
-    <string name="trans_intro_desc_old_market">Toque em \"Iniciar\". Escaneie o código QR no seu novo telefone, espere até que o Mi Mover analise os arquivos a enviar, e toque em \"Enviar\".</string>
+    <string name="trans_intro_desc_old">Toque em \"Sou o remetente\". Leia o código QR no novo dispositivo, aguarde até o Mi Mover localizar arquivos para enviar, e toque em \"Enviar\".</string>
+    <string name="trans_intro_desc_old_market">Toque em \"Iniciar\". Escaneie o código QR no seu novo dispositivo, espere até que o Mi Mover analise os arquivos a enviar, e toque em \"Enviar\".</string>
     <string name="trans_intro_desc_private">O Mi Mover não pode acessar as fotos no álbum oculto porque elas são criptografadas. Você poderá restaurar estas fotos usando a MiCloud no novo dispositivo.</string>
     <string name="trans_intro_question_1">%d. Como uso o Mi Mover para mover os dsdos de um dispositivo iOS?</string>
     <string name="trans_intro_question_10">%d. Não consegue encontrar o hotspot no dispositivo antigo?</string>
@@ -913,10 +913,10 @@ para baixar e instalar o Mi Mover."</string>
     <string name="trans_intro_title">Perguntas frequentes</string>
     <string name="trans_intro_title_account">Contas e senhas:</string>
     <string name="trans_intro_title_gms">Dados gerados por apps do Google:</string>
-    <string name="trans_intro_title_multiapp">Dados dos dual apps:</string>
+    <string name="trans_intro_title_multiapp">Dados do Dual apps:</string>
     <string name="trans_intro_title_multiuser">Dados do Segundo espaço:</string>
-    <string name="trans_intro_title_new">Em um novo telefone:</string>
-    <string name="trans_intro_title_old">Em um telefone antigo:</string>
+    <string name="trans_intro_title_new">Em um novo dispositivo:</string>
+    <string name="trans_intro_title_old">Em um dispositivo antigo:</string>
     <string name="trans_intro_title_private">Álbum oculto:</string>
     <string name="trans_main_tutor">Mover contatos, registro de chamadas, mensagens, layout da Tela inicial, apps, configurações, etc. para um novo dispositivo</string>
     <string name="trans_my_device">Meu dispositivo</string>
@@ -938,9 +938,9 @@ Toque em [Sou o destinatário] para criar um código QR"</string>
 2. Abra o app e toque em Iniciar
 3. Leia o código QR com seu dispositivo antigo"</string>
     <string name="trans_operate_old_phone_tips2">Vá em Configurações &gt; Configurações adicionais &gt; Mi Mover, toque em [Sou o remetente]</string>
-    <string name="trans_operate_reconnect_new_tips">"Aguarde até que o novo telefone exiba \"A conexão foi interrompida\".
+    <string name="trans_operate_reconnect_new_tips">"Aguarde até que o novo dispositivo exiba \"A conexão foi interrompida\".
 Então toque em \"Conectar novamente\" para criar um código QR."</string>
-    <string name="trans_operate_reconnect_old_tips">"Aguarde até que o telefone antigo exiba \"A conexão foi interrompida\".
+    <string name="trans_operate_reconnect_old_tips">"Aguarde até que o dispositivo antigo exiba \"A conexão foi interrompida\".
 Então toque em \"Conectar novamente\" para ler o código QR."</string>
     <string name="trans_operate_tip_for_other_android">Abra o Mi Mover no seu telemóvel antigo, toque em \"Iniciar\" e digitalize o código QR acima.</string>
     <string name="trans_pausing">Pausando…</string>
@@ -1006,8 +1006,8 @@ Você gostou do Mi Mover?"</string>
     <string name="trans_time_spent">Tempo gasto: %s</string>
     <string name="trans_wait_trans_data">"Conectado ao dispositivo antigo.
 Aguardando a transferência…"</string>
-    <string name="trans_waiting_ensurance">"Certifique-se de que o dispositivo antigo está ligado
-e o Mi Mover ativado"</string>
+    <string name="trans_waiting_ensurance">"Certifique-se de que o dispositivo antigo e o Mi Mover
+estejam ativados"</string>
     <string name="trans_waiting_for_sender">Aguardando a conexão do dispositivo antigo…</string>
     <string name="trans_wlan_tips_message">Não desative o Wi-Fi ou mude para outras redes Wi-Fi durante a transferência. Do contrário, o Mi Mover não conseguirá transferir seus dados.</string>
     <string name="trans_wlan_tips_title">Não desative o Wi-Fi</string>
@@ -1028,7 +1028,7 @@ Libere espaço ou faça várias transferências menores."</string>
 Libere algum espaço ou transfira só itens importantes."</string>
     <string name="user_feedback">"Feedback"</string>
     <string name="user_know_button_text">Entendi</string>
-    <string name="user_name">Apple ID ou e-mail</string>
+    <string name="user_name">ID Apple ou e-mail</string>
     <string name="user_name_null">O usuário não pode estar em branco</string>
     <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
     <string name="user_notice_message">Algumas funcionalidades requerem uma conexão com a internet para funcionarem normalmente.</string>
