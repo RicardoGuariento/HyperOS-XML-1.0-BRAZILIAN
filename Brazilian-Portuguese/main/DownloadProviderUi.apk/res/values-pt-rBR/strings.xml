@@ -112,7 +112,7 @@
     <string name="copy_info">Copiado para a área de transferência. Você poderá compartilhar com os amigos!</string>
     <string name="creat_task_success">Adicionado à fila de downloads</string>
     <string name="create_task">Criar tarefa</string>
-    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para baixar itens, bem como exibir e gerenciar downloads</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para baixar itens, bem como exibir e gerenciar downloads.</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="delete">Excluir</string>
@@ -122,7 +122,7 @@
     <string name="deselect_all">Desmarcar todos</string>
     <string name="deselect_subfile_all">Desmarcar todos</string>
     <string name="determine">"OK"</string>
-    <string name="diagnosis_log_send_failed">Falha ao enviar o Log de diagnóstico.</string>
+    <string name="diagnosis_log_send_failed">Falha ao enviar o log de diagnóstico.</string>
     <string name="diagnosis_log_sent_format">"O log de diagnóstico foi enviado.
 ID:%s
 Por favor, envie este código para o técnico."</string>
@@ -150,13 +150,13 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_msg_recommend">Você não receberá anúncios após desativar esta função</string>
     <string name="dialog_privacy_update_button1">Cancelar</string>
     <string name="dialog_privacy_update_button2">Aceitar</string>
-    <string name="dialog_privacy_update_title">Política de privacidade atualizada</string>
+    <string name="dialog_privacy_update_title">Política de Privacidade atualizada</string>
     <string name="dialog_queued_body">Este arquivo foi adicionado à lista de downloads pendentes</string>
     <string name="dialog_speed_cancel">Cancelar</string>
     <string name="dialog_speed_msg">Utilizar dados móveis para testar a rede pode consumir dados. Continuar mesmo assim?</string>
     <string name="dialog_speed_ok">Continuar</string>
     <string name="dialog_speed_title">Aviso de uso de dados</string>
-    <string name="dialog_title_disabled_net">Acesso à Internet</string>
+    <string name="dialog_title_disabled_net">Acesso à internet</string>
     <string name="dialog_title_not_available">O download falhou</string>
     <string name="dialog_title_queued_body">O arquivo ainda não está disponível</string>
     <string name="dialog_title_recommend">Desativar anúncios</string>
@@ -173,7 +173,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="download_auth">Obtendo autorização…</string>
     <string name="download_complete">Concluído</string>
     <string name="download_description_content">"Downloads é um app do sistema. Você não poderá gerenciar seus downloads depois de removê-lo. "</string>
-    <string name="download_description_title">Remover \"Downloads\" da tela inicial?</string>
+    <string name="download_description_title">Remover \"Downloads\" da Tela inicial?</string>
     <string name="download_detail">Detalhes</string>
     <string name="download_error">Não foi possível baixar</string>
     <string name="download_error_download_file_not_exists">Arquivo não existe</string>
@@ -333,8 +333,6 @@ Por favor, envie este código para o técnico."</string>
     <string name="menu_title_resume_all">Iniciar todos</string>
     <string name="menu_title_settings">Configurações</string>
     <string name="menu_vip_unbind">Desparear</string>
-    <string name="mi_money">Mi Credits</string>
-    <string name="mi_money_">Mi Credits</string>
     <string name="midnight">"AM"</string>
     <string name="missing_title">&lt;Desconhecido&gt;</string>
     <string name="miuix_access_state_desc">Selecionado</string>
@@ -407,7 +405,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
-    <string name="net_error">Não é possível conectar-se à rede, tente novamente</string>
+    <string name="net_error">Não é possível conectar-se à rede, tente novamente.</string>
     <string name="network_error">Não é possível conectar-se à rede</string>
     <string name="new_add">Novo download</string>
     <string name="new_add_bt">Adicionar torrent</string>
@@ -420,18 +418,18 @@ Por favor, envie este código para o técnico."</string>
     <string name="no_share_file">Não foi possível compartilhar este arquivo</string>
     <string name="no_share_file_content">O arquivo selecionado já foi excluído</string>
     <string name="no_share_files">Não é possível compartilhar arquivos excluídos</string>
-    <string name="no_share_files_content">Alguns dos arquivos que está tentando compartilhar já foram excluídos. Os outros foram compartilhados com sucesso</string>
-    <string name="no_support_modify_path">Devido à política de segurança mais recente, não é possível modificar a localização para itens baixados</string>
+    <string name="no_share_files_content">Alguns dos arquivos que está tentando compartilhar já foram excluídos. Os outros foram compartilhados com sucesso.</string>
+    <string name="no_support_modify_path">Devido à política de segurança mais recente, não é possível modificar a localização para itens baixados.</string>
     <string name="no_vip_info">Obtenha uma assinatura Xunlei para acelerar seus downloads</string>
     <string name="no_vip_show_info">"Acelere seus downloads
 entre todos os seus dispositivos com o Xunlei"</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
-    <string name="notify_disabled_net_by_app">Acesso à Internet restrito</string>
+    <string name="notify_disabled_net_by_app">Acesso à internet restrito</string>
     <string name="notify_install_guide_forward_text">Abrir</string>
     <string name="notify_install_guide_msg">Instalado com sucesso</string>
     <string name="notify_install_guide_title">Instalado %s com sucesso</string>
-    <string name="notify_not_support">Estas notificações não são suportadas. Atualize agora</string>
+    <string name="notify_not_support">Estas notificações não são suportadas. Atualize agora!</string>
     <string name="notify_only_wifi_download">Aguardando Wi-Fi</string>
     <string name="nowInstall">Instalar</string>
     <string name="ok">"OK"</string>
@@ -441,7 +439,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="open_download">Abrir</string>
     <string name="open_folder">Abrir pasta</string>
     <string name="open_vip_hint">Toque para se tornar um membro Xunlei</string>
-    <string name="open_vip_speedup">Torne-se um membro para otimizar a velocidade &gt;</string>
+    <string name="open_vip_speedup">Torne-se um membro para otimizar a velocidade </string>
     <string name="open_xunlei_speed_service">Iniciar o Acelerador Xunlei</string>
     <string name="original_price">Preço</string>
     <string name="other">Outros</string>
@@ -468,7 +466,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="pref_download_storage_path">Salvar em local personalizado</string>
     <string name="pref_download_storage_path_2">Localização para itens baixados</string>
     <string name="pref_permission_description">Detalhes de permissões</string>
-    <string name="pref_sniff_shortcut">Criar atalho na tela inicial para pesquisas Web</string>
+    <string name="pref_sniff_shortcut">Criar atalho na Tela inicial para pesquisas Web</string>
     <string name="pref_summary_any_bytes_popup">Sempre aguardar uma conexão Wi-Fi para o download de arquivos</string>
     <string name="pref_summary_enable_max_bytes_popup">Mostrar uma notificação pop-up ao usar a conexão de dados móveis para baixar conteúdo</string>
     <string name="pref_summary_max_bytes_limit_format">Aguardar por conexão Wi-Fi se o tamanho do arquivo exceder %s</string>
@@ -566,9 +564,9 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="setting_close_debug">Modo de depuração desativado</string>
     <string name="setting_debug_fail">Não foi possível entrar no modo de depuração</string>
     <string name="setting_open_debug">Modo de depuração ativado. Toque aqui 6 vezes para desativar.</string>
-    <string name="shortcut_dialog_content">Adicione um atalho na tela inicial para localizar fontes rapidamente.</string>
+    <string name="shortcut_dialog_content">Adicione um atalho na Tela inicial para localizar fontes rapidamente.</string>
     <string name="shortcut_dialog_create">Criar</string>
-    <string name="shortcut_dialog_title">Criar atalho na tela inicial?</string>
+    <string name="shortcut_dialog_title">Criar atalho na Tela inicial?</string>
     <string name="show_more">Mostrar mais %s</string>
     <string name="size">Tamanho</string>
     <string name="size_byte">B</string>
@@ -580,7 +578,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="sniff_associate_text">"Popular"</string>
     <string name="sniff_bt_text">Arquivo torrent</string>
     <string name="sniff_btn_text">Fonte</string>
-    <string name="sniff_cannot_use">Não é possível usar a pesquisa global, toque no link para baixar</string>
+    <string name="sniff_cannot_use">Não é possível usar a pesquisa global, toque no link para baixar.</string>
     <string name="sniff_connect_error_page_tips">Não foi possível abrir URL</string>
     <string name="sniff_connect_error_refresh">Recarregar</string>
     <string name="sniff_copyright_text">Não é possível mostrar os resultados devido a proteções de direitos autorais</string>
@@ -602,8 +600,8 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="sniff_shortcut_exist">O atalho já existe</string>
     <string name="sniff_shortcut_failed">Não foi possível criar atalho</string>
     <string name="sniff_shortcut_name">Pesquisa web</string>
-    <string name="sniff_shortcut_tip">Você pode adicionar um atalho na tela inicial para pesquisar na Web</string>
-    <string name="sniff_shortcut_tip2">Encontrar fontes para os downloads a partir da tela inicial.</string>
+    <string name="sniff_shortcut_tip">Você pode adicionar um atalho na Tela inicial para pesquisar na web</string>
+    <string name="sniff_shortcut_tip2">Encontrar fontes para os downloads a partir da Tela inicial.</string>
     <string name="sniff_sniffing_btn_text">Procurando fontes…</string>
     <string name="sniff_terms_agree">Aceitar</string>
     <string name="sniff_terms_agree_new">Aceitar</string>
@@ -611,7 +609,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="sniff_terms_msg">Você deve aceitar o nosso \"Contrato do Usuário\" antes de começar a usar um motor de busca de terceiros.</string>
     <string name="sniff_terms_msg_a">Esta função de pesquisa é fornecida por outro desenvolvedor. Você precisa aceitar o Contrato do Usuário antes de usá-lo.</string>
     <string name="sniff_terms_msg_b">Esta função de pesquisa é fornecida por outro desenvolvedor. Você precisa aceitar o Contrato do Usuário antes de usá-lo. Se você concorda com os termos, marque a caixa abaixo.</string>
-    <string name="sniff_terms_msg_bold">Termos de Acordo do Usuário</string>
+    <string name="sniff_terms_msg_bold">Termos do Acordo do Usuário</string>
     <string name="sniff_terms_msg_bold_new">Termos de serviço</string>
     <string name="sniff_terms_reject">Rejeitar</string>
     <string name="sniff_terms_title">Atenção!</string>
@@ -626,7 +624,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="speed_result_restart">Teste novamente</string>
     <string name="speed_start">Teste</string>
     <string name="speed_stop">Cancelar</string>
-    <string name="speed_tip_netwrok_fail">Ocorreu um erro de rede, tente novamente</string>
+    <string name="speed_tip_netwrok_fail">Ocorreu um erro de rede, tente novamente.</string>
     <string name="speed_tip_netwrok_timeout">A conexão expirou, tente novamente</string>
     <string name="speed_tip_no_netwrok">"Não foi possível conectar à rede. Conecte-se e tente novamente."</string>
     <string name="speed_title">Teste a velocidade do Wi-Fi</string>
@@ -658,7 +656,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="temporary_not_available">temporariamente indisponível</string>
     <string name="test_speed">Teste</string>
     <string name="test_speed_detail">Detalhes</string>
-    <string name="test_speed_please">Toque para testar a velocidade...</string>
+    <string name="test_speed_please">Toque para testar a velocidade…</string>
     <string name="test_speed_result">Resultado do teste</string>
     <string name="text_showmore_infoflow">Ver mais fontes</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
@@ -715,7 +713,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="time_consume">Duração</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="tip_download_icon_restore">Adicionar um atalho da Tela inicial para downloads</string>
-    <string name="tip_download_icon_retry">Falha ao restaurar o ícone de Download da Tela inicial, toque para tentar novamente</string>
+    <string name="tip_download_icon_retry">Falha ao restaurar o ícone de Download da Tela inicial, toque para tentar novamente.</string>
     <string name="title_homepage_infoflow">Atualizações recentes</string>
     <string name="title_tips">Atenção!</string>
     <string name="title_unbind_xunlei">Remover a sua conta Xunlei</string>
@@ -747,7 +745,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="v7_preference_on">Ativado</string>
     <string name="valid_in_this_month">Válido para este mês</string>
     <string name="version">Versão %s</string>
-    <string name="vip_auto_speedup">O Acelerador Xunlei ativado</string>
+    <string name="vip_auto_speedup">Acelerador Xunlei ativado</string>
     <string name="vip_expire_show_info">Assinatura Xunlei expirada.</string>
     <string name="vip_expire_today_show_info">O período de membro Xunlei expirou</string>
     <string name="vip_show_info">"5 milhões de membros.
@@ -782,7 +780,7 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="xl_privilege_storage_info">Há espaço suficiente para todos os seus downloads</string>
     <string name="xl_privilege_support">Vários dispositivos</string>
     <string name="xl_privilege_title">Membro Xunlei</string>
-    <string name="xl_validate_title">"Válido até:    "</string>
+    <string name="xl_validate_title">"Válido até: "</string>
     <string name="xl_vip_annual">Plano anual</string>
     <string name="xl_vip_annual_price">%1$s Mi Coins por mês (12 meses)</string>
     <string name="xl_vip_combo">Planos</string>

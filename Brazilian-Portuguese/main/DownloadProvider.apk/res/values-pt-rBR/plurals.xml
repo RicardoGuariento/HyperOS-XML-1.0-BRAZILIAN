@@ -30,12 +30,12 @@
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Delete %d downloads?</item>
-        <item quantity="one">Delete %d download?</item>
+        <item quantity="other">Excluir %d downloads?</item>
+        <item quantity="one">Excluir %d download?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Deleted %s downloads successfully</item>
-        <item quantity="one">Deleted %s download successfully</item>
+        <item quantity="other">%s downloads excluídos com sucesso</item>
+        <item quantity="one">%s download excluído com sucesso</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>

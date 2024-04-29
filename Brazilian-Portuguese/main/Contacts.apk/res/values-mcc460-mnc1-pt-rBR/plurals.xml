@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Excluir %d contatos do cartão USIM?</item>
-        <item quantity="one">Excluir %d contato do cartão USIM?</item>
+        <item quantity="other">Excluir %d contatos do cartão SIM?</item>
+        <item quantity="one">Excluir %d contato do cartão SIM?</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">O cartão USIM pode armazenar %d contatos.</item>
-        <item quantity="one">O cartão USIM pode armazenar %d contato.</item>
+        <item quantity="other">O cartão SIM pode armazenar %d contatos.</item>
+        <item quantity="one">O cartão SIM pode armazenar %d contato.</item>
     </plurals>
 </resources>

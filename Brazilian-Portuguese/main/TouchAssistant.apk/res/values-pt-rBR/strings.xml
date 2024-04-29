@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -37,7 +37,7 @@
     <string name="category_setting">Configurações</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
-    <string name="close_panel">Desativar botões de Acesso rápido</string>
+    <string name="close_panel">Desativar Acesso rápido</string>
     <string name="copy">Copiar</string>
     <string name="customize_entries">Selecionar atalhos</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
@@ -48,7 +48,7 @@
     <string name="edge_mode_custom_summary">Ajuste o tamanho das áreas de acionamento próximas da borda da tela</string>
     <string name="edge_mode_custom_title">Personalizado</string>
     <string name="edge_mode_default_title">Padrão</string>
-    <string name="enable_touch_assistant">Ativar botões de Acesso rápido</string>
+    <string name="enable_touch_assistant">Ativar Acesso rápido</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">"PM"</string>
@@ -199,12 +199,12 @@
     <string name="not_set">Não definido</string>
     <string name="not_working">%s (Não está funcionando)</string>
     <string name="open">Ativar</string>
-    <string name="open_panel">Ativar botões de Acesso rápido</string>
+    <string name="open_panel">Ativar Acesso rápido</string>
     <string name="pay_entry_dialog_title_select">Selecionar app para abrir</string>
     <string name="pay_entry_dialog_title_setting">Definir app</string>
     <string name="permission_desc">Detalhes de permissões</string>
     <string name="pm">"PM"</string>
-    <string name="pref_category_mipay">Atalhos de NFC</string>
+    <string name="pref_category_mipay">Atalhos do NFC</string>
     <string name="pref_category_others">Outros</string>
     <string name="pref_category_quick_pay">Pagamento rápido</string>
     <string name="pref_category_quick_settings">Configurações rápidas</string>
@@ -273,7 +273,7 @@
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
-    <string name="theme_manager_not_supported">O Gerenciador de temas não é suportado.</string>
+    <string name="theme_manager_not_supported">O Temas não é suportado.</string>
     <string name="three_seconds_auto_hide">Ocultar na lateral após %d segundos de inatividade</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>

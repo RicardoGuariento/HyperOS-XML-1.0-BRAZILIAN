@@ -117,19 +117,19 @@
         <item quantity="one">Intervalo de soneca alterado para %d minuto</item>
     </plurals>
     <plurals name="snooze_duration_count">
-        <item quantity="other">Dispara %1$s vezes</item>
-        <item quantity="one">Dispara %1$s vez</item>
+        <item quantity="other">Disparar %1$s vezes</item>
+        <item quantity="one">Disparar %1$s vez</item>
     </plurals>
     <plurals name="snooze_duration_desc">
-        <item quantity="other">A cada %1$s min, disparar %2$s vezes</item>
+        <item quantity="other">A cada %1$s mins, disparar %2$s vezes</item>
         <item quantity="one">A cada %1$s min, disparar %2$s vez</item>
     </plurals>
     <plurals name="snooze_duration_min">
-        <item quantity="other">A cada %1$s min</item>
+        <item quantity="other">A cada %1$s mins</item>
         <item quantity="one">A cada %1$s min</item>
     </plurals>
     <plurals name="snooze_duration_summary">
-        <item quantity="other">O alarme disparará %2$s vezes (%1$s min. cada)</item>
+        <item quantity="other">O alarme disparará %2$s vezes (%1$s mins. cada)</item>
         <item quantity="one">O alarme disparará %2$s vez (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_duration_minute">
@@ -137,11 +137,11 @@
         <item quantity="one">A cada %1$d minuto</item>
     </plurals>
     <plurals name="snooze_duration_time">
-        <item quantity="other">Repetir %1$d vezes</item>
-        <item quantity="one">Repetir %1$d vez</item>
+        <item quantity="other">Disparar %1$d vezes</item>
+        <item quantity="one">Disparar %1$d vez</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Soneca por %d min</item>
+        <item quantity="other">Soneca por %d mins</item>
         <item quantity="one">Soneca por %d min</item>
     </plurals>
     <plurals name="stopwatch_running_notification_day">

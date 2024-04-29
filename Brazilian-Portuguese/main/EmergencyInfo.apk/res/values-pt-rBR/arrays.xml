@@ -11,7 +11,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite padrão</item>
-        <item>Sem processos de fundo.</item>
+        <item>Sem processos de fundo</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
         <item>No máximo 3 processos</item>
@@ -77,7 +77,7 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-	    <item>LC3</item>
+        <item>LC3</item>
         <item>Opus</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
@@ -94,7 +94,7 @@
         <item>LDAC</item>
         <item>LC3</item>
         <item>Opus</item>
-	    <item>Qualcomm® aptX™ Adaptive audio</item>
+	<item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LC3</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
@@ -123,7 +123,7 @@
         <item>Ativado</item>
         <item>Ativado Cabeçalhos Filtrados</item>
         <item>Ativado Pacotes de mídia filtrados</item>
-	    <item>Ativado Perfis filtrados</item>
+	<item>Ativado Perfis filtrados</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Deixe apenas cabeçalhos ACL</item>
@@ -189,11 +189,11 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desativado</item>
-        <item>64K por buffer de log.</item>
-        <item>256K por buffer de log.</item>
-        <item>1M por buffer de log.</item>
-        <item>4M por buffer de log.</item>
-        <item>8M por buffer de log.</item>
+        <item>64K por buffer de log</item>
+        <item>256K por buffer de log</item>
+        <item>1M por buffer de log</item>
+        <item>4M por buffer de log</item>
+        <item>8M por buffer de log</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desativado</item>
@@ -237,10 +237,10 @@
     <string-array name="tts_demo_strings">
         <item>Este é um exemplo de síntese de voz em inglês.</item>
         <item>Este é um exemplo de síntese de voz em francês.</item>
-        <item>Este é um exemplo de síntese de voz emalemão.</item>
+        <item>Este é um exemplo de síntese de voz em alemão.</item>
         <item>Este é um exemplo de síntese de voz em italiano.</item>
         <item>Este é um exemplo de síntese de voz em espanhol.</item>
-        <item>Este é um exemplo de síntese de voz em koreano.</item>
+        <item>Este é um exemplo de síntese de voz em coreano.</item>
     </string-array>
     <string-array name="udfps_accessibility_touch_hints">
         <item>Mova para a esquerda</item>
@@ -266,7 +266,7 @@
         <item>Suspenso</item>
         <item>Desconectando…</item>
         <item>Desconectado</item>
-        <item>Malsucedida</item>
+        <item>Malsucedido</item>
         <item>Bloqueado</item>
         <item>Evitando temporariamente a má conexão</item>
     </string-array>

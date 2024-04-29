@@ -78,16 +78,16 @@
         <item quantity="one">" instância"</item>
     </plurals>
     <plurals name="duration_unit_hour_format">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
     </plurals>
     <plurals name="duration_unit_minute_format">
         <item quantity="other">%1$d mins</item>
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="duration_unit_second_format">
-        <item quantity="other">%1$d secs</item>
-        <item quantity="one">%1$d sec</item>
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Meta: %1$d passos</item>
@@ -341,24 +341,24 @@
         <item quantity="one">" ciclo"</item>
     </plurals>
     <plurals name="unit_hours">
-        <item quantity="other">" hrs "</item>
-        <item quantity="one">" hr "</item>
+        <item quantity="other">" horas "</item>
+        <item quantity="one">" hora "</item>
     </plurals>
     <plurals name="unit_hours2">
         <item quantity="other">" horas "</item>
         <item quantity="one">" hora "</item>
     </plurals>
     <plurals name="unit_mins">
-        <item quantity="other">" mins "</item>
-        <item quantity="one">" min "</item>
+        <item quantity="other">" minutos "</item>
+        <item quantity="one">" minuto "</item>
     </plurals>
     <plurals name="unit_mins2">
         <item quantity="other">" minutos "</item>
         <item quantity="one">" minuto "</item>
     </plurals>
     <plurals name="unit_seconds">
-        <item quantity="other">" seg "</item>
-        <item quantity="one">" seg "</item>
+        <item quantity="other">" segundos "</item>
+        <item quantity="one">" segundo "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" vezes"</item>

@@ -35,9 +35,9 @@
     <string name="app_update_dialog_desc_title">"O que há de novo"</string>
     <string name="app_update_dialog_support">As atualizações são fornecidas por GetApps</string>
     <string name="app_update_dialog_title">Uma atualização está disponível</string>
-    <string name="error_device_id_message">"ID do dispositivo inválida: %s
-A ID do dispositivo precisa ser um IMEI ou endereço MAC válidos. Sem a ID do dispositivo, alguns recursos da Conta Mi e MiCloud não estarão disponíveis."</string>
-    <string name="error_device_id_title">Não é possível obter uma ID de dispositivo válida</string>
+    <string name="error_device_id_message">"ID do dispositivo inválido: %s
+O ID do dispositivo precisa ser um IMEI ou endereço MAC válido. Sem o ID do dispositivo, alguns recursos da Conta Mi e MiCloud não estarão disponíveis."</string>
+    <string name="error_device_id_title">Não é possível obter um ID de dispositivo válido</string>
     <string name="explain_send_sms_permission_button">Verificar</string>
     <string name="explain_send_sms_permission_msg">Para ativar a função %s, a Estrutura de serviços Xiaomi enviará um SMS para verificar seu número de telefone. Você será cobrado por um SMS comum por sua operadora.</string>
     <string name="explain_send_sms_permission_title">Verificar seu número de telefone</string>
