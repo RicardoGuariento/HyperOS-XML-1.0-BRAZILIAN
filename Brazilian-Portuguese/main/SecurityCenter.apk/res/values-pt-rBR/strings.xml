@@ -2,35 +2,35 @@
 <resources>
     <string name="HIPS_Perm_Access_Gallery">Acessar a Galeria</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Permite que este app acesse itens na sua Galeria</string>
-    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ativar e desativar o Bluetooth</string>
-    <string name="HIPS_Perm_CallLog_Desc">Escrever ou excluir registros no histórico de chamadas</string>
-    <string name="HIPS_Perm_Call_Desc">Ligar diretamente para números de telefone</string>
+    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ative ou desative o Bluetooth</string>
+    <string name="HIPS_Perm_CallLog_Desc">Escreva ou exclua registros no histórico de chamadas</string>
+    <string name="HIPS_Perm_Call_Desc">Ligue diretamente para números de telefone</string>
     <string name="HIPS_Perm_Contact_Desc">Modificar e excluir contatos</string>
     <string name="HIPS_Perm_External_READ_FILES">Acesso a arquivos e documentos</string>
-    <string name="HIPS_Perm_External_READ_FILES_Desc">Acessar arquivos e documentos armazenados neste dispositivo</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Acesse arquivos e documentos armazenados neste dispositivo</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Acesso aos arquivos de áudio</string>
-    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Acessar músicas e outros arquivos de áudio armazenados neste dispositivo</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Acesse músicas e outros arquivos de áudio armazenados neste dispositivo</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Acesse e salve imagens, vídeos e arquivos de áudio no armazenamento interno</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Acesso a fotos e vídeos</string>
-    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Acessar fotos e vídeos armazenados neste dispositivo</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Acesse fotos e vídeos armazenados neste dispositivo</string>
     <string name="HIPS_Perm_External_Storage">Acessar e salvar itens no armazenamento</string>
-    <string name="HIPS_Perm_External_Storage_Desc">Acessar e salvar arquivos e fotos no armazenamento interno</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Acesse e salve arquivos e fotos no armazenamento interno</string>
     <string name="HIPS_Perm_External_Storage_Group">Gerenciar permissões de armazenamento</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Selecione quais itens os apps terão acesso</string>
-    <string name="HIPS_Perm_GetInstall_Desc">Acessar a lista de apps instalados neste dispositivo</string>
-    <string name="HIPS_Perm_PhoneID_Desc">Acessar número do telefone, IMEI e IMSI</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Acessar o número do telefone e status do dispositivo</string>
+    <string name="HIPS_Perm_GetInstall_Desc">Acesse a lista de apps instalados neste dispositivo</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Acesse o número do telefone, IMEI e IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Acesse o número do telefone e status do dispositivo</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Ler o registro de chamadas</string>
     <string name="HIPS_Perm_Read_Contact_Desc">Ler seus contatos</string>
     <string name="HIPS_Perm_Read_SMS_Desc">Ler suas mensagens SMS</string>
-    <string name="HIPS_Perm_SendSMS_Desc">Enviar mensagens SMS diretamente</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Ativar e desativar o Wi-Fi</string>
+    <string name="HIPS_Perm_SendSMS_Desc">Envie mensagens SMS diretamente</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Ative ou desative o Wi-Fi</string>
     <string name="HIPS_Perm_add_voicemail_Desc">Adicionar mensagens de voz do sistema</string>
-    <string name="HIPS_Perm_get_accounts_Desc">Acessar todas as contas armazenadas no dispositivo</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Acesse todas as contas armazenadas no dispositivo</string>
     <string name="HIPS_Perm_process_nfc_Desc">Usar o NFC</string>
     <string name="HIPS_Perm_tencentControl">Acessar mensagens em apps de redes sociais</string>
     <string name="HIPS_Perm_tencentControl_Desc">Permite que este app acesse suas mensagens do WeChat e QQ</string>
-    <string name="HIPS_Perm_use_sip_Desc">Usar o Protocolo de Iniciação de Sessão (SIP) para transmissão de vídeo</string>
+    <string name="HIPS_Perm_use_sip_Desc">Use o Protocolo de Iniciação de Sessão (SIP) para transmissão de vídeo</string>
     <string name="Phonepass">Permitir chamadas</string>
     <string name="SMS_and_MMS">SMS e MMS</string>
     <string name="SMSpass">Permitir SMS</string>
@@ -51,9 +51,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -83,7 +83,7 @@
     <string name="ac_notification_contentText">Oculte informações sensíveis com uma senha</string>
     <string name="ac_notification_contentTitle">Experimente o Bloqueio de apps!</string>
     <string name="ac_post_notification_contentText">Ele pode proteger todos os tipos de apps sensíveis</string>
-    <string name="ac_post_notification_contentTitle">Bloqueio de Apps</string>
+    <string name="ac_post_notification_contentTitle">Bloqueio de apps</string>
     <string name="ac_pre_notification_contentText">Proteja suas informações pessoais</string>
     <string name="ac_pre_notification_contentTitle">Experimente o Bloqueio de apps</string>
     <string name="ac_recommend_guide_dialog_app_content">Use o Bloqueio de apps com este app para proteger suas informações pessoais e prevenir o vazamento de dados.</string>
@@ -130,9 +130,9 @@
     <string name="activity_title_permissions_manager">Permissões</string>
     <string name="activity_title_power_manager">Otimização da bateria</string>
     <string name="activity_title_risk_app_install_manager">Apps com possíveis riscos</string>
-    <string name="activity_title_root_acquired">Permitir acesso Root</string>
-    <string name="activity_title_root_manager">Acesso Root</string>
-    <string name="activity_title_root_note">Sobre o acesso Root</string>
+    <string name="activity_title_root_acquired">Permitir acesso root</string>
+    <string name="activity_title_root_manager">Acesso root</string>
+    <string name="activity_title_root_note">Sobre o acesso root</string>
     <string name="activity_title_settings">Configurações</string>
     <string name="activity_title_virus">Vírus</string>
     <string name="activity_title_virus_settings">Configurações</string>
@@ -151,14 +151,14 @@
     <string name="ad_text_version">Versão: %1$s</string>
     <string name="ad_update_time">Última atualização %s</string>
     <string name="ad_update_time_unKnown">Última atualização desconhecida</string>
-    <string name="adb_install_no_network">Conecte-se à Internet e tente novamente</string>
+    <string name="adb_install_no_network">Conecte-se à internet e tente novamente</string>
     <string name="adb_install_open">Permitindo…</string>
     <string name="adb_install_open_error">Não foi possível permitir, verifique sua conexão de rede</string>
-    <string name="adb_install_reject_notiy">A iInstalação via USB foi negada para %s</string>
+    <string name="adb_install_reject_notiy">A instalação via USB foi negada para %s</string>
     <string name="adb_install_reject_notiy_desc">Você pode permitir a instalação via USB nas Opções do desenvolvedor</string>
     <string name="adb_login_xiaomi_account">Faça o login em sua Conta Mi primeiro</string>
     <string name="add_auto_task_desktop_icon">Adicionar atalho para a Tela inicial</string>
-    <string name="add_bill_reminder_alarm">Defina um aviso de saldo do Telefone</string>
+    <string name="add_bill_reminder_alarm">Defina um aviso de saldo do telefone</string>
     <string name="add_done">Adicionado com sucesso</string>
     <string name="add_game">Adicionar jogo</string>
     <string name="add_game_notification_summary">Toque para executar e otimizar a velocidade</string>
@@ -224,7 +224,7 @@
     <string name="antivirus_detect_apps_noti_message">Este app apresenta riscos de segurança</string>
     <string name="antivirus_detect_apps_noti_title">Vários apps, incluindo %s, podem representar riscos de segurança</string>
     <string name="antivirus_detect_single_app_noti_title">%s pode representar riscos de segurança</string>
-    <string name="antivirus_longtime_no_update">Parece que as definições do antivírus estão desatualizadas. Atualizações regulares ajudam-no a ter melhores resultados nas verificações. Permitir que o app Segurança conecte-se à Internet para atualizar as definições do antivírus?</string>
+    <string name="antivirus_longtime_no_update">Parece que as definições do antivírus estão desatualizadas. Atualizações regulares ajudam-no a ter melhores resultados nas verificações. Permitir que o app Segurança conecte-se à internet para atualizar as definições do antivírus?</string>
     <string name="antivirus_longtime_no_update1">Parece que as definições do antivírus estão desatualizadas. Atualizações regulares ajudam-o a ter melhores resultados nas verificações. Atualize as definições e tente novamente.</string>
     <string name="antivirus_main_activity_back">Voltar</string>
     <string name="antivirus_monitor_btn_text_clean_risk">Excluir apps com riscos</string>
@@ -246,7 +246,7 @@
     <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
     <string name="antivirus_privacy_dialog_title_kddi">Termos e condições</string>
     <string name="antivirus_riskapp_title">Possíveis riscos</string>
-    <string name="antivirus_sec_network_unavailable">O app Segurança não pode atualizar porque você restringiu o seu acesso à Internet. Permitir que o app conecte-se à Internet?</string>
+    <string name="antivirus_sec_network_unavailable">O app Segurança não pode atualizar porque você restringiu o seu acesso à internet. Permitir que o app conecte-se à internet?</string>
     <string name="antivirus_sms_check">Verifique os links em Mensagens</string>
     <string name="antivirus_sms_check_summary">Verifica os links nas mensagens recebidas e o alerta sobre possíveis riscos</string>
     <string name="antivirus_third_privacy_title">Políticas de Privacidade de terceiros</string>
@@ -759,7 +759,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="apps_item_sms_reset_button_text">Restaurar padrões</string>
     <string name="apps_item_sms_title">O app de mensagens padrão foi substituído</string>
     <string name="apps_item_summary_sms">%s está gerenciando seus SMS agora. Para uma experiência mais estável e segura, use o app do sistema HyperOS.</string>
-    <string name="apps_item_summary_system_rooted">O acesso Root foi autorizado. Restaure as configurações padrão para evitar riscos de segurança.</string>
+    <string name="apps_item_summary_system_rooted">O acesso root foi autorizado. Restaure as configurações padrão para evitar riscos de segurança.</string>
     <string name="apps_item_summary_system_update">Alguns erros foram corrigidos na nova versão para tornar os pagamentos mais seguros.</string>
     <string name="apps_item_title_system">Atualização de sistema</string>
     <string name="apps_item_virus_cleanup_success">Limpo com sucesso</string>
@@ -1345,7 +1345,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_title_pickup">Redução de ruído</string>
     <string name="cs_title_smart_subtitle">Transcrição da legenda</string>
     <string name="cs_title_ultraclear">Modo Ultra HD</string>
-    <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Centro de Alerta HyperOS, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Centro de Alerta HyperOS, SOS de Emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada</string>
     <string name="cta_agree_desc">Para poder usar os nossos serviços, permita que este app conecte-se à internet e conceda as permissões listadas acima.</string>
     <string name="cta_close_dialog_cancel">Cancelar</string>
     <string name="cta_close_dialog_content">Se você restringir o acesso do app Segurança à internet e informações de localização, você não poderá receber alertas de terremotos, atualizar definições do antivírus e informações da lista de bloqueio. Seu dispositivo ficará menos seguro. Restringir mesmo assim?</string>
@@ -1354,8 +1354,8 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cta_dialog_negative">Sair</string>
     <string name="cta_dialog_positive">Aceitar</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
-    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança HyperOS, serviços do sistema, e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança HyperOS se conectarão à Internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
-    <string name="cta_main_purpose_new">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança HyperOS, segurança, serviços do sistema e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança HyperOS se conectarão à Internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
+    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança HyperOS, serviços do sistema, e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança HyperOS se conectarão à internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
+    <string name="cta_main_purpose_new">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança HyperOS, segurança, serviços do sistema e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança HyperOS se conectarão à internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
     <string name="cta_settings">Permita o acesso à internet e à localização</string>
     <string name="current_network_state_not_need_diagnose">A conexão com a internet está normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar a lista de bloqueio e fazer chamadas para contatos de emergência quando avisos de terremoto forem emitidos</string>
@@ -1543,7 +1543,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="dlg_remove_whitelist">Remover estes números das exceções?</string>
     <string name="dlg_remove_whitelist_ing">Removendo…</string>
     <string name="dlg_remove_whitelist_title">Remover</string>
-    <string name="dlg_sec_network_unavailable">O app Segurança não pode ser atualizado porque você restringiu o seu acesso à Internet. Permitir que o app conecte-se à Internet?</string>
+    <string name="dlg_sec_network_unavailable">O app Segurança não pode ser atualizado porque você restringiu o seu acesso à internet. Permitir que o app conecte-se à internet?</string>
     <string name="dlg_summary_close_app">Os apps não serão executados em segundo plano. As notificações serão restringidas.</string>
     <string name="dlg_summary_close_theme">Temas dinâmicos não funcionarão.</string>
     <string name="dlg_summary_close_wifi">O Wi-Fi, Bluetooth e o hotspot portátil serão desativados.</string>
@@ -1630,7 +1630,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="empty_title_manual_item_white_list">Nenhuma exceção.</string>
     <string name="empty_title_perm_apps">Nenhum app tem esta permissão.</string>
     <string name="empty_title_permission_apps_list">Nenhum app.</string>
-    <string name="empty_title_root_apps">Nenhum app tem acesso Root.</string>
+    <string name="empty_title_root_apps">Nenhum app tem acesso root.</string>
     <string name="enable_extreme_power_save_mode">Economia extrema de bateria</string>
     <string name="enable_network">Ative a rede primeiro</string>
     <string name="enable_notification_title">Allow %1$s to use notifications?</string>
@@ -1944,13 +1944,13 @@ monitoramento de terremotos"</string>
     <string name="firewall_fragment_nonesys_listempty">Vazio</string>
     <string name="firewall_fragment_sys_listempty">Vazio</string>
     <string name="firewall_mobile">Dados móveis</string>
-    <string name="firewall_mobile_dialog_message">O app instalado não será capaz de conectar-se à Internet usando dados móveis quando esta opção estiver desativada.</string>
+    <string name="firewall_mobile_dialog_message">O app instalado não será capaz de conectar-se à internet usando dados móveis quando esta opção estiver desativada.</string>
     <string name="firewall_network_allow">Permitindo que %1$s utilize a conexão de %2$s</string>
     <string name="firewall_network_restrict_notify_message">Toque para alterar as configurações.</string>
     <string name="firewall_network_restrict_notify_mobile">Dados móveis</string>
     <string name="firewall_partial">Permitir que alguns apps conectem-se usando o seguinte método</string>
     <string name="firewall_restrict_all">Restringir conexão para todos os apps usando o seguinte método</string>
-    <string name="firewall_restrict_android_dialog_content">Para certificar que o seu dispositivo funciona normalmente, alguns apps do sistema Android ainda conectarão-se à Internet. Estes apps usarão sua conexão de dados móveis e poderão gerar cobranças por sua operadora.</string>
+    <string name="firewall_restrict_android_dialog_content">Para certificar que o seu dispositivo funciona normalmente, alguns apps do sistema Android ainda conectarão-se à internet. Estes apps usarão sua conexão de dados móveis e poderão gerar cobranças por sua operadora.</string>
     <string name="firewall_restrict_android_dialog_title">Atenção!</string>
     <string name="firewall_restrict_data">Restringir uso de dados móveis</string>
     <string name="firewall_restrict_notify_title">O %s não pode usar a rede</string>
@@ -1963,7 +1963,7 @@ monitoramento de terremotos"</string>
     <string name="firewall_system_title">Conexões de apps do sistema</string>
     <string name="firewall_temp_rule_reason">%2$s restringiu a conexão com a internet do app %1$s</string>
     <string name="firewall_wifi">"Wi-Fi"</string>
-    <string name="firewall_wifi_dialog_message">O app instalado não será capaz de conectar-se à Internet usando o Wi-Fi quando esta opção estiver desativada.</string>
+    <string name="firewall_wifi_dialog_message">O app instalado não será capaz de conectar-se à internet usando o Wi-Fi quando esta opção estiver desativada.</string>
     <string name="first_aid_activity_title">Resolver problemas</string>
     <string name="first_aid_card_airplane_button">Desativar</string>
     <string name="first_aid_card_airplane_summary">Desative o Modo avião para poder fazer chamadas e conectar-se à rede</string>
@@ -1982,14 +1982,14 @@ monitoramento de terremotos"</string>
     <string name="first_aid_card_kadun_summary3">Muitos recursos de acessibilidade estão ativados ao mesmo tempo. Isso pode deixar seu dispositivo mais lento.</string>
     <string name="first_aid_card_kadun_title">Dispositivo lento</string>
     <string name="first_aid_card_system_root_button">Restringir</string>
-    <string name="first_aid_card_system_root_summary">Restrinja o acesso Root para prevenir riscos de segurança</string>
-    <string name="first_aid_card_system_root_title">Você permitiu o acesso Root</string>
+    <string name="first_aid_card_system_root_summary">Restrinja o acesso root para prevenir riscos de segurança</string>
+    <string name="first_aid_card_system_root_title">Você permitiu o acesso root</string>
     <string name="first_aid_card_unable_install_button">Liberar espaço</string>
     <string name="first_aid_card_unable_install_summary">Apenas %s de armazenamento está disponível. Libere espaço para conseguir instalar apps.</string>
     <string name="first_aid_card_unable_install_title">Não é possível instalar apps de sistema</string>
     <string name="first_aid_card_wifi_or_flow_button">Conectar</string>
     <string name="first_aid_card_wifi_or_flow_summary">Ative o Wi-Fi ou os dados móveis para conectar-se</string>
-    <string name="first_aid_card_wifi_or_flow_title">Não é possível conectar-se à Internet</string>
+    <string name="first_aid_card_wifi_or_flow_title">Não é possível conectar-se à internet</string>
     <string name="first_aid_dialog_msg_stop_scan">Parar a verificação agora?</string>
     <string name="first_aid_dialog_title_stop_scan">Parar verificação</string>
     <string name="first_aid_exception_sub_title">Esses itens serão ignorados durante as verificações</string>
@@ -2149,7 +2149,7 @@ monitoramento de terremotos"</string>
     <string name="gamebooster_lowbattery_notification_summary">Carregue o dispositivo antes que ele desligue.</string>
     <string name="gamebooster_lowbattery_notification_title">Bateria abaixo de 5%%</string>
     <string name="gamebooster_main_activity_back">Voltar</string>
-    <string name="gamebooster_network_dialog_cn_message">Você não pode usar o Game Turbo enquanto o app Segurança não tiver a permissão para se conectar à Internet e acessar sua localização. Permitir agora?</string>
+    <string name="gamebooster_network_dialog_cn_message">Você não pode usar o Game Turbo enquanto o app Segurança não tiver a permissão para se conectar à internet e acessar sua localização. Permitir agora?</string>
     <string name="gamebooster_network_dialog_message">Permitir que o app Segurança conecte-se à rede para usar todos os recursos do Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
     <string name="gamebooster_push_expiring_soon_button">Renovar</string>
@@ -2894,7 +2894,7 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="low_temperature_button_ok">Entendi</string>
     <string name="low_temperature_warning_message">Parece que está muito frio e seu telefone pode desligar mais cedo do que o esperado. Salve todas as alterações importantes.</string>
     <string name="low_temperature_warning_title">A temperatura do ar está baixa</string>
-    <string name="main_activity_content_summary_root">Acesso Root</string>
+    <string name="main_activity_content_summary_root">Acesso root</string>
     <string name="main_activity_content_summary_update">Atualização de sistema</string>
     <string name="main_alert_message_no_imsi">Nenhum cartão SIM detectado</string>
     <string name="main_alert_message_open_traffic_ctrl">Recomendamos a restrição do uso de dados</string>
@@ -3041,7 +3041,7 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="menu_sms">Enviar mensagem</string>
     <string name="menu_summary_antispam">Bloqueie SMS e chamadas</string>
     <string name="menu_summary_antivirus">Procure vírus no seu dispositivo</string>
-    <string name="menu_summary_app_manager">Gerenciar configurações do app</string>
+    <string name="menu_summary_app_manager">Gerencie configurações do app</string>
     <string name="menu_summary_garbage_cleanup">Nenhum lixo encontrado</string>
     <string name="menu_summary_garbage_cleanup_ex">Libere até %s</string>
     <string name="menu_summary_garbage_cleanup_new">%d%% do armaz. ocupado</string>
@@ -3256,7 +3256,7 @@ Você pode desativar a opção \"Ajustar automaticamente estatísticas de uso de
     <string name="network_disable_dialog_content">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_disable_dialog_content_cn">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_disable_dialog_title">Não é possível conectar-se à rede</string>
-    <string name="network_mobile_exception_detail">"Seu dispositivo não pode conectar-se à Internet:
+    <string name="network_mobile_exception_detail">"Seu dispositivo não pode conectar-se à internet:
 
 1. Certifique-se de que você não excedeu seu limite do plano de dados.
 
@@ -3271,8 +3271,8 @@ Você pode desativar a opção \"Ajustar automaticamente estatísticas de uso de
 "<b>1. Problemas com redes Wi-Fi públicas</b>"
 Se você está conectado a uma rede Wi-Fi pública, o número de usuários conectados naquela rede podem estar diminuindo a velocidade ou criando problemas de conectividade. Conecte-se em outra rede e tente novamente.
 
-"<b>2. Problemas com o provedor de Internet</b>"
-Certifique-se de que sua conta está ativa em seu provedor de serviços de Internet.
+"<b>2. Problemas com o provedor de internet</b>"
+Certifique-se de que sua conta está ativa em seu provedor de serviços de internet.
 
 "<b>3. Problemas no hardware do router</b>"
 Tente reiniciar seu roteador ou verifique as configurações do mesmo.
@@ -3431,11 +3431,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="numeric_retry_button_text">Cancelar</string>
     <string name="numeric_settings_help_how_to_record">Como configurar o PIN</string>
     <string name="oaid_apps_title">Gerenciar ID virtual</string>
-    <string name="oaid_reset_content_tip">Se você desativar a ID virtual agora, alguns apps podem parar de funcionar corretamente, uma parte dos dados do app poderá ser perdida ou tornar-se inutilizável.</string>
-    <string name="oaid_reset_final_tip">Desativar a ID virtual mesmo assim?</string>
-    <string name="oaid_tips_content">As IDs virtuais (OAID) podem ser usadas para rastrear seu comportamento e personalizar anúncios para você. Você pode selecionar quais apps têm permissão para acessar sua ID virtual. Observe que se você restringir o acesso, as recomendações de anúncios podem se tornar irrelevantes ou os apps podem não funcionar normalmente.</string>
+    <string name="oaid_reset_content_tip">Se você desativar o ID virtual agora, alguns apps podem parar de funcionar corretamente, uma parte dos dados do app poderá ser perdida ou tornar-se inutilizável.</string>
+    <string name="oaid_reset_final_tip">Desativar o ID virtual mesmo assim?</string>
+    <string name="oaid_tips_content">Os IDs virtuais (OAID) podem ser usadas para rastrear seu comportamento e personalizar anúncios para você. Você pode selecionar quais apps têm permissão para acessar seu ID virtual. Observe que se você restringir o acesso, as recomendações de anúncios podem se tornar irrelevantes ou os apps podem não funcionar normalmente.</string>
     <string name="offline_voice_input">Entrada de voz offline</string>
-    <string name="offline_voice_input_detail">Você não precisará da Internet para entrada de voz.</string>
+    <string name="offline_voice_input_detail">Você não precisará da internet para entrada de voz.</string>
     <string name="ok">"OK"</string>
     <string name="ok_button">"OK"</string>
     <string name="old_sdk_deny_warning">Este app não é compatível com os requisitos de permissões do Android. Permissões negadas podem afetar a forma que este app funciona.</string>
@@ -3821,8 +3821,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pm_auto_start_proc_is_running">Executando</string>
     <string name="pm_newfeature_sub_text">NOVO</string>
     <string name="pm_remember_choice">Lembrar minha escolha</string>
-    <string name="pm_root_success_notification_infomation">Certifique-se de que você entende os riscos relacionados ao acesso Root</string>
-    <string name="pm_root_success_notification_title">Acesso Root permitido</string>
+    <string name="pm_root_success_notification_infomation">Certifique-se de que você entende os riscos relacionados ao acesso root</string>
+    <string name="pm_root_success_notification_title">Acesso root permitido</string>
     <string name="popular_action_anti_spam_title_global">Bloquear chamadas e mensagens</string>
     <string name="popular_action_app_lock_title_global">Proteja apps com o Bloqueio de apps</string>
     <string name="popular_action_card_title">Recursos populares</string>
@@ -4210,8 +4210,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_toast_read_clipboard">Notificar quando apps acessam itens na área de transferência</string>
     <string name="pp_toast_read_clipboard_item">Notificar</string>
     <string name="pp_understanding_privacy">Conscientização</string>
-    <string name="pp_virtual_identity_manager">ID Virtual</string>
-    <string name="pp_virtual_identity_summary">Uma ID virtual (OAID) pode ser fornecida aos apps ao invés de seu identificador real. Ela protege sua privacidade e permite que você controle como os apps rastreiam seu comportamento.</string>
+    <string name="pp_virtual_identity_manager">ID virtual</string>
+    <string name="pp_virtual_identity_summary">Um ID virtual (OAID) pode ser fornecida aos apps ao invés de seu identificador real. Ela protege sua privacidade e permite que você controle como os apps rastreiam seu comportamento.</string>
     <string name="precise_location_title">Localização precisa</string>
     <string name="pref_about_traffic_title">Configurações do uso de dados</string>
     <string name="pref_adjust_data_usage">Modelo de mensagem da operadora</string>
@@ -4348,7 +4348,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_dialog_danger_mission_message">O Android possui várias permissões de alto risco (ex.: a permissão para enviar notificações push para você). Para proteger a sua privacidade, o HyperOS perguntará se você permite tais comportamentos, e fornecerá opções de restrição.</string>
     <string name="privacy_dialog_danger_mission_title">Permissões de alto risco</string>
     <string name="privacy_dialog_feedback">"Feedback"</string>
-    <string name="privacy_dialog_message">Quando você se conecta à Internet, esta mensagem juntamente com informações de sua operadora serão criptografadas e enviadas para servidores da Mi para nos ajudar a melhorar o monitoramento de uso de dados.</string>
+    <string name="privacy_dialog_message">Quando você se conecta à internet, esta mensagem juntamente com informações de sua operadora serão criptografadas e enviadas para servidores da Mi para nos ajudar a melhorar o monitoramento de uso de dados.</string>
     <string name="privacy_dialog_negative_button_text">Sair</string>
     <string name="privacy_dialog_ok">Entendi</string>
     <string name="privacy_dialog_ok_with_num">Entendido (%s s)</string>
@@ -4401,7 +4401,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_look_privacy">Política de Privacidade</string>
     <string name="privacy_manage_title">Gerenciar</string>
     <string name="privacy_mask_summary">Em vez do seu identificador real, o HyperOS fornecerá um identificador virtual (OAID) a apps de terceiros. Ele evita que os apps rastreiem o seu comportamento e preferências, e protege a sua privacidade.</string>
-    <string name="privacy_mask_title">ID Virtual ativada</string>
+    <string name="privacy_mask_title">ID virtual ativado</string>
     <string name="privacy_mode_dialog_title">Modo convidado</string>
     <string name="privacy_more_info_title">Saiba mais sobre os recursos de proteção de privacidade</string>
     <string name="privacy_notification_subtitle">Toque para gerenciar as permissões</string>
@@ -4532,7 +4532,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_search_key_6">Notificações de permissões</string>
     <string name="privacy_search_key_7">Informações de localização</string>
     <string name="privacy_search_key_8">Não rastrear</string>
-    <string name="privacy_search_key_9">ID Virtual</string>
+    <string name="privacy_search_key_9">ID virtual</string>
     <string name="privacy_search_keyword_1">Privacidade</string>
     <string name="privacy_search_keyword_2">Ocultar apps</string>
     <string name="privacy_search_keyword_3">Ocultar ícones</string>
@@ -4674,12 +4674,12 @@ Retirar consentimento agora?"</string>
     <string name="roaming_not_start_title">Roaming internacional</string>
     <string name="roaming_start_body">Toque para ver exceções de roaming de dados.</string>
     <string name="roaming_start_title">Roaming internacional</string>
-    <string name="root">Acesso Root</string>
-    <string name="root_apply_step_1">Permitir acesso Root de %s?</string>
-    <string name="root_apply_step_2">Permitir acesso Root a um app pode causar instabilidades no dispositivo</string>
-    <string name="root_apply_step_3">Seus dados são mais vulneráveis a ataques de apps com acesso Root.</string>
-    <string name="root_apply_step_4">Permita acesso Root a um app por sua conta e risco.</string>
-    <string name="root_apply_step_5">Permitir acesso Root de %s?</string>
+    <string name="root">Acesso root</string>
+    <string name="root_apply_step_1">Permitir acesso root de %s?</string>
+    <string name="root_apply_step_2">Permitir acesso root a um app pode causar instabilidades no dispositivo</string>
+    <string name="root_apply_step_3">Seus dados são mais vulneráveis a ataques de apps com acesso root.</string>
+    <string name="root_apply_step_4">Permita acesso root a um app por sua conta e risco.</string>
+    <string name="root_apply_step_5">Permitir acesso root de %s?</string>
     <string name="root_apply_title">Alerta importante</string>
     <string name="safe_result_header_info_protecting">Protegendo</string>
     <string name="safe_result_item_button_monitor">Configurações de monitoramento</string>
@@ -4825,7 +4825,7 @@ Retirar consentimento agora?"</string>
     <string name="sp_background_risk_dialog_title">Atenção!</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Alerta de Wi-Fi público</string>
     <string name="sp_background_risk_type_messaging">O app de mensagens do sistema foi substituído</string>
-    <string name="sp_background_risk_type_root">Sistema com Root</string>
+    <string name="sp_background_risk_type_root">Sistema com root</string>
     <string name="sp_background_risk_type_sign">App não oficial em execução</string>
     <string name="sp_background_risk_type_virus">Um app com vírus está executando em 2º plano</string>
     <string name="sp_background_risk_type_wifi">Esta rede Wi-Fi é perigosa</string>
@@ -4849,7 +4849,7 @@ Retirar consentimento agora?"</string>
     <string name="sp_monitored_apps_count_zero">Nenhum app de pagamento protegido</string>
     <string name="sp_monitored_apps_list_title">Segurança de pagamento</string>
     <string name="sp_more_security_settings">Configurações adicionais</string>
-    <string name="sp_network_privacy_dialog_message">O app Segurança não pode funcionar corretamente porque você restringiu a conexão com a internet. Permitir que o app Segurança conecte-se à Internet?</string>
+    <string name="sp_network_privacy_dialog_message">O app Segurança não pode funcionar corretamente porque você restringiu a conexão com a internet. Permitir que o app Segurança conecte-se à internet?</string>
     <string name="sp_network_privacy_dialog_title">Não é possível usar a verificação de segurança</string>
     <string name="sp_payment_protect_summary">Proteja o ambiente de pagamento online</string>
     <string name="sp_payment_protect_title">Segurança do pagamento</string>
@@ -4960,7 +4960,7 @@ Retirar consentimento agora?"</string>
     <string name="special_perm_notice_title">Gerenciar notificações</string>
     <string name="special_perm_power_msg">Permite que apps otimizem o uso da bateria em 2º plano</string>
     <string name="special_perm_power_title">Otimizar uso da bateria</string>
-    <string name="special_perm_virtual_msg">Permite que apps gerenciem sua ID virtual</string>
+    <string name="special_perm_virtual_msg">Permite que apps gerenciem seu ID virtual</string>
     <string name="special_perm_virtual_title">Gerenciar ID virtual</string>
     <string name="special_perm_vr_msg">Permite que apps usem o Assistente de RV</string>
     <string name="special_perm_vr_title">Usar assistente de RV</string>
@@ -5262,14 +5262,14 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="summary_mifi_insurance">Obtenha um plano de garantia estendida para casos de danos no hardware</string>
     <string name="summary_miui_update">Atualização disponível para %s.</string>
     <string name="summary_mms">Bloquear SMS de spam automaticamente</string>
-    <string name="summary_network_switch">Permita que o app Segurança conecte-se à Internet</string>
+    <string name="summary_network_switch">Permita que o app Segurança conecte-se à internet</string>
     <string name="summary_never_flow_verify">Este número não foi verificado com a sua operadora</string>
     <string name="summary_open_flashligt">Ativar a lanterna</string>
     <string name="summary_open_phone_check">Execute uma verificação de segurança</string>
     <string name="summary_password_manager">O Gerenciador de senhas permite que você criptografe suas senhas e as armazene na nuvem</string>
     <string name="summary_payment_risk">Parece que o ambiente de pagamentos não é seguro</string>
     <string name="summary_permission">Evitar pagamentos indesejados e proteger dados pessoais</string>
-    <string name="summary_permission_root">Parece que este dispositivo tem acesso Root. Ele pode colocar a segurança do dispositivo em risco.</string>
+    <string name="summary_permission_root">Parece que este dispositivo tem acesso root. Ele pode colocar a segurança do dispositivo em risco.</string>
     <string name="summary_power_optimizer">Reduza o desempenho do dispositivo quando a bateria estiver fraca</string>
     <string name="summary_realname_verify">Verifique sua identidade para fazer pagamentos de forma segura.</string>
     <string name="summary_restrict_data_usage">Você restringiu o uso de dados para este app.</string>
@@ -5334,7 +5334,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_app_permission_instruction">Este app precisa das seguintes permissões para fornecer serviços básicos do sistema. O gerenciamento de permissões é restrito para este app, pois a alteração do status de permissão levará a anormalidades de operação do sistema.</string>
     <string name="system_application">App do sistema</string>
     <string name="system_permission_declare_agree">Aceitar</string>
-    <string name="system_permission_declare_analytics_declare">Convidamos você a se inscrever no nosso Programa de Experiência do Usuário. Este app precisa de se ligar à Internet e usar as seguintes permissões ou recursos para recolher estatísticas, a fim de melhorar os serviços que lhe prestamos. Recolhemos dados aqui apenas para fins estatísticos, e não podemos identificá-lo pessoalmente com base nos dados que coletamos.</string>
+    <string name="system_permission_declare_analytics_declare">Convidamos você a se inscrever no nosso Programa de Experiência do Usuário. Este app precisa de se ligar à internet e usar as seguintes permissões ou recursos para recolher estatísticas, a fim de melhorar os serviços que lhe prestamos. Recolhemos dados aqui apenas para fins estatísticos, e não podemos identificá-lo pessoalmente com base nos dados que coletamos.</string>
     <string name="system_permission_declare_disagree">Sair</string>
     <string name="system_permission_declare_double_link"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo ao %1s! Este app permite que você use os seguintes recursos: %2s.</string>
@@ -5345,9 +5345,9 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_permission_declare_no_say_no_analytics">Se você não quiser conceder estas permissões, você pode cancelar sua inscrição em Configurações > Configurações adicionais > Privacidade > Programa de Experiência do Usuário.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Se você optar por não conceder as permissões requeridas ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar totalmente.</string>
     <string name="system_permission_declare_optional">"Para fornecer serviços adicionais enquanto você usa o app, podemos precisar das seguintes permissões: %s. Você sempre pode ajustar suas preferências de permissão nas Configurações."</string>
-    <string name="system_permission_declare_privacy_declare">" Este app precisa conectar-se à Internet e requer as seguintes permissões para funcionar normalmente:"</string>
+    <string name="system_permission_declare_privacy_declare">" Este app precisa conectar-se à internet e requer as seguintes permissões para funcionar normalmente:"</string>
     <string name="system_permission_declare_privacy_no_network">Este app precisa das seguintes permissões para poder funcionar normalmente:</string>
-    <string name="system_permission_declare_privacy_no_permission">Este app precisa conectar-se à Internet e coletar os dados pessoais necessários para poder funcionar normalmente.</string>
+    <string name="system_permission_declare_privacy_no_permission">Este app precisa conectar-se à internet e coletar os dados pessoais necessários para poder funcionar normalmente.</string>
     <string name="system_permission_declare_privacy_policy"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="system_permission_declare_revoke_system">Você pode sair deste app.</string>
     <string name="system_permission_declare_revoke_uninstallable">Você pode fazer logout, desinstalar este app ou revogar a sua autorização em Segurança > Gerenciar apps > Permissões > Permissões.</string>
@@ -5590,7 +5590,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_dev_model_off">Opções do desenvolvedor desativadas</string>
     <string name="title_dev_no">Opções do desenvolvedor ativadas</string>
     <string name="title_dev_yes">Opções do desenvolvedor desativadas</string>
-    <string name="title_device_not_root">O acesso Root não foi concedido</string>
+    <string name="title_device_not_root">O acesso root não foi concedido</string>
     <string name="title_do_not_disturb">Não ouviu o toque do telefone?</string>
     <string name="title_eye_shield">As cores na tela estão estranhas?</string>
     <string name="title_find_device">Encontrar dispositivo</string>
@@ -5620,12 +5620,12 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_payment_protection">Os pagamentos estão seguros</string>
     <string name="title_payment_risk">Riscos de pagamento encontrados</string>
     <string name="title_permission_no">Gerenciador de permissões desativado</string>
-    <string name="title_permission_root">Acesso Root</string>
+    <string name="title_permission_root">Acesso root</string>
     <string name="title_permission_yes">Gerenciador de permissões ativado</string>
     <string name="title_power_optimizer">Economia de bateria</string>
     <string name="title_realname_verify">Verificação de ID</string>
     <string name="title_reply">Comentar</string>
-    <string name="title_restrict_data_usage">%s não pode se conectar à Internet?</string>
+    <string name="title_restrict_data_usage">%s não pode se conectar à internet?</string>
     <string name="title_result_absorbed">Modo foco</string>
     <string name="title_result_adjust_volume">"Volume"</string>
     <string name="title_result_airplan">Modo avião</string>
@@ -5678,11 +5678,11 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="toast_keyword_invalid">Palavra-chave inválida</string>
     <string name="toast_lockscreen_glogin_empty_password">Senha requerida</string>
     <string name="toast_network_eror">Não é possível conectar-se à rede</string>
-    <string name="toast_network_switch">Este app pode se conectar à Internet</string>
+    <string name="toast_network_switch">Este app pode se conectar à internet</string>
     <string name="toast_reject_sms_read_permission_success">Definido com sucesso</string>
     <string name="toast_removed_from_virus_white_list">Removido das exceções. O item será verificado da próxima vez.</string>
-    <string name="toast_root_apply_accept">Acesso Root permitido para %s</string>
-    <string name="toast_root_apply_reject">Acesso Root negado para %s</string>
+    <string name="toast_root_apply_accept">Acesso root permitido para %s</string>
+    <string name="toast_root_apply_reject">Acesso root negado para %s</string>
     <string name="toast_set_success">Ativado com sucesso</string>
     <string name="toast_show_notification">Fixado à Área de notificações</string>
     <string name="toast_update_fail">Não foi possível atualizar</string>
@@ -5800,7 +5800,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="untrust_app_perm_install_list">Permitir acesso à lista de apps instalados neste dispositivo</string>
     <string name="untrust_app_perm_network">Permitir conexão à rede</string>
     <string name="untrust_app_perm_notification">Permitir notificações</string>
-    <string name="untrust_app_perm_oaid">Permitir acesso a sua ID virtual</string>
+    <string name="untrust_app_perm_oaid">Permitir acesso ao seu ID virtual</string>
     <string name="untrust_app_perm_title">App de fonte desconhecida</string>
     <string name="untrust_app_perm_warn">Este app vem de uma fonte desconhecida e pode representar riscos à segurança. Ele pode usar as permissões listadas abaixo para comprometer sua privacidade. Conceda essas permissões após uma consideração cuidadosa.</string>
     <string name="unused_apps_switch">Pausar a atividade do app se não for usado</string>
@@ -5831,9 +5831,9 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="usb_insert_summary">Conectar dispositivo USB</string>
     <string name="usb_install_desc">Instalar este app via USB?</string>
     <string name="usb_mount">Montar dispositivo USB</string>
-    <string name="usbsharenet_exception_summary">Não é possível conectar-se à Internet usando a conexão USB compartilhada. Verifique a conexão USB com seu dispositivo e reinicie o Mi PC Suite.</string>
+    <string name="usbsharenet_exception_summary">Não é possível conectar-se à internet usando a conexão USB compartilhada. Verifique a conexão USB com seu dispositivo e reinicie o Mi PC Suite.</string>
     <string name="usbsharenet_exception_title">Testar conexão compartilhada por USB</string>
-    <string name="usbsharenet_pc_exception_summary">Não foi possível conectar-se à Internet usando a conexão USB compartilhada. Verifique a conexão de Internet em seu computador.</string>
+    <string name="usbsharenet_pc_exception_summary">Não foi possível conectar-se à internet usando a conexão USB compartilhada. Verifique a conexão de internet em seu computador.</string>
     <string name="use_immediately">Usar</string>
     <string name="use_other_ime_warn">Teclados de terceiros podem registrar tudo o que você digita, incluindo senhas e outras informações confidenciais.</string>
     <string name="user_define_title">Adicionar regras</string>
@@ -6150,7 +6150,7 @@ Experimente interpolar a resolução!"</string>
     <string name="allow_notify">permitir_notificar</string>
     <string name="app_manager_permission_backgroundstart_title">Início automático em segundo plano</string>
     <string name="app_manager_power_consume">%.1f%%</string>
-    <string name="app_manager_systemapp_setting">Configurar Apps do sistema</string>
+    <string name="app_manager_systemapp_setting">Configurar apps do sistema</string>
     <string name="app_source_global_search">Pesquisa global</string>
     <string name="app_source_home">Área de Trabalho</string>
     <string name="app_source_notification">notificar</string>
@@ -6213,7 +6213,7 @@ Experimente interpolar a resolução!"</string>
     <string name="connected_device_screen_permission">Permissões de tela</string>
     <string name="connected_device_share_desktop_permission">Tela inicial + permissões</string>
     <string name="connected_devices_camera">Câmera</string>
-    <string name="connected_devices_camera_desc">Permitir que dispositivos próximos conectados à mesma conta tirem fotos e gravem vídeos neste dispositivo</string>
+    <string name="connected_devices_camera_desc">Permite que dispositivos próximos conectados à mesma conta tirem fotos e gravem vídeos neste dispositivo</string>
     <string name="connected_devices_camera_title">Permitir que o dispositivo acima tire fotos e grave vídeos neste dispositivo?</string>
     <string name="connected_devices_for_camera">"Permitir que %1$s use a câmera deste dispositivo?"</string>
     <string name="connected_devices_for_camera_desc">Para tirar fotos, gravar vídeos e fazer videochamadas</string>
@@ -6231,10 +6231,10 @@ Experimente interpolar a resolução!"</string>
     <string name="connected_devices_permission">Interconectividade e permissões</string>
     <string name="connected_devices_permission_settings">Interconectividade e permissões</string>
     <string name="connected_devices_record">Registro</string>
-    <string name="connected_devices_record_desc">Permitir que dispositivos próximos conectados à mesma conta gravem áudio neste dispositivo</string>
+    <string name="connected_devices_record_desc">Permite que dispositivos próximos conectados à mesma conta gravem áudio neste dispositivo</string>
     <string name="connected_devices_record_title">Permitir que o dispositivo acima grave áudio neste dispositivo?</string>
     <string name="connected_devices_screen">Tela</string>
-    <string name="connected_devices_screen_desc">"Permitir que dispositivos próximos conectados à mesma conta visualizem e interajam com o conteúdo da tela deste dispositivo"</string>
+    <string name="connected_devices_screen_desc">"Permite que dispositivos próximos conectados à mesma conta visualizem e interajam com o conteúdo da tela deste dispositivo"</string>
     <string name="connected_devices_screen_title">"Permitir que o dispositivo acima visualize e interaja com o conteúdo da tela deste dispositivo?"</string>
     <string name="connected_interconnection">Interconectividade</string>
     <string name="conversation_summary_new">Embelezamento, legendas e outros recursos durante chamadas de áudio e vídeo</string>

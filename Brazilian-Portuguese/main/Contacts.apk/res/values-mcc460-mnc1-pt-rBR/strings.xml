@@ -20,7 +20,7 @@
     <string name="pref_key_sim_manage1">Cartão USIM 1</string>
     <string name="pref_key_sim_manage2">Cartão USIM 2</string>
     <string name="readingSimContacts">Lendo cartão USIM…</string>
-    <string name="simContacts_airplaneMode">Para importar contatos do cartão USIM, desative o Modo Avião.</string>
+    <string name="simContacts_airplaneMode">Para importar contatos do cartão USIM, desative o Modo avião.</string>
     <string name="simContacts_empty">Nenhum contato no cartão USIM.</string>
     <string name="simContacts_emptyLoading">Carregando contatos do cartão USIM…</string>
     <string name="simContacts_title">Contatos do cartão USIM</string>
@@ -33,7 +33,7 @@
     <string name="sim_contact_search_error">Ocorreu um erro ao procurar contatos do cartão USIM</string>
     <string name="sim_contacts">Contatos do USIM</string>
     <string name="sim_error_not_ready">Carregando contatos do USIM…</string>
-    <string name="sim_export_error">O USIM não está pronto, tente mais tarde</string>
+    <string name="sim_export_error">O USIM não está pronto, tente mais tarde.</string>
     <string name="sim_export_loading">Lendo informações do cartão USIM…</string>
     <string name="sim_indexed_contact_not_exist">A posição \"%1$d\" não existe no seu cartão USIM. Insira uma posição entre %2$d e %3$d.</string>
     <string name="sim_no_contact">Nenhum contato no cartão USIM</string>

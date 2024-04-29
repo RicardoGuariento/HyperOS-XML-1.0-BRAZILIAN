@@ -20,7 +20,7 @@
     <string name="pref_key_sim_manage1">Cartão UIM 1</string>
     <string name="pref_key_sim_manage2">Cartão UIM 2</string>
     <string name="readingSimContacts">Lendo cartão UIM…</string>
-    <string name="simContacts_airplaneMode">Para importar contatos do cartão UIM, desative o Modo Avião.</string>
+    <string name="simContacts_airplaneMode">Para importar contatos do cartão UIM, desative o Modo avião.</string>
     <string name="simContacts_empty">Nenhum contato no cartão UIM.</string>
     <string name="simContacts_emptyLoading">Carregando contatos do cartão UIM…</string>
     <string name="simContacts_title">Contatos do cartão UIM</string>
@@ -33,7 +33,7 @@
     <string name="sim_contact_search_error">Ocorreu um erro ao procurar contatos do cartão UIM</string>
     <string name="sim_contacts">Contatos do UIM</string>
     <string name="sim_error_not_ready">Carregando contatos do UIM…</string>
-    <string name="sim_export_error">O UIM não está pronto, tente mais tarde</string>
+    <string name="sim_export_error">O UIM não está pronto, tente mais tarde.</string>
     <string name="sim_export_loading">Lendo o cartão UIM…</string>
     <string name="sim_indexed_contact_not_exist">A posição \"%1$d\" não existe no seu cartão UIM. Insira uma posição entre %2$d e %3$d.</string>
     <string name="sim_no_contact">Nenhum contato no cartão UIM</string>

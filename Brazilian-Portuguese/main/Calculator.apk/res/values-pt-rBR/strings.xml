@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -124,9 +124,9 @@
     <string name="cos">"cos"</string>
     <string name="cosDesc">cosseno</string>
     <string name="cos_mathematical_value">"cos"</string>
-    <string name="cta_desc">Bem-vindo à Calculadora! Este app combina os recursos de uma calculadora normal com vários conversores e recursos de estilo de vida. Este app precisa se conectar à Internet para funcionar normalmente.</string>
-    <string name="currency_dialog_privacy_content">&lt;Data>O conversor de moedas precisa se conectar à Internet para obter as taxas de câmbio mais recentes. Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso.&lt;/Data></string>
-    <string name="currency_update_connect_to_get_data">Tarifas de câmbio fornecidas pelo Webull. Conecte-se à Internet para obter as últimas informações.</string>
+    <string name="cta_desc">Bem-vindo à Calculadora! Este app combina os recursos de uma calculadora normal com vários conversores e recursos de estilo de vida. Este app precisa se conectar à internet para funcionar normalmente.</string>
+    <string name="currency_dialog_privacy_content">&lt;Data>O conversor de moedas precisa se conectar à internet para obter as taxas de câmbio mais recentes. Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso.&lt;/Data></string>
+    <string name="currency_update_connect_to_get_data">Tarifas de câmbio fornecidas pelo Webull. Conecte-se à internet para obter as últimas informações.</string>
     <string name="currency_update_support">"Taxas de câmbio fornecidas por Webull."</string>
     <string name="currency_update_time_format">Taxas de câmbio fornecidas por Webull (%s)</string>
     <string name="currency_update_updating">Atualizando taxas…</string>
@@ -147,7 +147,7 @@
     <string name="detail_close_btn">Ocultar extrato de reembolso</string>
     <string name="detail_expand_btn">Exibir extrato de reembolso</string>
     <string name="devided_by_zero_reminder_message">Não é possível dividir por 0</string>
-    <string name="dialog_privacy_content">&lt;Data>Além dos recursos básicos de uma calculadora, nosso app também possui uma calculadora científica e um conversor multifunções. Alguns recursos precisam de conexão com a Internet para funcionarem normalmente. Você deve ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar a Calculadora.&lt;/Data></string>
+    <string name="dialog_privacy_content">&lt;Data>Além dos recursos básicos de uma calculadora, nosso app também possui uma calculadora científica e um conversor multifunções. Alguns recursos precisam de conexão com a internet para funcionarem normalmente. Você deve ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar a Calculadora.&lt;/Data></string>
     <string name="dialog_privacy_disagree_msg">Ao desativar o seletor, você retira seu consentimento para a Política de Privacidade do app Calculadora. Nós deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, conforme exigido pelas leis aplicáveis. O app Calculadora precisa coletar as informações pessoais necessárias para fornecer-lhe serviços básicos. Sua retirada de consentimento de sua Política de Privacidade será considerada como recusa a aceitar seus serviços com base nas informações pessoais coletadas.</string>
     <string name="dialog_privacy_revoke_btn_ok">Retirar</string>
     <string name="dialog_privacy_revoke_title">Retirada de consentimento</string>
@@ -234,7 +234,7 @@
     <string name="from_unit_en">Quilômetro por hora</string>
     <string name="fund_loan">Empréstimos</string>
     <string name="further_education">Educação</string>
-    <string name="get_loaction_permission_title">Acesso a Localização</string>
+    <string name="get_loaction_permission_title">Acesso a localização</string>
     <string name="get_location_fail_prompt">"Não foi possível obter a localização"</string>
     <string name="global_network_confirm_content">O conversor de moedas precisa de uma conexão à internet para funcionar normalmente.</string>
     <string name="global_search_key_area_convertion">Área;Conversor de área;Conversão de área</string>
@@ -523,7 +523,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="permission_option_miui12">Permissões opcionais</string>
     <string name="permission_privacy_link"><Data>Antes de usar este app, leia e concorde com o nosso &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a>.</Data></string>
     <string name="permission_purpose_miui12_system">Bem-vindo à Calculadora! Este app combina os recursos de uma calculadora normal com vários conversores e recursos de estilo de vida.</string>
-    <string name="permission_remove_desc_miui12">Permita que este app se conecte à Internet e conceda permissões opcionais para poder usar todos os seus recursos.</string>
+    <string name="permission_remove_desc_miui12">Permita que este app se conecte à internet e conceda permissões opcionais para poder usar todos os seus recursos.</string>
     <string name="permission_title_miui12">Atenção!!</string>
     <string name="piDesc">pi</string>
     <string name="plusDesc">adição</string>

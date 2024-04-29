@@ -214,10 +214,10 @@
     <string name="clean_master_icon_recall_dialog_button_positive">Adicionar</string>
     <string name="clean_master_icon_recall_dialog_summary">Adicione um atalho de Limpeza à Tela inicial para que você possa usar quando quiser.</string>
     <string name="clean_master_icon_recall_dialog_title">Limpar o lixo rapidamente</string>
-    <string name="clean_master_icon_recall_hint">Adicionar atalho à tela inicial</string>
-    <string name="clean_master_icon_recall_summary">Adiciona um atalho da Limpeza à tela inicial para você usar quando quiser.</string>
+    <string name="clean_master_icon_recall_hint">Adicionar atalho à Tela inicial</string>
+    <string name="clean_master_icon_recall_summary">Adicione um atalho de Limpeza à Tela inicial para que você possa usar quando quiser.</string>
     <string name="clean_master_icon_recall_title">Limpar o lixo rapidamente</string>
-    <string name="clean_master_icon_recall_toast_text">Adicionado atalho à tela inicial com sucesso</string>
+    <string name="clean_master_icon_recall_toast_text">Atalho adicionado à Tela inicial com sucesso</string>
     <string name="clean_summary">%1$s limpo(s)</string>
     <string name="clear_app_data">Limpar</string>
     <string name="clear_bigfiles">Exclua arquivos grandes, fotos duplicadas ou outros itens obsoletos</string>
@@ -266,13 +266,13 @@
     <string name="data_selected">Itens selecionados</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
-    <string name="dc_activity_title">Limpeza Profunda</string>
+    <string name="dc_activity_title">Limpeza profunda</string>
     <string name="dc_advise_delete">Libere espaço</string>
     <string name="dc_group_title_appclean">"Apps"</string>
     <string name="dc_header_can_clean">Pode ser limpo</string>
     <string name="dc_header_can_not_clean">Ocupado</string>
     <string name="dc_header_used_space_text">Armazenamento ocupado</string>
-    <string name="dc_item_summary_wechat_chat">Limpar histórico de conversas para Liberar espaço</string>
+    <string name="dc_item_summary_wechat_chat">Limpar histórico de conversas para liberar espaço</string>
     <string name="dc_item_title_apk">Excluir APKs</string>
     <string name="dc_item_title_app_data">Limpar dados do app</string>
     <string name="dc_item_title_image">Excluir fotos</string>
@@ -503,7 +503,7 @@
     <string name="golbal_wa_backend_alert_dialog_btn">Abrir</string>
     <string name="goto_set">Definir</string>
     <string name="gps_prompt_context">Baixar com rede móvel?</string>
-    <string name="gps_prompt_title">Tips</string>
+    <string name="gps_prompt_title">Dicas</string>
     <string name="grabage_rank_title">Limpos hoje</string>
     <string name="guide_dc_dialog_message">Há menos de 2 GB de espaço livre disponível no armazenamento. Isto pode reduzir a velocidade do seu dispositivo. Execute uma limpeza profunda para liberar espaço no armazenamento.</string>
     <string name="guide_dc_dialog_message_new">Há menos de %d GB de espaço livre disponível no armazenamento. Isto pode reduzir a velocidade do seu dispositivo. Execute uma limpeza profunda para liberar espaço no armazenamento.</string>
@@ -794,7 +794,7 @@
     <string name="output_videos">Exportar vídeos</string>
     <string name="permission_dialog_storage_btn1">Configurações</string>
     <string name="permission_dialog_storage_btn2">Cancelar</string>
-    <string name="permission_dialog_storage_content">A Limpeza precisa de permissão para acessar o armazenamento interno para poder funcionar normalmente. Toque \"Configurações\" para gerenciar as permissões de armazenamento.</string>
+    <string name="permission_dialog_storage_content">A Limpeza precisa de permissão para acessar o armazenamento interno para poder funcionar normalmente. Toque em \"Configurações\" para gerenciar as permissões de armazenamento.</string>
     <string name="permission_dialog_storage_title">Permissões necessárias</string>
     <string name="petabyteShort">"PB"</string>
     <string name="phone_search">Pesquisa do Google</string>
@@ -809,9 +809,9 @@
     <string name="powerful_acceleration_item_tip_normal">O seu armazenamento parece bem!</string>
     <string name="powerful_acceleration_notification_summary">Toque para liberar mais espaço</string>
     <string name="powerful_acceleration_notification_title">Desfragmentação completa</string>
-    <string name="powerful_acceleration_tip">O armazenamento interno sofre de fragmentação, que pode reduzir significativamente a velocidade do seu dispositivo. A desfragmentação organiza fisicamente seus arquivos no menor número de fragmentos para reduzir a lentidão</string>
-    <string name="powerful_acceleration_tip_high">O seu armazenamento está &lt;font color=#ff0000 >severamente&lt;/font> fragmentado. A desfragmentação pode resolver o problema</string>
-    <string name="powerful_acceleration_tip_middle">O seu armazenamento está &lt;font color=#ff0000 >levemente&lt;/font> fragmentado. A desfragmentação pode resolver o problema</string>
+    <string name="powerful_acceleration_tip">O armazenamento interno sofre de fragmentação, que pode reduzir significativamente a velocidade do seu dispositivo. A desfragmentação organiza fisicamente seus arquivos no menor número de fragmentos para reduzir a lentidão.</string>
+    <string name="powerful_acceleration_tip_high">O seu armazenamento está &lt;font color=#ff0000 >severamente&lt;/font> fragmentado. A desfragmentação pode resolver o problema.</string>
+    <string name="powerful_acceleration_tip_middle">O seu armazenamento está &lt;font color=#ff0000 >levemente&lt;/font> fragmentado. A desfragmentação pode resolver o problema.</string>
     <string name="powerful_acceleration_toast">A desfragmentação será efetuada automaticamente enquanto não estiver usando o dispositivo</string>
     <string name="pref_about_privacy_title">Política de Privacidade</string>
     <string name="pref_category_title_auto_clean_settings">Lembrar de limpar</string>
@@ -865,7 +865,7 @@
     <string name="qq_clean_exit_confirm_msg">Parar a verificação e sair agora?</string>
     <string name="qq_clean_finish_summary">Arquivos selecionados excluídos com sucesso</string>
     <string name="qq_data_type_cache">Cache do QQ</string>
-    <string name="qq_data_type_cache_desc">Você será capaz de restaurar estes arquivos após se conectar à Internet.</string>
+    <string name="qq_data_type_cache_desc">Você será capaz de restaurar estes arquivos após se conectar à internet.</string>
     <string name="qq_data_type_chat">Histórico de conversas</string>
     <string name="qq_data_type_chat_desc">Você não será capaz de restaurar o histórico de conversas.</string>
     <string name="qq_data_type_normal">Lixo</string>
@@ -896,7 +896,7 @@
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="sc_allow_network_dialog_button">Permitir</string>
-    <string name="sc_allow_network_dialog_message">Permitir que este app conecte-se à Internet para receber atualizações?</string>
+    <string name="sc_allow_network_dialog_message">Permitir que este app conecte-se à internet para receber atualizações?</string>
     <string name="scanning">Verificando…</string>
     <string name="search_history">Histórico de pesquisa</string>
     <string name="search_menu_title">Pesquisar</string>
@@ -1017,7 +1017,7 @@
     <string name="tips_low_storage_dialog_msg_qq_new">O cache do QQ atingiu %d GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do QQ agora?</string>
     <string name="tips_low_storage_dialog_msg_storage">Você está usando 90% do seu espaço de armazenamento. Desinstale os apps que você não usa.</string>
     <string name="tips_low_storage_dialog_msg_storage_new">Você está usando %s do seu espaço de armazenamento. Desinstale os apps que você não usa.</string>
-    <string name="tips_low_storage_dialog_msg_wechat">O cache do WeChat atingiu 3GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do WeChat agora?</string>
+    <string name="tips_low_storage_dialog_msg_wechat">O cache do WeChat atingiu 3 GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do WeChat agora?</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">O cache do WeChat atingiu %d GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do WeChat agora?</string>
     <string name="tips_low_storage_dialog_ok">Limpar</string>
     <string name="tips_low_storage_dialog_ok_storage">Liberar espaço</string>
@@ -1025,7 +1025,7 @@
     <string name="tips_of_app_manage">Exclua apps usados raramente para liberar espaço</string>
     <string name="tips_of_auto_launch_manage">Previne que apps usados raramente iniciem automaticamente</string>
     <string name="tips_of_cloud_service">Faça o login em sua Conta Mi para usar mais serviços Mi</string>
-    <string name="tips_of_connect">Conectar-se à Internet para usar o conjunto completo das funções de Segurança</string>
+    <string name="tips_of_connect">Conectar-se à internet para usar o conjunto completo das funções de Segurança</string>
     <string name="tips_of_garbage_cloud_scan">Encontrar lixo oculto com a verificação na nuvem</string>
     <string name="tips_of_garbage_data_set">Atualizar o banco de dados de Limpeza para encontrar mais lixo em seu dispositivo</string>
     <string name="tips_of_network_speed_set">Ver velocidade de rede na barra de status</string>
@@ -1065,7 +1065,7 @@
     <string name="toast_garbage_list_empty">Tudo em ordem!</string>
     <string name="toast_must_select_before_restore">Escolher fotos para restaurar</string>
     <string name="toast_network_eror">Não é possível conectar-se à rede</string>
-    <string name="toast_network_switch">Este app pode se conectar à Internet</string>
+    <string name="toast_network_switch">Este app pode se conectar à internet</string>
     <string name="toast_removed_from_white_list">Removido das exceções com sucesso</string>
     <string name="toast_resolve_apk_error">Erro ao analisar APK</string>
     <string name="toast_scaning_similar_image">Verificando fotos…</string>
@@ -1093,8 +1093,8 @@
     <string name="video_clean_auto_clean">Limpar automaticamente</string>
     <string name="video_clean_auto_clean_summary">Limpar vídeos em cache automaticamente após verificação</string>
     <string name="video_clean_cache_tip">Os vídeos limpos podem ser carregados novamente depois</string>
-    <string name="video_clean_create_desktop_icon">Atalho na tela inicial</string>
-    <string name="video_clean_create_desktop_icon_summary">Adicionar um atalho na tela inicial para limpar vídeos em cache</string>
+    <string name="video_clean_create_desktop_icon">Atalho na Tela inicial</string>
+    <string name="video_clean_create_desktop_icon_summary">Adicionar um atalho na Tela inicial para limpar vídeos em cache</string>
     <string name="video_clean_desktop_icon_created">Atalho adicionado com sucesso</string>
     <string name="video_clean_garbage">Vídeos em cache</string>
     <string name="video_clean_garbage_cleared">Vídeos limpos com sucesso</string>
@@ -1114,7 +1114,7 @@
     <string name="virus_scan">Antivírus</string>
     <string name="wechat_cache_files">Cache do WeChat</string>
     <string name="wechat_chat_data_type_cache">Cache do WeChat</string>
-    <string name="wechat_chat_data_type_cache_desc">Você será capaz de restaurar estes arquivos após conectar-se à Internet.</string>
+    <string name="wechat_chat_data_type_cache_desc">Você será capaz de restaurar estes arquivos após conectar-se à internet.</string>
     <string name="wechat_chat_data_type_chat">Histórico de conversas</string>
     <string name="wechat_chat_data_type_chat_desc">Você não será capaz de restaurar o histórico de conversas.</string>
     <string name="wechat_chat_data_type_normal">Lixo</string>

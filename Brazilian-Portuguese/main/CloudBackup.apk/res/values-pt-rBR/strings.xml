@@ -78,10 +78,10 @@ Permissões necessárias."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">Não é possível fazer o backup</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Não é possível fazer o backup.
 Espaço de armazenamento insuficiente."</string>
-    <string name="backup_warning_reason_network_error">"Erro de rede
-Não é possível fazer o backup"</string>
-    <string name="backup_warning_reason_no_server_response">"A conexão foi interrompida
-Tente novamente"</string>
+    <string name="backup_warning_reason_network_error">"Erro de rede.
+Não é possível fazer o backup."</string>
+    <string name="backup_warning_reason_no_server_response">"A conexão foi interrompida.
+Tente novamente."</string>
     <string name="btn_back">Voltar</string>
     <string name="btn_continue">Continuar</string>
     <string name="btn_restore_abort">Cancelar</string>
@@ -124,13 +124,13 @@ Tente novamente"</string>
 •    Configurações de alarme, relógio e hora 
 •    Configurações de notificações 
 •    Configurações do HyperOS e do sistema 
-Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</string>
+Observação: Os dados dos apps que estão instalados não serão salvos na MiCloud."</string>
     <string name="cloud_back_up_detail_discription_china">"Estes itens serão salvos na MiCloud quando o seu dispositivo estiver conectado ao Wi-Fi: 
 •    Apps, layout da Tela inicial e planos de fundo 
 •    Configurações de alarme, relógio e hora 
 •    Configurações de notificações 
 •    Configurações do HyperOS e do sistema 
-Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</string>
+Observação: Os dados dos apps que estão instalados não serão salvos na MiCloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Programação de backup</string>
     <string name="cloud_back_up_frequence_long">A cada %d dias</string>
     <string name="cloud_back_up_frequence_short">Diariamente</string>
@@ -314,9 +314,9 @@ Por favor, envie este código para o técnico."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="get_device_id_error">Não foi possível obter a ID do dispositivo</string>
+    <string name="get_device_id_error">Não foi possível obter o ID do dispositivo</string>
     <string name="help_and_feedback">Ajuda e feedback</string>
-    <string name="hint_restore_wechat_data">Observação: os dados do WeChat podem não ser restaurados devido a problemas de compatibilidade em alguns casos.</string>
+    <string name="hint_restore_wechat_data">Observação: Os dados do WeChat podem não ser restaurados devido a problemas de compatibilidade em alguns casos.</string>
     <string name="home_hint_global_launcher">"POCO Launcher"</string>
     <string name="home_hint_other_launcher">Outro launcher</string>
     <string name="home_restore_error">Não foi possível restaurar a Tela inicial</string>
