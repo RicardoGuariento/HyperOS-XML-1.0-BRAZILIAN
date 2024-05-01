@@ -25,7 +25,7 @@
         <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d min</item>
+        <item quantity="other">Em %d mins</item>
         <item quantity="one">Em 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -33,7 +33,7 @@
         <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min atrás</item>
+        <item quantity="other">%d mins atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="common_selected_num">
@@ -157,7 +157,7 @@
         <item quantity="one">Você pode adicionar até %1$d evento</item>
     </plurals>
     <plurals name="device_settings_heart_rate_monitor_freq">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="device_settings_heart_rate_warning_freq">
@@ -177,7 +177,7 @@
         <item quantity="one">%1$d%%</item>
     </plurals>
     <plurals name="device_settings_spo2_freq_freq">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="device_settings_unit_heart_rate">
@@ -229,7 +229,7 @@
         <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="health_common_minute_unit">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">"%1$d min'</item>
     </plurals>
     <plurals name="health_common_unit_calorie_desc">
@@ -309,7 +309,7 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="health_mh_home_title">
-        <item quantity="other">Movimento %1$d min</item>
+        <item quantity="other">Movimento %1$d mins</item>
         <item quantity="one">Movimento %1$d min</item>
     </plurals>
     <plurals name="health_sleep_breath_quality_value">
@@ -345,7 +345,7 @@
         <item quantity="one">"%1$d kcal"</item>
     </plurals>
     <plurals name="health_target_mhs_unit">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="health_target_stand_times_unit">
@@ -409,7 +409,7 @@
         <item quantity="one">"%1$d m"</item>
     </plurals>
     <plurals name="min_in_simplify_2">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
@@ -430,7 +430,7 @@
     </plurals>
     <plurals name="nfc_issue_card_hold_on_">
         <item quantity="other"><Data>"Mantenha o dispositivo conectado ao seu telefone.
-Isto levará cerca de %1$d min."</Data></item>
+Isto levará cerca de %1$d mins."</Data></item>
         <item quantity="one"><Data>"Mantenha o dispositivo conectado ao seu telefone.
 Isto levará cerca de %1$d min."</Data></item>
     </plurals>
@@ -563,23 +563,23 @@ Isto levará cerca de %1$d min."</Data></item>
         <item quantity="one">" min"</item>
     </plurals>
     <plurals name="unit_min_2">
-        <item quantity="other">" min"</item>
+        <item quantity="other">" mins"</item>
         <item quantity="one">" min"</item>
     </plurals>
     <plurals name="unit_min_desc">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="unit_min_desc2">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="unit_min_desc2_with_space">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="unit_min_desc3">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="unit_point_desc">
@@ -631,7 +631,7 @@ Isto levará cerca de %1$d min."</Data></item>
         <item quantity="one">"%1$d kcal"</item>
     </plurals>
     <plurals name="userinfo_target_mhs_unit">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="userinfo_target_stand_times_unit">
@@ -647,7 +647,7 @@ Isto levará cerca de %1$d min."</Data></item>
         <item quantity="one">"%1$d BPM"</item>
     </plurals>
     <plurals name="userinfo_unit_min">
-        <item quantity="other">min</item>
+        <item quantity="other">mins</item>
         <item quantity="one">"min"</item>
     </plurals>
     <plurals name="userinfo_user_age_display_format_year">

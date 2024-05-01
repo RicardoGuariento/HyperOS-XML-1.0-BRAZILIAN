@@ -66,17 +66,17 @@
     <string name="category_music">Música</string>
     <string name="category_music_title">Música</string>
     <string name="category_no_file_desc">Ainda não há itens aqui.</string>
-    <string name="category_no_file_sub_desc">Toque no ícone \"+\" para adicionar arquivos.</string>
+    <string name="category_no_file_sub_desc">Toque no ícone \"+\" para adicionar novos arquivos.</string>
     <string name="category_select">Selecionar</string>
     <string name="category_video">Vídeos</string>
     <string name="category_video_title">Vídeos</string>
-    <string name="channel_client_edit">Editado no dispositivo móvel</string>
+    <string name="channel_client_edit">Editado no dispositivo</string>
     <string name="channel_pc_edit">Editado no computador</string>
     <string name="channel_pc_upload">Enviado do computador</string>
     <string name="channel_pc_view">Visualizado no computador</string>
-    <string name="channel_phone_edit">Editado no telefone</string>
-    <string name="channel_phone_upload">Enviado do telefone</string>
-    <string name="channel_phone_view">Visualizado no telefone</string>
+    <string name="channel_phone_edit">Editado no dispositivo</string>
+    <string name="channel_phone_upload">Enviado do dispositivo</string>
+    <string name="channel_phone_view">Visualizado no dispositivo</string>
     <string name="channel_tablet_upload">Enviado do tablet</string>
     <string name="channel_tablet_view">Visualizado no tablet</string>
     <string name="channel_web_edit">Editado no navegador</string>
@@ -171,7 +171,7 @@
     <string name="exception_copy_file_exist">"O item que você copiou já está na pasta de destino"</string>
     <string name="exception_copy_sub_path">"Não é possível copiar itens para a mesma pasta"</string>
     <string name="exception_create_folder_conflict">"Não foi possível criar a pasta. Já existe uma pasta com este nome."</string>
-    <string name="exception_default">Não foi possível criar a pasta. Já existe uma pasta com este nome</string>
+    <string name="exception_default">Não foi possível criar a pasta. Já existe uma pasta com este nome.</string>
     <string name="exception_delete_file_null">"Não foi possível excluir. Exclua os itens desta pasta primeiro."</string>
     <string name="exception_download_contain_folder">"Não é possível baixar pastas"</string>
     <string name="exception_file_no_exist">"Este arquivo não existe"</string>
@@ -193,7 +193,7 @@
     <string name="file_info_size">"Tamanho: "</string>
     <string name="file_is_downloaded">Este item já foi baixado</string>
     <string name="file_no_file_desc">Ainda não há itens aqui.</string>
-    <string name="file_no_file_sub_desc">Toque no ícone de \"+\" para enviar arquivos.</string>
+    <string name="file_no_file_sub_desc">Toque no ícone \"+\" para enviar arquivos.</string>
     <string name="file_picker_loading">Aguarde um momento…</string>
     <string name="file_picker_no_file">Não há itens aqui</string>
     <string name="file_picker_title">Selecione os itens</string>
@@ -250,7 +250,7 @@
     <string name="hybrid_provider">Fornecido por %1$s</string>
     <string name="i_know">Entendi</string>
     <string name="image_picker_title">Selecionar imagens</string>
-    <string name="image_preview_cover_failed">"Não foi possível carregar. Tente novamente"</string>
+    <string name="image_preview_cover_failed">"Não foi possível carregar. Tente novamente."</string>
     <string name="image_preview_download_failed">"Não foi possível abrir a imagem original"</string>
     <string name="image_preview_open_large_image">Abrir imagem original (%s)</string>
     <string name="inner_storage_path">Armazenamento interno</string>
@@ -271,8 +271,8 @@
     <string name="member_menu_vipname_mega">"Mega"</string>
     <string name="member_menu_vipname_premium">"Premium"</string>
     <string name="member_menu_vipname_ultra">"Ultra"</string>
-    <string name="micloud_space_applist_detail">Você pode visualizar os backups do layout da tela inicial no seu dispositivo móvel.</string>
-    <string name="micloud_space_duokan_detail">"Abra o Duokan no seu telefone e vá em Prateleira &gt; Armazenamento na nuvem para gerenciar o armazenamento na nuvem.
+    <string name="micloud_space_applist_detail">Você pode visualizar os backups do layout da Tela inicial no seu dispositivo.</string>
+    <string name="micloud_space_duokan_detail">"Abra o Duokan no seu dispositivo e vá em Prateleira &gt; Armazenamento na nuvem para gerenciar o armazenamento na nuvem.
 Verifique se você está usando a Conta Mi atual como sua conta do sistema HyperOS."</string>
     <string name="micloud_space_duokan_title">Espaço de armazenamento do Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Abra o Gravador no seu dispositivo Xiaomi e selecione a pasta com os itens armazenados na nuvem.
@@ -361,7 +361,7 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="my_about_item">Sobre o Mi Drive</string>
     <string name="my_feedback_item">"Feedback"</string>
     <string name="my_file">Meus arquivos</string>
-    <string name="my_manage_space_item">Gerenciar armaz. na nuvem</string>
+    <string name="my_manage_space_item">Gerenciar armazenamento na nuvem</string>
     <string name="my_setting">Configurações</string>
     <string name="my_trash_item">Itens excluídos recentemente</string>
     <string name="my_update_item">Procurar atualizações</string>
@@ -441,8 +441,8 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="privacy_recall_success">Consentimento retirado com sucesso</string>
     <string name="privacy_recall_title">Retirada de consentimento</string>
     <string name="privacy_recalling">Retirando consentimento…</string>
-    <string name="privacy_update_dialog_msg">A Política de privacidade do Mi Drive foi atualizada:&lt;br/>%1$s&lt;br/>Leia e aceite a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
-    <string name="privacy_update_dialog_title">Política de privacidade atualizada</string>
+    <string name="privacy_update_dialog_msg">A Política de Privacidade do Mi Drive foi atualizada:&lt;br/>%1$s&lt;br/>Leia e aceite a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
+    <string name="privacy_update_dialog_title">Política de Privacidade atualizada</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Sair</string>
     <string name="privacy_user_notice_dialog_msg">"Você não poderá continuar usando o Mi Drive a menos que aceite a nova versão da sua &lt;a href=%1$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a>. Aceitar a Política de Privacidade atualizada?"</string>
     <string name="privacy_user_notice_dialog_ok_btn_text">Aceitar</string>
@@ -454,7 +454,7 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="query_quota_exception">Ocorreu um erro no servidor. Aguarde um ou dois minutos e tente novamente.</string>
     <string name="query_quota_searching">Um momento…</string>
     <string name="recent_file">Recentes</string>
-    <string name="recent_jump_to_privacy_fail_notice">Este arquivo é privado. Volte para a página inicial e puxe para visualizar</string>
+    <string name="recent_jump_to_privacy_fail_notice">Este arquivo é privado. Volte para a página inicial e puxe para visualizar.</string>
     <string name="refresh_label_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="refresh_label_refreshed">Atualizado com sucesso</string>
     <string name="refresh_label_refreshing">Atualizando…</string>
@@ -472,19 +472,19 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="request_permission_external_storage">Acessar o armazenamento do dispositivo</string>
     <string name="request_permission_external_storage_desc">Para visualizar, carregar, baixar e sincronizar itens</string>
     <string name="request_permission_manual_authorized">Configurações</string>
-    <string name="request_permission_manual_desc">A seguinte permissão: %s, é necessária para poder usar alguns recursos. Você pode conceder essa permissão em Configurações.</string>
+    <string name="request_permission_manual_desc">A seguinte permissão: %s, é necessária para poder usar alguns recursos. Você pode conceder essa permissão nas Configurações.</string>
     <string name="request_permission_manual_title">Permissões necessárias</string>
     <string name="request_permission_manual_unauthorized">Cancelar</string>
     <string name="request_permission_post_notification">Notificações</string>
     <string name="request_permission_post_notification_desc">Para enviar notificações sobre uploads e downloads do Mi Drive</string>
     <string name="request_permission_read_media_audio">Acessar arquivos de áudio</string>
-    <string name="request_permission_read_media_audio_desc">Para pré-visualizar, carregar, baixar e sincronizar arquivos de áudio</string>
-    <string name="request_permission_read_media_aural">Para pré-visualizar, carregar, baixar e sincronizar arquivos de áudio</string>
+    <string name="request_permission_read_media_audio_desc">Para pré-visualizar, carregar, baixar e sincronizar arquivos de áudio.</string>
+    <string name="request_permission_read_media_aural">Para pré-visualizar, carregar, baixar e sincronizar arquivos de áudio.</string>
     <string name="request_permission_read_media_image">Acessar fotos</string>
-    <string name="request_permission_read_media_image_desc">Para visualizar, carregar, baixar e sincronizar fotos</string>
+    <string name="request_permission_read_media_image_desc">Para visualizar, carregar, baixar e sincronizar fotos.</string>
     <string name="request_permission_read_media_video">Acessar vídeos</string>
-    <string name="request_permission_read_media_video_desc">Para visualizar, carregar, baixar e sincronizar vídeos</string>
-    <string name="request_permission_read_media_visual">Para visualizar, carregar, baixar e sincronizar fotos e vídeos</string>
+    <string name="request_permission_read_media_video_desc">Para visualizar, carregar, baixar e sincronizar vídeos.</string>
+    <string name="request_permission_read_media_visual">Para visualizar, carregar, baixar e sincronizar fotos e vídeos.</string>
     <string name="request_permission_title">Permissões necessárias</string>
     <string name="root_page_name">Meu drive</string>
     <string name="saturday">Sábado</string>
@@ -517,7 +517,7 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="speed_unit_kb">"%s KB/s"</string>
     <string name="speed_unit_mb">"%s MB/s"</string>
     <string name="start_download">Iniciando o download…</string>
-    <string name="start_upload">Iniciando o download…</string>
+    <string name="start_upload">Iniciando o upload…</string>
     <string name="stay_tuned">Fique ligado</string>
     <string name="stay_tuned_sub_desc">Este serviço não está disponível fora do continente Chinês</string>
     <string name="storage_internal">Armazenamento interno</string>
@@ -602,7 +602,7 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
-    <string name="unlock_password_dialog_msg">A senha de proteção de privacidade será usada. Funciona com fotos, notas e arquivos.</string>
+    <string name="unlock_password_dialog_msg">A Senha de proteção de privacidade será usada. Funciona com fotos, notas e arquivos.</string>
     <string name="unlock_password_dialog_title">Senha de proteção de privacidade</string>
     <string name="update_dialog_button_cancel">Agora não</string>
     <string name="update_dialog_button_ok">Instalar</string>
@@ -611,7 +611,7 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="update_dialog_title">Uma atualização está disponível</string>
     <string name="update_failed">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="update_failed_no_app_info">Não foi possível receber o pacote de atualização</string>
-    <string name="update_no_network">Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente</string>
+    <string name="update_no_network">Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="update_no_update">A versão atual já está atualizada</string>
     <string name="update_progress_dialog_content">Baixando…</string>
     <string name="upload_done">Upload completo</string>
