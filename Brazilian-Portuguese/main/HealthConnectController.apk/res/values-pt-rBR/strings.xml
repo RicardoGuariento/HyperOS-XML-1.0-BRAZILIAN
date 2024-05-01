@@ -50,7 +50,7 @@
     <string name="app_update_needed_banner_description_multiple">Alguns apps precisam estar atualizados para continuar funcionando com o Conexão e saúde</string>
     <string name="app_update_needed_banner_description_single">%1$s precisa estar atualizado para continuar funcionando com o Conexão e saúde</string>
     <string name="app_update_needed_banner_title">Atualização do app necessária</string>
-    <string name="app_update_needed_seen">Atualização do aplicativo vista</string>
+    <string name="app_update_needed_seen">Atualização do app</string>
     <string name="arm_curl">Flexão de braço</string>
     <string name="auto_delete_button">Exclusão automática</string>
     <string name="auto_delete_header">Controle por quanto tempo seus dados são armazenados no app Conexão e Saúde programando a exclusão deles depois de um período específico</string>
@@ -340,8 +340,8 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="height_ft_long">{height, plural, =1 {1 pé} other {# pés}}</string>
     <string name="height_in_compacted">{height, plural, =1 {1″} other {#″}}</string>
     <string name="height_in_long">{height, plural, =1 {1 polegada} other {# polegadas}}</string>
-    <string name="height_lowercase_label">height</string>
-    <string name="height_read_content_description">Read height</string>
+    <string name="height_lowercase_label">Altura</string>
+    <string name="height_read_content_description">Ler dados de altura</string>
     <string name="height_unit_centimeters_label">Centímetros</string>
     <string name="height_unit_feet_label">Pés e polegadas</string>
     <string name="height_unit_title">Altura</string>
@@ -377,7 +377,7 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="install_type_instant">App instantâneo</string>
     <string name="intermenstrual_bleeding_lowercase_label">Sangramento intermenstrual</string>
     <string name="intermenstrual_bleeding_read_content_description">Ler dados de sangramento intermenstrual</string>
-    <string name="intermenstrual_bleeding_uppercase_label">Intermenstrual bleeding</string>
+    <string name="intermenstrual_bleeding_uppercase_label">Sangramento intermenstrual</string>
     <string name="intermenstrual_bleeding_write_content_description">Gravar dados de sangramento intermenstrual</string>
     <string name="iodine">Iodo</string>
     <string name="iron">Ferro</string>
@@ -442,58 +442,58 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="menstruation_read_content_description">Ler dados de menstruação</string>
     <string name="menstruation_uppercase_label">Menstruação</string>
     <string name="menstruation_write_content_description">Gravar dados de menstruação</string>
-    <string name="migration_app_update_needed_action">Antes de continuar, atualize o aplicativo Conexão e saúde para a versão mais recente.</string>
+    <string name="migration_app_update_needed_action">Antes de continuar, atualize o app Conexão e saúde para a versão mais recente.</string>
     <string name="migration_app_update_needed_notification_title">Atualização de conexão e saúde necessária</string>
     <string name="migration_complete_notification_action">Abrir</string>
-    <string name="migration_complete_notification_title">Conexão e saúde integration complete</string>
-    <string name="migration_in_progress_notification_title">Conexão e saúde integration in progress</string>
-    <string name="migration_in_progress_permissions_dialog_button_got_it">Got it</string>
-    <string name="migration_in_progress_permissions_dialog_content">"Conexão e saúde is being integrated with the Android system.
+    <string name="migration_complete_notification_title">Integração do Conexão e Saúde completa</string>
+    <string name="migration_in_progress_notification_title">Integração do Conexão e saúde em andamento</string>
+    <string name="migration_in_progress_permissions_dialog_button_got_it">Entendi</string>
+    <string name="migration_in_progress_permissions_dialog_content">"Conexão e saúde está sendo integrado ao sistema Android.
 
-You'll get a notification when the process is complete and you can use %1$s with Conexão e saúde."</string>
-    <string name="migration_in_progress_permissions_dialog_content_apps">"Conexão e saúde is being integrated with the Android system.
+Você receberá uma notificação quando o processo for concluído e poderá usar %1$s com o Conexão e saúde."</string>
+    <string name="migration_in_progress_permissions_dialog_content_apps">"O Conexão e saúde está sendo integrado ao sistema Android.
 
-You'll get a notification when the process is complete and you can use Conexão e saúde."</string>
-    <string name="migration_in_progress_permissions_dialog_title">Conexão e saúde integration in progress</string>
-    <string name="migration_in_progress_screen_integration_details">"Conexão e saúde is being integrated with the Android system.
+Você receberá uma notificação quando o processo for concluído e puder usar o Conexão e saúde."</string>
+    <string name="migration_in_progress_permissions_dialog_title">Integração do Conexão e saúde em andamento</string>
+    <string name="migration_in_progress_screen_integration_details">"Conexão e saúde está sendo integrado ao sistema Android.
 
-It may take some time while your data and permissions are being transferred."</string>
-    <string name="migration_in_progress_screen_integration_dont_close">"Don't close the app until you get a notification that the process is complete."</string>
-    <string name="migration_in_progress_screen_title">Integration in progress</string>
-    <string name="migration_module_update_needed_action">Before continuing, update your phone system.</string>
-    <string name="migration_module_update_needed_notification_title">System update needed</string>
-    <string name="migration_module_update_needed_restart">"If you've already updated your phone system, try restarting your phone to continue the integration"</string>
-    <string name="migration_more_space_needed_notification_content">Conexão e saúde needs %1$s of storage space on your phone to continue integrating.</string>
-    <string name="migration_more_space_needed_notification_title">More space needed</string>
-    <string name="migration_more_space_needed_screen_details">"Conexão e saúde needs %1$s of storage space on your phone in order for the integration to continue.
+Pode levar algum tempo enquanto seus dados e permissões estão sendo transferidos."</string>
+    <string name="migration_in_progress_screen_integration_dont_close">"Não feche o app até receber uma notificação de que o processo foi concluído."</string>
+    <string name="migration_in_progress_screen_title">Integração em andamento</string>
+    <string name="migration_module_update_needed_action">Antes de continuar, atualize seu sistema do dispositivo.</string>
+    <string name="migration_module_update_needed_notification_title">Atualização do sistema necessária</string>
+    <string name="migration_module_update_needed_restart">"Se você já atualizou seu sistema do dispositivo, tente reiniciar seu dispositivo para continuar a integração"</string>
+    <string name="migration_more_space_needed_notification_content">Conexão e saúde precisa de %1$s de espaço de armazenamento no seu dispositivo para continuar a integração.</string>
+    <string name="migration_more_space_needed_notification_title">Mais espaço necessário</string>
+    <string name="migration_more_space_needed_screen_details">"Conexão e saúde precisa de %1$s de espaço de armazenamento no seu dispositivo para que a integração continue.
 
-Clear some space on your phone and then try again."</string>
-    <string name="migration_more_space_needed_screen_title">More space needed</string>
-    <string name="migration_not_complete_dialog_button">Got it</string>
-    <string name="migration_not_complete_dialog_content">"You'll get a notification when it becomes available again."</string>
-    <string name="migration_not_complete_dialog_seen">Migration Not Complete Seen</string>
-    <string name="migration_not_complete_dialog_title">"Conexão e saúde integration didn't complete"</string>
-    <string name="migration_not_complete_notification_action">Read more</string>
-    <string name="migration_not_complete_notification_title">"Conexão e saúde integration didn't complete"</string>
-    <string name="migration_paused_notification_content">Conexão e saúde is being integrated with the Android system. Tap to continue</string>
-    <string name="migration_paused_notification_title">Integration paused</string>
-    <string name="migration_paused_screen_details">"The Conexão e saúde app closed while it was being integrated with the Android system.
+Libere espaço no seu dispositivo e tente novamente."</string>
+    <string name="migration_more_space_needed_screen_title">Mais espaço necessário</string>
+    <string name="migration_not_complete_dialog_button">Entendi</string>
+    <string name="migration_not_complete_dialog_content">"Você receberá uma notificação quando ele estiver disponível novamente."</string>
+    <string name="migration_not_complete_dialog_seen">Migração não concluída</string>
+    <string name="migration_not_complete_dialog_title">"A integração do Conexão e saúde não foi concluída"</string>
+    <string name="migration_not_complete_notification_action">Consulte mais informações</string>
+    <string name="migration_not_complete_notification_title">"A integração do Conexão e saúde não foi concluída"</string>
+    <string name="migration_paused_notification_content">O Conexão e saúde está sendo integrado ao sistema Android. Toque para continuar</string>
+    <string name="migration_paused_notification_title">Integração pausada</string>
+    <string name="migration_paused_screen_details">"O app Conexão e saúde fechou enquanto estava sendo integrado ao sistema Android.
 
-Click resume to reopen the app and continue transferring your data and permissions."</string>
-    <string name="migration_paused_screen_details_timeout">In order to keep your Conexão e saúde data, complete this within %1$s</string>
-    <string name="migration_paused_screen_title">Integration paused</string>
-    <string name="migration_pending_permissions_dialog_button_continue">Continue</string>
-    <string name="migration_pending_permissions_dialog_button_start_integration">Start integration</string>
-    <string name="migration_pending_permissions_dialog_content">Conexão e saúde is ready to be integrated with your Android system. If you give %1$s access now, some features may not work until integration is complete.</string>
-    <string name="migration_pending_permissions_dialog_content_apps">Conexão e saúde is ready to be integrated with your Android system. If you give apps access now, some features may not work until integration is complete.</string>
-    <string name="migration_pending_permissions_dialog_title">Conexão e saúde integration</string>
-    <string name="migration_update_needed_notification_action">Update now</string>
-    <string name="migration_update_needed_notification_content">Start this update so that Conexão e saúde can continue integrating with your system settings</string>
-    <string name="migration_update_needed_screen_details">Conexão e saúde is being integrated with the Android system so you can access it directly from your settings.</string>
-    <string name="migration_update_needed_screen_title">Update needed</string>
-    <string name="migration_whats_new_dialog_button">Got it</string>
-    <string name="migration_whats_new_dialog_content">You can now access Conexão e saúde directly from your settings. Uninstall the Conexão e saúde app any time.</string>
-    <string name="migration_whats_new_dialog_title">"What's new"</string>
+Clique em retomar para reabrir o app e continuar transferindo seus dados e permissões."</string>
+    <string name="migration_paused_screen_details_timeout">Para manter seus dados do Conexão e saúde, complete isso em %1$s</string>
+    <string name="migration_paused_screen_title">Integração pausada</string>
+    <string name="migration_pending_permissions_dialog_button_continue">Continuar</string>
+    <string name="migration_pending_permissions_dialog_button_start_integration">Iniciar integração</string>
+    <string name="migration_pending_permissions_dialog_content">O Conexão e saúde está pronto para ser integrado ao seu sistema Android. Se você conceder acesso a %1$s agora, alguns recursos poderão não funcionar até que a integração seja concluída.</string>
+    <string name="migration_pending_permissions_dialog_content_apps">O Conexão e saúde está pronto para ser integrado ao seu sistema Android. Se você conceder acesso aos apps agora, alguns recursos poderão não funcionar até que a integração seja concluída.</string>
+    <string name="migration_pending_permissions_dialog_title">Integração com o Conexão e saúde</string>
+    <string name="migration_update_needed_notification_action">Atualizar agora</string>
+    <string name="migration_update_needed_notification_content">Inicie esta atualização para que o Conexão e saúde possa continuar integrando com as configurações do seu sistema</string>
+    <string name="migration_update_needed_screen_details">Conexão e saúde está sendo integrado ao sistema Android para que você possa acessá-lo diretamente nas suas configurações.</string>
+    <string name="migration_update_needed_screen_title">Atualização necessária</string>
+    <string name="migration_whats_new_dialog_button">Entendi</string>
+    <string name="migration_whats_new_dialog_content">Agora você pode acessar o Conexão e saúde diretamente nas suas configurações. Desinstale o app Conexão e saúde a qualquer momento.</string>
+    <string name="migration_whats_new_dialog_title">"O que há de novo"</string>
     <string name="millimoles_per_liter">{count, plural, =1 {1 mmol/L} other {# mmol/L}}</string>
     <string name="millimoles_per_liter_long">{count, plural, =1 {1 milimole por litro} other {# milimoles por litro}}</string>
     <string name="milliseconds">{count, plural, =1 {1 ms} other {# ms}}</string>
@@ -568,7 +568,7 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string name="nutrition_read_content_description">Ler dados de nutrição</string>
     <string name="nutrition_uppercase_label">Nutrição</string>
     <string name="nutrition_write_content_description">Gravar dados de nutrição</string>
-    <string name="onboarding_description">Esse app armazena seus dados de saúde e condicionamento físico, oferecendo uma maneira simples de sincronizar os diferentes aplicativos no smartphone.</string>
+    <string name="onboarding_description">Esse app armazena seus dados de saúde e condicionamento físico, oferecendo uma maneira simples de sincronizar os diferentes apps no smartphone.</string>
     <string name="onboarding_get_started_button_text">Começar</string>
     <string name="onboarding_go_back_button_text">Voltar</string>
     <string name="onboarding_title">Começar a usar o app Conexão e saúde</string>
@@ -590,19 +590,19 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string name="pantothenic_acid">Ácido pantotênico</string>
     <string name="paragliding">Parapente</string>
     <string name="password_toggle_content_description">Exibir senha</string>
-    <string name="pause">Pause</string>
+    <string name="pause">Pausar</string>
     <string name="percent" formatted="false">{value, plural, =1 {1%} other {#%}}</string>
     <string name="percent_long">{value, plural, =1 {1 por cento} other {# por cento}}</string>
     <string name="period_day">Dia %1$d de %2$d do período</string>
-    <string name="permdesc_readCaloriesBurned">Allows the app to read the calories burned</string>
-    <string name="permgroupdesc_health">access your health data</string>
+    <string name="permdesc_readCaloriesBurned">Permite que o app leia dados das calorias queimadas</string>
+    <string name="permgroupdesc_health">Acessar seus dados de saúde</string>
     <string name="permgrouplab_health">Conexão e saúde</string>
-    <string name="permission_types_title">Your data</string>
+    <string name="permission_types_title">Seus dados</string>
     <string name="permissions_and_data_header">Permissões e dados</string>
     <string name="permissions_disconnect_all_dialog_disconnect">Remover tudo</string>
     <string name="permissions_disconnect_all_dialog_message">"Nenhum dos seus apps poderá acessar ou adicionar novos dados ao Conexão e saúde. Isso não exclui nenhum dado existente.
 
-Isso não afeta outras permissões que este aplicativo possa ter, como localização, câmera ou microfone."</string>
+Isso não afeta outras permissões que este app possa ter, como localização, câmera ou microfone."</string>
     <string name="permissions_disconnect_all_dialog_title">Remover o acesso para todos os apps?</string>
     <string name="permissions_disconnect_dialog_checkbox">Também excluir dados do app %1$s da plataforma Conexão e saúde</string>
     <string name="permissions_disconnect_dialog_disconnect">Remover tudo</string>
@@ -851,10 +851,10 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="vo2_heart_rate_ratio">Taxa de frequência cardíaca</string>
     <string name="vo2_max">{value, plural, =1 {1 mL/(kg·min)} other {# mL/(kg·min)}}</string>
     <string name="vo2_max_long">{value, plural, =1 {1 mililitro de oxigênio por quilograma de massa corporal por minuto} other {# mililitros de oxigênio por quilograma de massa corporal por minuto}}</string>
-    <string name="vo2_max_lowercase_label">VO2 max</string>
-    <string name="vo2_max_read_content_description">Ler VO₂ máx.</string>
-    <string name="vo2_max_uppercase_label">VO2 max</string>
-    <string name="vo2_max_write_content_description">Gravar VO₂ máx.</string>
+    <string name="vo2_max_lowercase_label">VO₂ max</string>
+    <string name="vo2_max_read_content_description">Ler dados de VO₂ máx.</string>
+    <string name="vo2_max_uppercase_label">VO₂ max</string>
+    <string name="vo2_max_write_content_description">Gravar dados de VO₂ máx.</string>
     <string name="vo2_metabolic_cart">Carrinho metabólico</string>
     <string name="vo2_multistage_fitness_test">Teste de condicionamento físico em vários estágios</string>
     <string name="vo2_other">Outro</string>
