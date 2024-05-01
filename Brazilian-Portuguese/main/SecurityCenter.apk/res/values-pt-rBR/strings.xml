@@ -2128,6 +2128,7 @@ monitoramento de terremotos"</string>
     <string name="fw_oversea_content">Bloquear chamadas recebidas de números internacionais desconhecidos</string>
     <string name="gallery_confirm_start_activity">%s não tem permissão para acessar sua Galeria e apps de redes sociais. Este app deseja acessar imagens armazenadas neste dispositivo para compartilhar itens. Permitir?</string>
     <string name="game_ad_recommendation">Todos estão jogando</string>
+    <string name="game_balance_more_setting_title">Configurações adicionais</string>
     <string name="game_anti_disturb_msg">Não perturbe para jogos</string>
     <string name="game_booster">"Game Turbo"</string>
     <string name="game_booster_close">O Game Turbo está desativado</string>
@@ -2140,6 +2141,9 @@ monitoramento de terremotos"</string>
     <string name="game_manual_record_setting_setting">Configurações</string>
     <string name="game_manual_record_setting_title">Momentos principais</string>
     <string name="game_more_improve">Restringir atividades em segundo plano e velocidade de download para economizar banda e bateria para jogos</string>
+    <string name="game_performance_wild_mode">Modo desempenho</string>
+    <string name="game_performance_wild_mode_tips">"Ative para melhorar o desempenho do dispositivo
+(Seu dispositivo irá aquecer e consumir mais energia)"</string>
     <string name="game_setting">Configurações de jogo</string>
     <string name="game_video_net_data">Dados móveis</string>
     <string name="game_video_network_eror">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -2237,7 +2241,7 @@ monitoramento de terremotos"</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Moderado</string>
     <string name="gb_advance_settings_screen_hdr_gear3">Forte</string>
     <string name="gb_advance_settings_screen_hdr_gear4">Extremo</string>
-    <string name="gb_advance_settings_screen_hdr_summary">Aumenta o contraste e aprimora os detalhes em jogos</string>
+    <string name="gb_advance_settings_screen_hdr_summary">"Aumenta o contraste e aprimora os detalhes em jogos"</string>
     <string name="gb_advance_settings_touch">Controles de toque</string>
     <string name="gb_advance_settings_vibration_4d">Vibração 4D</string>
     <string name="gb_advance_settings_vibration_4d_summary">Vibrar durante tiros em jogos</string>
@@ -2515,6 +2519,7 @@ e explore nosso Modificador de voz!"</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Sua assinatura expirou. Renove a assinatura agora para obter benefícios!</string>
     <string name="gb_voice_changer_user_vip_expired">Expirado</string>
     <string name="gb_voice_changer_user_vip_remain_time">Expira em: %s</string>
+    <string name="gb_wild_mode_game_performance_enhance">Melhore o desempenho para jogos</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Grave momentos importantes
 das suas sessões de jogos"</string>
     <string name="gb_wonderful_video_cancel">Cancelar</string>
