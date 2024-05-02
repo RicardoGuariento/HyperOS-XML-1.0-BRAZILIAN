@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -74,7 +74,7 @@
     <string name="alarmclock_empty_text">Nenhum alarme</string>
     <string name="alarmclock_silent_hint">O alarme está silenciado</string>
     <string name="alert">Toque</string>
-    <string name="alert_page_desc">Pressione e segure, deslize para cima para desligar o alarme</string>
+    <string name="alert_page_desc">Pressione e segure, deslize para cima para desligar o alarme.</string>
     <string name="alert_ringtone">Toque do alarme</string>
     <string name="alert_vibrate_enable_summary">Vibrar quando o alarme disparar</string>
     <string name="alert_volume">Volume do toque</string>
@@ -113,7 +113,7 @@
     <string name="bedtime_setting_complete">Durma bem!</string>
     <string name="bedtime_setting_complete_desc">Siga o seu novo horário de dormir para sentir-se o melhor possível</string>
     <string name="bedtime_setting_no_disturbance">Alterar para o Não pertube enquanto dorme?</string>
-    <string name="bedtime_setting_no_disturbance_desc">Toques, sons de notificações e vibração serão silenciados até você acordar</string>
+    <string name="bedtime_setting_no_disturbance_desc">Toques, sons de notificações e vibração serão silenciados até você acordar.</string>
     <string name="bedtime_setting_repeat_type">Quando seu horário de dormir será aplicado?</string>
     <string name="bedtime_setting_repeat_type_desc">Selecione os dias em que você receberá lembretes</string>
     <string name="bedtime_settings">Configurações da hora de dormir</string>
@@ -123,7 +123,7 @@
     <string name="bedtime_wake_up_time_remind">Um alarme irá tocar neste horário</string>
     <string name="bedtime_wake_up_time_setting">A que horas costuma acordar?</string>
     <string name="bedtime_welcome">Gerencie seu horário de dormir</string>
-    <string name="bedtime_welcome_desc">Manter um horário de sono regular e consistente beneficia a sua saúde. Configure lembretes que irão lhe ajudar a ir para a cama e acordar todos os dias</string>
+    <string name="bedtime_welcome_desc">Manter um horário de sono regular e consistente beneficia a sua saúde. Configure lembretes que irão lhe ajudar a ir para a cama e acordar todos os dias.</string>
     <string name="birthday_alarm">Alarme de aniversário</string>
     <string name="birthday_alarm_summary">Tocar \"Parabéns pra você\" em vez do som de alarme padrão no seu aniversário</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
@@ -176,22 +176,22 @@
     <string name="deskclock_sleep_no_disturbance">Relógio > Gerenciar hora de dormir > Modo Não perturbe</string>
     <string name="device_sounds">Sons do dispositivo</string>
     <string name="dialog_confirm_abort">Descartar alterações?</string>
-    <string name="dialog_legal_off_day"><Data>"Parece que você está usando os alarmes de feriados. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
-    <string name="dialog_legal_off_day_desc">O Relógio não tem permissão para conectar-se à Internet e atualizar as informações sobre feriados. Os alarmes de feriados dispararão nos sábados e domingos.</string>
-    <string name="dialog_legal_workday"><Data>"Parece que você está usando os alarmes de dias úteis. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
-    <string name="dialog_legal_workday_and_off_day"><Data>"Parece que você está usando os alarmes de dias úteis e de feriados. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
-    <string name="dialog_legal_workday_and_off_day_desc">O Relógio não tem permissão para conectar-se à Internet para atualizar as informações sobre feriados. Os alarmes de dias úteis dispararão de segunda a sexta. Os alarmes de feriados dispararão nos sábados e domingos.</string>
-    <string name="dialog_legal_workday_desc">O Relógio não tem permissão para conectar-se à Internet e atualizar as informações sobre os dias úteis. Os alarmes de dias úteis dispararão de segunda a sexta.</string>
+    <string name="dialog_legal_off_day"><Data>"Parece que você está usando os alarmes de feriados. Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
+    <string name="dialog_legal_off_day_desc">O Relógio não tem permissão para conectar-se à internet e atualizar as informações sobre feriados. Os alarmes de feriados dispararão nos sábados e domingos.</string>
+    <string name="dialog_legal_workday"><Data>"Parece que você está usando os alarmes de dias úteis. Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
+    <string name="dialog_legal_workday_and_off_day"><Data>"Parece que você está usando os alarmes de dias úteis e de feriados. Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
+    <string name="dialog_legal_workday_and_off_day_desc">O Relógio não tem permissão para conectar-se à internet para atualizar as informações sobre feriados. Os alarmes de dias úteis dispararão de segunda a sexta. Os alarmes de feriados dispararão nos sábados e domingos.</string>
+    <string name="dialog_legal_workday_desc">O Relógio não tem permissão para conectar-se à internet e atualizar as informações sobre os dias úteis. Os alarmes de dias úteis dispararão de segunda a sexta.</string>
     <string name="dialog_message_agree">Aceitar</string>
     <string name="dialog_message_for_contact_permission">Para disponibilizar os alarmes de aniversário, o Relógio precisa de acesso aos seus contatos. Aceitar?</string>
     <string name="dialog_message_negative">Não aceitar</string>
     <string name="dialog_message_not_remind">Não mostrar novamente</string>
-    <string name="dialog_net_permission_in_repeat_type"><Data>Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
-    <string name="dialog_privacy_content">Para obter informações relevantes sobre feriados públicos, ajustar alarmes e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
-    <string name="dialog_privacy_content_global">Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
-    <string name="dialog_privacy_content_news">Para fornecer serviços personalizados e incluir notícias matinais em seus alarmes, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e %2$s. Aceitar?</string>
-    <string name="dialog_privacy_content_timer">Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
-    <string name="dialog_privacy_content_timer_data">"Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈20 MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Você está usando dados móveis agora. Aceitar?"</string>
+    <string name="dialog_net_permission_in_repeat_type"><Data>Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="dialog_privacy_content">Para obter informações relevantes sobre feriados públicos, ajustar alarmes e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
+    <string name="dialog_privacy_content_global">Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
+    <string name="dialog_privacy_content_news">Para fornecer serviços personalizados e incluir notícias matinais em seus alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e %2$s. Aceitar?</string>
+    <string name="dialog_privacy_content_timer">Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
+    <string name="dialog_privacy_content_timer_data">"Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈20 MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Você está usando dados móveis agora. Aceitar?"</string>
     <string name="disagree">Não aceitar</string>
     <string name="done">Concluído</string>
     <string name="dynamic_alarm_speech">Alarme inteligente</string>
@@ -291,7 +291,7 @@
     <string name="life_post_setting_close_title">Desativar relatórios matinais</string>
     <string name="life_post_setting_open_background_subtitle">Mostrar imagens de fundo para alarmes relacionados</string>
     <string name="life_post_setting_open_background_title">Mostrar imagem de fundo</string>
-    <string name="life_post_setting_open_desc">Desativar alarmes recorrentes entre 04:00 e 10:00 da manhã para ouvir a previsão do tempo atual</string>
+    <string name="life_post_setting_open_desc">Desative alarmes recorrentes entre 04:00 e 10:00 da manhã para ouvir a previsão do tempo atual</string>
     <string name="life_post_setting_open_subtitle">Receber informações de clima quando você desativar alarmes entre 4:00 e 9:30</string>
     <string name="life_post_setting_open_summary">Inclui informações de clima no primeiro alarme desativado entre 4:00 e 10:00</string>
     <string name="life_post_setting_open_summary_new">Inclui informações de clima no primeiro alarme desativado entre %1$s e %2$s</string>
@@ -305,9 +305,9 @@
     <string name="life_post_wake_up_percentage_title">Mi Fãs atrás de você</string>
     <string name="life_post_wake_up_time_title">Acordou às</string>
     <string name="life_post_weather_invalid">Toque para obter informações sobre o clima</string>
-    <string name="life_post_weather_no_network">Conecte-se na Internet para atualizar as informações sobre o clima</string>
+    <string name="life_post_weather_no_network">Conecte-se na internet para atualizar as informações sobre o clima</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy"><Data>Para fornecer serviços personalizados e incluir notícias matinais aos seus alarmes, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="listen_news_privacy"><Data>Para fornecer serviços personalizados e incluir notícias matinais aos seus alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="look_sleep_data">Ver dados de sono</string>
     <string name="loading_ringtone">Carregando toque…</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
@@ -380,10 +380,10 @@ mm"</string>
     <string name="module_dialog_neutral">Entendi</string>
     <string name="module_dialog_positive">Aceitar</string>
     <string name="module_download_cancel">Não, obrigado</string>
-    <string name="module_download_data_msg">Para disponibilizar os alarmes inteligentes do HyperOS, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contém recursos de áudio que permitem incluir informações de clima atual nos alarmes. Cerca de 20MB dos seus dados móveis serão usados neste download. Baixar agora?</string>
-    <string name="module_download_data_msg_golbal">O Relógio precisa baixar arquivos de áudio para os alarmes inteligentes HyperOS. ~20MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
-    <string name="module_download_data_msg_replace">Arquivos de áudio atualizados para os alarmes inteligentes HyperOS estão disponíveis. ~20MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
-    <string name="module_download_data_msg_timer">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ~20MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
+    <string name="module_download_data_msg">Para disponibilizar os alarmes inteligentes do HyperOS, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contém recursos de áudio que permitem incluir informações de clima atual nos alarmes. Cerca de 20 MB dos seus dados móveis serão usados neste download. Baixar agora?</string>
+    <string name="module_download_data_msg_golbal">O Relógio precisa baixar arquivos de áudio para os alarmes inteligentes HyperOS. ~20 MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
+    <string name="module_download_data_msg_replace">Arquivos de áudio atualizados para os alarmes inteligentes HyperOS estão disponíveis. ~20 MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
+    <string name="module_download_data_msg_timer">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ~20 MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
     <string name="module_download_fail">Não foi possível baixar o áudio adicional</string>
     <string name="module_download_failure">Não foi possível baixar os arquivos de áudio. Verifique suas configurações de rede e tente novamente.</string>
     <string name="module_download_msg">Para disponibilizar os alarmes inteligentes do HyperOS, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contém recursos de áudio que permitem incluir informações de clima atual nos alarmes. Baixar agora?</string>
@@ -421,10 +421,10 @@ mm"</string>
     <string name="module_week_ringtone_update_success">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. Você pode criar um novo alarme para experimentar este recurso.</string>
     <string name="module_white_noise_download_data">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ≈30 MB dos seus dados móveis serão necessários. Baixar agora?</string>
     <string name="module_white_noise_download_data_new">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ≈%d MB dos seus dados móveis serão necessários. Baixar agora?</string>
-    <string name="module_white_noise_download_data_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈30 MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando dados móveis nesse momento. Aceitar?</Data></string>
-    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Você está usando dados móveis nesse momento. Aceitar?</Data></string>
+    <string name="module_white_noise_download_data_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈30 MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando dados móveis nesse momento. Aceitar?</Data></string>
+    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Você está usando dados móveis nesse momento. Aceitar?</Data></string>
     <string name="module_white_noise_download_wifi">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. Baixar agora?</string>
-    <string name="module_white_noise_download_wifi_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="module_white_noise_download_wifi_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -522,7 +522,7 @@ mm"</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hora de antecedência</string>
     <string name="notification_adv_time_entries5">Nenhum</string>
     <string name="notification_permission_desc">"Caso não conceda as permissões de notificação, não poderá desativar os alarmes quando eles tocarem. Conceder permissão agora?"</string>
-    <string name="notification_permission_dialog_content">Permitir que este app envie notificações para receber notificações de alarme. Você pode conceder essa permissão em Configurações.</string>
+    <string name="notification_permission_dialog_content">Permitir que este app envie notificações para receber notificações de alarme. Você pode conceder essa permissão nas Configurações.</string>
     <string name="notification_permission_dialog_not_open">Agora não</string>
     <string name="notification_permission_dialog_open">Configurações</string>
     <string name="notification_permission_dialog_title">Permissões necessárias</string>
@@ -596,18 +596,18 @@ mm"</string>
     <string name="show_life_post_desc">"Os relatórios matinais não serão exibidos caso desative esse recurso"</string>
     <string name="show_life_post_lable">Exibir relatório matinal</string>
     <string name="shut_down_keep_screen">A tela não será mantida ligada</string>
-    <string name="shutdown_alarm_alert_enable_summary">O alarme com o telefone desligado tocará a pelo menos 10 minutos depois que você desligar seu dispositivo</string>
+    <string name="shutdown_alarm_alert_enable_summary">O alarme com o dispositivo desligado tocará a pelo menos 10 minutos depois que você desligar seu dispositivo</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Os alarmes definidos, irão tocar quando o seu dispositivo estiver desligado. Note que apenas alarmes definidos por pelo menos %d minutos após você desligar o dispositivo, irão tocar.</string>
-    <string name="shutdown_alarm_alert_title">Alarme com o telefone desligado</string>
+    <string name="shutdown_alarm_alert_title">Alarme com o dispositivo desligado</string>
     <string name="shutdown_alarm_disable_summary">O alarme não tocará após você desligar o dispositivo</string>
     <string name="shutdown_alarm_enable_summary">O alarme tocará se for definido para pelo menos 10 minutos após você desligar seu dispositivo</string>
-    <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
+    <string name="shutdown_alarm_title">Alarme com o telefone desligado</string>
     <string name="silent_alarm_summary">Silencioso</string>
     <string name="skip_alarm_once_hint">Desativar apenas em: %s</string>
     <string name="sleep_analysis">Estatísticas</string>
     <string name="sleep_analysis_chart_date_format">"dd/MM"</string>
     <string name="sleep_date_provider_text">Os dados do sono são fornecidos pelo Mi Saúde</string>
-    <string name="sleep_date_provider_text_new">Os dados do sono são fornecidos pela Mi Fitness</string>
+    <string name="sleep_date_provider_text_new">Os dados do sono são fornecidos pelo Mi Fitness</string>
     <string name="sleep_duration">"Duração do sono: "</string>
     <string name="sleep_duration_avg_text_diff">Duração média do sono (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Dormiu por %1$s %2$s</string>
@@ -621,8 +621,8 @@ mm"</string>
     <string name="sleep_notification_title">Hora de ir para a cama</string>
     <string name="sleep_record">Analise o sono</string>
     <string name="sleep_record_desc">Ative para começar a registrar seus dados de sono</string>
-    <string name="sleep_record_desc_detailed">O recurso de análise de sono é fornecido pelo Mi Saúde. Uma vez ativado, o Mi Saúde registrará automaticamente o seu sono com base no seu uso do telefone, estatísticas de atividades e horários de dormir e acordar que você definiu, mostrando suas estatísticas na forma de gráficos. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente. Todos os dados relacionados serão armazenados localmente no seu dispositivo, o que permite que você os gerencie com facilidade.</string>
-    <string name="sleep_record_desc_detailed_new">A análise do sono é fornecido pelo recurso Sono do Mi Fitness. Se você ativar esse recurso, o Mi Fitness coletará e exibirá automaticamente os dados do seu sono com base no uso do telefone, na atividade e na hora de dormir e acordar que você definiu. Para analisar o sono com mais precisão, permita que o Mi Fitness inicie automaticamente.</string>
+    <string name="sleep_record_desc_detailed">O recurso de análise de sono é fornecido pelo Mi Saúde. Uma vez ativado, o Mi Saúde registrará automaticamente o seu sono com base no seu uso do dispositivo, estatísticas de atividades e horários de dormir e acordar que você definiu, mostrando suas estatísticas na forma de gráficos. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente. Todos os dados relacionados serão armazenados localmente no seu dispositivo, o que permite que você os gerencie com facilidade.</string>
+    <string name="sleep_record_desc_detailed_new">A análise do sono é fornecido pelo recurso Sono do Mi Fitness. Se você ativar esse recurso, o Mi Fitness coletará e exibirá automaticamente os dados do seu sono com base no uso do dispositivo, na atividade e na hora de dormir e acordar que você definiu. Para analisar o sono com mais precisão, permita que o Mi Fitness inicie automaticamente.</string>
     <string name="sleep_record_no_data">As suas estatísticas aparecerão aqui após o Mi Saúde analisar dados suficientes</string>
     <string name="sleep_remind">Lembrete para dormir</string>
     <string name="sleep_time">Dormiu</string>
@@ -648,7 +648,7 @@ mm"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="system_permission_agree_desc">Permita que este app conecte-se à Internet para acessar todos os seus recursos.</string>
+    <string name="system_permission_agree_desc">Permita que este app conecte-se à internet para acessar todos os seus recursos.</string>
     <string name="system_permission_main_purpose">Ver a hora, definir alarmes e temporizadores, e usar o cronômetro</string>
     <string name="system_permission_purpose">Criar alarmes em dias úteis e definir toques personalizados</string>
     <string name="system_time_setting">Configurações</string>
@@ -770,8 +770,8 @@ mm"</string>
     <string name="upcoming_alarm">Próximo alarme: %s</string>
     <string name="upcoming_alarm_hint">Pode desativá-lo com antecedência</string>
     <string name="upcoming_alarm_new">Próximo alarme: %s</string>
-    <string name="update_health_app">Atualizar Mi Saúde</string>
-    <string name="update_health_app_desc">O recurso de análise de sono é fornecido pelo Xiaomi Saúde. Atualize o Xiaomi Saúde para sua versão mais recente para poder acessar os recursos relacionados.</string>
+    <string name="update_health_app">Atualizar Mi Fitness</string>
+    <string name="update_health_app_desc">O recurso de análise de sono é fornecido pelo Mi Fitness. Atualize o Mi Fitness para sua versão mais recente para poder acessar os recursos relacionados.</string>
     <string name="update_health_app_desc_new">O recurso de análise do sono é fornecido pelo Mi Fitness. Atualize o Mi Fitness para sua versão mais recente para acessar os recursos relacionados.</string>
     <string name="update_health_app_new">Atualizar Mi Fitness</string>
     <string name="update_it">Atualizar</string>

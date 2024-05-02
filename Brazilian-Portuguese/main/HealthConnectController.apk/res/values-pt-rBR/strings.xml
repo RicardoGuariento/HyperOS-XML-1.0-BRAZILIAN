@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -33,9 +33,9 @@
     <string name="action_drag_label_move_top">Mover para o topo</string>
     <string name="action_drag_label_move_up">Mover para cima</string>
     <string name="active_calories_burned_label">Calorias ativas queimadas</string>
-    <string name="active_calories_burned_read_content_description">Ler dados de calorias ativas queimadas</string>
+    <string name="active_calories_burned_read_content_description">Leia dados de calorias ativas queimadas</string>
     <string name="active_calories_burned_uppercase_label">Calorias ativas queimadas</string>
-    <string name="active_calories_burned_write_content_description">Gravar dados de calorias ativas queimadas</string>
+    <string name="active_calories_burned_write_content_description">Grave dados de calorias ativas queimadas</string>
     <string name="activity_category_lowercase">Atividade</string>
     <string name="activity_category_uppercase">Atividade</string>
     <string name="activity_type_australian_football">Futebol australiano</string>
@@ -53,7 +53,7 @@
     <string name="app_update_needed_seen">Atualização do app</string>
     <string name="arm_curl">Flexão de braço</string>
     <string name="auto_delete_button">Exclusão automática</string>
-    <string name="auto_delete_header">Controle por quanto tempo seus dados são armazenados no app Conexão e Saúde programando a exclusão deles depois de um período específico</string>
+    <string name="auto_delete_header">Controle por quanto tempo seus dados são armazenados no app Conexão e saúde programando a exclusão deles depois de um período específico</string>
     <string name="auto_delete_learn_more">Saiba mais sobre a Exclusão automática</string>
     <string name="auto_delete_rationale">Quando você muda essas configurações, o app Conexão e saúde exclui os dados para refletir suas novas preferências</string>
     <string name="auto_delete_section">Exclusão automática de dados</string>
@@ -64,13 +64,13 @@
     <string name="ball_slam">Lançamento de bola \"slam ball\"</string>
     <string name="barbell_shoulder_press">Desenvolvimento de ombros com barra</string>
     <string name="basal_body_temperature_lowercase_label">Temperatura corporal basal</string>
-    <string name="basal_body_temperature_read_content_description">Ler dados de temperatura corporal basal</string>
+    <string name="basal_body_temperature_read_content_description">Leia dados de temperatura corporal basal</string>
     <string name="basal_body_temperature_uppercase_label">Temperatura corporal basal</string>
-    <string name="basal_body_temperature_write_content_description">Gravar dados de temperatura corporal basal</string>
+    <string name="basal_body_temperature_write_content_description">Grave dados de temperatura corporal basal</string>
     <string name="basal_metabolic_rate_lowercase_label">Taxa metabólica basal</string>
-    <string name="basal_metabolic_rate_read_content_description">Ler dados de taxa metabólica basal</string>
+    <string name="basal_metabolic_rate_read_content_description">Leia dados de taxa metabólica basal</string>
     <string name="basal_metabolic_rate_uppercase_label">Taxa metabólica basal</string>
-    <string name="basal_metabolic_rate_write_content_description">Gravar dados de taxa metabólica basal</string>
+    <string name="basal_metabolic_rate_write_content_description">Grave dados de taxa metabólica basal</string>
     <string name="baseball">Beisebol</string>
     <string name="basketball">Basquete</string>
     <string name="bench_press">Supino</string>
@@ -83,23 +83,23 @@
     <string name="blood_glucose_fasting">Em jejum</string>
     <string name="blood_glucose_general">Geral</string>
     <string name="blood_glucose_label">Glicemia</string>
-    <string name="blood_glucose_read_content_description">Ler dados de glicemia</string>
+    <string name="blood_glucose_read_content_description">Leia dados de glicemia</string>
     <string name="blood_glucose_uppercase_label">Glicemia</string>
-    <string name="blood_glucose_write_content_description">Gravar dados de glicemia</string>
+    <string name="blood_glucose_write_content_description">Grave dados de glicemia</string>
     <string name="blood_pressure">%1$s/%2$s mmHg</string>
     <string name="blood_pressure_left_arm">Antebraço esquerdo</string>
     <string name="blood_pressure_left_wrist">Pulso esquerdo</string>
     <string name="blood_pressure_long">%1$s/%2$s milímetros de mercúrio</string>
     <string name="blood_pressure_lowercase_label">Pressão arterial</string>
-    <string name="blood_pressure_read_content_description">Ler dados de pressão arterial</string>
+    <string name="blood_pressure_read_content_description">Leia dados de pressão arterial</string>
     <string name="blood_pressure_right_arm">Antebraço direito</string>
     <string name="blood_pressure_right_wrist">Pulso direito</string>
-    <string name="blood_pressure_uppercase_label">Blood pressure</string>
-    <string name="blood_pressure_write_content_description">Gravar dados de pressão arterial</string>
+    <string name="blood_pressure_uppercase_label">Pressão arterial</string>
+    <string name="blood_pressure_write_content_description">Grave dados de pressão arterial</string>
     <string name="body_fat_label">Gordura corporal</string>
-    <string name="body_fat_read_content_description">Ler dados de gordura corporal</string>
+    <string name="body_fat_read_content_description">Leia dados de gordura corporal</string>
     <string name="body_fat_uppercase_label">Gordura corporal</string>
-    <string name="body_fat_write_content_description">Gravar dados de gordura corporal</string>
+    <string name="body_fat_write_content_description">Grave dados de gordura corporal</string>
     <string name="body_measurements_category_lowercase">Medidas corporais</string>
     <string name="body_measurements_category_uppercase">Medidas corporais</string>
     <string name="body_position_lying_down">Deitado</string>
@@ -107,17 +107,17 @@
     <string name="body_position_sitting_down">Sentado</string>
     <string name="body_position_standing_up">Em pé</string>
     <string name="body_temperature_label">Temperatura corporal</string>
-    <string name="body_temperature_read_content_description">Ler dados de temperatura corporal</string>
+    <string name="body_temperature_read_content_description">Leia dados de temperatura corporal</string>
     <string name="body_temperature_uppercase_label">Temperatura corporal</string>
-    <string name="body_temperature_write_content_description">Gravar dados de temperatura corporal</string>
+    <string name="body_temperature_write_content_description">Grave dados de temperatura corporal</string>
     <string name="body_water_mass_lowercase_label">Água corporal</string>
-    <string name="body_water_mass_read_content_description">Ler dados de massa de água corporal</string>
+    <string name="body_water_mass_read_content_description">Leia dados de massa de água corporal</string>
     <string name="body_water_mass_uppercase_label">Água corporal</string>
-    <string name="body_water_mass_write_content_description">Gravar dados de massa de água corporal</string>
+    <string name="body_water_mass_write_content_description">Grave dados de massa de água corporal</string>
     <string name="bone_mass_label">Massa óssea</string>
-    <string name="bone_mass_read_content_description">Ler dados de massa óssea</string>
+    <string name="bone_mass_read_content_description">Leia dados de massa óssea</string>
     <string name="bone_mass_uppercase_label">Massa óssea</string>
-    <string name="bone_mass_write_content_description">Gravar dados de massa óssea</string>
+    <string name="bone_mass_write_content_description">Grave dados de massa óssea</string>
     <string name="boot_camp">Treinamento militar</string>
     <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
     <string name="bottomsheet_action_expand">Expandir a página inferior</string>
@@ -141,11 +141,11 @@
     <string name="calories_long">{count, plural, =1 {1 caloria} other {# calorias}}</string>
     <string name="can_read">Podem ler este dado: %s</string>
     <string name="can_write">Podem gravar este dado: %s</string>
-    <string name="cant_see_all_your_apps_description">"Se você não consegue ver um app instalado, talvez ele ainda não seja compatível com o Conexão e saúde"</string>
+    <string name="cant_see_all_your_apps_description">"Se você não consegue ver um app instalado, talvez ele ainda não seja compatível com o Conexão e saúde."</string>
     <string name="cervical_mucus_lowercase_label">Muco cervical</string>
-    <string name="cervical_mucus_read_content_description">Ler dados de muco cervical</string>
+    <string name="cervical_mucus_read_content_description">Leia dados de muco cervical</string>
     <string name="cervical_mucus_uppercase_label">Muco cervical</string>
-    <string name="cervical_mucus_write_content_description">Gravar dados de muco cervical</string>
+    <string name="cervical_mucus_write_content_description">Grave dados de muco cervical</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de %2$d caracteres excedido em %1$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -201,9 +201,9 @@
     <string name="cycling_rpm">{count, plural, =1 {1 rpm} other {# rpm}}</string>
     <string name="cycling_rpm_long">{count, plural, =1 {1 rotação por minuto} other {# rotações por minuto}}</string>
     <string name="dancing">Dança</string>
-    <string name="data_access_empty_message">Os apps não podem mais ler ou gravar dados de %1$s, e não há dados de %2$s armazenados na plataforma Conexão e saúde</string>
-    <string name="data_access_exercise_description">Esses dados incluem informações como tempo de atividade, tipo de exercício, voltas, repetições, sessões ou braçadas de natação</string>
-    <string name="data_access_sleep_description">Esses dados incluem informações como Estágios e sessões de sono</string>
+    <string name="data_access_empty_message">Os apps não podem mais ler ou gravar dados de %1$s, e não há dados de %2$s armazenados na plataforma Conexão e saúde.</string>
+    <string name="data_access_exercise_description">Esses dados incluem informações como tempo de atividade, tipo de exercício, voltas, repetições, sessões ou braçadas de natação.</string>
+    <string name="data_access_sleep_description">Esses dados incluem informações como estágios e sessões de sono</string>
     <string name="data_entry_header">%1$s • %2$s</string>
     <string name="data_point_action_content_description">Excluir entrada de dados</string>
     <string name="data_title">Dados e acesso</string>
@@ -253,12 +253,12 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="distance_lowercase_label">Distância</string>
     <string name="distance_miles">{dist, plural, =1 {1 milha} other {# milhas}}</string>
     <string name="distance_miles_long">{dist, plural, =1 {1 milha} other {# milhas}}</string>
-    <string name="distance_read_content_description">Ler dados de distância</string>
+    <string name="distance_read_content_description">Leia dados de distância</string>
     <string name="distance_unit_kilometers_label">Quilômetros</string>
     <string name="distance_unit_miles_label">Milhas</string>
     <string name="distance_unit_title">Distância</string>
     <string name="distance_uppercase_label">Distância</string>
-    <string name="distance_write_content_description">Gravar dados de distância</string>
+    <string name="distance_write_content_description">Grave dados de distância</string>
     <string name="double_arm_triceps_extension">Extensão de tríceps bilateral</string>
     <string name="dumbbell_curl_left_arm">Rosca de braço esquerdo com halter</string>
     <string name="dumbbell_curl_right_arm">Rosca de braço direito com halter</string>
@@ -269,9 +269,9 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="dumbbell_triceps_extension_right_arm">Extensão do tríceps direito com halter</string>
     <string name="dumbbell_triceps_extension_two_arm">Extensão dos tríceps com halter</string>
     <string name="elevation_gained_lowercase_label">Ganho de elevação</string>
-    <string name="elevation_gained_read_content_description">Ler dados de ganho de elevação</string>
+    <string name="elevation_gained_read_content_description">Leia dados de ganho de elevação</string>
     <string name="elevation_gained_uppercase_label">Ganho de elevação</string>
-    <string name="elevation_gained_write_content_description">Gravar dados de ganho de elevação</string>
+    <string name="elevation_gained_write_content_description">Grave dados de ganho de elevação</string>
     <string name="elevation_meters">{count, plural, =1 {1 m} other {# m}}</string>
     <string name="elevation_meters_long">{count, plural, =1 {1 metro} other {# metros}}</string>
     <string name="elliptical">Elíptico</string>
@@ -286,23 +286,23 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="exercise_class">Aula de ginástica</string>
     <string name="exercise_laps_header">Voltas</string>
     <string name="exercise_lowercase_label">Exercício</string>
-    <string name="exercise_read_content_description">Ler dados de exercício</string>
+    <string name="exercise_read_content_description">Leia dados de exercício</string>
     <string name="exercise_route_lowercase_label">Trajeto do exercício</string>
-    <string name="exercise_route_read_content_description">Ler trajeto do exercício</string>
+    <string name="exercise_route_read_content_description">Leia trajeto do exercício</string>
     <string name="exercise_route_uppercase_label">Trajeto do exercício</string>
-    <string name="exercise_route_write_content_description">Gravar trajeto do exercício</string>
+    <string name="exercise_route_write_content_description">Grave trajeto do exercício</string>
     <string name="exercise_segments_header">Segmentos de exercício</string>
     <string name="exercise_uppercase_label">Exercício</string>
-    <string name="exercise_write_content_description">Gravar dados de exercício</string>
+    <string name="exercise_write_content_description">Grave dados de exercício</string>
     <string name="expand_button_title">Avançado</string>
     <string name="export_data_button">Exportar dados</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="fencing">Esgrima</string>
     <string name="floors_climbed">{count, plural, =1 {1 andar} other {# andares}}</string>
     <string name="floors_climbed_lowercase_label">Andares subidos</string>
-    <string name="floors_climbed_read_content_description">Ler dados de andares subidos</string>
+    <string name="floors_climbed_read_content_description">Leia dados de andares subidos</string>
     <string name="floors_climbed_uppercase_label">Andares subidos</string>
-    <string name="floors_climbed_write_content_description">Gravar dados de andares subidos</string>
+    <string name="floors_climbed_write_content_description">Grave dados de andares subidos</string>
     <string name="flow_heavy">Fluxo intenso</string>
     <string name="flow_light">Fluxo leve</string>
     <string name="flow_medium">Fluxo moderado</string>
@@ -321,7 +321,7 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="guided_breathing">Respiração guiada</string>
     <string name="gymnastics">Ginástica</string>
     <string name="handball">Handebol</string>
-    <string name="health_connect_summary">Gerenciar o acesso de apps a dados de saúde</string>
+    <string name="health_connect_summary">Gerencie o acesso de apps a dados de saúde</string>
     <string name="health_permission_header_description">Apps com esta permissão podem ler e gravar seus dados de saúde e condicionamento físico.</string>
     <string name="heart_rate_long_value">{count, plural, =1 {1 batida por minuto} other {# batidas por minuto}}</string>
     <string name="heart_rate_lowercase_label">Frequência cardíaca</string>
@@ -330,9 +330,9 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="heart_rate_uppercase_label">Frequência cardíaca</string>
     <string name="heart_rate_value">{count, plural, =1 {1 bpm} other {# bpm}}</string>
     <string name="heart_rate_variability_lowercase_label">Variabilidade da frequência cardíaca (índice diferencial)</string>
-    <string name="heart_rate_variability_read_content_description">Ler dados de variabilidade da frequência cardíaca</string>
+    <string name="heart_rate_variability_read_content_description">Leia dados de variabilidade da frequência cardíaca</string>
     <string name="heart_rate_variability_uppercase_label">Variabilidade da frequência cardíaca (índice diferencial)</string>
-    <string name="heart_rate_variability_write_content_description">Gravar dados deLer variabilidade da frequência cardíaca</string>
+    <string name="heart_rate_variability_write_content_description">Grave dados deLer variabilidade da frequência cardíaca</string>
     <string name="heart_rate_write_content_description">Gravador dados da frequência cardíaca</string>
     <string name="height_cm">{height, plural, =1 {1 cm} other {# cm}}</string>
     <string name="height_cm_long">{height, plural, =1 {1 centímetro} other {# centímetros}}</string>
@@ -341,44 +341,44 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="height_in_compacted">{height, plural, =1 {1″} other {#″}}</string>
     <string name="height_in_long">{height, plural, =1 {1 polegada} other {# polegadas}}</string>
     <string name="height_lowercase_label">Altura</string>
-    <string name="height_read_content_description">Ler dados de altura</string>
+    <string name="height_read_content_description">Leia dados de altura</string>
     <string name="height_unit_centimeters_label">Centímetros</string>
     <string name="height_unit_feet_label">Pés e polegadas</string>
     <string name="height_unit_title">Altura</string>
     <string name="height_uppercase_label">Altura</string>
-    <string name="height_write_content_description">Gravar dados de altura</string>
+    <string name="height_write_content_description">Grave dados de altura</string>
     <string name="help">Ajuda</string>
     <string name="help_and_feedback">Ajuda e feedback</string>
     <string name="help_feedback_label">Ajuda e feedback</string>
     <string name="high_intensity_interval_training">Intervalado de treinamento de alta intensidade</string>
     <string name="hiking">Trilha</string>
     <string name="hip_circumference_lowercase_label">Circunferência do quadril</string>
-    <string name="hip_circumference_read_content_description">Ler dados de circunferência do quadril</string>
+    <string name="hip_circumference_read_content_description">Leia dados de circunferência do quadril</string>
     <string name="hip_circumference_uppercase_label">Circunferência do quadril</string>
-    <string name="hip_circumference_write_content_description">Gravar dados de circunferência do quadril</string>
+    <string name="hip_circumference_write_content_description">Grave dados de circunferência do quadril</string>
     <string name="hip_thrust">Elevação pélvica</string>
-    <string name="home_subtitle">Gerencie os dados de saúde e condicionamento físico no seu smartphone e controle quais apps podem ter acesso a eles</string>
+    <string name="home_subtitle">Gerencie os dados de saúde e condicionamento físico no seu dispositivo e controle quais apps podem ter acesso a eles</string>
     <string name="hour_duration">%1$sh</string>
     <string name="hour_duration_accessibility">{count, plural, =1 {1 hora} other {# horas}}</string>
     <string name="hour_minute_duration_accessibility">%1$s %2$s</string>
     <string name="hour_minute_duration_short">%1$sh %2$s min</string>
     <string name="hula_hoop">Bambolê</string>
     <string name="hydration_lowercase_label">Hidratação</string>
-    <string name="hydration_read_content_description">Ler dados de hidratação</string>
+    <string name="hydration_read_content_description">Leia dados de hidratação</string>
     <string name="hydration_uppercase_label">Hidratação</string>
-    <string name="hydration_write_content_description">Gravar dados de hidratação</string>
+    <string name="hydration_write_content_description">Grave dados de hidratação</string>
     <string name="ice_hockey">Hóquei no gelo</string>
     <string name="ice_skating">Patinação no gelo</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
     <string name="inactive_apps">Apps inativos</string>
-    <string name="inactive_apps_message">Esses apps não podem mais gravar %s, mas ainda têm dados armazenados no Conexão e saúde</string>
+    <string name="inactive_apps_message">Esses apps não podem mais gravar %s, mas ainda têm dados armazenados no Conexão e saúde.</string>
     <string name="inactive_apps_section_message">Estes apps não têm mais acesso, mas ainda possuem dados armazenados na plataforma Conexão e saúde</string>
     <string name="inactive_apps_section_title">Apps inativos</string>
     <string name="install_type_instant">App instantâneo</string>
     <string name="intermenstrual_bleeding_lowercase_label">Sangramento intermenstrual</string>
-    <string name="intermenstrual_bleeding_read_content_description">Ler dados de sangramento intermenstrual</string>
+    <string name="intermenstrual_bleeding_read_content_description">Leia dados de sangramento intermenstrual</string>
     <string name="intermenstrual_bleeding_uppercase_label">Sangramento intermenstrual</string>
-    <string name="intermenstrual_bleeding_write_content_description">Gravar dados de sangramento intermenstrual</string>
+    <string name="intermenstrual_bleeding_write_content_description">Grave dados de sangramento intermenstrual</string>
     <string name="iodine">Iodo</string>
     <string name="iron">Ferro</string>
     <string name="item_view_role_description">Guia</string>
@@ -392,9 +392,9 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="lat_pull_down">Puxada por trás</string>
     <string name="lateral_raise">Elevação lateral</string>
     <string name="lean_body_mass_lowercase_label">Massa corporal magra</string>
-    <string name="lean_body_mass_read_content_description">Ler dados de massa corporal magra</string>
+    <string name="lean_body_mass_read_content_description">Leia dados de massa corporal magra</string>
     <string name="lean_body_mass_uppercase_label">Massa corporal magra</string>
-    <string name="lean_body_mass_write_content_description">Gravar dados de massa corporal magra</string>
+    <string name="lean_body_mass_write_content_description">Grave dados de massa corporal magra</string>
     <string name="leg_curl">Flexão de perna</string>
     <string name="leg_extension">Extensão de perna</string>
     <string name="leg_press">Leg press</string>
@@ -407,7 +407,7 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="manage_data_section">Gerenciar dados</string>
     <string name="manage_permissions">Gerenciar permissões</string>
     <string name="manage_permissions_learn_more">Leia a Política de Privacidade</string>
-    <string name="manage_permissions_manage_app_header">Gerenciar o app</string>
+    <string name="manage_permissions_manage_app_header">Gerenciar app</string>
     <string name="manage_permissions_rationale">Os dados compartilhados com o app %1$s estão cobertos pela Política de Privacidade do app.</string>
     <string name="manage_permissions_read_header">Com permissão de leitura</string>
     <string name="manage_permissions_time_frame">O app %1$s pode ler dados adicionados após %2$s</string>
@@ -439,60 +439,60 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="mealtype_unknown">Desconhecido</string>
     <string name="meditation">Meditação</string>
     <string name="menstruation_lowercase_label">Menstruação</string>
-    <string name="menstruation_read_content_description">Ler dados de menstruação</string>
+    <string name="menstruation_read_content_description">Leia dados de menstruação</string>
     <string name="menstruation_uppercase_label">Menstruação</string>
-    <string name="menstruation_write_content_description">Gravar dados de menstruação</string>
+    <string name="menstruation_write_content_description">Grave dados de menstruação</string>
     <string name="migration_app_update_needed_action">Antes de continuar, atualize o app Conexão e saúde para a versão mais recente.</string>
     <string name="migration_app_update_needed_notification_title">Atualização de conexão e saúde necessária</string>
     <string name="migration_complete_notification_action">Abrir</string>
-    <string name="migration_complete_notification_title">Integração do Conexão e Saúde completa</string>
+    <string name="migration_complete_notification_title">Integração do Conexão e saúde completa</string>
     <string name="migration_in_progress_notification_title">Integração do Conexão e saúde em andamento</string>
     <string name="migration_in_progress_permissions_dialog_button_got_it">Entendi</string>
-    <string name="migration_in_progress_permissions_dialog_content">"Conexão e saúde está sendo integrado ao sistema Android.
+    <string name="migration_in_progress_permissions_dialog_content">"O Conexão e saúde está sendo integrada ao sistema Android.
 
 Você receberá uma notificação quando o processo for concluído e poderá usar %1$s com o Conexão e saúde."</string>
-    <string name="migration_in_progress_permissions_dialog_content_apps">"O Conexão e saúde está sendo integrado ao sistema Android.
+    <string name="migration_in_progress_permissions_dialog_content_apps">"O Conexão e saúde está sendo integrada ao sistema Android.
 
 Você receberá uma notificação quando o processo for concluído e puder usar o Conexão e saúde."</string>
     <string name="migration_in_progress_permissions_dialog_title">Integração do Conexão e saúde em andamento</string>
-    <string name="migration_in_progress_screen_integration_details">"Conexão e saúde está sendo integrado ao sistema Android.
+    <string name="migration_in_progress_screen_integration_details">"Conexão e saúde está sendo integrada ao sistema Android.
 
 Pode levar algum tempo enquanto seus dados e permissões estão sendo transferidos."</string>
     <string name="migration_in_progress_screen_integration_dont_close">"Não feche o app até receber uma notificação de que o processo foi concluído."</string>
     <string name="migration_in_progress_screen_title">Integração em andamento</string>
-    <string name="migration_module_update_needed_action">Antes de continuar, atualize seu sistema do dispositivo.</string>
+    <string name="migration_module_update_needed_action">Antes de continuar, atualize seu sistema.</string>
     <string name="migration_module_update_needed_notification_title">Atualização do sistema necessária</string>
-    <string name="migration_module_update_needed_restart">"Se você já atualizou seu sistema do dispositivo, tente reiniciar seu dispositivo para continuar a integração"</string>
+    <string name="migration_module_update_needed_restart">"Se você já atualizou seu sistema, tente reiniciar seu dispositivo para continuar a integração."</string>
     <string name="migration_more_space_needed_notification_content">Conexão e saúde precisa de %1$s de espaço de armazenamento no seu dispositivo para continuar a integração.</string>
     <string name="migration_more_space_needed_notification_title">Mais espaço necessário</string>
     <string name="migration_more_space_needed_screen_details">"Conexão e saúde precisa de %1$s de espaço de armazenamento no seu dispositivo para que a integração continue.
 
-Libere espaço no seu dispositivo e tente novamente."</string>
+Libere espaço em seu dispositivo e tente novamente."</string>
     <string name="migration_more_space_needed_screen_title">Mais espaço necessário</string>
     <string name="migration_not_complete_dialog_button">Entendi</string>
     <string name="migration_not_complete_dialog_content">"Você receberá uma notificação quando ele estiver disponível novamente."</string>
-    <string name="migration_not_complete_dialog_seen">Migração não concluída</string>
-    <string name="migration_not_complete_dialog_title">"A integração do Conexão e saúde não foi concluída"</string>
-    <string name="migration_not_complete_notification_action">Consulte mais informações</string>
+    <string name="migration_not_complete_dialog_seen">Migração não concluída vista</string>
+    <string name="migration_not_complete_dialog_title">"Integração do Conexão e saúde não foi concluída"</string>
+    <string name="migration_not_complete_notification_action">Saiba mais</string>
     <string name="migration_not_complete_notification_title">"A integração do Conexão e saúde não foi concluída"</string>
-    <string name="migration_paused_notification_content">O Conexão e saúde está sendo integrado ao sistema Android. Toque para continuar</string>
+    <string name="migration_paused_notification_content">O Conexão e saúde está sendo integrado ao sistema Android. Clique para continuar.</string>
     <string name="migration_paused_notification_title">Integração pausada</string>
     <string name="migration_paused_screen_details">"O app Conexão e saúde fechou enquanto estava sendo integrado ao sistema Android.
 
-Clique em retomar para reabrir o app e continuar transferindo seus dados e permissões."</string>
-    <string name="migration_paused_screen_details_timeout">Para manter seus dados do Conexão e saúde, complete isso em %1$s</string>
+Clique em "Retomar" para reabrir o app e continuar transferindo seus dados e permissões."</string>
+    <string name="migration_paused_screen_details_timeout">Para manter seus dados do Conexão e saúde, complete isso em %1$s.</string>
     <string name="migration_paused_screen_title">Integração pausada</string>
     <string name="migration_pending_permissions_dialog_button_continue">Continuar</string>
     <string name="migration_pending_permissions_dialog_button_start_integration">Iniciar integração</string>
     <string name="migration_pending_permissions_dialog_content">O Conexão e saúde está pronto para ser integrado ao seu sistema Android. Se você conceder acesso a %1$s agora, alguns recursos poderão não funcionar até que a integração seja concluída.</string>
     <string name="migration_pending_permissions_dialog_content_apps">O Conexão e saúde está pronto para ser integrado ao seu sistema Android. Se você conceder acesso aos apps agora, alguns recursos poderão não funcionar até que a integração seja concluída.</string>
-    <string name="migration_pending_permissions_dialog_title">Integração com o Conexão e saúde</string>
+    <string name="migration_pending_permissions_dialog_title">Integração do Conexão e saúde</string>
     <string name="migration_update_needed_notification_action">Atualizar agora</string>
-    <string name="migration_update_needed_notification_content">Inicie esta atualização para que o Conexão e saúde possa continuar integrando com as configurações do seu sistema</string>
-    <string name="migration_update_needed_screen_details">Conexão e saúde está sendo integrado ao sistema Android para que você possa acessá-lo diretamente nas suas configurações.</string>
+    <string name="migration_update_needed_notification_content">Inicie esta atualização para que o Conexão e saúde possa continuar integrando com as Configurações do seu sistema</string>
+    <string name="migration_update_needed_screen_details">O Conexão e saúde está sendo integrado ao sistema Android para que você possa acessá-lo diretamente nas Configurações.</string>
     <string name="migration_update_needed_screen_title">Atualização necessária</string>
     <string name="migration_whats_new_dialog_button">Entendi</string>
-    <string name="migration_whats_new_dialog_content">Agora você pode acessar o Conexão e saúde diretamente nas suas configurações. Desinstale o app Conexão e saúde a qualquer momento.</string>
+    <string name="migration_whats_new_dialog_content">Agora você pode acessar o Conexão e saúde diretamente nas Configurações. Desinstale o app Conexão e saúde a qualquer momento.</string>
     <string name="migration_whats_new_dialog_title">"O que há de novo"</string>
     <string name="millimoles_per_liter">{count, plural, =1 {1 mmol/L} other {# mmol/L}}</string>
     <string name="millimoles_per_liter_long">{count, plural, =1 {1 milimole por litro} other {# milimoles por litro}}</string>
@@ -565,10 +565,10 @@ Clique em retomar para reabrir o app e continuar transferindo seus dados e permi
     <string name="nutrition_category_lowercase">Nutrição</string>
     <string name="nutrition_category_uppercase">Nutrição</string>
     <string name="nutrition_lowercase_label">Nutrição</string>
-    <string name="nutrition_read_content_description">Ler dados de nutrição</string>
+    <string name="nutrition_read_content_description">Leia dados de nutrição</string>
     <string name="nutrition_uppercase_label">Nutrição</string>
-    <string name="nutrition_write_content_description">Gravar dados de nutrição</string>
-    <string name="onboarding_description">Esse app armazena seus dados de saúde e condicionamento físico, oferecendo uma maneira simples de sincronizar os diferentes apps no smartphone.</string>
+    <string name="nutrition_write_content_description">Grave dados de nutrição</string>
+    <string name="onboarding_description">Esse app armazena seus dados de saúde e condicionamento físico, oferecendo uma maneira simples de sincronizar os diferentes apps no dispositivo.</string>
     <string name="onboarding_get_started_button_text">Começar</string>
     <string name="onboarding_go_back_button_text">Voltar</string>
     <string name="onboarding_title">Começar a usar o app Conexão e saúde</string>
@@ -579,13 +579,13 @@ Clique em retomar para reabrir o app e continuar transferindo seus dados e permi
     <string name="ovulation_negative">Negativo</string>
     <string name="ovulation_positive">Positivo</string>
     <string name="ovulation_test_lowercase_label">Teste de ovulação</string>
-    <string name="ovulation_test_read_content_description">Ler dados de teste de ovulação</string>
+    <string name="ovulation_test_read_content_description">Leia dados de teste de ovulação</string>
     <string name="ovulation_test_uppercase_label">Teste de ovulação</string>
-    <string name="ovulation_test_write_content_description">Gravar dados de teste de ovulação</string>
+    <string name="ovulation_test_write_content_description">Grave dados de teste de ovulação</string>
     <string name="oxygen_saturation_lowercase_label">Saturação de oxigênio</string>
-    <string name="oxygen_saturation_read_content_description">Ler dados de saturação de oxigênio</string>
+    <string name="oxygen_saturation_read_content_description">Leia dados de saturação de oxigênio</string>
     <string name="oxygen_saturation_uppercase_label">Saturação de oxigênio</string>
-    <string name="oxygen_saturation_write_content_description">Gravar dados de saturação de oxigênio</string>
+    <string name="oxygen_saturation_write_content_description">Grave dados de saturação de oxigênio</string>
     <string name="paddling">Remo</string>
     <string name="pantothenic_acid">Ácido pantotênico</string>
     <string name="paragliding">Parapente</string>
@@ -594,8 +594,8 @@ Clique em retomar para reabrir o app e continuar transferindo seus dados e permi
     <string name="percent" formatted="false">{value, plural, =1 {1%} other {#%}}</string>
     <string name="percent_long">{value, plural, =1 {1 por cento} other {# por cento}}</string>
     <string name="period_day">Dia %1$d de %2$d do período</string>
-    <string name="permdesc_readCaloriesBurned">Permite que o app leia dados das calorias queimadas</string>
-    <string name="permgroupdesc_health">Acessar seus dados de saúde</string>
+    <string name="permdesc_readCaloriesBurned">Permite que o app leia as calorias queimadas</string>
+    <string name="permgroupdesc_health">acesse seus dados de saúde</string>
     <string name="permgrouplab_health">Conexão e saúde</string>
     <string name="permission_types_title">Seus dados</string>
     <string name="permissions_and_data_header">Permissões e dados</string>
@@ -647,7 +647,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="request_permissions_cancel">Cancelar</string>
     <string name="request_permissions_dont_allow">Não permitir</string>
     <string name="request_permissions_header_desc">Escolha dados que você quer que esse app leia ou grave no Conexão e saúde</string>
-    <string name="request_permissions_header_time_frame_desc">Se o app tiver acesso à leitura, vai poder ler novos dados e dados dos últimos 30 dias</string>
+    <string name="request_permissions_header_time_frame_desc">Se o app tiver acesso à leitura, vai poder ler novos dados e dados dos últimos 30 dias.</string>
     <string name="request_permissions_header_title">APermitir que o app %1$s acesse o Conexão e saúde?</string>
     <string name="request_permissions_privacy_policy">Política de Privacidade</string>
     <string name="request_permissions_rationale">Descubra como o %1$s processa seus dados na %2$s do desenvolvedor</string>
@@ -666,9 +666,9 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="respiratory_rate_write_content_description">Gravar ritmo respiratório</string>
     <string name="rest">Descansar</string>
     <string name="resting_heart_rate_lowercase_label">Frequência cardíaca em repouso</string>
-    <string name="resting_heart_rate_read_content_description">Ler dados de frequência cardíaca em repouso</string>
+    <string name="resting_heart_rate_read_content_description">Leia dados de frequência cardíaca em repouso</string>
     <string name="resting_heart_rate_uppercase_label">Frequência cardíaca em repouso</string>
-    <string name="resting_heart_rate_write_content_description">Gravar dados de frequência cardíaca em repouso</string>
+    <string name="resting_heart_rate_write_content_description">Grave dados de frequência cardíaca em repouso</string>
     <string name="resume_button">Retomar</string>
     <string name="resume_migration_banner_button">Continuar</string>
     <string name="resume_migration_banner_description">Toque para continuar integrando o Conexão e saúde ao sistema Android. Para manter seus dados, complete isso dentro de %1$s</string>
@@ -696,7 +696,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="search_menu_title">Pesquisar</string>
     <string name="see_all_categories">Ver todas as categorias</string>
     <string name="see_all_compatible_apps">Veja todos os apps compatíveis</string>
-    <string name="see_all_compatible_apps_description">Encontre apps na loja Google Play</string>
+    <string name="see_all_compatible_apps_description">Encontre apps na Google Play</string>
     <string name="select_all_apps_title">Todos os apps</string>
     <string name="selenium">Selênio</string>
     <string name="send_feedback">Enviar feedback</string>
@@ -708,10 +708,10 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="settingslib_learn_more_text">Saiba mais</string>
     <string name="sexual_activity_lowercase_label">Atividade sexual</string>
     <string name="sexual_activity_protected">Protegido</string>
-    <string name="sexual_activity_read_content_description">Ler dados de atividade sexual</string>
+    <string name="sexual_activity_read_content_description">Leia dados de atividade sexual</string>
     <string name="sexual_activity_unprotected">Desprotegido</string>
     <string name="sexual_activity_uppercase_label">Atividade sexual</string>
-    <string name="sexual_activity_write_content_description">Gravar dados de atividade sexual</string>
+    <string name="sexual_activity_write_content_description">Grave dados de atividade sexual</string>
     <string name="share_data">Compartilhe dados com seus apps</string>
     <string name="share_data_description">Escolha os dados que cada app pode ler ou gravar no Conexão e saúde</string>
     <string name="shoulder_press">Desenvolvimento</string>
@@ -738,7 +738,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="sleep_stage_sleeping">dormindo</string>
     <string name="sleep_stage_unknown">de estágio desconhecido</string>
     <string name="sleep_uppercase_label">Sono</string>
-    <string name="sleep_write_content_description">Gravar dados de sono</string>
+    <string name="sleep_write_content_description">Grave dados de sono</string>
     <string name="snowboarding">Snowboard</string>
     <string name="snowshoeing">Raquetes de neve</string>
     <string name="soccer">Futebol</string>
@@ -751,14 +751,14 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="specimen_source_tears">Lágrimas</string>
     <string name="specimen_source_whole_blood">Sangue total</string>
     <string name="speed_lowercase_label">Velocidade</string>
-    <string name="speed_read_content_description">Ler dados de velocidade</string>
+    <string name="speed_read_content_description">Leia dados de velocidade</string>
     <string name="speed_uppercase_label">Velocidade</string>
-    <string name="speed_write_content_description">Gravar dados de velocidade</string>
+    <string name="speed_write_content_description">Grave dados de velocidade</string>
     <string name="spotting">Escape</string>
     <string name="spotting_lowercase_label">Escape</string>
     <string name="spotting_read_content_description">Ver dados de escape</string>
     <string name="spotting_uppercase_label">Escape</string>
-    <string name="spotting_write_content_description">Gravar dados de escape</string>
+    <string name="spotting_write_content_description">Grave dados de escape</string>
     <string name="squash">Squash</string>
     <string name="squat">Agachamento</string>
     <string name="stair_climbing">Subir escadas</string>
@@ -769,7 +769,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="steps_read_content_description">Ler dados de passos</string>
     <string name="steps_uppercase_label">Etapas</string>
     <string name="steps_value">{count, plural, =1 {1 passo} other {# passos}}</string>
-    <string name="steps_write_content_description">Gravar dados de passos</string>
+    <string name="steps_write_content_description">Grave dados de passos</string>
     <string name="strength_training">Musculação</string>
     <string name="stretching">Alongamento</string>
     <string name="sugar">Açúcar</string>
@@ -809,10 +809,10 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="time_range">%1$s - %2$s</string>
     <string name="time_range_all">Excluir todos os dados</string>
     <string name="time_range_long">%1$s a %2$s</string>
-    <string name="time_range_message_all">Esta ação exclui permanentemente todos os dados adicionados ao Health Connect no período escolhido</string>
-    <string name="time_range_message_app_data">Esta ação exclui permanentemente os dados do app %s adicionados ao Health Connect no período escolhido</string>
-    <string name="time_range_message_category">Esta ação exclui permanentemente os dados de %s adicionados ao Conexão e saúde no período escolhido</string>
-    <string name="time_range_message_data_type">Esta ação exclui permanentemente os dados de %s adicionados ao Health Connect no período escolhido</string>
+    <string name="time_range_message_all">Esta ação exclui permanentemente todos os dados adicionados ao Conexão e saúde no período escolhido</string>
+    <string name="time_range_message_app_data">Esta ação exclui permanentemente os dados do %s adicionados ao Conexão e saúde no período escolhido</string>
+    <string name="time_range_message_category">Esta ação exclui permanentemente os dados de %s adicionados ao Conexão e saúde no período escolhido</string>
+    <string name="time_range_message_data_type">Esta ação exclui permanentemente os dados de %s adicionados ao Conexão e saúde no período escolhido</string>
     <string name="time_range_next_button">Próxima</string>
     <string name="time_range_one_day">Excluir últimas 24 horas</string>
     <string name="time_range_one_month">Excluir últimos 30 dias</string>
@@ -851,9 +851,9 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="vo2_heart_rate_ratio">Taxa de frequência cardíaca</string>
     <string name="vo2_max">{value, plural, =1 {1 mL/(kg·min)} other {# mL/(kg·min)}}</string>
     <string name="vo2_max_long">{value, plural, =1 {1 mililitro de oxigênio por quilograma de massa corporal por minuto} other {# mililitros de oxigênio por quilograma de massa corporal por minuto}}</string>
-    <string name="vo2_max_lowercase_label">VO₂ max</string>
+    <string name="vo2_max_lowercase_label">VO₂ máx</string>
     <string name="vo2_max_read_content_description">Ler dados de VO₂ máx.</string>
-    <string name="vo2_max_uppercase_label">VO₂ max</string>
+    <string name="vo2_max_uppercase_label">VO₂ máx</string>
     <string name="vo2_max_write_content_description">Gravar dados de VO₂ máx.</string>
     <string name="vo2_metabolic_cart">Carrinho metabólico</string>
     <string name="vo2_multistage_fitness_test">Teste de condicionamento físico em vários estágios</string>
@@ -861,29 +861,29 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="vo2_rockport_fitness_test">Teste de Rockport</string>
     <string name="volleyball">Vôlei</string>
     <string name="waist_circumference_lowercase_label">Circunferência da cintura</string>
-    <string name="waist_circumference_read_content_description">Ler dados de circunferência da cintura</string>
+    <string name="waist_circumference_read_content_description">Leia dados de circunferência da cintura</string>
     <string name="waist_circumference_uppercase_label">Circunferência da cintura</string>
-    <string name="waist_circumference_write_content_description">Gravar dados de circunferência da cintura</string>
+    <string name="waist_circumference_write_content_description">Grave dados de circunferência da cintura</string>
     <string name="walking">Caminhada</string>
     <string name="water_polo">Polo aquático</string>
     <string name="watt_format">{value, plural, =1 {1 W} other {# W}}</string>
     <string name="watt_format_long">{value, plural, =1 {1 watt} other {# watts}}</string>
     <string name="weight_lowercase_label">Peso</string>
-    <string name="weight_read_content_description">Ler dados de peso</string>
+    <string name="weight_read_content_description">Leia dados de peso</string>
     <string name="weight_unit_kilogram_label">Quilogramas</string>
     <string name="weight_unit_pound_label">
-    <string name="weight_unit_stone_label">Stones</string>
+    <string name="weight_unit_stone_label">Pedras</string>
     <string name="weight_unit_title">Peso</string>
     <string name="weight_uppercase_label">Peso</string>
-    <string name="weight_write_content_description">Gravar dados de peso</string>
+    <string name="weight_write_content_description">Grave dados de peso</string>
     <string name="weightlifting">Halterofilismo</string>
     <string name="whats_new_dialog_seen">O que há de novo</string>
     <string name="wheelchair">Cadeira de rodas</string>
     <string name="wheelchair_pushes">{count, plural, =1 {1 impulso na cadeira de rodas} other {# impulsos na cadeira de rodas}}</string>
     <string name="wheelchair_pushes_lowercase_label">Impulsos de cadeira de rodas</string>
-    <string name="wheelchair_pushes_read_content_description">Ler dados de impulsos na cadeira de rodas</string>
+    <string name="wheelchair_pushes_read_content_description">Leia dados de impulsos na cadeira de rodas</string>
     <string name="wheelchair_pushes_uppercase_label">Impulsos de cadeira de rodas</string>
-    <string name="wheelchair_pushes_write_content_description">Gravar dados de impulsos na cadeira de rodas</string>
+    <string name="wheelchair_pushes_write_content_description">Grave dados de impulsos na cadeira de rodas</string>
     <string name="workout">Treino</string>
     <string name="write_data_access_label">Gravação: %s</string>
     <string name="write_permission_category">Permitir que “%1$s” escreva</string>

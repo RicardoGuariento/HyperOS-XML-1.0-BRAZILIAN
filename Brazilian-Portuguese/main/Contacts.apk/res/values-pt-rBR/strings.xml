@@ -93,7 +93,7 @@
     <string name="bh_cancel">Cancelar</string>
     <string name="bh_cancellation_of_carrier_services">Cancelar serviços</string>
     <string name="bh_cancellation_of_carrier_services_des">Cancelar Serviços da operadora Mi</string>
-    <string name="bh_cancellation_of_carrier_services_result">"Se continuar, você cancelará o Serviços da operadora Mi. Depois disso, pararemos de coletar e usar suas informações pessoais e excluiremos seu histórico de pedidos permanentemente. Certifique-se de que todas as suas transações sejam concluídas antes de cancelar os serviços."</string>
+    <string name="bh_cancellation_of_carrier_services_result">"Se continuar, você cancelará os Serviços da operadora Mi. Depois disso, pararemos de coletar e usar suas informações pessoais e excluiremos seu histórico de pedidos permanentemente. Certifique-se de que todas as suas transações sejam concluídas antes de cancelar os serviços."</string>
     <string name="bh_cannot_action">Não é possível usar %1$s. Instale o app correspondente primeiro.</string>
     <string name="bh_cannot_fetch_num">Número de telefone desconhecido</string>
     <string name="bh_cannot_login_miacount">Não foi possível entrar com a Conta Mi</string>
@@ -131,7 +131,7 @@
     <string name="bh_express_number">Número da embalagem</string>
     <string name="bh_fetch_balance">Verificar saldo</string>
     <string name="bh_flow_exceed">Ultrapassou o limite</string>
-    <string name="bh_funtion_desc">Bem-vindo ao Serviços de operadora Mi! Você pode usar este app para verificar o saldo do seu telefone, comprar minutos de chamadas e dados móveis e muito mais.</string>
+    <string name="bh_funtion_desc">Bem-vindo aos Serviços de operadora Mi! Você pode usar este app para verificar o saldo do seu telefone, comprar minutos de chamadas e dados móveis e muito mais.</string>
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Verificado com sucesso. A informação pode ser atualizada com um atraso aqui.</string>
     <string name="bh_get_charge_phone_number">Selecionar dos contatos</string>
@@ -164,9 +164,9 @@
     <string name="bh_not_contact">"Este número não está em seus contatos"</string>
     <string name="bh_notice">Atenção!</string>
     <string name="bh_online_service">Suporte online</string>
-    <string name="bh_open_carrier_services_short">Serviços Operadora Mi</string>
-    <string name="bh_open_carrier_services_short_reason">Ative o Serviços da Operadora Mi para poder usar esse recurso.</string>
-    <string name="bh_option_agree_dec">Permita que o Serviços da Operadora Mi se conecte à Internet e conceda as permissões necessárias antes de usar o app.</string>
+    <string name="bh_open_carrier_services_short">Serviços de operadora Mi</string>
+    <string name="bh_open_carrier_services_short_reason">Ative os Serviços de operadora Mi para poder usar esse recurso.</string>
+    <string name="bh_option_agree_dec">Permita que os Serviços da Operadora Mi se conecte à internet e conceda as permissões necessárias antes de usar o app.</string>
     <string name="bh_order_detail">Detalhes do pedido</string>
     <string name="bh_order_id">ID do pedido</string>
     <string name="bh_order_loading">Só um momento…</string>
@@ -179,7 +179,7 @@
     <string name="bh_pay_fail_desc">"Não foi possível conectar à rede. Volte e conclua o pagamento novamente."</string>
     <string name="bh_pay_fee">Total</string>
     <string name="bh_pay_success_desc">Seu saldo pode ser creditado com um atraso</string>
-    <string name="bh_perm_ask_read_contacts">Permita que o Serviços da Operadora Mi acesse seus contatos primeiro.</string>
+    <string name="bh_perm_ask_read_contacts">Permita que os Serviços da Operadora Mi acesse seus contatos primeiro.</string>
     <string name="bh_perm_desc_read_contacts">Para exibir contatos durante a recarga</string>
     <string name="bh_permission_contact">Acessar contatos</string>
     <string name="bh_permission_contact_desc">Para completar o saldo de seus contatos</string>
@@ -212,11 +212,11 @@
     <string name="bh_should_login_to_buy">Faça login na Conta Mi para poder comprar minutos de chamada e dados móveis</string>
     <string name="bh_sim">"SIM %1$d"</string>
     <string name="bh_similar_number_hint">Este número é similar ao %1$s. Recarregar este número mesmo assim?</string>
-    <string name="bh_stop_carrier_services">Desativar os serviços da Operadora Mi</string>
-    <string name="bh_stop_carrier_services_short">Desativar os serviços da Operadora Mi</string>
-    <string name="bh_stop_result">"Você não poderá gerenciar seu plano de operadora ou comprar dados e minutos de chamada se desativar os Serviços da Operadora Mi. Desativar mesmo assim?"</string>
+    <string name="bh_stop_carrier_services">Desativar os Serviços de operadora Mi</string>
+    <string name="bh_stop_carrier_services_short">Desativar os Serviços de operadora Mi</string>
+    <string name="bh_stop_result">"Você não poderá gerenciar seu plano de operadora ou comprar dados e minutos de chamada se desativar os Serviços de operadora Mi. Desativar mesmo assim?"</string>
     <string name="bh_system_recommend">Recomendações do sistema</string>
-    <string name="bh_system_recommend_des">Quando as recomendações personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios de quando o recurso estava ativo, mas esses anúncios não serão tão relevantes para você</string>
+    <string name="bh_system_recommend_des">Quando as recomendações personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios de quando o recurso estava ativo, mas esses anúncios não serão tão relevantes para você.</string>
     <string name="bh_tag">*%1$s</string>
     <string name="bh_tag_phones">Números de telefones usados com frequência</string>
     <string name="bh_tags_number_exceed">Não é possível salvar mais números</string>
@@ -240,16 +240,16 @@
     <string name="bh_used_today">Usado hoje</string>
     <string name="bh_user_agreement">Contrato do Usuário</string>
     <string name="bh_vs">"Mi Roaming"</string>
-    <string name="bh_where_to_restart_carrier_services">Você pode reativar os Serviços da Operadora Mi em Contatos > Configurações.</string>
+    <string name="bh_where_to_restart_carrier_services">Você pode reativar os Serviços de operadora Mi em Contatos > Configurações.</string>
     <string name="bh_will_open">Abrindo %1$s…</string>
     <string name="bh_withdraw_permission_failure_description">Espere um momento e tente novamente.</string>
     <string name="bh_withdraw_permission_failure_title">"Não foi possível retirar o consentimento"</string>
     <string name="bh_withdraw_permission_success">Consentimento retirado com sucesso</string>
     <string name="bh_withdrawal_of_consent">Retirada de consentimento</string>
     <string name="bh_withdrawal_of_consent_and_cancellation_of_services">Retirada do consentimento e cancelamento do serviço</string>
-    <string name="bh_withdrawal_of_consent_des">Retirar consentimento para a Política de Privacidade dos Serviços da Operadora Mi</string>
+    <string name="bh_withdrawal_of_consent_des">Retirar consentimento para a Política de Privacidade dos Serviços de operadora Mi</string>
     <string name="bh_withdrawal_of_consent_long">Retirada de consentimento</string>
-    <string name="bh_withdrawal_of_consent_result">"Se continuar, você retirará seu consentimento com a Política de Privacidade dos Serviços da Operadora Mi. Depois disso, pararemos de coletar e usar suas informações pessoais e excluiremos seu histórico de pedidos permanentemente. Certifique-se de que todas as suas transações sejam concluídas antes de retirar o consentimento."</string>
+    <string name="bh_withdrawal_of_consent_result">"Se continuar, você retirará seu consentimento com a Política de Privacidade dos Serviços de operadora Mi. Depois disso, pararemos de coletar e usar suas informações pessoais e excluiremos seu histórico de pedidos permanentemente. Certifique-se de que todas as suas transações sejam concluídas antes de retirar o consentimento."</string>
     <string name="bh_wrong_number_hint">Digite um número de telefone válido</string>
     <string name="bh_yuan">CNY</string>
     <string name="bills_info_label">Detalhes</string>
@@ -278,7 +278,7 @@
     <string name="call_home">Ligar para residência</string>
     <string name="call_isdn">Ligar para ISDN</string>
     <string name="call_limit">Restrições de chamada</string>
-    <string name="call_limit_content">"Não foi possível ligar “%s”. Você só pode ligar para números de telefone que estão em sua lista de contatos aprovados."</string>
+    <string name="call_limit_content">"Não foi possível ligar "%s". Você só pode ligar para números de telefone que estão em sua lista de contatos aprovados."</string>
     <string name="call_main">Ligar para número principal</string>
     <string name="call_mms">Ligar para MMS</string>
     <string name="call_mobile">Ligar para celular</string>
@@ -369,7 +369,7 @@
     <string name="callrecordview_menu_show_called">Chamadas efetuadas</string>
     <string name="callrecordview_menu_show_missed">Chamadas perdidas</string>
     <string name="callrecordview_menu_show_sim">Chamadas do %s</string>
-    <string name="callrecordview_menu_show_stranger">Cham. de números desconhecidos</string>
+    <string name="callrecordview_menu_show_stranger">Chamadas de números desconhecidos</string>
     <string name="callrecordview_menu_xiaoaiphone">Assistente de chamada Mi AI</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">Descartar as alterações?</string>
@@ -406,7 +406,7 @@
     <string name="comma">Vírgula</string>
     <string name="composer_failed_to_get_database_infomation">Não foi possível obter as informações do banco de dados.</string>
     <string name="composer_has_no_exportable_contact">Não existem contatos exportáveis. Caso tenha contatos no seu dispositivo, alguns provedores de dados podem não permitir que os contatos sejam exportados do dispositivo.</string>
-    <string name="composer_not_initialized">O Editor de vCards não iniciou corretamente.</string>
+    <string name="composer_not_initialized">O editor de vCards não iniciou corretamente.</string>
     <string name="conference_call_disable_tip">Não é possível fazer chamadas. Certifique-se de que o dispositivo está conectado a uma rede 4G com suporte a VoLTE.</string>
     <string name="confirm_call_log_dial_summary">Uma confirmação será exigida antes da discagem do histórico de chamadas para evitar ligações acidentais.</string>
     <string name="confirm_call_log_dial_title">Confirmar ligações do histórico de chamadas</string>
@@ -478,7 +478,7 @@
     <string name="cta_content_seg1"><Data>"&lt;strong&gt;Informação importante
 Ao tocar em \"Aceitar\" abaixo, você está aceitando o &lt;font color=#33aaff&gt;&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&gt;Contrato de Serviço da Conta Mi&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&gt;Contrato do Usuário do Mi Roaming&lt;/a&gt;&lt;/font&gt;, e a &lt;font color=#33aaff&gt;&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt;. Leia estes documentos cuidadosamente e entenda todos os termos e condições relacionados antes de aceitar.&lt;/strong&gt;"</Data></string>
     <string name="cta_content_seg2">"
-O Mi Roaming precisa se conectar à Internet e acessar suas informações de localização para funcionar normalmente. Além disso, Mi Roaming pode coletar, usar e compartilhar suas informações pessoais. Suas informações pessoais serão protegidas de acordo com as leis e regulamentos locais."</string>
+O Mi Roaming precisa se conectar à internet e acessar suas informações de localização para funcionar normalmente. Além disso, Mi Roaming pode coletar, usar e compartilhar suas informações pessoais. Suas informações pessoais serão protegidas de acordo com as leis e regulamentos locais."</string>
     <string name="cta_dialog_cancel">Sair</string>
     <string name="cta_dialog_ok">Aceitar</string>
     <string name="cta_dialog_title">Termos e Condições</string>
@@ -493,7 +493,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
     <string name="deleteConfirmationDetail">Excluir \"%s\"?</string>
     <string name="deleteConfirmation_title">Excluir este contato?</string>
     <string name="delete_call_log_message">Excluir histórico de chamadas?</string>
-    <string name="delete_call_log_selected_title">Excluir o(s) histórico(s) de chamada(s) selecionado(s)?</string>
+    <string name="delete_call_log_selected_title">Excluir o histórico de chamada selecionado?</string>
     <string name="delete_call_log_title">Excluir histórico de chamadas</string>
     <string name="delete_conference_call_log_message">Excluir todos os registros de conferência telefônica associados a este contato agora?</string>
     <string name="delete_conference_call_log_title">Excluir registros de conferência telefônica</string>
@@ -525,8 +525,8 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
     <string name="description_image_button_plus">Mais</string>
     <string name="description_image_button_pound">Cerquilha</string>
     <string name="description_image_button_seven">sete</string>
-    <string name="description_image_button_sim1_named_dial">Discar usando o SIM1 %s</string>
-    <string name="description_image_button_sim2_named_dial">Discar usando o SIM2 %s</string>
+    <string name="description_image_button_sim1_named_dial">Discar usando o SIM 1 %s</string>
+    <string name="description_image_button_sim2_named_dial">Discar usando o SIM 2 %s</string>
     <string name="description_image_button_six">seis</string>
     <string name="description_image_button_star">estrela</string>
     <string name="description_image_button_three">três</string>
@@ -553,7 +553,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
     <string name="device_transfer_by_bluetooth_message">"%1$d. Ative o Bluetooth no outro dispositivo.
 
 • O Bluetooth pode ser encontrado nas Configurações de rede em dispositivos Android.
-• Em dispositivos com iOS, o Bluetooth está nas Configurações.
+• Em dispositivos com iOS, o Bluetooth está nos Ajustes.
 
 %2$d. O modo detectável também deve estar ativado nos dispositivos Android.
 
@@ -728,7 +728,7 @@ Motivo: \"%s\""</string>
     <string name="hybrid_webpage_not_available">Página web indisponível</string>
     <string name="ic_menu_back">Voltar</string>
     <string name="ic_menu_done">Concluído</string>
-    <string name="identify_numbers_text">Ative a ID do discador para identificar chamadas de spam</string>
+    <string name="identify_numbers_text">Ative o ID do discador para identificar chamadas de spam</string>
     <string name="imLabelsGroup">"IM"</string>
     <string name="imei">"IMEI"</string>
     <string name="import_all_sim_entries_miui">Importar todos os contatos</string>
@@ -830,7 +830,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_account_type">Cartões de contato</string>
     <string name="miprofile_edit_title">Editar perfil</string>
     <string name="miprofile_name">Meu perfil</string>
-    <string name="miprofile_nick_name_divider">"    |    "</string>
+    <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_notice_close">Fechar</string>
     <string name="miprofile_switch_off_alertdialog_message">Você não será capaz de trocar cartões de contato com outras pessoas.</string>
     <string name="missing_name">(Sem nome)</string>
@@ -933,8 +933,8 @@ Motivo: \"%s\""</string>
 
 Como conceder permissão
 Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
-    <string name="new_saf_permission_dialog_grant_permission_immediately">Next</string>
-    <string name="new_saf_permission_dialog_title"><b>Permissions required</b></string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Avançar</string>
+    <string name="new_saf_permission_dialog_title"><b>Permissões necessárias</b></string>
     <string name="next">Avançar</string>
     <string name="next_birthday">Próximo aniversário: %s</string>
     <string name="nfc_vcard_file_name">Contato recebido via NFC</string>
@@ -990,14 +990,14 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="passport_account_no_set">Nenhum</string>
     <string name="passport_account_none_bind_info">Nenhum</string>
     <string name="passport_account_none_user_name">Nenhum</string>
-    <string name="passport_account_secure_info_pref_title">Informações da Conta</string>
+    <string name="passport_account_secure_info_pref_title">Informações da conta</string>
     <string name="passport_account_security_info_pref_title">Informação de segurança</string>
     <string name="passport_account_user_avatar">Foto de perfil</string>
     <string name="passport_account_user_avatar_from_album">Galeria</string>
     <string name="passport_account_user_avatar_from_camera">Câmera</string>
     <string name="passport_account_user_base_info">Informação básica</string>
     <string name="passport_account_user_details">Informação pessoal</string>
-    <string name="passport_account_user_email">Email de recuperação</string>
+    <string name="passport_account_user_email">E-mail de recuperação</string>
     <string name="passport_account_user_gender">Gênero</string>
     <string name="passport_account_user_id">ID da Conta Mi</string>
     <string name="passport_account_user_name">Apelido</string>
@@ -1057,7 +1057,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="passport_google_login_btn_content_description">Faça login no Google</string>
     <string name="passport_help">Ajuda</string>
     <string name="passport_i_know">Entendi</string>
-    <string name="passport_identification_expired">Código de verificação expirado, tente novamente</string>
+    <string name="passport_identification_expired">Código de verificação expirado, tente novamente.</string>
     <string name="passport_input_captcha_hint">Digite o código</string>
     <string name="passport_input_email_address_notice">Usaremos este e-mail para verificar sua conta</string>
     <string name="passport_input_password_hint">Digite sua senha</string>
@@ -1091,7 +1091,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="passport_reging">Criando conta…</string>
     <string name="passport_register_by_local_phone_long_text">Criar uma conta</string>
     <string name="passport_register_by_local_phone_short_text">Criar uma conta</string>
-    <string name="passport_register_restricted">Muitas contas foram associadas a este número, tente um número diferente</string>
+    <string name="passport_register_restricted">Muitas contas foram associadas a este número, tente um número diferente.</string>
     <string name="passport_relogin_notice">Você precisa fazer o login novamente</string>
     <string name="passport_request_agree">Permitir</string>
     <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para configurar sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
@@ -1240,7 +1240,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="preference_smart_group_location_title">Localização</string>
     <string name="preference_smart_group_title">Grupos inteligentes</string>
     <string name="preference_tone_title">Tons</string>
-    <string name="preference_yellowpage_function_setting">Configurações de páginas amarelas</string>
+    <string name="preference_yellowpage_function_setting">Configurações de Páginas amarelas</string>
     <string name="presentation_payphone">Telefone público</string>
     <string name="presentation_private">Número privado</string>
     <string name="presentation_unknown">Número desconhecido</string>
@@ -1284,7 +1284,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="privacy_settings_write_contacts_description">Para gerenciar contatos</string>
     <string name="privacy_settings_yellowpage">Paginas amarelas</string>
     <string name="private_num">Número privado</string>
-    <string name="profileSavedErrorToast">"Não foi possível salvar alterações no 'Meu perfil'"</string>
+    <string name="profileSavedErrorToast">"Não foi possível salvar as alterações no 'Meu perfil'"</string>
     <string name="profileSavedToast">Perfil salvo</string>
     <string name="profile_binded_numbers">%s</string>
     <string name="profile_delete_toast">Perfil excluído com sucesso</string>
@@ -1334,7 +1334,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="return_call_dialing">Discando</string>
     <string name="return_call_incoming">Chamada recebida</string>
     <string name="ringLabelsGroup">Toque</string>
-    <string name="saf_permission_dialog_content">"O Android não permite que os apps de Contatos e Telefone acessem gravações de chamadas por padrão. Permita que esses apps acessem gravações de chamadas para poder visualizá-las."</string>
+    <string name="saf_permission_dialog_content">"O Android não permite que os apps de Contatos e Telefone acessem as gravações de chamadas por padrão. Permita que esses apps acessem as gravações de chamadas para poder visualizá-las."</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Permitir</string>
     <string name="saf_permission_dialog_later">Mais tarde</string>
     <string name="saf_permission_dialog_title">Permitir que Contatos e Telefone acessem gravações de chamadas</string>
@@ -1347,7 +1347,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="scan_bussiness_card_merge_tip">Dados conflitantes foram substituídos</string>
     <string name="scan_merge">Procurando contatos duplicados…</string>
     <string name="scan_not_installed">Instale o Scanner primeiro</string>
-	<string name="scan_not_installed_china">Instale o Mi AI Scanner primeiro</string>
+    <string name="scan_not_installed_china">Instale o Mi AI Scanner primeiro</string>
     <string name="scan_not_installed_global">Instale o Scanner primeiro</string>
     <string name="scan_qrcode_card_hint1">Digitalize o código QR acima</string>
     <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
@@ -1413,7 +1413,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="sim_error_password_error">A senha que você inseriu está incorreta</string>
     <string name="sim_error_storage_full">Sem espaço no cartão SIM</string>
     <string name="sim_error_text_too_long">O nome é muito longo</string>
-    <string name="sim_export_error">O cartão SIM não está pronto, tente novamente mais tarde</string>
+    <string name="sim_export_error">O cartão SIM não está pronto, tente novamente mais tarde.</string>
     <string name="sim_export_loading">Lendo cartão SIM…</string>
     <string name="sim_indexed_contact_not_exist">A posição %1$d no cartão SIM é inválida. Ela deveria estar entre %2$d e %3$d.</string>
     <string name="sim_no_contact">Nenhum contato no cartão SIM</string>

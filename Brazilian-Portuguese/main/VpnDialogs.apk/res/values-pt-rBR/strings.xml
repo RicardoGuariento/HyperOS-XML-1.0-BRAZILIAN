@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
-    <string name="always_on_disconnected_message">%1$s está configurada para permanecer conectada o tempo todo, mas não é possível conectá-la no momento. Seu smartphone usará uma rede pública até que possa se reconectar a %1$s.</string>
+    <string name="always_on_disconnected_message">%1$s está configurada para permanecer conectada o tempo todo, mas não é possível conectá-la no momento. Seu dispositivo usará uma rede pública até que possa se reconectar a %1$s.</string>
     <string name="always_on_disconnected_message_lockdown">%1$s está definida para permanecer conectada o tempo todo, mas não é possível conectá-la no momento. Você não terá uma conexão até que a VPN possa se reconectar.</string>
     <string name="always_on_disconnected_message_separator">" "</string>
     <string name="always_on_disconnected_message_settings_link">Alterar configurações de VPN</string>
@@ -90,7 +90,7 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="legacy_title">O VPN está conectado</string>
+    <string name="legacy_title">A VPN está conectada</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -227,7 +227,7 @@
     <string name="tuesday_shortest">Ter</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
-    <string name="warning">O %s quer configurar uma conexão VPN que permite monitorar o tráfego da rede. Aceite somente se confiar na origem. &lt;br /> &lt;br /> O ícone &lt;img src=vpn_icon /> é exibido na parte superior da tela quando a rede VPN estiver ativa.</string>
+    <string name="warning">%s quer configurar uma conexão VPN que permite monitorar o tráfego da rede. Aceite somente se confiar na origem. &lt;br /> &lt;br /> O ícone &lt;img src=vpn_icon /> é exibido na parte superior da tela quando a rede VPN estiver ativa.</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

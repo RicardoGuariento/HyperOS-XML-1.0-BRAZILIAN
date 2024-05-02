@@ -24,9 +24,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -95,7 +95,7 @@ Você será capaz de monitorar seus treinos e atividades."</string>
     <string name="auth_description">Permitir que %1$s sincronize dados dos seguintes dispositivos</string>
     <string name="auth_dialog_description">"Ativar recomendações?
 
-Para fornecer recomendações, compartilharemos seus dados de saúde com um provedor de serviços terceirizado. Os itens que compartilharemos incluem informações pessoais (idade, sexo), estatísticas de saúde (altura, peso, rotina de exercícios), dados de comportamento (hora de início e término, bem como a duração de seus exercícios).
+Para fornecer recomendações, compartilharemos seus dados de saúde com um provedor de serviços terceirizado. Os itens que compartilharemos incluem informações pessoais (idade, sexo), estatísticas de saúde (altura, peso, rotina de exercícios) e dados de comportamento (hora de início e término, bem como a duração de seus exercícios).
 
 Iremos tornar esses itens anônimos antes de compartilhá-los para evitar que prestadores de serviços terceirizados identifiquem você pessoalmente com base nos dados que recebem.
 
@@ -144,7 +144,7 @@ Caso não queira ter acesso às aulas recomendadas, você ainda pode usar os exe
     <string name="bedTime_late_description">Você foi dormir tarde.</string>
     <string name="bedTime_normal_description">Você foi dormir na hora certa. Continue assim!</string>
     <string name="bedtime">Hora de dormir</string>
-    <string name="bedtime_description">Hora de dormir é o momento em que você vai para a cama e guarda o telefone. É estimado com base na programação da hora de dormir e no uso do dispositivo.</string>
+    <string name="bedtime_description">Hora de dormir é o momento em que você vai para a cama e guarda o dispositivo. É estimado com base na programação da hora de dormir e no uso do dispositivo.</string>
     <string name="bg_control_dialog_go_set">Configurações</string>
     <string name="bg_control_dialog_msg">A Economia de bateria vai restringir as atividades em segundo plano do Mi Saúde. Permita que o Mi Saúde sempre execute em segundo plano para obter dados precisos.</string>
     <string name="bg_control_dialog_title">Restrições de segundo plano</string>
@@ -221,7 +221,7 @@ Caso não queira ter acesso às aulas recomendadas, você ainda pode usar os exe
     <string name="close">Desativar</string>
     <string name="close_once">Desativar uma vez</string>
     <string name="close_stand_notice_and_detection_tip">A detecção de estar em pé e os lembretes estão desativados</string>
-    <string name="close_stand_notice_tip">A detecção de estar em pé foi desativada, a detecção automática após a abertura é mais precisa</string>
+    <string name="close_stand_notice_tip">A detecção de estar em pé foi desativada, a detecção automática após a abertura é mais precisa.</string>
     <string name="collapse">Ocultar</string>
     <string name="collect_diagnosis_log">Coletar log de diagnóstico</string>
     <string name="complete_preference_basic_info">Conclua o seu perfil</string>
@@ -243,10 +243,10 @@ Caso não queira ter acesso às aulas recomendadas, você ainda pode usar os exe
     <string name="course_download_text">Baixando %1$d%%</string>
     <string name="course_group_title">Número de grupos</string>
     <string name="course_group_unit">Grupo</string>
-    <string name="course_history_train">Histórico de Treinamento: %1$d vez(es)</string>
+    <string name="course_history_train">Histórico de treinamento: %1$d vez(es)</string>
     <string name="course_level_title">Dificuldade</string>
     <string name="course_list_search_no_data">Não encontrou o curso que deseja</string>
-    <string name="course_play_error">Ocorreu um problema durante a reprodução , tente novamente mais tarde</string>
+    <string name="course_play_error">Ocorreu um problema durante a reprodução, tente novamente mais tarde.</string>
     <string name="course_player_rest_next">Clique para pular para a próxima ação</string>
     <string name="course_player_see_detail">Ver explicação detalhada</string>
     <string name="course_player_start">Prosseguir</string>
@@ -384,10 +384,10 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
     <string name="dialog_date_select">Selecionar data</string>
     <string name="dialog_delete">Excluir</string>
     <string name="dialog_delete_record_confirm">Excluir este registro?</string>
-    <string name="dialog_exercise_purpose">Bem-vindo ao Mi Saúde! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerenciar as suas metas de exercícios</string>
+    <string name="dialog_exercise_purpose">Bem-vindo ao Mi Saúde! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerenciar as suas metas de exercícios.</string>
     <string name="dialog_exit">Sair</string>
     <string name="dialog_exit_use">Sair</string>
-    <string name="dialog_feedback_content">Se não concordar com estas permissões, não poderá utilizar algumas funcionalidades do app. Pode restringir ou revogar autorizações em Configurações</string>
+    <string name="dialog_feedback_content">Se não concordar com estas permissões, não poderá utilizar algumas funcionalidades do app. Pode restringir ou revogar autorizações nas Configurações.</string>
     <string name="dialog_feedback_purpose">O Mi Saúde precisa acessar o armazenamento para enviar o feedback</string>
     <string name="dialog_feedback_purpose2">Para enviar o feedback</string>
     <string name="dialog_feedback_title">"Feedback"</string>
@@ -396,7 +396,7 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
     <string name="dialog_juveniles_link">De acordo com a nossa &lt;font color=\"#FE6D67\">&lt;a href=%1$s>Política de Privacidade&lt;/a>&lt;/font>, você precisa ter no mínimo 18 anos de idade para usar este produto.</string>
     <string name="dialog_keep">Manter</string>
     <string name="dialog_known">Entendi</string>
-    <string name="dialog_menstruation_purpose">Bem-vindo ao Mi Saúde! A \"Menstruação\" permite registrar período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
+    <string name="dialog_menstruation_purpose">Bem-vindo ao Mi Saúde! A \"Menstruação\" permite registrar período, determinar datas estimadas dos próximos períodos e receber lembretes.</string>
     <string name="dialog_new_version_title">Atualização disponível</string>
     <string name="dialog_no_more_prompt">Não mostrar novamente</string>
     <string name="dialog_ok">"OK"</string>
@@ -407,18 +407,18 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
     <string name="dialog_privacy_title">Termos e condições</string>
     <string name="dialog_read_phone_perm_desc">Para identificar recursos do dispositivo usando OAID ou Android ID</string>
     <string name="dialog_reject">Restringir</string>
-    <string name="dialog_request_network">Por favor, concorde com a Rede de Aplicação.</string>
+    <string name="dialog_request_network">Permitir que este app se conecte à internet.</string>
     <string name="dialog_sleep_goal_setting">Definir metas de sono</string>
     <string name="dialog_sleep_goal_subtitle">Tenha de 7 a 9 horas de sono todos os dias</string>
     <string name="dialog_sleep_goal_title">Metas de tempo de sono</string>
-    <string name="dialog_sleep_record_auto_start">Para registrar o sono com mais precisão, permita que o    Mi Saúde inicie automaticamente</string>
+    <string name="dialog_sleep_record_auto_start">Para registrar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente</string>
     <string name="dialog_sure">"OK"</string>
     <string name="dialog_upgrade_description">"1. Novo design.
 2. Sincronize dados entre dispositivos.
 3. Visualize dados de saúde do Mi Saúde, Xiaomi Wear e outros apps em um só lugar."</string>
     <string name="dialog_upgrade_positive_btn">Atualizar</string>
     <string name="dialog_upgrade_title">"Mi Fitness"</string>
-    <string name="dialog_user_agreement_purpose">Bem-vindo ao Mi Saúde! Você pode utilizar este app para contar passos, registrar o seu sono, períodos e peso assim como receber conselhos de saúde</string>
+    <string name="dialog_user_agreement_purpose">Bem-vindo ao Mi Saúde! Você pode utilizar este app para contar passos, registrar o seu sono, períodos e peso assim como receber conselhos de saúde.</string>
     <string name="dialog_user_agreement_purpose2">Bem-vindo ao Mi Saúde! Você pode usar este app para monitorar seus exercícios, sono, ciclo menstrual, peso, serviços do Mi Saúde Cloud e outras funções.</string>
     <string name="diastolic_pressure">Diastólica</string>
     <string name="disable">Desativado</string>
@@ -492,9 +492,9 @@ Você pode selecionar uma fonte de dados diferente em Mais &gt; Fonte de dados."
     <string name="exercise_notification_content">%1$d minutos de execício (%2$d Cal)</string>
     <string name="exercise_notification_meet_title">Passos de hoje: %d. Meta alcançada!"</string>
     <string name="exercise_notification_no_meet_title">Passos de hoje: %d. Continue para alcançar sua meta!"</string>
-    <string name="exercise_question_answer_one">"1. Alguns modelos de dispositivos não estão equipados com sensores de baixo consumo de energia. O Mi Saúde não rastreia dados de atividade para economizar bateria nos seguintes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+    <string name="exercise_question_answer_one">"1. Alguns modelos de dispositivos não estão equipados com sensores de baixo consumo de energia. O Mi Saúde não rastreia dados de atividade para economizar bateria nos seguintes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3 e Mi 4.
 Se o seu dispositivo estiver listado aqui, você pode adicionar fontes de dados manualmente no Mi Saúde &gt; Menu &gt; Fonte de dados &gt; Adicionar fonte de dados."</string>
-    <string name="exercise_question_answer_two">2. Ocasionalmente, os sensores de movimento podem falhar. Reinicie o telefone e verifique se o rastreamento começa a funcionar normalmente nesses casos.</string>
+    <string name="exercise_question_answer_two">2. Ocasionalmente, os sensores de movimento podem falhar. Reinicie o dispositivo e verifique se o rastreamento começa a funcionar normalmente nesses casos.</string>
     <string name="exercise_question_title">"Por que você não consegue ver suas estatísticas?"</string>
     <string name="exercise_recog_confirm_ridding">Você estava andando de bicicleta entre %1$s e %2$s?</string>
     <string name="exercise_recog_confirm_run">Você estava correndo entre %1$s e %2$s?</string>
@@ -502,8 +502,8 @@ Se o seu dispositivo estiver listado aqui, você pode adicionar fontes de dados 
     <string name="exercise_recog_confirm_walk">Você estava caminhando entre %1$s e %2$s?</string>
     <string name="exercise_record">Histórico de exercícios</string>
     <string name="exercise_record_no_data">Ainda não há itens aqui</string>
-    <string name="exercise_remind_content_improve_goal">Fique mais saudável, aumentando gradualmente sua meta de atividade</string>
-    <string name="exercise_remind_content_lower_goal">Mantenha-se motivado, estabelecendo metas que você pode alcançar</string>
+    <string name="exercise_remind_content_improve_goal">Fique mais saudável, aumentando gradualmente sua meta de atividade.</string>
+    <string name="exercise_remind_content_lower_goal">Mantenha-se motivado, estabelecendo metas que você pode alcançar.</string>
     <string name="exercise_remind_title_improve_goal">Defina uma meta maior</string>
     <string name="exercise_remind_title_lower_goal">Defina uma meta realista</string>
     <string name="exercise_reminder_accomplished">Você atingiu a sua meta de atividade!</string>
@@ -538,7 +538,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
     <string name="fat_rate">Gordura</string>
     <string name="fat_rate_descripe_content">O percentual de gordura corporal refere-se à proporção de gordura no peso total do corpo humano.</string>
     <string name="feedback_need_permission_msg">Permita que o Mi Saúde tenha acesso ao armazenamento externo para poder gerar logs usados para feedback.</string>
-    <string name="feedback_permission_denied_msg">O Mi Saúde não pode salvar logs no armazenamento externo. Conceda ao Mi Saúde as permissões necessárias nas configurações.</string>
+    <string name="feedback_permission_denied_msg">O Mi Saúde não pode salvar logs no armazenamento externo. Conceda ao Mi Saúde as permissões necessárias nas Configurações.</string>
     <string name="fewer">Pouco</string>
     <string name="find_new_verision">A versão %s está disponível</string>
     <string name="finish">Concluir</string>
@@ -615,7 +615,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
     <string name="gps_unauthorized">Permissões de GPS necessárias</string>
     <string name="gps_unopened">O GPS está desativado</string>
     <string name="group">Ciclos</string>
-    <string name="guide_data_cloud_sync_tip">Pode desativar a sincronização em Configurações &gt; Conta Mi</string>
+    <string name="guide_data_cloud_sync_tip">Você pode desativar a sincronização em Configurações &gt; Conta Mi</string>
     <string name="guide_exit">Sair do Mi Saúde</string>
     <string name="guide_exit_description">Não podemos prestar serviços a pessoas que ainda não completaram 14 anos. Certifique-se de usar este dispositivo com a permissão de seu responsável. Toque no botão abaixo para sair do app.</string>
     <string name="guide_exit_title">Você pode começar a usar o Mi Saúde após completar 14 anos.</string>
@@ -629,7 +629,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
     <string name="health_app_name">Mi Saúde</string>
     <string name="health_app_name_dev">Desenvolvimento do Mi Saúde</string>
     <string name="health_cloud_service">MiCloud</string>
-    <string name="health_data_cloud_sync_subtitle">Sincronizar os seus dados com a MiCloud e acessar de qualquer dispositivo</string>
+    <string name="health_data_cloud_sync_subtitle">Sincronize os seus dados com a MiCloud e acesse de qualquer dispositivo</string>
     <string name="health_data_cloud_sync_title">Sincronização com a MiCloud</string>
     <string name="health_data_sync">Sincronizar dados do Health</string>
     <string name="health_score">Resultado de saúde</string>
@@ -658,7 +658,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
     <string name="hr_cover_to_red">"Cubra totalmente a câmera com o dedo.
 Espere até que o círculo fique vermelho."</string>
     <string name="hr_detect">Detecção de frequência cardíaca</string>
-    <string name="hr_detect_desc">Durante a medição, o flash do seu telefone será usado como uma fonte de luz contínua e a câmera detectará mudanças no fluxo sanguíneo. As imagens então serão analisadas e sua frequência cardíaca será determinada com base nos padrões repetidos.</string>
+    <string name="hr_detect_desc">Durante a medição, o flash do seu dispositivo será usado como uma fonte de luz contínua e a câmera detectará mudanças no fluxo sanguíneo. As imagens então serão analisadas e sua frequência cardíaca será determinada com base nos padrões repetidos.</string>
     <string name="hr_detect_finished">Detecção completa</string>
     <string name="hr_detect_fps_jitter">Não foi possível medir a frequência cardíaca. Tente novamente.</string>
     <string name="hr_detect_paused">Pausado</string>
@@ -672,13 +672,13 @@ Espere até que o círculo fique vermelho."</string>
     <string name="hr_detect_state_regular_desc">Trabalho diário e rotina de estudo.</string>
     <string name="hr_detect_state_reseting">Estado de repouso</string>
     <string name="hr_detect_state_reseting_desc">Acabou de acordar ou completamente relaxado.</string>
-    <string name="hr_disable_in_split_screen">"Não é possível medir a frequência cardíaca enquanto estiver usando a tela divida"</string>
+    <string name="hr_disable_in_split_screen">"Não é possível medir a frequência cardíaca enquanto estiver usando a Tela divida"</string>
     <string name="hr_disturb_detect">Detecção interrompida</string>
     <string name="hr_finger_permission_desc">Para medir sua frequência cardíaca, este recurso precisa acessar o leitor de impressão digital para detectar alterações no fluxo sanguíneo. Permitir?</string>
     <string name="hr_fp_area">Leitor de impressão digital</string>
     <string name="hr_fp_detect_desc">O fluxo sanguíneo para os dedos aumenta durante o batimento cardíaco. Através da fonte de luz brilhante na área de impressão digital sob a tela, a frequência de alteração do sangue do dedo pode ser obtida. A frequência é convertida em um sinal de pulso para calcular a frequência cardíaca precisa.</string>
     <string name="hr_fp_detect_principle_desc">"O sangue não é completamente opaco, portanto a luz pode passar por ele. A cada batimento cardíaco, o sangue flui para seus dedos, bloqueando mais luz do que entre os batimentos cardíacos. A luz brilhante na área do leitor de impressão digital sob a tela nos permite rastrear as mudanças em seu fluxo sanguíneo, analisar os padrões e convertê-los em valores de frequência cardíaca."</string>
-    <string name="hr_fp_detect_principle_desc_2">Nota: certifique-se de que o dedo cubra completamente a área da impressão digital; pressione-o suavemente durante a detecção. Se a pressão estiver muito alta, o fluxo sanguíneo no dedo será reduzido, resultando em resultados imprecisos. Os dados do teste são apenas para referência, não para fins médicos.</string>
+    <string name="hr_fp_detect_principle_desc_2">Observação: Certifique-se de que o dedo cubra completamente a área da impressão digital; pressione-o suavemente durante a detecção. Se a pressão estiver muito alta, o fluxo sanguíneo no dedo será reduzido, resultando em resultados imprecisos. Os dados do teste são apenas para referência, não para fins médicos.</string>
     <string name="hr_fp_detect_principle_desc_3">Nossos testes mostram que este método mede sua frequência cardíaca com um erro de apenas ≤3 BPM.</string>
     <string name="hr_fp_detect_start_desc">Cubra o ícone com o dedo</string>
     <string name="hr_fp_detecting">"Não mova o dedo"</string>
@@ -691,7 +691,7 @@ Comece de novo."</string>
     <string name="hr_measure_heart_rate">Medir a frequência cardíaca</string>
     <string name="hr_open_permission_desc">O Mi Saúde precisa da permissão da câmera para capturar alterações do fluxo sanguíneo para detecção da frequência cardíaca. Você concorda?</string>
     <string name="hr_open_permission_title">Permissões necessárias</string>
-    <string name="hr_phone_detect_records">Registro de detecção do telefone</string>
+    <string name="hr_phone_detect_records">Registro de detecção do dispositivo</string>
     <string name="hr_pre_detect">Cubra totalmente o flash e a câmera com um dedo</string>
     <string name="hr_pre_detect_finger">Verificando…</string>
     <string name="hr_re_detect_title">Começar novamente</string>
@@ -1040,7 +1040,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="not_edit">Não definido</string>
     <string name="not_open_auto_sync">Sincronização desativada</string>
     <string name="not_save">Descartar alterações</string>
-    <string name="not_save_aid_file_desc">Todas as alterações    não salvas serão perdidas</string>
+    <string name="not_save_aid_file_desc">Todas as alterações não salvas serão perdidas</string>
     <string name="not_set">Não definido</string>
     <string name="not_standing">Não está em pé</string>
     <string name="not_support_step">O seu dispositivo não pode contar passos</string>
@@ -1091,7 +1091,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="placement_tips_recommend">Recomendado</string>
     <string name="placement_tips_recommend_1">Mochila</string>
     <string name="placement_tips_recommend_2">Pochete</string>
-    <string name="placement_tips_title">Onde você deve colocar seu telefone?</string>
+    <string name="placement_tips_title">Onde você deve colocar seu dispositivo?</string>
     <string name="placement_tips_warn">Não recomendado</string>
     <string name="placement_tips_warn_1">Esteira</string>
     <string name="play">Reproduzir</string>
@@ -1139,7 +1139,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="recent_trained">Praticado recentemente</string>
     <string name="recog_permission_dialog_content">Permita que o Mi Saúde acesse suas informações de atividade para poder ver a contagem de passos.</string>
     <string name="recog_permission_dialog_title">Permissões necessárias</string>
-    <string name="recommand_body_weight_msg">Peso recomendado: %1$.1f kg. Atinja o IMC %2$.1f para reduzir os riscos cardiovasculares e doenças do fígado</string>
+    <string name="recommand_body_weight_msg">Peso recomendado: %1$.1f kg. Atinja o IMC %2$.1f para reduzir os riscos cardiovasculares e doenças do fígado.</string>
     <string name="recommend_sleep_goal">21:00 às 11:00</string>
     <string name="record_blood_pressure">Gravar medição</string>
     <string name="record_blood_pressure_exception1">Não foi possível salvar. A pressão sistólica não pode ser menor que a pressão diastólica.</string>
@@ -1281,7 +1281,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="skipping_upload_dialog_msg">Quando seu dispositivo está conectado a %s, você pode escolher enviar áudio gravado durante os treinos para melhorar a precisão das estatísticas do treino. Para proteger sua privacidade, os arquivos de áudio serão criptografados.</string>
     <string name="skipping_upload_dialog_reject_not_remind">Não, obrigado</string>
     <string name="skipping_upload_dialog_title">Enviar áudio</string>
-    <string name="skipping_upload_tips">Enviar áudio para tornar as estatísticas mais precisas</string>
+    <string name="skipping_upload_tips">Envie áudio para tornar as estatísticas mais precisas</string>
     <string name="sleep">Sono</string>
     <string name="sleep_and_get_up_time">Horário de dormir</string>
     <string name="sleep_auto_start_perm_grant">Permissões concedidas</string>
@@ -1317,13 +1317,13 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
 Se este problema ocorrer com frequência, verifique se seu dispositivo tem agendamento de desligamento ou atualizações noturnas do sistema.</string>
     <string name="sleep_detection_question_one_answer_1">As fases de sono profundo e leve são detectadas com base nos dados de movimento do corpo coletados pelos sensores do seu dispositivo. Veja por que você pode não conseguir ver as estatísticas:
 1. O Mi Saúde não pôde coletar dados. Isso pode acontecer quando o dispositivo é desligado enquanto você dorme, sua bateria estiver muito fraca ou o app não puder funcionar em segundo plano. Permita que o Mi Saúde inicie automaticamente, adicione-o às exceções de economia de bateria e mantenha-o em segundo plano para impedir que isso aconteça.
-2. O Mi Saúde não conseguiu analisar os dados coletados. Isso pode acontecer quando o telefone é colocado muito longe do corpo enquanto você dorme. Como alternativa, o movimento do seu corpo pode ser muito sutil para fazer suposições sobre as alterações no seu ciclo do sono. Estamos constantemente aprimorando nossos algoritmos para fazer com que o Mi Saúde analise melhor seu sono.</string>
+2. O Mi Saúde não conseguiu analisar os dados coletados. Isso pode acontecer quando o dispositivo é colocado muito longe do corpo enquanto você dorme. Como alternativa, o movimento do seu corpo pode ser muito sutil para fazer suposições sobre as alterações no seu ciclo do sono. Estamos constantemente aprimorando nossos algoritmos para fazer com que o Mi Saúde analise melhor seu sono.</string>
     <string name="sleep_detection_question_one_title">Por que minhas estatísticas estão incompletas?</string>
     <string name="sleep_detection_question_one_title_1">Por que não vejo estatísticas do ciclo do sono?</string>
     <string name="sleep_detection_question_three_answer">Seu dispositivo monitora o movimento do seu corpo durante o sono usando sensores embutidos. Para tornar as estatísticas mais precisas, coloque o dispositivo em uma superfície macia perto do seu corpo. Evite colocá-lo em mesas de cabeceira ou muito longe do colchão.</string>
     <string name="sleep_detection_question_three_title">Como posso tornar minhas estatísticas mais precisas?</string>
     <string name="sleep_detection_question_two_answer">Seus ciclos de sono são analisados no dispositivo localmente. O monitoramento do sono funcionará mesmo quando você não estiver conectado à rede ou sua conexão atual for interrompida.</string>
-    <string name="sleep_detection_question_two_title">Devo me conectar à Internet para analisar os ciclos de sono?</string>
+    <string name="sleep_detection_question_two_title">Devo me conectar à internet para analisar os ciclos de sono?</string>
     <string name="sleep_detector_content">O Mi Saúde está monitorando o seu sono em segundo plano</string>
     <string name="sleep_detector_title">Monitorando o sono</string>
     <string name="sleep_detector_unopened">Você ainda não começou a analisar seu sono.</string>
@@ -1348,8 +1348,8 @@ Se este problema ocorrer com frequência, verifique se seu dispositivo tem agend
     <string name="sleep_management_exp_hours_minutes">As configurações atuais não vão garantir %1$s %2$s de sono diário. Você precisa de mais que isso</string>
     <string name="sleep_management_label">Gerenciar hora de dormir</string>
     <string name="sleep_month">Mês</string>
-    <string name="sleep_need_auto_start">Permitir que o Mi Saúde inicie automaticamente para que os dados do sono sejam mais precisos</string>
-    <string name="sleep_need_background_run">Selecionar \"Sem restrições\" para obter dados de sono mais precisos</string>
+    <string name="sleep_need_auto_start">Permita que o Mi Saúde inicie automaticamente para que os dados do sono sejam mais precisos</string>
+    <string name="sleep_need_background_run">Selecione \"Sem restrições\" para obter dados de sono mais precisos</string>
     <string name="sleep_need_necessary_permissions">Conceda permissões para que os dados do sono sejam mais precisos</string>
     <string name="sleep_night_title">Sono noturno</string>
     <string name="sleep_no_data_info">Tenha um ciclo de
@@ -1358,7 +1358,7 @@ sono completo"</string>
     <string name="sleep_no_generate_report">"Não foi possível encontrar
 os dados de sono"</string>
     <string name="sleep_notice">Notificações de sono</string>
-    <string name="sleep_record_content">O Mi Saúde irá registrar automaticamente o seu sono baseado na utilização do seu telefone, estatísticas de exercício, assim como a hora de dormir e acordar que definir</string>
+    <string name="sleep_record_content">O Mi Saúde irá registrar automaticamente o seu sono baseado na utilização do seu dispositivo, estatísticas de exercício, assim como a hora de dormir e acordar que definir</string>
     <string name="sleep_record_go_open">Ative o item \"Analisar sono\" para começar a registrar seus dados de sono</string>
     <string name="sleep_record_label">Registrar sono</string>
     <string name="sleep_remind">Lembrete de sono</string>
@@ -1506,7 +1506,7 @@ os dados de sono"</string>
     <string name="stand_assistant">Assistente</string>
     <string name="stand_detection">Detecção de ficar em pé</string>
     <string name="stand_guide_page_title1">Complete a meta de ficar em pé todos os dias e mantenha-se longe dos riscos do sedentarismo</string>
-    <string name="stand_guide_page_title2">Detecção automática, registro e lembrete de ficar em pé</string>
+    <string name="stand_guide_page_title2">Detecção automática, registro e lembrete de ficar em pé.</string>
     <string name="stand_notice">Aviso sobre ficar em pé</string>
     <string name="stand_notice_subtitle1">%1$s-%2$s não detectou se você ficou em pé, se já está, toque em Finalizar</string>
     <string name="stand_notice_subtitle2">Se você já ficou em pé, toque para finalizar. Você não se levantou e se esticou.</string>
@@ -1562,10 +1562,10 @@ os dados de sono"</string>
     <string name="sync_status">Status de sincronização</string>
     <string name="sync_status_failure_retry">Não foi possível sincronizar. Espere um ou dois minutos e tente novamente.</string>
     <string name="sync_status_in_progress">Sincronizando…</string>
-    <string name="sync_status_network_failure">Não foi possível sincronizar. Conecte-se à rede e tente novamente</string>
+    <string name="sync_status_network_failure">Não foi possível sincronizar. Conecte-se à rede e tente novamente.</string>
     <string name="sync_status_never_done">Não sincronizado</string>
     <string name="sync_status_oauth_error">Não foi possível sincronizar os dados. Conceda as permissões necessárias primeiro.</string>
-    <string name="system_app_setting">Configurar Apps do sistema</string>
+    <string name="system_app_setting">Configurar apps do sistema</string>
     <string name="system_permission">Detalhes de permissões</string>
     <string name="systolic_pressure">Sistólica</string>
     <string name="tb_audio_progress_bar">Barra de reprodução de áudio</string>
@@ -1619,9 +1619,9 @@ os dados de sono"</string>
     <string name="tb_exit_detection">Sair</string>
     <string name="tb_gender_select_checked">Gênero selecionado: %1$s.</string>
     <string name="tb_gender_select_unchecked">Gênero %1$s, toque para selecionar</string>
-    <string name="tb_go_back_today">Voltar para hoje</string>
-    <string name="tb_go_forward_30_day">Passar trinta 0 dias</string>
-    <string name="tb_go_forward_7_day">Pular sete dias</string>
+    <string name="tb_go_back_today">Voltar hoje</string>
+    <string name="tb_go_forward_30_day">Passar 30 dias</string>
+    <string name="tb_go_forward_7_day">Pular 7 dias</string>
     <string name="tb_go_forward_a_day">Próximo dia</string>
     <string name="tb_go_next_30_day">Voltar 30 dias</string>
     <string name="tb_go_next_7_day">Voltar 7 dias</string>
@@ -1873,7 +1873,7 @@ Atualizar agora?"</string>
     <string name="welcome_sedentary">Mantenha-se em movimento</string>
     <string name="welcome_sedentary_description">O Mi Saúde pode te lembrar de ficar de pé quando estiver sentado por muito tempo</string>
     <string name="welcome_sleep">Analise o seu ciclo de sono</string>
-    <string name="welcome_sleep_description">Coloque o telefone ao seu lado para aprender sobre seu ciclo de sono pela manhã</string>
+    <string name="welcome_sleep_description">Coloque o dispositivo ao seu lado para aprender sobre seu ciclo de sono pela manhã</string>
     <string name="welcome_start_use">Começar</string>
     <string name="well">Bom</string>
     <string name="write_strorage_perm_description">Registre os problemas que você encontrou durante o uso</string>

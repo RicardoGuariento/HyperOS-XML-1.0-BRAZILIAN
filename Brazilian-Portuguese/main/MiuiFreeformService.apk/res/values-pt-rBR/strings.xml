@@ -46,11 +46,11 @@
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="desktop_btn_cancel">Cancelar</string>
     <string name="desktop_btn_continue">Iniciar</string>
-    <string name="desktop_mode_guide_summary">O Modo estação de trabalho permite que você abra vários apps em janelas flutuantes tocando em seus ícones no dock de apps.</string>
+    <string name="desktop_mode_guide_summary">O modo Estação de trabalho permite que você abra vários apps em janelas flutuantes tocando em seus ícones na dock de apps.</string>
     <string name="desktop_mode_guide_title">Estação de trabalho</string>
     <string name="dock_location_left">Esquerda</string>
     <string name="dock_location_right">Direita</string>
-    <string name="dock_location_title">Localização do dock de apps</string>
+    <string name="dock_location_title">Localização da dock de apps</string>
     <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -58,19 +58,19 @@
     <string name="expand_button_title">Avançado</string>
     <string name="flashback_background_start_switch_summary">Gera flashcards com informações importantes automaticamente quando os apps estiverem sendo executados em segundo plano</string>
     <string name="flashback_background_start_switch_title">Gerar flashcards automaticamente</string>
-    <string name="flashback_baidu_map_summary">Mostrar rota</string>
-    <string name="flashback_didi_summary">Mostrar informações da viagem</string>
-    <string name="flashback_meituan_summary">Mostrar informações de entrega</string>
-    <string name="flashback_meituan_waimai_summary">Mostrar informações de entrega</string>
-    <string name="flashback_open_switch_summary">Mostrar informações importantes quando os apps são exibidos como janelas flutuantes</string>
+    <string name="flashback_baidu_map_summary">Mostre rotas</string>
+    <string name="flashback_didi_summary">Mostre informações da viagem</string>
+    <string name="flashback_meituan_summary">Mostre informações de entrega</string>
+    <string name="flashback_meituan_waimai_summary">Mostre informações de entrega</string>
+    <string name="flashback_open_switch_summary">Mostre informações importantes quando os apps são exibidos como janelas flutuantes</string>
     <string name="flashback_open_switch_title">Flashcards de apps</string>
-    <string name="flashback_shansong_summary">Mostrar o progresso da entrega</string>
+    <string name="flashback_shansong_summary">Mostre o progresso da entrega</string>
     <string name="flashback_status_close">Desativado</string>
     <string name="flashback_status_open">Ativado</string>
-    <string name="flashback_summary">Mostrar informações importantes quando os apps são exibidos como janelas flutuantes</string>
+    <string name="flashback_summary">Mostre informações importantes quando os apps são exibidos como janelas flutuantes</string>
     <string name="flashback_support_apps_title">Apps disponíveis</string>
     <string name="flashback_title">Flashcards de apps</string>
-    <string name="flashback_wangzhe_summary">Mostrar contagem regressiva da ressurreição</string>
+    <string name="flashback_wangzhe_summary">Mostre contagem regressiva da ressurreição</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -128,11 +128,11 @@ de um app para fechá-lo"</string>
     <string name="freeform_guide_dialog_split_title">Tela dividida</string>
     <string name="freeform_guide_dialog_start_button">Iniciar</string>
     <string name="freeform_guide_dialog_step_button">Próximo</string>
-    <string name="freeform_guide_drag_fullscreen_title">Arraste para mudar para o modo de tela cheia</string>
+    <string name="freeform_guide_drag_fullscreen_title">Arraste para mudar para o Modo Tela cheia</string>
     <string name="freeform_guide_drag_split_title">Arraste para alternar para o modo de Tela dividida ou tela cheia</string>
     <string name="freeform_guide_drag_summary">Arraste as janelas para áreas específicas para alternar entre os modos de exibição</string>
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Pressione e segure e puxe para baixo a barra de ação de uma janela flutuante</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_title">Visualizando janelas flutuantes em modo de tela cheia</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">Visualizando janelas flutuantes em Modo Tela cheia</string>
     <string name="freeform_guide_free_drag_summary">Arraste texto, imagens ou arquivos entre as diferentes janelas dos apps suportados.</string>
     <string name="freeform_guide_free_drag_title">Arraste itens pelas janelas</string>
     <string name="freeform_guide_free_drag_title_phone">Arraste para copiar para outros apps</string>
@@ -144,8 +144,8 @@ de um app para fechá-lo"</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Arraste a janela flutuante para o canto da tela</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Minimizando janelas flutuantes</string>
     <string name="freeform_guide_multiple_window_settings_summary">Você pode abrir novas janelas em apps compatíveis tocando na barra de ação</string>
-    <string name="freeform_guide_multiple_window_summary">"Pressione e segure o ícone de um app no dock para abrir uma nova janela.
-• Este recurso funciona com Notas, Mail, Navegador e WPS."</string>
+    <string name="freeform_guide_multiple_window_summary">"Pressione e segure o ícone de um app na dock para abrir uma nova janela.
+• Este recurso funciona no Notas, E-mail, Navegador e WPS."</string>
     <string name="freeform_guide_multiple_window_title">Abra várias janelas</string>
     <string name="freeform_guide_notification_drop_down_summary">Pressione e segure e puxe para baixo a barra de ação de uma notificação</string>
     <string name="freeform_guide_notification_drop_down_title">Abrindo janelas flutuantes</string>
@@ -169,9 +169,9 @@ Esse recurso funciona apenas quando a navegação do sistema está definida para
     <string name="freeform_guide_slide_up_to_close_title">Fechando janelas flutuantes</string>
     <string name="freeform_guide_split_screen_combination_settings_fold">Combinação de Tela dividida</string>
     <string name="freeform_guide_split_screen_combination_fold">Combinação de Tela dividida</string>
-    <string name="freeform_guide_split_screen_combination_summary">Pressione e segure uma visualização de Tela dividida em Recentes para criar um atalho para a combinação</string>
-	<string name="freeform_guide_split_screen_combination_summary_fold">Crie atalhos para combinações de Tela dividida usando o dock de app na tela interna</string>
-	<string name="freeform_guide_split_screen_combination_summary_pad">Crie atalhos para combinações de Tela dividida usando o dock de app</string>
+    <string name="freeform_guide_split_screen_combination_summary">Pressione e segure uma visualização de Tela dividida nos Recentes para criar um atalho para a combinação</string>
+	<string name="freeform_guide_split_screen_combination_summary_fold">Crie atalhos para combinações de Tela dividida usando a dock do app na tela interna</string>
+	<string name="freeform_guide_split_screen_combination_summary_pad">Crie atalhos para combinações de Tela dividida usando a dock do app</string>
     <string name="freeform_guide_split_screen_combination_title">Combinação de Tela dividida</string>
     <string name="freeform_guide_tip_controller">Toque para abrir uma nova janela</string>
     <string name="freeform_guide_tip_dock">Arraste para o centro para abrir em uma janela flutuante</string>
@@ -185,7 +185,7 @@ Esse recurso funciona apenas quando a navegação do sistema está definida para
     <string name="freeform_guide_tip_pin_up">Arraste para dentro para abrir em uma janela flutuante</string>
     <string name="freeform_guide_tip_sidebar">"Pressione e segure,
 depois arraste para mover"</string>
-    <string name="freeform_guide_tip_sidedock">Deslize para fora para mostrar o dock</string>
+    <string name="freeform_guide_tip_sidedock">Deslize para fora para mostrar a dock</string>
     <string name="freeform_guide_tip_split">Arraste para o lado para mudar para Tela dividida</string>
     <string name="freeform_guide_tip_window_top">Para minimizar a janela, pressione e segure a parte superior da janela e arraste-a rapidamente para a borda da tela</string>
     <string name="freeform_guide_to_sidehide_settings_summary">Arraste rapidamente o app para a lateral da tela para ocultá-lo</string>
@@ -205,7 +205,7 @@ depois arraste para mover"</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 • Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a Tela dividida."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">• Arraste um app da barra lateral para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida</string>
-    <string name="freeform_vedio_description_pad">Arraste itens para fora do dock para abrir janelas flutuantes</string>
+    <string name="freeform_vedio_description_pad">Arraste itens para fora da dock para abrir janelas flutuantes</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -216,12 +216,12 @@ depois arraste para mover"</string>
     <string name="gesture_fullscreen_to_splitscreen">Mudar para Tela dividida</string>
     <string name="gesture_split_left_to_right_summary">Deslize para a direita com três dedos</string>
     <string name="gesture_split_right_to_left_summary">Deslize para a esquerda com três dedos</string>
-	<string name="gesture_to_split_screen">Gestos</string>
-    <string name="how_to_close_or_fullscreen_freeform">Fechando a janela flutuante ou alterando para o Modo tela cheia</string>
+    <string name="gesture_to_split_screen">Gestos</string>
+    <string name="how_to_close_or_fullscreen_freeform">Fechando a janela flutuante ou alterando para o Modo Tela cheia</string>
     <string name="how_to_create_split_screen_combination">Crie uma combinação de Tela dividida</string>
-    <string name="how_to_create_split_screen_combination_summary">Pressione e segure a combinação e adicione-a à Ttela inicial</string>
-    <string name="how_to_drop_down_to_fullscreen">Alterar para o modo tela cheia</string>
-    <string name="how_to_drop_down_to_fullscreen_summary">Pressione, segure e depois puxe para baixo a barra de ação da janela flutuante</string>
+    <string name="how_to_create_split_screen_combination_summary">Pressione e segure a combinação e adicione-a à Tela inicial</string>
+    <string name="how_to_drop_down_to_fullscreen">Alterar para o Modo Tela cheia</string>
+    <string name="how_to_drop_down_to_fullscreen_summary">Pressione, segure e depois puxe para baixo a barra de ação da janela flutuante.</string>
     <string name="how_to_hang_freeform">Minimizando janelas flutuantes</string>
     <string name="how_to_hang_to_small_freeform">Minimize a janela flutuante</string>
     <string name="how_to_hang_to_small_freeform_summary">Arraste a janela flutuante para o canto da tela</string>
@@ -229,7 +229,7 @@ depois arraste para mover"</string>
     <string name="how_to_move_freeform_window">Movendo a janela flutuante</string>
     <string name="how_to_move_freeform_window_summary">Pressione e segure a barra de ação de uma janela flutuante para arrastá-la</string>
     <string name="how_to_notification_drop_down">Abrir uma janela flutuante</string>
-    <string name="how_to_notification_drop_down_summary">Pressione, segure e depois puxe a barra de ação de uma notificação</string>
+    <string name="how_to_notification_drop_down_summary">Pressione, segure e depois puxe a barra de ação de uma notificação.</string>
     <string name="how_to_open_freeform">Abrindo notificações em uma janela flutuante</string>
     <string name="how_to_slide_up_to_close">Fechar a janela flutuante</string>
     <string name="how_to_slide_up_to_close_summary">Deslize para cima a partir da barra de ação de uma janela flutuante</string>
@@ -239,7 +239,7 @@ depois arraste para mover"</string>
     <string name="miui_bubbles_notification_status_opened">Ativar</string>
     <string name="miui_desktop_mode_settings">Estação de trabalho</string>
     <string name="miui_desktop_mode_settings_title">Estação de trabalh</string>
-    <string name="miui_desktop_mode_video_description">Toque nos ícones dos apps no dock para abri-lo em janelas flutuantes. Você pode ativar e desativar o Modo estação de trabalho no Centro de controle.</string>
+    <string name="miui_desktop_mode_video_description">Toque nos ícones dos apps na dock para abri-lo em janelas flutuantes. Você pode ativar e desativar o modo Estação de trabalho no centro de controle.</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -315,7 +315,7 @@ depois arraste para mover"</string>
     <string name="night">"PM"</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
-    <string name="operation_guide_settings_title">Como usar janelas flutuantes</string>
+    <string name="operation_guide_settings_title">Como usar a janelas flutuantes</string>
     <string name="operation_guide_title">Tutoriais</string>
     <string name="other_advanced_settings">Configurações adicionais</string>
     <string name="other_operations_title">Outros tutoriais</string>

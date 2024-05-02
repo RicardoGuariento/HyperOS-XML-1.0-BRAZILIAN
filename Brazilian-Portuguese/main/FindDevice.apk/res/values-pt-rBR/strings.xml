@@ -64,7 +64,7 @@
     <string name="common_signin_button_text_long">Fazer login com o Google</string>
     <string name="copy">Copiar</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Para acessar o número de telefone a fim de localizar este dispositivo quando não estiver conectado à internet"</string>
-    <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Para localizar este dispositivo quando não estiver conectado à Internet"</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Para localizar este dispositivo quando não estiver conectado à internet"</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para localizar seu dispositivo e alternar para o modo perdido</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -108,7 +108,7 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="find_device_stop_noise">Toque em OK para silenciar</string>
     <string name="find_device_storage_corrupted">O armazenamento do Encontrar dispositivo está corrompido. Seu dispositivo pode estar desprotegido.</string>
     <string name="find_device_success_title">Encontrar dispositivo ativado</string>
-    <string name="find_device_telephony_fault">Encontrar dispositivo: Erro de Telefonia (%s).</string>
+    <string name="find_device_telephony_fault">Encontrar dispositivo: Erro de telefonia (%s).</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -149,7 +149,7 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="i_know">"OK"</string>
-    <string name="lock_msg_phone">Info. de contato: %s</string>
+    <string name="lock_msg_phone">Informação de contato: %s</string>
     <string name="login_extra_steps">Verificação de login</string>
     <string name="login_failed">Não foi possível fazer o login. %s.</string>
     <string name="midnight">"AM"</string>
@@ -312,7 +312,7 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="unlock_access_denied">Acesso negado</string>
     <string name="unlock_bad_authentication">Usuário ou senha inválidos</string>
     <string name="unlock_error_abort">Cancelado pelo usuário</string>
-    <string name="unlock_error_device_id">Não é possível obter a ID do dispositivo</string>
+    <string name="unlock_error_device_id">Não é possível obter o ID do dispositivo</string>
     <string name="unlock_error_interrupted">Interrompido</string>
     <string name="unlock_error_network">Não é possível conectar-se à rede</string>
     <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Mi não está respondendo</string>

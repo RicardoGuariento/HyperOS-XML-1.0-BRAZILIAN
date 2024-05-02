@@ -40,12 +40,12 @@
     <string name="add_to_widget">Adicionar ao widget</string>
     <string name="added_category">Adicionado</string>
     <string name="afternoon">"PM"</string>
-    <string name="aggree_desc">Permita que este app se conecte-se à Internet e conceda as permissões necessárias listadas acima.</string>
+    <string name="aggree_desc">Permita que este app se conecte-se à internet e conceda as permissões necessárias listadas acima.</string>
     <string name="agree">Aceitar</string>
     <string name="am">"AM"</string>
-    <string name="app_all_purpose">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo. "</string>
+    <string name="app_all_purpose">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo."</string>
     <string name="app_all_purpose_global">Bem-vindo ao Arquivos! Você pode usar este app para visualizar e gerenciar arquivos armazenados no seu dispositivo.</string>
-    <string name="app_all_purpose_pad">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo. "</string>
+    <string name="app_all_purpose_pad">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo."</string>
     <string name="app_function">Gerencie arquivos no dispositivo</string>
     <string name="app_name">Arquivos</string>
     <string name="app_name_bluetooth">"Bluetooth"</string>
@@ -77,7 +77,7 @@
     <string name="call_notification_screening_text">Triagem de uma chamada recebida</string>
     <string name="can_not_send_with_too_many">Não é possível enviar tantos arquivos de uma só vez</string>
     <string name="cancel">Cancelar</string>
-    <string name="cancel_error">Não foi possível remover. Tente novamente</string>
+    <string name="cancel_error">Não foi possível remover. Tente novamente.</string>
     <string name="cancel_mi_drive">Cancelar os serviços do Mi Drive</string>
     <string name="cancel_mi_drive_alert_description" formatted="false">Limpe todos os itens do Mi Drive para poder cancelar os serviços. Siga estas etapas para limpar itens:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na página inicial do Mi Drive, pressione e segure um item para fazer o botão \"Selecionar tudo\" aparecer. Use este botão para selecionar até 200 arquivos por vez e excluí-los.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Depois disso, limpe seus itens excluídos recentemente.</string>
     <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Observe que os itens excluídos recentemente não podem ser recuperados após a exclusão."</string>
@@ -121,7 +121,7 @@
     <string name="category_type_other">Outros</string>
     <string name="category_video">Vídeos</string>
     <string name="category_zip">Arquivos</string>
-    <string name="cdd_message">Devido às restrições do Android 11, você não poderá visualizar arquivos gerados em apps de terceiros no Gerenciador de arquivos</string>
+    <string name="cdd_message">Devido às restrições do Android 11, você não poderá visualizar arquivos gerados em apps de terceiros no Arquivos</string>
     <string name="cdd_title">Atenção!</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
@@ -179,8 +179,8 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="data_consumption_cancel">Sair</string>
     <string name="data_consumption_checkbox_hint">Não mostrar novamente</string>
     <string name="data_consumption_confirm">"OK"</string>
-    <string name="data_consumption_message">Este app precisa de uma conexão com a Internet através de Wi-Fi para funcionar normalmente</string>
-    <string name="data_consumption_title">Conectar na Internet</string>
+    <string name="data_consumption_message">Este app precisa de uma conexão com a internet através de Wi-Fi para funcionar normalmente</string>
+    <string name="data_consumption_title">Conectar na internet</string>
     <string name="date_picker_lunar">Calendário Chinês Tradicional</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="decompress_cancel">Cancelar</string>
@@ -200,7 +200,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="decrypt_to">Descriptografar e salvar em…</string>
     <string name="decrypting">Removendo…</string>
     <string name="delete_dialog_button">Excluir</string>
-    <string name="delete_error">Não foi possível excluir arquivos. Tente novamente</string>
+    <string name="delete_error">Não foi possível excluir arquivos. Tente novamente.</string>
     <string name="delete_file">Excluir este arquivo?</string>
     <string name="delete_file_error">"Não foi possível excluir o arquivo"</string>
     <string name="delete_files">Excluir %1$d arquivos?</string>
@@ -208,7 +208,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="delete_folders">Excluir %1$d pastas?</string>
     <string name="des_hide_pwd">Ocultar a senha</string>
     <string name="des_show_pwd">Exibir a senha</string>
-    <string name="dialog_account_permission_denied_msg">Permita que este app acesse as contas do dispositivo para poder fazer login no Mi Drive. Você pode conceder essa permissão em Configurações.</string>
+    <string name="dialog_account_permission_denied_msg">Permita que este app acesse as contas do dispositivo para poder fazer login no Mi Drive. Você pode conceder essa permissão nas Configurações.</string>
     <string name="dialog_account_permission_denied_negative_button">Cancelar</string>
     <string name="dialog_account_permission_denied_positive_button">Configurações</string>
     <string name="dialog_account_permission_denied_title">Permissões necessárias</string>
@@ -245,7 +245,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="encrypt_prefix">PRIVADO</string>
     <string name="encrypt_setting">Criptografia</string>
     <string name="encrypt_success">Os itens selecionados são privados agora</string>
-    <string name="encrypt_success_first_five">Este item agora é privado. Abra a página inicial do gerenciador de Arquivos para visualizá-lo.</string>
+    <string name="encrypt_success_first_five">Este item agora é privado. Abra a página inicial do Arquivos para visualizá-lo.</string>
     <string name="encrypting">Criptografando…</string>
     <string name="enter">Abra o app Arquivos</string>
     <string name="entry_phone_storage_internal">Armazenamento interno</string>
@@ -337,7 +337,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="ftp_account_req_notice">O nome de usuário e a senha deve conter %1$d-%2$d caractere, diferenciam maiúsculas de minúsculas e não devem conter caracteres especiais.</string>
+    <string name="ftp_account_req_notice">O nome de usuário e a senha deve conter %1$d-%2$d caracteres, diferenciam maiúsculas de minúsculas e não devem conter caracteres especiais.</string>
     <string name="ftp_anonymous_login">Iniciar sessão anônima</string>
     <string name="ftp_anonymous_warning_msg">Os recursos de anonimato podem representar riscos de segurança. Usar esses recursos mesmo assim?</string>
     <string name="ftp_anonymous_warning_title">Atenção!</string>
@@ -396,7 +396,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="item_view_role_description">Guia</string>
     <string name="just_now">Agora mesmo</string>
     <string name="kilobyteShort">"KB"</string>
-    <string name="lack_perm_msg">O gerenciador de Arquivos requer as seguintes permissões para funcionar normalmente: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_msg">O Arquivos requer as seguintes permissões para funcionar normalmente: &lt;b>%s&lt;/b></string>
     <string name="lack_perm_title">Permissões necessárias</string>
     <string name="launcher_icon_add_description">Adicionar atalho à Tela inicial</string>
     <string name="launcher_icon_remove_description_content">"O Arquivos é um app do sistema. Você não poderá gerenciar arquivos no seu dispositivo após remover o atalho da Tela inicial."</string>
@@ -435,7 +435,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="menu_new_display_open">Abrir em uma nova janela</string>
     <string name="menu_pc_open">Abra com um programa de computador</string>
     <string name="menu_set_wallpaper">Definir como plano de fundo</string>
-    <string name="message_request_manage_external_storage_perm">O gerenciador de Arquivos precisa de permissão para acessar e assim gerenciar os arquivos em seu dispositivo. Você pode conceder essa permissão em Configurações.</string>
+    <string name="message_request_manage_external_storage_perm">O Arquivos precisa de permissão para acessar e assim gerenciar os arquivos em seu dispositivo. Você pode conceder essa permissão nas Configurações.</string>
     <string name="mi_router_label">Roteador</string>
     <string name="mi_share">Compartilhamento Mi</string>
     <string name="midnight">"AM"</string>
@@ -450,7 +450,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="midrop_msg_1">Conectar Mi Drop nos outros dispositivos</string>
     <string name="midrop_msg_2">Quando Mi Drop estiver ativado, pode pesquisar dispositivos próximos e enviar arquivos</string>
     <string name="midrop_send_files">Escolher arquivos para enviar</string>
-    <string name="mirror_can_not_drag_mask">Arraste para usar o Compartilhamento MI</string>
+    <string name="mirror_can_not_drag_mask">Arraste para usar o Compartilhamento Mi</string>
     <string name="mirror_can_not_drag_mask_new">Arraste itens para %s</string>
     <string name="mirror_new_name">Criar pasta (%s)</string>
     <string name="mirror_new_name_first">Criar pasta</string>
@@ -591,7 +591,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="name_empty">Insira o nome</string>
     <string name="navigator_label_all_files">Todos os arquivos</string>
     <string name="navigator_label_external_devices">Dispositivos externos</string>
-    <string name="need_open_content">Permitir que o Gerenciador de arquivos acesse suas fotos e arquivos para usar este recurso.</string>
+    <string name="need_open_content">Permitir que Arquivos acesse suas fotos e arquivos para usar este recurso.</string>
     <string name="need_open_permission">Permissões necessárias</string>
     <string name="need_read_storage_permission">Arquivos necessita de permissão de acesso ao armazenamento do dispositivo para funcionar normalmente</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
@@ -683,7 +683,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="operation_retry">Tente novamente</string>
     <string name="operation_send">Enviar</string>
     <string name="operation_send_to_pc">Mover para o computador</string>
-    <string name="operation_set_pic_wallpaper">Definir como Papel de Parede</string>
+    <string name="operation_set_pic_wallpaper">Definir como plano de fundo</string>
     <string name="operation_show_privacy_policy">Mostrar Política de Privacidade</string>
     <string name="operation_show_sys">Mostrar arquivos ocultos</string>
     <string name="operation_sync_cloud_data_error">Ocorreu um erro no servidor. Aguarde e tente novamente mais tarde.</string>
@@ -708,7 +708,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="otg_file_security_confirm">copiar para o telefone</string>
     <string name="otg_file_security_details">Por favor, copie para o telefone</string>
     <string name="otg_file_security_note">Segurança OTG</string>
-    <string name="overwrite_msg">\"%s\" já existe. Toque para o substituir pelo novo arquivo</string>
+    <string name="overwrite_msg">\"%s\" já existe. Toque para o substituir pelo novo arquivo.</string>
     <string name="pad">"Tablet"</string>
     <string name="pad_homepage_tab_file_view_phone">"Tablet"</string>
     <string name="pad_start_phone">Armazenamento</string>
@@ -731,13 +731,13 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="permission_account_desc_pad">Para acessar as informações da conta armazenadas em seu dispositivo</string>
     <string name="permission_account_title">Acessar contas de dispositivos</string>
     <string name="permission_account_title_pad">Acessar contas de dispositivos</string>
-    <string name="permission_denial">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
+    <string name="permission_denial">Não foi possível acessar os arquivos. Permitir que o Arquivos acesse os arquivos nas Configurações</string>
     <string name="permission_description">Detalhes de permissões</string>
-    <string name="permission_group_description_phone">Quando você define um arquivo como privado, este app coletará o IMEI do seu dispositivo para fins de reconhecimento, armazenamento e desbloqueio</string>
+    <string name="permission_group_description_phone">Quando você define um arquivo como privado, este app coletará o IMEI do seu dispositivo para fins de reconhecimento, armazenamento e desbloqueio.</string>
     <string name="permission_group_description_storage_space">Acesse e adicione itens ao armazenamento</string>
     <string name="permission_group_name_phone">Telefone</string>
     <string name="permission_group_name_storage_space">Armazenamento</string>
-    <string name="permission_required">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
+    <string name="permission_required">Não foi possível acessar os arquivos. Permitir que o Arquivos acesse os arquivos nas Configurações</string>
     <string name="permission_storage_desc_pad">Para salvar fotos e documentos em seu dispositivo</string>
     <string name="permission_storage_title">Acessar o armazenamento do dispositivo</string>
     <string name="permission_storage_title_pad">Acessar o armazenamento do dispositivo</string>
@@ -753,7 +753,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="phone_storage_image_title">"Imagens: "</string>
     <string name="phone_storage_info_str">%1$s de %2$s disponíveis</string>
     <string name="phone_storage_other_title">"Outros: "</string>
-    <string name="phone_storage_size_tip">O espaço disponível mostrado em Arquivos pode ser diferente de outros apps</string>
+    <string name="phone_storage_size_tip">O espaço disponível mostrado no Arquivos pode ser diferente de outros apps</string>
     <string name="phone_storage_video_title">"Vídeos: "</string>
     <string name="phone_storage_zip_title">"Zips: "</string>
     <string name="pick_file">Escolha o arquivo</string>
@@ -768,12 +768,12 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="pref_permission_not_allowed">Não permitido</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_policy_renew">Política de privacidade atualizada</string>
-    <string name="privacy_policy_renew_content"><Data>"A &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do gerenciador de Arquivos foi atualizada. Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com a nova versão da Política de Privacidade antes de continuar."</Data></string>
+    <string name="privacy_policy_renew">Política de Privacidade atualizada</string>
+    <string name="privacy_policy_renew_content"><Data>"A &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Arquivos foi atualizada. Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com a nova versão da Política de Privacidade antes de continuar."</Data></string>
     <string name="privacy_recall_alert_description" formatted="false">Limpe todos os itens do Mi Drive para poder retirar o consentimento. Siga estas etapas para limpar itens:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na página inicial do Mi Drive, pressione e segure um item para fazer o botão \"Selecionar todos\" aparecer. Use este botão para selecionar até 200 arquivos por vez e excluí-los.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Depois disso, limpe seus itens excluídos recentemente.</string>
     <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Observe que os itens excluídos recentemente não podem ser recuperados depois de excluí-los."</string>
     <string name="privacy_recall_confirm_button">Retirar</string>
-    <string name="privacy_recall_confirm_description">"Se continuar, você retirará seu consentimento para a Política de Privacidade do gerenciador de Arquivos. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma."</string>
+    <string name="privacy_recall_confirm_description">"Se continuar, você retirará seu consentimento para a Política de Privacidade do Arquivos. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma."</string>
     <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Os seguintes itens serão excluídos permanentemente após a retirada do consentimento:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Todos os itens no Mi Drive, incluindo, entre outros, documentos, arquivos privados e itens excluídos.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Permissões do dispositivo, configurações e outros conteúdos em cache.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Histórico de envios e download do Mi Drive.</string>
     <string name="privacy_recall_success">Consentimento retirado com sucesso</string>
     <string name="privacy_recall_title">Retirada de consentimento</string>
@@ -782,14 +782,14 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="private_folder">Arquivos privados</string>
     <string name="private_folder_no_file_hints">Pressione e segure um arquivo ou uma pasta para torná-lo privado</string>
     <string name="private_folder_update">Atualizando arquivos privados…</string>
-    <string name="private_folder_update_msg">O Arquivos está introduzindo uma medida de segurança adicional: você pode criptografar arquivos pessoais agora!</string>
-    <string name="private_folder_update_msg_summary">A descriptografia tornará a remoção de arquivos da pasta privada mais lenta. Você pode ativar e desativar a criptografia nas configurações.</string>
+    <string name="private_folder_update_msg">O Arquivos está introduzindo uma medida de segurança adicional: Você pode criptografar arquivos pessoais agora!</string>
+    <string name="private_folder_update_msg_summary">A descriptografia tornará a remoção de arquivos da pasta privada mais lenta. Você pode ativar e desativar a criptografia nas Configurações.</string>
     <string name="private_folder_update_tips">Novo recurso</string>
     <string name="private_toast_hint2">Para ocultar um arquivo pressione e segure-o, depois adicione-o a uma pasta oculta</string>
     <string name="promot_enctypt_password">Introduzir senha utilizada para desbloquear o seu dispositivo</string>
     <string name="pull_to_enter_private">PPuxe para baixo para abrir a pasta particular</string>
     <string name="pull_to_refresh">Puxe para atualizar</string>
-    <string name="qq_msg">Devido às restrições do Android 11, o Gerenciador de arquivos não pode acessar e exibir os documentos do QQ.</string>
+    <string name="qq_msg">Devido às restrições do Android 11, o Arquivos não pode acessar e exibir os documentos do QQ.</string>
     <string name="qq_title">Não é possível acessar os documentos do WeChat</string>
     <string name="query_quota_exception">Ocorreu um erro no servidor. Aguarde e tente novamente mais tarde.</string>
     <string name="query_quota_searching">Aguarde…</string>
@@ -831,7 +831,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="save_file_to_mishare">Salvo na pasta do Mi Share</string>
+    <string name="save_file_to_mishare">Salvo na pasta do Compartilhamento Mi</string>
     <string name="search_app">Apps e pastas</string>
     <string name="search_app_more">Mais</string>
     <string name="search_category">Pesquisar por categoria</string>
@@ -880,7 +880,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="skip">Pular</string>
     <string name="skip_file">Ignorar</string>
     <string name="smb_loading">Aguarde…</string>
-    <string name="solar_term_autumn_begins">Início do Outono</string>
+    <string name="solar_term_autumn_begins">Início do outono</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
     <string name="solar_term_clear_and_bright">Claro e brilhante</string>
     <string name="solar_term_cold_dews">Orvalho frio</string>
@@ -895,14 +895,14 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="solar_term_light_snow">Pouca neve</string>
     <string name="solar_term_slight_cold">Frio moderado</string>
     <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Início da Primavera</string>
+    <string name="solar_term_spring_begins">Início da primavera</string>
     <string name="solar_term_stopping_the_heat">Calor acaba</string>
-    <string name="solar_term_summer_begins">Início do Verão</string>
+    <string name="solar_term_summer_begins">Início do verão</string>
     <string name="solar_term_summer_solstice">Solstício de verão</string>
     <string name="solar_term_the_rains">Aguaceiros de primavera</string>
     <string name="solar_term_vernal_equinox">Equinócio de primavera</string>
     <string name="solar_term_white_dews">Orvalhos</string>
-    <string name="solar_term_winter_begins">Início do Inverno</string>
+    <string name="solar_term_winter_begins">Início do inverno</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="sort_hint_name">Ordenar por nome</string>
     <string name="sort_hint_time">Ordenar por data</string>
@@ -1044,7 +1044,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="web_sso_login_fail">Você precisa fazer login novamente</string>
     <string name="web_sso_login_message">Entrando…</string>
     <string name="webview_reload">Tente novamente</string>
-    <string name="wechat_msg">Devido às restrições do Android 11, o Gerenciador de arquivos não pode acessar e exibir os documentos visualizados no WeChat. Abra e salve documentos no WeChat para que eles apareçam aqui.</string>
+    <string name="wechat_msg">Devido às restrições do Android 11, o Arquivos não pode acessar e exibir os documentos visualizados no WeChat. Abra e salve documentos no WeChat para que eles apareçam aqui.</string>
     <string name="wechat_title">Não consigo acessar os documentos do WeChat</string>
     <string name="wechat_video">Vídeo em %s</string>
     <string name="wednesday">Quarta</string>
@@ -1063,8 +1063,8 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="wifi_state">Status do Wi-Fi</string>
     <string name="withdraw">Retirar</string>
     <string name="withdraw_consent">Retirada de consentimento</string>
-    <string name="withdraw_consent_content">"Se continuar, você retirará seu consentimento com a Política de Privacidade do gerenciador de Arquivos. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como o gerenciador de Arquivos fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços do app Arquivos."</string>
-    <string name="withdraw_consent_summary">Retire o consentimento para a Política de Privacidade do gerenciador de Arquivos</string>
+    <string name="withdraw_consent_content">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Arquivos. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como o Arquivos fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços do app Arquivos."</string>
+    <string name="withdraw_consent_summary">Retire o consentimento para a Política de Privacidade do Arquivos</string>
     <string name="year_month_day_format">dd-MM-yyyy</string>
     <string name="yes">Sim</string>
     <string name="yesterday">Ontem</string>

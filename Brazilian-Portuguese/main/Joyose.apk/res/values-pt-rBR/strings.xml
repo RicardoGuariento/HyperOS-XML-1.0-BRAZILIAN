@@ -42,7 +42,7 @@
     <string name="copy">Copiar</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
-    <string name="delDialog">Aviso: operação de exclusão</string>
+    <string name="delDialog">Aviso: Operação de exclusão</string>
     <string name="delDialog_msg">Exclua este parâmetro do jogo</string>
     <string name="detect_fakecell">Reconhecer SMS de estações-base falsas</string>
     <string name="dynamic_fps">"Modo desempenho: "</string>
@@ -91,13 +91,13 @@
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="forbidden_fakecell">Não conecte a estações-base falsas</string>
-    <string name="forbidden_fakecell_summary">Impedir que seu telefone se conecte a estações-base falsas</string>
+    <string name="forbidden_fakecell_summary">Impede que seu dispositivo se conecte a estações-base falsas</string>
     <string name="foreground_text">Usa os serviços em primeiro plano para aumentar o nível de prioridade</string>
     <string name="foreground_title">Serviços em primeiro plano</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="hello_world">Olá Mundo!</string>
+    <string name="hello_world">Olá mundo!</string>
     <string name="joyose_name">"Joyose"</string>
     <string name="lab_switch_server">Alternar servidores</string>
     <string name="local_ctrl">Depuração local</string>
@@ -172,8 +172,8 @@
     <string name="not_resurge_title">Ressurgindo</string>
     <string name="not_set">Não defenido</string>
     <string name="not_support_forbidden_fakecell">Seu dispositivo não suporta proteção no nível de chip de estações-base falsas.</string>
-    <string name="open_cta">Permitir que este app se conecte à Internet em Segurança.</string>
-    <string name="package_name">"nome do pacote: "</string>
+    <string name="open_cta">Permitir que este app se conecte à internet em Segurança.</string>
+    <string name="package_name">"Nome do pacote: "</string>
     <string name="permstep_description">Permitir que este app acesse sua contagem de etapas</string>
     <string name="permstep_label">AContagem de etapas de acesso</string>
     <string name="pm">"PM"</string>
@@ -194,7 +194,7 @@
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="support_forbidden_fakecell">Nota: Restringir a conexão a estações-base falsas pode diminuir o sinal em áreas com pouca cobertura.</string>
+    <string name="support_forbidden_fakecell">Observação: Restringir a conexão a estações-base falsas pode diminuir o sinal em áreas com pouca cobertura.</string>
     <string name="switch_international">Mudar para servidor global</string>
     <string name="switch_to_official">Mudar para servidor oficial</string>
     <string name="switch_to_russia">Mudar para o servidor da Rússia</string>

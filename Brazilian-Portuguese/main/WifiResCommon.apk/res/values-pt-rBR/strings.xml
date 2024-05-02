@@ -17,7 +17,7 @@
     <string name="wifi_available_title_failed_to_connect">Não foi possível conectar à rede Wi-Fi</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">Toque para alterar as configurações de privacidade e tente novamente</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">Não é possível conectar-se a %1$s</string>
-    <string name="wifi_connect_alert_message">App %1$s gostaria de se conectar à rede Wifi %2$s</string>
+    <string name="wifi_connect_alert_message">O app %1$s gostaria de se conectar à rede Wi-Fi %2$s</string>
     <string name="wifi_connect_alert_title">Permitir conexão?</string>
     <string name="wifi_connect_default_application">Um app</string>
     <string name="wifi_disable_mac_randomization_dialog_confirm_text">Alterar configuração</string>
@@ -37,7 +37,7 @@ Esta mudança pode permitir que a localização do seu dispositivo seja rastread
     <string name="wifi_eap_error_message_code_32766">%1$s : Erro de autenticação EAP 32766</string>
     <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
     <string name="wifi_p2p_enter_pin_message">Digite o PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">O telefone se desconectará temporariamente do Wi-Fi enquanto estiver conectado a %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">O dispositivo se desconectará temporariamente do Wi-Fi enquanto estiver conectado a %1$s</string>
     <string name="wifi_p2p_from_message">A partir de:</string>
     <string name="wifi_p2p_invitation_sent_title">Convite enviado</string>
     <string name="wifi_p2p_invitation_to_connect_title">Convite para conectar</string>
@@ -55,7 +55,7 @@ Esta mudança pode permitir que a localização do seu dispositivo seja rastread
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">Não conectar</string>
     <string name="wifi_suggestion_content">%s redes sugeridas. O dispositivo pode se conectar automaticamente.</string>
     <string name="wifi_suggestion_imsi_privacy_content">Essas redes recebem um ID único que pode ser usado para rastrear a localização do dispositivo</string>
-    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">Se você se conectar, as redes Wi-Fi %s podem acessar ou compartilhar uma ID exclusiva associada ao seu chip. Isso pode permitir que a localização do seu dispositivo seja rastreada.</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">Se você se conectar, as redes Wi-Fi %s podem acessar ou compartilhar um ID exclusivo associado ao seu chip. Isso pode permitir que a localização do seu dispositivo seja rastreada.</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Confirmar a conexão?</string>
     <string name="wifi_suggestion_imsi_privacy_title">%s quer se conectar automaticamente</string>
     <string name="wifi_suggestion_title">Permitir redes Wi-Fi sugeridas?</string>
@@ -66,5 +66,5 @@ Esta mudança pode permitir que a localização do seu dispositivo seja rastread
     <string name="wifi_wakeup_onboarding_subtext">Quando você estiver perto de uma rede salva de alta qualidade</string>
     <string name="wifi_wakeup_onboarding_title">O Wi-Fi será ativado automaticamente</string>
     <string name="wifi_watchdog_network_disabled">Não foi possível conectar ao Wi-Fi</string>
-    <string name="wifi_watchdog_network_disabled_detailed"> tem uma conexão de Internet ruim.</string>
+    <string name="wifi_watchdog_network_disabled_detailed"> tem uma conexão de internet ruim.</string>
 </resources>

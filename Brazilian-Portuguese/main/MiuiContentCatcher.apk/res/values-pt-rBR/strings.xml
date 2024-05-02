@@ -30,11 +30,11 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
-    <string name="app_name">Serviço de extensão de App</string>
+    <string name="app_name">Serviço de extensão do app</string>
     <string name="auth_activity_label">Códigos de verificação</string>
     <string name="auth_fingerprint_content">Verificando impressão digital…</string>
     <string name="auth_fingerprint_content_message">Coloque o dedo no sensor</string>
-    <string name="auth_fingerprint_content_message_error">"Não foi possível verificar sua impressão digital, tente novamente"</string>
+    <string name="auth_fingerprint_content_message_error">"Não foi possível verificar sua impressão digital, tente novamente."</string>
     <string name="auth_fingerprint_title">Verifique sua impressão digital</string>
     <string name="autofill_description">"O HyperOS pode criptografar e armazenar suas senhas, assim elas serão preenchidas automaticamente onde você quiser. A Xiaomi não poderá ler suas senhas criptografadas."</string>
     <string name="autofill_hint_email_address">E-mail</string>
@@ -105,7 +105,7 @@
     <string name="friday_shortest">Sex</string>
     <string name="invalid_package_signature">A assinatura do app é inválida</string>
     <string name="login_mi_account_alert">Atenção!</string>
-    <string name="login_mi_account_summary">O gerenciador de senhas sincroniza senhas com sua Conta Mi. Fazer login agora?</string>
+    <string name="login_mi_account_summary">O Gerenciador de senhas sincroniza senhas com sua Conta Mi. Fazer login agora?</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
