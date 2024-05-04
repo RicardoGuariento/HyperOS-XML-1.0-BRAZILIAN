@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -47,7 +47,7 @@
     <string name="anti_flicker_mode">Anti-oscilação</string>
     <string name="anti_flicker_mode_categroy">Modos</string>
     <string name="anti_flicker_mode_summary">Evita a oscilação e o esforço dos olhos em condições de pouca luz</string>
-    <string name="anti_flicker_mode_summary_new">Use dimerização DC com pouca luz para reduzir o cansaço visual</string>
+    <string name="anti_flicker_mode_summary_new">Use o DC Dimming com pouca luz para reduzir o cansaço visual</string>
     <string name="anti_flicker_title">Modo Anti-oscilação</string>
     <string name="app_name">Configurações Mi</string>
     <string name="app_use">Tempo de tela do app</string>
@@ -117,7 +117,7 @@
     <string name="canada_goose">Ganso-do-canadá</string>
     <string name="capybara">Capivara</string>
     <string name="capybara_info">"As capivaras são roedores herbívoros semiaquáticos que conseguem prender a respiração debaixo d'água por até cinco minutos de cada vez."</string>
-    <string name="category_limit_notify_title">Alerta de Tempo de tela</string>
+    <string name="category_limit_notify_title">Alerta de tempo de tela</string>
     <string name="category_list_expand">Mais</string>
     <string name="category_list_packup">Ocultar</string>
     <string name="category_other">Outros</string>
@@ -129,7 +129,7 @@
     <string name="class_bird">Pássaros</string>
     <string name="class_breast_feeding">Mamíferos</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
-    <string name="click_to_save">Toque \"Concluído\" para definir um toque geral.</string>
+    <string name="click_to_save">Toque em \"Concluído\" para definir um toque geral.</string>
     <string name="close">Fechar</string>
     <string name="closed_high_refresh_options">Apps que não usam alta taxa de atualização</string>
     <string name="color_gamut">Gama de cores</string>
@@ -159,13 +159,13 @@
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dc_light_hint_enable_title">Atenção!</string>
-    <string name="dc_light_hint_normal">O DC dimming pode afetar como alguns itens são exibidos.</string>
-    <string name="dc_light_hint_normal_anit">O modo anti-oscilação pode afetar a forma como alguns itens são exibidos.</string>
-    <string name="dc_light_hint_normal_other">O modo anti-oscilação pode afetar a taxa de atualização e a forma como alguns itens são exibidos.</string>
-    <string name="dc_light_hint_other">O DC dimming pode afetar a taxa de atualização e a forma que alguns itens são exibidos.</string>
-    <string name="dc_light_hint_unnormal_low">O modo anti-cintilação de luz fraca pode afetar a forma como alguns itens são exibidos.</string>
-    <string name="dc_light_hint_unnormal_other">O modo anti-cintilação de luz fraca pode afetar a taxa de atualização e a forma como alguns itens são exibidos.</string>
-    <string name="dc_lignt_enable_hint">O modo anti-oscilação definirá a taxa de atualização da tela para 60 Hz. Alterar para o modo Anti-oscilação?</string>
+    <string name="dc_light_hint_normal">O DC Dimming pode afetar como alguns itens são exibidos.</string>
+    <string name="dc_light_hint_normal_anit">O Modo Anti-oscilação pode afetar a forma como alguns itens são exibidos.</string>
+    <string name="dc_light_hint_normal_other">O Modo Anti-oscilação pode afetar a taxa de atualização e a forma como alguns itens são exibidos.</string>
+    <string name="dc_light_hint_other">O DC Dimming pode afetar a taxa de atualização e a forma que alguns itens são exibidos.</string>
+    <string name="dc_light_hint_unnormal_low">O Modo Anti-oscilação pode afetar a forma como alguns itens são exibidos.</string>
+    <string name="dc_light_hint_unnormal_other">O Modo Anti-oscilação pode afetar a taxa de atualização e a forma como alguns itens são exibidos.</string>
+    <string name="dc_lignt_enable_hint">O Modo Anti-oscilação definirá a taxa de atualização da tela para 60 Hz. Alterar para o Modo Anti-oscilação?</string>
     <string name="delete_first_to_add_animal">Para adicionar um novo item, exclua um primeiro.</string>
     <string name="desktop_widget_authorization">Toque para conceder permissões e assim vizualizar as estatísticas</string>
     <string name="desktop_widget_authorization_new">Toque para ver as estatísticas de tempo de uso</string>
@@ -191,13 +191,13 @@ não são geradas no Segundo espaço"</string>
     <string name="ermine">Arminho</string>
     <string name="evening">"PM"</string>
     <string name="exit_easymode">Desativar Modo simples</string>
-    <string name="exo_controls_cc_disabled_description">Habilitar legendas</string>
+    <string name="exo_controls_cc_disabled_description">Ativar legendas</string>
     <string name="exo_controls_cc_enabled_description">Desativar legendas</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_by_amount_description">Avançar %d segundos</string>
     <string name="exo_controls_fastforward_description">Avançar</string>
-    <string name="exo_controls_fullscreen_enter_description">Entrar em tela cheia</string>
-    <string name="exo_controls_fullscreen_exit_description">Sair da tela inteira</string>
+    <string name="exo_controls_fullscreen_enter_description">Entrar no Modo Tela cheia</string>
+    <string name="exo_controls_fullscreen_exit_description">Sair do Modo Tela cheia</string>
     <string name="exo_controls_hide">Ocultar controles do reprodutor</string>
     <string name="exo_controls_next_description">Próximo</string>
     <string name="exo_controls_overflow_hide_description">Ocultar configurações adicionais</string>
@@ -605,7 +605,7 @@ não são geradas no Segundo espaço"</string>
     <string name="snowy_owl">Coruja-das-neves</string>
     <string name="southern_elephant_seal">Elefante-marinho-do-sul</string>
     <string name="southern_ground_hornbill">Calau-gigante</string>
-    <string name="split_page_authorization">Bem-vindo ao tempo de tela! Aqui você pode definir limites de tempo de tela e ver estatísticas. Toque em \"Iniciar\" para ativar este recurso.</string>
+    <string name="split_page_authorization">Bem-vindo ao Tempo de tela! Aqui você pode definir limites de tempo de tela e ver estatísticas. Toque em \"Iniciar\" para ativar este recurso.</string>
     <string name="split_page_start">Iniciar</string>
     <string name="spotted_hyaena">Hiena-malhada</string>
     <string name="spotted_hyaena_info">As hienas são predadoras noturnas com os comportamentos sociais mais complexos.</string>
@@ -776,12 +776,12 @@ Os dados coletados serão armazenados apenas localmente neste dispositivo.
     <string name="usage_home_permission_account_title">Acessar informações da conta</string>
     <string name="usage_home_permission_phone_summary">Para identificar seu dispositivo usando a VAID</string>
     <string name="usage_home_permission_phone_title">Acessar informações do dispositivo</string>
-    <string name="usage_home_premission_main_summary">"Bem-vindo ao Tempo de tela! Você pode usar este app para definir limites para o tempo de tela, ver estatísticas, e mudar para o Modo foco. Este app precisa coletar informações de tempo de tela (por exemplo, o número de vezes que você desbloqueia seu telefone e liga sua tela, assim como por quanto tempo você está usando seus apps) para funcionar normalmente.</string>
+    <string name="usage_home_premission_main_summary">"Bem-vindo ao Tempo de tela! Você pode usar este app para definir limites para o tempo de tela, ver estatísticas, e mudar para o Modo foco. Este app precisa coletar informações de tempo de tela (por exemplo, o número de vezes que você desbloqueia seu dispositivo e liga sua tela, assim como por quanto tempo você está usando seus apps) para funcionar normalmente.</string>
     <string name="usage_home_premission_main_summary_new">"Bem-vindo ao Tempo de tela!
-Para funcionar normalmente, este app precisa coletar informações de tempo de tela: o número de vezes que você desbloqueia seu telefone, nomes de apps, e duração do uso de apps são necessários para gerar estatísticas de tempo de tela; Configurações do Modo foco são necessárias para gerar estatísticas do Modo foco.
+Para funcionar normalmente, este app precisa coletar informações de tempo de tela: o número de vezes que você desbloqueia seu dispositivo, nomes de apps, e duração do uso de apps são necessários para gerar estatísticas de tempo de tela; Configurações do Modo foco são necessárias para gerar estatísticas do Modo foco.
 Este app também precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:"</string>
     <string name="usage_home_premission_main_summary_new_o">"Bem-vindo ao Tempo de tela!
-Para funcionar normalmente, este app precisa coletar informações de tempo de tela: o número de vezes que você desbloqueia seu telefone, nomes de apps, e duração do uso de apps são necessários para gerar estatísticas de tempo de tela.
+Para funcionar normalmente, este app precisa coletar informações de tempo de tela: o número de vezes que você desbloqueia seu dispositivo, nomes de apps, e duração do uso de apps são necessários para gerar estatísticas de tempo de tela.
 Este app também precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:"</string>
     <string name="usage_home_premission_second_summary">Para funcionar normalmente, este app precisa coletar suas informações pessoais. Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Caso não concorde em conceder tais permissões ou compartilhar e fazer o upload das suas informações pessoais, você não poderá usar este app. Você pode revogar sua autorização em Tempo de tela > Configurações > Desativar Tempo de tela.</string>
@@ -808,7 +808,7 @@ Este app também precisa de uma conexão com a internet e requer as seguintes pe
     <string name="usage_new_home_day_usage_title_new">Tempo de tela em %s</string>
     <string name="usage_new_home_first_unlock">Primeiro desbloqueio: %s</string>
     <string name="usage_new_home_name">Nome</string>
-    <string name="usage_new_home_show_more_data_summary">É possível limitar o tempo de tela p/ apps individuais</string>
+    <string name="usage_new_home_show_more_data_summary">É possível limitar o tempo de tela para apps individuais</string>
     <string name="usage_new_home_show_more_data_title">Ver mais estatísticas</string>
     <string name="usage_new_home_sys_no_limit_summary">Não é possível limitar o tempo de tela para apps do sistema</string>
     <string name="usage_new_home_unlock_equals_text">Mesmo de ontem</string>
@@ -819,7 +819,7 @@ Este app também precisa de uma conexão com a internet e requer as seguintes pe
     <string name="usage_new_home_week_category_title">Categorias de apps</string>
     <string name="usage_new_home_week_compare_text1">%.2f a mais do que a semana passada</string>
     <string name="usage_new_home_week_compare_text1_new">(%s%% - mais que a última semana)</string>
-    <string name="usage_new_home_week_compare_text2">%.2f menos do que a semana passada</string>
+    <string name="usage_new_home_week_compare_text2">%.2f a menos do que a semana passada</string>
     <string name="usage_new_home_week_compare_text2_new">(%s%% - menos que a última semana)</string>
     <string name="usage_new_home_week_equals_text">Mesmo do que a semana passada</string>
     <string name="usage_new_home_week_title">Semana</string>
@@ -871,7 +871,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usage_state_channel_mouth">Últimos 30 dias</string>
     <string name="usage_state_channel_week">Últimos 7 dias</string>
     <string name="usage_state_date">d/MM</string>
-    <string name="usage_state_device_limit_summary">Defina um limite diário de tela p/ seu dispositivo</string>
+    <string name="usage_state_device_limit_summary">Defina um limite diário de tela para seu dispositivo</string>
     <string name="usage_state_device_limit_title">Limites de tempo de tela do dispositivo</string>
     <string name="usage_state_device_noti_today_tip_title">Notificações entre %1$d:00 e %2$d:00</string>
     <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %1$d:00 e %2$d:00</string>
@@ -912,7 +912,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usage_state_open_focus_mode">Ativar o Modo foco</string>
     <string name="usage_state_over_p">Melhor que</string>
     <string name="usage_state_percent">%s%%</string>
-    <string name="usage_state_remind_new_summary">Receber uma notificação quando o tempo de tela atingir o limite definido</string>
+    <string name="usage_state_remind_new_summary">Receba uma notificação quando o tempo de tela atingir o limite definido</string>
     <string name="usage_state_remind_summary">Ative para receber alertas de tempo de tela</string>
     <string name="usage_state_remind_title">Alerta de tempo de tela</string>
     <string name="usage_state_rest_day">Finais de semana</string>
@@ -1018,5 +1018,5 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="yellow_throated_marten">Marta-de-garganta-amarela</string>
     <string name="yesterday">Ontem</string>
     <string name="yunnan_snub_nosed_monkey">Macaco-preto-de-nariz-arrebitado</string>
-    <string name="footer_global_fps">"%1$d. Ao ativar o modo Desempenho, a taxa de atualização será alterada para o máximo do sistema de %2$d Hz. As configurações do aplicativo com alta taxa de atualização ficarão temporariamente indisponíveis."</string>
+    <string name="footer_global_fps">"%1$d. Ao ativar o Modo desempenho, a taxa de atualização será alterada para o máximo do sistema de %2$d Hz. As configurações do app com alta taxa de atualização ficarão temporariamente indisponíveis."</string>
 </resources>

@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -85,7 +85,7 @@
     <string name="bugreport_dump_start_notification_title">Gerando relatório de erros…</string>
     <string name="bugreport_tool_log_dumping_desc">Leva cerca de 1 minuto</string>
     <string name="bugreport_tool_log_dumping_title">Criando relatório de erros</string>
-    <string name="can_not_add_more_image">"Can't add more photos or videos"</string>
+    <string name="can_not_add_more_image">"Não é possível adicionar mais fotos ou vídeos"</string>
     <string name="catch_full_log_action_cancel">Cancelar</string>
     <string name="catch_full_log_action_complete">Concluir e enviar</string>
     <string name="catch_full_log_action_start">Iniciar</string>
@@ -149,7 +149,7 @@
     <string name="cta_cancel">Cancelar</string>
     <string name="cta_confirm">"OK"</string>
     <string name="cta_dialog_content">Este app precisa se conectar à internet para funcionar corretamente.</string>
-    <string name="cta_dialog_title">Conexão com a Internet</string>
+    <string name="cta_dialog_title">Conexão com a internet</string>
     <string name="cta_message">&lt;Data>Para poder funcionar normalmente, o Feedback precisa se conectar à internet. Este app também pode solicitar permissão para acessar sua localização. Leia e concorde com nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="cta_not_show_again">Não mostrar novamente</string>
     <string name="customer_service_apply">Solicitar suporte ao cliente</string>
@@ -241,7 +241,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_detail_feedback_attach_upload_failed">Não foi possível fazer o upload</string>
     <string name="feedback_detail_feedback_attach_uploading">Fazendo o upload…</string>
     <string name="feedback_detail_feedback_category">Categoria</string>
-    <string name="feedback_detail_feedback_id">ID do Relatório: %d</string>
+    <string name="feedback_detail_feedback_id">ID do relatório: %d</string>
     <string name="feedback_detail_feedback_reply_hint">Responder</string>
     <string name="feedback_detail_feedback_summary">"Feedback"</string>
     <string name="feedback_detail_need_content">Insira o conteúdo primeiro</string>
@@ -372,7 +372,7 @@ Envie este código ao supervisor."</string>
     <string name="i_know">"OK"</string>
     <string name="icon_add_description">Adicione um atalho na Tela inicial</string>
     <string name="icon_remove_confirm">Remover</string>
-    <string name="icon_remove_description_content">\"Serviços e feedback\" é um app do sistema. Você ainda poderá usá-lo em Configurações depois de remover o atalho da Tela inicial.</string>
+    <string name="icon_remove_description_content">\"Serviços e feedback\" é um app do sistema. Você ainda poderá usá-lo nas Configurações depois de remover o atalho da Tela inicial.</string>
     <string name="icon_remove_description_title">Remover \"Serviços e feedback\" da Tela inicial?</string>
     <string name="identity">Identificação</string>
     <string name="inconsistent_pwd">As senhas não conferem</string>
@@ -456,8 +456,8 @@ Envie este código ao supervisor."</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Upload</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Parece que você está conectado a uma rede de dados móveis. O upload de logs pode gerar taxas adicionais."</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_title">Aviso de uso de dados</string>
-    <string name="miui_feedback_edit_need_phone_state_permission">Permita que o app acesse as informações do dispositivo para ler seu IMEI, o que ajudará a localizar problemas. Toque em \"OK\" para abrir Configurações.</string>
-    <string name="miui_feedback_edit_need_storage_permission">Permita que o app acesse o armazenamento do dispositivo para poder anexar imagens e vídeos aos seus comentários. Toque em \"OK\" para abrir Configurações.</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">Permita que o app acesse as informações do dispositivo para ler seu IMEI, o que ajudará a localizar problemas. Toque em \"OK\" para abrir as Configurações.</string>
+    <string name="miui_feedback_edit_need_storage_permission">Permita que o app acesse o armazenamento do dispositivo para poder anexar imagens e vídeos aos seus comentários. Toque em \"OK\" para abrir as Configurações.</string>
     <string name="miui_feedback_edit_permission_denied_title">Permissões restritas: %1$s</string>
     <string name="miui_feedback_edit_phone_state_permission_name">Acessar informações do dispositivo</string>
     <string name="miui_feedback_edit_reproductivity_everytime">Sempre</string>
@@ -500,7 +500,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">Perguntas frequentes</string>
     <string name="miui_feedback_main_item_catch_full_log">"Logs"</string>
     <string name="miui_feedback_main_item_customer_service">Serviços de pós-venda</string>
-    <string name="miui_feedback_main_item_feedback_list">Meu feedback</string>
+    <string name="miui_feedback_main_item_feedback_list">Meus feedback</string>
     <string name="miui_feedback_main_menu_view_privacy">Política de Privacidade</string>
     <string name="miui_feedback_main_menu_view_withdraw_consent">Retirada do consentimento</string>
     <string name="miui_feedback_main_search_footer">"Estas não são as perguntas que você quer fazer?"</string>
@@ -623,7 +623,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="non_system_app_select">Apps baixados</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
-    <string name="not_support_service_in_maintenance_mode">"This service isn't available in maintenance mode"</string>
+    <string name="not_support_service_in_maintenance_mode">"Este serviço não está disponível no modo manutenção"</string>
     <string name="ok">"OK"</string>
     <string name="open_feedback_main">Mais</string>
     <string name="open_settings">Ir para Configurações</string>
@@ -656,7 +656,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="passport_empty_password">A senha não pode estar em branco</string>
     <string name="passport_empty_user_name">O nome de usuário não pode estar em branco</string>
     <string name="passport_error_auth_fail">A sessão expirou. Faça o login novamente.</string>
-    <string name="passport_error_device_id">Não é possível obter a ID do dispositivo</string>
+    <string name="passport_error_device_id">Não é possível obter o ID do dispositivo</string>
     <string name="passport_error_dynamic_token_error">Código de verificação incorreto</string>
     <string name="passport_error_email">O endereço de e-mail digitado é inválido</string>
     <string name="passport_error_empty_captcha_code">Insira o captcha</string>
@@ -698,21 +698,21 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="passport_input_phone_number_hint">Insira o número de telefone</string>
     <string name="passport_input_vcode_hint">Digite o código de verificação</string>
     <string name="passport_input_verify_code">Insira o código de verificação</string>
-    <string name="passport_input_voice_captcha_hint">Por favor, entre com o código de verificação por voz</string>
+    <string name="passport_input_voice_captcha_hint">Por favor, entre com o código de verificação por voz.</string>
     <string name="passport_input_voice_hint">Digite o código de verificação por voz</string>
-    <string name="passport_international_phone_password_login_tip">(Usuários fora da China devem inserir o número do telefone celular no seguinte formato: +[código de área][número de telefone], por exemplo: +32 912345678)</string>
+    <string name="passport_international_phone_password_login_tip">(Usuários fora da China devem inserir o número do telefone no seguinte formato: +[código de área][número de telefone], por exemplo: +32 912345678)</string>
     <string name="passport_log_detail">Ver detalhes</string>
     <string name="passport_login_failed">Não foi possível fazer o login</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
     <string name="passport_mi_account_title">Entrar com a Conta Mi</string>
     <string name="passport_network_error">Ocorreu um erro de rede.</string>
-    <string name="passport_network_error_hint">Verifique o URL e tente novamente ou copie o URL e abra-o no navegador.</string>
+    <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a no navegador.</string>
     <string name="passport_next">Avançar</string>
     <string name="passport_next_step">AVANÇAR</string>
     <string name="passport_page_load_failed">"Não é possível abrir a página"</string>
     <string name="passport_password_login_btn">Entrar</string>
     <string name="passport_password_not_show">"Não mostrar senha"</string>
-    <string name="passport_password_req_notice">A senha deve conter de 8 a 16 caracteres e combinar pelo menos dois dos seguintes itens: letras, números ou símbolos especiais (por exemplo: 123abc@#, 123abc ou abc@#).</string>
+    <string name="passport_password_req_notice">A senha deve conter de 8 a 16 caracteres e combinar pelo menos dois dos seguintes itens: letras, números ou símbolos especiais (ex.: 123abc@#, 123abc ou abc@#).</string>
     <string name="passport_password_show">Mostrar senha</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
     <string name="passport_quick_login_dialog_step2_title">Verificação em 2 etapas</string>
@@ -777,8 +777,8 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="permission_exit">Sair</string>
     <string name="permission_external_storage_introduce">Para salvar e enviar seu feedback</string>
     <string name="permission_first_start_network_title">Termos e condições</string>
-    <string name="permission_imei_disable_desc">Permitir que este app se conecte à Internet.</string>
-    <string name="permission_imei_enable_desc">Permita que este app se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
+    <string name="permission_imei_disable_desc">Permitir que este app se conecte à internet.</string>
+    <string name="permission_imei_enable_desc">Permita que este app se conecte à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
     <string name="permission_main_purpose">Exibindo demonstrações de recursos HyperOS, enviando comentários e solicitando serviços pós-venda.</string>
     <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
@@ -800,10 +800,10 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_category_title">Privacidade</string>
     <string name="privacy_policy_title">Política de Privacidade</string>
-    <string name="privacy_policy_update_hint">"%1$s Política de privacidade foi atualizada:
+    <string name="privacy_policy_update_hint">"%1$s Política de Privacidade foi atualizada:
 %2$s
 Leia e concorde com a nova versão da %3$s antes de continuar."</string>
-    <string name="privacy_policy_update_title">Política de privacidade atualizada</string>
+    <string name="privacy_policy_update_title">Política de Privacidade atualizada</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="protocal_dialog_cancel">Cancelar</string>
     <string name="protocal_dialog_confirm">Aceitar</string>
@@ -854,7 +854,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="send_email_activate_message">E-mail de verificação enviado com sucesso</string>
     <string name="sending">Enviando…</string>
     <string name="service_error">Erro no servidor</string>
-    <string name="service_unavailiable">Não foi possível obter informações, tente novamente mais tarde</string>
+    <string name="service_unavailiable">Não foi possível obter informações, tente novamente mais tarde.</string>
     <string name="set_success">Alterado com sucesso</string>
     <string name="sign_in">Entrando</string>
     <string name="sign_in_progress">Entrando…</string>

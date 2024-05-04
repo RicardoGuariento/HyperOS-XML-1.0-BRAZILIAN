@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -71,10 +71,10 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="close_invisible_mode_dialog_cancel">Cancelar</string>
-    <string name="close_invisible_mode_dialog_message">"Não é possível usar o Play inteligente Mi agora. Desative o Modo anônimo nas Configurações para poder usar esse recurso."</string>
+    <string name="close_invisible_mode_dialog_message">"Não é possível usar o Mi Smart Play agora. Desative o Modo anônimo nas Configurações para poder usar esse recurso."</string>
     <string name="close_invisible_mode_dialog_ok">Configurações</string>
     <string name="close_invisible_mode_dialog_title">"Você está anônimo"</string>
-    <string name="control_center_notification_switch_guide">Deslize para alternar entre o Centro de controle e a Área de notificações</string>
+    <string name="control_center_notification_switch_guide">Deslize para alternar entre o centro de controle e a área de notificações</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de tela,vibrar</string>
     <string name="controls_add_device_guide">Nenhum dispositivo aqui ainda</string>
     <string name="controls_click_to_add_device">Adicionar dispositivos</string>
@@ -89,14 +89,14 @@
     <string name="controls_dismiss_dialog_confirm">Configurações</string>
     <string name="controls_dismiss_dialog_confirm_international">Excluir</string>
     <string name="controls_dismiss_dialog_message">Gerencie dispositivos de casa inteligente de vários apps no Centro de controle</string>
-    <string name="controls_dismiss_dialog_message_international">Remover o cartão \"Casa inteligente\" agora? É possível restaurá-lo em Configurações > Centro de controle.</string>
+    <string name="controls_dismiss_dialog_message_international">Remover o cartão \"Casa inteligente\" agora? É possível restaurá-lo em Configurações > Notificações e barra de status.</string>
     <string name="controls_dismiss_dialog_title">Dispositivos de casa inteligente</string>
     <string name="controls_dismiss_dialog_title_international">Remover cartão</string>
     <string name="controls_edit_add_device_guide">Nenhum dispositivo disponível para adicionar</string>
     <string name="controls_edit_added_subtitle">Arraste os itens para reorganizar</string>
     <string name="controls_edit_added_title">Adicionado</string>
     <string name="controls_edit_done_button">Concluído</string>
-    <string name="controls_edit_go_to_app_guide">Abrir  %s</string>
+    <string name="controls_edit_go_to_app_guide">Abrir %s</string>
     <string name="controls_edit_not_added_title">Disponível</string>
     <string name="controls_edit_panel_not_added_title">Dispositivos disponíveis</string>
     <string name="controls_edit_panel_save_button">Concluído</string>
@@ -209,6 +209,7 @@
     <string name="loading">Status desconhecido</string>
     <string name="material_slider_range_end">Fim do intervalo,</string>
     <string name="material_slider_range_start">Início do intervalo,</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">"AM"</string>
     <string name="miplay_accessibility_cast">Selecionar dispositivo</string>
     <string name="miplay_accessibility_cover">Capa</string>
@@ -218,7 +219,7 @@
     <string name="miplay_accessibility_prev">Música anterior</string>
     <string name="miplay_accessibility_seekbar">Barra de progresso</string>
     <string name="miplay_accessibility_volume">"Volume"</string>
-    <string name="miplay_bluetooth_share_des_text">"Usuários de fones de ouvido Xiaomi: abra o case ou pressione e segure o botão do case por %ds
+    <string name="miplay_bluetooth_share_des_text">"Usuários de fones de ouvido Xiaomi: abra a caixa ou pressione e segure o botão da caixa por %ds
 Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas configurações de Bluetooth e conecte-os"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Adicione fones de ouvido para compartilhar áudio</string>
     <string name="miplay_bluetooth_share_subTitle_text">Compartilhe o áudio do dispositivo com outra pessoa</string>
@@ -246,7 +247,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="miui_ringer_status_close">Desativado</string>
     <string name="miui_ringer_status_open">Ativado</string>
     <string name="miui_ringer_total">Não perturbe</string>
-    <string name="miui_ringer_total_description">Silencie os sons e desative a vibração para todos os itens, exceto o alarme</string>
+    <string name="miui_ringer_total_description">Silencie os sons e desative a vibração para todos os itens, exceto o alarme.</string>
     <string name="miui_screen_rotation_freeze_message">Orientação da tela bloqueada em modo paisagem</string>
     <string name="miui_silent_mode_off">Sons ativados</string>
     <string name="miui_silent_mode_on">Sons desativados</string>
@@ -438,7 +439,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Desativar</string>
     <string name="quick_settings_cellular_detail_title">Dados móveis</string>
     <string name="quick_settings_cellular_detail_unable_change">Não é possível definir durante a chamada</string>
-    <string name="quick_settings_circulate_workd_label">Mi Smart Hub</string>
+    <string name="quick_settings_circulate_workd_label">Xiaomi Smart Hub</string>
     <string name="quick_settings_drivemode_label">Modo carro</string>
     <string name="quick_settings_edit_label">Editar</string>
     <string name="quick_settings_extreme_batterysaver_label">Economia extrema de bateria</string>

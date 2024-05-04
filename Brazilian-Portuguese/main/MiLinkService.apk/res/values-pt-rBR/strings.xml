@@ -35,7 +35,7 @@
     <string name="answering_tel1">Respondendo no tablet…</string>
     <string name="answering_tel2">Transferido do dispositivo…</string>
     <string name="app_name">Transmitir</string>
-    <string name="app_name_vtcamera">Dispositivo MiShare</string>
+    <string name="app_name_vtcamera">Câmera entre dispositivos</string>
     <string name="appcirculate_alert_busy_negative">Cancelar</string>
     <string name="appcirculate_alert_busy_positive">Interromper</string>
     <string name="appcirculate_alert_busy_text">Parece que outro dispositivo está transferindo arquivos agora. Interromper a transferência para continuar?</string>
@@ -82,11 +82,16 @@ Faça login na sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="ball_hint_text_success">Conectado com sucesso</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="camera_associate_connecting">Conectando à câmera</string>
+    <string name="camera_associate_disconnecting">Desconectando da câmera do dispositivo</string>
     <string name="camera_associate_failed">Não foi possível conectar à câmera</string>
     <string name="camera_associate_success">Câmera conectada</string>
+    <string name="camera_choose_device">Selecionar dispositivo</string>
     <string name="camera_connecting">%s deseja usar a câmera deste dispositivo</string>
+    <string name="camera_connecting_device">Conectando-se a %s</string>
     <string name="camera_disassociate">Desconectado da câmera</string>
+    <string name="camera_disconnecting_device">Desconectando de %s</string>
     <string name="camera_notify_string">Notificação de câmera</string>
+    <string name="camera_title">Procurando dispositivos disponíveis…</string>
     <string name="cancel_button">Cancelar</string>
     <string name="car_air_con_back_switch_close">Desligue o AC do banco traseiro</string>
     <string name="car_air_con_back_switch_open">Ligue o AC do banco traseiro</string>
@@ -205,6 +210,7 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_cta_app_name">"Interconectividade Xiaomi"</string>
     <string name="circulate_cta_desc_lite_phone">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Para poder funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
     <string name="circulate_cta_desc_phone">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Para poder funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
+    <string name="circulate_cta_desc_phone_global">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio.</string>
     <string name="circulate_cta_exit">"Discordo"</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Para conectar dispositivos e transferir dados entre eles</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Para acessar a lista de apps instalados em um dispositivo móvel e espelhamento de tela em computadores</string>
@@ -220,6 +226,7 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_cta_premission_wlan_subtitle">Para transferir itens e conectar dispositivos via Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Para transferir itens e conectar dispositivos via Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title">Ativar e desativar o Wi-Fi</string>
+    <string name="circulate_cta_title_global">Declaração de privacidade</string>
     <string name="circulate_cta_user_agreement">Leia e aceite o nosso &lt;txt href=\"%1$s\">Contrato do Usuário&lt;/txt> e a nossa &lt;txt href=\"%2$s\">Política de Privacidade&lt;/txt> antes de continuar.</string>
     <string name="circulate_device_type_name_mijia">Dispositivos domésticos inteligentes</string>
     <string name="circulate_device_type_name_pad">"Tablet"</string>
@@ -232,8 +239,8 @@ para espelhar a tela deste tablet"</string>
 2. Pressione e segure o botão na caixa.
 3. Conclua o pareamento no dispositivo de destino."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Para poder transferir a reprodução entre dispositivos, primeiro pareie seus fones de ouvido com a TV.</string>
-    <string name="circulate_headset_back_to_box_desc_err_310">"1. Pressione o botão liga/desliga no controle remoto da TV para desconectar os alto-falantes.
-2. Tente conectar os fones de ouvido novamente assim que a tela acender."</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Pressione o botão liga/desliga no controle remoto da TV para desconectar os alto-falantes.
+%2$d. Tente conectar os fones de ouvido novamente assim que a tela acender."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Coloque os dois fones de ouvido na caixa.
 2. Pressione e segure o botão na caixa.
 3. Conclua o pareamento nas configurações de Bluetooth ou usando uma caixa de diálogo pop-up neste dispositivo."</string>
@@ -326,7 +333,7 @@ seus dispositivos?"</string>
     <string name="circulate_sport_device_find_stop_failed">Não foi possível parar de procurar este dispositivo. Tente novamente.</string>
     <string name="circulate_sport_device_find_watch">Encontre este relógio</string>
     <string name="circulate_taking_photo">Usando a câmera do dispositivo…</string>
-    <string name="circulate_title">Mi Smart Hub</string>
+    <string name="circulate_title">Xiaomi Smart Hub</string>
     <string name="circulate_to_mijia">Dispositivos domésticos inteligentes</string>
     <string name="circulate_tv_app_opening">Estreando na TV…</string>
     <string name="circulate_tv_capturing">Fazendo captura de tela…</string>
@@ -383,7 +390,7 @@ seus dispositivos?"</string>
     <string name="connect_settings_connect_privacy">Privacidade</string>
     <string name="connect_settings_connection_service">Interconectividade Xiaomi</string>
     <string name="connect_settings_corp_network">Assistência de rede</string>
-    <string name="connect_settings_corp_phone">Chamadas</string>
+    <string name="connect_settings_corp_phone">Sincronização de chamadas</string>
     <string name="connect_settings_nfc_share">Transferir itens via NFC</string>
     <string name="connect_settings_not_opened">Desligado</string>
     <string name="connect_settings_opened">Sobre</string>
@@ -395,7 +402,8 @@ seus dispositivos?"</string>
     <string name="connect_settings_summary"><Data>Descubra automaticamente dispositivos próximos conectados à sua Conta Mi e conecte-os entre si para executar uma variedade de tarefas em vários dispositivos. &lt;a href=%1$s&gt;Saiba mais&lt;/a&gt;.</Data></string>
     <string name="connect_settings_summary_connection_service">Permita que seus dispositivos interajam entre si sem fio</string>
     <string name="connect_settings_summary_corp_phone">Atenda chamadas em tablets ou computadores próximos conectados à sua Conta Mi</string>
-    <string name="connect_settings_summary_global">Descubra dispositivos próximos conectados à sua Conta Mi e adicione-os ao Mi Smart Hub</string>
+    <string name="connect_settings_summary_global"><Data>Descubra dispositivos próximos conectados à sua Conta Mi e adicione-os ao Xiaomi Smart Hub</Data></string>
+    <string name="connect_settings_summary_global">Descubra dispositivos próximos conectados à sua Conta Mi e adicione-os ao Xiaomi Smart Hub</string>
     <string name="connect_settings_summary_hyper_mind">Este recurso aprende seus padrões e os utiliza para controlar seus dispositivos domésticos inteligentes. Desenvolvido por Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Continue tarefas no mesmo app em outro dispositivo</string>
     <string name="connect_settings_summary_share_clipboard">Cole texto e imagens em outros dispositivos dentro de %d minutos após copiá-los neste dispositivo</string>
@@ -460,7 +468,9 @@ seus dispositivos?"</string>
     <string name="dialog_miplay_permission_positive">Configurações</string>
     <string name="dialog_miplay_permission_title">Permissões necessárias</string>
     <string name="dialog_nearbydevice_permission_message">Permita que este dispositivo acesse dispositivos próximos para poder usar os recursos de transmissão.</string>
+    <string name="dialog_nearbydevice_permission_message_connectivity">"O recurso de Interconectividade Xiaomi que você está usando precisa de permissão para se conectar a dispositivos próximos. Sem ele, esse recurso não pode funcionar normalmente. Você pode conceder essa permissão nas Configurações."</string>
     <string name="dialog_nearbydevice_permission_title">Permissões necessárias</string>
+    <string name="dialog_nearbydevice_permission_title_connectivity">Permissões necessárias</string>
     <string name="dialog_nfc_cast_wifi_off">Ative o Wi-Fi para poder transmitir usando NFC. Ativar agora?</string>
     <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Conecte seu dispositivo móvel e a TV à mesma rede Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Em alguns modelos de TV, este recurso só está disponível quando o espelhamento de tela está ativado. Veja a &lt;a href=milink://com.milink.service/specification>\"Ajuda\"&lt;/a> para saber mais.</Data></string>
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Conecte seu dispositivo móvel e a TV à mesma rede Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Em alguns modelos de TV, este recurso só está disponível quando o espelhamento de tela está ativado. Veja a &lt;a href=milink://com.milink.service/specification>\"Ajuda\"&lt;/a> para saber mais.</Data></string>
@@ -557,6 +567,10 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="global_dialog_cancle">Cancelar</string>
+    <string name="global_dialog_miplay_permission_positive">Configurações</string>
+    <string name="global_dialog_nearbydevice_permission_message">Os Serviços de Interconectividade Xiaomi precisam de permissão para se conectar a dispositivos próximos para poder descobri-los. Conceda esta permissão nas Configurações para poder usar os Serviços de Interconectividade Xiaomi normalmente.</string>
+    <string name="global_dialog_nearbydevice_permission_title">Permissões necessárias</string>
     <string name="global_privacy">Termos e condições</string>
     <string name="global_privacy_detail"><Data>"Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar este app.&lt;br> Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, suas funções básicas ainda estarão disponíveis para você.</Data></string>
     <string name="global_privacy_explain">Bem-vindo à Transmissão! Este app fornece os seguintes serviços:</string>
@@ -569,17 +583,17 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="guide_confirm_button_text">Iniciar</string>
     <string name="guide_exit_button_content_description">Sair</string>
     <string name="guide_next_button_text">Saiba mais</string>
-    <string name="guide_page_subtitle_0">O Mi Smart Hub une seus dispositivos em uma única estação de trabalho, permitindo que você inicie uma tarefa em um dos dispositivos e, em seguida, mude para outro dispositivo sem problemas.</string>
-    <string name="guide_page_subtitle_0_pad">O Mi Smart Hub combina seus dispositivos móveis, bem como TVs e alto-falantes inteligentes conectados à mesma rede Wi-Fi, em uma única estação de trabalho, permitindo que você inicie uma tarefa em um dos dispositivos e, em seguida, alterne para outro dispositivo sem problemas.</string>
-    <string name="guide_page_subtitle_0_pad_global">O Mi Smart Hub combina seus dispositivos móveis, bem como TVs e alto-falantes inteligentes conectados à mesma rede Wi-Fi, em uma única estação de trabalho, permitindo que você inicie uma tarefa em um dos dispositivos e, em seguida, alterne para outro dispositivo sem problemas.</string>
+    <string name="guide_page_subtitle_0">O Xiaomi Smart Hub une seus dispositivos em uma única estação de trabalho, permitindo que você inicie uma tarefa em um dos dispositivos e, em seguida, mude para outro dispositivo sem problemas.</string>
+    <string name="guide_page_subtitle_0_pad">O Xiaomi Smart Hub combina seus dispositivos móveis, bem como TVs e alto-falantes inteligentes conectados à mesma rede Wi-Fi, em uma única estação de trabalho, permitindo que você inicie uma tarefa em um dos dispositivos e, em seguida, alterne para outro dispositivo sem problemas.</string>
+    <string name="guide_page_subtitle_0_pad_global">O Xiaomi Smart Hub combina seus dispositivos móveis, bem como TVs e alto-falantes inteligentes conectados à mesma rede Wi-Fi, em uma única estação de trabalho, permitindo que você inicie uma tarefa em um dos dispositivos e, em seguida, alterne para outro dispositivo sem problemas.</string>
     <string name="guide_page_subtitle_1">Arraste o cartão de áudio para um alto-falante ou TV para continuar a reprodução em outro dispositivo.</string>
     <string name="guide_page_subtitle_1_pad">Arraste o cartão de áudio para um alto-falante ou TV para continuar a reprodução em outro dispositivo.</string>
     <string name="guide_page_subtitle_2">"Arraste o cartão com a tela deste dispositivo para um tablet, computador ou TV para espelhar o que está na tela do seu dispositivo."</string>
     <string name="guide_page_subtitle_2_pad">"Arraste o cartão com a tela deste dispositivo para uma TV para espelhar o que está na tela do seu dispositivo."</string>
-    <string name="guide_page_subtitle_3">"Arraste o app para Mi Smart Hub e selecione o dispositivo no qual você gostaria de continuar sua tarefa atual."</string>
+    <string name="guide_page_subtitle_3">"Arraste o app para Xiaomi Smart Hub e selecione o dispositivo no qual você gostaria de continuar sua tarefa atual."</string>
     <string name="guide_page_subtitle_earphones">Arraste seus fones de ouvido entre seu dispositivo, tablet e TV para alternar rapidamente a conexão de seus fones de ouvido para um dispositivo diferente.</string>
-    <string name="guide_page_title_0">Bem-vindo ao Mi Smart Hub!</string>
-    <string name="guide_page_title_0_pad">Bem-vindo ao Mi Smart Hub!</string>
+    <string name="guide_page_title_0">Bem-vindo ao Xiaomi Smart Hub!</string>
+    <string name="guide_page_title_0_pad">Bem-vindo ao Xiaomi Smart Hub!</string>
     <string name="guide_page_title_1">Reprodução de áudio</string>
     <string name="guide_page_title_1_pad">Reprodução de áudio</string>
     <string name="guide_page_title_2">Espelhamento de tela</string>
@@ -593,6 +607,10 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="hang_up_alert_dialog_title">Transmitir com a tela desligada…</string>
     <string name="headset_circulate_connect_success">Conectado</string>
     <string name="headset_content_description">Fones de ouvido conectados a este dispositivo. Pressione duas vezes para ativar. Pressione com dois dedos e arraste para transferir a reprodução.</string>
+    <string name="help_page_question_1st_01_international">"%1$d. Quando o dispositivo para o qual você está transmitindo for uma Xiaomi TV, ligue o Miracast nele.
+%2$d. Quando o dispositivo para o qual você está transmitindo não for uma Xiaomi TV, certifique-se de que a TV seja compatível com o Miracast e que esse recurso esteja ativado. Este recurso pode ter um nome diferente em alguns modelos de TV, como Display sem fio, Espelhamento de tela ou Telas múltiplas."</string>
+    <string name="help_page_setp_1st_02_international">%1$d. Algumas marcas de TV podem ter o Miracast ativado automaticamente.</string>
+    <string name="help_page_step_1st_01_international">%1$d. Ligue o Miracast na sua Xiaomi TV.</string>
     <string name="help_page_text_01">Ajuda</string>
     <string name="help_page_text_02">O que é a transmissão?</string>
     <string name="help_page_text_03">A transmissão é o ato de projetar itens da tela do seu dispositivo para um monitor externo maior, permitindo que você compartilhe imagens e vídeos com seus amigos e familiares sem usar seus dados móveis.</string>
@@ -734,6 +752,7 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
     <string name="km_synergy_error">A conexão expirou. Certifique-se de que o Bluetooth e o Wi-Fi estejam ativados em ambos os dispositivos e dentro do alcance da conexão.</string>
     <string name="km_synergy_error_china">A conexão expirou. Certifique-se de que o Bluetooth e o Wi-Fi estejam ativados em ambos os dispositivos e dentro do alcance da conexão.</string>
+    <string name="local_camera_device">Este dispositivo</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_24h_suffix">%1$s horas</string>
     <string name="material_hour_selection">Selecione a hora</string>
@@ -942,7 +961,7 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="onehop_mirror_guide_message_button">Entendi</string>
     <string name="onehop_mirror_guide_message_text_1">Transmita a exibição do dispositivo para o computador com um toque.</string>
     <string name="onehop_mirror_guide_message_text_2">Selecione fotos, vídeos e outros arquivos da Galeria ou do Arquivos para transferir para o seu computador.</string>
-    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
+    <string name="onehop_mirror_guide_message_title">Interconectividade Xiaomi</string>
     <string name="open_game_accelerate">Ative o Game Turbo</string>
     <string name="p2p_location_des">Para conectar seu dispositivo móvel a monitores externos</string>
     <string name="paipai_connect_btn_text">Concluído</string>
@@ -1096,17 +1115,17 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="searchview_clear_text_content_description">Limpar texto</string>
     <string name="searchview_navigation_content_description">Voltar</string>
     <string name="send">Enviar</string>
-    <string name="server_activity_task_tips">Compartilhando a imagem da câmera com %s</string>
+    <string name="server_activity_task_tips">A câmera está sendo usada por %s</string>
     <string name="server_camera_disconnected">Desconectado do outro dispositivo devido a um erro</string>
     <string name="server_camera_occupied">A câmera está ocupada. Espere um ou dois minutos e tente novamente.</string>
     <string name="server_toast_camera_prepare">Preparando para compartilhar o feed da câmera…</string>
     <string name="service_name">MiplayAudio</string>
     <string name="set_negative_button">Configurações</string>
-    <string name="settings_cross_notify">Notificações em outros dispositivos</string>
+    <string name="settings_cross_notify">Notificações entre dispositivos</string>
     <string name="settings_cross_notify_app">Notificações de app</string>
     <string name="settings_cross_notify_hidden">Ocultar conteúdo de notificação</string>
     <string name="settings_cross_notify_hidden_tips">Mostre notificações em outros dispositivos com conteúdo oculto e toque para exibir</string>
-    <string name="settings_cross_notify_manager">Notificações em dispositivos conectados</string>
+    <string name="settings_cross_notify_manager">Notificações entre dispositivos</string>
     <string name="settings_cross_notify_power">Bateria fraca</string>
     <string name="settings_cross_notify_system">Notificações do sistema</string>
     <string name="settings_cross_notify_tips">Mostrar notificações em tablets próximos ou computadores em uso quando este dispositivo estiver bloqueado</string>
@@ -1262,5 +1281,6 @@ certifique-se de que o pacote contenha as versões mais recentes de todos os app
     <string name="wifi_scan_btn_text">Escaneie novamente</string>
     <string name="wifi_username_et_hint">Insira o ID da conta</string>
     <string name="window_card_ml_find_null">Este dispositivo pode não estar por perto</string>
+    <string name="window_card_ml_find_null_camera">"Não foi possível encontrar a câmera ou o dispositivo utilizável nas proximidades"</string>
     <string name="yesterday">Ontem</string>
  </resources>

@@ -11,9 +11,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -265,7 +265,7 @@ Observe que a violação dos direitos de privacidade de outras pessoas é ilegal
     <string name="voice_recoding_progress">"Gravando chamada: "</string>
     <string name="voice_recoding_summer">Grave chamadas de voz e salve-as no Gravador</string>
     <string name="voip_assistant">Assistente VoIP</string>
-    <string name="voip_assistant_purpose">"Bem-vindo ao assistente VoIP! Você pode usar este app para gravar chamadas de voz feitas em apps de terceiros. Este app acessará os nomes dos contatos para nomear as gravações salvas.
+    <string name="voip_assistant_purpose">"Bem-vindo ao Assistente VoIP! Você pode usar este app para gravar chamadas de voz feitas em apps de terceiros. Este app acessará os nomes dos contatos para nomear as gravações salvas.
 Observe que a violação dos direitos de privacidade de outras pessoas é ilegal. Você não pode usar nenhuma informação obtida por meio deste recurso para violar a privacidade de terceiros. Se você usar as informações acima ilegalmente, você assumirá todos os riscos legais daí decorrentes.
 "</string>
     <string name="voip_call_assistant">Assistente VoIP</string>

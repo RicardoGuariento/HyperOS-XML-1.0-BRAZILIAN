@@ -19,16 +19,16 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d minutos</item>
-        <item quantity="one">Em %d minuto</item>
+        <item quantity="other">Em %d mins</item>
+        <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
         <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">%d minuto atrás</item>
+        <item quantity="other">%d mins atrás</item>
+        <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s horas %2$s"</item>
@@ -61,11 +61,11 @@ Animações mais longas serão interrompidas neste ponto."</item>
     </plurals>
     <plurals name="health_chart_calories_burned_schedule_format_desc">
         <item quantity="other">%1$s calorias queimadas</item>
-        <item quantity="one">Queimou %1$s calorias</item>
+        <item quantity="one">%1$s caloria queimada</item>
     </plurals>
     <plurals name="health_chart_calories_goal_schedule_format_desc">
         <item quantity="other">Meta de calorias: %1$s calorias</item>
-        <item quantity="one">Meta de calorias: %1$s calorias</item>
+        <item quantity="one">Meta de calorias: %1$s caloria</item>
     </plurals>
     <plurals name="health_chart_calories_schedule_format">
         <item quantity="other">"%1$s/%2$s kcal"</item>
@@ -80,7 +80,7 @@ Animações mais longas serão interrompidas neste ponto."</item>
         <item quantity="one">Meta de atividade: %1$s minuto</item>
     </plurals>
     <plurals name="health_chart_sport_time_schedule_format">
-        <item quantity="other">%1$s/%2$s minutos</item>
+        <item quantity="other">%1$s/%2$s mins</item>
         <item quantity="one">%1$s/%2$s min</item>
     </plurals>
     <plurals name="health_chart_stand_count_schedule_format_desc">
@@ -101,11 +101,11 @@ Animações mais longas serão interrompidas neste ponto."</item>
     </plurals>
     <plurals name="health_chart_step_count_goal_schedule_format_desc">
         <item quantity="other">Meta de passos: %1$s passos</item>
-        <item quantity="one">Meta de passos: %1$s passos</item>
+        <item quantity="one">Meta de passos: %1$s passo</item>
     </plurals>
     <plurals name="health_chart_step_count_schedule_format">
         <item quantity="other">%1$s/%2$s etapas</item>
-        <item quantity="one">Etapa %1$s/%2$s</item>
+        <item quantity="one">">%1$s/%2$s etapa</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>

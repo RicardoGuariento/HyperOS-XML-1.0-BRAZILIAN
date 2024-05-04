@@ -113,7 +113,7 @@
     <string name="activity_new_result_name">Resultado</string>
     <string name="activity_new_task_name">Tarefa</string>
     <string name="activity_no_task">Ainda não há tarefas aqui</string>
-    <string name="activity_task_center">Centro de Tarefas</string>
+    <string name="activity_task_center">Centro de tarefas</string>
     <string name="activity_title_antispam">Lista de bloqueio</string>
     <string name="activity_title_antivirus">Verificar segurança</string>
     <string name="activity_title_antivirus_kddi">Verificar segurança</string>
@@ -217,9 +217,9 @@
     <string name="antivirus_choose_engine_title">Definições</string>
     <string name="antivirus_detect_apps_dialog_cancel">Ignorar</string>
     <string name="antivirus_detect_apps_dialog_content">%s é classificado como um app de fraude financeira pelo Centro Nacional Antifraude. Este app apresenta riscos de segurança substanciais.</string>
-    <string name="antivirus_detect_apps_dialog_content_text">This app might pose risks to the security of your personal information.</string>
-    <string name="antivirus_detect_apps_dialog_message">If customer service personnel, authorities, or the people you might know ask you to use this app, <Data>&lt;font color=#F22424>verify their identity before you continue&lt;/font>.</Data></string>
-    <string name="antivirus_detect_apps_dialog_message_reject_permission">Permissions requested by this app were restricted. You can manage permissions here: %s.</string>
+    <string name="antivirus_detect_apps_dialog_content_text">Este app pode representar riscos à segurança de suas informações pessoais.</string>
+    <string name="antivirus_detect_apps_dialog_message">Se o pessoal de atendimento ao cliente, autoridades ou pessoas que você talvez conheça solicitarem que você use este app, <Data>&lt;font color=#F22424>verifique a identidade deles antes de continuar&lt;/font>.</Data></string>
+    <string name="antivirus_detect_apps_dialog_message_reject_permission">As permissões solicitadas por este app foram restritas. Você pode gerenciar as permissões aqui: %s.</string>
     <string name="antivirus_detect_apps_dialog_uninstall">Desinstalar</string>
     <string name="antivirus_detect_apps_noti_message">Este app apresenta riscos de segurança</string>
     <string name="antivirus_detect_apps_noti_title">Vários apps, incluindo %s, podem representar riscos de segurança</string>
@@ -264,7 +264,7 @@
     <string name="apn_exception_summary">Testar configurações de APN da operadora</string>
     <string name="apn_exception_title">Verificar config. de APN</string>
     <string name="apn_exception_wap_summary">O WAP está instável agora. Mude para NET.</string>
-    <string name="app_behavior_about_content_no_link">O HyperOS pode exibir quando apps iniciarem outros apps, iniciaram automaticamente, usaram permissões e executaram ações sensíveis. Devido a problemas de compatibilidade com versões do Android, alguns destes registros podem não ser precisos. Se você acredita que um registro de comportamento de um app não é preciso, reporte-o para nós usando o app \"Serviços e feedback\"</string>
+    <string name="app_behavior_about_content_no_link">O HyperOS pode exibir quando apps iniciarem outros apps, iniciaram automaticamente, usaram permissões e executaram ações sensíveis. Devido a problemas de compatibilidade com versões do Android, alguns destes registros podem não ser precisos. Se você acredita que um registro de comportamento de um app não é preciso, reporte-o para nós usando o app \"Serviços e feedback\".</string>
     <string name="app_behavior_about_negative">Reportar inconsistências</string>
     <string name="app_behavior_about_positive">Entendi</string>
     <string name="app_behavior_about_setting">Configurações</string>
@@ -698,7 +698,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="applock_biometric_recognition">Biometria</string>
     <string name="applock_close_dialog_summary">Sua senha de Bloqueio de apps será excluída. Desativar o Bloqueio de apps?</string>
     <string name="applock_close_dialog_title">Desativar o Bloqueio de apps?</string>
-    <string name="applock_exit_account_info">A conta será removida automaticamente quando você fizer o logout</string>
+    <string name="applock_exit_account_info">A conta será removida automaticamente quando você sair</string>
     <string name="applock_face_unlock_summary">Desbloquear apps usando dados faciais</string>
     <string name="applock_face_unlock_title">Desbloqueio facial</string>
     <string name="applock_fingerprint_detect">Use a impressão digital</string>
@@ -752,7 +752,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="apps_item_scan_risk_summary_uninstalled">APK | Riscos</string>
     <string name="apps_item_scan_virus_summary_installed">Instalado | Vírus</string>
     <string name="apps_item_scan_virus_summary_uninstalled">APK | Vírus</string>
-    <string name="apps_item_sign_dialog_content">A assinatura de %s é diferente da versão na Play Store. Excluir este app e instalar a versão oficial? Nota: a instalação de um app com conflito de assinatura pode resultar na perda dos dados do app.</string>
+    <string name="apps_item_sign_dialog_content">A assinatura de %s é diferente da versão na Play Store. Excluir este app e instalar a versão oficial? Observação: a instalação de um app com conflito de assinatura pode resultar na perda dos dados do app.</string>
     <string name="apps_item_sign_dialog_title">Instalar app oficial</string>
     <string name="apps_item_sign_install_button_text">Substituir</string>
     <string name="apps_item_sms_default_set_success">Definido com sucesso</string>
@@ -805,11 +805,11 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_task_default_add_to_task_list">Adicionar à \"Minhas tarefas\"</string>
     <string name="auto_task_default_do_action">Então</string>
     <string name="auto_task_default_if_exclude">Condição</string>
-    <string name="auto_task_default_task_summary_driver_car">Ative o hotspot portátil quando conectado ao sistema do carro via Bluetooth</string>
-    <string name="auto_task_default_task_summary_get_up">Desative o Modo Não pertube e ative o Bluetooth, Wi-Fi e dados móveis novamente</string>
+    <string name="auto_task_default_task_summary_driver_car">Ative o Hotspot portátil quando conectado ao sistema do carro via Bluetooth</string>
+    <string name="auto_task_default_task_summary_get_up">Desative o modo Não perturbe e ative o Bluetooth, Wi-Fi e dados móveis novamente</string>
     <string name="auto_task_default_task_summary_listen_music">Ouça suas músicas e selecione o tipo de fone de ouvido</string>
-    <string name="auto_task_default_task_summary_meet">Programe o horário da reunião e ative o Modo Não pertube</string>
-    <string name="auto_task_default_task_summary_noon_break">Programe o tempo de descanso e ative o Modo Não pertube</string>
+    <string name="auto_task_default_task_summary_meet">Programe o horário da reunião e ative o modo Não perturbe</string>
+    <string name="auto_task_default_task_summary_noon_break">Programe o tempo de descanso e ative o modo Não perturbe</string>
     <string name="auto_task_default_task_summary_save_power">Ative a Economia de bateria quando a bateria estiver abaixo de 30%</string>
     <string name="auto_task_default_task_summary_sleep">Programe a hora de dormir e personalize o comportamento do dispositivo</string>
     <string name="auto_task_default_task_summary_watch_video">Abra o app, ative o Wi-Fi e ajuste o volume</string>
@@ -899,7 +899,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_task_rule_bluetooth">Você pode abrir %2$s automaticamente ao usar Bluetooth com %1$s. Criar esta tarefa agora?</string>
     <string name="auto_task_rule_map_location">Você pode ativar os serviços de localização automaticamente ao usar mapas. Criar esta tarefa agora?</string>
     <string name="auto_task_rule_read_mode">Você pode ativar o Modo leitura automaticamente ao usar apps de leitura. Criar esta tarefa agora?</string>
-    <string name="auto_task_rule_zen_mode">Você pode ativar o Modo perturbe durante os descansos entre 12:00 e 14:00 automaticamente. Criar esta tarefa agora?</string>
+    <string name="auto_task_rule_zen_mode">Você pode ativar o modo Não perturbe durante os descansos entre 12:00 e 14:00 automaticamente. Criar esta tarefa agora?</string>
     <string name="auto_task_select_address_company">Trabalho</string>
     <string name="auto_task_select_address_home">Casa</string>
     <string name="auto_task_select_address_leave">Sair</string>
@@ -994,9 +994,9 @@ Você não perderá nenhum dado de apps."</string>
     <string name="battery_temperature_title">Temperatura</string>
     <string name="beauty_fc_assistant">Assistente da câmera frontal</string>
     <string name="beauty_fc_assistant_summary">Mostrar embelezamento e preencher opções de luz enquanto estiver usando a câmera frontal</string>
-    <string name="beauty_fc_assistant_summary_common">Use additional features with front camera</string>
+    <string name="beauty_fc_assistant_summary_common">Use recursos adicionais com a câmera frontal</string>
     <string name="beauty_fc_assistant_summary_new">Mostrar embelezamento e preencher opções de luz enquanto estiver usando a câmera frontal</string>
-    <string name="beauty_fc_auto_brightness">Adjust fill light brightness automatically</string>
+    <string name="beauty_fc_auto_brightness">Ajuste o brilho da luz de preenchimento automaticamente</string>
     <string name="beauty_fc_fill_lamp">Luz de preenchimento</string>
     <string name="beauty_fc_fill_lamp_new">Luz de preenchimento dianteira</string>
     <string name="beauty_fc_light">Brilho da luz de preenchimento</string>
@@ -1005,7 +1005,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="beauty_fun_filter">Embelezar</string>
     <string name="beauty_fun_front_light">Luz de preenchimento dianteira</string>
     <string name="beauty_fun_light">Luz de preenchimento</string>
-    <string name="beauty_fun_privacy">Câmera de Privacidade</string>
+    <string name="beauty_fun_privacy">Câmera de privacidade</string>
     <string name="beauty_fun_privacy_dialog_message">Quando você usa a câmera para recursos de reconhecimento facial, seu rosto será detectado automaticamente e outras áreas capturadas serão mascaradas.</string>
     <string name="beauty_fun_privacy_dialog_tips">Esse recurso pode diminuir a taxa de sucesso do reconhecimento facial</string>
     <string name="beauty_fun_privacy_ingnore">Não, obrigado</string>
@@ -1016,7 +1016,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="beauty_fun_screen_light">Luz de preenchimento de tela</string>
     <string name="beauty_fun_settings_light">Preencha o brilho da luz</string>
     <string name="beauty_fun_video_effect">Embelezar o vídeo</string>
-    <string name="beauty_portrait_center">Quadro de Foco</string>
+    <string name="beauty_portrait_center">Quadro de foco</string>
     <string name="beauty_portrait_center_desc">Identifique e centralize rostos automaticamente em videochamadas e reuniões. Este recurso não é compatível com alguns apps.</string>
     <string name="beauty_settings">Configurações</string>
     <string name="begin_date">Data de redefinição do pacote</string>
@@ -1063,12 +1063,12 @@ Você não perderá nenhum dado de apps."</string>
     <string name="bh_purchase_dialog_cilck_to_buy">Comprar</string>
     <string name="bh_purchase_dialog_number_text">"Número de telefone: "</string>
     <string name="bh_purchase_dialog_tips">Compras podem ser concluídas com atraso</string>
-    <string name="bh_set_phone_dialog_title">"Verifique se o número de telefone digitado aqui está correto. Você pode alterar seu número de telefone em Configurações."</string>
+    <string name="bh_set_phone_dialog_title">"Verifique se o número de telefone digitado aqui está correto. Você pode alterar seu número de telefone nas Configurações."</string>
     <string name="bh_set_phone_dialog_title_new">"Adicione seu número de telefone para visualizar e adquirir os planos de dados disponíveis para você.
-Você sempre pode alterar seu número de telefone em Configurações."</string>
+Você sempre pode alterar seu número de telefone nas Configurações."</string>
     <string name="bh_settings_declare">Aviso</string>
-    <string name="bh_settings_policy_text">Política de privacidade</string>
-    <string name="bh_settings_user_agreement">Termo de privacidade</string>
+    <string name="bh_settings_policy_text">Política de Privacidade</string>
+    <string name="bh_settings_user_agreement">Contrato do Usuário</string>
     <string name="bh_settings_withdrawal_dialog_content_text">"Se continuar, você retirará seu consentimento com a Política de Privacidade da Yulore Limited. Depois disso, deixaremos de coletar e usar suas informações pessoais e excluiremos seu histórico de pedidos permanentemente. Certifique-se de que todas as suas transações foram concluídas antes de retirar o consentimento."</string>
     <string name="bh_settings_withdrawal_dialog_not_content_text">"Parece que você gostaria de retirar seu consentimento com a Política de Privacidade da Yulore Limited.
 No entanto, algumas de suas transações ainda não foram concluídas. Para poder retirar o consentimento, contacte o apoio ao cliente para fechar seus pedidos."</string>
@@ -1076,8 +1076,8 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="bh_settings_withdrawal_subtitle">Retirar o consentimento para a Política de Privacidade de Uso de Dados</string>
     <string name="bh_settings_withdrawal_text">Retirada do consentimento</string>
     <string name="bh_settings_withdrawal_yulore">Retirar o consentimento para a Política de Privacidade da Yulore Limited</string>
-    <string name="bh_settings_yulore_limited_paivacy">Ver Política de Privacidade Yulore Limited</string>
-    <string name="bh_settings_yulore_limited_user">Veja o Contrato de Usuário Limitado Yulore</string>
+    <string name="bh_settings_yulore_limited_paivacy">Ver a Política de Privacidade Yulore Limited</string>
+    <string name="bh_settings_yulore_limited_user">Ver o Contrato do Usuário Limitado Yulore</string>
     <string name="bh_traffic_product_out_of_stock">Esgotado</string>
     <string name="bh_withdrawal_yulore_fail">"Não foi possível retirar o consentimento"</string>
     <string name="bh_withdrawal_yulore_success">Consentimento retirado com sucesso</string>
@@ -1345,7 +1345,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_title_pickup">Redução de ruído</string>
     <string name="cs_title_smart_subtitle">Transcrição da legenda</string>
     <string name="cs_title_ultraclear">Modo Ultra HD</string>
-    <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Centro de Alerta HyperOS, SOS de Emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Central de alerta, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada</string>
     <string name="cta_agree_desc">Para poder usar os nossos serviços, permita que este app conecte-se à internet e conceda as permissões listadas acima.</string>
     <string name="cta_close_dialog_cancel">Cancelar</string>
     <string name="cta_close_dialog_content">Se você restringir o acesso do app Segurança à internet e informações de localização, você não poderá receber alertas de terremotos, atualizar definições do antivírus e informações da lista de bloqueio. Seu dispositivo ficará menos seguro. Restringir mesmo assim?</string>
@@ -1367,7 +1367,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Para usar a lista de bloqueio e enviar mensagens de calibração para sua operadora</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Para excluir mensagens de sua lista de bloqueio</string>
     <string name="custom_define_permission_desc_android.permission.group.SENSORS">Para detectar ondas sísmicas para monitoramento de terremotos</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para fornecer os recursos relevantes para sua localização no Centro de Alerta HyperOS, SOS de emergência, app de economia de bateria, scanner de segurança de pagamento e serviço de localização aproximada</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para fornecer os recursos relevantes para sua localização no Central de alerta, SOS de emergência, app de economia de bateria, scanner de segurança de pagamento e serviço de localização aproximada</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Para gravar áudio enquanto usa o Game Turbo</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para limpar o lixo e o antivírus realizar verificações</string>
     <string name="customize_limit_pkg">%s (personalizado)</string>
@@ -1398,7 +1398,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="data_usage_leisure_warning_body">Toque para ver o uso de dados.</string>
     <string name="data_usage_leisure_warning_title">Limite de uso fora do pico</string>
     <string name="data_usage_limit_body">Toque para ativar os dados móveis.</string>
-    <string name="data_usage_mobile_dialog_title">Você já usou 5GB de dados móveis. O HyperOS desativou os dados móveis.</string>
+    <string name="data_usage_mobile_dialog_title">Você já usou 5 GB de dados móveis. O HyperOS desativou os dados móveis.</string>
     <string name="data_usage_mobile_limit_title">Limite de dados móveis atingido</string>
     <string name="data_usage_no_total_package_body">Toque para definir limite de dados</string>
     <string name="data_usage_no_total_package_body_dual">Limite de dados não definido para %s</string>
@@ -1407,7 +1407,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
 
 A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móveis novamente."</string>
     <string name="data_usage_protected_notify_message">O HyperOS desativou os dados móveis para impedir que você receba cobranças adicionais da operadora.</string>
-    <string name="data_usage_protected_notify_title">Você já usou 5GB de dados móveis</string>
+    <string name="data_usage_protected_notify_title">Você já usou 5 GB de dados móveis</string>
     <string name="data_usage_warning_body">Toque para ver o uso de dados.</string>
     <string name="data_usage_warning_body_notify">Toque para ver detalhes</string>
     <string name="data_usage_warning_title_notify">Você ultrapassou seu limite de dados</string>
@@ -1429,7 +1429,7 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
     <string name="deep_power_save_item_title_bluetooth">Desativar Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Desligar tela em inatividade</string>
     <string name="deep_save_memory_clean_summary">Limpar cache quando o dispositivo for bloqueado para prevenir que apps usem muita bateria</string>
-    <string name="deep_save_ontime_boot_shutdown_summary">Programe para [ligar/desligar] o dispositivo</string>
+    <string name="deep_save_ontime_boot_shutdown_summary">Programe para ligar/desligar o dispositivo</string>
     <string name="default_condition_summary">Ex.: \"A bateria está abaixo de 20%\"</string>
     <string name="default_condition_title">Adicionar condição</string>
     <string name="default_condition_title_continue">Adicionar condição</string>
@@ -1460,7 +1460,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_change_package_type_summary">Alterar o tipo do plano de dados redefinirá as configurações de uso de dados (ex.: limites de dados) para seus valores padrão. Alterar o tipo do plano de dados agora?</string>
     <string name="dialog_change_package_type_title">Alterando tipo do plano de dados</string>
     <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que o HyperOS os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações > Apps.</string>
-    <string name="dialog_msg_auto_start_declare_global">Alguns apps podem indicar incorretamente que o HyperOS os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações.</string>
+    <string name="dialog_msg_auto_start_declare_global">Alguns apps podem indicar incorretamente que o HyperOS os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps nas Configurações.</string>
     <string name="dialog_msg_create_icon_content">Adicionar um atalho da tela inicial agora?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">"Não mostrar novamente"</string>
     <string name="dialog_msg_delete_icon_content">A Segurança permite que você limpe a lixeira do seu dispositivo, encontre e neutralize vírus, economize bateria, gerencie permissões e muito mais.</string>
@@ -1523,7 +1523,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dlg_import_blacklist">Adicionando…</string>
     <string name="dlg_import_whitelist">Adicionando…</string>
     <string name="dlg_keyword_ok">Salvar</string>
-    <string name="dlg_message_not_open_stranger_identify">Para ativar esta funcionalidade, vá a Configurações > Telefone.</string>
+    <string name="dlg_message_not_open_stranger_identify">Para ativar esta funcionalidade, vá em Configurações > Telefone.</string>
     <string name="dlg_move_to_white">Adicionar às exceções</string>
     <string name="dlg_no_block">"Desbloquear este número de telefone?
 Ele será adicionado às exceções, mas os itens bloqueados anteriormente não vão aparecer no histórico de chamadas."</string>
@@ -1546,7 +1546,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="dlg_sec_network_unavailable">O app Segurança não pode ser atualizado porque você restringiu o seu acesso à internet. Permitir que o app conecte-se à internet?</string>
     <string name="dlg_summary_close_app">Os apps não serão executados em segundo plano. As notificações serão restringidas.</string>
     <string name="dlg_summary_close_theme">Temas dinâmicos não funcionarão.</string>
-    <string name="dlg_summary_close_wifi">O Wi-Fi, Bluetooth e o hotspot portátil serão desativados.</string>
+    <string name="dlg_summary_close_wifi">O Wi-Fi, Bluetooth e o Hotspot portátil serão desativados.</string>
     <string name="dlg_summary_nfc">O NFC será desativado.</string>
     <string name="dlg_summary_title">A atividade em segundo plano será restrita quando você sair de um app ou voltar para a Tela inicial. Adicione apps às exceções da Economia de bateria para permitir que eles executem em segundo plano.</string>
     <string name="dlg_title_not_open_stranger_identify">ID de chamadas</string>
@@ -1564,7 +1564,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="domestic_roaming_setting">Roaming nacional</string>
     <string name="dont_bore">Não deixe botões e notificações distraírem-no</string>
     <string name="download">Baixar</string>
-    <string name="download_tvm_title">Plug-in do componente de chave do dispositivo</string>
+    <string name="download_tvm_title">Plugin do componente chave do dispositivo</string>
     <string name="downloading">Baixando</string>
     <string name="doze_optimization_summary">Aumenta a resposta ao toque e sensibilidade</string>
     <string name="doze_optimization_title">Controles de toque otimizados</string>
@@ -1576,52 +1576,52 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="edit_new_task_name">Insira o nome da tarefa</string>
     <string name="edit_phone_num">Editar número de telefone do SIM</string>
     <string name="eew_privacy_revoke_title">Retirar consentimento para a Política de Privacidade de aviso de terremoto</string>
-    <string name="eletric_card_key_1">Calls</string>
-    <string name="eletric_card_key_2">Messages</string>
+    <string name="eletric_card_key_1">Chamadas</string>
+    <string name="eletric_card_key_2">Mensagens</string>
     <string name="eletric_card_key_3">Apps</string>
-    <string name="eletric_card_key_4">Web browsing</string>
-    <string name="eletric_card_key_5">Casting</string>
-    <string name="eletric_card_one_identification_risk_app">Warn about unreliable apps</string>
-    <string name="eletric_card_one_identification_risk_app_summary">Receive warnings and restrict permissions automatically when risks are detected</string>
-    <string name="eletric_card_one_identification_risk_mms">Detect risks in incoming messages</string>
-    <string name="eletric_card_one_identification_risk_mms_summary">"Check incoming messages for risks based on sender's phone number and attached URLs"</string>
-    <string name="eletric_card_one_identification_risk_screen">Hide private items</string>
-    <string name="eletric_card_one_identification_risk_screen_summary">"Don't show notifications and private apps on external monitors while casting"</string>
-    <string name="eletric_card_status_bg_content_disable">Off</string>
-    <string name="eletric_card_status_bg_content_enable">On</string>
-    <string name="eletric_card_summary_1">Check incoming calls for security risks</string>
-    <string name="eletric_card_summary_2">Detect risks in incoming messages</string>
-    <string name="eletric_card_summary_3">Warn about unreliable apps</string>
-    <string name="eletric_card_summary_4">Notify about risky sites</string>
-    <string name="eletric_card_summary_5">Hide private items</string>
-    <string name="eletric_card_two_identification_risk_app">Warn about risky transactions</string>
-    <string name="eletric_card_two_identification_risk_app_summary">Receive warnings when making financial transactions after suspicious calls or messages</string>
-    <string name="eletric_card_two_identification_risk_mms">Warn about forwarded verification codes</string>
-    <string name="eletric_card_two_identification_risk_mms_summary">Receive warnings when verification codes are forwarded to social media apps</string>
-    <string name="eletric_group_title_one_identification_risk_app">Restrict permissions automatically</string>
-    <string name="eletric_group_title_one_identification_risk_app_summary">Restrict permissions automatically when risks in apps are detected</string>
-    <string name="eletric_group_title_one_identification_risk_mms">Protect messages</string>
-    <string name="eletric_group_title_one_identification_risk_mms_summary">Receive notifications about possible risks in messages sent from unknown numbers</string>
-    <string name="eletric_group_title_one_identification_risk_screen">Hide notifications</string>
-    <string name="eletric_group_title_one_identification_risk_screen_summary">"Your notifications won't be shown on external monitors while casting"</string>
-    <string name="eletric_group_title_two_identification_risk_app">Receive warnings about financial risks</string>
-    <string name="eletric_group_title_two_identification_risk_app_summary">Receive warnings when financial transaction are made after suspicious calls or messages</string>
-    <string name="eletric_group_title_two_identification_risk_mms">Receive warnings when verification codes are forwarded</string>
-    <string name="eletric_group_title_two_identification_risk_mms_summary">"You'll receive a warning when verification codes from your messages are forwarded to social media"</string>
+    <string name="eletric_card_key_4">Navegação na web</string>
+    <string name="eletric_card_key_5">Transmissão</string>
+    <string name="eletric_card_one_identification_risk_app">Avisar sobre apps não confiáveis</string>
+    <string name="eletric_card_one_identification_risk_app_summary">Receba avisos e restrinja permissões automaticamente quando riscos forem detectados</string>
+    <string name="eletric_card_one_identification_risk_mms">Detectar riscos em mensagens recebidas</string>
+    <string name="eletric_card_one_identification_risk_mms_summary">"Verifique se há riscos nas mensagens recebidas com base no número de telefone do remetente e nos URLs anexados"</string>
+    <string name="eletric_card_one_identification_risk_screen">Ocultar itens privados</string>
+    <string name="eletric_card_one_identification_risk_screen_summary">"Não mostre notificações e apps privados em monitores externos durante a transmissão"</string>
+    <string name="eletric_card_status_bg_content_disable">Desativado</string>
+    <string name="eletric_card_status_bg_content_enable">Ativado</string>
+    <string name="eletric_card_summary_1">Verifique as chamadas recebidas quanto a riscos de segurança</string>
+    <string name="eletric_card_summary_2">Detecte riscos em mensagens recebidas</string>
+    <string name="eletric_card_summary_3">Avise sobre apps não confiáveis</string>
+    <string name="eletric_card_summary_4">Notifique sobre sites arriscados</string>
+    <string name="eletric_card_summary_5">Oculte itens privados</string>
+    <string name="eletric_card_two_identification_risk_app">Alertar sobre transações arriscadas</string>
+    <string name="eletric_card_two_identification_risk_app_summary">Receba avisos ao fazer transações financeiras após ligações ou mensagens suspeitas</string>
+    <string name="eletric_card_two_identification_risk_mms">Avisar sobre códigos de verificação encaminhados</string>
+    <string name="eletric_card_two_identification_risk_mms_summary">Receba avisos quando códigos de verificação forem encaminhados para apps de mídia social</string>
+    <string name="eletric_group_title_one_identification_risk_app">Restringir permissões automaticamente</string>
+    <string name="eletric_group_title_one_identification_risk_app_summary">Restringe permissões automaticamente quando riscos em apps forem detectados</string>
+    <string name="eletric_group_title_one_identification_risk_mms">Proteger mensagens</string>
+    <string name="eletric_group_title_one_identification_risk_mms_summary">Receba notificações sobre possíveis riscos em mensagens enviadas de números desconhecidos</string>
+    <string name="eletric_group_title_one_identification_risk_screen">Ocultar notificações</string>
+    <string name="eletric_group_title_one_identification_risk_screen_summary">"Suas notificações não serão exibidas em monitores externos durante a transmissão"</string>
+    <string name="eletric_group_title_two_identification_risk_app">Receber avisos sobre riscos financeiros</string>
+    <string name="eletric_group_title_two_identification_risk_app_summary">Receba avisos quando transações financeiras forem feitas após ligações ou mensagens suspeitas</string>
+    <string name="eletric_group_title_two_identification_risk_mms">Receber avisos quando códigos de verificação forem encaminhados</string>
+    <string name="eletric_group_title_two_identification_risk_mms_summary">"Você receberá um aviso quando os códigos de verificação das suas mensagens forem encaminhados para mídias sociais"</string>
     <string name="eletric_group_title_two_identification_risk_screen">Ocultar apps privados</string>
     <string name="eletric_group_title_two_identification_risk_screen_summary">Se você abrir apps contendo informações pessoais confidenciais (WeChat, Alipay, Galeria, etc.) enquanto compartilha a tela do seu dispositivo, essas informações não serão exibidas. Você pode começar a compartilhar manualmente novamente.</string>
-    <string name="eletric_group_two_identification_risk_app">Warn about risky financial transactions</string>
-    <string name="eletric_group_two_identification_risk_mms">Verification code protection</string>
-    <string name="eletric_identification_unfamiliar_numbers">Identify unknown numbers</string>
-    <string name="eletric_identification_unfamiliar_numbers_summary">Display call types for unknown numbers based on user feedback</string>
-    <string name="eletric_key_protect_electric_announcement">Anti-fraud protection</string>
+    <string name="eletric_group_two_identification_risk_app">Alertar sobre transações financeiras arriscadas</string>
+    <string name="eletric_group_two_identification_risk_mms">Proteção de código de verificação</string>
+    <string name="eletric_identification_unfamiliar_numbers">Identificar números desconhecidos</string>
+    <string name="eletric_identification_unfamiliar_numbers_summary">Exibir tipos de chamadas para números desconhecidos com base no feedback do usuário</string>
+    <string name="eletric_key_protect_electric_announcement">Proteção antifraude</string>
     <string name="eletric_no_grant_dialog_message_for_phone">Conceda as permissões necessárias para poder identificar números desconhecidos.</string>
     <string name="eletric_no_grant_dialog_negative_button">Cancelar</string>
     <string name="eletric_no_grant_dialog_positive_button">Configurações</string>
     <string name="eletric_no_grant_dialog_title">Permissões necessárias</string>
-    <string name="eletric_risk_call_identification">Protect calls</string>
-    <string name="eletric_risk_call_identification_announcement">Get notified about possible risks when receiving calls from unknown numbers</string>
-    <string name="eletric_status_protecting">On</string>
+    <string name="eletric_risk_call_identification">Proteger chamadas</string>
+    <string name="eletric_risk_call_identification_announcement">Seja notificado sobre possíveis riscos ao receber chamadas de números desconhecidos</string>
+    <string name="eletric_status_protecting">Ativado</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Nenhum app</string>
     <string name="empty_title_auto_start_list">Nenhum app com início automático.</string>
@@ -1633,7 +1633,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="empty_title_root_apps">Nenhum app tem acesso root.</string>
     <string name="enable_extreme_power_save_mode">Economia extrema de bateria</string>
     <string name="enable_network">Ative a rede primeiro</string>
-    <string name="enable_notification_title">Allow %1$s to use notifications?</string>
+    <string name="enable_notification_title">Permitir que %1$s use notificações?</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>
@@ -1656,10 +1656,10 @@ cartão médico"</string>
     <string name="ew_alert_emergency_text_single">Mostrar cartão médico</string>
     <string name="ew_alert_help_earthquake_title">Onda sísmica chegou</string>
     <string name="ew_alert_help_place_navigation">Navegar</string>
-    <string name="ew_alert_help_place_text">Se necessário, vá até ao abrigo mais próximo para garantir a sua segurança e obtenha a assistência necessária</string>
+    <string name="ew_alert_help_place_text">Se necessário, vá até ao abrigo mais próximo para garantir a sua segurança e obtenha a assistência necessária.</string>
     <string name="ew_alert_help_place_title">Abrigo próximo</string>
     <string name="ew_alert_help_safe_title">Evitar perigo</string>
-    <string name="ew_alert_help_tips">Mantenha a calma e fique alerta. Fique longe de objetos pendurados, não pegue o elevador. Encontre um espaço seguro e amplo, abrigue-se e aguarde</string>
+    <string name="ew_alert_help_tips">Mantenha a calma e fique alerta. Fique longe de objetos pendurados, não pegue o elevador. Encontre um espaço seguro e amplo, abrigue-se e aguarde.</string>
     <string name="ew_alert_no_contact">Defina um contato de emergência em Segurança > Aviso de terremoto primeiro</string>
     <string name="ew_alert_no_emergency">Adicione os seus dados médicos em Segurança > Aviso de terremoto</string>
     <string name="ew_alert_text_from">Dados fornecidos por %s</string>
@@ -1670,7 +1670,7 @@ cartão médico"</string>
     <string name="ew_arrive_text_tips">Onda sísmica chegou: %s</string>
     <string name="ew_button_confirm">Aceito</string>
     <string name="ew_button_exit">Discordo</string>
-    <string name="ew_china_version_first_start_network_msg"><Data>"Este recurso fornece a funcionalidade de aviso de terremoto. Ele o notificará sobre os próximos terremotos e reproduzirá um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para funcionar normalmente, esse recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer avisos precisos sobre terremotos. &lt;br>Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar isto recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e aceitar a nossa &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Política de privacidade&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="ew_china_version_first_start_network_msg"><Data>"Este recurso fornece a funcionalidade de aviso de terremoto. Ele o notificará sobre os próximos terremotos e reproduzirá um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para funcionar normalmente, esse recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer avisos precisos sobre terremotos. &lt;br>Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar isto recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e aceitar a nossa &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
     <string name="ew_click_locate">Toque para obter informações de localização</string>
     <string name="ew_close">Desativar alertas</string>
     <string name="ew_close_tips">Alerta de terremoto desativado</string>
@@ -1693,7 +1693,7 @@ cartão médico"</string>
     <string name="ew_emergency_edit_text">Editar</string>
     <string name="ew_emergency_edit_title">Cartão médico</string>
     <string name="ew_emergency_idcard">"ID"</string>
-    <string name="ew_emergency_input">"Ok"</string>
+    <string name="ew_emergency_input">"OK"</string>
     <string name="ew_emergency_input_allergy">Adicione as suas alergias</string>
     <string name="ew_emergency_input_medical">Adicione o seu estado de saúde e tratamentos</string>
     <string name="ew_emergency_input_medicine">Liste os medicamentos que você está tomando</string>
@@ -1701,7 +1701,7 @@ cartão médico"</string>
     <string name="ew_emergency_medicine">Medicação administrada</string>
     <string name="ew_emergency_name">Nome</string>
     <string name="ew_emergency_organ_donation">Você é um doador de órgãos?</string>
-    <string name="ew_emergency_privacy">Declaração de privacidade: as informações fornecidas aqui serão utilizadas apenas em casos de emergência e armazenadas no seu dispositivo. Não enviaremos essas informações para nossos servidores</string>
+    <string name="ew_emergency_privacy">Declaração de privacidade: As informações fornecidas aqui serão utilizadas apenas em casos de emergência e armazenadas no seu dispositivo. Não enviaremos essas informações para nossos servidores.</string>
     <string name="ew_emergency_recent_medicine">Medicação recentemente administrada</string>
     <string name="ew_emergency_title">Cartão médico</string>
     <string name="ew_first_start_network_title">Termos e Condições</string>
@@ -1723,13 +1723,13 @@ Suporte técnico por Xiaomi e ICL"</string>
     <string name="ew_guide_start">Ativar</string>
     <string name="ew_guide_start_agree">Ativar</string>
     <string name="ew_guide_start_find_area">Procurar por áreas</string>
-    <string name="ew_guide_start_warning_range"><Data>Os primeiros avisos são fornecidos para as áreas cobertas pela Rede de Alerta de Terremoto do Continente do Instituto de Redução de Desastres de alta tecnologia de Chengdu. Você pode encontrar uma lista de áreas de cobertura suportadas &lt;a href=%s>aqui&lt;/a>.</Data>.</string>
-    <string name="ew_guide_statement_text_new"><Data>"Este termo de responsabilidade aplica-se a todos os usuários (doravante referido \"você\") que ativam o recurso de aviso de terremoto. Ao concordar com este termo de responsabilidade, você firma um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante referidas como \"Xiaomi\"). Você reconhece que leu todo o conteúdo deste aviso do termo de responsabilidade e compreende totalmente e concorda com todos os termos e condições deste aviso; caso contrário, você deve desativar este recurso de aviso de terremoto imediatamente.
+    <string name="ew_guide_start_warning_range">Os primeiros avisos são fornecidos para as áreas cobertas pela Rede de Alerta de Terremoto do Continente do Instituto de Redução de Desastres de alta tecnologia de Chengdu. Você pode encontrar áreas de cobertura específicas nas Configurações.</string>
+    <string name="ew_guide_statement_text_new">"Este termo de responsabilidade aplica-se a todos os usuários (doravante referido \"você\") que ativam o recurso de aviso de terremoto. Ao concordar com este termo de responsabilidade, você firma um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante referidas como \"Xiaomi\"). Você reconhece que leu todo o conteúdo deste aviso do termo de responsabilidade e compreende totalmente e concorda com todos os termos e condições deste aviso; caso contrário, você deve desativar este recurso de aviso de terremoto imediatamente.
 De acordo com as leis e regulamentos relevantes, a Xiaomi fornecerá a você serviços de alerta antecipado com base no escopo da área de monitoramento de alerta precoce de terremoto coberta pelas agências relevantes, ou seja, quando você ativa o recurso de aviso de terremoto, você pode receber avisos de terremoto emitidos para áreas específicas. Você pode encontrar uma lista de áreas de cobertura suportadas &lt;a href=%s>aqui&lt;/a>. Mais áreas de cobertura serão adicionadas periodicamente.
 Este recurso fornece a função de aviso de terremoto. Você deve entender que as informações de alerta de terremoto são fornecidas pelo Instituto de Redução de Desastres Chengdu Hi-tech. Xiaomi não supervisiona esta organização e não tem nenhum controle sobre ela.
 A Xiaomi não promete nem garante a precisão, validade e oportunidade das informações de alerta de terremoto, muito menos que o serviço de alerta de terremoto atenderá a todas as suas necessidades.
 Receber informações de aviso de terremoto exige que você mantenha seu dispositivo conectado à rede móvel. Falhas de linha de comunicação de terceiros, problemas técnicos, falhas de rede ou equipamento terminal, instabilidade do sistema e outros vários eventos de força maior podem impedir que você receba informações de aviso de terremoto. A Xiaomi não assume nenhuma responsabilidade por quaisquer perdas causadas por tais eventos.
-Você deve entender que este recurso é fornecido apenas para sua referência. O aviso que você recebe pode vir segundos antes do início de um terremoto. Você é o único responsável pelos riscos e consequências de quaisquer ações que execute com base nas informações fornecidas por este recurso."</Data></string>
+Você deve entender que este recurso é fornecido apenas para sua referência. O aviso que você recebe pode vir segundos antes do início de um terremoto. Você é o único responsável pelos riscos e consequências de quaisquer ações que execute com base nas informações fornecidas por este recurso."</string>
     <string name="ew_guide_tips_1">Você será notificado sobre os próximos terremotos e ouvirá um som de alerta</string>
     <string name="ew_guide_tips_2">Informações antecipadas do terremoto e som de alerta serão atualizados durante o terremoto</string>
     <string name="ew_guide_tips_3">Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário</string>
@@ -1774,7 +1774,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
     <string name="ew_main_warning_list_tips">Ver</string>
     <string name="ew_main_warning_list_title">Ver histórico de avisos</string>
     <string name="ew_monitor_bad_request_tips">"A Segurança não pode acessar as informações do dispositivo"</string>
-    <string name="ew_monitor_content">Seu dispositivo móvel pode se tornar parte da rede de alerta precoce de terremoto. Depois que seus sensores detectarem ondas sísmicas, os dados serão analisados pelo algoritmo de IA e avisos antecipados serão emitidos para as pessoas nas áreas afetadas.</string>
+    <string name="ew_monitor_content">Seu dispositivo móvel pode se tornar parte da rede de alerta precoce de terremoto. Após seus sensores detectarem ondas sísmicas, os dados serão analisados pelo algoritmo de IA e avisos antecipados serão emitidos para as pessoas nas áreas afetadas.</string>
     <string name="ew_monitor_exit">Cancelar inscrição</string>
     <string name="ew_monitor_exit_content">Olá, voluntário Nº %s! Seu dispositivo pode monitorar a atividade sísmica e coletar dados que ajudariam a emitir alertas precoces de terremoto. Cancelar inscrição mesmo assim?</string>
     <string name="ew_monitor_exit_title">Atenção!</string>
@@ -1858,8 +1858,8 @@ monitoramento de terremotos"</string>
     <string name="exo_controls_cc_disabled_description">Ativar legendas</string>
     <string name="exo_controls_cc_enabled_description">Desativar legendas</string>
     <string name="exo_controls_fastforward_description">Avançar</string>
-    <string name="exo_controls_fullscreen_enter_description">Entrar no modo de tela cheia</string>
-    <string name="exo_controls_fullscreen_exit_description">Sair no modo de tela cheia</string>
+    <string name="exo_controls_fullscreen_enter_description">Entrar no modo tela cheia</string>
+    <string name="exo_controls_fullscreen_exit_description">Sair no modo tela cheia</string>
     <string name="exo_controls_hide">Ocultar controles do player</string>
     <string name="exo_controls_next_description">Próxima</string>
     <string name="exo_controls_overflow_hide_description">Ocultar configurações extras</string>
@@ -1934,7 +1934,7 @@ monitoramento de terremotos"</string>
     <string name="fingerprint_to_lock_summary">Desbloquear apps usando impressão digital</string>
     <string name="fingerprint_verify_failed">Não foi possível verificar a impressão digital</string>
     <string name="fingerprint_verify_succeed">Impressão digital verificada</string>
-    <string name="fingerprint_verify_try_agin">Não foi possível verificar sua impressão digital, tente novamente</string>
+    <string name="fingerprint_verify_try_agin">Não foi possível verificar sua impressão digital, tente novamente.</string>
     <string name="firewall_activity_lable">Restringir uso de dados por app</string>
     <string name="firewall_allow_all">Permitir que apps conectem-se usando o seguinte método</string>
     <string name="firewall_allow_data">Permitir uso de dados móveis</string>
@@ -1971,8 +1971,8 @@ monitoramento de terremotos"</string>
     <string name="first_aid_card_consume_power_button1">Restringir</string>
     <string name="first_aid_card_consume_power_button2">Desativar</string>
     <string name="first_aid_card_consume_power_summary1">Mais de 5 apps estão iniciando automaticamente. Restrinja-os para economizar bateria.</string>
-    <string name="first_aid_card_consume_power_summary2">Desative o hotspot portátil para economizar bateria</string>
-    <string name="first_aid_card_consume_power_summary_app">Mais de %d apps têm permissão para auto iniciar. Restrinja para economizar bateria.</string>
+    <string name="first_aid_card_consume_power_summary2">Desative o Hotspot portátil para economizar bateria</string>
+    <string name="first_aid_card_consume_power_summary_app">Mais de %d apps têm permissão para auto iniciar. Restrinja-os para economizar bateria.</string>
     <string name="first_aid_card_consume_power_title">Uso da bateria</string>
     <string name="first_aid_card_kadun_button1">Liberar espaço</string>
     <string name="first_aid_card_kadun_button2">Restringir</string>
@@ -2294,7 +2294,7 @@ monitoramento de terremotos"</string>
     <string name="gb_dialog_record_way_setting_tip_one">Maior consumo de energia e atraso</string>
     <string name="gb_dialog_record_way_setting_tip_title">Esse recurso pode causar os seguintes problemas:</string>
     <string name="gb_dialog_record_way_setting_tip_two">Conflitos com outros gravadores de tela</string>
-    <string name="gb_dialog_record_way_setting_tips">Nota: Gravar suas sessões de jogo requer um consumo maior de energia, que pode causar lentidão no sistema.</string>
+    <string name="gb_dialog_record_way_setting_tips">Observação: Gravar suas sessões de jogo requer um consumo maior de energia, que pode causar lentidão no sistema.</string>
     <string name="gb_dialog_record_way_title">Selecione o método de gravação</string>
     <string name="gb_dialog_wlan_wifi_weak">460 ms</string>
     <string name="gb_dnd_barrage_conflict_toast">"Você não poderá usar os comentários na tela quando o Não perturbe estiver ativado"</string>
@@ -2333,7 +2333,7 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_game_mode_new">Layouts de jogo</string>
     <string name="gb_game_mode_ratio">Original</string>
     <string name="gb_game_mode_ratio_type">Original</string>
-    <string name="gb_game_mode_recommend">" (Recommended)"</string>
+    <string name="gb_game_mode_recommend">" (Recomendado)"</string>
     <string name="gb_game_mode_search">Pesquisar apps</string>
     <string name="gb_game_ratio_bottom">Inferior</string>
     <string name="gb_game_ratio_center">Centro</string>
@@ -2380,9 +2380,9 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_not_support_on_device">Este app não pode ser usado na tela externa</string>
     <string name="gb_operat_frequently">Não tão rápido!</string>
     <string name="gb_performace_guide_disable_desc"><Data>Não é possível alternar para o Modo balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir o Segurança&lt;/a>"</Data></string>
-    <string name="gb_performace_switch_toast">Switched to Performance mode. Your device might heat up and consume more power.</string>
-    <string name="gb_performace_tips_button">Switch</string>
-    <string name="gb_performace_tips_title">Switch to Performance mode for better experience</string>
+    <string name="gb_performace_switch_toast">Mudou para o Modo desempenho. Seu dispositivo pode esquentar e consumir mais energia.</string>
+    <string name="gb_performace_tips_button">Mudar</string>
+    <string name="gb_performace_tips_title">Mude para o Modo desempenho para uma melhor experiência</string>
     <string name="gb_performance_balance">Modo balanceado</string>
     <string name="gb_performance_balance_tips">"O Modo balanceado economiza energia
 enquanto reduz a taxa de atualização e os limites de temperatura"</string>
@@ -2490,7 +2490,7 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_voice_changer_loli">Menina</string>
     <string name="gb_voice_changer_men">Homem</string>
     <string name="gb_voice_changer_normal">"Original"</string>
-    <string name="gb_voice_changer_permission_dlg_msg">O modificador de voz precisa gravar o áudio para funcionar normalmente.</string>
+    <string name="gb_voice_changer_permission_dlg_msg">O Modificador de voz precisa gravar o áudio para funcionar normalmente.</string>
     <string name="gb_voice_changer_permission_dlg_title">Permissões necessárias</string>
     <string name="gb_voice_changer_recommend">Recomendado</string>
     <string name="gb_voice_changer_renew_dailog">Renove a sua assinatura para poder usar este efeito.</string>
@@ -2504,7 +2504,7 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_voice_changer_setting_rights">Termos de Serviço e Política de Privacidade</string>
     <string name="gb_voice_changer_toast_window_bubble_tips">"Experimente o Modificador de voz agora
 para obter 3 dias de avaliação gratuita!"</string>
-    <string name="gb_voice_changer_toast_window_new_tips">"Experimentar o Modificador de voz!
+    <string name="gb_voice_changer_toast_window_new_tips">"Experimente o Modificador de voz!
 Alternar entre diferentes personagens e efeitos especiais."</string>
     <string name="gb_voice_changer_toast_window_open">Efeito \"%s\" ativado</string>
     <string name="gb_voice_changer_trial_gender_dialog">Teste grátis recebido com sucesso! Selecione o gênero para ajustar os efeitos e recomendações de acordo.</string>
@@ -2593,8 +2593,8 @@ das suas sessões de jogos"</string>
     <string name="google_base_app_installing">Instalando…</string>
     <string name="google_base_app_network_anomaly">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="google_base_app_timeout">Tempo limite da sessão. Aguarde alguns minutos e tente novamente.</string>
-    <string name="google_base_app_title">Instalando Serviços Google</string>
-    <string name="google_base_app_toast">A Estrutura de Serviços Google está sendo instalada em segundo plano. Aguarde alguns minutos e tente novamente.</string>
+    <string name="google_base_app_title">Instalando serviços do Google</string>
+    <string name="google_base_app_toast">A Estrutura dos Serviços Google está sendo instalada em segundo plano. Aguarde alguns minutos e tente novamente.</string>
     <string name="gs_advanced_setting_summary">Configurações para jogos individuais</string>
     <string name="gs_advanced_setting_title">Configurações adicionais</string>
     <string name="gs_anto_clean_memory_whitelist">Exceções de memória</string>
@@ -2648,10 +2648,10 @@ das suas sessões de jogos"</string>
     <string name="gtb_dialog_btn_close">Desativar</string>
     <string name="gtb_dialog_btn_open">Ativar</string>
     <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo > Configurações.</string>
-    <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Turbo Xunyou. Este serviço coletará seu ID de conta Mi para registrar a duração da sua associação."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Turbo Xunyou. Este serviço coletará seu ID da Conta Mi para registrar a duração da sua associação."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Eu li e concordo com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Turbo</string>
-    <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Xunyou Game modificador de voz. Este serviço coletará seu ID de conta Mi para registrar a duração da sua associação."</string>
+    <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Xunyou Game modificador de voz. Este serviço coletará seu ID da Conta Mi para registrar a duração da sua associação."</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>"Eu li e concordo com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game modificador de voz."</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou Game modificador de voz</string>
     <string name="gtb_dialog_summary_smart_5g">Sempre que o Game Turbo detectar uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso da rede. Ativar este recurso agora?</string>
@@ -2681,7 +2681,7 @@ das suas sessões de jogos"</string>
     <string name="gtb_memory_clean">Limpar memória</string>
     <string name="gtb_mode_normal">Normal</string>
     <string name="gtb_mode_performance">Desempenho</string>
-    <string name="gtb_open_performance_mode_tip">O Modo de desempenho melhorará sua experiência de jogo enquanto aumenta o consumo de energia e aquece seu dispositivo.</string>
+    <string name="gtb_open_performance_mode_tip">O Modo performance melhorará sua experiência de jogo enquanto aumenta o consumo de energia e aquece seu dispositivo.</string>
     <string name="gtb_phone_accelerate">Aumente o desempenho</string>
     <string name="gtb_realtime_performance_monitoring">Monitorar o desempenho</string>
     <string name="gtb_screenrecord">Gravar</string>
@@ -2714,7 +2714,7 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="gtb_stop_accelerate">Parar</string>
     <string name="gtb_timer">Temporizador</string>
     <string name="gtb_voice_changer">Modificador de voz</string>
-    <string name="gtb_wlan_speed_tips">Usando o Mi WiFi…</string>
+    <string name="gtb_wlan_speed_tips">Usando o Mi Wi-Fi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Operadora errada?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"Sua operadora atual: "</string>
     <string name="guide_quck_open">Ativar</string>
@@ -2802,8 +2802,8 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="install_sucess">%s instalado com sucesso</string>
     <string name="install_text">Instalar</string>
     <string name="install_title">Instalar via USB</string>
-    <string name="install_tvm_component_desc">Para garantir a segurança de suas transações, instale o plug-in do Componente de chave do dispositivo via Segurança.</string>
-    <string name="install_tvm_component_title">Instalar plug-in do Componente de chave do dispositivo</string>
+    <string name="install_tvm_component_desc">Para garantir a segurança de suas transações, instale o Plugin do componente chave do dispositivo via Segurança.</string>
+    <string name="install_tvm_component_title">Instalar Plugin do componente chave do dispositivo</string>
     <string name="install_type_instant">App instantâneo</string>
     <string name="installing">Instalando</string>
     <string name="international_Ad">Anúncio</string>
@@ -2853,7 +2853,7 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="load_only_under_wlan">Carregar apenas em Wi-Fi</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_text_format" formatted="false">Verificando se as fotos contêm informações pessoais %d/%d</string>
-    <string name="local_ip_exception_summary">Não foi possível obter o endereço de IP local. Para relatar este erro à equipe de desenvolvimento do HyperOS, vá para o app Relatar Erro e envie um registro de seu dispositivo.</string>
+    <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para relatar este erro à equipe de desenvolvimento do HyperOS, vá para o app Feedback e envie um registro de seu dispositivo.</string>
     <string name="lock_all_title">Bloquear todos os apps</string>
     <string name="lock_mode_title">Configurações de bloqueio</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s usado(s) na Tela de bloqueio</string>
@@ -2897,7 +2897,7 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="low_memory_warning_dialog_ok_button">Limpar</string>
     <string name="low_memory_warning_dialog_title">Não há espaço livre suficiente</string>
     <string name="low_temperature_button_ok">Entendi</string>
-    <string name="low_temperature_warning_message">Parece que está muito frio e seu telefone pode desligar mais cedo do que o esperado. Salve todas as alterações importantes.</string>
+    <string name="low_temperature_warning_message">Parece que está muito frio e seu dispositivo pode desligar mais cedo do que o esperado. Salve todas as alterações importantes.</string>
     <string name="low_temperature_warning_title">A temperatura do ar está baixa</string>
     <string name="main_activity_content_summary_root">Acesso root</string>
     <string name="main_activity_content_summary_update">Atualização de sistema</string>
@@ -2949,7 +2949,7 @@ da operadora"</string>
     <string name="managed_user_title">Todos os apps de trabalho</string>
     <string name="manual_input_free_traffic">Definir limite fora do pico</string>
     <string name="manual_input_traffic">Insira o uso de dados</string>
-    <string name="manual_item_create_icon_title">Atalho da tela inicial</string>
+    <string name="manual_item_create_icon_title">Atalho da Tela inicial</string>
     <string name="manual_item_white_list_summary">Impede que itens selecionados sejam otimizados</string>
     <string name="manual_item_white_list_title">Exceções da verificação</string>
     <string name="mark_agent">Bloquear agências reportadas</string>
@@ -2972,7 +2972,7 @@ da operadora"</string>
     <string name="mark_number_setting_guide_content1">Bloquear chamadas de números reportados?</string>
     <string name="mark_number_setting_guide_content2">Bloquear automaticamente chamadas de números reportados por outros usuários</string>
     <string name="mark_number_setting_guide_content3">Você reportou um número como %1$s. Deseja bloquear chamadas de números reportados como %2$s?</string>
-    <string name="mark_number_setting_guide_forward">Config. da lista de bloqueio</string>
+    <string name="mark_number_setting_guide_forward">Configurações da lista de bloqueio</string>
     <string name="mark_number_setting_guide_title">Bloquear números reportados</string>
     <string name="mark_sell">Bloquear telemarketings reportados</string>
     <string name="mark_sell_block">Reportado como telemarketing</string>
@@ -3329,7 +3329,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="not_limited_brand">Ilimitado</string>
     <string name="not_set">Toque para definir</string>
     <string name="not_settled">Não definido</string>
-    <string name="not_support_root_summary">Permitir acesso root para apps de terceiros pode representar riscos de segurança e danificar seu dispositivo. Por este motivo, não oferecemos mais opções para gerenciar permissões de acesso root.</string>
+    <string name="not_support_root_summary">Permite acesso root para apps de terceiros pode representar riscos de segurança e danificar seu dispositivo. Por este motivo, não oferecemos mais opções para gerenciar permissões de acesso root.</string>
     <string name="not_support_root_title">Acesso root</string>
     <string name="note">Nota</string>
     <string name="note_call_none">Nenhuma chamada</string>
@@ -3530,11 +3530,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="other_exception_summary">Você não tem uma conexão com a internet</string>
     <string name="other_exception_title">Verificando outros problemas</string>
     <string name="other_milink_connect">Não é possível transmitir. Outro recurso está sendo transmitido agora.</string>
-    <string name="other_operator_name_virtual_operator">Other virtual carriers</string>
+    <string name="other_operator_name_virtual_operator">Outras operadoras virtuais</string>
     <string name="over_package_reminder_type">Quando o plano for utilizado</string>
     <string name="overlay_permission_dialog_comment">Permitir que o Segurança mostre itens sobre outros apps.</string>
     <string name="overlay_permission_dialog_comment_pad">Permitir que o Segurança mostre itens sobre outros apps.</string>
-    <string name="overlay_permission_dialog_comment_security_service">Permitir que \"Ferramentas de segurança\" exiba itens sobre outros apps. Você pode conceder essa permissão em Configurações.</string>
+    <string name="overlay_permission_dialog_comment_security_service">Permitir que \"Ferramentas de segurança\" exiba itens sobre outros apps. Você pode conceder essa permissão nas Configurações.</string>
     <string name="overlay_permission_dialog_message">Segurança precisa de permissões para poder funcionar normalmente.</string>
     <string name="overlay_permission_dialog_message_pad">Segurança precisa de permissões para poder funcionar normalmente.</string>
     <string name="overlay_permission_dialog_message_security_service">Segurança precisa de permissões para poder funcionar normalmente.</string>
@@ -4015,7 +4015,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_optimize_close_gps">Desativar serviços de localização</string>
     <string name="power_optimize_close_haptic_feedback">Desativar retorno tátil</string>
     <string name="power_optimize_close_wake_notification">Não ligar a tela para notificações</string>
-    <string name="power_optimize_close_wlan">Desativar hotspot portátil</string>
+    <string name="power_optimize_close_wlan">Desativar Hotspot portátil</string>
     <string name="power_optimize_close_wlan_summary">Economiza bateria quando não tem dispositivos conectados</string>
     <string name="power_optimize_darkmode">Alterar para o Modo escuro</string>
     <string name="power_optimize_darkmode_dialog_confirm">Ativar</string>
@@ -4118,7 +4118,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_wireless_update_button_text">Atualizar</string>
     <string name="power_wireless_update_dialog_button">Entendi</string>
     <string name="power_wireless_update_dialog_message">Carregue seu dispositivo pelo menos até %s para poder atualizar o firmware do carregamento sem fio.</string>
-    <string name="power_wireless_update_dialog_title">Bateria Fraca</string>
+    <string name="power_wireless_update_dialog_title">Bateria fraca</string>
     <string name="power_wireless_update_driver">Atualizações de firmware</string>
     <string name="power_wireless_update_notification_button">Visualizar</string>
     <string name="power_wireless_update_notification_subtitle">Atualize o firmware para melhorar a estabilidade do carregamento sem fio</string>
@@ -4325,10 +4325,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_apps_shield_message_title">Ocultar notificações</string>
     <string name="privacy_apps_tutorial">Gestos</string>
     <string name="privacy_apps_tutorial_dlg_message_1">Afaste dois dedos na Tela inicial para ver os apps ocultos</string>
-    <string name="privacy_apps_tutorial_dlg_message_2">Nota: quando você oculta um app, apenas o atalho da Tela inicial fica oculto.</string>
+    <string name="privacy_apps_tutorial_dlg_message_2">Observação: Quando você oculta um app, apenas o atalho da Tela inicial fica oculto.</string>
     <string name="privacy_apps_tutorial_dlg_title">Encontrando apps ocultos</string>
     <string name="privacy_apps_tutorial_prompt_pageone">Este recurso permite que você oculte ícones de apps para que eles não apareçam na sua Tela inicial.</string>
-    <string name="privacy_apps_tutorial_prompt_pagethree">Depois de inserir a senha, a pasta com os apps ocultos aparecerá.</string>
+    <string name="privacy_apps_tutorial_prompt_pagethree">Após inserir a senha, a pasta com os apps ocultos aparecerá.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste dois dedos na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de apps.</string>
     <string name="privacy_danger_permission_status_summary">Gerencie apps que solicitam permissões sensíveis</string>
     <string name="privacy_danger_permission_status_title">Ações sensíveis</string>
@@ -4529,7 +4529,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_risk_uninstall_title">Desinstalar apps</string>
     <string name="privacy_risk_work_encryption">Arquivos de redes sociais ou trabalho não estão protegidos</string>
     <string name="privacy_search_key_1">Privacidade</string>
-    <string name="privacy_search_key_10">ID do Dispositivo</string>
+    <string name="privacy_search_key_10">ID do dispositivo</string>
     <string name="privacy_search_key_2">Interceptação de rede</string>
     <string name="privacy_search_key_3">Permissões</string>
     <string name="privacy_search_key_4">Atividades do app</string>
@@ -4560,9 +4560,9 @@ Retirar consentimento agora?"</string>
     <string name="privacy_thumbnail_shield_title">Máscara de visualização</string>
     <string name="privacy_thumbnail_shield_top_tip">Mascarar visualizações para apps exibidos em Recentes</string>
     <string name="privacy_type_open">Ativado</string>
-    <string name="privacy_update_dialog_content_1">A política de privacidade de %s foi atualizada:</string>
+    <string name="privacy_update_dialog_content_1">A Política de Privacidade de %s foi atualizada:</string>
     <string name="privacy_update_dialog_content_2"><Data>Leia e concorde com a nova versão da &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
-    <string name="privacy_update_dialog_title">Política de privacidade atualizada</string>
+    <string name="privacy_update_dialog_title">Política de Privacidade atualizada</string>
     <string name="privacy_using_camera">Usar a câmara</string>
     <string name="privacy_using_location">Acesso à localização</string>
     <string name="privacy_using_record">Gravar áudio</string>
@@ -4572,7 +4572,7 @@ Retirar consentimento agora?"</string>
     <string name="process_vpnsdkmanager_label">"Game Turbo"</string>
     <string name="promotion">Anúncio</string>
     <string name="prompt_all">Perguntar para todos</string>
-    <string name="prompt_input_time_illegal">Não é possível definir este horário, altere-o e tente novamente</string>
+    <string name="prompt_input_time_illegal">Não é possível definir este horário, altere-o e tente novamente.</string>
     <string name="protect_data_security">Dados isolados</string>
     <string name="protect_data_security_detail">Os dados gerados pelo teclado ficarão isolados e inacessíveis por outros apps.</string>
     <string name="protect_screen_information">Sua tela está protegida</string>
@@ -4592,8 +4592,8 @@ Retirar consentimento agora?"</string>
     <string name="quick_optimize_sub_battery_text">Cerca de %s restante(s)</string>
     <string name="quick_optimize_sub_summary_text">%s adicionado à duração da bateria</string>
     <string name="quick_optimize_sub_summary_with_battery_text">%1$s adicionado, cerca de %2$s restante(s)</string>
-    <string name="quick_optimize_suggest_battery_consume_too_fast">O telefone está drenando muita bateria, corrija o problema</string>
-    <string name="quick_optimize_suggest_battery_over_heat">O telefone está superaquecendo, corrija o problema</string>
+    <string name="quick_optimize_suggest_battery_consume_too_fast">O dispositivo está drenando muita bateria, corrija o problema</string>
+    <string name="quick_optimize_suggest_battery_over_heat">O dispositivo está superaquecendo, corrija o problema</string>
     <string name="quick_replay_list_title">Apps disponíveis</string>
     <string name="quick_reply_title">Respostas rápidas</string>
     <string name="quite_all_string">Cancelar</string>
@@ -4622,7 +4622,7 @@ Retirar consentimento agora?"</string>
     <string name="reject_usb_install">A instalação via USB dos seguintes apps foi negada</string>
     <string name="release_meminfo">Liberado %dMB</string>
     <string name="release_memory">Limpar cache</string>
-    <string name="reminder_click_to_close_tips">You can turn data usage warnings on and off in Security > Data usage > Settings.</string>
+    <string name="reminder_click_to_close_tips">Você pode ativar e desativar avisos de uso de dados em Segurança > Uso de dados > Configurações.</string>
     <string name="reminder_once_month">Uma vez por mês</string>
     <string name="reminder_tips">Atenção!</string>
     <string name="reminder_type">Tipo de alerta</string>
@@ -4850,7 +4850,7 @@ Retirar consentimento agora?"</string>
     <string name="sp_lock_screen_password_summary">Defina o bloqueio de tela</string>
     <string name="sp_lock_screen_password_title">Bloqueio de tela</string>
     <string name="sp_micare_summary">Segurança pessoal</string>
-    <string name="sp_micare_title">Centro de Alerta HyperOS</string>
+    <string name="sp_micare_title">Central de alerta</string>
     <string name="sp_monitored_apps_count_zero">Nenhum app de pagamento protegido</string>
     <string name="sp_monitored_apps_list_title">Segurança de pagamento</string>
     <string name="sp_more_security_settings">Configurações adicionais</string>
@@ -4867,7 +4867,7 @@ Retirar consentimento agora?"</string>
     <string name="sp_privacy_protect_title">Proteção de privacidade</string>
     <string name="sp_property_security_title">Segurança financeira</string>
     <string name="sp_scan_item_monitor">Monitorar pagamentos</string>
-    <string name="sp_scan_item_url_antispam">Proteção contra URLs maliciosas</string>
+    <string name="sp_scan_item_url_antispam">Proteção contra URLs maliciosos</string>
     <string name="sp_security_center_title">Segurança</string>
     <string name="sp_security_check_status_off">Desativado</string>
     <string name="sp_security_check_status_on">Ativado</string>
@@ -4887,10 +4887,10 @@ Retirar consentimento agora?"</string>
     <string name="sp_settings_info_input_method">Teste os teclados por problemas de segurança ao fazer pagamentos</string>
     <string name="sp_settings_info_monitor">Monitorar ambiente do sistema quando apps de pagamento forem iniciados</string>
     <string name="sp_settings_title_input_method">Testar teclados por problemas de segurança</string>
-    <string name="sp_sim_protect_summary">Proteja as informações do Chip</string>
-    <string name="sp_sim_protect_title">Segurança do Chip</string>
+    <string name="sp_sim_protect_summary">Proteja as informações do chip</string>
+    <string name="sp_sim_protect_title">Segurança do chip</string>
     <string name="sp_sos_summary">Obtenha ajuda quando estiver em perigo</string>
-    <string name="sp_sos_title">SOS de Emergência</string>
+    <string name="sp_sos_title">SOS de emergência</string>
     <string name="sp_system_security_title">Sistema de segurança</string>
     <string name="sp_toast_removed_from_sign_white_list">Removido das exceções. O item será verificado da próxima vez.</string>
     <string name="sp_unshelf_dialog_cancel_pay">Cancelar</string>
@@ -4987,16 +4987,16 @@ Retirar consentimento agora?"</string>
     <string name="st_antispam_des_uesless">Desativado</string>
     <string name="st_antispam_mode_add_new">Adicionar regras</string>
     <string name="st_antispam_mode_blacklist">Números bloqueados</string>
-    <string name="st_antispam_mode_blacklist_sum">Bloquear chamadas e SMS de números que você adicionou manualmente à Lista de bloqueio</string>
+    <string name="st_antispam_mode_blacklist_sum">Bloqueie chamadas e SMS de números que você adicionou manualmente à Lista de bloqueio</string>
     <string name="st_antispam_mode_denyownself_sum">Regras personalizadas</string>
     <string name="st_antispam_mode_only_all_deny">Bloquear tudo</string>
-    <string name="st_antispam_mode_only_all_deny_sum">Bloquear todas as chamadas e mensagens</string>
+    <string name="st_antispam_mode_only_all_deny_sum">Bloqueie todas as chamadas e mensagens</string>
     <string name="st_antispam_mode_only_contacts">Permitir apenas contatos</string>
-    <string name="st_antispam_mode_only_contacts_sum">Permitir chamadas e mensagens apenas de Contatos</string>
+    <string name="st_antispam_mode_only_contacts_sum">Permita chamadas e mensagens apenas de Contatos</string>
     <string name="st_antispam_mode_only_whitelist">Permitir apenas exceções</string>
-    <string name="st_antispam_mode_only_whitelist_sum">Permitir chamadas e mensagens apenas de números na lista de exceções</string>
+    <string name="st_antispam_mode_only_whitelist_sum">Permita chamadas e mensagens apenas de números na lista de exceções</string>
     <string name="st_antispam_mode_smart">Números reportados</string>
-    <string name="st_antispam_mode_smart_sum">Bloquear números adicionados manualmente por você e números reportados por outros usuários</string>
+    <string name="st_antispam_mode_smart_sum">Bloqueie números adicionados manualmente por você e números reportados por outros usuários</string>
     <string name="st_antispam_title_anoy_incoming">Chamadas de desconhecidos</string>
     <string name="st_antispam_title_anoy_sms">Mensagens de desconhecidos</string>
     <string name="st_antispam_title_contact_incoming">Chamadas de Contatos</string>
@@ -5155,7 +5155,7 @@ Retirar consentimento agora?"</string>
     <string name="storage_clear_cache_large">Liberar %s</string>
     <string name="storage_clear_more_tools">Mais ferramentas de limpeza</string>
     <string name="storage_clear_video">Limpar cache de vídeo</string>
-    <string name="storage_compact_warning">Adjusting multiple permissions</string>
+    <string name="storage_compact_warning">Ajustando múltiplas permissões</string>
     <string name="storage_compact_warning_desc">"As permissões de foto, vídeo e áudio para este app devem ser alteradas simultaneamente. A alteração de uma dessas permissões alterará todas as outras."</string>
     <string name="storage_deepclean_entry">Limpeza profunda</string>
     <string name="storage_dialog_unmountable">"Este ^1 está corrompido.
@@ -5253,7 +5253,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="summary_data_flow">Controle os dados móveis para evitar tarifação adicional</string>
     <string name="summary_default_app">%s não está definido como o app padrão do sistema</string>
     <string name="summary_dev">Evitar Malware e proteger os dados pessoais</string>
-    <string name="summary_do_not_disturb">Você está usando o Modo Não perturbe.</string>
+    <string name="summary_do_not_disturb">Você está usando o modo Não perturbe.</string>
     <string name="summary_eye_shield">Desative o Modo leitura para voltar às configurações padrão.</string>
     <string name="summary_find_device">Localizar e bloquear seu dispositivo de qualquer lugar</string>
     <string name="summary_first_aid_kit">Resolva os problemas no seu dispositivo agora</string>
@@ -5282,7 +5282,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="summary_safe_mode">Neutralize os riscos durante a instalação</string>
     <string name="summary_show_notification">Limpar cache, ver status da bateria e bloquear itens na Área de notificações</string>
     <string name="summary_telecom_operator">Obtenha suas estatísticas de uso de dados de sua operadora</string>
-    <string name="summary_usb">Prevenir que Malwares sejam transmitidos através da USB</string>
+    <string name="summary_usb">Prevenir que malwares sejam transmitidos através da USB</string>
     <string name="summary_virus">Remover vírus para manter seu dispositivo seguro</string>
     <string name="summary_virus_cloudscan">Fazer upload de nome e detalhes de apps e verificá-los usando definições de vírus online</string>
     <string name="summary_virus_scan_model">Elimine esses riscos de segurança o mais rápido possível</string>
@@ -5303,13 +5303,13 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="superpower_notification_title_new">Menos de %s de bateria</string>
     <string name="superpower_progress_content">Ativando a Ultra economia de bateria…</string>
     <string name="superpower_progress_left_time">%1$d h e %2$d min</string>
-    <string name="superpower_progress_switch_home">Alternando para o Tema escuro</string>
+    <string name="superpower_progress_switch_home">Alternando para o Modo escuro</string>
     <string name="superpower_progress_title">Tempo restante</string>
     <string name="superpower_progress_turndown_brightness">Reduzindo brilho da tela</string>
     <string name="superpower_progress_turnoff_items">Restringindo atividades de alto consumo de energia</string>
     <string name="superpower_progress_turnoff_process">Restringindo atividades em 2º plano</string>
     <string name="superpower_savemode_description_title">A Ultra economia de bateria ativa as seguintes restrições:</string>
-    <string name="superpower_savemode_limit1">Tema escuro</string>
+    <string name="superpower_savemode_limit1">Modo escuro</string>
     <string name="superpower_savemode_limit2">Restringir atividade em 2º plano</string>
     <string name="superpower_savemode_limit3">Restringir atividades com alto consumo de energia (sincronização, GPS, vibração, Tela ambiente, etc.)</string>
     <string name="superpower_savemode_limit4">Permitir que apps selecionados funcionem normalmente</string>
@@ -5330,11 +5330,11 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_anti_fraud_dialog_confirm_btn_txt">Entendi</string>
     <string name="system_anti_fraud_dialog_content">"Parece que você acabou de receber uma chamada ou mensagem fraudulenta. Continuar com este pagamento pode causar perdas financeiras."</string>
     <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Se a equipe de atendimento ao cliente, autoridades ou pessoas que você talvez conheça solicitarem que você conclua este pagamento, &lt;/font>&lt;font = color=#F22424>verifique sua identidade antes de continuar.&lt;/font></string>
-    <string name="system_anti_fraud_dialog_image_txt">Proteção Antifraude</string>
-    <string name="system_anti_fraud_dialog_message">Proteção Antifraude</string>
-    <string name="system_anti_fraud_dialog_title">Aviso Antifraude</string>
-    <string name="system_anti_fraud_dialog_title2">Aviso Antifraude</string>
-    <string name="system_anti_fraud_stayaway_from_risk">Avoid digital fraud</string>
+    <string name="system_anti_fraud_dialog_image_txt">Proteção antifraude</string>
+    <string name="system_anti_fraud_dialog_message">Proteção antifraude</string>
+    <string name="system_anti_fraud_dialog_title">Aviso antifraude</string>
+    <string name="system_anti_fraud_dialog_title2">Aviso antifraude</string>
+    <string name="system_anti_fraud_stayaway_from_risk">Evite fraudes digitais</string>
     <string name="system_app">Apps do sistema</string>
     <string name="system_app_permission_instruction">Este app precisa das seguintes permissões para fornecer serviços básicos do sistema. O gerenciamento de permissões é restrito para este app, pois a alteração do status de permissão levará a anormalidades de operação do sistema.</string>
     <string name="system_application">App do sistema</string>
@@ -5350,7 +5350,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_permission_declare_no_say_no_analytics">Se você não quiser conceder estas permissões, você pode cancelar sua inscrição em Configurações > Configurações adicionais > Privacidade > Programa de Experiência do Usuário.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Se você optar por não conceder as permissões requeridas ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar totalmente.</string>
     <string name="system_permission_declare_optional">"Para fornecer serviços adicionais enquanto você usa o app, podemos precisar das seguintes permissões: %s. Você sempre pode ajustar suas preferências de permissão nas Configurações."</string>
-    <string name="system_permission_declare_privacy_declare">" Este app precisa conectar-se à internet e requer as seguintes permissões para funcionar normalmente:"</string>
+    <string name="system_permission_declare_privacy_declare">"Este app precisa conectar-se à internet e requer as seguintes permissões para funcionar normalmente:"</string>
     <string name="system_permission_declare_privacy_no_network">Este app precisa das seguintes permissões para poder funcionar normalmente:</string>
     <string name="system_permission_declare_privacy_no_permission">Este app precisa conectar-se à internet e coletar os dados pessoais necessários para poder funcionar normalmente.</string>
     <string name="system_permission_declare_privacy_policy"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
@@ -5365,8 +5365,8 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_permission_perm_read_mms">Ler MMS</string>
     <string name="system_permission_perm_read_numbers">Ler números de telefone</string>
     <string name="system_permission_perm_send_mms">Enviar MMS</string>
-    <string name="system_tool_green_guard">Segurança Familiar</string>
-    <string name="system_tool_sos">SOS de Emergência</string>
+    <string name="system_tool_green_guard">Segurança familiar</string>
+    <string name="system_tool_sos">SOS de emergência</string>
     <string name="tab_blacklist">Lista de bloqueio</string>
     <string name="tab_block_log_unKnowNumber">Número privado</string>
     <string name="tab_call">Chamadas</string>
@@ -5383,7 +5383,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_close_dial_tone">Desativar os tons do teclado</string>
     <string name="task_summary_close_drive_mode">Desativar o Modo carro</string>
     <string name="task_summary_close_eye_care_mode">Desativar o Modo leitura</string>
-    <string name="task_summary_close_hotspot">Desativar o hotspot portátil</string>
+    <string name="task_summary_close_hotspot">Desativar o Hotspot portátil</string>
     <string name="task_summary_close_location">Desativar os serviços de localização</string>
     <string name="task_summary_close_mute">Desativar Modo silencioso</string>
     <string name="task_summary_close_network">Desativar os dados móveis</string>
@@ -5393,17 +5393,17 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_close_screen_display">Desativar a Tela ambiente</string>
     <string name="task_summary_close_system_touch">Desativar o feedback tátil</string>
     <string name="task_summary_close_wlan">Desativar o Wi-Fi</string>
-    <string name="task_summary_close_zen_mode">Desativar o Modo Não perturbe</string>
+    <string name="task_summary_close_zen_mode">Desativar o modo Não perturbe</string>
     <string name="task_summary_open_airplane">Ativar o Modo avião</string>
     <string name="task_summary_open_auto_brightness">Ativar o brilho automático</string>
     <string name="task_summary_open_bluetooth">Ativar o Bluetooth</string>
     <string name="task_summary_open_dark_mode">Ativar o Modo escuro</string>
     <string name="task_summary_open_dc_light">Ativar o Modo anti-oscilação</string>
     <string name="task_summary_open_dial_tone">Ativar os tons do teclado</string>
-    <string name="task_summary_open_disturb_mode">Ativar o Modo Não perturbe</string>
+    <string name="task_summary_open_disturb_mode">Ativar o modo Não perturbe</string>
     <string name="task_summary_open_drive_mode">Ativar o Modo carro</string>
     <string name="task_summary_open_eye_care_mode">Ativar o Modo leitura</string>
-    <string name="task_summary_open_hotspot">Ativar o hotspot portátil</string>
+    <string name="task_summary_open_hotspot">Ativar o Hotspot portátil</string>
     <string name="task_summary_open_location">Ativar os serviços de localização</string>
     <string name="task_summary_open_mute">Ativar Modo silencioso</string>
     <string name="task_summary_open_mute_mode">Ativar o Modo silencioso</string>
@@ -5414,7 +5414,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_open_screen_display">Ativar a Tela ambiente</string>
     <string name="task_summary_open_system_touch">Ativar o feedback tátil</string>
     <string name="task_summary_open_wlan">Ativar o Wi-Fi</string>
-    <string name="task_summary_open_zen_mode">Ativar o Modo Não perturbe</string>
+    <string name="task_summary_open_zen_mode">Ativar o modo Não perturbe</string>
     <string name="task_title_charge">Carregar</string>
     <string name="task_title_nfc">"NFC"</string>
     <string name="tc_cmd_invalid">O modelo é inválido</string>
@@ -5480,9 +5480,9 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tether_limit_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_value_custom">Personalizado</string>
     <string name="tether_over_limit_dialog_cancle_btn">Redefinir hotspot</string>
-    <string name="tether_over_limit_dialog_message">Você atingiu o limite de dados do hotspot portátil.</string>
+    <string name="tether_over_limit_dialog_message">Você atingiu o limite de dados do Hotspot portátil.</string>
     <string name="tether_over_limit_dialog_title">Aviso sobre o uso de dados</string>
-    <string name="tether_over_limit_warning_notify_message">Desativar hotspot portátil.</string>
+    <string name="tether_over_limit_warning_notify_message">Desativar Hotspot portátil.</string>
     <string name="tether_over_limit_warning_notify_title">Limite de dados do hotspot atingido</string>
     <string name="text_button">Entendi</string>
     <string name="text_cycle_day">%s</string>
@@ -5528,10 +5528,10 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
-    <string name="thermal_tips_message">Jogar no Modo Desempenho pode causar aquecimento do dispositivo.</string>
+    <string name="thermal_tips_message">Jogar no Modo desempenho pode causar aquecimento do dispositivo.</string>
     <string name="thermal_tips_title">Atenção!</string>
     <string name="third_application">App instalado</string>
-    <string name="third_desktop_dialog_content">Como apps de Launchers de terceiros podem causar problemas como vazamento de dados, drenagem de bateria anormal e lentidões de sistema, apenas os verificados pelo HyperOS podem ser definidos como o Launcher padrão.</string>
+    <string name="third_desktop_dialog_content">Como apps de launchers de terceiros podem causar problemas como vazamento de dados, drenagem de bateria anormal e lentidões de sistema, apenas os verificados pelo HyperOS podem ser definidos como o launcher padrão.</string>
     <string name="third_desktop_dialog_ok">Entendi</string>
     <string name="third_desktop_dialog_title">Erro</string>
     <string name="three_percent_total_pkg">%s (3%% dos dados mensais)</string>
@@ -5698,7 +5698,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tomorrow">Amanhã</string>
     <string name="top_game">Jogos populares</string>
     <string name="top_load_fail_detail">Não foi possível carregar, toque para tentar novamente</string>
-    <string name="top_no_network_detial">Não foi possível carregar, verifique a conexão de rede e tente novamente</string>
+    <string name="top_no_network_detial">Não foi possível carregar, verifique a conexão de rede e tente novamente.</string>
     <string name="traffic_advanced_settings">Configurações avançadas de tráfego</string>
     <string name="traffic_alarm">Definir alarme</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Plano mensal alterado para %s.</string>
@@ -5773,14 +5773,14 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="traffic_usage_warning_title">Aviso sobre o uso de dados</string>
     <string name="traffic_warning_purchase_title">Alerta do uso de dados móveis</string>
     <string name="try_game">Experimentar</string>
-    <string name="try_recommended_function">Proteja seu dispositivo usando os novos recursos de segurança</string>
+    <string name="try_recommended_function">Proteja seu dispositivo usando os novos recursos de Segurança</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="turn_off_auto_correction">Desativando a sincronização automática</string>
-    <string name="tvm_install_failed">"Não foi possível instalar o plug-in"</string>
-    <string name="tvm_install_successed">Plug-in instalado com sucesso</string>
-    <string name="tvm_version_too_low">Primeiro atualize o plug-in Componente da tecla do telefone</string>
+    <string name="tvm_install_failed">"Não foi possível instalar o plugin"</string>
+    <string name="tvm_install_successed">Plugin instalado com sucesso</string>
+    <string name="tvm_version_too_low">Primeiro atualize o Plugin do componente chave do dispositivo</string>
     <string name="two_address_choose_hint">%1$s e %2$s</string>
     <string name="type_face_condition_summary">Ajuste o tamanho do texto e a espessura da fonte</string>
     <string name="unable_connect_internet">Sem conexão com a internet</string>
@@ -5808,10 +5808,10 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="untrust_app_perm_oaid">Permitir acesso ao seu ID virtual</string>
     <string name="untrust_app_perm_title">App de fonte desconhecida</string>
     <string name="untrust_app_perm_warn">Este app vem de uma fonte desconhecida e pode representar riscos à segurança. Ele pode usar as permissões listadas abaixo para comprometer sua privacidade. Conceda essas permissões após uma consideração cuidadosa.</string>
-    <string name="unused_apps_switch">Pausar a atividade do app se não for usado</string>
-    <string name="unused_apps_switch_summary">Remove permissões, exclue arquivos temporários e interrompe notificações</string>
-    <string name="upgrade_tvm_component_desc">Para garantir a segurança de suas transações, atualize o plug-in do Componente de chave do dispositivo via Segurança.</string>
-    <string name="upgrade_tvm_component_title">Atualizar o plug-in do componente de chave do dispositivo</string>
+    <string name="unused_apps_switch">Pausar atividade do app se não for usado</string>
+    <string name="unused_apps_switch_summary">Remove permissões, exclue arquivos temporários e interrompe notificações.</string>
+    <string name="upgrade_tvm_component_desc">Para garantir a segurança de suas transações, atualize o Plugin do componente chave do dispositivo via Segurança.</string>
+    <string name="upgrade_tvm_component_title">Atualizar o Plugin do componente chave do dispositivo</string>
     <string name="usage_sorted_activity_lable">Uso de dados</string>
     <string name="usage_sorted_empty_text">Vazio</string>
     <string name="usage_sorted_loading_text">Aguarde…</string>
@@ -5849,7 +5849,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="vb_advanced_settings">Imagem</string>
     <string name="vb_advanced_settings_after_open">Depois</string>
     <string name="vb_advanced_settings_before_open">Antes</string>
-    <string name="vb_advanced_settings_pic_stronger_desc">Aumentar a nitidez de objetos em movimento aprimorando as animações. Este recurso requer um alto consumo de energia.</string>
+    <string name="vb_advanced_settings_pic_stronger_desc">Aumente a nitidez de objetos em movimento aprimorando as animações. Este recurso requer um alto consumo de energia.</string>
     <string name="vb_fps_display_unit">Hz</string>
     <string name="vb_fps_settings">Taxa de atualização automática</string>
     <string name="vb_fps_settings_tips">Este recurso ajusta a taxa de atualização da tela para a taxa de quadros do vídeo, o que economiza bateria e torna a reprodução de mídia mais suave. Ativar os comentários flutuantes desativará a taxa de atualização automática.</string>
@@ -5884,7 +5884,7 @@ Ativar um desativará o outro."</string>
     <string name="vb_video_effects_3d_surround">Som virtual imersivo</string>
     <string name="vb_video_effects_display_style">Estilo</string>
     <string name="vb_video_effects_dolby">"Dolby Atmos"</string>
-    <string name="vb_video_effects_dolby_dialog_enhancer">Diálogos aprimorados</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Diálogo aprimorado</string>
     <string name="vb_video_effects_dolby_headset">" (Apenas fones de ouvido)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos ativado</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Estéreo expandido</string>
@@ -5970,7 +5970,7 @@ Experimente interpolar a resolução!"</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_type_title">Tipo</string>
     <string name="virus_update_tips_title">Alerta</string>
-    <string name="virus_wait_network_dialog_message">Seu telefone não está conectado ao Wi-Fi no momento. Usar a conexão de dados?</string>
+    <string name="virus_wait_network_dialog_message">Seu dispositivo não está conectado ao Wi-Fi no momento. Usar a conexão de dados?</string>
     <string name="vtb_ai_subtitle">Legendas</string>
     <string name="vtb_ai_subtitle_intl">Legendas de IA</string>
     <string name="vtb_func_desc">Sobre este recurso</string>
@@ -5992,7 +5992,7 @@ Experimente interpolar a resolução!"</string>
     <string name="warningcenter_action_check">Visualizar</string>
     <string name="warningcenter_alert_home">Localização</string>
     <string name="warningcenter_alert_room">Quarto</string>
-    <string name="warningcenter_alert_source">Centro de Alertas HyperOS | Fonte de dados: %s</string>
+    <string name="warningcenter_alert_source">Central de alerta | Fonte de dados: %s</string>
     <string name="warningcenter_alert_time">Hora</string>
     <string name="warningcenter_alert_warning_time">Hora recebida: %s</string>
     <string name="warningcenter_disaster_all">Todos os alertas</string>
@@ -6045,7 +6045,7 @@ Experimente interpolar a resolução!"</string>
     <string name="warningcenter_disaster_type_update">Atualizado</string>
     <string name="warningcenter_earthquake_info">Avisos de terremoto</string>
     <string name="warningcenter_mijia_alert_close">Fechar</string>
-    <string name="warningcenter_mijia_alert_settings">Alterar configurações em Segurança> Alertas de dispositivos domésticos inteligentes</string>
+    <string name="warningcenter_mijia_alert_settings">Alterar configurações em Segurança > Alertas de dispositivos domésticos inteligentes</string>
     <string name="warningcenter_mijia_alert_tips_1">Detectada alta concentração de gás</string>
     <string name="warningcenter_mijia_alert_tips_2">Fumaça detectada</string>
     <string name="warningcenter_mijia_alert_tips_3">Inundação detectada</string>
@@ -6056,7 +6056,7 @@ Experimente interpolar a resolução!"</string>
     <string name="warningcenter_mijia_devices_3">Detector de gás</string>
     <string name="warningcenter_mijia_devices_4">Bloqueio inteligente</string>
     <string name="warningcenter_mijia_devices_support">Dispositivos suportados</string>
-    <string name="warningcenter_mijia_devices_support_tips">"Nota: Você não poderá receber alertas se sair da sua conta no Mi Home ou desinstalar o app."</string>
+    <string name="warningcenter_mijia_devices_support_tips">"Observação: Você não poderá receber alertas se sair da sua conta no Mi Home ou desinstalar o app."</string>
     <string name="warningcenter_mijia_info">Monitore sua segurança doméstica</string>
     <string name="warningcenter_mijia_notification_summary">Você pode receber alertas instantâneos</string>
     <string name="warningcenter_mijia_notification_title">Os alertas de dispositivos domésticos inteligentes estão ativados</string>
@@ -6079,10 +6079,10 @@ Experimente interpolar a resolução!"</string>
     <string name="warningcenter_policeassist_open_btn">Ativado</string>
     <string name="warningcenter_policeassist_open_content">Envie suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga 181, 190, 192, 119 ou 122"</string>
     <string name="warningcenter_policeassist_open_title">Compartilhe sua localização com a polícia durante chamadas de emergência</string>
-    <string name="warningcenter_policeassist_privacy"><Data>"Eu li e concordei com &lt;a href=\"%1$s\">Contrato de Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>."</Data></string>
+    <string name="warningcenter_policeassist_privacy"><Data>"Eu li e concordei com &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>."</Data></string>
     <string name="warningcenter_policeassist_title">Localização de emergência</string>
     <string name="warningcenter_smarthome">"Mi Home"</string>
-    <string name="warningcenter_title">Centro de Alertas HyperOS</string>
+    <string name="warningcenter_title">Central de alerta</string>
     <string name="website">Site</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
@@ -6149,7 +6149,7 @@ Experimente interpolar a resolução!"</string>
     <string name="ad_click_type_not_interest">não interessado</string>
     <string name="ad_click_type_often">Muito frequente</string>
     <string name="alarm_headsup_bottom">Xiaomi celular pegando envelopes vermelhos é rápido</string>
-    <string name="alarm_lock_screen_summary">Uma grande onda de envelopes vermelhos na estrada...</string>
+    <string name="alarm_lock_screen_summary">Uma grande onda de envelopes vermelhos na estrada…</string>
     <string name="alarm_lockscreen_btn">Comece a pegar envelopes vermelhos</string>
     <string name="alarm_setting_title">Configuração de alarme do envelope vermelho</string>
     <string name="allow_notify">permitir_notificar</string>
@@ -6157,13 +6157,11 @@ Experimente interpolar a resolução!"</string>
     <string name="app_manager_power_consume">%.1f%%</string>
     <string name="app_manager_systemapp_setting">Configurar apps do sistema</string>
     <string name="app_source_global_search">Pesquisa global</string>
-    <string name="app_source_home">Área de Trabalho</string>
-    <string name="app_source_notification">notificar</string>
-    <string name="app_source_other">outro</string>
-    <string name="app_source_settings">configurar</string>
+    <string name="app_source_home">Área de trabalho</string>
+    <string name="app_source_notification">Notificar</string>
+    <string name="app_source_other">Outro</string>
+    <string name="app_source_settings">Configurar</string>
     <string name="app_source_widget">Peças pequenas</string>
-    <string name="app_summary">"WECHAT/QQ/MI CHAT RED ENVELOPE ARTIFACTE APORTA PESSOAL ENVENCES RED E ENVENCIDOS RED RED FESTIVAL DE SPRING RED ENVENS"</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="applock_guide_placeholder">000</string>
     <string name="auto_start_cancel">Cancelar</string>
     <string name="auto_start_close">Restringir</string>
@@ -6172,8 +6170,8 @@ Experimente interpolar a resolução!"</string>
     <string name="battery_and_property_important_notify">Notificações importantes sobre bateria</string>
     <string name="battery_and_property_ordinary_notify">Notificações regulares de bateria</string>
     <string name="best_warning_dialog_button">Eu vejo</string>
-    <string name="best_warning_dialog_message">"Lembrete: Depois de usar o Assistente de Envelope Vermelho Xiaomi, aumentará sua velocidade de captar envelopes vermelhos.Mas se suas mãos forem muito rápidas e sua postura for muito rápida, você será o primeiro a pegar o envelope vermelho，&lt;font color='#F30018'&gt;Há uma certa chance de que seja confundido com o uso do plugin automático de envelope vermelho por WeChat&lt;/font&gt;，Afetar o uso de envelopes vermelhos posteriormente.Portanto, às vezes, o ritmo é ligeiramente controlado pela mão cara, e o sabor do envelope vermelho é melhor.Embora o envelope vermelho seja bom, não seja ganancioso～"</string>
-    <string name="best_warning_dialog_message1">"Depois de usar o Xiaomi Red Envelope Assistant, ele aumentará sua velocidade de agarrar envelopes vermelhos.Mas se suas mãos forem muito rápidas e sua postura for muito rápida, você será o primeiro a pegar o envelope vermelho，&lt;font color='#F22424'&gt;Há uma certa chance de que seja confundido com o uso do plugin automático de envelope vermelho por WeChat&lt;/font&gt;，Afetar o uso de envelopes vermelhos posteriormente.Portanto, às vezes, o ritmo é ligeiramente controlado pela mão cara, e o sabor do envelope vermelho é melhor.Embora o envelope vermelho seja bom, não seja ganancioso～～"</string>
+    <string name="best_warning_dialog_message">"Lembrete: Após usar o Assistente de Envelope Vermelho Xiaomi, aumentará sua velocidade de captar envelopes vermelhos.Mas se suas mãos forem muito rápidas e sua postura for muito rápida, você será o primeiro a pegar o envelope vermelho，&lt;font color='#F30018'&gt;Há uma certa chance de que seja confundido com o uso do plugin automático de envelope vermelho por WeChat&lt;/font&gt;，Afetar o uso de envelopes vermelhos posteriormente.Portanto, às vezes, o ritmo é ligeiramente controlado pela mão cara, e o sabor do envelope vermelho é melhor.Embora o envelope vermelho seja bom, não seja ganancioso～"</string>
+    <string name="best_warning_dialog_message1">"Após usar o Xiaomi Red Envelope Assistant, ele aumentará sua velocidade de agarrar envelopes vermelhos.Mas se suas mãos forem muito rápidas e sua postura for muito rápida, você será o primeiro a pegar o envelope vermelho，&lt;font color='#F22424'&gt;Há uma certa chance de que seja confundido com o uso do plugin automático de envelope vermelho por WeChat&lt;/font&gt;，Afetar o uso de envelopes vermelhos posteriormente.Portanto, às vezes, o ritmo é ligeiramente controlado pela mão cara, e o sabor do envelope vermelho é melhor.Embora o envelope vermelho seja bom, não seja ganancioso～～"</string>
     <string name="best_warning_dialog_title">Dicas gentis</string>
     <string name="blur_clipboard1">Proteção da área de transferência</string>
     <string name="blur_clipboard2">Proteger a área de transferência</string>
@@ -6208,7 +6206,7 @@ Experimente interpolar a resolução!"</string>
     <string name="card_click_type_open_or_download">Abra/download no canto inferior direito</string>
     <string name="card_click_type_other">Outras áreas</string>
     <string name="clipboard_ai_allow">Decida por mim</string>
-    <string name="close_lucky_money_dialog_summary">Ok, para fechar o assistente de envelope vermelho? Após o fechamento, você não poderá receber os envelopes vermelhos enviados pelo assistente de envelope vermelho para você, o que pode fazer com que você perca o envelope vermelho.Se você quiser fechar a janela flutuante, pode fechá -la em mais configurações。</string>
+    <string name="close_lucky_money_dialog_summary">OK, para fechar o assistente de envelope vermelho? Após o fechamento, você não poderá receber os envelopes vermelhos enviados pelo assistente de envelope vermelho para você, o que pode fazer com que você perca o envelope vermelho.Se você quiser fechar a janela flutuante, pode fechá -la em mais configurações。</string>
     <string name="close_lucky_money_dialog_title">Feche o assistente de envelope vermelho</string>
     <string name="cmd_lucky_float">sacudir</string>
     <string name="connected_device_application_flow_permission">Permissões de transferência de apps</string>
@@ -6231,7 +6229,7 @@ Experimente interpolar a resolução!"</string>
     <string name="connected_devices_for_screen_desc">Para exibir e interagir com o conteúdo da tela</string>
     <string name="connected_devices_header_title">Dispositivos conectados</string>
     <string name="connected_devices_notification">Notificações</string>
-    <string name="connected_devices_notification_desc">"Exibir as notificações deste dispositivo em dispositivos próximos conectados à mesma conta"</string>
+    <string name="connected_devices_notification_desc">"Exibe as notificações deste dispositivo em dispositivos próximos conectados à mesma conta"</string>
     <string name="connected_devices_notification_title">"Permitir que o dispositivo acima exiba as notificações deste dispositivo?"</string>
     <string name="connected_devices_permission">Interconectividade e permissões</string>
     <string name="connected_devices_permission_settings">Interconectividade e permissões</string>
@@ -6302,9 +6300,9 @@ Experimente interpolar a resolução!"</string>
     <string name="layoutDirection">RTL</string>
     <string name="location">Localização</string>
     <string name="miui_blur_location">Localização aproximada</string>
-    <string name="model_type_pad">plano</string>
-    <string name="model_type_phone">celular</string>
-    <string name="more_setting_summary">Suportar tipos de lembrete de envelope vermelho, janelas de suspensão de desktop, não perturbar o tempo e outras funções</string>
+    <string name="model_type_pad">Plano</string>
+    <string name="model_type_phone">Celular</string>
+    <string name="more_setting_summary">Suportar tipos de lembrete de envelope vermelho, janelas de suspensão de desktop, não perturbar o tempo e outras funções.</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="new_result_sound_only">Som</string>
@@ -6315,7 +6313,7 @@ Experimente interpolar a resolução!"</string>
     <string name="normal4" formatted="false">%1s, %2s, %3s, %4s. Toque para alterar.</string>
     <string name="not_available">Nenhum por enquanto</string>
     <string name="open_alarm_right_now">Ligue imediatamente</string>
-    <string name="open_dnd_mode">Modo não perturbe</string>
+    <string name="open_dnd_mode">Modo Não perturbe</string>
     <string name="open_dnd_mode_summary">Não perturbe o período de tempo, lembrete de envelope vermelho e despertamento do envelope vermelho distúrbio grátis</string>
     <string name="open_fast_open_mode">Abra o modo de gratificação de velocidade</string>
     <string name="open_fast_open_mode_summary">Abra o modo de agarrar de velocidade. Quando o envelope vermelho for recebido, o sistema abrirá automaticamente a página do envelope vermelho.</string>
@@ -6391,7 +6389,7 @@ Experimente interpolar a resolução!"</string>
     <string name="permission_group_nearby_device">Essa permissão permite que os apps descubram e se conectem a dispositivos próximos, bem como determinem suas localizações.</string>
     <string name="permission_group_phone">Essa permissão permite que os apps façam, atendam e finalizem chamadas, bem como acessem seu número de telefone, status do dispositivo e informações da rede móvel.</string>
     <string name="permission_group_sms">Esta permissão permite que os apps enviem e visualizem SMS e MMS.</string>
-    <string name="permission_group_sport_healthy">Esta permissão permite que os apps acessem suas informações de atividade (por exemplo, contagem de passos, treinos).</string>
+    <string name="permission_group_sport_healthy">Esta permissão permite que os apps acessem suas informações de atividade (ex.: contagem de passos, treinos).</string>
     <string name="permission_instruction_read_read_calendar">Esta permissão permite que os apps adicionem, excluam e editem eventos da agenda.</string>
     <string name="permission_instruction_receive_sms_mms">Esta permissão permite que os apps leiam todos os SMS e MMS. Essas mensagens podem conter senhas, detalhes de contas bancárias e outras informações pessoais.</string>
     <string name="permission_legacy_storage">Acesse fotos, vídeos, áudio e arquivos</string>
@@ -6673,16 +6671,16 @@ Experimente interpolar a resolução!"</string>
     <string name="storage_click_audio">Áudio</string>
     <string name="storage_click_clean">Limpe o lixo</string>
     <string name="storage_click_deep_clean">Limpeza profunda</string>
-    <string name="storage_click_file">documento</string>
+    <string name="storage_click_file">Documento</string>
     <string name="storage_click_memory_expansion">Expansão da memória</string>
-    <string name="storage_click_pic">foto</string>
-    <string name="storage_click_system_data">dados do sistema</string>
+    <string name="storage_click_pic">Foto</string>
+    <string name="storage_click_system_data">Dados do sistema</string>
     <string name="storage_click_system_log">Registro do sistema</string>
-    <string name="storage_click_video">vídeo</string>
+    <string name="storage_click_video">Vídeo</string>
     <string name="storage_entry_file">Gerenciador de arquivos</string>
-    <string name="storage_entry_other">outro</string>
-    <string name="storage_entry_setting">configurar</string>
-    <string name="storage_file_list_form_default">cartão SD</string>
+    <string name="storage_entry_other">Outro</string>
+    <string name="storage_entry_setting">Configurar</string>
+    <string name="storage_file_list_form_default">Cartão SD</string>
     <string name="storage_my_device">O meu aparelho</string>
     <string name="storage_ufs_msg">Você pode adicionar até %1$s de armazenamento a este dispositivo usando nossa tecnologia de extensão de armazenamento UFS e algoritmos de otimização de armazenamento.</string>
     <string name="storage_ufs_tip">Armazenamento adicional</string>
@@ -6725,8 +6723,8 @@ Experimente interpolar a resolução!"</string>
     <string name="wakepath_manager_title">Gerenciar início da cadeia</string>
     <string name="warningcenter_disaster_area_tips">• Atualmente, apenas as áreas "Tianjin", "Taishan City" e "Lin'an City" estão atualmente disponíveis.</string>
     <string name="warningcenter_disaster_baoxue">Nevasca</string>
-    <string name="warningcenter_disaster_baoyu">tempestade</string>
-    <string name="warningcenter_disaster_bingbao">saudação</string>
+    <string name="warningcenter_disaster_baoyu">Tempestade</string>
+    <string name="warningcenter_disaster_bingbao">Saudação</string>
     <string name="warningcenter_disaster_blue">Aviso azul</string>
     <string name="warningcenter_disaster_dafeng">Vento terrestre</string>
     <string name="warningcenter_disaster_daolujiebing">Estrada congelada</string>
@@ -6738,31 +6736,31 @@ Experimente interpolar a resolução!"</string>
     <string name="warningcenter_disaster_hailang">Ondas</string>
     <string name="warningcenter_disaster_hanchao">Onda fria</string>
     <string name="warningcenter_disaster_info_from">Centro de Aviso antecipado | Liberação de Autorização do Centro de Informação Aviso Nacional de Aviso</string>
-    <string name="warningcenter_disaster_mai">confusão</string>
+    <string name="warningcenter_disaster_mai">Confusão</string>
     <string name="warningcenter_disaster_orange">Aviso de laranja</string>
-    <string name="warningcenter_disaster_qita">desastre natural</string>
+    <string name="warningcenter_disaster_qita">Desastre natural</string>
     <string name="warningcenter_disaster_red">Aviso vermelho</string>
     <string name="warningcenter_disaster_senlinhuoxian">Risco de incêndio florestal</string>
-    <string name="warningcenter_disaster_taifeng">tufão</string>
+    <string name="warningcenter_disaster_taifeng">Tufão</string>
     <string name="warningcenter_disaster_yellow">Aviso amarelo</string>
     <string name="warningcenter_disaster_zhongwuran">Poluição pesada</string>
     <string name="weChat_not_found">Sua versão do app está muito antiga ou não instalada</string>
     <string name="wechat_lucky_warning">Envelope vermelho do WeChat</string>
     <string name="widget_appbehavior_apps_count_unit">Segunda categoria</string>
     <string name="widget_back_guide_appbehavior_summary">Privacidade e segurança, claramente no coração</string>
-    <string name="widget_back_guide_appbehavior_title">proteção de privacidade</string>
+    <string name="widget_back_guide_appbehavior_title">Proteção de privacidade</string>
     <string name="widget_back_guide_apppredict_summary">Recomendação inteligente, inicie rapidamente o app</string>
     <string name="widget_back_guide_apppredict_title">Recomendação do app</string>
-    <string name="widget_back_guide_cleaner_summary">Limpe o lixo do telefone celular, e ele chegará</string>
+    <string name="widget_back_guide_cleaner_summary">Limpe o lixo do dispositivo, e ele chegará</string>
     <string name="widget_back_guide_cleaner_title">Limpeza de lixo</string>
-    <string name="widget_back_guide_health_summary">Medido de saúde do telefone celular na área de trabalho</string>
-    <string name="widget_back_guide_health_title">Saúde do telefone celular</string>
+    <string name="widget_back_guide_health_summary">Medidor de saúde do dispositivo na área de trabalho</string>
+    <string name="widget_back_guide_health_title">Saúde do dispositivo</string>
     <string name="widget_back_guide_power_summary">Veja o poder de todos os equipamentos</string>
     <string name="widget_back_guide_power_title">Bateria</string>
-    <string name="widget_back_guide_ramjat_summary">Acelerar no seu telefone, solte a memória com um clique</string>
+    <string name="widget_back_guide_ramjat_summary">Acelere no seu dispositivo, solte a memória com um clique</string>
     <string name="widget_back_guide_ramjat_title">Aceleração de um clique</string>
-    <string name="widget_back_guide_safe_summary">Gerencie seu telefone celular rapidamente para entender o status do telefone celular</string>
-    <string name="widget_back_guide_safe_title">Telefone Guardian</string>
+    <string name="widget_back_guide_safe_summary">Gerencie seu dispositivo rapidamente para entender o status do dispositivo</string>
+    <string name="widget_back_guide_safe_title">Dispositivo guardião</string>
     <string name="widget_behavior_perm_text">Leia fotos e arquivos</string>
     <string name="widget_button_text">Adicione peças pequenas</string>
     <string name="widget_cleaner_message">Pode limpar o lixo</string>

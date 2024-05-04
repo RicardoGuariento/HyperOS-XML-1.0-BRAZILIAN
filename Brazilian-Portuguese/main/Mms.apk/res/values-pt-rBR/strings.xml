@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -97,7 +97,7 @@ Tente novamente."</string>
     <string name="audio_message_mx_offline">Não foi possível baixar o áudio. O Mi Mensagens está offline ou indisponível.</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Nenhuma conexão de rede ou cartão SIM incorreto instalado. Instale o cartão SIM de onde a mensagem foi enviada e conecte-se à rede.</string>
-    <string name="auto_identify_btn_text_only_smart_messaging">Ativar Mensagens Inteligentes</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">Ativar Mensagens inteligentes</string>
     <string name="auto_identify_btn_text_when_all_disabled">Identificar ID do remetente automaticamente</string>
     <string name="auto_identify_btn_title">Esta mensagem foi enviada de um número desconhecido.</string>
     <string name="auto_identify_confirmation">Pode levar vários minutos para ativar este recurso.</string>
@@ -166,11 +166,11 @@ Tente novamente."</string>
     <string name="cm_privacy_dialog_allow">Aceitar</string>
     <string name="cm_privacy_dialog_cancel">Cancelar</string>
     <string name="cm_privacy_dialog_spannable_tips">Política de Privacidade</string>
-    <string name="cm_privacy_dialog_tips">Os serviços de mensagens inteligentes são fornecidos por sua operadora. O app Mensagens precisa de acesso à Internet e à sua localização para lhe fornecer estes serviços. Você deve aceitar a %1s da operadora antes de iniciar o uso destes serviços. Aceitar?</string>
+    <string name="cm_privacy_dialog_tips">Os serviços de Mensagens inteligentes são fornecidos por sua operadora. O app Mensagens precisa de acesso à internet e à sua localização para lhe fornecer estes serviços. Você deve aceitar a %1s da operadora antes de iniciar o uso destes serviços. Aceitar?</string>
     <string name="cm_privacy_dialog_title">Atenção!</string>
     <string name="cmcc_privacy">Contrato de Privacidade da Operadora China Mobile</string>
     <string name="cn_privacy_dialog_title">Atenção!</string>
-    <string name="cn_privacy_update_dialog_title">Política de privacidade atualizada</string>
+    <string name="cn_privacy_update_dialog_title">Política de Privacidade atualizada</string>
     <string name="coach">Carro</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
@@ -263,7 +263,7 @@ Tente novamente."</string>
     <string name="debug_enable_success">Depuração disponível</string>
     <string name="debug_export_db">Exportar banco de dados</string>
     <string name="debug_title">Depuração</string>
-    <string name="default_google_message_promo_content">Você definiu o Mensagens do Google como seu app de mensagens padrão. Toque \"Abrir\" para começar a usar.</string>
+    <string name="default_google_message_promo_content">Você definiu o Mensagens do Google como seu app de mensagens padrão. Toque em \"Abrir\" para começar a usar.</string>
     <string name="delete">Excluir</string>
     <string name="delete_block_conversation">Excluir esta conversa</string>
     <string name="delete_bookmark">Remover dos favoritos</string>
@@ -273,7 +273,7 @@ Tente novamente."</string>
     <string name="delete_verification_code_sms_message">Excluir todas as senhas de uso único?</string>
     <string name="delete_verification_code_sms_title">Excluir senhas de uso único</string>
     <string name="delete_wild_sims">Excluir números</string>
-    <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números selecionados serão excluídas neste telefone. Você pode restaurá-las em i.mi.com.</string>
+    <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números selecionados serão excluídas neste dispositivo. Você pode restaurá-las em i.mi.com.</string>
     <string name="delete_wild_sims_title">Excluir números selecionados</string>
     <string name="deliver_status">Status da entrega</string>
     <string name="delivery_report_activity">Relatório de entrega</string>
@@ -286,13 +286,13 @@ Tente novamente."</string>
     <string name="dialog_message_correct_as_normal">Selecione mensagens para mover</string>
     <string name="dialog_message_fake_cell_detect_error">Corrigir a informação sobre esta mensagem? Para fazer isto, o HyperOS precisa fazer o upload do número do telefone (%1$s), o conteúdo da mensagem, e as informações sobre a localização aproximada para os nossos servidores.</string>
     <string name="dialog_message_mx">O Mi Mensagens permite que você envie mensagens para outros usuários da Xiaomi sem a cobrança de tarifas. Uma mensagem SMS é requerida para ativar o Mi Mensagens. A sua operadora cobrará por esta mensagem. Você deve aceitar nosso \"%1$s\" e a \"%2$s\" antes de usar o Mi Mensagens.</string>
-    <string name="dialog_message_networking">O app Mensagens precisa usar as Páginas Amarelas para fornecer o reconhecimento de ID de remetente. O app Mensagens e Páginas Amarelas precisarão de uma conexão com a internet e acesso à sua localização para funcionarem normalmente. Permitir?</string>
+    <string name="dialog_message_networking">O app Mensagens precisa usar as Páginas Amarelas para fornecer o reconhecimento de ID de remetente. O app Mensagens e Páginas amarelas precisarão de uma conexão com a internet e acesso à sua localização para funcionarem normalmente. Permitir?</string>
     <string name="dialog_message_rcs">O sistema de mensagens do China Mobile permite que você envie mensagens para outros usuários China Mobile sem a cobrança de tarifas de mensagens. Tem de aceitar o \"%1$s\" antes de utilizar as Mensagens do China Mobile.</string>
     <string name="dialog_quit">Sair</string>
     <string name="dialog_revoke">Retirar</string>
     <string name="dialog_sim_locked_confirm">"OK"</string>
-    <string name="dialog_sim_locked_message">Seu cartão SIM não está totalmente operacional com este telefone porque ele não está em conformidade com os termos e condições da sua assinatura. Caso tenha alguma dúvida ou precise de maiores informações sobre isso, entre em contato com os serviços de atendimento da Xiaomi ou a loja que vendeu os produtos para você.</string>
-    <string name="dialog_smart_message_privacy_tips">Os serviços do Smart Messaging são fornecidos parcialmente por Dianhuabang. Antes de usar o Smart Messaging, você precisa aceitar a \"%1$s\". O Smart Messaging precisa de uma conexão com a internet e de acesso à sua localização para funcionar normalmente. Aceitar?</string>
+    <string name="dialog_sim_locked_message">Seu cartão SIM não está totalmente operacional com este dispositivo porque ele não está em conformidade com os termos e condições da sua assinatura. Caso tenha alguma dúvida ou precise de maiores informações sobre isso, entre em contato com os serviços de atendimento da Xiaomi ou a loja que vendeu os produtos para você.</string>
+    <string name="dialog_smart_message_privacy_tips">Os serviços de Mensagens inteligentes são fornecidos parcialmente por Dianhuabang. Antes de usar o Mensagens inteligentes, você precisa aceitar a \"%1$s\". As Mensagens inteligentes precisa de uma conexão com a internet e de acesso à sua localização para funcionar normalmente. Aceitar?</string>
     <string name="dialog_smart_message_privacy_tips_title">Política de Privacidade do Dianhuabang</string>
     <string name="dialog_title_correct_as_ad">Mover para mensagens promocionais</string>
     <string name="dialog_title_correct_as_normal">Mover para mensagens</string>
@@ -324,7 +324,7 @@ Tente novamente."</string>
     <string name="edit_slide_activity">Editar slide</string>
     <string name="edit_slideshow_activity">Editar apresentação de slides</string>
     <string name="emergency_label">Contato de emergência</string>
-    <string name="enable_classify_tip_dialog_content">Isso reiniciará o app de Mensagens. Continuar mesmo assim?</string>
+    <string name="enable_classify_tip_dialog_content">Isso reiniciará o app Mensagens. Continuar mesmo assim?</string>
     <string name="enable_location_service">Permissões necessárias</string>
     <string name="enabled">Ativado</string>
     <string name="english_subject_limit">40 caracteres</string>
@@ -367,9 +367,9 @@ Tente novamente."</string>
     <string name="fcm_fallback_notification_channel_label">Diversos</string>
     <string name="fdn_check_failure">Você só pode enviar mensagens para os números de chamadas fixas (FDN).</string>
     <string name="feature_mx">Mi Mensagens</string>
-    <string name="feature_mx_summary"><b>O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da Internet sem a cobrança de tarifas</b>. É necessária uma mensagem SMS para ativar este serviço. A sua operadora cobrará por esta mensagem. Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar este recurso.</string>
-    <string name="feature_smart_sms">Mensagens Inteligentes</string>
-    <string name="feature_smart_sms_summary"><b>As Mensagens Inteligentes fornece o reconhecimento de ID do remetente e menus inteligentes</b>. As Mensagens Inteligentes é parcialmente fornecido por Yulore. Leia e aceite a <font color="#B3000000"><a href="http://url3">Política de Privacidade</a></font> da Yulore antes de usar este recurso.</string>
+    <string name="feature_mx_summary"><b>O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da internet sem a cobrança de tarifas</b>. É necessária uma mensagem SMS para ativar este serviço. A sua operadora cobrará por esta mensagem. Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar este recurso.</string>
+    <string name="feature_smart_sms">Mensagens inteligentes</string>
+    <string name="feature_smart_sms_summary"><b>As Mensagens inteligentes fornece o reconhecimento de ID do remetente e menus inteligentes</b>. As Mensagens inteligentes é parcialmente fornecido por Yulore. Leia e aceite a <font color="#B3000000"><a href="http://url3">Política de Privacidade</a></font> da Yulore antes de usar este recurso.</string>
     <string name="festival_sms_loading">Carregando…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Criado em:</string>
@@ -591,7 +591,7 @@ Verifique seu cartão SIM."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
     <string name="mms">"MMS"</string>
-    <string name="mms_5g_mms_privacy_policy">Política de privacidade da Mensagens 5G</string>
+    <string name="mms_5g_mms_privacy_policy">Política de Privacidade da Mensagens 5G</string>
     <string name="mms_5g_mms_privacy_policy_revoke">Retirar consentimento para a Política de Privacidade da Mensagens 5G</string>
     <string name="mms_block_alert_message">Todos os MMS exceto mensagens enviadas por remetentes autorizados serão bloqueadas. Remetentes autorizados incluem operadoras de rede, sistema de reserva de passagens de trem, etc.</string>
     <string name="mms_block_alert_ok">Bloquear</string>
@@ -599,13 +599,13 @@ Verifique seu cartão SIM."</string>
     <string name="mms_block_hint">"Este remetente não está nos seus contatos.
 Esta mensagem pode não ter sido solicitada."</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
-    <string name="mms_main_purpose">Para ter acesso a todos os recursos do app Mensagens, ative o Mi Mensagens e as Mensagens Inteligentes.</string>
-    <string name="mms_main_purpose_new">Este app precisa se conectar à internet para fornecer serviços básicos. Recomendamos que você ative os serviços Mi Mensagens e as Mensagens Inteligentes.</string>
+    <string name="mms_main_purpose">Para ter acesso a todos os recursos do app Mensagens, ative o Mi Mensagens e as Mensagens inteligentes.</string>
+    <string name="mms_main_purpose_new">Este app precisa se conectar à internet para fornecer serviços básicos. Recomendamos que você ative os serviços Mi Mensagens e as Mensagens inteligentes.</string>
     <string name="mms_mi_message_main_purpose">Bem-vindo ao Mi Mensagens! Uma mensagem SMS é necessária para ativar o Mi Mensagens. Sua operadora cobrará por esta mensagem.</string>
     <string name="mms_mi_message_request_notice">Queremos que você aproveite ao máximo o Mi Mensagens.</string>
     <string name="mms_mx_privacy_policy">Política de privacidade do Mi Mensagens</string>
-    <string name="mms_smart_msg_main_purpose">As Mensagens Inteligentes pode reconhecer IDs de remetentes, fornecer serviços de menu inteligente e identificar mensagens suspeitas.</string>
-    <string name="mms_smart_msg_privacy_policy">Política de Privacidade das Mensagens Inteligentes</string>
+    <string name="mms_smart_msg_main_purpose">As Mensagens inteligentes pode reconhecer IDs de remetentes, fornecer serviços de menu inteligente e identificar mensagens suspeitas.</string>
+    <string name="mms_smart_msg_privacy_policy">Política de Privacidade das Mensagens inteligentes</string>
     <string name="mms_title">Mensagens</string>
     <string name="mms_user_agreement">Contrato do Usuário</string>
     <string name="mobile_charge">Recarregar</string>
@@ -669,7 +669,7 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx2_type_description">[%s]</string>
     <string name="mx_activate_allow_notice">Um SMS pode ser requerido para ativar o serviço de voz e texto gratuitos. Sua operadora irá cobrar por esta mensagem. Além disso, quando este recurso estiver ativado, uma pequena quantidade de dados móveis será necessária para verificar se o outro usuário está online. Aceitar?</string>
     <string name="mx_activate_dlg_title">Ativar o Mi Mensagens</string>
-    <string name="mx_activate_dlg_title_ex">Ativar Mi Mensagens e Voice</string>
+    <string name="mx_activate_dlg_title_ex">Ativar Mi Mensagens e Voz</string>
     <string name="mx_activate_error_malformed_info">Você precisa reativar o Mi Mensagens.</string>
     <string name="mx_activate_error_server">Não foi possível ativar</string>
     <string name="mx_activate_error_sim_change">Parece que o cartão SIM foi alterado. Você precisará reativar o Mi Mensagens.</string>
@@ -697,7 +697,7 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx_count_dspt">Você já enviou %1$d SMS e %2$d MMS gratuitamente</string>
     <string name="mx_current_status">Configurações</string>
     <string name="mx_dspt">Enviar mensagens SMS e MMS para outros dispositivos Xiaomi sem cobrança de tarifas quando você estiver conectado ao Wi-Fi.</string>
-    <string name="mx_dspt_listview">Enviar mensagens para outros dispositivos Xiaomi sem a cobrança de tarifas</string>
+    <string name="mx_dspt_listview">Envie mensagens para outros dispositivos Xiaomi sem a cobrança de tarifas</string>
     <string name="mx_dspt_provision">O Mi Mensagens permite que você envie mensagens para outros usuários HyperOS pela internet sem a cobrança de tarifas da operadora. Um SMS pode ser requerido para reativar o Mi Mensagens. Sua operadora irá cobrar por esta mensagem. Além disso, o serviço precisa de acesso aos dados móveis para verificar quando um usuário está ou não online. Aceitar?</string>
     <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
     <string name="mx_enable">Mi Mensagens</string>
@@ -723,14 +723,14 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="mx_recommend_msg">Toque para ativar o Mi Mensagens</string>
     <string name="mx_stranger_recommend_msg">Toque para bloquear Mi Mensagens de números desconhecidos</string>
     <string name="my_location">Minha localização:</string>
-    <string name="mx_type_guide">Enviar mensagens a outros dispositivos com HyperOS sem a cobrança de taxas</string>
+    <string name="mx_type_guide">Envie mensagens a outros dispositivos com HyperOS sem a cobrança de taxas</string>
     <string name="need_download">Sincronizando…</string>
     <string name="net_sms_subscribed">Inscrito com sucesso</string>
     <string name="net_sms_unsubscribe">Desinscrito com sucesso</string>
     <string name="network_error_description">Ocorreu um erro de rede. Aguarde alguns minutos e tente novamente.</string>
     <string name="networking_allow_continue">Permitir</string>
-    <string name="networking_allow_desc">O Mi Mensagens precisa de uma conexão com a internet para funcionar normalmente. Para fornecer os serviços gratuitos de texto e voz, reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Mensagens precisa usar o app Páginas amarelas. Permitir que o app conecte-se à Internet, obtenha suas informações de localização e leia seus contatos?</string>
-    <string name="networking_allow_desc_without_mx">O Mi Mensagens precisa de uma conexão com a internet para funcionar normalmente. Para reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Mensagens precisa usar o app Páginas amarelas. Permitir que o app conecte-se à Internet, obtenha suas informações de localização e leia seus contatos?</string>
+    <string name="networking_allow_desc">O Mi Mensagens precisa de uma conexão com a internet para funcionar normalmente. Para fornecer os serviços gratuitos de texto e voz, reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Mensagens precisa usar o app Páginas amarelas. Permitir que o app conecte-se à internet, obtenha suas informações de localização e leia seus contatos?</string>
+    <string name="networking_allow_desc_without_mx">O Mi Mensagens precisa de uma conexão com a internet para funcionar normalmente. Para reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Mensagens precisa usar o app Páginas amarelas. Permitir que o app conecte-se à internet, obtenha suas informações de localização e leia seus contatos?</string>
     <string name="networking_allow_title">Atenção!</string>
     <string name="new_message">Escrever</string>
     <string name="new_message_arrived">Não lida</string>
@@ -838,7 +838,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="pref_summary_delivery_ringtone">Emite um som de notificação para mensagens entregues.</string>
     <string name="pref_summary_enable_ad_notification">Ative para agrupar notificações de mensagens promocionais na Área de notificações</string>
     <string name="pref_summary_enable_classify">Mova as mensagens promocionais e financeiras para guias separadas</string>
-    <string name="pref_summary_manage_sim_messages">Gerencia mensagens armazenadas no seu cartão SIM</string>
+    <string name="pref_summary_manage_sim_messages">Gerencie mensagens armazenadas no seu cartão SIM</string>
     <string name="pref_summary_mms_auto_retrieval">Baixar fotos e vídeos de mensagens automaticamente</string>
     <string name="pref_summary_mms_read_reports">Mostrar notificação na visualização de conversas quando o destinatário baixar o conteúdo do MMS</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Baixar fotos e vídeos de mensagens automaticamente quando em roaming</string>
@@ -889,9 +889,9 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="pref_title_privacy_authority">Autorização</string>
     <string name="pref_title_privacy_policy_detail">Política de Privacidade</string>
     <string name="pref_title_ringtone_repeat">Sons de notificação</string>
-    <string name="pref_title_ringtone_repeat_summary">Reproduzir som de notificação quando uma mensgem for recebida com a tela desligada</string>
+    <string name="pref_title_ringtone_repeat_summary">Reproduzir som de notificação quando uma mensagem for recebida com a tela desligada</string>
     <string name="pref_title_send_delivery_reports">Enviar confirmação de entrega</string>
-    <string name="pref_title_smart_msg_privacy_policy">Política de Privacidade do Mensagens Inteligentes</string>
+    <string name="pref_title_smart_msg_privacy_policy">Política de Privacidade do Mensagens inteligentes</string>
     <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
     <string name="pref_title_sms_validity_period">Expiração de SMS</string>
     <string name="pref_title_storage_status">Status do armaz. de mensagens</string>
@@ -912,17 +912,17 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="privacy_dialog_error_service">Ocorreu um erro no servidor. Espere um pouco e tente novamente.</string>
     <string name="privacy_dialog_text_policy_link">Política de Privacidade</string>
     <string name="privacy_dialog_tips_revoke" formatted="false">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como% s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %s. Retirar consentimento agora?"</string>
-    <string name="privacy_dialog_tips_update" formatted="false">"%s A política de privacidade foi atualizada:
+    <string name="privacy_dialog_tips_update" formatted="false">"%s A Política de Privacidade foi atualizada:
 %s
 Leia e concorde com a nova versão da Política de Privacidade antes de continuar."</string>
     <string name="privacy_dialog_tips_update_confim" formatted="false">"Você não poderá continuar usando% s a menos que concorde com a nova versão da Política de Privacidade de %s. Concorda com a Política de Privacidade atualizada agora?"</string>
     <string name="privacy_dialog_title_revoke_confim">Retirada de consentimento</string>
-    <string name="privacy_dialog_title_update">Política de privacidade atualizada</string>
+    <string name="privacy_dialog_title_update">Política de Privacidade atualizada</string>
     <string name="privacy_dialog_title_update_confim">"Não é possível usar o app"</string>
     <string name="privacy_mode_hint">Não é possível enviar mensagens no Modo Convidado</string>
     <string name="privacy_password_message1">A Senha de proteção de privacidade funciona para fotos, notas e pastas ocultas.</string>
     <string name="privacy_password_message2">Usar a Senha de proteção de privacidade. Ela funciona para fotos, notas e pastas ocultas.</string>
-    <string name="privacy_password_message3">A senha de Mensagens será substituída pela Senha de proteção de privacidade, que funciona para fotos, notas e pastas ocultas.</string>
+    <string name="privacy_password_message3">A senha do Mensagens será substituída pela Senha de proteção de privacidade, que funciona para fotos, notas e pastas ocultas.</string>
     <string name="privacy_password_set_password">Definir</string>
     <string name="privacy_password_title1">Definir senha</string>
     <string name="privacy_password_title2">Usar Senha de proteção de privacidade</string>
@@ -937,7 +937,7 @@ Leia e concorde com a nova versão da Política de Privacidade antes de continua
     <string name="privacy_revoke_nonetwork_ok">Entendi</string>
     <string name="privacy_revoke_nonetwork_title">Não é possível conectar-se à rede</string>
     <string name="privacy_state_revoked_cancel">Cancelar</string>
-    <string name="privacy_state_revoked_content">Ao desativar o seletor, você retira seu consentimento com a Política de Privacidade do app Mensagens. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Mensagens e Mensagens Inteligentes fornecidos pelo Mensagens precisam coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada de consentimento à Política de Privacidade das Mensagens será considerada como recusa em aceitar os serviços com base nas informações pessoais coletadas fornecidas por Mi Mensagens e Mensagens Inteligentes.</string>
+    <string name="privacy_state_revoked_content">Ao desativar o seletor, você retira seu consentimento com a Política de Privacidade do app Mensagens. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Mensagens e Mensagens inteligentes fornecidos pelo Mensagens precisam coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada de consentimento à Política de Privacidade das Mensagens será considerada como recusa em aceitar os serviços com base nas informações pessoais coletadas fornecidas por Mi Mensagens e Mensagens inteligentes.</string>
     <string name="privacy_state_revoked_dialog_title">Retirada de consentimento</string>
     <string name="privacy_state_revoked_revoked">Retirar</string>
     <string name="privacy_state_revoked_switch">Retirada de consentimento</string>
@@ -1035,7 +1035,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_chatdetail_more_email">E-mail</string>
     <string name="rcs_chatdetail_more_email_send">Enviar e-mail</string>
     <string name="rcs_chatdetail_more_href">"Website"</string>
-    <string name="rcs_chatdetail_more_id">ID do Proprietário</string>
+    <string name="rcs_chatdetail_more_id">ID do proprietário</string>
     <string name="rcs_chatdetail_more_number">Número de telefone (mensagens)</string>
     <string name="rcs_chatdetail_more_type">Categoria</string>
     <string name="rcs_chatdetail_name_unknow">Fornecedor desconhecido</string>
@@ -1125,18 +1125,18 @@ Dê uma olhada nos recomendados!"</string>
     <string name="recommend_bar_message_smart_message">Copiar códigos de verificação, rastrear pacotes, usar menus inteligentes e mais</string>
     <string name="recommend_bar_ok">Ativar</string>
     <string name="recommend_bar_title_mx_rcs">Mi Mensagens</string>
-    <string name="recommend_bar_title_smart_message">Mensagens Inteligentes</string>
+    <string name="recommend_bar_title_smart_message">Mensagens inteligentes</string>
     <string name="recommend_both_dialog_title">Bem-vindo ao Mensagens!</string>
     <string name="recommend_close">Desativar</string>
-    <string name="recommend_dialog_message">Você pode ativar o Mi Mensagens e as Mensagens Inteligentes para acessar recursos adicionais.</string>
+    <string name="recommend_dialog_message">Você pode ativar o Mi Mensagens e as Mensagens inteligentes para acessar recursos adicionais.</string>
     <string name="recommend_disagree">Não aceitar</string>
     <string name="recommend_free_internet_message">Mensagens via internet gratuitas</string>
     <string name="recommend_free_mi">Mi Mensagens</string>
     <string name="recommend_free_smart_server">Reconhecimento inteligente de ID do remetente</string>
     <string name="recommend_mx_dialog_title">Bem-vindo ao Mi Mensagens!</string>
-    <string name="recommend_mx_setting_summary">O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da Internet sem a cobrança de tarifas.</string>
-    <string name="recommend_smart_sms_dialog_title">Bem-vindo à Mensagens Inteligentes!</string>
-    <string name="recommend_smart_sms_setting_summary">As Mensagens Inteligentes fornece reconhecimento de ID do remetente e menus inteligentes.</string>
+    <string name="recommend_mx_setting_summary">O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da internet sem a cobrança de tarifas.</string>
+    <string name="recommend_smart_sms_dialog_title">Bem-vindo à Mensagens inteligentes!</string>
+    <string name="recommend_smart_sms_setting_summary">As Mensagens inteligentes fornece reconhecimento de ID do remetente e menus inteligentes.</string>
     <string name="recommend_tip_1">O Mensagens funciona melhor quando o Mi Mensagens está ativado. O Mi Mensagens permite que você envie SMS e MMS gratuitamente através da internet e reconhece a ID do remetente automaticamente.</string>
     <string name="recommend_tip_10">Reconhecer ID do remetente automaticamente para ver os nomes e imagens de perfil de fornecedores confiáveis</string>
     <string name="recommend_tip_12">Configurações de mensagem gratuita via internet</string>
@@ -1144,7 +1144,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="recommend_tip_14">Se você desativar este recurso, você não poderá enviar SMS e MMS a outros dispositivos HyperOS sem a cobrança de tarifas quando você estiver conectado à internet. Desativar mesmo assim?</string>
     <string name="recommend_tip_15">Reconhecimento inteligente de ID do remetente</string>
     <string name="recommend_tip_16">Se você desativar este recurso, o Mensagens não poderá reconhecer o ID do remetente automaticamente, permitindo que você veja os nomes e imagens de perfil de fornecedores confiáveis. Desativar mesmo assim?</string>
-    <string name="recommend_tip_2">O envio gratuito de mensagens pela Internet permite-lhe enviar SMS e MMS para outros dispositivos HyperOS sem incorrer em tarifas quando está conectado à Internet.</string>
+    <string name="recommend_tip_2">O envio gratuito de mensagens pela internet permite-lhe enviar SMS e MMS para outros dispositivos HyperOS sem incorrer em tarifas quando está conectado à internet.</string>
     <string name="recommend_tip_3">Mensagens de texto pagas serão enviadas à sua operadora para ativar o serviço de mensagens gratuitas pela internet, Encontrar dispositivo, sincronizar com a nuvem, e outros serviços relacionados.</string>
     <string name="recommend_tip_4">O Mi Mensagens pode reconhecer a ID do remetente automaticamente, permitindo que você veja os nomes e imagens de perfil de fornecedores confiáveis.</string>
     <string name="recommend_tip_5">O reconhecimento inteligente de ID do remetente torna a sua caixa de entrada mais organizada e lhe ajuda a identificar remetentes confiáveis.</string>
@@ -1301,14 +1301,14 @@ Dê uma olhada nos recomendados!"</string>
     <string name="slide_up_to_cancel">Deslize para cima para cancelar</string>
     <string name="slideshow_activity">Apresentação de slides</string>
     <string name="small_window_log_text">A câmera não pode ser usada no modo multi-janela</string>
-    <string name="smart_message_title">Mensagens Inteligentes</string>
-    <string name="smart_message_upgrade_title">Atualização da Política de Privacidade das Mensagens Inteligentes</string>
+    <string name="smart_message_title">Mensagens inteligentes</string>
+    <string name="smart_message_upgrade_title">Atualização da Política de Privacidade das Mensagens inteligentes</string>
     <string name="smart_messages_network_allow_message">O Mi Mensagens precisa de uma conexão com a internet para funcionar normalmente. Permitir agora?</string>
     <string name="smart_messages_network_allow_title">Conexão com a internet necessária</string>
-    <string name="smart_msg_main_purpose">O recurso Mensagens Inteligentes fornece o reconhecimento de ID de remetentes e serviços de menu inteligente.</string>
-    <string name="smart_msg_privacy_policy">Política de Privacidade das Mensagens Inteligentes</string>
-    <string name="smart_msg_privacy_policy_revoke">Retire o consentimento para a Política de Privacidade das Mensagens Inteligentes</string>
-    <string name="smart_msg_upgrade_main_purpose">As Mensagens Inteligentes funcionam agora com MMS. Você poderá utilizar mais serviços fornecidos pelos remetentes, bem como receber mensagens em novos formatos.</string>
+    <string name="smart_msg_main_purpose">O recurso Mensagens inteligentes fornece o reconhecimento de ID de remetentes e serviços de menu inteligente.</string>
+    <string name="smart_msg_privacy_policy">Política de Privacidade das Mensagens inteligentes</string>
+    <string name="smart_msg_privacy_policy_revoke">Retire o consentimento para a Política de Privacidade das Mensagens inteligentes</string>
+    <string name="smart_msg_upgrade_main_purpose">As Mensagens inteligentes funcionam agora com MMS. Você poderá utilizar mais serviços fornecidos pelos remetentes, bem como receber mensagens em novos formatos.</string>
     <string name="sms_card_partner_label">"Cartão SMS de parceiro: "</string>
     <string name="sms_card_teddy_mobile">"Teddy Mobile"</string>
     <string name="sms_content">Conteúdo:</string>
@@ -1380,7 +1380,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="system_permission_declare_no_say_no">"Nós protegeremos suas informações pessoais de acordo com leis, regulamentos e políticas de privacidade relevantes.
 Se você não aceitar em conceder estas permissões ou compartilhar e fazer o envio de suas informações pessoais, você não poderá usar este app."</string>
     <string name="system_permission_declare_privacy_declare">%1s precisa coletar seus dados e requer as seguintes permissões para funcionar normalmente:</string>
-    <string name="system_permission_declare_privacy_declare_new">Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
+    <string name="system_permission_declare_privacy_declare_new">Este app precisa se conectar à internet e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="system_permission_declare_privacy_link">Para entender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, Leia e aceite o nosso %1s.</string>
     <string name="system_permission_declare_rcs">Bem-vindo às Mensagens 5G!</string>
     <string name="system_permission_declare_revoke_path">Você pode revogar sua autorização e desativar serviços nas configurações do app Mensagens.</string>
@@ -1391,7 +1391,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="system_permission_declare_user_agree">Aceitar</string>
     <string name="system_permission_disabled">Não permitido</string>
     <string name="system_permission_enabled">Permitido</string>
-    <string name="system_permission_perm_agree_desc">Permita que este app se conecte à Internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
+    <string name="system_permission_perm_agree_desc">Permita que este app se conecte à internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
     <string name="system_permission_perm_all_purpose">Bem-vindo ao Mensagens! Você pode usar este app para enviar e receber mensagens de texto e multimídia.</string>
     <string name="system_permission_perm_answer_call">Efetuar chamadas</string>
     <string name="system_permission_perm_calendar">Para criar eventos da agenda</string>

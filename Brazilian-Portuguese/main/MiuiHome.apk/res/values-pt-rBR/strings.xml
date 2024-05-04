@@ -11,9 +11,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -37,8 +37,8 @@
     <string name="accessibility_menu_item_smallwindow_enable">Este app suporta janelas flutuantes</string>
     <string name="accessibility_menu_item_split_disable">O app não suporta Tela dividida.</string>
     <string name="accessibility_menu_item_split_enable">O app suporta Tela dividida</string>
-    <string name="accessibility_recent_task_enter">Recentes Aberto</string>
-    <string name="accessibility_recent_task_exit">Recentes Fechado</string>
+    <string name="accessibility_recent_task_enter">Recentes aberto</string>
+    <string name="accessibility_recent_task_exit">Recentes fechado</string>
     <string name="accessibility_recent_task_locked_state">Bloqueado</string>
     <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponível: %1$s. Toque duas vezes para limpar.</string>
     <string name="accessibility_recent_task_show_menu">Mais opções</string>
@@ -76,8 +76,8 @@
     <string name="all_app_category_tools">Ferramentas</string>
     <string name="all_app_category_work">Trabalho</string>
     <string name="all_apps">Todos os apps</string>
-    <string name="all_apps_install_contentcenter_msg">O Centro de Conteúdo foi desinstalado. Instalar novamente?</string>
-    <string name="all_apps_install_contentcenter_title">Instale o Centro de Conteúdo</string>
+    <string name="all_apps_install_contentcenter_msg">O Centro de conteúdo foi desinstalado. Instalar novamente?</string>
+    <string name="all_apps_install_contentcenter_title">Instale o Centro de conteúdo</string>
     <string name="all_apps_no_search_results">Nenhum resultado</string>
     <string name="all_apps_search_app">Pesquisar por apps</string>
     <string name="all_apps_search_market_message">Pesquisar online</string>
@@ -85,7 +85,7 @@
     <string name="all_apps_setting_desktop_desc">Mostrar todos os apps instalados na Tela inicial. Pressione e segure o ícone de um app para ver atalhos disponíveis, gerenciar ou desinstalar o app.</string>
     <string name="all_apps_setting_desktop_title">"Regular"</string>
     <string name="all_apps_setting_drawer_desc">Coloca todos os apps instalados em uma Gaveta de apps que pode ser aberta ao deslizar para cima na Tela inicial. Você ainda poderá encontrar os apps que você mover para a Tela inicial na Gaveta de apps.</string>
-    <string name="all_apps_setting_drawer_tips_desc">A Gaveta de apps é aberta ao deslizar para cima na Tela inicial. Alternar para o modo de Tela inicial com a Gaveta de apps fará com que a Central de Conteúdo fique indisponível. Alternar mesmo assim?</string>
+    <string name="all_apps_setting_drawer_tips_desc">A Gaveta de apps é aberta ao deslizar para cima na Tela inicial. Alternar para o modo de Tela inicial com a Gaveta de apps fará com que o Centro de conteúdo fique indisponível. Alternar mesmo assim?</string>
     <string name="all_apps_setting_drawer_tips_title">Usando a Gaveta de apps</string>
     <string name="all_apps_setting_drawer_title">Com gaveta de apps</string>
     <string name="all_apps_setting_jeejen_title">Modo simples</string>
@@ -112,7 +112,7 @@
     <string name="announce_for_drop">Soltou %1$s</string>
     <string name="announce_for_drop_folder_grid_view">Número %1$d na pasta</string>
     <string name="announce_for_drop_folder_icon">Na pasta %1$s</string>
-    <string name="announce_for_drop_hotseat">Na área do dock</string>
+    <string name="announce_for_drop_hotseat">Na área da dock</string>
     <string name="announce_for_drop_shortcut_icon">Pasta criada com %1$s e %2$s</string>
     <string name="announce_for_drop_thumbnail_container">Atualmente na pré-visualização de tela número %1$d</string>
     <string name="announce_for_drop_trash">Na zona de desinstalação</string>
@@ -120,8 +120,8 @@
     <string name="announce_for_edit_mode">Entrou no modo de edição</string>
     <string name="announce_for_edit_mode_disable">Saiu do modo de edição</string>
     <string name="announce_for_move">Mover para linha %1$d coluna %2$d</string>
-    <string name="announce_for_move_hotseat">Mover para posição %1$d do dock</string>
-    <string name="announce_for_open_default_preview">Configuração de Tela inicial padrão aberta</string>
+    <string name="announce_for_move_hotseat">Mover para posição %1$d da dock</string>
+    <string name="announce_for_open_default_preview">Configuração da Tela inicial padrão aberta</string>
     <string name="announce_for_open_folder">Pasta %1$s aberta</string>
     <string name="announce_for_open_launcher_menu">Menu aberto</string>
     <string name="announce_for_search_bar">Barra de pesquisa</string>
@@ -151,13 +151,13 @@
     <string name="app_category_vr">RV</string>
     <string name="app_drawer_double_confirm_description">Isto alterará o layout da sua Tela inicial. Você poderá reverter estas alterações mais tarde nas Configurações.</string>
     <string name="app_drawer_double_confirm_title">Atenção!</string>
-    <string name="app_drawer_feature_description">A gaveta de apps é uma ferramenta perfeita para organizar todos os seus apps. Categorize os apps automaticamente e encontre tudo o que você precisa em um piscar de olhos!</string>
+    <string name="app_drawer_feature_description">A Gaveta de apps é uma ferramenta perfeita para organizar todos os seus apps. Categorize os apps automaticamente e encontre tudo o que você precisa em um piscar de olhos!</string>
     <string name="app_drawer_guide_description">Encontre o que você está procurando em seus apps favoritos</string>
     <string name="app_drawer_guide_title">Gaveta de apps</string>
     <string name="app_drawer_tip_title">Substituímos o Feed de conteúdo pela Gaveta de apps.</string>
     <string name="app_edit_icon">Editar ícone</string>
     <string name="app_install_state">Instalado</string>
-    <string name="app_name">Janela Pequena</string>
+    <string name="app_name">Janela pequena</string>
     <string name="application_name">Launcher do sistema</string>
     <string name="apply">Definir</string>
     <string name="apply_action">Definir</string>
@@ -179,10 +179,10 @@
     <string name="auto_disable_screenbuttons_summary">Desativa automaticamente os botões de navegação quando a barra de status não for exibida. Toque duas vezes em qualquer botão de navegação para reativar</string>
     <string name="auto_disable_screenbuttons_title">Desativar automaticamente os botões de navegação</string>
     <string name="back">Voltar</string>
-    <string name="backup_fail">Não foi possível fazer o backup do launcher</string>
+    <string name="backup_fail">Não foi possível fazer o backup da launcher</string>
     <string name="bad_wallpaper_source_prompt">Não é possível carregar o plano de fundo</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
-    <string name="branch_core_version">Versão do Branch</string>
+    <string name="branch_core_version">Versão do branch</string>
     <string name="branch_deepview_button">Baixar o app</string>
     <string name="branch_deepview_button_description">Ver este conteúdo imediatamente após a instalação</string>
     <string name="branch_feature_description">Além de apps, a Busca Rápida também pode encontrar conteúdo em apps e itens online.</string>
@@ -198,11 +198,11 @@
     <string name="branch_guide_type_four_step_two">Selecionar a Tela inicial</string>
     <string name="branch_guide_type_one_desc">Gerencie seus apps com a Gaveta de apps</string>
     <string name="branch_guide_type_one_main">Mantenha seus apps na Gaveta de apps para deixar sua Tela inicial limpa e organizada.</string>
-    <string name="branch_key">Chave de ramificação</string>
+    <string name="branch_key">Chave do branch</string>
     <string name="branch_new_feature">Novo recurso</string>
     <string name="branch_privacy_policy">Política de Privacidade</string>
-    <string name="branch_search_guide_description">Agora, os nossos resultados de pesquisa são muito mais abrangentes</string>
-    <string name="branch_search_guide_privacy">Este serviço é fornecido pela Branch Metrics Inc. Suas informações de localização, termos de busca e ID do Google Ads serão compartilhados com a Branch. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar este serviço.</string>
+    <string name="branch_search_guide_description">Agora, os nossos resultados de pesquisa são muito mais abrangentes.</string>
+    <string name="branch_search_guide_privacy">Este serviço é fornecido pela Branch Metrics Inc. Suas informações de localização, termos de busca e ID do Google Ads serão compartilhados com o Branch. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar este serviço.</string>
     <string name="branch_search_guide_title">Encontre o que você está procurando em seus apps favoritos</string>
     <string name="branch_terms_condition">Termos e Condições</string>
     <string name="branch_tip_title">Com a Busca Rápida, você pode encontrar tudo o que você precisa em um instante.</string>
@@ -230,7 +230,7 @@
     <string name="category_edit_back_confirm_dialog_negative_button">Não salvar</string>
     <string name="category_edit_back_confirm_dialog_positive_button">Salvar</string>
     <string name="category_group">Categorizar apps</string>
-    <string name="category_group_summary">Categorizar apps na Gaveta</string>
+    <string name="category_group_summary">Categorizar apps na Gaveta de apps</string>
     <string name="category_not_selected">Apps disponíveis</string>
     <string name="change_wallpaper">Alterar</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
@@ -269,7 +269,7 @@
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para fazer chamadas a contatos de emergência no Modo simples</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Para exibir contatos de emergência no Modo simples</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Para exibir o status do dispositivo</string>
-    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Para exibir widgets da agenda</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Para exibir widgets da Agenda</string>
     <string name="custom_define_permission_desc_android.permission_group.CAMERA">Para exibir widgets da Galeria</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para acessar o widget de nome do Wi-Fi no Android Q</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para acessar e salvar dados da Tela inicial</string>
@@ -304,15 +304,15 @@
     <string name="dialog_work_profile_content_2">Apps e dados de trabalho estão visíveis para o seu administrador de TI</string>
     <string name="dialog_work_profile_title">Perfil de trabalho</string>
     <string name="disable_wallpaper_scroll">Desativar deslizamento lateral</string>
-    <string name="dock_and_folder_not_edit_icon_tip">Para editar, primeiro mova o app para fora do dock e da pasta</string>
-    <string name="dock_not_edit_icon_tip">Para editar, primeiro mova o app para fora do dock</string>
+    <string name="dock_and_folder_not_edit_icon_tip">Para editar, primeiro mova o app para fora da dock e da pasta</string>
+    <string name="dock_not_edit_icon_tip">Para editar, primeiro mova o app para fora da dock</string>
     <string name="double_tap_to_lock_title">Tocar duas vezes para bloquear a tela</string>
     <string name="download_action">Baixar</string>
     <string name="drag_icon_to_homescreen_guide">Pressione e segure um ícone de app, e arraste-o para adicionar um atalho na Tela inicial</string>
     <string name="drawer_background">Planos de fundo</string>
     <string name="drawer_background_dark">Escuro</string>
     <string name="drawer_background_light">Claro</string>
-    <string name="drawer_background_transparency">Transparência do fundo da gaveta de apps</string>
+    <string name="drawer_background_transparency">Transparência do fundo da Gaveta de apps</string>
     <string name="drawer_settings">Gaveta de apps</string>
     <string name="dual_app">"Dual apps"</string>
     <string name="early_morning">"AM"</string>
@@ -443,7 +443,7 @@
     <string name="gadget_photo_label">Imagem</string>
     <string name="gadget_power_clear_button_label">Limpeza profunda</string>
     <string name="gadget_search_label">Pesquisar</string>
-    <string name="gadget_weather_app_not_installed">Toque para baixar o app Clima HyperOS</string>
+    <string name="gadget_weather_app_not_installed">Toque para baixar o app Clima</string>
     <string name="gadget_weather_aqi_title">Qualidade do ar:</string>
     <string name="gadget_weather_download_message">Você precisa baixar o conteúdo do app: %1$s (%2$s). Reinicie o app depois que o download terminar.</string>
     <string name="gadget_weather_download_start">Baixar</string>
@@ -463,13 +463,13 @@
     <string name="group_folder">Nova pasta</string>
     <string name="group_live_folders">Pastas</string>
     <string name="group_shortcuts">Atalhos</string>
-    <string name="guide_install_app_msg">Este app não está instalado em seu telefone. Procurar o app e instalá-lo agora?</string>
+    <string name="guide_install_app_msg">Este app não está instalado em seu dispositivo. Procurar o app e instalá-lo agora?</string>
     <string name="guide_install_app_title">Procurar e instalar o app?</string>
     <string name="guide_permission_title">Permissões necessárias</string>
     <string name="guide_privacy_dialog_title">Termos de Serviço</string>
     <string name="guide_tips_editing_mode">Pressione e segure para pegar um widget</string>
     <string name="hide_apps_title">Ocultar ícones dos apps</string>
-    <string name="home_gesture_content_center">Centro de Conteúdo</string>
+    <string name="home_gesture_content_center">Centro de conteúdo</string>
     <string name="home_gesture_global_search">Pesquisar</string>
     <string name="home_gesture_no_action">Nenhum</string>
     <string name="home_gesture_notification_and_control_center">Área de notificação e Centro de controle</string>
@@ -492,7 +492,7 @@
     <string name="in_app_result_by">Resultados no app por</string>
     <string name="install">Instalar</string>
     <string name="intelligent_exposed_button_summary_text">Use sugestões inteligentes com base no uso do app para destacar apps em pastas ampliadas</string>
-    <string name="international_home_pull_down_content">Deslize para baixo na Tela inicial para pesquisar neste dispositivo e na Internet.</string>
+    <string name="international_home_pull_down_content">Deslize para baixo na Tela inicial para pesquisar neste dispositivo e na internet.</string>
     <string name="international_home_pull_down_sub_content">Você pode alternar esse gesto para abrir o Centro de controle em Configurações > Tela inicial > Deslize para baixo na Tela inicial.</string>
     <string name="international_home_pull_down_up_btn_get">Entendi</string>
     <string name="international_home_pull_up_content">Deslize para cima na Tela inicial para abrir o Centro de conteúdo.</string>
@@ -557,7 +557,7 @@ Segurança melhorada."</string>
     <string name="material_timepicker_select_time">Selecionar horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="memory_clear_nothing_result">Nada a ser limpo no cache</string>
-    <string name="memory_clear_result">%1$s B limpo(s)</string>
+    <string name="memory_clear_result">%1$s B liberado</string>
     <string name="memory_clear_result_giga">%1$s GB liberado</string>
     <string name="memory_clear_result_mega">%1$s MB liberado</string>
     <string name="memory_leak">Vazamento de memória</string>
@@ -571,7 +571,7 @@ Segurança melhorada."</string>
     <string name="menu_exit_scene">Sair do Espaço Mi</string>
     <string name="menu_finish">Concluído</string>
     <string name="menu_item_add_item">Colocar na Tela inicial</string>
-    <string name="menu_launcher_setting">Configurações do Launcher</string>
+    <string name="menu_launcher_setting">Configurações da launcher</string>
     <string name="menu_lock">Bloquear o layout da Tela inicial</string>
     <string name="menu_more">Mais</string>
     <string name="menu_new_display_open">Abrir em uma nova janela</string>
@@ -703,7 +703,7 @@ Segurança melhorada."</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary_pad">Deslize para a esquerda ou direita na parte inferior da tela</string>
     <string name="navigation_guide_app_quick_switch_summary">Deslize para a esquerda ou direita a partir do indicador da tela infinita na parte inferior da tela</string>
     <string name="navigation_guide_app_quick_switch_summary_pad">Deslize para a esquerda ou direita a partir do indicador da tela infinita na parte inferior da tela</string>
-    <string name="navigation_guide_app_quick_switch_summary_spec_pad">Deslizar para a esquerda ou direita a partir da parte inferior da tela</string>
+    <string name="navigation_guide_app_quick_switch_summary_spec_pad">Deslize para a esquerda ou direita a partir da parte inferior da tela</string>
     <string name="navigation_guide_app_quick_switch_title">Alternar entre apps</string>
     <string name="navigation_guide_app_quick_switch_title_spec_with_quotation_pad">Alternar entre apps</string>
     <string name="navigation_guide_app_summary">Deslize para a esquerda ou direita a partir da borda superior da tela</string>
@@ -724,7 +724,7 @@ Segurança melhorada."</string>
     <string name="navigation_guide_dialog_summary">Aprenda quais gestos você pode usar para a navegação do sistema.</string>
     <string name="navigation_guide_dialog_title">Aprender gestos</string>
     <string name="navigation_guide_dock_summary_pad">Deslize para cima a partir da parte inferior da tela</string>
-    <string name="navigation_guide_dock_summary_spec_pad">Deslizar para cima a partir da borda inferior da tela</string>
+    <string name="navigation_guide_dock_summary_spec_pad">Deslize para cima a partir da borda inferior da tela</string>
     <string name="navigation_guide_dock_title_pad">Mostrar dock de apps</string>
     <string name="navigation_guide_dock_title_spec_pad">Mostrar dock de apps dentro de um app</string>
     <string name="navigation_guide_dock_title_spec_with_quotation_pad">Mostrar dock de apps dentro de um app</string>
@@ -755,7 +755,7 @@ Segurança melhorada."</string>
     <string name="navigation_position_summary">A posição personalizada dos botões de navegação só pode ser aplicada à Tela inicial</string>
     <string name="navigation_position_title">Posição dos botões de navegação</string>
     <string name="navigation_set_miui_home_as_default_dialog_cancel">Cancelar</string>
-    <string name="navigation_set_miui_home_as_default_dialog_message">Não é possível usar gestos em tela cheia com lauchers de terceiros. Mudar para o launcher do sistema e ativar os gestos em tela cheia?</string>
+    <string name="navigation_set_miui_home_as_default_dialog_message">Não é possível usar gestos em tela cheia com lauchers de terceiros. Mudar para a launcher do sistema e ativar os gestos em tela cheia?</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">"OK"</string>
     <string name="navigation_set_miui_home_as_default_dialog_title">Atenção!</string>
     <string name="navigation_type_full_screen">Gestos</string>
@@ -784,10 +784,10 @@ Segurança melhorada."</string>
     <string name="notification_reset_title">Ícones organizados com sucesso</string>
     <string name="one_key_call_title">Toque para discar</string>
     <string name="online_wallpaper">"Online"</string>
-    <string name="open_pad_personal_assistant_settings">Widgets da tela inicial</string>
+    <string name="open_pad_personal_assistant_settings">Widgets da Tela inicial</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desativar</string>
-    <string name="open_personal_assistant_dialog_desc">Depois de desativar o Assistente, você não poderá ver ou usar os widgets do Assistente. Suas versões atualizadas também não estarão disponíveis para você. Desativar mesmo assim?</string>
+    <string name="open_personal_assistant_dialog_desc">Após desativar o Assistente, você não poderá ver ou usar os widgets do Assistente. Suas versões atualizadas também não estarão disponíveis para você. Desativar mesmo assim?</string>
     <string name="open_personal_assistant_dialog_desc_international">Você não será capaz de usar os cartões do Assistente (Ações, Atalhos, etc.) e receber atualizações depois que você desativar este recurso.</string>
     <string name="open_personal_assistant_dialog_title">Desativar o Assistente</string>
     <string name="open_personal_assistant_settings">Configurações do Assistente</string>
@@ -825,7 +825,7 @@ Segurança melhorada."</string>
     <string name="pref_enable_drawing_cache_title">Cache de desenho</string>
     <string name="pref_icon_shadow_summary">Mostrar sombras nos apps e reflexos na barra de Favoritos.</string>
     <string name="pref_icon_shadow_title">Sombras nos apps</string>
-    <string name="pref_keep_in_memory_summary">Manter o Launcher em execução quando houver pouca memória.</string>
+    <string name="pref_keep_in_memory_summary">Manter a launcher em execução quando houver pouca memória.</string>
     <string name="pref_keep_in_memory_title">Bloquear na memória</string>
     <string name="pref_keep_layout_summary">Alterar o layout da sua Tela inicial não afetará a posição dos apps em relação uns aos outros.</string>
     <string name="pref_keep_layout_title">Bloquear posição de apps</string>
@@ -835,7 +835,7 @@ Segurança melhorada."</string>
     <string name="pref_wallpaper_scroll_type_title">Alinhamento do plano de fundo</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preferences_general_title">Configurações adicionais</string>
-    <string name="preferences_title">Configurações do Launcher</string>
+    <string name="preferences_title">Configurações da launcher</string>
     <string name="preferred_app_settings_not_selected">Não selecionado</string>
     <string name="privacy_thumbnail_blur_summary">Desfoca a prévias de apps nos Recentes</string>
     <string name="privacy_thumbnail_blur_title">Desfocar prévias de apps</string>
@@ -895,7 +895,7 @@ Segurança melhorada."</string>
     <string name="recommend_apps_notice">Recomendações de hoje</string>
     <string name="recommend_apps_notice_nodata">Recomendações de hoje (sem itens)</string>
     <string name="recommend_apps_switch_title">Recomendações de hoje</string>
-    <string name="recommend_apps_tips">Este recurso precisa de uma conexão à Internet para funcionar normalmente. Para desativar este recurso, toque no nome da pasta.</string>
+    <string name="recommend_apps_tips">Este recurso precisa de uma conexão à internet para funcionar normalmente. Para desativar este recurso, toque no nome da pasta.</string>
     <string name="recommend_loading">Carregando</string>
     <string name="recommend_refresh">Atualizar</string>
     <string name="recommend_xout">Não mostrar</string>
@@ -945,7 +945,7 @@ Segurança melhorada."</string>
     <string name="shake_to_align_icons_summary">Balance o dispositivo enquanto estiver no modo edição para preencher os espaços vazios automaticamente</string>
     <string name="shake_to_align_icons_title">Balance para preencher espaços vazios</string>
     <string name="share">Enviar</string>
-    <string name="shortcut_share_dialog_content">Os arquivos que você envia do seu telefone, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu telefone para transmitir nenhum vírus, malware, trojans, bombas-relógio e outros objetos prejudiciais para outras pessoas. Não use seu telefone para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou excluir quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas, sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades.</string>
+    <string name="shortcut_share_dialog_content">Os arquivos que você envia do seu dispositivo, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu dispositivo para transmitir nenhum vírus, malware, trojans, bombas-relógio e outros objetos prejudiciais para outras pessoas. Não use seu dispositivo para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou excluir quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas, sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades.</string>
     <string name="shortcut_share_dialog_content_pad">Os arquivos que você envia do seu dispositivo, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu dispositivo para transmitir nenhum vírus, malware, trojans, bombas-relógio e outros objetos prejudiciais para outras pessoas. Não use seu dispositivo para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou excluir quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas, sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades.</string>
     <string name="shortcut_share_dialog_positive_button">Entendi</string>
     <string name="shortcut_share_dialog_title">Aviso legal</string>
@@ -953,7 +953,7 @@ Segurança melhorada."</string>
     <string name="show_mem_info_title">Mostrar status da memória</string>
     <string name="show_most_popular_apps_you_used">Mostrar os apps mais usados na gaveta de apps</string>
     <string name="show_recents_recommend_title">Mostrar sugestões</string>
-    <string name="slide_to_open_newhome">Deslize para cima para abrir o Centro de Conteúdo</string>
+    <string name="slide_to_open_newhome">Deslize para cima para abrir o Centro de conteúdo</string>
     <string name="small_window">Janela flutuante</string>
     <string name="small_window_button_complete">Concluído</string>
     <string name="small_window_edit_content">Você pode adicionar até %d apps</string>
@@ -966,7 +966,7 @@ Segurança melhorada."</string>
     <string name="sort_by_frequency">Ordenar por uso</string>
     <string name="sort_by_not_defined">Ordenar automaticamente</string>
     <string name="split_screen_position_top">Parte superior dividida</string>
-    <string name="start_activity_failed">Não é possível iniciar o launcher</string>
+    <string name="start_activity_failed">Não é possível iniciar a launcher</string>
     <string name="starting_preset_app">Iniciando…</string>
     <string name="status_bar_recent_memory_giga">"%1$s GB"</string>
     <string name="status_bar_recent_memory_info1">"Memória RAM
@@ -991,7 +991,7 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="switch_personal_assistant_summary">Deslize para a direita na Tela inicial para abrir o Google Discover</string>
     <string name="switch_screen_button_order">Espelhar botões</string>
     <string name="switch_screen_button_order_desc">Espelha os botões de Voltar e Menu</string>
-    <string name="system_sdk_disabled_toast">O SDK do sistema foi desativado. Ative-o primeiro.</string>
+    <string name="system_sdk_disabled_toast">O SDK do Sistema foi desativado. Ative-o primeiro.</string>
     <string name="system_shortcuts_edit">Editar</string>
     <string name="system_shortcuts_icon_remove">Remover</string>
     <string name="system_shortcuts_more_operation">Detalhes</string>
@@ -1053,8 +1053,8 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="title_select_shortcut">Selecionar atalho</string>
     <string name="toast_drag_to_assistant_reject">Inicializando o Assistente…</string>
     <string name="toast_screen_icons_misplaced">Restaurado de outra fonte, alguns itens podem estar trocados.</string>
-    <string name="toast_split_app_unsupported">O app não suporta tela dividida.</string>
-    <string name="toast_split_select_app">Toque em outro app para usar a tela dividida</string>
+    <string name="toast_split_app_unsupported">O app não suporta Tela dividida.</string>
+    <string name="toast_split_select_app">Toque em outro app para usar a Tela dividida</string>
     <string name="today">Hoje</string>
     <string name="toggle_select_title">Escolha o atalho</string>
     <string name="toggle_title">Atalhos</string>

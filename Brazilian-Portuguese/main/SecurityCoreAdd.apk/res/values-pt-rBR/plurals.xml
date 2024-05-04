@@ -23,7 +23,7 @@
         <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d min</item>
+        <item quantity="other">Em %d mins</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -31,12 +31,12 @@
         <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min atrás</item>
+        <item quantity="other">%d mins atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nunca desativar para %d apps</item>
-        <item quantity="one">Nunca desativar par %d app</item>
+        <item quantity="one">Nunca desativar para %d app</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Sempre desativar para %d apps</item>

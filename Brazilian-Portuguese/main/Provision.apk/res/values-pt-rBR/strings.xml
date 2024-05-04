@@ -27,8 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="access_calendar">Acessar a agenda</string>
-    <string name="access_non_personal_data">Se você retirar o consentimento para o acesso e uso de dados não pessoais do seu dispositivo, os serviços do Carrossel de Planos de fundo serão desativados e todos os dados coletados serão excluídos dentro do período especificado nas leis e regulamentos aplicáveis.</string>
+    <string name="access_calendar">Acessar a Agenda</string>
+    <string name="access_non_personal_data">Se você retirar o consentimento para o acesso e uso de dados não pessoais do seu dispositivo, os serviços do Carrossel de planos de fundo serão desativados e todos os dados coletados serão excluídos dentro do período especificado nas leis e regulamentos aplicáveis.</string>
     <string name="accessibility_enabled">Acessibilidade ativada.</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activate_esim_tips">"Não foi possível ativar. Tente novamente."</string>
@@ -70,7 +70,7 @@
     <string name="calendar_storage">Armazenamento da agenda</string>
     <string name="camera_application_introduction">Você pode usar este app para tirar fotos e vídeos.</string>
     <string name="camera_introduction">Você pode usar a Câmera para tirar fotos e capturar vídeos.</string>
-    <string name="carousel_cookies_content"><Data>Ao tocar em imagens e histórias no Carrossel de planos de fundo, suas versões completas serão abertas em seu navegador. Nosso provedor de conteúdo terceirizado confiável pode recomendar conteúdo e anúncios adicionais adequados aos seus interesses. Se você concordar em ativar este recurso, eles colocarão cookies em seu navegador, conforme descrito neste &lt;a href=\"%1$s\">Política de Cookies&lt;/a>. Se você recusar cookies, o Carrossel de planos de fundo ainda funcionará, mas seu conteúdo e recomendações podem deixar de ser relevantes para você. Você sempre pode alterar suas preferências em Configurações.</Data></string>
+    <string name="carousel_cookies_content"><Data>Ao tocar em imagens e histórias no Carrossel de planos de fundo, suas versões completas serão abertas em seu navegador. Nosso provedor de conteúdo terceirizado confiável pode recomendar conteúdo e anúncios adicionais adequados aos seus interesses. Se você concordar em ativar este recurso, eles colocarão cookies em seu navegador, conforme descrito neste &lt;a href=\"%1$s\">Política de Cookies&lt;/a>. Se você recusar cookies, o Carrossel de planos de fundo ainda funcionará, mas seu conteúdo e recomendações podem deixar de ser relevantes para você. Você sempre pode alterar suas preferências nas Configurações.</Data></string>
     <string name="carousel_cookies_subtitle">Os cookies nos permitem personalizar sua experiência na Tela de bloqueio.</string>
     <string name="carousel_cookies_title">Conteúdo personalizado e cookies</string>
     <string name="carousel_privacy"><Data>"Leia e concorde com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> dos nossos provedores de serviços terceirizados confiáveis, antes de usar o Carrossel de planos de fundo."</Data></string>
@@ -95,9 +95,9 @@
     <string name="content_description_complete">Concluído</string>
     <string name="content_description_miui_version">MIUI 12.5</string>
     <string name="content_description_start">Iniciar</string>
-    <string name="content_introduction">O Centro de Conteúdo agrega conteúdo e serviços de vários canais. Aqui você pode ler artigos, assistir a vídeos, ver itens diários em destaque e receber recomendações de conteúdo.</string>
+    <string name="content_introduction">O Centro de conteúdo agrega conteúdo e serviços de vários canais. Aqui você pode ler artigos, assistir a vídeos, ver itens diários em destaque e receber recomendações de conteúdo.</string>
     <string name="continue_to_enable_accessibility">Continue segurando dois dedos na tela para ativar a acessibilidade.</string>
-    <string name="cookies_content_one">"Quando você toca nas imagens e histórias no Carrossel de Planos de fundo, abriremos suas versões completas em seu navegador. A Taboola, nosso provedor de conteúdo terceirizado confiável, pode recomendar conteúdo adicional e anúncios personalizados de acordo com seus interesses. Se você concordar em ativar este recurso, a Taboola colocará cookies no seu dispositivo através do navegador, conforme descrito na &lt;a href =%1$s>Política de Cookies&lt;/a>. Se você recusar o uso de cookies, os itens do Carrossel de Planos de fundo continuarão a aparecer na tela de bloqueio e histórias completas serão abertas no navegador, mas recomendações adicionais não serão selecionadas especificamente para você. Você pode alterar suas preferências a qualquer momento nas Configurações."</string>
+    <string name="cookies_content_one">"Quando você toca nas imagens e histórias no Carrossel de planos de fundo, abriremos suas versões completas em seu navegador. A Taboola, nosso provedor de conteúdo terceirizado confiável, pode recomendar conteúdo adicional e anúncios personalizados de acordo com seus interesses. Se você concordar em ativar este recurso, a Taboola colocará cookies no seu dispositivo através do navegador, conforme descrito na &lt;a href =%1$s>Política de Cookies&lt;/a>. Se você recusar o uso de cookies, os itens do Carrossel de planos de fundo continuarão a aparecer na tela de bloqueio e histórias completas serão abertas no navegador, mas recomendações adicionais não serão selecionadas especificamente para você. Você pode alterar suas preferências a qualquer momento nas Configurações."</string>
     <string name="cookies_content_two">"Decida se deseja que nossos provedores de conteúdo terceirizados de confiança usem cookies para personalizar recomendações de conteúdo e anúncios com base em seus interesses."</string>
     <string name="cookies_title">Conteúdo personalizado e cookies</string>
     <string name="copy">Copiar</string>
@@ -107,7 +107,7 @@
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="desc_fingerprint">Use sua impressão digital para desbloquear o dispositivo, verificar transações no Mi Pay, ou para fazer login em apps e serviços.</string>
     <string name="desc_international_fingerprint">Use sua impressão digital para desbloquear seu dispositivo ou fazer login em apps e serviços.</string>
-    <string name="diagnose_report">Enviar dados de diagnóstico para localizar e analisar problemas do sistema e melhorar a experiência do usuário. Esses dados podem incluir informações pessoais (por exemplo, IP, localização, etc.)</string>
+    <string name="diagnose_report">Enviar dados de diagnóstico para localizar e analisar problemas do sistema e melhorar a experiência do usuário. Esses dados podem incluir informações pessoais (ex.: IP, localização, etc.)</string>
     <string name="disageement_abnormal_download">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço.</string>
     <string name="disagree">Cancelar</string>
     <string name="disagree_unable_serve">"Se você não concordar com as permissões acima, não poderá usar este serviço."</string>
@@ -140,7 +140,7 @@
     <string name="exclusive_member_merchandise">Mercadoria exclusiva</string>
     <string name="expand_button_title">Avançado</string>
     <string name="fast_application_introduction">A Estrutura de Quick apps permite que você crie e receba serviços dos quick apps.</string>
-    <string name="fast_pairing_introduction">O Mi Link permite que seu dispositivo se conecte a dispositivos Bluetooth próximos usando o Serviço Bluetooth HyperOS. Para encontrar dispositivos próximos, permita que o Serviço Bluetooth HyperOS conecte-se à Internet.</string>
+    <string name="fast_pairing_introduction">O Mi Link permite que seu dispositivo se conecte a dispositivos Bluetooth próximos usando o Serviço Bluetooth HyperOS. Para encontrar dispositivos próximos, permita que o Serviço Bluetooth HyperOS conecte-se à internet.</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -180,7 +180,7 @@
     <string name="font_hint_large">Tamanho do texto padrão</string>
     <string name="font_hint_normal">Aumentar tamanho do texto</string>
     <string name="framework_introduction">A Estrutura de Serviços Mi permite que você use a Conta Mi, o Mi Push, Mi Stats e o HyperOS BI.</string>
-    <string name="framwork_base_service">Para lhe fornecer estes serviços, a Estrutura de Serviços Mi (Conta Mi, Mi Push, Mi Stats, HyperOS BI) precisa se conectar à Internet, acessar sua localização, número de telefone, IMEI e IMSI, e permitir que seu dispositivo receba notificações push</string>
+    <string name="framwork_base_service">Para lhe fornecer estes serviços, a Estrutura de Serviços Mi (Conta Mi, Mi Push, Mi Stats, HyperOS BI) precisa se conectar à internet, acessar sua localização, número de telefone, IMEI e IMSI, e permitir que seu dispositivo receba notificações push.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -188,7 +188,7 @@
     <string name="google_service_introduction">Para poder funcionar normalmente, o Google Play precisa de uma conexão com a internet, acesso à sua localização, gravar áudio, fazer chamadas, acessar eventos da agenda, o histórico de chamadas, sensores, armazenamento câmera, informações do dispositivo e contas.</string>
     <string name="home_settings_miui_home">Clássico</string>
     <string name="home_settings_poco_launcher">Gaveta de apps</string>
-    <string name="home_settings_title">Selecione o layout do launcher</string>
+    <string name="home_settings_title">Selecione o layout da launcher</string>
     <string name="ime_privacy_policy">Política de Privacidade para o teclado selecionado</string>
     <string name="ime_privacy_policy_no_network">Nenhuma conexão de rede. Veja a Política de Privacidade para este teclado em %s.</string>
     <string name="ims_introduction">O serviço IMS fornece recursos básicos de comunicação e é usado para chamadas de áudio e vídeo de alta definição.</string>
@@ -196,12 +196,12 @@
     <string name="input_method_setting">Escolha o teclado</string>
     <string name="install_preinstall_app">Carregando apps…</string>
     <string name="intent_filter_verification_service">Serviço de verificação de filtro de intenção</string>
-    <string name="interconnection_communication_introduction">Os Serviços de comunicação da Internet da Xiaomi, permite que você descubra, conecte e se comunique com outros dispositivos Xiaomi.</string>
+    <string name="interconnection_communication_introduction">Os Serviços de comunicação da internet da Xiaomi, permite que você descubra, conecte e se comunique com outros dispositivos Xiaomi.</string>
     <string name="interconnection_service_global_item_title">Interconectividade Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data>A Interconectividade Xiaomi permite que seus dispositivos interajam entre si sem fio. Ao ativar esta opção, você concorda com a &lt;a href=%1$s>Política de Privacidade&lt;/a > da Interconectividade da Xiaomi.&lt;/Data>"</string>
-    <string name="interconnection_service_summary">"Os Serviços de Interconectividade da Xiaomi permitem que seus dispositivos interajam uns com os outros sem fio. Esses serviços incluem Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Compartilhamento Mi e transmição.
+    <string name="interconnection_service_summary">"Os Serviços de Interconectividade da Xiaomi permitem que seus dispositivos interajam uns com os outros sem fio. Esses serviços incluem Xiaomi Smart Hub, Mi Smart Play, MIUI+ Beta, Compartilhamento Mi e transmição.
 Para poder funcionar normalmente, esses serviços precisam se conectar à internet e exigir as seguintes permissões:
-\u0009\u0009Mi Smart Hub:
+\u0009\u0009Xiaomi Smart Hub:
 \u0009\u0009Ativar e desativar o Wi-Fi
 \u0009\u0009Para transferir itens por Wi-Fi
 \u0009\u0009Gravar áudio
@@ -230,7 +230,7 @@ Para poder funcionar normalmente, esses serviços precisam se conectar à intern
 \u0009\u0009Para transferir a reprodução de áudio para dispositivos conectados durante a transmissão
 Caso não concorde em conceder tais permissões, não poderá usar os Serviços de Interconectividade da Xiaomi.
 Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não estar disponíveis em todos os modelos de dispositivos ou para todas as versões do sistema. Consulte o site do HyperOS (www.miui.com) para verificar a compatibilidade."</string>
-    <string name="interconnection_service_summary_china">"Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Esses serviços incluem Mi Smart Play, transmissão, transferência de apps, Tela inicial +, área de transferência compartilhada, captura de imagens entre dispositivos, assistência de rede, teclados e mouses compartilhados, câmera compartilhada e Mi Smart Hub, Para poder funcionar normalmente, os Serviços de Interconectividade Xiaomi precisam estar conectados à Internet e exigir as seguintes permissões:
+    <string name="interconnection_service_summary_china">"Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Esses serviços incluem Mi Smart Play, transmissão, transferência de apps, Tela inicial +, área de transferência compartilhada, captura de imagens entre dispositivos, assistência de rede, teclados e mouses compartilhados, câmera compartilhada e Xiaomi Smart Hub, Para poder funcionar normalmente, os Serviços de Interconectividade Xiaomi precisam estar conectados à internet e exigir as seguintes permissões:
 \u0009\u0009Mi Smart Play e transmissão:
 \u0009\u0009Ativar e desativar o Bluetooth
 \u0009\u0009Para descobrir dispositivos próximos para conectar via Bluetooth
@@ -281,7 +281,7 @@ Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não
 \u0009\u0009Para enviar e receber conteúdo transferido
 \u0009\u0009Acessar câmera
 \u0009\u0009Para tirar fotos e gravar vídeos
-\u0009\u0009Mi Smart Hub:
+\u0009\u0009Xiaomi Smart Hub:
 \u0009\u0009Ativar e desativar o Bluetooth
 \u0009\u0009Para descobrir dispositivos próximos via Bluetooth
 \u0009\u0009Ativar e desativar o Wi-Fi
@@ -292,7 +292,7 @@ Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não
 \u0009\u0009Para enviar e receber conteúdo transferido
 Se você não concordar em conceder essas permissões, não poderá usar esses serviços.
 Os serviços de interconectividade disponíveis podem diferir com base na versão do sistema e no modelo do dispositivo. Encontre mais informações em %s."</string>
-    <string name="interconnection_service_summary_global">"Os recursos de interconectividade Xiaomi podem variar dependendo do modelo do dispositivo e da versão do sistema. Visite o site oficial do sistema para saber mais."</string>
+    <string name="interconnection_service_summary_global">"Os recursos de Interconectividade Xiaomi podem variar dependendo do modelo do dispositivo e da versão do sistema. Visite o site oficial do sistema para saber mais."</string>
     <string name="interconnection_service_title">Serviços de Interconectividade Xiaomi</string>
     <string name="item_contents_wwarning">Se seu dispositivo for perdido, você não poderá impedir que outras pessoas o utilizem e acessem seus dados, a menos que defina um bloqueio de tela. Ignorar mesmo assim?</string>
     <string name="item_facerecognition">Desbloqueio facial</string>
@@ -311,7 +311,7 @@ Os serviços de interconectividade disponíveis podem diferir com base na versã
     <string name="location_introduction">Os serviços de localização usam o posicionamento para fornecer serviços específicos de localização.</string>
     <string name="location_introduction_qcom">Os serviços de localização usam o posicionamento para fornecer serviços específicos de localização. Quando os serviços de localização são usados pelo seu dispositivo, o módulo QCC se conectará à rede para acelerar o processo de posicionamento.</string>
     <string name="location_location">As agências de resgate de emergência podem obter sua localização atual mediante solicitação</string>
-    <string name="lockscreen_introduction">O Carrossel de Planos de fundo permite que você receba novas imagens na sua Tela de bloqueio diariamente.</string>
+    <string name="lockscreen_introduction">O Carrossel de planos de fundo permite que você receba novas imagens na sua Tela de bloqueio diariamente.</string>
     <string name="member_exclusive_medal">Crachá de membro</string>
     <string name="membership_rights_tip">Faça login em sua Conta Mi para obter benefícios exclusivos</string>
     <string name="message_introduction">Você pode usar este ap para enviar e receber SMS.</string>
@@ -391,7 +391,7 @@ Os serviços de interconectividade disponíveis podem diferir com base na versã
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
-    <string name="move_data_dialog_box_le">Isto permite o uso de dados móveis e a conexão GPS com base na solicitação do usuário. A sincronização de contas e outros itens pode exigir o uso de dados móveis, dependendo das especificações do smartphone.</string>
+    <string name="move_data_dialog_box_le">Isto permite o uso de dados móveis e a conexão GPS com base na solicitação do usuário. A sincronização de contas e outros itens pode exigir o uso de dados móveis, dependendo das especificações do dispositivo.</string>
     <string name="move_data_dialog_box_title">A menos que você tenha um plano com dados ilimitados, o uso de dados móveis pode gerar tarifas adicionais com a operadora. Usar os dados móveis mesmo assim?</string>
     <string name="move_data_dialog_cancel">Cancelar</string>
     <string name="move_data_dialog_title">Você pode restringir a conexão de dados móveis posteriormente nas Configurações</string>
@@ -425,13 +425,13 @@ Os serviços de interconectividade disponíveis podem diferir com base na versã
     <string name="other_settings_auto_update">Atualizar automaticamente</string>
     <string name="other_settings_auto_update_summary">O HyperOS selecionará o melhor horário para baixar e instalar as atualizações. Seu dispositivo será reiniciado automaticamente para aplicar as mudanças.</string>
     <string name="other_settings_auto_update_summary_v1">Permita que o HyperOS selecione o melhor momento para baixar e instalar atualizações. Seu dispositivo será reinicializado automaticamente para aplicar as alterações.</string>
-    <string name="other_settings_enhanced_lockscreen">Carrossel de Planos de fundo</string>
+    <string name="other_settings_enhanced_lockscreen">Carrossel de planos de fundo</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Glance para Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Política de Privacidade</string>
     <string name="other_settings_enhanced_lockscreen_summary">Obtenha imagens e histórias diretamente na sua Tela de bloqueio todos os dias. %1$s e %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Contrato de Licença do Usuário Final</string>
     <string name="other_settings_get_apps">Atualizar apps automaticamente</string>
-    <string name="other_settings_get_apps_summary">"Atualize o sistema e os apps de parceiros de terceiros via o GetApps para poder usar seus recursos mais recentes.
+    <string name="other_settings_get_apps_summary">"Atualize o sistema e os apps de parceiros de terceiros via GetApps para poder usar seus recursos mais recentes.
 Você pode desativar as atualizações automáticas em GetApps > Configurações > Atualizações automáticas."</string>
     <string name="other_settings_location">Localização</string>
     <string name="other_settings_location_summary">Permite que os apps e sites acessem suas informações de localização para fornecer serviços baseados na localização</string>
@@ -478,7 +478,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_direct_call_introduction">Para adicionar itens à Lista de bloqueio</string>
     <string name="permission_download_introduction">Para armazenar itens baixados em cache e salvá-los no seu dispositivo</string>
     <string name="permission_enable_disable_bluetooth_summary">Para encontrar dispositivos próximos para conectar e transferir dados</string>
-    <string name="permission_fast_pairing">Para ser capaz de encontrar dispositivos próximos, Mi Link precisa se conectar à Internet e requer as seguintes permissões:</string>
+    <string name="permission_fast_pairing">Para ser capaz de encontrar dispositivos próximos, Mi Link precisa se conectar à internet e requer as seguintes permissões:</string>
     <string name="permission_imei_service">Para acessar o IMEI e fornecer serviços associados ao seu dispositivo</string>
     <string name="permission_interaction_introduction">Para salvar fotos e vídeos no dispositivo</string>
     <string name="permission_location">Acessar informações de localização:</string>
@@ -529,7 +529,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_read_write_device_store_application_package_summary">Para análise e digitalização de pacotes de instalação.</string>
     <string name="permission_read_write_device_store_camera_summary">Para salvar arquivos em seu dispositivo depois de tirar fotos ou vídeos.</string>
     <string name="permission_read_write_device_store_download_summary">Para armazenamento em cache, acesso e gerenciamento de conteúdo baixado.</string>
-    <string name="permission_read_write_device_store_fast_application_summary">Para permitir que apps acessem, armazenem em cache e editem arquivos</string>
+    <string name="permission_read_write_device_store_fast_application_summary">Para permitir que apps acessem, armazenem em cache e editem arquivos.</string>
     <string name="permission_read_write_file">Acessar e salvar arquivos e fotos em seu dispositivo</string>
     <string name="permission_read_write_file_introduction">Para acessar, salvar e armazenar itens no cache do seu dispositivo</string>
     <string name="permission_read_write_phone_store">Para acessar e salvar itens no armazenamento do dispositivo;</string>
@@ -541,12 +541,12 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_send_message">Enviar SMS</string>
     <string name="permission_sms_verification_code_login">Para fornecer verificação por SMS para rápido login</string>
     <string name="permission_use_camera">Acessar câmera</string>
-    <string name="permission_use_camera_camera_summary">Para tirar fotos, gravar vídeos e usar o flash</string>
+    <string name="permission_use_camera_camera_summary">Para tirar fotos, gravar vídeos e usar o flash.</string>
     <string name="permission_use_camera_desktop_summary">Para determinar se deve ser compatível com o recurso da lanterna</string>
     <string name="permission_use_camera_fast_application_summary">Para permitir que apps acessem a câmera</string>
     <string name="permission_use_camera_ims_summary">Para fazer chamadas de vídeo.</string>
     <string name="permission_use_microphone">Acessar microfone</string>
-    <string name="permission_use_microphone_camera_summary">For recording audio while recording video</string>
+    <string name="permission_use_microphone_camera_summary">Para gravar áudio enquanto grava vídeo</string>
     <string name="permission_use_microphone_desktop_summary">Para mostrar o status da gravação.</string>
     <string name="permission_use_microphone_fast_application_summary">Para permitir que apps acessem o microfone</string>
     <string name="permission_user_record_introduction">Para gravar áudio</string>
@@ -557,9 +557,9 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="phone_introduction">Você pode usar este app para localizar e neutralizar vírus, bloquear chamadas e mensagens, otimizar o desempenho de jogos, economizar bateria, bem como gerenciar apps, permissões, uso de dados e muito mais.</string>
     <string name="phone_name_security">Segurança</string>
     <string name="pm">"PM"</string>
-    <string name="poco_agree_terms_other">(Incluindo a Política de Privacidade e o Contrato do Usuário do POCO Launcher)</string>
-    <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
-    <string name="poco_launcher_user_agreement">Contrato do Usuário do POCO Launcher</string>
+    <string name="poco_agree_terms_other">(Incluindo a Política de Privacidade e o Contrato do Usuário da POCO Launcher)</string>
+    <string name="poco_launcher_privacy_policy">Política de Privacidade da POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Contrato do Usuário da POCO Launcher</string>
     <string name="position_header">Compartilhando informação de localização</string>
     <string name="position_subheading">Informações de localização</string>
     <string name="power_and_performance">Bateria e desempenho</string>
@@ -567,7 +567,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="pref_title_data_slot">Cartão SIM para internet</string>
     <string name="pref_title_voice_slot">Cartão SIM para chamadas</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
-    <string name="privacy_content_one">"As recomendações do Carrossel de Planos de fundo são fornecidas pela Taboola, nosso provedor de conteúdo terceirizado confiável. Para fornecer esse conteúdo, a Taboola precisa acessar e armazenar dados não pessoais do seu dispositivo, incluindo o idioma do sistema e o tipo de navegador. Você pode aprender como Taboola usa os dados coletados na &lt;a href =%1$s>Política de Privacidade&lt;/a> e &lt;a href =%2$s>Contrato do Usuário&lt;/a>. Leia e concorde com os termos e condições estabelecidas antes de continuar. Caso não concorde, os serviços do carrossel de planos de fundo serão desativados."</string>
+    <string name="privacy_content_one">"As recomendações do Carrossel de planos de fundo são fornecidas pela Taboola, nosso provedor de conteúdo terceirizado confiável. Para fornecer esse conteúdo, a Taboola precisa acessar e armazenar dados não pessoais do seu dispositivo, incluindo o idioma do sistema e o tipo de navegador. Você pode aprender como Taboola usa os dados coletados na &lt;a href =%1$s>Política de Privacidade&lt;/a> e &lt;a href =%2$s>Contrato do Usuário&lt;/a>. Leia e concorde com os termos e condições estabelecidas antes de continuar. Caso não concorde, os serviços do Carrossel de planos de fundo serão desativados."</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_provision_more">Saber mais sobre da proteção de privacidade</string>
     <string name="privacy_provision_summary">A proteção de privacidade é o compromisso por trás do design de nossos produtos</string>
@@ -589,9 +589,9 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="require_authority_list_statement">Para funcionar normalmente, este serviço requer as seguintes permissões:</string>
     <string name="require_authority_statement">Para que possamos fornecer-lhe serviços básicos, você precisa conceder as seguintes permissões para que possamos coletar suas informações pessoais:</string>
     <string name="require_miuidaemon_authority_statement">Para que possamos lhe fornecer este serviço, você precisa se conectar à internet e conceder as seguintes permissões para que possamos coletar suas informações pessoais:</string>
-    <string name="require_network_and_authority_statement">Para funcionar normalmente, este serviço precisa se conectar à Internet e requer as seguintes permissões:</string>
+    <string name="require_network_and_authority_statement">Para funcionar normalmente, este serviço precisa se conectar à internet e requer as seguintes permissões:</string>
     <string name="require_network_authority_statement">Para que possamos fornecer-lhe serviços básicos, você precisa se conectar à internet e conceder as seguintes permissões para que possamos coletar suas informações pessoais:</string>
-    <string name="require_network_authority_statement_dual">Para funcionar normalmente, este serviço precisa se conectar à Internet e requer as seguintes permissões:</string>
+    <string name="require_network_authority_statement_dual">Para funcionar normalmente, este serviço precisa se conectar à internet e requer as seguintes permissões:</string>
     <string name="require_statement">Para fornecer serviços básicos, precisamos das seguintes permissões:</string>
     <string name="safe_open_service">Serviços abertos seguros</string>
     <string name="safe_open_service_introduction">Serviços abertos seguros auxiliam os desenvolvedores e fornecem recursos de segurança em nível de sistema para proteger os usuários e sua privacidade.</string>
@@ -606,7 +606,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="service_agreement">Eu li e aceito os termos e condições.</string>
     <string name="service_company_adjust_content">Contrato de usuário de serviços de rede Xunlei</string>
     <string name="service_fast_pairing_policy"><Data>Leia e concorde com a &lt;a href=%1$s>Política de privacidade do Mi Link&lt;/a > antes de continuar.</Data></string>
-    <string name="service_interconnection_communication">Serviços de comunicação da Internet da Xiaomi</string>
+    <string name="service_interconnection_communication">Serviços de comunicação da internet da Xiaomi</string>
     <string name="service_location_share_policy"><Data>Leia e concorde com a &lt;a href=%1$s>Declaração de privacidade dos serviços de localização&lt;/a > antes de continuar.</Data></string>
     <string name="service_mi_account">Conta Mi</string>
     <string name="service_name_MIUIDaemon">HyperOS Daemon</string>
@@ -620,7 +620,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="service_name_carrier">Declaração dos serviços da operadora</string>
     <string name="service_name_clock">Relógio</string>
     <string name="service_name_compass">Bússola</string>
-    <string name="service_name_content_center">Centro de Conteúdo</string>
+    <string name="service_name_content_center">Centro de conteúdo</string>
     <string name="service_name_download">"Downloads"</string>
     <string name="service_name_fast_application">Estrutura dos Quick apps</string>
     <string name="service_name_fast_pairing">"Mi Link"</string>
@@ -628,7 +628,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="service_name_google_service">Declaração dos serviços Google</string>
     <string name="service_name_ims">Serviço IMS</string>
     <string name="service_name_location">Serviços com base na localização</string>
-    <string name="service_name_lockscreen">Carrossel de Planos de fundo</string>
+    <string name="service_name_lockscreen">Carrossel de planos de fundo</string>
     <string name="service_name_message">Mensagens</string>
     <string name="service_name_note">Notas</string>
     <string name="service_name_recorder">Gravador</string>
@@ -679,7 +679,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_navigation_mode">Modo de navegação do sistema</string>
-    <string name="systemdesktop_introduction">O plugin de serviço da Tela inicial oferece recursos básicos, como Tela inicial, UI do sistema e capturas de tela.</string>
+    <string name="systemdesktop_introduction">O plugin de serviço da Tela inicial oferece recursos básicos, como Tela inicial, UI do Sistema e capturas de tela.</string>
     <string name="term_condition_detail">"Obtenha imagens impressionantes e histórias emocionantes entregues em sua tela de bloqueio diariamente. Este recurso não usará seus dados para personalização sem o seu consentimento. Leia e concorde com a &lt;a href =%1$s>Política de Privacidade&lt;/a> e o &lt;a href =%2$s>Contrato do Usuário&lt;/a> do provedor de conteúdo de terceiros antes de usar este recurso."</string>
     <string name="terms_of_use">Termos e condições</string>
     <string name="terms_of_use_ble_htmlViewer">Fornecedor de Localização, Visualizador de HTML</string>
@@ -694,7 +694,7 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_back">Serviço de backup</string>
     <string name="terms_of_use_label_ble">Provedor de localização fundido</string>
     <string name="terms_of_use_label_cloud">"MiCloud"</string>
-    <string name="terms_of_use_label_communication_service">Serviço de comunicação pela Internet da Xiaomi</string>
+    <string name="terms_of_use_label_communication_service">Serviço de comunicação pela internet da Xiaomi</string>
     <string name="terms_of_use_label_config_updater">"ConfigUpdater"</string>
     <string name="terms_of_use_label_finddevice">Encontrar dispositivo</string>
     <string name="terms_of_use_label_game">Jogos</string>
@@ -707,7 +707,7 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_mab">"MAB"</string>
     <string name="terms_of_use_label_mi_account">Componentes da Conta Mi</string>
     <string name="terms_of_use_label_miuiDaemon">"HyperOS Daemon"</string>
-    <string name="terms_of_use_label_miuisdk">SDK do HyperOS</string>
+    <string name="terms_of_use_label_miuisdk">SDK do Sistema</string>
     <string name="terms_of_use_label_os">Configuração OS AI</string>
     <string name="terms_of_use_label_package">Instalador de pacotes</string>
     <string name="terms_of_use_label_parallel_windows">Janelas paralelas</string>
@@ -726,9 +726,9 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_use_location_and_network_global">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede e acessarão sua localização:</string>
     <string name="terms_of_use_label_use_network_china">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede:</string>
     <string name="terms_of_use_label_wallpaper">Plano de fundo</string>
-    <string name="terms_of_use_label_webview">WebView do sistema Android</string>
-    <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Xiaomi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, HyperOS Daemon, Componentes de sistema MSA, Serviço de tradução, SDK do HyperOS, Quick apps, Assistente, Estatísticas, Mi Link</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, HyperOS Daemon, Componentes de sistema MSA, Serviço de tradução, SDK do HyperOS, Quick apps, Assistente, Estatísticas, Mi Link</string>
+    <string name="terms_of_use_label_webview">Android System WebView</string>
+    <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Xiaomi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, HyperOS Daemon, Componentes de sistema MSA, Serviço de tradução, SDK do Sistema, Quick apps, Assistente, Estatísticas, Mi Link</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, HyperOS Daemon, Componentes de sistema MSA, Serviço de tradução, SDK do Sistema, Quick apps, Assistente, Estatísticas, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Você deve concordar com a Política de Privacidade do Facemoji antes de usar este recurso."</string>
@@ -798,11 +798,11 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="tuesday_shortest">Ter</string>
     <string name="used_date_viewing">Para verificar a data</string>
     <string name="user_agreement">Contrato do Usuário</string>
-    <string name="user_agreement_declare">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-    <string name="user_agreement_declare_gmscore">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Cartões inteligentes, gerenciador de permissões, ConfigUpdater e serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-    <string name="user_agreement_declare_v1">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões, Atualizador e Serviço de verificação de filtro de intenção se conectarão à rede. Cartões inteligentes, gerenciador de permissões e serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-    <string name="user_agreement_declare_wifi_device">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-    <string name="user_agreement_declare_wifi_device_gmscore">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do HyperOS, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do Sistema, Assistente de IA, Bateria e desempenho, Detector de energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare_gmscore">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do Sistema, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Cartões inteligentes, gerenciador de permissões, ConfigUpdater e serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare_v1">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do Sistema, Assistente de IA, Bateria e desempenho, Detector de energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões, Atualizador e Serviço de verificação de filtro de intenção se conectarão à rede. Cartões inteligentes, gerenciador de permissões e serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare_wifi_device">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do Sistema, Assistente de IA, Bateria e desempenho, Detector de energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+    <string name="user_agreement_declare_wifi_device_gmscore">Antes de usar o HyperOS, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, HyperOS Daemon, Visualizador HTML, SDK do Sistema, Assistente de IA, Bateria e desempenho, Detector de energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="voice_assist_advice">O Mi AI permite que você use controles por voz, mas ele consumirá mais energia (+1% a cada hora).</string>
@@ -815,18 +815,18 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="voice_assist_title">Ligar tela com voz</string>
     <string name="wc_dialog_agree">Aceitar</string>
     <string name="wc_dialog_reject">Não aceitar</string>
-    <string name="wc_dialog_summary">O Carrossel de Planos de fundo oferece imagens impressionantes e histórias emocionantes em sua Tela de bloqueio diariamente.</string>
+    <string name="wc_dialog_summary">O Carrossel de planos de fundo oferece imagens impressionantes e histórias emocionantes em sua Tela de bloqueio diariamente.</string>
     <string name="wc_dialog_title">Tela de bloqueio reimaginada</string>
     <string name="wc_double_check_agree">Experimentar</string>
     <string name="wc_double_check_reject">Não, obrigado</string>
-    <string name="wc_double_check_summary">Você pode ativar o Carrossel de Planos de fundo para experimentar. Lembre-se de que você sempre pode ativar ou desativar o Carrossel de Planos de fundo em Configurações > Tela de bloqueio.</string>
-    <string name="wc_double_check_title">Experimente o Carrossel de Planos de fundo</string>
+    <string name="wc_double_check_summary">Você pode ativar o Carrossel de planos de fundo para experimentar. Lembre-se de que você sempre pode ativar ou desativar o Carrossel de planos de fundo em Configurações > Tela de bloqueio.</string>
+    <string name="wc_double_check_title">Experimente o Carrossel de planos de fundo</string>
     <string name="wc_notice_link_announcement_summary">Leia e aceite a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> do provedor de conteúdo terceirizado, antes de usar este recurso.</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="welcome">Bem-vindo</string>
-    <string name="withdraw_consent">Se você retirar o consentimento, os serviços do Carrossel de Planos de fundo serão desativados.</string>
+    <string name="withdraw_consent">Se você retirar o consentimento, os serviços do Carrossel de planos de fundo serão desativados.</string>
     <string name="xiaomi_game_discounts">Promoções de jogos</string>
     <string name="xiaomi_membership_rights">Filiação MiCloud</string>
     <string name="xiaomi_video_discount">Ofertas Mi Vídeo</string>

@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -147,13 +147,13 @@
     <string name="continuous_default_hint">Copiar texto, salvar imagens e capturas de tela como excertos</string>
     <string name="continuous_new_excerpt_title">Novo excerto</string>
     <string name="copy">Copiar</string>
-    <string name="cta_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
+    <string name="cta_agree_desc">Permita que este app conecte-se à internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
     <string name="cta_confirm_cancel">Não permitir</string>
     <string name="cta_confirm_ok">Permitir</string>
-    <string name="cta_dialog_message">O app Notas precisa de permissões para conectar-se à Internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
+    <string name="cta_dialog_message">O app Notas precisa de permissões para conectar-se à internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
     <string name="cta_dialog_title">Permissões necessárias</string>
-    <string name="cta_reminder">O app Notas precisa de permissões para conectar-se à Internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
-    <string name="cta_v2_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
+    <string name="cta_reminder">O app Notas precisa de permissões para conectar-se à internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
+    <string name="cta_v2_agree_desc">Permita que este app conecte-se à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="cta_v2_app_purpose">Criação, visualização e gerenciamento de notas</string>
     <string name="cta_v2_app_purpose_v12">Bem-vindo às Notas! Você pode usar este app para criar tarefas e notas que contenham texto, imagens e áudio.</string>
     <string name="data_empty_folder">Nenhuma outra pasta para exibir</string>
@@ -423,8 +423,8 @@
     <string name="mind_note_first_enter_guide">Toque para criar um mapa mental</string>
     <string name="mind_note_mind_map_view">Visualização de mapa mental</string>
     <string name="mind_note_outline_view">Visão geral</string>
-    <string name="mind_note_toolbar_add_brother_node">Adicionar um Nó irmão</string>
-    <string name="mind_note_toolbar_add_child_node">Adicionar um Nó filho</string>
+    <string name="mind_note_toolbar_add_brother_node">Adicionar um nó irmão</string>
+    <string name="mind_note_toolbar_add_child_node">Adicionar um nó filho</string>
     <string name="mind_note_toolbar_delete_node">Excluir nó</string>
     <string name="mind_note_toolbar_demote">Um nível abaixo</string>
     <string name="mind_note_toolbar_promote">Um nível acima</string>
@@ -505,6 +505,9 @@
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
+    <string name="miuix_item_view_role_description">Guia</string>
+    <string name="miuix_navigator_category_group_collapse">Colapsar</string>
+    <string name="miuix_navigator_category_group_expand">Expandir</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -595,7 +598,7 @@
     <string name="new_audio_create_talkback_des">Toque para criar uma nota em texto. Pressione e segure para criar uma nota de voz. Solte o botão para parar a gravação e criar uma nota, ou deslize para cima para cancelar.</string>
     <string name="new_data_empty_note">Sem itens</string>
     <string name="new_lite_audio_create_talkback_des">Toque para criar uma nota</string>
-    <string name="new_sync_desc_state_disable">Ative a sincronização na nuvem para notas, tarefas e muito mais</string>
+    <string name="new_sync_desc_state_disable">Ative a sincronização na nuvem para notas, tarefas e muito mais.</string>
     <string name="night">"PM"</string>
     <string name="no_network">Não é possível conectar-se à rede</string>
     <string name="noon">"PM"</string>
@@ -644,7 +647,7 @@
     <string name="pad_expand_navigation">Mostrar painel de navegação</string>
     <string name="pad_insert_image_menu_select_from_pad_gallery">Galeria</string>
     <string name="pad_insert_image_menu_take_photo_by_pad">Câmera do tablet</string>
-    <string name="pad_insert_image_menu_take_photo_by_phone">Câmera do telefoneCâmera do telefone</string>
+    <string name="pad_insert_image_menu_take_photo_by_phone">Câmera do dispositivo</string>
     <string name="pad_note_create_hint">Toque no botão para criar uma nota</string>
     <string name="pad_note_list_not_text_stub">Sem texto</string>
     <string name="pad_todo_create_hint">Adicionar tarefa</string>
@@ -662,7 +665,7 @@
     <string name="pc_module_notes_name">Notas</string>
     <string name="pc_module_todo_name">Tarefas</string>
     <string name="pc_note_dual_screen_dialog_content">Parece que você está editando notas no seu dispositivo. Para evitar conflitos de edição, feche o app Notas no seu dispositivo.</string>
-    <string name="pc_note_edit_blank_view_tips">Arraste uma imagem aqui, para criar uma nota</string>
+    <string name="pc_note_edit_blank_view_tips">Arraste uma imagem aqui, para criar uma nota.</string>
     <string name="pc_note_edit_create_time">"Criado: "</string>
     <string name="pc_note_edit_insert_doodle_by_phone">Criar um desenho no dispositivo</string>
     <string name="pc_note_edit_insert_picture_from_pc">Selecionar uma imagem do computador</string>
@@ -686,7 +689,7 @@
     <string name="permission_intro_phone">Para marcar notas feitas durante chamadas</string>
     <string name="permission_intro_storage">Para salvar notas e anexos</string>
     <string name="permission_microphone_desc">Para gravar notas de voz</string>
-    <string name="permission_network_for_cloud_desc">Para sincronizar notas com a nuvem, você precisa se conectar à Internet. Os dados móveis podem ser usados para sincronizar itens. Conectar agora?</string>
+    <string name="permission_network_for_cloud_desc">Para sincronizar notas com a nuvem, você precisa se conectar à internet. Os dados móveis podem ser usados para sincronizar itens. Conectar agora?</string>
     <string name="permission_phone_state_desc">Para parar de gravar notas de voz durante chamadas</string>
     <string name="permission_photos_desc">Para adicionar imagens às notas</string>
     <string name="permission_photos_desc_pad">Para adicionar imagens às notas</string>
@@ -799,7 +802,7 @@
     <string name="search_keyword_notes">Notas;Notas</string>
     <string name="search_label">Procurando…</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="search_path_notes">Configurar Apps do sistema/Notas</string>
+    <string name="search_path_notes">Configurar apps do sistema/Notas</string>
     <string name="search_setting_description">Procurar texto em suas notas</string>
     <string name="select_account_prompt">Sincronizar notas</string>
     <string name="select_up_limit_toast">Selecione até %d itens</string>
@@ -948,8 +951,8 @@
 Permita que o app Notas leia seus contatos e encontre contas no seu dispositivo."</string>
     <string name="toast_refuse_to_use_external_storage">"As permissões de armazenamento estão restritas.
 Permita que o app Notas leia o conteúdo do seu cartão SD."</string>
-    <string name="toast_refuse_to_use_phone_state">"As permissões de telefone estão restritas.
-Permita que o app Notas leia o status do telefone e sua identidade."</string>
+    <string name="toast_refuse_to_use_phone_state">"As permissões do dispositivo estão restritas.
+Permita que o app Notas leia o status do dispositivo e sua identidade."</string>
     <string name="toast_refuse_to_use_photos_in_excerpt">Permita que este app acesse suas fotos para poder adicionar imagens às notas</string>
     <string name="toast_refuse_to_use_photos_in_excerpt_v14">Para poder inserir imagens em notas, permita que este app acesse todas as fotos</string>
     <string name="toast_refuse_to_use_record_audio">"As permissões do microfone estão restritas.

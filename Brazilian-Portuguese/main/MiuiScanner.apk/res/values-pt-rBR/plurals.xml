@@ -25,7 +25,7 @@
         <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d min</item>
+        <item quantity="other">Em %d mins</item>
         <item quantity="one">Em 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -33,7 +33,7 @@
         <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min atrás</item>
+        <item quantity="other">%d mins atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="are_you_sure_you_want_delete_file">
@@ -81,7 +81,7 @@
         <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="monitoringHistory_deleteAlert">
-        <item quantity="other">Tem certeza que deseja deletar este %1$d registro?</item>
+        <item quantity="other">Tem certeza que deseja excluir este %1$d registro?</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
