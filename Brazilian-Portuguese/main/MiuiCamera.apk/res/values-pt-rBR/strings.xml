@@ -39,8 +39,11 @@
     <string name="accessibility_aperture_adjust">Abertura</string>
     <string name="accessibility_aperture_default">Ajuste automático de abertura</string>
     <string name="accessibility_aperture_panel_on">Abra o painel de abertura</string>
-    <string name="accessibility_auto_night_tip_off">O modo noturno automático está desativado</string>
-    <string name="accessibility_auto_night_tip_on">O modo noturno automático está ativado</string>
+    <string name="accessibility_audio_gain_adjust">Ajuste de volume</string>
+    <string name="accessibility_auto_macro_off">Foco de fechamento automático desativado</string>
+    <string name="accessibility_auto_macro_on">Foco de fechamento automático ativado</string>
+    <string name="accessibility_auto_night_tip_off">Modo noturno automático está desativado</string>
+    <string name="accessibility_auto_night_tip_on">Modo noturno automático está ativado</string>
     <string name="accessibility_back_preview_status">Prévia da câmera traseira</string>
     <string name="accessibility_beauty_compare">Ver imagem com e sem o Embelezador</string>
     <string name="accessibility_beauty_function_button">Embelezador</string>
@@ -179,6 +182,7 @@
     <string name="accessibility_picturesize_3_4_button">Proporção de tela de 3:4</string>
     <string name="accessibility_picturesize_9_16_button">Proporção de tela de 9:16</string>
     <string name="accessibility_picturesize_fullscreen_button">Proporção em tela cheia</string>
+    <string name="accessibility_picturesize_real_cinematic_button">Proporção de 2.39:1</string>
     <string name="accessibility_portrait_button">Modo retrato</string>
     <string name="accessibility_portrait_depth_effect_panel_on">Painel de Retrato</string>
     <string name="accessibility_preview_button">Pré-visualização</string>
@@ -241,9 +245,14 @@
     <string name="accessibility_video_resume_button">Gravação de vídeo retomada</string>
     <string name="accessibility_video_sky_function_on">Ativar função xxxxx</string>
     <string name="accessibility_video_sky_function_panel_on">Abra o painel de funções xxxxxxx</string>
+    <string name="accessibility_watermark_device_off">"Marca d'água do dispositivo desativada"</string>
+    <string name="accessibility_watermark_device_on">"Marca d'água do dispositivo ativada"</string>
     <string name="accessibility_watermark_image_off">"Marca d'água desativada"</string>
     <string name="accessibility_watermark_image_on">"Marca d'água ativada"</string>
     <string name="accessibility_watermark_text">"Abra o painel de ajuste de marca d'água"</string>
+    <string name="accessibility_watermark_time_off">Carimbo de data/hora desativado</string>
+    <string name="accessibility_watermark_time_on">Carimbo de data/hora ativado</string>
+    <string name="accessibility_watermark_userdefine_enable">"Opção de marca d'água personalizada"</string>
     <string name="accessibility_whitebalance_custom_panel_on">Painel de ajustes manuais</string>
     <string name="accessibility_zoom_button">Modo zoom</string>
     <string name="actionbar_button_up_description">Voltar</string>
@@ -350,6 +359,7 @@ e ajustar preferências automaticamente"</string>
     <string name="aiwatermark_location_absent_hint">Não foi possível obter informações de localização</string>
     <string name="aiwatermark_location_list_title">Localização</string>
     <string name="aiwatermark_location_tips">"Permita que a Câmera acesse sua localização para obter marcas d'água mais relevantes"</string>
+    <string name="aiwatermark_location_waiting_hint">Acessando localização…</string>
     <string name="altitude_text">Altitude</string>
     <string name="am">"AM"</string>
     <string name="ambi_file_name_format">"'AMBI'_ddMMyyyy_HHmmss"</string>
@@ -452,6 +462,8 @@ e ajustar preferências automaticamente"</string>
     <string name="beauty_makeups_bluefemale">Geada</string>
     <string name="beauty_makeups_danyan">"Nude"</string>
     <string name="beauty_makeups_gentleman">Prata</string>
+    <string name="beauty_makeups_mll">Porcelana</string>
+    <string name="beauty_makeups_myq">Bege</string>
     <string name="beauty_makeups_nude">"Nude"</string>
     <string name="beauty_makeups_pinkfemale">Pétala</string>
     <string name="beauty_makeups_qianjin">Ruivo</string>
@@ -2249,7 +2261,9 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_wind_denoise_title">Filtro de vento</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="prek_b_j_o">Ative para recriar o efeito surround estéreo. Mude para o modo paisagem ou conecte fones de ouvido para obter o melhor efeito.</string>
+    <string name="prek_b_j_o_i">"Capture todos os sons ao redor do dispositivo preservando suas características espaciais. Reproduza o áudio gravado no Modo paisagem ou através de fones de ouvido para obter o melhor efeito. Este recurso funciona no Modo diretor, bem como nos modos de vídeo normal e Pro. Microfones externos não são suportados."</string>
     <string name="prek_b_j_p">Reduz o impacto do vento na gravação de áudios</string>
+    <string name="prek_b_j_p_i">"Reduza o impacto do vento no áudio gravado durante a gravação de vídeos. Este recurso funciona no Modo diretor, bem como nos modos de vídeo normal e Pro. Microfones externos não são suportados."</string>
     <string name="prep_video_ai_audio_new_desc_tip">Sons do sujeito em foco são aprimorados</string>
     <string name="prep_video_ai_audio_new_desc_tip_alone">Sons do sujeito em foco são aprimorados no modo paisagem</string>
     <string name="prep_video_ai_audio_new_mutex_tip">Não é possível usar o zoom por áudio agora</string>
@@ -2265,6 +2279,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="professional_shortcut_short">"Pro"</string>
     <string name="prompt_desc">O uso desta função consumirá %s M de seus dados. Deseja continuar o download?</string>
     <string name="qvga_shelter_tip_text">"Não cubra a lente"</string>
+    <string name="recommend_landscape_tip">Use o modo paisagem para obter melhor efeito</string>
     <string name="recommend_macro_mode">Experimente o Modo Macro</string>
     <string name="recommend_portrait">Experimente o Modo Retrato</string>
     <string name="recommend_soft_light_tip">Ativar flash</string>
@@ -2285,6 +2300,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="remote_online_unavailable">Nenhum dispositivo por perto foi encontrado</string>
     <string name="remote_online_waiting">Aguardando que o outro dispositivo se conecte…</string>
     <string name="remote_online_whats">Como a Gravação em dois telefones funciona?</string>
+    <string name="reset_manual_picture_style_custom_toast">Redefinição parâmetros com sucesso</string>
     <string name="reset_manual_picture_style_new_toast">Parâmetros redefinidos com sucesso</string>
     <string name="reset_manual_picture_style_toast">Parâmetros redefinidos com sucesso</string>
     <string name="reset_manually_parameter_confirmed">"OK"</string>
@@ -2308,7 +2324,11 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="settings_camera_lens_auto_switch_description">Alterna automaticamente entre lentes principais e teleobjetivas com base na distância e no brilho</string>
     <string name="settings_camera_lens_auto_switch_title">Lente com ajuste automático</string>
     <string name="settings_camera_near_range_description">Remover o desfoque ao focar em superfícies planas muito próximas</string>
+    <string name="settings_camera_near_range_fallback_description">Muda automaticamente para lente ultra grande angular para evitar o efeito bokeh ao fotografar objetos planos de perto</string>
+    <string name="settings_camera_near_range_fallback_title">Macro adaptativa</string>
     <string name="settings_camera_near_range_title">Foco aproximado</string>
+    <string name="settings_camera_tele_fallback_description">Alterna automaticamente entre lentes principais e teleobjetivas com base na distância e no brilho</string>
+    <string name="settings_camera_tele_fallback_title">Telefoto adaptativa</string>
     <string name="share">Compartilhar</string>
     <string name="simple_mode_button_asd_flash">Desativar Captura com flash</string>
     <string name="simple_mode_button_asd_hdr">Desativar captura HDR</string>
@@ -2374,6 +2394,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="super_night_se_tip">Modo noturno</string>
     <string name="super_night_toast">Mantenha o telefone estável ao tirar uma foto</string>
     <string name="support_security_line_toast">A linha do quadro só pode ser usada com uma proporção de aspecto %1$s:%2$s</string>
+    <string name="switch_gallery_preview_title_accessibility">Alternar visualizações</string>
     <string name="tap_to_exposure">Toque para ajustar a exposição manualmente</string>
     <string name="tap_to_focus">Toque para focar</string>
     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
@@ -2448,6 +2469,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="timer_burst_param_interval">Intervalo</string>
     <string name="timer_burst_param_total_count">Número de fotos</string>
     <string name="timer_burst_param_total_count_infinity">Ilimitado</string>
+    <string name="timer_burst_setting_total_count_infinity">"Disparo "</string>
     <string name="timerburst_pressed_hint">Toque novamente para parar</string>
     <string name="tip_ai_audio_off">Zoom por áudio: desativado</string>
     <string name="tip_ai_audio_single_off">Som frontal: desativado</string>
@@ -2522,7 +2544,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="tomorrow">Amanhã</string>
     <string name="too_low_battery">Bateria fraca</string>
     <string name="top_menu_hint_text">Deslize para baixo para abrir o menu</string>
-    <string name="track_focus_mutex_truecolor_setting_tips">"O foco de rastreamento de movimento não é compatível com vídeos Dolby Vision/8K/60FPS"</string>
+    <string name="track_focus_mutex_hdr10plus_8k_setting_tips">"O foco de rastreamento de movimento não é compatível com vídeos HDR10+/8K/60FPS"</string>
+    <string name="track_focus_mutex_hdr10plus_setting_tips">"O foco de rastreamento de movimento não é compatível com vídeos HDR10+/60FPS"</string>
     <string name="track_focus_mutex_truecolor_setting_tips_new">"O foco de rastreamento de movimento não é compatível com vídeos Dolby Vision/8K/alta taxa de quadros"</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
@@ -2549,6 +2572,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_capture_process_hint">Processando imagem capturada…</string>
     <string name="ultra_pixel_capture_process_tip">Processando imagem…</string>
+    <string name="ultra_pixel_owl_toast">Processando foto…</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD desativado</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD ativado</string>
     <string name="ultra_pixel_portrait_hint">Retrato em baixa luminosidade</string>
@@ -2575,8 +2599,17 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
     <string name="unsupported_microphones_audio_track_tips">"O rastreamento de fonte não funciona com microfones externos"</string>
     <string name="unsupported_microphones_audio_type_tips">"Não é possível selecionar tipos de áudio gravado com microfones externos"</string>
     <string name="unsupported_microphones_audio_zoom_tips">O zoom por áudio não suporta microfones externos</string>
+    <string name="update_apk_size">Tamanho: %s</string>
+    <string name="update_btn_negative">Agora não</string>
+    <string name="update_btn_positive">Atualizar</string>
+    <string name="update_check">Verificar atualizações</string>
+    <string name="update_check_title">Versão atual: %s</string>
+    <string name="update_ignore">Ignorar esta versão</string>
+    <string name="update_latest_version">Atualizado</string>
     <string name="update_loading">%1$s%% baixado</string>
+    <string name="update_new_version">Atualização disponível</string>
     <string name="update_start">Atualizar %1$s</string>
+    <string name="update_title">Atualização disponível</string>
     <string name="user_agree">Aceitar</string>
     <string name="user_define_watermark_cancel">Cancelar</string>
     <string name="user_define_watermark_save">Salvar</string>
@@ -2643,6 +2676,7 @@ Você pode usar os botões abaixo para editar texto, visualizar a reprodução e
     <string name="video_prompter_edit_description">Editar texto</string>
     <string name="video_prompter_edit_exit_dialog_message">Se você parar de editar agora, todas as alterações não salvas serão perdidas. Parar mesmo assim?</string>
     <string name="video_prompter_edit_exit_dialog_title">Parar de editar?</string>
+    <string name="video_prompter_edit_format_not_supported">"Este formato não é compatível"</string>
     <string name="video_prompter_edit_import_fail">"Não foi possível importar"</string>
     <string name="video_prompter_edit_import_success">Importado com sucesso</string>
     <string name="video_prompter_edit_import_success_partially">Este texto é muito longo. Apenas parte foi importada.</string>
@@ -2657,6 +2691,7 @@ Você pode usar os botões abaixo para editar texto, visualizar a reprodução e
     <string name="video_prompter_shrink_description">Minimizar</string>
     <string name="video_prompter_undo_description">Desfazer</string>
     <string name="video_quality_audio_track_conflict_toast">"O rastreamento de origem não é compatível com vídeos de 8K/%sFPS"</string>
+    <string name="video_quality_track_focus_conflict_toast">"O foco de rastreamento de movimento não é compatível com vídeos de 8K/60FPS"</string>
     <string name="video_reach_size_limit">Limite de tamanho atingido.</string>
     <string name="video_shortcut_short">Vídeo</string>
     <string name="video_tag_flag_title">Marcar</string>
@@ -2712,5 +2747,12 @@ que você grave e edite vídeos em qualquer lugar"</string>
     <string name="widget_camera_lens_description">Experimente a distância focal</string>
     <string name="widget_camera_lens_none_description">Uma lente de 50 mm para retratos</string>
     <string name="widget_camera_lens_talk_back">Lentes Pro</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Falha ao conectar o gerenciador de download, verifique o estado do gerenciador no gerenciamento de apps.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
+Tamanho: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Apresentando a versão %1$s
+Tamanho da atualização delta: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">Atualização de %1$s!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
     <string name="yesterday">Ontem</string>
 </resources>
