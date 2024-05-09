@@ -54,7 +54,7 @@
     <string name="cast_mcc_tips_title">Alterar configurações do Wi-Fi</string>
     <string name="cast_mcc_tips_title_china">Alterar configurações do Wi-Fi</string>
     <string name="circulate_cta_agree">Aceitar</string>
-    <string name="circulate_cta_all_purpose">A Tela inicial+ faz parte dos Serviços de interconectividade Xiaomi. Ela permite visualizar e interagir com as telas iniciais de outros dispositivos conectados. Para poder funcionar normalmente, este serviço precisa estar conectado à internet e requer as seguintes permissões:</string>
+    <string name="circulate_cta_all_purpose">A Tela inicial+ faz parte dos Serviços de Interconectividade Xiaomi. Ela permite visualizar e interagir com as telas iniciais de outros dispositivos conectados. Para poder funcionar normalmente, este serviço precisa estar conectado à internet e requer as seguintes permissões:</string>
     <string name="circulate_cta_app_name">"Mi Smart Hub"</string>
     <string name="circulate_cta_desc_phone">Bem-vindo ao Mi Smart Hub! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução multimídia entre dispositivos, usar Mi Smart Play, MIUI+ e transferência de apps. Este app precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:</string>
     <string name="circulate_cta_desc_phone_miui15_14">Bem-vindo à Interconectividade Xiaomi! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução de multimídia entre dispositivos, usar Mi Smart Play, recursos de interconectividade de dispositivos e transferência de apps. Este app precisa se conectar à internet e requer as seguintes permissões para funcionar normalmente:</string>
@@ -181,7 +181,7 @@
     <string name="guide_window_btn_know">Entendi</string>
     <string name="guide_window_operation">Deslize do lado para o centro da tela</string>
     <string name="guide_window_title">Voltar</string>
-    <string name="handoff_cta_all_purpose">Bem-vindo aos Serviços de interconectividade Xiaomi! Eles permitem que você inicie tarefas em um dispositivo e continue com elas no mesmo app em outros dispositivos conectados. Para funcionar normalmente, esses serviços precisam estar conectados à internet.</string>
+    <string name="handoff_cta_all_purpose">Bem-vindo aos Serviços de Interconectividade Xiaomi! Eles permitem que você inicie tarefas em um dispositivo e continue com elas no mesmo app em outros dispositivos conectados. Para funcionar normalmente, esses serviços precisam estar conectados à internet.</string>
     <string name="handoff_switch_is_closed">A transferência de apps está desativada</string>
     <string name="hint_password">Digite a senha</string>
     <string name="hint_password_error">Senha incorreta</string>
@@ -253,7 +253,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="mishare_interrupting_title">Interromper transferências?</string>
     <string name="miui15_app_name">Serviços de interconectividade de dispositivos</string>
     <string name="miui15_cta_app_name">Interconectividade Xiaomi</string>
-    <string name="miui15_cta_desc_phone">Os Serviços de interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Você pode usar os Serviços de interconectividade Xiaomi para controlar dispositivos, transferir reprodução de áudio e vídeo, combinar recursos do dispositivo ou iniciar tarefas em um dispositivo e continuar com elas no mesmo app em outros dispositivos conectados. Para funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
+    <string name="miui15_cta_desc_phone">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Você pode usar os Serviços de Interconectividade Xiaomi para controlar dispositivos, transferir reprodução de áudio e vídeo, combinar recursos do dispositivo ou iniciar tarefas em um dispositivo e continuar com elas no mesmo app em outros dispositivos conectados. Para funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
     <string name="miui15_cta_permission_bluetooth_subtitle">Para conectar dispositivos e transferir dados entre eles</string>
     <string name="miui15_cta_permission_mac_address_subtitle">Para descobrir dispositivos próximos</string>
     <string name="miui15_cta_permission_obtain_information_subtitle">Durante a gravação ou transmissão, o serviço que fornece esse recurso pode capturar qualquer informação sensível exibida na tela ou reproduzida no dispositivo, incluindo informações confidenciais, como áudio, senhas, informações de pagamento, fotos e mensagens.</string>
