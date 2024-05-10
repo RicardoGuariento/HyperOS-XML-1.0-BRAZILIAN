@@ -141,7 +141,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_battery_level_untethered">E: %1$s de bateria, D: %2$s de bateria</string>
     <string name="bluetooth_bc_profile_summary_connected">Conectado ao servidor BA</string>
     <string name="bluetooth_bc_profile_summary_use_for">Use para BA</string>
-    <string name="bluetooth_connected">Pareando</string>
+    <string name="bluetooth_connected">Pareado</string>
     <string name="bluetooth_connected_active">Conectado %1$s</string>
     <string name="bluetooth_connected_battery_level">Conectado | Bateria %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Conectado (sem mídia)%1$s</string>
@@ -295,7 +295,7 @@ Taxa de amostragem"</string>
     <string name="confignet_cancel">Cancelar</string>
     <string name="confignet_download_title">Instale o Mi Saúde para continuar</string>
     <string name="confirm">"OK"</string>
-    <string name="confirm_enable_oem_unlock_text">ALERTA: Os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver ativada.</string>
+    <string name="confirm_enable_oem_unlock_text">ALERTA: os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver ativada.</string>
     <string name="confirm_enable_oem_unlock_title">Permitir desbloqueio de OEM?</string>
     <string name="connected_to_metered_access_point">Conectado à uma rede limitada</string>
     <string name="connected_via_app">Conectado via %1$s</string>
@@ -351,7 +351,7 @@ Taxa de amostragem"</string>
     <string name="development_settings_title">Opções do desenvolvedor</string>
     <string name="device_picker">Configurações do dispositivo Bluetooth</string>
     <string name="device_update_plugin">Verifique se há atualizações</string>
-    <string name="direct_boot_unaware_dialog_message">Observação: Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
+    <string name="direct_boot_unaware_dialog_message">Observação: após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
     <string name="disable_overlays">Desativar sobreposição HW</string>
     <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
     <string name="disabled">Desativado</string>
