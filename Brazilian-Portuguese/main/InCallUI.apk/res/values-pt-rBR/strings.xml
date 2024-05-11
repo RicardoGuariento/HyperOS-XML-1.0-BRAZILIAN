@@ -407,10 +407,18 @@ Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
     <string name="saf_permission_title">Permissões necessárias</string>
     <string name="saf_permission_use_this_folder">Usar esta pasta</string>
     <string name="satellite_call_failed">Sinal interrompido. Tente novamente.</string>
+    <string name="satellite_debug_antenna">Antena</string>
+    <string name="satellite_debug_azimuth">Azimute</string>
+    <string name="satellite_debug_compass">Bússola</string>
+    <string name="satellite_debug_evevation">Evevation</string>
+    <string name="satellite_debug_rssi">Força do sinal Rssi</string>
+    <string name="satellite_debug_satellite">Satélite</string>
     <string name="satellite_dialog_button">Janela flutuante</string>
     <string name="satellite_dialog_cancel">Cancelar</string>
+    <string name="satellite_guide_azimuth">Mova até que o ícone do satélite esteja na área azul</string>
     <string name="satellite_guide_down">"Incline seu dispositivo para baixo
 até colocar a bola na área azul"</string>
+    <string name="satellite_guide_elevation">Mova até que o ícone do satélite esteja no círculo azul</string>
     <string name="satellite_guide_found">Satélite encontrado</string>
     <string name="satellite_guide_left">"Incline seu dispositivo para a esquerda
 para colocar o ícone do satélite na área azul"</string>
@@ -421,10 +429,14 @@ para colocar o ícone do satélite na área azul"</string>
     <string name="satellite_guide_up">"Incline seu dispositivo para cima
 até colocar a bola na área azul"</string>
     <string name="satellite_incall_tip">O alto-falante está ligado</string>
-    <string name="satellite_service_provider">Fornecido pela China Telecom</string>
+    <string name="satellite_satellite_accessory">"Estou usando acessórios de aprimoramento de sinal do Tiantong Satellite"</string>
+    <string name="satellite_service_provider">Serviço fornecido pela China Telecom</string>
     <string name="satellite_state">"Não mova seu dispositivo"</string>
+    <string name="satellite_state_auto_exit">Sair (%ds)</string>
     <string name="satellite_state_connected">"Conectado ao satélite. Não mova seu dispositivo."</string>
     <string name="satellite_state_connected_floating">"Não mova seu dispositivo"</string>
+    <string name="satellite_state_connecting">Conectando… (%ds)</string>
+    <string name="satellite_state_retry">Continue tentando</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

@@ -133,7 +133,7 @@ Alterá-los agora?"</string>
     <string name="account_setup_check_settings_retr_info_msg">Recuperando informações sobre a conta…</string>
     <string name="account_setup_correct_address_tips">O endereço de e-mail inserido é inválido.</string>
     <string name="account_setup_creating_account_msg">Criando conta…</string>
-    <string name="account_setup_deleting_account_msg">"    Removendo conta…"</string>
+    <string name="account_setup_deleting_account_msg">"Removendo conta…"</string>
     <string name="account_setup_domain_invalid_toast">Insira um domínio de e-mail válido</string>
     <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
     <string name="account_setup_exchange_no_certificate">Nenhum</string>
@@ -226,7 +226,7 @@ IMAP"</string>
     <string name="add_pre_message_attachments_yes">Adicionar</string>
     <string name="add_star">Estrela</string>
     <string name="afternoon">"PM"</string>
-    <string name="agreement_url" formatted="false">http://www.miui.com/res/doc/eula.html?region=%1s&amp;lang=%2s</string>
+    <string name="agreement_url" formatted="false">https://xiaomi.wpsmail.net/cn/agreement.html?region=%1s&amp;lang=%2s</string>
     <string name="all_purpose">Bem-vindo ao E-mail, um cliente de e-mail personalizado pela Kingsoft para a Xiaomi. Você pode usar este app para compor, enviar e receber e-mails.</string>
     <string name="allow_notify">Permitir notificações</string>
     <string name="allread">Ler tudo</string>
@@ -354,7 +354,7 @@ IMAP"</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="chat_item_msg_people_unit">pessoas</string>
     <string name="chat_item_msg_user_etc">"etc."</string>
-    <string name="check_setup_data">"    Validando configurações do servidor…"</string>
+    <string name="check_setup_data">"Validando configurações do servidor…"</string>
     <string name="chip_text">Texto do chip</string>
     <string name="choose_an_office365_international">Edição internacional</string>
     <string name="choose_an_office365_provider">Escolha um provedor do Office365</string>
@@ -715,7 +715,7 @@ IMAP"</string>
     <string name="folder_sent_name_en3">Itens Enviados</string>
     <string name="folder_sent_name_en4">[Gmail]/Mensagem enviada</string>
     <string name="folder_shortcut_widget_label">Pasta de e-mail</string>
-    <string name="folder_synchronization_mail_settings">Config. de sincr. de pastas</string>
+    <string name="folder_synchronization_mail_settings">Config. de sincronização de pastas</string>
     <string name="folder_trash_name_cn2">[Gmail]/Lixo</string>
     <string name="folder_trash_name_en1">Mensagens Excluídas</string>
     <string name="folder_trash_name_en2">Mensagem Excluída</string>
@@ -830,7 +830,7 @@ IMAP"</string>
     <string name="invoice_card_seller">Expedidor</string>
     <string name="invoice_card_title">Fatura eletrônica</string>
     <string name="item_view_role_description">Guia</string>
-    <string name="kilobytes">%sKB</string>
+    <string name="kilobytes">%s KB</string>
     <string name="list_empty_to_fresh">Sem e-mails ainda.</string>
     <string name="load_from_remote">Pesquisar caixa de e-mails no servidor</string>
     <string name="load_more">Carregar mais</string>
@@ -1326,6 +1326,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="privacy_and_private_permission">Consentimento para Contrato do Usuário e Política de Privacidade</string>
     <string name="privacy_des">Os logs contêm informação de depuração do cliente de email e informações do seu dispositivo. Estas informações são usadas para localizar os problemas mais rápido. Ao tocar em \"%1$s\" abaixo, você está concordando com nossa \"%2$s\".</string>
     <string name="privacy_policy">Política de Privacidade</string>
+    <string name="privacy_policy_url">https://xiaomi.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">Aceitar</string>
     <string name="progress">Progresso:</string>
     <string name="prompt_title">Perguntar</string>

@@ -689,9 +689,9 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx_activate_status_desc_request_activation_sms_phone_error">O número do telefone inserido é inválido</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail">Não foi possível ativar o Mi Mensagens</string>
     <string name="mx_auto_resend_mms">Enviar como MMS</string>
-    <string name="mx_auto_resend_mms_summary">Enviar MMS usando a conexão de dados móveis quando você não estiver conectado à rede Wi-Fi. Tarifas de sua operadora poderão ser aplicadas.</string>
+    <string name="mx_auto_resend_mms_summary">Envie MMS usando a conexão de dados móveis quando você não estiver conectado à rede Wi-Fi. Tarifas de sua operadora poderão ser aplicadas.</string>
     <string name="mx_auto_resend_sms">Enviar como SMS</string>
-    <string name="mx_auto_resend_sms_summary">Enviar SMS usando a conexão de dados móveis quando você não estiver conectado à rede Wi-Fi. Tarifas de sua operadora poderão ser aplicadas.</string>
+    <string name="mx_auto_resend_sms_summary">Envie SMS usando a conexão de dados móveis quando você não estiver conectado à rede Wi-Fi. Tarifas de sua operadora poderão ser aplicadas.</string>
     <string name="mx_btn_enable">Ativar</string>
     <string name="mx_btn_enable_now">Ativar</string>
     <string name="mx_count_dspt">Você já enviou %1$d SMS e %2$d MMS gratuitamente</string>
@@ -706,7 +706,7 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx_filter_message_from_stranger">Bloquear Mi Mensagens de números desconhecidos</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Você ainda receberá mensagens SMS de números desconhecidos. Você pode ativar ou desativar este recurso a qualquer momento em Mensagens &gt; Configurações.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Mensagens de números desconhecidos</string>
-    <string name="mx_filter_message_from_stranger_summary">Permitir apenas Mi Mensagens de seus contatos</string>
+    <string name="mx_filter_message_from_stranger_summary">Permita apenas Mi Mensagens de seus contatos</string>
     <string name="mx_main_purpose">"O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da internet sem a cobrança de tarifas.
 Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela sua operadora."</string>
     <string name="mx_main_purpose_short">O Mi Mensagens permite que usuários do HyperOS enviem e recebam mensagens SMS e MMS gratuitamente.</string>
@@ -791,7 +791,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="perm_purpose_rcs_account">Para exibir o guia rápido para novos usuários</string>
     <string name="perm_purpose_rcs_phone_state">Para acessar o IMEI para identificar o seu dispositivo</string>
     <string name="perm_purpose_rcs_storage">Para salvar imagens, vídeos, arquivos e outros anexos do RCS</string>
-    <string name="permission_new_retry_dialog_msg">O serviço de mensagens precisa acessar os contatos para funcionar normalmente. Você pode alterar as permissões em Configurações > Apps > Configurar Apps do sistema.</string>
+    <string name="permission_new_retry_dialog_msg">O serviço de mensagens precisa acessar os contatos para funcionar normalmente. Você pode alterar as permissões em Configurações > Apps > Configurar apps do sistema.</string>
     <string name="permission_retry_deny">Cancelar</string>
     <string name="permission_retry_dialog_msg">O app Mensagens necessita de permissões para poder funcionar corretamente. Para permitir, toque em \"Configurações\", selecione \"Permissões do app\", e permita o acesso as seguintes permissões: telefone, SMS e contatos.</string>
     <string name="permission_retry_setting">Configurações</string>
@@ -839,17 +839,17 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="pref_summary_enable_ad_notification">Ative para agrupar notificações de mensagens promocionais na Área de notificações</string>
     <string name="pref_summary_enable_classify">Mova as mensagens promocionais e financeiras para guias separadas</string>
     <string name="pref_summary_manage_sim_messages">Gerencie mensagens armazenadas no seu cartão SIM</string>
-    <string name="pref_summary_mms_auto_retrieval">Baixar fotos e vídeos de mensagens automaticamente</string>
-    <string name="pref_summary_mms_read_reports">Mostrar notificação na visualização de conversas quando o destinatário baixar o conteúdo do MMS</string>
-    <string name="pref_summary_mms_retrieval_during_roaming">Baixar fotos e vídeos de mensagens automaticamente quando em roaming</string>
-    <string name="pref_summary_notification_body_enabled">Mostra mensagens na Tela de bloqueio e na Área de notificações</string>
-    <string name="pref_summary_off_system_mms_priority">Usar um app de terceiros como o padrão para enviar e receber MMS</string>
-    <string name="pref_summary_on_system_mms_priority">Usar o app Mensagens da HyperOS como o padrão para enviar e receber MMS</string>
+    <string name="pref_summary_mms_auto_retrieval">Baixe fotos e vídeos de mensagens automaticamente</string>
+    <string name="pref_summary_mms_read_reports">Mostre a notificação na visualização de conversas quando o destinatário baixar o conteúdo do MMS</string>
+    <string name="pref_summary_mms_retrieval_during_roaming">Baixe fotos e vídeos de mensagens automaticamente quando em roaming</string>
+    <string name="pref_summary_notification_body_enabled">Mostre a mensagens na Tela de bloqueio e na Área de notificações</string>
+    <string name="pref_summary_off_system_mms_priority">Use um app de terceiros como o padrão para enviar e receber MMS</string>
+    <string name="pref_summary_on_system_mms_priority">Use o app Mensagens da HyperOS como o padrão para enviar e receber MMS</string>
     <string name="pref_summary_privacy_authority">Ative ou desative este seletor para conceder ou revogar a sua autorização</string>
-    <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega para o remetente ao receber uma mensagem multimídia</string>
+    <string name="pref_summary_send_delivery_reports">Envie mensagem de confirmação de entrega para o remetente ao receber uma mensagem multimídia</string>
     <string name="pref_summary_switch_aim_card">Exibe mensagens que contêm vídeos, imagens e formatação complexa como cartões</string>
     <string name="pref_summary_voice_report">Ative para ler mensagens em voz alta à medida que são recebidas. Pressione o botão de diminuir volume ou o botão de energia para interromper a reprodução.</string>
-    <string name="pref_summary_wake_up_screen">Ligar a tela sempre que uma mensagem for recebida</string>
+    <string name="pref_summary_wake_up_screen">Ligue a tela sempre que uma mensagem for recebida</string>
     <string name="pref_switch_sdk_setting">Trocar provedor de SMS inteligente</string>
     <string name="pref_system_title">Sistema</string>
     <string name="pref_title_ad_mms_recognition">Reconhecer mensagens promocionais</string>
@@ -961,7 +961,7 @@ Leia e concorde com a nova versão da Política de Privacidade antes de continua
     <string name="promo_install_title_xiaomi">A Xiaomi recomenda atualizar para o Mensagens do Google</string>
     <string name="promo_launch_messages_btn_text">Abrir o Mensagens</string>
     <string name="promo_no_thanks_btn_text_xiaomi">Não, obrigado</string>
-    <string name="promo_post_install_animation_alt_text_xiaomi">Agora o Mensagens do Google é seu app de SMS padrão. Para colocar o Mensagens do Google como seu favorito na Tela inicial, pressione e segure o app de Mensagem da Xiaomi remova-o dos favoritos, então pressione longamente o app de Mensagens do Google e mova-o para os favoritos.</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">Agora o Mensagens do Google é seu app de SMS padrão. Para colocar o Mensagens do Google como seu favorito na Tela inicial, pressione e segure o app Mensagens da Xiaomi remova-o dos favoritos, então pressione longamente o app de Mensagens do Google e mova-o para os favoritos.</string>
     <string name="promo_post_install_title_no_default_xiaomi">Substitua o app Mensagens pela pela qualidade superior do app de Mensagens do Google</string>
     <string name="promo_post_install_title_with_default_xiaomi">Use o Mensagens do Google para enviar mensagens de texto com mais qualidade</string>
     <string name="promo_use_messages_btn_text">Usar o Mensagens</string>
@@ -1220,7 +1220,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="search_keyword_mms">Mensagens;SMS;MMS:Texto;Mensagem de texto;Mensagem;Mensagens</string>
     <string name="search_label">Mensagens</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="search_path_mms">Configurações/Apps/Configurar Apps do sistema/Mensagens</string>
+    <string name="search_path_mms">Configurações/Apps/Configurar apps do sistema/Mensagens</string>
     <string name="search_setting_description">Texto nas suas mensagens</string>
     <string name="search_show_more_results">Mostrar mais</string>
     <string name="search_title_mms">Mensagens</string>

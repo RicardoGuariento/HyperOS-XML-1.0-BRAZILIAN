@@ -10,9 +10,9 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
-    <string name="abc_capital_off">DESATIVAR</string>
-    <string name="abc_capital_on">ATIVAR</string>
+    <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">excluir</string>
@@ -32,7 +32,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="about_app_name">Sobre Temas</string>
+    <string name="about_app_name">Sobre o Temas</string>
     <string name="about_version_update">O que há de novo</string>
     <string name="accessibiliy_description_content_account">Perfil</string>
     <string name="accessibiliy_description_content_ad">Anúncio</string>
@@ -62,7 +62,7 @@
     <string name="ad_download_pause">Pausar</string>
     <string name="ad_download_pending">Pendente</string>
     <string name="ad_download_resume">Retomar</string>
-    <string name="ad_downloading_tip">Este item está sendo baixado. Você pode ver o progresso na aba Notificação.</string>
+    <string name="ad_downloading_tip">Este item está sendo baixado. Você pode ver o progresso na Área de notificações.</string>
     <string name="ad_experience_now">Abrir</string>
     <string name="ad_in_downloading">Baixando</string>
     <string name="ad_in_installing">Instalando</string>
@@ -89,7 +89,7 @@
     <string name="anonymous_resource_unlink">Não, obrigado</string>
     <string name="anonymous_resource_unlink_cancel">Cancelar</string>
     <string name="anonymous_resource_unlink_confirm">Não adicionar</string>
-    <string name="anonymous_resource_unlink_hint">Se você não adicionar os itens, eles não serão associados à sua conta</string>
+    <string name="anonymous_resource_unlink_hint">Se você não adicionar os itens, eles não serão associados à sua conta.</string>
     <string name="anonymous_resource_unlink_title">Confirme sua ação</string>
     <string name="app_ad_title">Recomendações diárias</string>
     <string name="app_disable_transparent_wallpaper">Sem plano de fundo transparente</string>
@@ -98,27 +98,27 @@
     <string name="app_name_pad">Personalização</string>
     <string name="application_list_permission_desc">Para mostrar apps compatíveis com planos de fundo transparentes</string>
     <string name="application_notify_title">Atenção!</string>
-    <string name="apply_4k_video_wallpaper_warning">"Vídeos em resolução 4k e 8k não podem ser usados como plano de fundo"</string>
+    <string name="apply_4k_video_wallpaper_warning">"Vídeos em resolução 4K e 8K não podem ser usados como plano de fundo"</string>
     <string name="apply_choosen_type_resource">Aplicar itens selecionados</string>
     <string name="apply_default_font_tip">Continuar usando as fontes do sistema?</string>
     <string name="apply_failed">Não foi possível aplicar</string>
     <string name="apply_font_btn_exclude">Agora não</string>
     <string name="apply_font_btn_reboot">Reiniciar</string>
-    <string name="apply_font_tip">Reinicie o telefone para aplicar a fonte do tema.</string>
+    <string name="apply_font_tip">Reinicie o dispositivo para aplicar a fonte do tema.</string>
     <string name="apply_not_support_aod">Este dispositivo não suporta a Tela ambiente</string>
     <string name="apply_not_support_in_second_space">Não é possível aplicar este item no segundo espaço</string>
     <string name="apply_not_support_maml_aod">Este dispositivo não suporta a combinação da Tela ambiente com temas</string>
     <string name="apply_not_support_video_wallpaper_warning">"Vídeos 4K, 8K e Dolby não podem ser definidos como planos de fundo de vídeo."</string>
-    <string name="apply_sensor_video_wallpaper_dialog_message">Este plano de fundo será aplicado às Telas de bloqueio internas e externas e às Telas iniciais..</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Este plano de fundo será aplicado às Telas de bloqueio internas e externas e às Telas iniciais.</string>
     <string name="apply_succeed">Aplicado com sucesso</string>
     <string name="apply_success_not_enable_aod">Ative primeiro a Tela ambiente nas Configurações</string>
-    <string name="apply_success_not_support_aod">Não é possível combinar a Tela ambiente com temas neste dispositivo. Os componentes restantes deste tema forma aplicados com sucesso</string>
+    <string name="apply_success_not_support_aod">Não é possível combinar a Tela ambiente com temas neste dispositivo. Os componentes restantes deste tema forma aplicados com sucesso.</string>
     <string name="apply_theme_with_ringtones">Usar toques do tema</string>
-    <string name="apply_wallpaper_after_three_theme">"No momento, você está usando um tema de terceiros. Se você alterar o plano de fundo da Tela de bloqueio, isso pode fazer com que o estilo do relógio da tela de bloqueio seja restaurado para o padrão. Aplicar agora?"</string>
-    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio, e a exibição sempre ativa será restaurada para a configuração anterior. Aplicar agora?"</string>
+    <string name="apply_wallpaper_after_three_theme">"No momento, você está usando um tema de terceiros. Se você alterar o plano de fundo da Tela de bloqueio, isso pode fazer com que o estilo do relógio da Tela de bloqueio seja restaurado para o padrão. Aplicar agora?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio, e a Tela sempre ativa será restaurada para a configuração anterior. Aplicar agora?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio. Aplicar agora?"</string>
-    <string name="apply_warning_get_device_dialog_message">Para poder usar o conteúdo baixado, permita que este recurso acesse a ID do seu dispositivo primeiro. Você pode conceder essa permissão em Configurações > Privacidade.</string>
-    <string name="apply_warning_tip_get_device_status">Primeiro permita que este app acesse a ID do seu dispositivo em Perfil > Configurações.</string>
+    <string name="apply_warning_get_device_dialog_message">Para poder usar o conteúdo baixado, permita que este recurso acesse o ID do seu dispositivo primeiro. Você pode conceder essa permissão em Configurações > Privacidade.</string>
+    <string name="apply_warning_tip_get_device_status">Primeiro permita que este app acesse o ID do seu dispositivo em Perfil > Configurações.</string>
     <string name="audio_duration_minutes_format">%1$d minutos</string>
     <string name="audio_duration_seconds_format">%1$d segundos</string>
     <string name="audition_ringtone">Reproduzir</string>
@@ -135,7 +135,7 @@
     <string name="backup_theme_progress_message">Criando backup…</string>
     <string name="backup_theme_success_message">As configurações de tema atuais foram salvas.</string>
     <string name="basic_mode">Modo offline</string>
-    <string name="basic_mode_desc">"Não permita que este app se conecte à Internet, apenas acesse e use itens do seu dispositivo (por exemplo, fotos, áudio e vídeos). Nenhuma de suas informações pessoais será coletada"</string>
+    <string name="basic_mode_desc">"Não permita que este app se conecte à internet, apenas acesse e use itens do seu dispositivo (ex.: fotos, áudio e vídeos). Nenhuma de suas informações pessoais será coletada."</string>
     <string name="boot_audio_dialog_cancel">Cancelar</string>
     <string name="boot_audio_dialog_confirm">"OK"</string>
     <string name="boot_audio_dialog_content">O áudio de inicialização está desativado agora. Deseja ativá-lo e aplicar este som?</string>
@@ -144,7 +144,7 @@
     <string name="both_all_apply_success">Plano de fundo aplicado</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="browse_mode">Modo online</string>
-    <string name="browse_mode_desc">"Permita que este app se conecte à Internet, acesse conteúdo on-line e use itens do seu dispositivo (por exemplo, fotos, áudio e vídeos). Nenhuma de suas informações pessoais será coletada."</string>
+    <string name="browse_mode_desc">"Permita que este app se conecte à internet, acesse conteúdo on-line e use itens do seu dispositivo (ex.: fotos, áudio e vídeos). Nenhuma de suas informações pessoais será coletada."</string>
     <string name="browser_local_resource">Recursos locais</string>
     <string name="can_not_apply">Não é possível aplicar</string>
     <string name="can_not_apply_error">Este formato de vídeo não é suportado</string>
@@ -172,14 +172,14 @@
     <string name="common_downloading">Baixando…</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Pular</string>
-    <string name="community_community_message_trigger_summary">Receba notificações sobre respostas, curtidas e atualizações de status da Mi Comunidade usando seu ID da Conta Mi</string>
+    <string name="community_community_message_trigger_summary">Receba notificações sobre respostas, curtidas e atualizações de status da Comunidade Xiaomi usando seu ID da Conta Mi</string>
     <string name="community_community_message_trigger_title">Notificar sobre atividade</string>
     <string name="community_cta_dialog_cancel">Não, obrigado</string>
-    <string name="community_cta_dialog_des">Temas de terceiros agora suportam o widget Comunidade Mi. Permita que o Temas acesse seu status de ID associados a sua Conta Mi e Comunidade Mi para poder visualizá-lo aqui.</string>
+    <string name="community_cta_dialog_des">Temas de terceiros agora suportam o widget Comunidade Xiaomi. Permita que o Temas acesse seu status de ID associados a sua Conta Mi e Comunidade Xiaomi para poder visualizá-lo aqui.</string>
     <string name="community_cta_dialog_ok">Permitir</string>
     <string name="community_cta_dialog_title">Permissões necessárias</string>
-    <string name="community_entrance_summary">Encontre conteúdo relacionado a temas na Comunidade Mi. Este recurso é suportado por temas selecionados.</string>
-    <string name="community_entrance_title">Widget de relógio da Comunidade Mi</string>
+    <string name="community_entrance_summary">Encontre conteúdo relacionado a temas na Comunidade Xiaomi. Este recurso é suportado por temas selecionados.</string>
+    <string name="community_entrance_title">Widget de relógio da Comunidade Xiaomi</string>
     <string name="community_message_trigger_disabled">Desativado</string>
     <string name="community_message_trigger_triggered">Ativado</string>
     <string name="component_backup_preference_title">Backup do tema atual</string>
@@ -229,7 +229,7 @@
     <string name="de_mix_mode_desktop">Tela inicial</string>
     <string name="de_mix_mode_desktop_desc">Plano de fundo e relógio</string>
     <string name="de_mix_mode_global">Elementos do sistema</string>
-    <string name="de_mix_mode_global_desc">Área de notificação, Telefone, Mensagens, etc.</string>
+    <string name="de_mix_mode_global_desc">Área de notificações, Telefone, Mensagens, etc.</string>
     <string name="de_mix_mode_icon">Ícones</string>
     <string name="de_mix_mode_icon_desc">Ícones dos apps</string>
     <string name="de_mix_mode_lockscreen">Tela de bloqueio</string>
@@ -286,9 +286,9 @@
     <string name="detail_reward_user_limited_to_display">Apenas as 100 primeiras pessoas são exibidas</string>
     <string name="dev_options">Opções do desenvolvedor</string>
     <string name="dev_options_summary">Recursos web</string>
-    <string name="dialog_apply_lock_screen_wallpaper_content">O tema atual pode não suportar a alteração do plano de fundo da tela de bloqueio.</string>
-    <string name="dialog_apply_lock_screen_wallpaper_warning">Plano de fundo da tela de bloqueio</string>
-    <string name="dialog_content_get_device_status">Este app precisa acessar a ID do seu dispositivo para poder autenticar os itens comprados em outros dispositivos. Você pode não conseguir usar alguns dos itens comprados depois de desativar esse recurso. Desativar mesmo assim?</string>
+    <string name="dialog_apply_lock_screen_wallpaper_content">O tema atual pode não suportar a alteração do plano de fundo da Tela de bloqueio.</string>
+    <string name="dialog_apply_lock_screen_wallpaper_warning">Plano de fundo da Tela de bloqueio</string>
+    <string name="dialog_content_get_device_status">Este app precisa acessar o ID do seu dispositivo para poder autenticar os itens comprados em outros dispositivos. Você pode não conseguir usar alguns dos itens comprados depois de desativar esse recurso. Desativar mesmo assim?</string>
     <string name="dialog_negative_button_text">Agora não</string>
     <string name="dialog_positive_button_text">Permitir</string>
     <string name="dialog_show_never">Não mostrar novamente</string>
@@ -319,14 +319,14 @@
     <string name="exchange_code_not_match_account_dialog_content">Este código já foi resgatado por outra Conta Mi. Faça login com essa Conta Mi e tente novamente.</string>
     <string name="exit_extreme_mode_dialog_agree">Aceitar</string>
     <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
-    <string name="exit_extreme_mode_dialog_title">Ativar Modo Extremo</string>
+    <string name="exit_extreme_mode_dialog_title">Desativar o Modo extremo</string>
     <string name="exo_controls_cc_disabled_description">Ativar legendas</string>
     <string name="exo_controls_cc_enabled_description">Desativar legendas</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Avanço rápido</string>
-    <string name="exo_controls_fullscreen_description">Modo tela cheia</string>
-    <string name="exo_controls_fullscreen_enter_description">Entrar em tela cheia</string>
-    <string name="exo_controls_fullscreen_exit_description">Sair da tela cheia</string>
+    <string name="exo_controls_fullscreen_description">Modo Tela cheia</string>
+    <string name="exo_controls_fullscreen_enter_description">Entrar no Modo Tela cheia</string>
+    <string name="exo_controls_fullscreen_exit_description">Sair do Modo Tela cheia</string>
     <string name="exo_controls_hide">Ocultar controles do reprodutor</string>
     <string name="exo_controls_next_description">Próxima</string>
     <string name="exo_controls_overflow_hide_description">Ocultar configurações adicionais</string>
@@ -354,7 +354,7 @@
     <string name="exo_download_notification_channel_name">"Downloads"</string>
     <string name="exo_download_paused">Downloads pausados</string>
     <string name="exo_download_paused_for_network">Downloads aguardando rede</string>
-    <string name="exo_download_paused_for_wifi">Downloads aguardando WiFi</string>
+    <string name="exo_download_paused_for_wifi">Downloads aguardando Wi-Fi</string>
     <string name="exo_download_removing">Removendo downloads</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">"Mono"</string>
@@ -374,7 +374,7 @@
     <string name="exo_track_unknown">Desconhecido</string>
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
-    <string name="extreme_mode_dialog_message">Este recurso não está disponível no Modo Extremo. Desative o Modo Extremo para poder usá-lo.</string>
+    <string name="extreme_mode_dialog_message">Este recurso não está disponível no Modo extremo. Desative o Modo extremo para poder usá-lo.</string>
     <string name="extreme_mode_dialog_ok">OK</string>
     <string name="extreme_mode_dialog_title">Alerta</string>
     <string name="fail_to_add_account">Não é possível adicionar a conta</string>
@@ -470,7 +470,7 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="gallery_wallpaper">Carrossel de Planos de fundo</string>
+    <string name="gallery_wallpaper">Carrossel de planos de fundo</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
     <string name="gallery_wallpaper_theme">Planos de fundo imperdíveis</string>
@@ -552,7 +552,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="kuyin_user_agreement_content_href">Política de Privacidade iFlytek</string>
     <string name="lab">Laboratório de temas</string>
     <string name="label">Etiqueta</string>
-    <string name="large_icon_apply_fail_for_in_dock">"Não é possível usar Super ícones para apps no dock de apps"</string>
+    <string name="large_icon_apply_fail_for_in_dock">"Não é possível usar Super ícones para apps na dock de apps"</string>
     <string name="large_icon_apply_fail_for_in_folder">"Não é possível usar Super ícones para apps em pastas"</string>
     <string name="large_icon_apply_fail_for_in_oldmode">"Super ícones não são suportados no Modo simples"</string>
     <string name="large_icon_apply_fail_for_not_in_launcher">"Não é possível usar Super ícones para apps que não estão na Tela inicial"</string>
@@ -582,10 +582,10 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
     <string name="loading_resource_detail_info">Aguarde…</string>
     <string name="local_mode">Modo offline</string>
-    <string name="local_mode_close">Desativar o modo off-line?</string>
+    <string name="local_mode_close">Desativar o modo offline?</string>
     <string name="local_mode_close_desc">Desative o modo offline se desejar usar serviços online. Desativar agora?</string>
     <string name="local_mode_desc">"O modo offline usa apenas conteúdo local e não usa serviços online"</string>
-    <string name="local_mode_hint">"Você está usando o modo off-line.
+    <string name="local_mode_hint">"Você está usando o modo offline.
 Toque para desativar."</string>
     <string name="local_mode_open">Modo offline</string>
     <string name="local_notification_default_title">Temas</string>
@@ -606,7 +606,7 @@ Toque para desativar."</string>
     <string name="lockscreen_magazine_summary">Categorias</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s planos de fundo</string>
     <string name="lockscreen_magazine_system_title">"Offline"</string>
-    <string name="lockscreen_magazine_title">Carrossel de Planos de fundo</string>
+    <string name="lockscreen_magazine_title">Carrossel de planos de fundo</string>
     <string name="lockscreen_tip_content">Pressione e segure a Tela de bloqueio para iniciar a edição. Torne-o verdadeiramente sua com novas opções e modelos de personalização.</string>
     <string name="lockscreen_wallpaper">Tela de bloqueio</string>
     <string name="lockstyle_personal_settings">Personalizar</string>
@@ -620,7 +620,7 @@ Toque para desativar."</string>
     <string name="material_minute_selection">Selecione minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Intervalo final,</string>
-    <string name="material_slider_range_start">Intervalo inicial</string>
+    <string name="material_slider_range_start">Intervalo inicial,</string>
     <string name="material_timepicker_am">"AM"</string>
     <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
@@ -628,7 +628,7 @@ Toque para desativar."</string>
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione tempo</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
-    <string name="mi_wallpaper">Fundos do HyperOS</string>
+    <string name="mi_wallpaper">Plano de fundo HyperOS</string>
     <string name="midnight">"AM"</string>
     <string name="mine_tab_not_login">"Entre para ver os itens.
 Toque aqui para entrar agora."</string>
@@ -675,7 +675,7 @@ dd 'de' MMM"</string>
     <string name="miuishare_account_need_activate">O compartilhamento no Weibo requer uma conta Weibo que está associada à sua Conta Mi. Ative a sua Conta Mi para continuar.</string>
     <string name="miuishare_account_need_login">O compartilhamento no Weibo requer uma conta Weibo que está associada à sua Conta Mi. Faça o login na sua Conta Mi para continuar.</string>
     <string name="miuishare_app_name">Compartilhamento HyperOS</string>
-    <string name="miuishare_mini_program_title">Veja o Plano de fundo que eu encontrei!</string>
+    <string name="miuishare_mini_program_title">Veja o plano de fundo que eu encontrei!</string>
     <string name="miuishare_no_network">Não foi possível conectar-se à rede.</string>
     <string name="miuishare_please_retry">Não foi possível obter as informações. Verifique suas configurações de rede e tente novamente.</string>
     <string name="miuishare_publish">Enviar</string>
@@ -684,10 +684,10 @@ dd 'de' MMM"</string>
     <string name="miuishare_share_editor_title">Compartilhar</string>
     <string name="miuishare_share_fail">Não foi possível compartilhar</string>
     <string name="miuishare_sys_title_share">Mais opções</string>
-    <string name="miuishare_timeline_title">Encontre seu próximo Plano de fundo</string>
+    <string name="miuishare_timeline_title">Encontre seu próximo plano de fundo</string>
     <string name="miuishare_title_more">Mais</string>
     <string name="miuishare_title_share">Compartilhar</string>
-    <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+    <string name="miuishare_wechat_timeline_title">Momentos WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -729,7 +729,7 @@ dd 'de' MMM"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
     <string name="mix_global_option">Geral</string>
-    <string name="mix_global_option_des">Notificações, telefone, mensagens e outros elementos do sistema. Desmarque esta caixa para usar as opções predefinidas</string>
+    <string name="mix_global_option_des">Notificações, telefone, mensagens e outros elementos do sistema. Desmarque esta caixa para usar as opções predefinidas.</string>
     <string name="mix_home_option_des">Plano de fundo e relógio</string>
     <string name="mix_icons_option_des">Ícones da Tela inicial</string>
     <string name="mix_lockscreen_option_des">Plano de fundo e relógio</string>
@@ -829,7 +829,7 @@ dd 'de' MMM"</string>
     <string name="no_data">Não é possível conectar-se à rede</string>
     <string name="no_install_permission">"Você não tem permissão para instalar este item"</string>
     <string name="no_more_notice">"Não mostrar novamente"</string>
-    <string name="no_net_work_connection">Verifique suas configurações de rede e tente novamente.</string>
+    <string name="no_net_work_connection">Verifique suas configurações de rede e tente novamente</string>
     <string name="no_network_desc">Não foi possível conectar à rede</string>
     <string name="no_network_please_retry">Verifique suas configurações de rede e tente novamente</string>
     <string name="no_used_title">Não usado</string>
@@ -851,7 +851,7 @@ dd 'de' MMM"</string>
     <string name="online_precust_scenery">Cenário</string>
     <string name="online_search_hint">Pesquisar recursos online</string>
     <string name="order_list">Histórico de pedidos</string>
-    <string name="ota_recovery_theme_dialog_message">Alguns elementos do tema usado anteriormente podem não ser compatíveis com a nova Versão do OS. Os elementos incompatíveis serão substituídos pelas opções padrão.</string>
+    <string name="ota_recovery_theme_dialog_message">Alguns elementos do tema usado anteriormente podem não ser compatíveis com a nova versão do OS. Os elementos incompatíveis serão substituídos pelas opções padrão.</string>
     <string name="ota_recovery_theme_dialog_title">Restaurando tema original</string>
     <string name="ota_recovery_theme_notity_btn">Restaurar</string>
     <string name="ota_recovery_theme_notity_content">Você pode voltar ao tema que estava usando antes da atualização</string>
@@ -877,7 +877,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="personalize_item_more_setting">Configurações adicionais</string>
     <string name="personalize_notify_ringtone_title">Notificações</string>
     <string name="personalize_notify_style_title">Efeitos</string>
-    <string name="personalize_recommend_switch_desc">Receba recomendações de conteúdo personalizado com base na ID do dispositivo</string>
+    <string name="personalize_recommend_switch_desc">Receba recomendações de conteúdo personalizado com base no ID do dispositivo</string>
     <string name="personalize_second_space_not_support_buy_widget">"Não é possível comprar widgets no Segundo espaço"</string>
     <string name="personalize_second_space_not_support_set_font">Não é possível alterar a fonte no Segundo espaço</string>
     <string name="personalize_theme_entrance">Temas</string>
@@ -899,8 +899,8 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="pref_read_write_function_detail">Para alterar as preferências de personalização e salvar itens baixados</string>
     <string name="pref_reading_the_application_list_detail">Para usar planos de fundo transparentes</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
-    <string name="preference_subtitle_get_device_status">Permita que o app acesse a ID do seu dispositivo para poder baixar os itens comprados em seus outros dispositivos</string>
-    <string name="preference_title_get_device_status">Acessar a ID do dispositivo</string>
+    <string name="preference_subtitle_get_device_status">Permita que o app acesse o ID do seu dispositivo para poder baixar os itens comprados em seus outros dispositivos</string>
+    <string name="preference_title_get_device_status">Acessar o ID do dispositivo</string>
     <string name="present_local_fonts">Minhas fontes</string>
     <string name="present_local_themes">Meus temas</string>
     <string name="present_local_themes_subtitle">Personalize seu dispositivo</string>
@@ -940,83 +940,83 @@ Todos os itens de personalização usados atualmente neste dispositivo. As prefe
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. O cancelamento do serviço não implica isenção ou mitigação em relação às responsabilidades decorrentes de ações realizadas antes do cancelamento dos serviços.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Declaração de Cancelamento de Serviços de Personalização</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Leia e concorde com o \"Declaração de Cancelamento de Serviços de Personalização\" antes de cancelar nossos serviços.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Você está prestes a cancelar os serviços de Personalização."</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Você está prestes a cancelar os serviços de Personalização"</string>
     <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração de Cancelamento de Serviços de Personalização&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada do Consentimento à Política de Privacidade de Personalização&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_pad_fold_revoke_agree_content_3">3. Todos os planos de fundo, fontes e toques baixados para este dispositivo.</string>
     <string name="privacy_pad_fold_revoke_agree_content_4">4. Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Declaração sobre a Retirada do Consentimento à Política de Privacidade de Papel de Parede e personalização</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada do Consentimento à Política de Privacidade de Papel de Parede e personalização\" antes de retirar o seu consentimento.</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Declaração sobre a Retirada do Consentimento à Política de Privacidade do Plano de fundo e personalização</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada do Consentimento à Política de Privacidade do Plano de fundo e personalização\" antes de retirar o seu consentimento.</string>
     <string name="privacy_pad_fold_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade de Personalização. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Uma vez que o Personalização fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar serviços de Plano de fundo e personalização."</string>
-    <string name="privacy_pad_fold_update_content">Política de privacidade de Plano de fundo e personalização foi atualizada:</string>
+    <string name="privacy_pad_fold_update_content">Política de Privacidade do Plano de fundo e personalização foi atualizada:</string>
     <string name="privacy_pad_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do usuário e Política de privacidade. No entanto, os recursos e serviços básicos do Personalização ainda estão disponíveis para você.
 Sempre que você usar os itens armazenados neste dispositivo para personalização (ex.: configurá-los como planos de fundo ou toques), pediremos que você permita que este app acesse o armazenamento do dispositivo."</string>
     <string name="privacy_permission_management_description">Detalhes de permissões</string>
     <string name="privacy_permission_related_content">Permissões</string>
-    <string name="privacy_permit_privacy_policy_content">"You won't be able to keep using our unless you agree to the new version of &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Privacy Policy&lt;/font>&lt;/a>. Agree to the updated Privacy Policy now?"</string>
-    <string name="privacy_phone_important_prompt_content">"Looks like you haven't agreed to our User Agreement and Privacy Policy yet. However, the basic features and services of Themes are still available to you.
-Whenever you use the items stored on this device for personalization (e.g. set them as wallpapers or ringtones), we'll ask you to allow this app to access device storage."</string>
-    <string name="privacy_phone_logoff_service_content">Cancel Themes services</string>
-    <string name="privacy_phone_logoff_theme_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
-    <string name="privacy_phone_logoff_theme_content_4">4. All the search history records, permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Make sure that you have the right to cancel services before you continue.
-2. Cancelation of Themes services won't affect the normal usage of other Xiaomi products.
-3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.
-All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.
-All the search history records, permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Service cancelation does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to canceling the services.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_prompt">Statement on the Cancelation of Themes Services</string>
-    <string name="privacy_phone_logoff_theme_service_detail_title">Read and agree to the \"Statement on the Cancelation of Themes Services\" before canceling our services.</string>
-    <string name="privacy_phone_logoff_theme_service_introduce">"You're about to cancel Themes services."</string>
+    <string name="privacy_permit_privacy_policy_content">"Você não poderá continuar usando a nossa, a menos que concorde com a nova versão da &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a>. Concordar com a Política de Privacidade atualizada agora?"</string>
+    <string name="privacy_phone_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do Usuário e a Política de Privacidade. No entanto, os recursos e serviços básicos do Temas ainda estão disponíveis para você.
+Sempre que você usar os itens armazenados neste dispositivo para personalização (ex.: configurá-los como planos de fundo ou toques), pediremos que você permita que este app acesse o armazenamento do dispositivo."</string>
+    <string name="privacy_phone_logoff_service_content">Cancelar serviços do Temas</string>
+    <string name="privacy_phone_logoff_theme_content_3">3. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Certifique-se de que você tem o direito de cancelar os serviços antes de continuar.
+2. O cancelamento dos serviços do Temas não afetará o uso normal de outros produtos Xiaomi.
+3. O cancelamento do serviço é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que os serviços forem cancelados. Os seguintes dados serão excluídos permanentemente ou anonimizados após o cancelamento do serviço (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_2">"Todos os pedidos (incluindo pedidos pagos) feitos em dispositivos Xiaomi. Você não poderá mais usar os itens que comprou.
+Todas as informações sobre suas curtidas, comentários, avaliações e seguidores gerados em dispositivos Xiaomi.
+Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.
+Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.
+Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas."</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. O cancelamento do serviço não implica isenção ou mitigação das responsabilidades decorrentes de ações praticadas antes do cancelamento dos serviços.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_prompt">Declaração sobre o Cancelamento de Serviços do Temas</string>
+    <string name="privacy_phone_logoff_theme_service_detail_title">Leia e concorde com a \"Declaração sobre o Cancelamento de Serviços do Temas\" antes de cancelar nossos serviços.</string>
+    <string name="privacy_phone_logoff_theme_service_introduce">"Você está prestes a cancelar os serviços do Temas."</string>
     <string name="privacy_phone_read_and_write_storage">Acessar o armazenamento</string>
     <string name="privacy_phone_read_and_write_storage_above_eleven">Acessar o armazenamento</string>
-    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Cancelation of Themes Services&lt;/a>&lt;/font>\"."</Data></string>
-    <string name="privacy_phone_read_theme_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Withdrawal of Consent to the Privacy Policy of Themes&lt;/a>&lt;/font>\"."</Data></string>
-    <string name="privacy_phone_revoke_agree_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
-    <string name="privacy_phone_revoke_agree_content_4">4. All the search history records, permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Make sure that you have the right to withdraw consent before you continue.
-2. Your withdrawal of consent to the Privacy Policy of Themes won't affect the normal usage of other Xiaomi products.
-3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.
-All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.
-All the search history records, permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-    <string name="privacy_phone_revoke_agree_detail_content_3">"4. After you withdraw your consent to the Privacy policy of Themes, we will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. 
-5. Withdrawal of consent does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to the withdrawal of consent."</string>
-    <string name="privacy_phone_revoke_agree_detail_prompt">Statement on the Withdrawal of Consent to the Privacy Policy of Themes</string>
-    <string name="privacy_phone_revoke_agree_detail_title">Read and agree to the \"Statement on the Withdrawal of Consent to the Privacy Policy of Themes\" before withdrawing your consent.</string>
-    <string name="privacy_phone_revoke_agree_introduce">"If you continue, you'll withdraw your consent to the Privacy Policy of Themes. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Themes provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Themes services."</string>
-    <string name="privacy_phone_update_content">Themes Privacy Policy was updated:</string>
-    <string name="privacy_read_statement">Agree to the terms and conditions first</string>
-    <string name="privacy_read_the_updated_privacy_policy_content">"Read and agree to the new version of &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Privacy Policy&lt;/font>&lt;/a> before you continue."</string>
-    <string name="privacy_reading_the_application_list">Access the list of apps installed on this device</string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre o Cancelamento de Serviços do Temas&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_phone_revoke_agree_content_3">3. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
+    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.
+2. A retirada do consentimento à Política de Privacidade do Temas não afetará o uso normal de outros produtos Xiaomi.
+3. A retirada do consentimento é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que seu consentimento for retirado. Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada do consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):"</string>
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Todos os pedidos (incluindo pedidos pagos) feitos em dispositivos Xiaomi onde você usou sua Conta Mi. Você não poderá mais usar os itens que comprou.
+Todas as informações sobre suas curtidas, comentários, avaliações e seguidores gerados nos dispositivos Xiaomi onde você usou sua Conta Mi.
+Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.
+Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens em cache gerados neste dispositivo.
+Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_3">"4. Após retirar o seu consentimento à Política de Privacidade do Temas, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. 
+5. A retirada do consentimento não implica isenção ou mitigação em relação às responsabilidades decorrentes de ações praticadas antes da retirada do consentimento."</string>
+    <string name="privacy_phone_revoke_agree_detail_prompt">Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas\" antes de retirar seu consentimento.</string>
+    <string name="privacy_phone_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Temas. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Temas fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços do Temas."</string>
+    <string name="privacy_phone_update_content">Política de Privacidade do Temas foi atualizada:</string>
+    <string name="privacy_read_statement">Concorde com os termos e condições primeiro</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">"Leia e concorde com a nova versão da &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a> antes de continuar."</string>
+    <string name="privacy_reading_the_application_list">Acesse a lista de apps instalados neste dispositivo</string>
     <string name="privacy_remind_user_mode_agree">Aceitar</string>
-    <string name="privacy_remind_user_mode_content"><Data>Agree to our Privacy Policy to use this feature. Read our &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/font> to learn how we collect, use, disclose, process, and store the personal information you provide to us when you use Themes.</Data></string>
+    <string name="privacy_remind_user_mode_content"><Data>Concorde com a nossa Política de Privacidade para usar este recurso. Leia a nossa &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a>&lt;/font> para saber como coletamos, usamos, divulgamos, processamos e armazenamos as informações pessoais que você nos fornece quando usa o Temas.</Data></string>
     <string name="privacy_remind_user_mode_title">Atenção!</string>
     <string name="privacy_revoke_agree_content">Retirada de consentimento</string>
-    <string name="privacy_revoke_agree_content_1">1. All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.</string>
-    <string name="privacy_revoke_agree_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.</string>
-    <string name="privacy_revoke_agree_content_5">5. All the personalization items currently used on this device. Default personalization preferences will be restored.</string>
-    <string name="privacy_revoke_agree_data_warning">The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):</string>
+    <string name="privacy_revoke_agree_content_1">1. Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi onde você usou sua Conta Mi. Você não poderá mais usar os itens que comprou.</string>
+    <string name="privacy_revoke_agree_content_2">2. Todas as informações sobre seus gostos, comentários, avaliações e seguidores gerados nos dispositivos Xiaomi onde você usou sua Conta Mi.</string>
+    <string name="privacy_revoke_agree_content_5">5. Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas.</string>
+    <string name="privacy_revoke_agree_data_warning">Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada do consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):</string>
     <string name="privacy_revoke_succeed">Retirou consentimento com sucesso</string>
     <string name="privacy_revoking_warning">Retirando consentimento…</string>
-    <string name="privacy_select_mode">Select mode</string>
-    <string name="privacy_select_mode_desc">"Since you haven't agreed to our Privacy Policy, select one of the following modes:"</string>
+    <string name="privacy_select_mode">Selecionar modo</string>
+    <string name="privacy_select_mode_desc">"Como você não concordou com a nossa Política de Privacidade, selecione um dos seguintes modos:"</string>
     <string name="privacy_settings">Privacidade</string>
     <string name="privacy_update_prompt_title">Política de Privacidade atualizada</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Make sure that you have the right to withdraw consent before you continue.
-2. Your withdrawal of consent to the Privacy Policy of Wallpaper and personalization won't affect the normal usage of other Xiaomi products.
-3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.
-All the wallpapers, fonts, and ringtones downloaded to this device.
-All the permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Depois de retirar o seu consentimento com a política de privacidade do Personalização, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário.
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.
+2. A retirada do consentimento com a Política de Privacidade do Plano de fundo e personalização não afetará o uso normal de outros produtos Xiaomi.
+3. A retirada do consentimento é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que seu consentimento for retirado. Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada do consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi onde você usou sua Conta Mi. Você não poderá mais usar os itens que comprou.
+Todas as informações sobre suas curtidas, comentários, avaliações e seguidores gerados nos dispositivos Xiaomi onde você usou sua conta Mi.
+Todos os planos de fundo, fontes e toques baixados para este dispositivo.
+Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.
+Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Depois de retirar o seu consentimento com a Política de Privacidade do Personalização, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário.
 5. A retirada do consentimento não implica isenção ou mitigação no que diz respeito às responsabilidades decorrentes de ações realizadas antes da retirada do consentimento."</string>
     <string name="provision_default_theme_title">Padrão</string>
     <string name="provision_loading_tips">Aguarde…</string>
@@ -1024,7 +1024,7 @@ All the personalization items currently used on this device. Default personaliza
     <string name="provision_title">Escolha um tema</string>
     <string name="prvicay_permission_not_allow_desc">"Este app precisa acessar o armazenamento para excluir todos os dados gerados neste dispositivo. Sem essa permissão, alguns dados não podem ser excluídos. Cancelar serviços mesmo assim?
 Você pode conceder essa permissão em Configurações > Privacidade."</string>
-    <string name="pull_down_view_error_message">Opa! Nenhuma conexão com a Internet encontrada. Verifique sua conexão ou tente novamente</string>
+    <string name="pull_down_view_error_message">Opa! Nenhuma conexão com a internet encontrada. Verifique sua conexão ou tente novamente.</string>
     <string name="pull_down_view_refresh">Atualizar</string>
     <string name="pull_down_view_title">O que há de novo</string>
     <string name="purchased">Pedidos</string>
@@ -1191,7 +1191,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_pack_warning">Você já comprou %1$d componentes neste tema. Será mais barato comprar os componentes restantes individualmente.</string>
     <string name="resource_present">Presente</string>
     <string name="resource_price_free">Grátis</string>
-    <string name="resource_price_unit"> Mi Credits</string>
+    <string name="resource_price_unit"> Mi Créditos</string>
     <string name="resource_purchase_common_error">Ocorreu um erro, tente novamente</string>
     <string name="resource_purchase_continue_to_pay">Continuar pagamento de %s</string>
     <string name="resource_purchase_getting_order">Recebendo informações do pedido…</string>
@@ -1228,7 +1228,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_selected">Destaque</string>
     <string name="resource_send">Enviar</string>
     <string name="resource_server_alert_dialog_title">Já estaremos de volta…</string>
-    <string name="resource_server_out_of_service">Infelizmente, nosso servidor está inoperante no momento.</string>
+    <string name="resource_server_out_of_service">Infelizmente, nosso servidor está fora do ar no momento.</string>
     <string name="resource_share_subject">Compartilhar tema: %1$s</string>
     <string name="resource_share_text">Aqui está um tema que você pode gostar: %1$s! Link: %2$s</string>
     <string name="resource_share_title">Compartilhar</string>
@@ -1309,17 +1309,17 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="settings">Configurações</string>
     <string name="settings_search_keyword_font_free">Fontes gratuitas</string>
     <string name="settings_search_keyword_font_home">Fontes da Tela inicial</string>
-    <string name="settings_search_keyword_font_input">Fontes de método de entrada</string>
+    <string name="settings_search_keyword_font_input">Fontes do método de entrada</string>
     <string name="settings_search_keyword_font_keyboard">Fontes do teclado</string>
     <string name="settings_search_keyword_font_manager">Gerenciar fontes</string>
     <string name="settings_search_keyword_font_online">Fontes online</string>
     <string name="settings_search_keyword_font_style">Formato da fonte</string>
     <string name="settings_search_keyword_font_wechat">Fontes do WeChat</string>
-    <string name="share_content_text_first_font">Confira! \"%1$s\" a fonte dá ao seu telefone um visual completamente novo.</string>
-    <string name="share_content_text_first_theme">Confira! \"%1$s\" o tema dá ao seu telefone um visual completamente novo.</string>
-    <string name="share_content_text_first_wallpaper">Confira! \"%1$s\" o plano de fundo dá ao seu telefone um visual completamente novo.</string>
+    <string name="share_content_text_first_font">Confira! \"%1$s\" a fonte dá ao seu dispositivo um visual completamente novo.</string>
+    <string name="share_content_text_first_theme">Confira! \"%1$s\" o tema dá ao seu dispositivo um visual completamente novo.</string>
+    <string name="share_content_text_first_wallpaper">Confira! \"%1$s\" o plano de fundo dá ao seu dispositivo um visual completamente novo.</string>
     <string name="share_content_text_second">" Encontre seu próprio estilo em %1$s!"</string>
-    <string name="share_content_topic">\#MIUIpersonalizar#</string>
+    <string name="share_content_topic">\#Temas Xiaomi#</string>
     <string name="share_copy_theme_url">Copiar URL do tema</string>
     <string name="share_copy_url_success">Copiado com sucesso</string>
     <string name="share_copy_wallpaper_url">Copiar URL do plano de fundo</string>
@@ -1327,7 +1327,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="share_save_success">Salvo com sucesso</string>
     <string name="share_save_to_photo">Galeria</string>
     <string name="share_theme_content_text">"Você pode baixar um tema incrível \"%1$s\" aqui: %2$s. De "</string>
-    <string name="share_vipaccount">Comunidade Mi</string>
+    <string name="share_vipaccount">Comunidade Xiaomi</string>
     <string name="share_wallpaper_content_text">"Você pode baixar um plano de fundo incrível \"%1$s\" aqui: %2$s. De "</string>
     <string name="shortcut_add">Adicionar</string>
     <string name="shortcut_cancel">Não, obrigado</string>
@@ -1356,7 +1356,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="still_apply">Aplicar</string>
     <string name="somatosensory_temperature_format">Sensação de %s°</string>
     <string name="storage_migration_exit_msg">Para tornar os temas compatíveis com as próximas versões do Android, movemos seus itens baixados para um novo local. Reinicie o app para aplicar as alterações e visualizar o conteúdo baixado.</string>
-    <string name="storage_permission_denied_desc">Permita que os Temas tenham acesso ao armazenamento para poder visualizar os itens</string>
+    <string name="storage_permission_denied_desc">Permita que o Temas tenha acesso ao armazenamento para poder visualizar os itens</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -1383,7 +1383,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="system_aod_dialog_message">Ative primeiro a Tela ambiente nas Configurações</string>
     <string name="system_aod_dialog_positive_button">Configurações</string>
     <string name="system_aod_dialog_title">A exibição está desativada</string>
-    <string name="system_cta_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
+    <string name="system_cta_agree_desc">Permita que este app conecte-se à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="system_cta_all_purpose">"Bem-vindo ao Temas! Você pode usar este app para gerenciar seus temas, planos de fundo, toques e fontes. "</string>
     <string name="system_cta_all_purpose_fold">Bem-vindo ao Personalização! Você pode usar este app para gerenciar seus temas de Tela ambiente, planos de fundo, toques e fontes.</string>
     <string name="system_cta_all_purpose_pad">Bem-vindo ao Personalização! Você pode usar este app para gerenciar seus planos de fundo, toques, ícones de app e fontes.</string>
@@ -1391,7 +1391,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="system_cta_retry_get_permission_btn_pad">Iniciar</string>
     <string name="system_cta_retry_get_permission_msg_pad">Permissões necessárias</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Para acessar o IMEI e fornecer serviços de download</string>
-    <string name="system_cta_runtime_perm_desc_read_phone_state">Acesse o ID do dispositivo para identificar seu dispositivo</string>
+    <string name="system_cta_runtime_perm_desc_read_phone_state">Acessar o ID do dispositivo para identificar seu dispositivo</string>
     <string name="system_cta_runtime_perm_desc_storage">Para usar os itens armazenados em seu dispositivo para personalização e salvar itens comprados</string>
     <string name="system_cta_runtime_perm_desc_storage_above_eleven">Para alterar as preferências de personalização</string>
     <string name="system_cta_runtime_perm_desc_storage_pad">Para usar os itens armazenados em seu dispositivo para personalização e salvar itens comprados</string>
@@ -1527,11 +1527,11 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="theme_user_agreement_content2">Acordo do Usuário</string>
     <string name="theme_user_agreement_content3">" e "</string>
     <string name="theme_user_agreement_content4">Política de Privacidade</string>
-    <string name="theme_user_agreement_content5">". Este app precisa conectar-se à Internet para funcionar normalmente. "</string>
+    <string name="theme_user_agreement_content5">". Este app precisa conectar-se à internet para funcionar normalmente. "</string>
     <string name="theme_user_agreement_exit">Recusar</string>
     <string name="theme_user_agreement_remind_again">Mostrar Contrato do Usuário</string>
     <string name="theme_user_agreement_remind_never">Não mostrar novamente</string>
-    <string name="theme_user_agreement_remind_summary">Exibe um pop-up do Contrato do Usuário sempre que o app de Temas for aberto. Esta configuração tem efeito na reinicialização do dispositivo.</string>
+    <string name="theme_user_agreement_remind_summary">Exibe um pop-up do Contrato do Usuário sempre que o app Temas for aberto. Esta configuração tem efeito ao reiniciar o dispositivo.</string>
     <string name="theme_user_agreement_title">Contrato do Usuário</string>
     <string name="theme_version_need_update_prompt_dialog_content">Atualize o app Temas para a versão %s ou posterior para continuar</string>
     <string name="theme_wallpaper">Categoria de planos de fundo</string>
@@ -1548,7 +1548,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="title_my_audio_resource">Meus toques</string>
     <string name="title_my_miwallpaper_desktop_effects">Efeitos de tela</string>
     <string name="title_my_miwallpaper_resource">Meus planos de fundo dinâmicos</string>
-    <string name="title_my_miwallpaper_video_file_resource">Meus Planos de fundo em vídeo</string>
+    <string name="title_my_miwallpaper_video_file_resource">Meus planos de fundo em vídeo</string>
     <string name="title_my_wallpaper">Meus planos de fundo</string>
     <string name="title_my_wallpaper_resource">Meus planos de fundo</string>
     <string name="title_system_audio_alarm_resource">Alarmes do sistema</string>
@@ -1563,7 +1563,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="toast_lockscreen_apply_failured">Não foi possível aplicar à Tela de bloqueio</string>
     <string name="toast_lockscreen_apply_failured_but_home_apply_success">Aplicado à Tela inicial com sucesso, mas não foi possível aplicar à Tela de bloqueio.</string>
     <string name="toast_lockscreen_apply_success">Aplicado à Tela de bloqueio com sucesso</string>
-    <string name="toast_lockscreen_apply_success_but_home_apply_failured">Aplicado à Tela de bloqueio com sucesso, mas não foi possível aplicar à Tela inicial</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">Aplicado à Tela de bloqueio com sucesso, mas não foi possível aplicar à Tela inicial.</string>
     <string name="toast_transparent_wallpaper_filter_set_failured">Não foi possível aplicar</string>
     <string name="toast_transparent_wallpaper_filter_set_successfully">Aplicado com sucesso</string>
     <string name="today">Hoje</string>
@@ -1584,7 +1584,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="transparent_wallpaper_filter_set_successfully">Aplicado com sucesso</string>
     <string name="transparent_wallpaper_filter_setting">Apps individuais</string>
     <string name="transparent_wallpaper_guide">Vá para Temas</string>
-    <string name="transparent_wallpaper_guide_tip">Você pode selecionar um plano de fundo transparente em Temas agora.</string>
+    <string name="transparent_wallpaper_guide_tip">Você pode selecionar um plano de fundo transparente no Temas agora.</string>
     <string name="transparent_wallpaper_is_running_in_background">Plano de fundo transparente está sendo executado em segundo plano</string>
     <string name="transparent_wallpaper_pref_summary">Planos de fundo com redução na opacidade do plano de fundo</string>
     <string name="transparent_wallpaper_white_wallpaper">Tornar o fundo branco</string>
@@ -1613,7 +1613,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="update_btn">ATUALIZAR AGORA</string>
     <string name="update_check">Procurar por atualizações</string>
     <string name="update_checking">Procurando por atualizações…</string>
-    <string name="update_community_tip">Atualize a Comunidade Mi para poder usar este recurso</string>
+    <string name="update_community_tip">Atualize a Comunidade Xiaomi para poder usar este recurso</string>
     <string name="update_downloading">Baixando atualização…</string>
     <string name="update_fail">Não foi possível obter informações. Tente novamente.</string>
     <string name="update_flag">Atualizar</string>
@@ -1629,8 +1629,8 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="using_theme_show_ad">Recomendações</string>
     <string name="uvi_format">IUV %1$s %2$s</string>
     <string name="uvi_format_desc">Índice ultravioleta: %1$s, %2$s</string>
-    <string name="v7_preference_off">Desativado</string>
-    <string name="v7_preference_on">Ativado</string>
+    <string name="v7_preference_off">DESATIVADO</string>
+    <string name="v7_preference_on">ATIVADO</string>
     <string name="version_update">Verifique se há atualizações</string>
     <string name="video_ad_click">Testar agora</string>
     <string name="video_ad_try_for_free">Avaliação gratuita</string>
@@ -1652,7 +1652,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_apply_inner">Aplicar à tela interna</string>
     <string name="wallpaper_apply_large">Tela interna</string>
     <string name="wallpaper_apply_outer">Aplicar à tela externa</string>
-    <string name="wallpaper_apply_outer_and_inner">Aplique em Telas internas e externas</string>
+    <string name="wallpaper_apply_outer_and_inner">Aplique em telas internas e externas</string>
     <string name="wallpaper_apply_pcmode">Definir plano de fundo do Modo PC</string>
     <string name="wallpaper_apply_small">Tela externa</string>
     <string name="wallpaper_crop">Cortar</string>
@@ -1728,7 +1728,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_subject_version">MI</string>
     <string name="warning_miui_optimization_closed_dialog_agree">Configurações</string>
     <string name="warning_miui_optimization_closed_dialog_disagree">Aplicar</string>
-    <string name="warning_miui_optimization_closed_dialog_message">"Parece que você não ativou a otimização do HyperOS. Sem ela, este tema não funcionará corretamente quando aplicado. Você pode aplicá-lo de qualquer maneira ou ativar a otimização do HyperOS em Configurações."</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Parece que você não ativou a otimização do HyperOS. Sem ela, este tema não funcionará corretamente quando aplicado. Você pode aplicá-lo de qualquer maneira ou ativar a otimização do HyperOS nas Configurações."</string>
     <string name="warning_miui_optimization_closed_dialog_title">Atenção!</string>
     <string name="warning_subscribe_wallpaper_group_content">"Você ativou a apresentação de slides na Tela inicial. %1$s será aplicado à sua Tela inicial."</string>
     <string name="weather_no_data">Não há dados meteorológicos</string>
@@ -1739,7 +1739,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Cancelar</string>
     <string name="wifi_check_confirm">Confirmar</string>
-    <string name="wifi_check_message">Usar os dados móveis para o download de atualizações?</string>
+    <string name="wifi_check_message">Usar os dados móveis para baixar atualizações?</string>
     <string name="wifi_check_tip">Não mostrar novamente</string>
     <string name="wind_direction_0">Vento N</string>
     <string name="wind_direction_1">Vento NL</string>
@@ -1756,7 +1756,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wind_format">%1$s | Nível %2$s</string>
     <string name="xiaoai_speech_not_installed_download">Baixar</string>
     <string name="xiaoai_speech_not_installed_message">Baixe e instale o Assistente de Voz Mi AI para continuar.</string>
-    <string name="xiaoai_speech_not_installed_title">O Assistente de voz Mi AI não está instalado.</string>
+    <string name="xiaoai_speech_not_installed_title">O Assistente de Voz Mi AI não está instalado.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>

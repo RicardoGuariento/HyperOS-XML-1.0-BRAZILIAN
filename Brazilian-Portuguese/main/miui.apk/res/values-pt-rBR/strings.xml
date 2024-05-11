@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Navegar para o início</string>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="action_mode_deselect_all">Desmarcar</string>
     <string name="action_mode_select_all">Selecionar todos</string>
@@ -34,17 +34,17 @@
     <string name="com_miui_health">Mi Saúde</string>
     <string name="com_miui_huanji">"Mi Mover"</string>
     <string name="com_miui_notes">Notas</string>
-    <string name="com_miui_screenrecorder">Gravador de tela</string>
+    <string name="com_miui_screenrecorder">Gravador de Tela</string>
     <string name="com_miui_virtualsim">"Mi Roaming"</string>
     <string name="com_miui_weather2">Clima</string>
     <string name="com_xiaomi_calendar">Agenda</string>
     <string name="com_xiaomi_drivemode">Modo carro</string>
     <string name="com_xiaomi_gamecenter">Jogos</string>
-    <string name="com_xiaomi_jr">"Mi Finance"</string>
+    <string name="com_xiaomi_jr">"Mi Finaças"</string>
     <string name="com_xiaomi_midrop">Compartilhamento Mi</string>
     <string name="com_xiaomi_scanner">"Scanner"</string>
-    <string name="com_xiaomi_shop">"Mi Store"</string>
-    <string name="com_xiaomi_vipaccount">Mi Comunidade</string>
+    <string name="com_xiaomi_shop">"Loja Mi"</string>
+    <string name="com_xiaomi_vipaccount">Xiaomi Community</string>
     <string name="com_xiaomi_youpin">"Youpin"</string>
     <string name="confirm_description">Confirmar</string>
     <string name="copyright">Direitos autorais</string>
@@ -338,7 +338,7 @@
     <string name="hybrid_provider">Fornecido por %1$s</string>
     <string name="im">"IM"</string>
     <string name="immersion_button_close_description">Fechar</string>
-    <string name="instruction">Informações Importantes sobre Segurança</string>
+    <string name="instruction">Informações importantes sobre segurança</string>
     <string name="label">SDK do Sistema</string>
     <string name="midnight">"AM"</string>
     <string name="mobile_data_consume">Baixar os itens agora requer o uso de %1$s MB de dados móveis. Baixar mesmo assim?</string>

@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -103,8 +103,8 @@
     <string name="aqi_quality_detail_24_hours">Previsão de 24 horas</string>
     <string name="aqi_quality_detail_48_hours">Previsão de 48 horas</string>
     <string name="aqi_quality_detail_5_days">Previsão de 5 dias</string>
-    <string name="aqi_quality_major_pollutants">Major pollutants</string>
-    <string name="aqi_quality_map_title">Air quality map</string>
+    <string name="aqi_quality_major_pollutants">Principais poluentes</string>
+    <string name="aqi_quality_map_title">Mapa da qualidade do ar</string>
     <string name="aqi_quality_no2_desc">Dióxido de nitrogênio</string>
     <string name="aqi_quality_no2_pad">"NO₂: %1$s"</string>
     <string name="aqi_quality_o3_desc">Ozônio</string>
@@ -122,7 +122,7 @@
     <string name="aqi_sub_desc">IQA</string>
     <string name="aqi_title_pad">IQA: %1$s</string>
     <string name="aqi_top_pollution">Principais poluentes</string>
-    <string name="background_location_dialog_msg">"Para garantir que este app sempre use informações de localização precisas, permita que ele acesse sua localização quando estiver sendo executado em segundo plano. Você pode conceder essa permissão em Configurações."</string>
+    <string name="background_location_dialog_msg">"Para garantir que este app sempre use informações de localização precisas, permita que ele acesse sua localização quando estiver sendo executado em segundo plano. Você pode conceder essa permissão nas Configurações."</string>
     <string name="background_location_dialog_open_button">Configurações</string>
     <string name="background_location_dialog_title">Permissões necessárias</string>
     <string name="button_abandon">Descartar mudanças</string>
@@ -162,7 +162,7 @@
     <string name="common_open_on_phone">Abrir no smartphone</string>
     <string name="common_signin_button_text">Fazer login</string>
     <string name="common_signin_button_text_long">Fazer login com o Google</string>
-    <string name="connect_fail">Não foi possível conectar-se à rede, tente novamente</string>
+    <string name="connect_fail">Não foi possível conectar-se à rede, tente novamente.</string>
     <string name="content_desc_activity_main_add_city">Adicionar cidade</string>
     <string name="content_desc_activity_main_add_city_manage">Gerenciar cidades</string>
     <string name="content_desc_activity_main_more_settings">Mais configurações</string>
@@ -193,7 +193,7 @@ Puxe para baixo para atualizar ou verificar as configurações de rede"</string>
     <string name="dialog_msg_score_midrop">Como você se sente em relação ao app Clima?</string>
     <string name="dialog_msg_score_not_good">Você poderia nos fornecer seu feedback também?</string>
     <string name="dialog_msg_score_perfect">Legal! Também avaliar o Clima na Play Store?</string>
-    <string name="dialog_privacy_policy_update_msg">"A Política de Privacidade Meteorológica foi atualizada:
+    <string name="dialog_privacy_policy_update_msg">"A Política de Privacidade do Clima foi atualizada:
 %1$s
 Leia e concorde com a nova versão de %2$s antes de continuar."</string>
     <string name="dialog_privacy_policy_update_next_msg">"Você não poderá continuar usando nossos serviços a menos que concorde com a nova versão da %1$s. Aceitar a Política de Privacidade atualizada?"</string>
@@ -264,7 +264,7 @@ Leia e concorde com a nova versão de %2$s antes de continuar."</string>
     <string name="feedback_rain_forecast_title">Previsão de precipitação</string>
     <string name="feedback_rain_inaccurate">Impreciso</string>
     <string name="feedback_realtime_button_text">"Feedback"</string>
-    <string name="feedback_report_moji_privacy">Política de privacidade do Clima Moji</string>
+    <string name="feedback_report_moji_privacy">Política de Privacidade do Clima Moji</string>
     <string name="feedback_report_privacy_msg">Para corrigir informações do clima, seu feedback junto com suas coordenadas atuais serão compartilhados com Moji Weather (%1$s). Suas coordenadas serão usadas apenas para corrigir informações do clima.</string>
     <string name="feedback_result_fail_no_choice">Escolha as condições atuais do clima</string>
     <string name="feedback_result_fail_no_reason">Obrigado pelo seu feedback!</string>
@@ -275,7 +275,7 @@ Leia e concorde com a nova versão de %2$s antes de continuar."</string>
     <string name="feedback_temperature_subtitle">Atualmente exibindo: %1$s°</string>
     <string name="feedback_temperature_title">Temperatura</string>
     <string name="feedback_weather">Feedback meteorológico</string>
-    <string name="first_start_network_title">Conexão com a Internet e acesso à localização</string>
+    <string name="first_start_network_title">Conexão com a internet e acesso à localização</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -456,10 +456,10 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="network_not_available">"Não é possível conectar-se à rede"</string>
     <string name="network_unavailable">Não é possível conectar-se à rede.</string>
     <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
-    <string name="news_tips_net_error">A rede não está disponível, verifique a rede e tente novamente</string>
+    <string name="news_tips_net_error">A rede não está disponível, verifique a rede e tente novamente.</string>
     <string name="news_tips_no_data">Sem novas informações</string>
     <string name="night">"PM"</string>
-    <string name="night_not_disturb_settings_summary">Silenciar alertas entre 23:00 e 07:00</string>
+    <string name="night_not_disturb_settings_summary">Silencie alertas entre 23:00 e 07:00</string>
     <string name="night_not_disturb_settings_title">Não perturbar à noite</string>
     <string name="no_data">Nenhum dado</string>
     <string name="no_internet_message">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
@@ -565,8 +565,8 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="setting_get_location">Acesso a localização</string>
     <string name="setting_not_allowed">Não permitido</string>
     <string name="setting_notification_manager">Notificações</string>
-    <string name="setting_permission_description">Permissions details</string>
-    <string name="setting_privacy">Privacy</string>
+    <string name="setting_permission_description">Detalhes das permissões</string>
+    <string name="setting_privacy">Privacidade</string>
     <string name="setting_privacy_policy_withdrawal_of_Consent">Retirada do consentimento</string>
     <string name="setting_read_and_write_phone_storage">Acessar armazenamento</string>
     <string name="setting_read_privacy_policy">Ver Política de Privacidade</string>
@@ -579,7 +579,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="settings_atmospheric_pressure_inhg">Polegada de mercúrio (inHg)</string>
     <string name="settings_atmospheric_pressure_mbar">Millibar (mbar)</string>
     <string name="settings_atmospheric_pressure_mmhg">Milímetro de mercúrio (mmHg)</string>
-    <string name="settings_atmospheric_pressure_title">Unidades de pressão atmosférica</string>
+    <string name="settings_atmospheric_pressure_title">Unidade de pressão atmosférica</string>
     <string name="share">Compartilhar</string>
     <string name="share_button">Compartilhar</string>
     <string name="share_menu_title">Compartilhar</string>
@@ -700,14 +700,14 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="unit">Unidades</string>
     <string name="unit_temperature">Unidade de temperatura</string>
     <string name="unit_wind">Unidade de velocidade do vento</string>
-    <string name="update_night_setting_summary_text">Atualizar informações de clima entre 23:00 e 07:00</string>
+    <string name="update_night_setting_summary_text">Atualize as informações do clima entre 23:00 e 07:00</string>
     <string name="update_night_setting_title_text">Atualizar automaticamente à noite</string>
     <string name="update_notification_info">Atualizando dados em segundo plano…</string>
     <string name="update_setting_title_text">Atualizar informações do clima</string>
     <string name="updated_a_moment_ago">Atualizado agora há pouco</string>
     <string name="updating">Atualizando…</string>
     <string name="user_agreement">Contrato do Usuário</string>
-    <string name="user_notice">Atenção!!</string>
+    <string name="user_notice">Atenção!</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="video_dialog_subtitle">"Você está usando dados móveis. Reproduzir vídeo mesmo assim?"</string>

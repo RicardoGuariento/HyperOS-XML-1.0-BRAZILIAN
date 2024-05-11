@@ -343,7 +343,7 @@ As melhores fotos foram selecionadas automaticamente. Você pode adicionar mais 
     <string name="alert_secret_google_error">"Não foi possível excluir itens. Tente excluí-los do Google Fotos."</string>
     <string name="alert_secret_nonet_error">"Não foi possível conectar-se à rede"</string>
     <string name="alert_selection_description">O sistema analisará fotos similares e marcará as melhores fotos para você.</string>
-    <string name="alert_selection_title">Selecione a melhor foto</string>
+    <string name="alert_selection_title">Selecionar a melhor foto</string>
     <string name="all_faces">Fotos com esta pessoa</string>
     <string name="all_items_synced">Todos os álbuns foram sincronizados com a nuvem</string>
     <string name="all_story_empty_desc">Ainda não há memórias aqui</string>
@@ -1611,7 +1611,7 @@ estão disponíveis"</string>
     <string name="magic_matting_face_fail">Não foi possível processar o rosto</string>
     <string name="magic_matting_load_data_fail">Não foi possível carregar os dados</string>
     <string name="magic_matting_module_failed">Não foi possível carregar o plugin. Verifique sua conexão à internet.</string>
-    <string name="magic_matting_module_finish">Plugin de \"Magia\" baixado com sucesso</string>
+    <string name="magic_matting_module_finish">Plugin \"Magia\" baixado com sucesso</string>
     <string name="magic_matting_module_loading">Baixando o plugin \"Magia\"…</string>
     <string name="magic_max_px">Esta imagem é muito grande</string>
     <string name="magic_mix_px">A imagem é muito pequena</string>
@@ -1743,6 +1743,7 @@ para personalizar a Galeria"</string>
     <string name="migrate_gp_msg_link">Ver detalhes</string>
     <string name="migrate_gp_title">A sincronização com a nuvem não está mais disponível</string>
     <string name="migrate_msg">Alguns álbuns requerem permissões para mover itens após uma atualização do sistema.</string>
+    <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
     <string name="miplay_adjust_volume">Ajuste o volume para %d</string>
     <string name="miplay_circulate_failed">Não foi possível transmitir a reprodução. Tente novamente mais tarde</string>
     <string name="miplay_circulating_msg">Transmitido o vídeo…</string>
@@ -1974,7 +1975,7 @@ para personalizar a Galeria"</string>
     <string name="ocr_save_to_note">Salvar</string>
     <string name="ocr_save_to_note_new">Salvar em Notas</string>
     <string name="ocr_send">Compartilhar</string>
-    <string name="ocr_switch_hint">Reconhecer o texto exibido nas imagens para poder selecioná-lo ou agir</string>
+    <string name="ocr_switch_hint">Reconheça o texto exibido nas imagens para poder selecioná-lo ou agir</string>
     <string name="ocr_switch_title">Reconhecer texto em imagens</string>
     <string name="ocr_text_copied">Copiado com sucesso</string>
     <string name="ocr_text_copied_selected">Copiado com sucesso</string>
@@ -2289,7 +2290,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="permission_post_notification_desc">Para enviar notificações sobre álbuns compartilhados e atualizar o status de sincronização</string>
     <string name="permission_read_media_images_desc">Para acessar e salvar fotos e vídeos enquanto usa a Galeria</string>
     <string name="permission_require_category">Permissões obrigatórias</string>
-    <string name="permission_storage_desc">Para armazenar, exibir, editar, sincronizar e baixar suas fotos e vídeos</string>
+    <string name="permission_storage_desc">Para armazenar, exibir, editar, sincronizar e baixar suas fotos e vídeos.</string>
     <string name="permission_storage_name">Armazenamento</string>
     <string name="permission_storage_name_2">Acessar e salvar fotos e arquivos no dispositivo</string>
     <string name="permission_use_desc">Permissões</string>
@@ -2447,7 +2448,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_vlog_module_loading">Baixando editor de vídeos…</string>
     <string name="photodetail_failed_already_exist">Este arquivo já existe</string>
     <string name="photodetail_rename_failed">Não foi possível renomear</string>
-    <string name="photodetail_rename_invalid">"Nomes de arquivos não podem conter estes caracteres: /\\:*?&lt;>|.\""</string>
+    <string name="photodetail_rename_invalid">"Os nomes de arquivos não podem conter \"%s\". Você pode usar letras inglesas, caracteres chineses e números para nomear arquivos."</string>
+    <string name="photodetail_rename_invalid_prefix">"Os nomes de arquivos não podem começar com \".\""</string>
     <string name="photodetail_rename_success">Renomeado com sucesso</string>
     <string name="photodetail_rename_title">Renomear</string>
     <string name="photodetail_rename_too_long">O nome inserido para o arquivo é muito longo</string>
@@ -3402,6 +3404,8 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="tip_file_info">Info. do arquivo:</string>
     <string name="tip_file_path">Caminho:</string>
     <string name="tip_leica_authentic">Leica Autêntico</string>
+    <string name="tip_leica_master_portrait">Retrato Master</string>
+    <string name="tip_leica_portrait">Leica Retrato</string>
     <string name="tip_leica_vibrant">Leica Vibrante</string>
     <string name="tip_not_download">O item não está no dispositivo. Ele será baixado da MiCloud durante a reprodução.</string>
     <string name="tip_screenshot_package_info">Nome do app:</string>
@@ -3927,7 +3931,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="voice_assistant">Entrada de voz</string>
     <string name="watch_all_photo">Galeria</string>
     <string name="watermark_enter">"Marca d'água de proteção"</string>
-    <string name="watermark_summary">"Reconhecer fotos de identidades armazenadas neste dispositivo e receber solicitações para adicionar marcas d'água de proteção"</string>
+    <string name="watermark_summary">"Reconheça fotos de identidades armazenadas neste dispositivo e receba solicitações para adicionar marcas d'água de proteção"</string>
     <string name="watermark_title">"Marca d'água de proteção"</string>
     <string name="web_sso_login_fail">Você precisa entrar novamente</string>
     <string name="web_sso_login_message">Entrando…</string>

@@ -166,7 +166,7 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">A correção de cores pode ser útil quando você deseja:&lt;br/>&lt;ol>&lt;li> Ver as cores com mais precisão&lt;/li>&lt;li> Remover cores para ajudá-lo a se concentrar&lt;/li>&lt;/ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_display_inversion_preference_intro_text">A inversão de cores torna as telas claras em escuras. Ele também transforma telas escuras em claras.</string>
-    <string name="accessibility_display_inversion_preference_subtitle">&lt;b>Tenha em mente&lt;/b>&lt;br/> &lt;ol> &lt;li> As cores mudarão na mídia e nas imagens&lt;/li> &lt;li> A inversão de cores funciona em todos os apps&lt;/li> &lt;li> Para exibir um fundo escuro, o tema Escuro pode ser usado&lt;/li> &lt;/ol></string>
+    <string name="accessibility_display_inversion_preference_subtitle">&lt;b>Tenha em mente&lt;/b>&lt;br/> &lt;ol> &lt;li> As cores mudarão na mídia e nas imagens&lt;/li> &lt;li> A inversão de cores funciona em todos os apps&lt;/li> &lt;li> Para exibir um fundo escuro, o Tema escuro pode ser usado&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_inversion_preference_title">Inversão de cores</string>
     <string name="accessibility_display_inversion_shortcut_title">Atalho de inversão de cores</string>
     <string name="accessibility_display_inversion_switch_title">Usar inversão de cores</string>
@@ -1356,7 +1356,7 @@ Os backups são armazenados na MiCloud e podem ser acessados pela internet. Esse
     <string name="battery_saver_schedule_settings_title">Definir uma programação</string>
     <string name="battery_saver_seekbar_title">Em %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Ativar</string>
-    <string name="battery_saver_sticky_description_new">A economia de bateria é desativada quando a bateria atinge %1$s</string>
+    <string name="battery_saver_sticky_description_new">A Economia de bateria é desativada quando a bateria atinge %1$s</string>
     <string name="battery_saver_sticky_title_new">Desativar quando estiver carregado</string>
     <string name="battery_saver_sticky_title_percentage">Desligar em %1$s</string>
     <string name="battery_saver_turn_on_automatically_never">Nunca</string>
@@ -1741,7 +1741,7 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_details_spatial_audio_title">Áudio espacial</string>
     <string name="bluetooth_device">Dispositivo Bluetooth sem nome</string>
     <string name="bluetooth_device_address">"Endereço: "</string>
-    <string name="bluetooth_device_advanced_enable_opp_title">Permitir transfer. de arquivo</string>
+    <string name="bluetooth_device_advanced_enable_opp_title">Permitir transferência de arquivo</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Conecta ao dispositivo Bluetooth</string>
     <string name="bluetooth_device_advanced_online_mode_title">Conectar</string>
     <string name="bluetooth_device_advanced_profile_header_title">Usar para</string>
@@ -2103,7 +2103,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bluetooth_system_sounds_title">Notificações e outros sons do sistema</string>
     <string name="bluetooth_talkback_bluetooth">"Bluetooth"</string>
     <string name="bluetooth_talkback_computer">Computador</string>
-    <string name="bluetooth_talkback_group">Grupo de Dispositivos</string>
+    <string name="bluetooth_talkback_group">Grupo de dispositivos</string>
     <string name="bluetooth_talkback_headphone">Fones de ouvido</string>
     <string name="bluetooth_talkback_headset">Fone de ouvido</string>
     <string name="bluetooth_talkback_imaging">Imagens</string>
@@ -2352,7 +2352,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="ca_certificate">Certificado de CA</string>
     <string name="ca_certificate_warning_description">"Os certificados de CA são usados por sites, apps e VPNs para criptografia. Instale apenas os certificados de CA de organizações em que você confia. 
 
- Se você instalar um certificado de CA, o proprietário do certificado poderá acessar seus dados, como senhas ou detalhes do cartão de crédito, nos sites visitados ou apps usados, mesmo que esses dados estejam criptografados."</string>
+Se você instalar um certificado de CA, o proprietário do certificado poderá acessar seus dados, como senhas ou detalhes do cartão de crédito, nos sites visitados ou apps usados, mesmo que esses dados estejam criptografados."</string>
     <string name="ca_certificate_warning_title">Seus dados não serão particulares</string>
     <string name="cache_header_label">Cache (memória temporária)</string>
     <string name="cache_size_label">Cache (memória temporária)</string>
@@ -2397,7 +2397,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="calls_sms_footnote">Com o chamado Wi-Fi, as chamadas são feitas e recebidas por redes Wi-Fi não-transportadoras. <annotation id="url">Saiba mais</annotation></string>
     <string name="calls_sms_no_sim">Sem SIM</string>
     <string name="calls_sms_preferred">Preferida</string>
-    <string name="calls_sms_sms_preferred">preferido para SMS</string>
+    <string name="calls_sms_sms_preferred">Preferido para SMS</string>
     <string name="calls_sms_temp_unavailable">Temporariamente indisponível</string>
     <string name="calls_sms_unavailable">Indisponível</string>
     <string name="calls_sms_wfc_summary">Fazer e receber chamadas sobre Wi-Fi</string>
@@ -2995,7 +2995,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="daltonizer_mode_deuteranomaly_summary">Vermelho-verde</string>
     <string name="daltonizer_mode_deuteranomaly_title">Deuteranomalia</string>
     <string name="daltonizer_mode_disabled">Desativado</string>
-    <string name="daltonizer_mode_grayscale_title">Escala de cinza.</string>
+    <string name="daltonizer_mode_grayscale_title">Escala de cinza</string>
     <string name="daltonizer_mode_monochromacy">Monocromacia</string>
     <string name="daltonizer_mode_protanomaly">Protanomalia (vermelho-verde)</string>
     <string name="daltonizer_mode_protanomaly_summary">Vermelho-verde</string>
@@ -3027,7 +3027,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="dark_mode_display_enable_summary">Mude para uma interface com pouca luz que exibe principalmente superfícies escuras</string>
     <string name="dark_mode_font_background_title">Ajustar texto e fundos automaticamente</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">Entendi</string>
-    <string name="dark_mode_power_save_alert_dialog_message">"Se você desativar a otimização do sistema e ativar a Economia de bateria, o modo escuro será ativado automaticamente. Para desativar o modo escuro, desative a Economia de bateria ou ative a otimização do sistema em Configurações &gt; Opções do desenvolvedor &gt; Ativar otimização do sistema."</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Se você desativar a otimização do sistema e ativar a Economia de bateria, o Modo escuro será ativado automaticamente. Para desativar o Modo escuro, desative a Economia de bateria ou ative a otimização do sistema em Configurações &gt; Opções do desenvolvedor &gt; Ativar otimização do sistema."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Modo escuro</string>
     <string name="dark_mode_settings">Opções do Modo escuro</string>
     <string name="dark_mode_time_settings">Alternar para o Modo escuro</string>
@@ -3104,8 +3104,8 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="data_usage_app_info_label">INFORMAÇÕES DE APPS</string>
     <string name="data_usage_app_items_header_text">Uso de apps</string>
     <string name="data_usage_app_restrict_background">Dados em segundo plano</string>
-    <string name="data_usage_app_restrict_background_summary">Ativar o uso de dados móveis em segundo plano</string>
-    <string name="data_usage_app_restrict_background_summary_disabled">Definir um limite de dados para restringir dados em 2º plano</string>
+    <string name="data_usage_app_restrict_background_summary">Ativa o uso de dados móveis em segundo plano</string>
+    <string name="data_usage_app_restrict_background_summary_disabled">Defina um limite de dados para restringir dados em 2º plano</string>
     <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que um app que depende de dados de segundo plano pare de funcionar quando somente redes de acesso limitado estiverem disponíveis.
 
 Você pode encontrar controles de uso de dados mais apropriados nas configurações disponíveis no app."</string>
@@ -3114,7 +3114,7 @@ Você pode encontrar controles de uso de dados mais apropriados nas configuraç�
     <string name="data_usage_app_settings">Configurar app</string>
     <string name="data_usage_app_summary_title">Dados móveis e Wi-Fi</string>
     <string name="data_usage_auto_sync_off_dialog">Isto preservará o uso de dados e da bateria, mas será necessário sincronizar manualmente cada conta para obter as informações mais recentes, e você não será informado de novas atualizações.</string>
-    <string name="data_usage_auto_sync_off_dialog_title">Desativar sincroniz. automática?</string>
+    <string name="data_usage_auto_sync_off_dialog_title">Desativar sincronização automática?</string>
     <string name="data_usage_auto_sync_on_dialog">"As alterações feitas em suas contas na Web serão automaticamente copiadas para o dispositivo.
 
 Algumas contas também poderão copiar automaticamente as alterações feitas no dispositivo para a Web. É assim que funciona uma Conta do Google."</string>
@@ -3271,7 +3271,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="debug_view_attributes">Ativar visualização de atributos</string>
     <string name="decline_remote_bugreport_action">Recusar</string>
     <string name="decryption_settings_summary">O dispositivo não está criptografado</string>
-    <string name="defalut_launcher_title">Tela inicial padrão</string>
+    <string name="defalut_launcher_title">Launcher</string>
     <string name="default_active_sim_calls">chamadas</string>
     <string name="default_active_sim_mobile_data">dados móveis</string>
     <string name="default_active_sim_sms">"SMS"</string>
@@ -3342,7 +3342,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="desc_cloned_apps_intro_text">Crie uma segunda instância de um app para poder usar duas contas ao mesmo tempo.</string>
     <string name="desc_introduction_of_language_picker">Seu sistema, apps e sites usam o primeiro idioma compatível de seus idiomas preferidos.</string>
     <string name="desc_locale_helper_footer_general">Saiba mais sobre idiomas de apps</string>
-    <string name="desc_no_available_supported_locale">A seleção de idioma para este app não está disponível em Configurações.</string>
+    <string name="desc_no_available_supported_locale">A seleção de idioma para este app não está disponível nas Configurações.</string>
     <string name="desc_notice_device_locale_settings_change">As configurações do seu dispositivo e as preferências regionais serão alteradas.</string>
     <string name="desc_notice_of_language_picker">Para selecionar um idioma para cada app, acesse as configurações de idioma do app.</string>
     <string name="desc_regional_pref_footer_learn_more">Saiba mais sobre preferências de idioma.</string>
@@ -3515,8 +3515,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="disableNetwork">Desativar rede</string>
     <string name="disable_overlays">Desativar sobreposição HW</string>
     <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
-    <string name="disable_phantom_process_monitor_summary">Desabilitar restrições sobre o uso de recursos do sistema dos processos filhos do app</string>
-    <string name="disable_phantom_process_monitor_title">Desabilitar restrições de processos filhos</string>
+    <string name="disable_phantom_process_monitor_summary">Desativa restrições sobre o uso de recursos do sistema dos processos filhos do app</string>
+    <string name="disable_phantom_process_monitor_title">Desativar restrições de processos filhos</string>
     <string name="disable_power_key_long_press_under_keyguard">Desativar o menu do botão [Liga/Desliga]</string>
     <string name="disable_quick_start">Desativar o início rápido</string>
     <string name="disable_service_message">Se você tocar em %1$s, o %2$s será interrompido.</string>
@@ -3721,8 +3721,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dpp_sharing_wifi_summary">Compartilhando Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi compartilhado</string>
     <string name="draw_overlay">Sobrepor a outros apps</string>
-    <string name="dream_complication_title_aqi">Qualidade do Ar</string>
-    <string name="dream_complication_title_cast_info">Cast Info</string>
+    <string name="dream_complication_title_aqi">Qualidade do ar</string>
+    <string name="dream_complication_title_cast_info">Informações de transmissão</string>
     <string name="dream_complication_title_date">Data</string>
     <string name="dream_complication_title_time">Tempo</string>
     <string name="dream_complication_title_weather">Clima</string>
@@ -3753,8 +3753,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_cdma_sim_warning_notification_channel_title">Combinação de chips</string>
     <string name="dual_cdma_sim_warning_notification_summary">Usar a %1$s pode limitar a funcionalidade. Toque para saber mais.</string>
     <string name="dual_clock">Relógio duplo</string>
-    <string name="dual_clock_aod_open_message">O relógio duplo será exibido na Tela de bloqueio, Tela inicial e Tela desligada.</string>
-    <string name="dual_clock_hint">O relógio duplo requer o uso do widget de relógio e o tema padrão do sistema</string>
+    <string name="dual_clock_aod_open_message">O Relógio duplo será exibido na Tela de bloqueio, Tela inicial e tela desligada.</string>
+    <string name="dual_clock_hint">O Relógio duplo requer o uso do widget de relógio e o tema padrão do sistema</string>
     <string name="dual_clock_ok">Entendi</string>
     <string name="dual_clock_open_message">O Relógio duplo será exibido na Tela de bloqueio, Tela inicial.</string>
     <string name="dual_setting_simcard1">"SIM 1"</string>
@@ -3791,7 +3791,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="edge_mode_notification_summary">Toque para saber mais.</string>
     <string name="edge_mode_notification_title">Usar controles na borda</string>
     <string name="edge_mode_photo">Tirar uma foto</string>
-    <string name="edge_mode_photo_summary">Enquanto no app da Câmera, toque na lateral do seu telefone para acionar o obturador e tirar uma foto novamente</string>
+    <string name="edge_mode_photo_summary">Enquanto no app da Câmera, toque na lateral do seu telefone para acionar o obturador e tirar uma foto novamente.</string>
     <string name="edge_mode_screenshot">Captura de tela</string>
     <string name="edge_mode_screenshot_summary">Dois toques em ambas as bordas para tirar uma captura de tela</string>
     <string name="edge_mode_state_summary">A área em torno das bordas curvas não responderão ao toque</string>
@@ -3817,14 +3817,14 @@ Você pode ver os logs gerados no app Arquivos."</string>
  • Seu dispositivo deve ser desbloqueado para usar o SOS de emergência
  • Pode ser que sua ligação não seja atendida"</string>
     <string name="emergency_gesture_screen_summary">Pressione o botão liga/desliga rapidamente 5 vezes ou mais para iniciar as ações abaixo</string>
-    <string name="emergency_gesture_screen_title">SOS de Emergência</string>
+    <string name="emergency_gesture_screen_title">SOS de emergência</string>
     <string name="emergency_gesture_sound_setting_summary">Toque um som alto quando o SOS de emergência estiver começando</string>
     <string name="emergency_gesture_sound_setting_title">Reproduzir alarme de contagem regressiva</string>
     <string name="emergency_gesture_switchbar_title">Use o SOS de emergência</string>
     <string name="emergency_info_summary">Informações e contatos de %1$s</string>
     <string name="emergency_info_title">Informações de emergência</string>
     <string name="emergency_settings_preference_title">Segurança e emergência</string>
-    <string name="emergency_sos_title">SOS de Emergência</string>
+    <string name="emergency_sos_title">SOS de emergência</string>
     <string name="emergency_tone_alert">Tons</string>
     <string name="emergency_tone_silent">Silêncio</string>
     <string name="emergency_tone_summary">Definir comportamento durante uma chamada de emergência</string>
@@ -3840,8 +3840,8 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_adb_summary">Alterar para modo de depuração quando o USB estiver conectado</string>
     <string name="enable_adb_wireless">Depuração sem fios</string>
     <string name="enable_adb_wireless_summary">Modo de depuração quando o Wi-Fi estiver conectado</string>
-    <string name="enable_angle_as_system_driver">Ativar ÂNGULO</string>
-    <string name="enable_angle_as_system_driver_summary">Habilite ANGLE como driver OpenGL ES do sistema</string>
+    <string name="enable_angle_as_system_driver">Ativar ANGLE</string>
+    <string name="enable_angle_as_system_driver_summary">Ative ANGLE como driver OpenGL ES do sistema</string>
     <string name="enable_auto_data_switch_dialog_message">Permita que seu dispositivo mude automaticamente para %1$s para dados móveis quando tiver melhor disponibilidade.</string>
     <string name="enable_auto_data_switch_dialog_title">Melhorar a cobertura de dados móveis?</string>
     <string name="enable_blurs_on_windows_summary">Permite desfoques de janela no nível de compositor. É necessário reiniciar o dispositivo.</string>
@@ -3868,9 +3868,9 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_mobile_data_when_opening_hotspot">Ativar também a conexão de dados móveis?</string>
     <string name="enable_non_resizable_multi_window">Ativar compatibilidade para multi janela</string>
     <string name="enable_non_resizable_multi_window_summary">Permite que apps não compatíveis sejam executados em multi janela</string>
-    <string name="enable_notes_role_summary">Habilite integrações de sistemas de anotações por meio da função Notes. Se a função Notes já estiver habilitada, não faz nada.</string>
+    <string name="enable_notes_role_summary">Ative integrações de sistemas de anotações por meio da função Notes. Se a função Notes já estiver habilitada, não faz nada.</string>
     <string name="enable_notes_role_title">Forçar a ativação da função do Notes</string>
-    <string name="enable_opengl_traces_title">Ativar rastream. OpenGL</string>
+    <string name="enable_opengl_traces_title">Ativar rastreamento OpenGL</string>
     <string name="enable_preferred_network_type_summary">Visualize e defina seu tipo de rede em Configurações &gt; Cartões SIM e redes móveis &gt; Cartão SIM</string>
     <string name="enable_preferred_network_type_title">Mostrar menu de tipo de rede preferido</string>
     <string name="enable_quick_setting">Mostrar em \"Configurações rápidas\"</string>
@@ -4470,8 +4470,8 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
     <string name="force_allow_on_external_summary">Qualifica apps para gravação em armazenamento externo, independentemente de valores de manifestos.</string>
     <string name="force_bold_text">Texto em negrito</string>
-    <string name="force_desktop_mode">Forçar Modo desktop</string>
-    <string name="force_desktop_mode_summary">Força o Modo desktop experimental em telas secundárias</string>
+    <string name="force_desktop_mode">Forçar modo desktop</string>
+    <string name="force_desktop_mode_summary">Força o modo desktop experimental em telas secundárias</string>
     <string name="force_high_refresh_rate_desc">Maior taxa de atualização para melhor capacidade de resposta ao toque e qualidade de animação. Aumenta o uso da bateria.</string>
     <string name="force_high_refresh_rate_toggle">Taxa de atualização de pico de força</string>
     <string name="force_immersive_compatibility_dont_hide">Não ocultar</string>
@@ -4481,8 +4481,8 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="force_msaa">Forçar 4x MSAA</string>
     <string name="force_msaa_new">Forçar 4x MSAA</string>
     <string name="force_msaa_prefrence_summary_new">Ativa o 4x MSAA em apps OpenGL ES %1$.1f</string>
-    <string name="force_msaa_summary">Ativar 4x MSAA em apps OpenGL ES 2.0</string>
-    <string name="force_msaa_summary_new">Ativar %2$dx MSAA em apps OpenGL ES %1$.1f</string>
+    <string name="force_msaa_summary">Ativa o 4x MSAA em apps OpenGL ES 2.0</string>
+    <string name="force_msaa_summary_new">Ativa o %2$dx MSAA em apps OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Forçar atividades a serem redimensionáveis</string>
     <string name="force_resizable_activities_summary">Torna todas as atividades redimensionáveis para várias janelas, independentemente dos valores do manifesto.</string>
     <string name="force_rtl_layout_all_locales">Forçar direção do layout (RTL)</string>
@@ -4627,7 +4627,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="gesture_preference_title">Gestos</string>
     <string name="gesture_prevent_ringing_screen_title">Impedir o toque do telefone</string>
     <string name="gesture_prevent_ringing_sound_title">Atalho para impedir que o telefone toque</string>
-    <string name="gesture_prevent_ringing_title">Pressione os botões Liga/desliga e Aumentar volume juntos para</string>
+    <string name="gesture_prevent_ringing_title">Pressione os botões Liga/Desliga e Aumentar volume juntos para</string>
     <string name="gesture_setting_off">Desativado</string>
     <string name="gesture_setting_on">Ativado</string>
     <string name="gesture_settings_activity_title">Configurações de gestos</string>
@@ -4686,7 +4686,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="graphics_driver_main_switch_title">Use as preferências do driver de gráficos</string>
     <string name="group_active_devices">Dispositivos ativos</string>
     <string name="group_apply_changes_dialog_title">Aplicar alterações para todos os membros do grupo?</string>
-    <string name="group_bonded_devices">Dispositivo Ligado</string>
+    <string name="group_bonded_devices">Dispositivo ligado</string>
     <string name="group_confirm_dialog_apply_button">Aplicar</string>
     <string name="group_confirm_dialog_body">Mesmas mudanças aplicáveis para todos os membros do grupo %1$s</string>
     <string name="group_connected_devices">Dispositivos conectados</string>
@@ -4835,7 +4835,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="hardware_revision">Versão do hardware</string>
     <string name="hardware_version">Versão do hardware</string>
     <string name="has_screenshot_sound">Som de captura de tela</string>
-    <string name="hdcp_checking_dialog_title">Config. a verificação HDCP</string>
+    <string name="hdcp_checking_dialog_title">Configurar a verificação HDCP</string>
     <string name="hdcp_checking_title">Verificação HDCP</string>
     <string name="hdmi_3d_display_enable_summary">Suporte a jogos 3D</string>
     <string name="hdmi_3d_display_enable_title">Tela 3D</string>
@@ -4902,7 +4902,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="hide_extra_apps">Mostrar uso de apps</string>
     <string name="hide_silent_icons_summary">Os ícones de notificações discretas não são exibidos na barra de status</string>
     <string name="hide_silent_icons_title">Ocultar ícones das notificações discretas</string>
-    <string name="high_brightness_hint_summary">Um pequeno ícone de sol 🌞 aparecerá na parte superior da tela quando a luz ambiente for forte</string>
+    <string name="high_brightness_hint_summary">Um pequeno ícone de sol aparecerá na parte superior da tela quando a luz ambiente for forte</string>
     <string name="high_label">Alta</string>
     <string name="high_performance_notif_summary">O dispositivo pode aquecer com o uso intenso.</string>
     <string name="high_performance_notif_title">Modo desempenho ativado</string>
@@ -4939,7 +4939,7 @@ Você poderá alterar essa opção mais tarde em Configurações > Apps e notifi
     <string name="how_backup_content">"Você pode salvar backups localmente ou na nuvem. Os backups locais podem ser armazenados no seu dispositivo móvel, computador ou drive USB.
 
 Dispositivo móvel
-Salve suas configurações de sistema, contas, dados de apps e outros itens em um arquivo separado armazenado em seu dispositivo (MIUI/backup/AllBackup ). Observação: Executar uma redefinição para os dados de fábrica excluirá todos os backups permanentemente. Lembre-se de copiar os backups para o seu computador.
+Salve suas configurações de sistema, contas, dados de apps e outros itens em um arquivo separado armazenado em seu dispositivo (MIUI/backup/AllBackup). Observação: Executar uma redefinição para os dados de fábrica excluirá todos os backups permanentemente. Lembre-se de copiar os backups para o seu computador.
 
 Computador
 Crie um backup neste dispositivo, então vá em Armazenamento/MIUI/backup/AllBackup e copie o backup para o seu computador usando um cabo USB.
@@ -4973,8 +4973,8 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="http_invoke_app">Apps da web</string>
     <string name="http_invoke_app_summary">Abra apps rapidamente sem instalá-los</string>
     <string name="huanji_history_title">Transferências Mi Mover</string>
-    <string name="hwui_force_dark_summary">Modificar o recurso de forçar modo escuro para que fique sempre ativado</string>
-    <string name="hwui_force_dark_title">Modificar o recurso forçar modo escuro</string>
+    <string name="hwui_force_dark_summary">Modifique o recurso de forçar Modo escuro para que fique sempre ativado</string>
+    <string name="hwui_force_dark_title">Modificar o recurso forçar Modo escuro</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="ignore_optimizations_off">Otimizar</string>
     <string name="ignore_optimizations_off_desc">Recomendado para maior duração da bateria.</string>
@@ -5078,7 +5078,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="input_method_settings">Configurações</string>
     <string name="input_method_settings_button">Configurações</string>
     <string name="input_method_settings_text">Configurações</string>
-    <string name="input_methods_and_subtype_enabler_title">Selec. métodos ativos de entrada</string>
+    <string name="input_methods_and_subtype_enabler_title">Selecionar métodos ativos de entrada</string>
     <string name="input_methods_settings_label_format">Configurações de %1$s</string>
     <string name="input_methods_settings_title">Entrada de texto</string>
     <string name="input_pattern_hint_text">Desenhe seu padrão de desbloqueio</string>
@@ -5409,7 +5409,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="ks_dialog_reset_text_system">Restaurar as preferências padrão de atalho do sistema?</string>
     <string name="ks_dialog_title">Abrir %s</string>
     <string name="ks_launch_control_center">Centro de controle</string>
-    <string name="ks_launch_notification_center">Área de notificação</string>
+    <string name="ks_launch_notification_center">Área de notificações</string>
     <string name="ks_reset_title">Restaurar preferências padrão</string>
     <string name="ks_screenshot">Capturar tela</string>
     <string name="ks_search_summary">Pesquisar</string>
@@ -5448,7 +5448,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="launch_notification_center">Área de notificações</string>
     <string name="launch_recents">Iniciar Recentes</string>
     <string name="launch_smarthome">Controle Mágico Xiaomi</string>
-    <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
+    <string name="launch_voice_assistant">Iniciar Assistente de Voz</string>
     <string name="launch_wechat_health_code">Código de saúde WeChat</string>
     <string name="launch_wechat_health_code_auto_close">O atalho do código de saúde WeChat não está mais disponível. Você pode alternar para um atalho diferente.</string>
     <string name="launch_wechat_payment_code">Código de pagamento do WeChat</string>
@@ -5751,7 +5751,7 @@ Um PIN protege o dispositivo se for perdido ou roubado."</string>
     <string name="lock_settings_picker_profile_message">Caso esqueça este bloqueio, peça ao seu administrador de TI para redefini-lo</string>
     <string name="lock_settings_picker_settings">Defina um bloqueio de tela</string>
     <string name="lock_settings_picker_title">Escolher bloqueio de tela</string>
-    <string name="lock_settings_picker_title_profile">Escolher bloq de trab.</string>
+    <string name="lock_settings_picker_title_profile">Escolher bloqueio de trabalho</string>
     <string name="lock_settings_picker_update_lock_title">Escolha um novo bloqueio de tela</string>
     <string name="lock_settings_picker_update_profile_lock_title">Escolha um novo bloqueio de trabalho</string>
     <string name="lock_settings_profile_screen_lock_title">Bloqueio de tela do perfil de trabalho</string>
@@ -5956,8 +5956,8 @@ Conecte pelo menos 4 pontos."</string>
     <string name="lockscreen_trivial_disabled_controls_summary">Para usar, primeiro ative \"Mostrar controles do dispositivo\"</string>
     <string name="login_account_dialog_message">Faça o login na sua Conta Mi e ative a sincronização com a nuvem.</string>
     <string name="login_account_dialog_title">Fazer login com a Conta Mi</string>
-    <string name="login_account_summary">Gerencie contas, serviços da nuvem, pagamentos e mais.</string>
-    <string name="login_account_summary_temp">Gerencie contas, serviços da nuvem, e mais.</string>
+    <string name="login_account_summary">Gerencie contas, serviços da nuvem, pagamentos e mais</string>
+    <string name="login_account_summary_temp">Gerencie contas, serviços da nuvem, e mais</string>
     <string name="login_action">Fazer login</string>
     <string name="long_background_tasks_footer_title">"Permitir que este app execute longas tarefas em segundo plano. Isso permite que o app execute tarefas que podem levar mais do que alguns minutos para serem concluídas, como downloads e uploads. Se essa permissão for negada, o sistema limitará o tempo que o app pode executar tais tarefas em segundo plano."</string>
     <string name="long_background_tasks_label">Tarefas longas em segundo plano</string>
@@ -5979,7 +5979,7 @@ Conecte pelo menos 4 pontos."</string>
     <string name="lost_internet_access_switch">Alternar para rede móvel</string>
     <string name="lost_internet_access_text">Alterne para a rede móvel sempre que o Wi-Fi tiver uma conexão ruim. Cobranças de dados podem ser aplicadas.</string>
     <string name="lost_internet_access_title">O Wi-Fi não está conectado à internet</string>
-    <string name="low_battery_summary">Bateria Fraca</string>
+    <string name="low_battery_summary">Bateria fraca</string>
     <string name="low_dc_light_title">Modo anti-cintilação de luz fraca</string>
     <string name="low_label">Baixa</string>
     <string name="low_storage_summary">Há pouco espaço de armazenamento. %1$s em uso – %2$s livre</string>
@@ -6030,7 +6030,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="main_toolbar_statistic">Estatísticas de uso de dados</string>
     <string name="maintenance_title">Modo de reparo</string>
     <string name="make_sure_cancel_update">Cancelar atualização?</string>
-    <string name="man_add_application">Adicionar apps    de início automático</string>
+    <string name="man_add_application">Adicionar apps de início automático</string>
     <string name="manage_conversations">Gerenciar conversas</string>
     <string name="manage_device_admin">Apps de administrador do dispositivo</string>
     <string name="manage_external_storage_title">Acesso a todos os arquivos</string>
@@ -6344,7 +6344,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_audio_sound_quality">Qualidade de áudio</string>
     <string name="miheadset_audio_sound_quality_summary">Seleciona o codec de áudio Bluetooth</string>
     <string name="miheadset_auto_ack_mode">Atender chamadas automaticamente quando estiver usando os fones de ouvido</string>
-    <string name="miheadset_auto_ack_mode_summary">Atender chamadas automaticamente</string>
+    <string name="miheadset_auto_ack_mode_summary">Atenda chamadas automaticamente</string>
     <string name="miheadset_auto_answer_call">Atender chamadas automaticamente</string>
     <string name="miheadset_auto_upgrade_reminder">Desative as atualizações automáticas e verifique se há atualizações novamente</string>
     <string name="miheadset_bluetooth_audio_title">Taxa de amostragem de áudio Bluetooth LC3plus</string>
@@ -6369,7 +6369,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_double_click_left">Toque duas vezes no fone de ouvido esquerdo</string>
     <string name="miheadset_double_click_right">Toque duas vezes no fone de ouvido direito</string>
     <string name="miheadset_double_connection">Conexão dupla</string>
-    <string name="miheadset_double_connection_summary">Ao ativar esse recurso, você pode atender chamadas ou reproduzir áudio ou vídeo em ambos os dispositivos conectados sem precisar alternar manualmente</string>
+    <string name="miheadset_double_connection_summary">Ao ativar esse recurso, você pode atender chamadas ou reproduzir áudio ou vídeo em ambos os dispositivos conectados sem precisar alternar manualmente.</string>
     <string name="miheadset_double_press_left">Pressione duas vezes o fone de ouvido esquerdo</string>
     <string name="miheadset_double_press_right">Pressione duas vezes o fone de ouvido direito</string>
     <string name="miheadset_double_toast">Coloque os dois fones de ouvido para poder usar esse recurso</string>
@@ -6489,7 +6489,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_unpair_device_text">%1$s será desemparelhado de todos os dispositivos associados a esta Conta Mi</string>
     <string name="miheadset_virtual_surround">Som virtual imersivo</string>
     <string name="miheadset_virtual_surround_summary">"Enriqueça a profundidade do som para reprodução de áudio e vídeo em fones de ouvido. Este recurso não funcionará quando o áudio do canal %s for reproduzido."</string>
-    <string name="miheadset_voice_control_summary">Quando esse recurso está ativado, você pode dizer ao Mi AI para navegar no seu dispositivo ou controlar a reprodução de áudio usando comandos de voz</string>
+    <string name="miheadset_voice_control_summary">Quando esse recurso está ativado, você pode dizer ao Mi AI para navegar no seu dispositivo ou controlar a reprodução de áudio usando comandos de voz.</string>
     <string name="miheadset_windnoise">Vento</string>
     <string name="mipush_fake_channel_group_name">"Mi Push"</string>
     <string name="misc_files">Arquivos variados</string>
@@ -6734,7 +6734,7 @@ Alternar para %1$s não cancelará o serviço da operadora %2$s."</string>
     <string name="modern_control_center_desc">Puxe a barra de status para baixo à esquerda para ver as notificações. Puxe a barra de status para baixo à direita para abrir o centro de controle.</string>
     <string name="modern_control_center_title">Nova versão</string>
     <string name="modify_default_browser_message">Se você definir um app de terceiros como o seu navegador padrão, ele poderá começar a coletar seu histórico de navegação e outros dados. Definir mesmo assim?</string>
-    <string name="modifier_keys_alt">Alt.</string>
+    <string name="modifier_keys_alt">Alt</string>
     <string name="modifier_keys_cancel">Cancelar</string>
     <string name="modifier_keys_caps_lock">Caps Lock</string>
     <string name="modifier_keys_ctrl">Ctrl</string>
@@ -7783,7 +7783,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="platform_compat_dialog_text_no_apps">Alterações de compatibilidade de apps só podem ser modificadas para apps depurados. Instale um app debuggable e tente novamente.</string>
     <string name="platform_compat_dialog_title_no_apps">Não há apps disponíveis</string>
     <string name="platform_compat_selected_app_summary">%1$s targetSdkVersion %2$d</string>
-    <string name="platform_compat_target_sdk_title">Habilitado para targetSdkVersion &gt; %d</string>
+    <string name="platform_compat_target_sdk_title">Ativado para targetSdkVersion &gt; %d</string>
     <string name="please_connect_to_the_network">Conecte-se ao Wi-Fi ou aos dados móveis para concluir a limpeza dos dados do eSIM.</string>
     <string name="please_connect_to_the_wifi">Conecte-se ao Wi-Fi para terminar de limpar os dados do eSIM.</string>
     <string name="please_select_phase2">Autenticação da Fase 2</string>
@@ -7837,7 +7837,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="power_discharging_duration_enhanced">Cerca de %1$s restantes com base no seu uso (%2$s)</string>
     <string name="power_flashlight">Lanterna</string>
     <string name="power_gps">"GPS"</string>
-    <string name="power_hide_mode_summary">Gerenciar atividades em segundo plano de apps para economizar bateria</string>
+    <string name="power_hide_mode_summary">Gerencie atividades em segundo plano de apps para economizar bateria</string>
     <string name="power_hide_mode_title">Gerenciar uso de bateria por apps</string>
     <string name="power_idle">Dispositivo ocioso</string>
     <string name="power_key_how_power_force_off">Como forçar a reinicialização do dispositivo</string>
@@ -7857,23 +7857,23 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="power_menu_long_press_for_assist">Segure para abrir o Assistente</string>
     <string name="power_menu_long_press_for_assist_sensitivity_high_label">Longo</string>
     <string name="power_menu_long_press_for_assist_sensitivity_low_label">Curto</string>
-    <string name="power_menu_long_press_for_assist_sensitivity_summary">Ajusta a sensibilidade escolhendo por quanto tempo pressionar e segurar o botão liga/desliga</string>
+    <string name="power_menu_long_press_for_assist_sensitivity_summary">Ajusta a sensibilidade escolhendo por quanto tempo pressionar e segurar o botão Liga/Desliga</string>
     <string name="power_menu_long_press_for_assist_sensitivity_title">Pressionar e segurar (duração)</string>
     <string name="power_menu_long_press_for_assistant_title">Assistente digital</string>
-    <string name="power_menu_long_press_for_assist_summary">Acione o Assistente segurando o botão liga/desliga</string>
+    <string name="power_menu_long_press_for_assist_summary">Acione o Assistente segurando o botão Liga/Desliga</string>
     <string name="power_menu_long_press_for_power_menu_title">Menu de energia</string>
     <string name="power_menu_none">Não mostrar conteúdo</string>
     <string name="power_menu_power_prevent_ringing_hint">"Evite o toque:
 Pressione um botão de volume para o atalho"</string>
     <string name="power_menu_power_volume_up_hint">"Menu de energia:
-Pressione o  botão [liga/desliga] e [volume +] ao mesmo tempo."</string>
+Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="power_menu_privacy">Conteúdo sensível</string>
     <string name="power_menu_privacy_hide">Ocultar cartões e controles quando bloqueado</string>
     <string name="power_menu_privacy_not_secure">Para usar, defina primeiro um bloqueio de tela.</string>
     <string name="power_menu_privacy_show">Mostrar cartões e controles quando bloqueado</string>
     <string name="power_menu_privacy_show_cards">Mostrar cards com a tela bloqueada</string>
     <string name="power_menu_privacy_show_controls">Mostrar controles quando estiver bloqueado</string>
-    <string name="power_menu_setting_name">Pressione e segure o botão liga/desliga</string>
+    <string name="power_menu_setting_name">Pressione e segure o botão Liga/Desliga</string>
     <string name="power_menu_setting_title">Menu do botão de energia</string>
     <string name="power_menu_summary_long_press_for_assistant">Acesse o assistente digital</string>
     <string name="power_menu_summary_long_press_for_assist_disabled_no_action">Pressionar e segurar desativado</string>
@@ -7924,7 +7924,7 @@ Pressione o  botão [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="pre_install_app_sms">Mensagens</string>
     <string name="pre_install_app_weather">Clima</string>
     <string name="pre_install_application">Apps pré-instalados</string>
-    <string name="pre_install_category_appname">Nome do App</string>
+    <string name="pre_install_category_appname">Nome do app</string>
     <string name="pre_install_category_question">problema comum</string>
     <string name="pre_install_network_unavailable">Atualmente não conectado, por favor conecte primeiro</string>
     <string name="pre_install_question_disable_summary">Para alguns apps do sistema, você pode desativar a extensão da peça do app nas configurações do app. Se você precisar restaurar essas extensões, poderá redo novamente nas configurações.</string>
@@ -7944,7 +7944,7 @@ Pressione o  botão [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="pref_manage_bg_network">Gerenciar conexão em segundo plano de apps</string>
     <string name="pref_new_installed_preconfig_title">Config. padrão para novos apps</string>
     <string name="pref_operational_key">Botões de navegação</string>
-    <string name="pref_show_lunar_calendar_title">Mostrar calendário tradicional Chinês na Tela de bloqueio</string>
+    <string name="pref_show_lunar_calendar_title">Mostrar Calendário Tradicional Chinês na Tela de bloqueio</string>
     <string name="pref_title_network_details">Detalhes da rede</string>
     <string name="pref_title_update_notification">Notificações de uso de dados</string>
     <string name="pref_volume_launch_camera_summary">Pressione o volume para baixo duas vezes para iniciar a Câmera</string>
@@ -8143,9 +8143,9 @@ Pressione o  botão [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_password_not_login_account">Você não fez o login</string>
     <string name="privacy_password_remind_bind_notlogin_account">Adicione sua Conta Mi para redefinir a sua senha caso a esqueça.</string>
     <string name="privacy_password_remind_bindaccount_title">Adicionar Conta Mi</string>
-    <string name="privacy_password_settings">Usar senha de proteção de privacidade</string>
+    <string name="privacy_password_settings">Usar Senha de proteção de privacidade</string>
     <string name="privacy_password_settings_next">Avançar</string>
-    <string name="privacy_password_settings_summary">A senha de proteção de privacidade é usada para os apps que possam conter informações confidenciais</string>
+    <string name="privacy_password_settings_summary">A Senha de proteção de privacidade é usada para os apps que possam conter informações confidenciais</string>
     <string name="privacy_password_settings_titles">A Senha de proteção de privacidade protege suas mensagens, fotos, arquivos e notas.</string>
     <string name="privacy_password_settings_titles_elder_mode">A Senha de proteção de privacidade protege suas fotos, arquivos e notas.</string>
     <string name="privacy_password_settings_titles_second_space">A Senha de proteção de privacidade protege suas mensagens, fotos e notas.</string>
@@ -8211,7 +8211,7 @@ Pressione o  botão [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="process_stats_type_cached">Em cache</string>
     <string name="process_stats_type_foreground">Primeiro plano</string>
     <string name="processes_subtitle">Processos</string>
-    <string name="profile_connect_timeout_subtext">Problema na conexão. Desligue e ligue o dispositivo novamente</string>
+    <string name="profile_connect_timeout_subtext">Problema na conexão. Desligue e ligue o dispositivo novamente.</string>
     <string name="profile_info_settings_title">Informações de perfil</string>
     <string name="profile_owner_add_title">Ativar Gerenciador de perfis?</string>
     <string name="profile_owner_add_title_simplified">Permitir supervisão?</string>
@@ -8286,14 +8286,14 @@ Pressione o  botão [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="really_remove_account_message">A remoção desta conta excluirá todas as suas mensagens, contatos e outros dados do telefone.</string>
     <string name="really_remove_account_title">Remover conta?</string>
     <string name="reboot_dialog_enable_angle_as_system_driver">É necessária uma reinicialização para alterar o driver OpenGL ES do sistema</string>
-    <string name="reboot_dialog_enable_freeform_support">Uma reinicialização é necessária para habilitar o suporte a Janelas flutuantes.</string>
-    <string name="reboot_dialog_force_desktop_mode">Uma reinicialização é necessária para forçar o Modo desktop em monitores secundários.</string>
+    <string name="reboot_dialog_enable_freeform_support">Uma reinicialização é necessária para ativar o suporte a Janelas flutuantes.</string>
+    <string name="reboot_dialog_force_desktop_mode">Uma reinicialização é necessária para forçar o modo desktop em monitores secundários.</string>
     <string name="reboot_dialog_reboot_later">Reiniciar depois</string>
     <string name="reboot_dialog_reboot_now">Reinicie agora</string>
     <string name="reboot_with_mte_already_enabled">MTE já está ativado</string>
     <string name="reboot_with_mte_message">O sistema será reiniciado e permitirá experimentar o Extensão de Marcação de Memória (MTE). O MTE pode afetar negativamente o desempenho e a estabilidade do sistema. Será redefinido na próxima reinicialização subsequente.</string>
     <string name="reboot_with_mte_summary">Reinicie para uma única sessão com MTE ativado</string>
-    <string name="reboot_with_mte_title">Habilite o MTE para uma única sessão</string>
+    <string name="reboot_with_mte_title">Ative o MTE para uma única sessão</string>
     <string name="rebootiing_for_updates">Atualizando…</string>
     <string name="receiver_clean">Liberar espaço</string>
     <string name="recent_app_category_title">Apps abertos recentemente</string>
@@ -8650,17 +8650,17 @@ Essa configuração afeta todos os usuários do dispositivo."</string>
     <string name="screen_max_aspect_ratio_title">Modo Tela cheia</string>
     <string name="screen_monochrome_mode_apps_loading">Aguarde…</string>
     <string name="screen_monochrome_mode_apps_title">Usar Modo monocromático</string>
-    <string name="screen_monochrome_mode_global_summary">Usar Modo monocromático para todos os apps</string>
+    <string name="screen_monochrome_mode_global_summary">Use o Modo monocromático para todos os apps</string>
     <string name="screen_monochrome_mode_global_title">Todos os apps</string>
-    <string name="screen_monochrome_mode_local_summary">Usar Modo monocromático para apps selecionados</string>
+    <string name="screen_monochrome_mode_local_summary">Use o Modo monocromático para apps selecionados</string>
     <string name="screen_monochrome_mode_local_title">Apps selecionados</string>
     <string name="screen_monochrome_mode_off_apps_title">Não usar Modo monocromático</string>
     <string name="screen_monochrome_mode_range_title">Alcance</string>
     <string name="screen_monochrome_mode_set_apps_title">Modo monocromático em apps</string>
-    <string name="screen_monochrome_mode_summary">Alternar para Modo monocromático para estender a duração da bateria</string>
+    <string name="screen_monochrome_mode_summary">Alterne para o Modo monocromático para estender a duração da bateria</string>
     <string name="screen_monochrome_mode_title">Modo monocromático</string>
     <string name="screen_never_timeout_title">Tela ambiente</string>
-    <string name="screen_on_proximity_sensor_summary">Bloquear gestos de toque ao colocar em um bolso</string>
+    <string name="screen_on_proximity_sensor_summary">Bloqueie gestos de toque ao colocar em um bolso</string>
     <string name="screen_on_proximity_sensor_title">Modo bolso</string>
     <string name="screen_optimize">Cores</string>
     <string name="screen_optimize_disabled">Não é possível ajustar o esquema de cores no Modo leitura</string>
@@ -8691,7 +8691,7 @@ Essa configuração afeta todos os usuários do dispositivo."</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Atualizar automaticamente</string>
     <string name="screen_paper_texture">Textura</string>
     <string name="screen_pinning_description">Apps fixados podem abrir outros apps e acessar suas informações pessoais</string>
-    <string name="screen_pinning_dialog_message">"Here's what pinned apps can do:
+    <string name="screen_pinning_dialog_message">"Aqui está o que os apps fixados podem fazer:
 
 • Acesse suas informações pessoais
 (ex.: contatos e e-mails)
@@ -8736,7 +8736,7 @@ Para usar a fixação de apps: \u0009
     <string name="screen_recorder_title">Gravador de tela</string>
     <string name="screen_refresh_unavailable_prompt">A alteração da taxa de atualização é suportada apenas pela tela externa</string>
     <string name="screen_resolution_dialog_title">Alterar resolução</string>
-    <string name="screen_resolution_footer">A resolução Full consome mais bateria. Mudar sua resolução pode fazer com que alguns apps sejam reiniciados.</string>
+    <string name="screen_resolution_footer">A resolução total consome mais bateria. Mudar sua resolução pode fazer com que alguns apps sejam reiniciados.</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
     <string name="screen_resolution_normal_format">"Normal (%1$s)"</string>
     <string name="screen_resolution_option_full">Resolução Full</string>
@@ -9050,7 +9050,7 @@ Para usar a fixação de apps: \u0009
     <string name="secure_keyguard_business_title">Definir bloqueio de tela</string>
     <string name="security_advanced_settings">Mais configurações de segurança</string>
     <string name="security_advanced_settings_keywords">segurança, mais configurações de segurança, mais configurações, configurações de segurança avançadas</string>
-    <string name="security_advanced_settings_no_work_profile_settings_summary">Criptografia, credenciais e muito mais</string>
+    <string name="security_advanced_settings_no_work_profile_settings_summary">Criptografia, credenciais e muito mais.</string>
     <string name="security_advanced_settings_work_profile_settings_summary">Bloqueio de perfil de trabalho, criptografia e muito mais</string>
     <string name="secure_lock_encryption_warning">Uma vez que o serviço de acessibilidade foi ativado, seu dispositivo não usará o bloqueio de tela para melhorar a criptografia de dados.</string>
     <string name="security_center_title">Segurança</string>
@@ -9855,7 +9855,7 @@ Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_policy_no_net_message">Seu dispositivo precisa se conectar à rede para você ser capaz de retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="sos_privacy_policy_no_net_title">"Não foi possível conectar-se à rede"</string>
     <string name="sos_privacy_policy_revoke">Retirada do consentimento</string>
-    <string name="sos_privacy_policy_revoke_message_reject">"Se você continuar, retirará seu consentimento com a Política de Privacidade da SOs de Emergência. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja necessário de outra forma.
+    <string name="sos_privacy_policy_revoke_message_reject">"Se você continuar, retirará seu consentimento com a Política de Privacidade da SOS de emergência. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja necessário de outra forma.
 
 Como o SOS de emergência fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será mantida como se recusando a aceitar serviços de segurança.
 
@@ -9974,7 +9974,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_min_number">MIN</string>
     <string name="status_msid_number">MSID</string>
     <string name="status_number">Número de telefone</string>
-    <string name="status_number_sim_slot">Nº de telefone (slot SIM %1$d)</string>
+    <string name="status_number_sim_slot">Número de telefone (slot SIM %1$d)</string>
     <string name="status_number_sim_softbank">Número de telefone %1$d</string>
     <string name="status_number_sim_status">Número de telefone do chip</string>
     <string name="status_operator">Rede</string>
@@ -10389,7 +10389,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="sunlight_mode">Modo luz solar</string>
     <string name="sunlight_mode_boost_summary">Expanda a faixa de brilho e ajuste o brilho automaticamente sob condições de luminosidade. Este recurso fará com que seu dispositivo aqueça e consuma mais energia.</string>
     <string name="sunlight_mode_summary">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura</string>
-    <string name="sunlight_mode_summary_new">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura. Um pequeno ícone do sol 🌞 aparecerá na parte superior da tela quando a luz ambiente for muito forte.</string>
+    <string name="sunlight_mode_summary_new">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura. Um pequeno ícone do sol aparecerá na parte superior da tela quando a luz ambiente for muito forte.</string>
     <string name="supl_not_set">(Não definido)</string>
     <string name="supplicant_state_label">Estado suplicante:</string>
     <string name="support_summary">Ajuda, início, telefone e bate-papo</string>
@@ -10435,10 +10435,10 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="sync_automatically">Sincron. autom. dos dados do aplic.</string>
     <string name="sync_calendar">Agenda</string>
     <string name="sync_contacts">Contatos</string>
-    <string name="sync_disabled">Sincronização DESATIVADA</string>
+    <string name="sync_disabled">Sincronização desativada</string>
     <string name="sync_enable">Sincronizar</string>
-    <string name="sync_enabled">A sincronização está ATIVADA</string>
-    <string name="sync_error">Erro na sinc.</string>
+    <string name="sync_enabled">Sincronização ativada</string>
+    <string name="sync_error">Erro na sincronização</string>
     <string name="sync_failed">Não foi possível sincronizar. Espere alguns minutos e tente novamente</string>
     <string name="sync_gmail">"Gmail"</string>
     <string name="sync_in_progress">Sincronizando…</string>
@@ -10657,7 +10657,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="the_way_of_wakeup_voice_assistant_summary">Ative o Assistente de Voz no Modo Tela cheia (sem botões virtuais)</string>
     <string name="theme_customization_device_default">Padrão do dispositivo</string>
     <string name="theme_settings_title">Temas</string>
-    <string name="thememanager_not_found">Não foi possível abrir o Gerenciador de Temas. Certifique-se de que o app está instalado.</string>
+    <string name="thememanager_not_found">Não foi possível abrir o Temas. Certifique-se de que o app está instalado.</string>
     <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Deslize horizontalmente na tela interna com três dedos para abrir a tela dividida</string>
     <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Deslize horizontalmente com três dedos para abrir a tela dividida</string>
     <string name="three_gesture_down">Deslizar 3 dedos para baixo</string>
@@ -10757,7 +10757,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="touch_sensitive_turn_off_title">Modo com luvas desativado</string>
     <string name="touch_sounds_title">Toque e clique em sons</string>
     <string name="touch_title">Toque</string>
-    <string name="track_frame_time">Renderiz. de perfil HWUI</string>
+    <string name="track_frame_time">Renderização de perfil HWUI</string>
     <string name="track_frame_time_keywords">"GPU"</string>
     <string name="trackball_settings">"Trackball"</string>
     <string name="trackball_wake_title">Ligar a tela com trackball</string>
@@ -10801,9 +10801,9 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="transparent_surroundings">Ambiente</string>
     <string name="translation_contributors_title">Colaboradores</string>
     <string name="trigger_carrier_provisioning">Acionar aprovisionamento da operadora</string>
-    <string name="truetone_summary">Ajustar cores à luz ambiente</string>
+    <string name="truetone_summary">Ajusta as cores à luz ambiente</string>
     <string name="truetone_title">Cores adaptáveis</string>
-    <string name="trust_lost_locks_screen_summary">Se ativado, o dispositivo fica bloqueado quando o último agente confiável perder a credencial</string>
+    <string name="trust_lost_locks_screen_summary">Se ativado, o dispositivo fica bloqueado quando o último agente confiável perder a credencial.</string>
     <string name="trust_lost_locks_screen_title">Bloquear tela quando ao perder as credenciais</string>
     <string name="trusted_credentials">Credenciais confiáveis</string>
     <string name="trusted_credentials_disable_confirmation">Desativar o certificado CA do sistema?</string>
@@ -10831,7 +10831,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tts_engine_settings_button">Iniciar configurações do mecanismo</string>
     <string name="tts_engine_settings_title">Configurações do mecanismo</string>
     <string name="tts_general_section_title">Geral</string>
-    <string name="tts_install_data_summary">Instalar dados de voz necessários para a sintetização da fala</string>
+    <string name="tts_install_data_summary">Instale dados de voz necessários para a sintetização da fala</string>
     <string name="tts_install_data_title">Instalar dados de voz</string>
     <string name="tts_install_voice_title">Vozes</string>
     <string name="tts_install_voices_cancel">Cancelar</string>
@@ -10844,9 +10844,9 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tts_play_example_summary">Reproduzir uma rápida demonstração da voz sintetizada</string>
     <string name="tts_play_example_title">Ouça um exemplo</string>
     <string name="tts_reset">Redefinir</string>
-    <string name="tts_reset_speech_pitch_summary">Redefinir o tom que o texto é falado para o padrão.</string>
+    <string name="tts_reset_speech_pitch_summary">Redefina o tom que o texto é falado para o padrão.</string>
     <string name="tts_reset_speech_pitch_title">Redefinir tom de fala</string>
-    <string name="tts_reset_speech_rate_summary">Redefinir a velocidade que o texto é falado para o padrão.</string>
+    <string name="tts_reset_speech_rate_summary">Redefina a velocidade que o texto é falado para o padrão.</string>
     <string name="tts_reset_speech_rate_title">Redefinir velocidade da fala</string>
     <string name="tts_settings">Configurações da conversão de texto em voz</string>
     <string name="tts_settings_title">Saída de texto para voz</string>
@@ -11369,9 +11369,9 @@ Toque no + para adicionar palavras."</string>
     <string name="user_you">Você (%s)</string>
     <string name="users_summary">Conectado como %1$s</string>
     <string name="uwb_settings_summary">Ajuda a identificar a posição relativa de dispositivos próximos que possuem UWB</string>
-    <string name="uwb_settings_summary_airplane_mode">Desative o Modo de avião para usar UWB</string>
+    <string name="uwb_settings_summary_airplane_mode">Desative o Modo avião para usar UWB</string>
     <string name="uwb_settings_summary_no_uwb_regulatory">UWB não está disponível no local atual</string>
-    <string name="uwb_settings_title">Ultra Wideband (uwb)</string>
+    <string name="uwb_settings_title">Ultra Wideband (UWB)</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="valid_net_access">Ver credenciais de acesso à rede</string>
@@ -11408,7 +11408,7 @@ Toque no + para adicionar palavras."</string>
     <string name="virtual_keyboards_for_work_title">Teclado na tela para o perfil de trabalho</string>
     <string name="virtual_sim_category_title">"Mi Roaming"</string>
     <string name="virtual_sim_description">Serviço internacional de roaming seguro</string>
-    <string name="virtual_sim_global_category_title">Mi chip</string>
+    <string name="virtual_sim_global_category_title">Mi SIM</string>
     <string name="virtual_sim_global_description">Conecte-se à redes de dados sem um cartão SIM</string>
     <string name="virtual_sim_global_title">Serviço de dados móveis</string>
     <string name="virtual_sim_title">Rede de dados em roaming</string>
@@ -11479,7 +11479,7 @@ Durante uma chamada de voz, não é possível usar a internet, e alguns apps pod
     <string name="volume_category_title">"Volume"</string>
     <string name="volume_connectivity_panel_title">"Volume"</string>
     <string name="volume_hifi_description">Configurações de Hi-Fi</string>
-    <string name="volume_key_launch_camera">Câmera Aberta</string>
+    <string name="volume_key_launch_camera">Câmera aberta</string>
     <string name="volume_key_launch_camera_and_take_photo">Tirar fotos</string>
     <string name="volume_label">"Volume"</string>
     <string name="volume_launch_camera_summary">Pressione duas vezes o botão [Volume -] para abrir a câmera quando a tela estiver bloqueada</string>
@@ -11950,7 +11950,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_hotspot_ap_band_title">Banda do hotspot</string>
     <string name="wifi_hotspot_auto_off_summary">Quando nenhum dispositivo estiver conectado</string>
     <string name="wifi_hotspot_auto_off_title">Desativar hotspot automaticamente</string>
-    <string name="wifi_hotspot_checkbox_text">Hotspot  Wi-Fi</string>
+    <string name="wifi_hotspot_checkbox_text">Hotspot Wi-Fi</string>
     <string name="wifi_hotspot_configure_ap_text">Config. hotspot Wi-Fi</string>
     <string name="wifi_hotspot_configure_ap_text_summary">"Hotspot AndroidAP WPA2 PSK"</string>
     <string name="wifi_hotspot_connect">CONECTAR</string>
@@ -11959,7 +11959,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_hotspot_maximize_compatibility">Estender a compatibilidade</string>
     <string name="wifi_hotspot_maximize_compatibility_dual_ap_summary">Ajuda outros dispositivos a encontrar esse hotspot. Aumenta o uso da bateria.</string>
     <string name="wifi_hotspot_maximize_compatibility_single_ap_summary">Ajuda outros dispositivos a encontrar esse hotspot. Reduz a velocidade de conexão do hotspot.</string>
-    <string name="wifi_hotspot_message">%1$s requer login on-line antes de conectar à rede.</string>
+    <string name="wifi_hotspot_message">%1$s requer login online antes de conectar à rede.</string>
     <string name="wifi_hotspot_name_summary_connected">Outros dispositivos podem se conectar a %1$s</string>
     <string name="wifi_hotspot_name_summary_connecting">Ativando %1$s…</string>
     <string name="wifi_hotspot_name_title">Nome do hotspot</string>
@@ -12002,7 +12002,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_ip_settings_menu_cancel">Cancelar</string>
     <string name="wifi_ip_settings_menu_save">Salvar</string>
     <string name="wifi_is_off">Wi‑Fi está desativado</string>
-    <string name="wifi_limit_optimizations_summary">Lim. de bat. usado pelo Wi-Fi</string>
+    <string name="wifi_limit_optimizations_summary">Limite de bateria usada pelo Wi-Fi</string>
     <string name="wifi_limited_connection">Conexão limitada</string>
     <string name="wifi_link_turbo">Usar dados móveis para acelerar velocidade</string>
     <string name="wifi_link_turbo_app_settings_summary">Selecione os apps que usarão este recurso</string>
@@ -12335,7 +12335,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="wifi_wapi_user_cert">Certificado do usuário</string>
     <string name="wifi_wapi_user_certificate">Certificado do usuário</string>
     <string name="wifi_whitelist_roaming">Ponte SSID - Entrega Rápida</string>
-    <string name="wifi_whitelist_roaming_summary">Habilite o roaming entre diferentes APs SSID WPA/WPA2-PSK com o mesmo endereço MAC do Gateway</string>
+    <string name="wifi_whitelist_roaming_summary">Ative o roaming entre diferentes APs SSID WPA/WPA2-PSK com o mesmo endereço MAC do Gateway</string>
     <string name="wifi_wps_available_first_item">WPS disponível</string>
     <string name="wifi_wps_available_second_item">" (WPS disponível)"</string>
     <string name="wifi_wps_connected">Conectado à rede Wi-Fi %s</string>

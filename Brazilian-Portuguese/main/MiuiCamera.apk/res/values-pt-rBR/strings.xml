@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -70,7 +70,7 @@
     <string name="accessibility_camera_ultra_wide_bokeh_on">Modo corpo inteiro ativado</string>
     <string name="accessibility_camera_video_960fps_120">"%d FPS"</string>
     <string name="accessibility_camera_video_960fps_240">"%d FPS"</string>
-    <string name="accessibility_camera_video_960fps_960">"%dFPS"</string>
+    <string name="accessibility_camera_video_960fps_960">"%d FPS"</string>
     <string name="accessibility_camera_video_fps_120">"120 FPS"</string>
     <string name="accessibility_camera_video_fps_30">"30 FPS"</string>
     <string name="accessibility_camera_video_slow_motion_fps">"%d FPS"</string>
@@ -374,8 +374,8 @@ e ajustar preferências automaticamente"</string>
     <string name="ambilight_intro_crowd_moving_part1">Ao fotografar em uma rua cheia de gente, peça ao seu sujeito que fique parado. Outras pessoas aparecerão como trilhas borradas.</string>
     <string name="ambilight_intro_crowd_moving_part2">Você também pode tirar fotos de tráfego movimentado e multidões em movimento. A longa exposição manterá os edifícios nítidos, mas todos os objetos em movimento ficarão borrados.</string>
     <string name="ambilight_intro_light_track">Use uma fonte de luz para \"pintar\" sobre uma cena escura para juntar todas as peças iluminadas em uma só imagem.</string>
-    <string name="ambilight_intro_magic_star">Use este modo em locais com baixa poluição luminosa. A exposição será ajustada para %d segundos, então usar um tripé é uma ótima idéia.</string>
-    <string name="ambilight_intro_magic_star_ae">Use este modo em locais com baixa poluição luminosa. A exposição pode ser ajustada para %d segundos, então usar um tripé é uma ótima idéia.</string>
+    <string name="ambilight_intro_magic_star">Use este modo em locais com baixa poluição luminosa. A exposição será ajustada para %d segundos, então usar um tripé é uma ótima ideia.</string>
+    <string name="ambilight_intro_magic_star_ae">Use este modo em locais com baixa poluição luminosa. A exposição pode ser ajustada para %d segundos, então usar um tripé é uma ótima ideia.</string>
     <string name="ambilight_intro_silky_water_part1">Use este modo ao fotografar nuvens em movimento. Ele vai dar ao céu um efeito de \"pintura a óleo\".</string>
     <string name="ambilight_intro_silky_water_part2">Este modo faz com que a água em movimento (rios, cachoeiras e lagos) pareça cetim.</string>
     <string name="ambilight_intro_star_track">Fotografar o céu estrelado por um longo tempo pode capturar as trajetórias das estrelas. Não esqueça de usar um tripé e fotografar continuamente por pelo menos %d minutos.</string>
@@ -455,7 +455,7 @@ e ajustar preferências automaticamente"</string>
     <string name="beauty_lens_3">Comida</string>
     <string name="beauty_lens_3_description">Deixe os alimentos deliciosos em primeiro plano e mais vibrantes.</string>
     <string name="beauty_lens_4">Objetos</string>
-    <string name="beauty_lens_4_description">Aprimorar texturas e criar capturas a nível de pôsteres.</string>
+    <string name="beauty_lens_4_description">Aprimore texturas e crie capturas a nível de pôsteres.</string>
     <string name="beauty_lens_description_title">Abertura grande</string>
     <string name="beauty_lens_none">Desfoque</string>
     <string name="beauty_lens_use_hint">Usar uma abertura grande para desfocar o fundo e destacar os itens em primeiro plano.</string>
@@ -555,8 +555,8 @@ e ajustar preferências automaticamente"</string>
     <string name="cinemaster_cancel">Cancelar</string>
     <string name="cinemaster_confirm">Sair</string>
     <string name="cinemaster_connect_exit_message">Sair da configuração multicâmera agora?</string>
-    <string name="cinemaster_connection_prerequisites">Primeiro ative o Wi-Fi no Centro de controle.</string>
-    <string name="cinemaster_connection_prerequisites_china">Primeiro ative o Wi-Fi no Centro de controle.</string>
+    <string name="cinemaster_connection_prerequisites">Primeiro ative o Wi-Fi no centro de controle.</string>
+    <string name="cinemaster_connection_prerequisites_china">Primeiro ative o Wi-Fi no centro de controle.</string>
     <string name="cinemaster_description_title">Modo diretor</string>
     <string name="cinemaster_guide_content">"Conecte telefones e tablets à mesma rede para uni-los em uma única configuração multicâmera. Você poderá usar dispositivos conectados como câmeras e monitores e filmar uma cena de vários ângulos."</string>
     <string name="cinemaster_guide_content2">"Conecte telefones e tablets à mesma rede para uni-los em uma única configuração multicâmera. Você poderá usar dispositivos conectados como câmeras e monitores e filmar uma cena de vários ângulos. Se o seu ambiente de rede impedir que os feeds do monitor funcionem perfeitamente, o processo de gravação ainda permanecerá estável."</string>
@@ -870,12 +870,12 @@ documentos digitalizados automaticamente"</string>
     <string name="dual_video_record_merged">Combinado</string>
     <string name="dual_video_record_remote">Gravação em dois telefones</string>
     <string name="dual_video_record_standalone">Separado</string>
-    <string name="dual_video_user_guide_main_content">Para criar vídeos multicâmera, selecione duas câmeras no seu dispositivo e capture simultaneamente. As gravações podem ser salvas separadamente, ou combinadas em visualização dividida ou em picture-in-picture.</string>
+    <string name="dual_video_user_guide_main_content">Para criar vídeos multicâmera, selecione duas câmeras no seu dispositivo e capture simultaneamente. As gravações podem ser salvas separadamente, ou combinadas em visualização dividida ou em Picture-In-Picture.</string>
     <string name="dual_video_user_guide_main_content_new">"Vídeos multicâmera são filmados com várias câmeras simultaneamente.
 A gravação em dois telefones também permite que você se conecte a outro dispositivo próximo e crie um vídeo multicâmera selecionando \"Combinado\"."</string>
     <string name="dual_video_user_guide_main_title">Vídeo multicâmera</string>
     <string name="dual_video_user_guide_merge_content">Capture com duas câmeras simultaneamente e combine as gravações em um vídeo com visualização dividida ou em picture-to-picture.</string>
-    <string name="dual_video_user_guide_merge_content_new">Duas gravações podem ser combinadas em uma visualização dividida ou em vídeo (picture-in-picture).</string>
+    <string name="dual_video_user_guide_merge_content_new">Duas gravações podem ser combinadas em uma visualização dividida ou em vídeo (Picture-In-Picture).</string>
     <string name="dual_video_user_guide_remote_content">Combine feeds de dois dispositivos diferentes em um vídeo. Você poderá visualizar os feeds e o vídeo final neste dispositivo. Observe que o áudio só será gravado por este dispositivo.</string>
     <string name="dual_video_user_guide_remote_p">Telefone %d</string>
     <string name="dual_video_user_guide_standalone_content">Capture com duas câmeras simultaneamente e salve as duas gravações como vídeos separados.</string>
@@ -1042,7 +1042,7 @@ Se você estiver usando um ponto de acesso para se conectar, defina sua banda AP
     <string name="frind_sign_button_accessibility">Desativar Assistente da câmera</string>
     <string name="fromkeyguard_not_permission">Para poder usar este recurso, desbloqueie seu dispositivo primeiro.</string>
     <string name="front_camera_hint_text_place">"Tirar selfies será mais fácil
-Se você girar seu telefone"</string>
+se você girar seu telefone"</string>
     <string name="front_camera_hint_text_rotate">Gire seu telefone</string>
     <string name="function_friend_mode">Assistente da câmera</string>
     <string name="guide_pop_window_msg_cv_lens">Toque para experimentar Lentes Pro</string>
@@ -1224,7 +1224,7 @@ fiquem maiores nas fotos"</string>
     <string name="manual_picture_style_desc_new">Parâmetros</string>
     <string name="manually_raw_hint">"RAW"</string>
     <string name="manually_raw_tip">"Não é possível usar o zoom com o formato RAW"</string>
-	<string name="manually_ultra_raw_tip">"Não é possível usar o zoom com Ultra RAW"</string>
+    <string name="manually_ultra_raw_tip">"Não é possível usar o zoom com Ultra RAW"</string>
     <string name="masterfilter_description_title">Filtros de vídeo</string>
     <string name="message_snap_double_confirm">Pressionar e segurar nos botões de Volume aciona o NFC. Substituir este recurso?</string>
     <string name="metering_parameter_description_average">Medição média: leva em consideração todas as áreas da imagem e funciona melhor com cenários com iluminação uniforme.</string>
@@ -1490,7 +1490,7 @@ fiquem maiores nas fotos"</string>
     <string name="module_name_super_moon">Superlua</string>
     <string name="module_name_video">Vídeo</string>
     <string name="module_name_vlog">"VLOG"</string>
-    <string name="moiton_detection_960_fps_video_tip" formatted="false">Os vídeos %1dfps podem ter até %2d segundos de duração</string>
+    <string name="moiton_detection_960_fps_video_tip" formatted="false">Os vídeos %1dFPS podem ter até %2d segundos de duração</string>
     <string name="moiton_detection_tip">Detectando movimento… Mantenha o dispositivo estável.</string>
     <string name="moiton_detection_video_3840fps_3840">%dFPS</string>
     <string name="moiton_detection_video_electric_quantity_tip">Carregue seu dispositivo para poder usar este recurso</string>
@@ -1554,8 +1554,8 @@ fiquem maiores nas fotos"</string>
     <string name="network_access_user_notice_title">Conectando-se à internet</string>
     <string name="network_connection_failed">Não foi possível conectar</string>
     <string name="network_connection_ongoing">Conectando…</string>
-    <string name="network_connection_prerequisites">Ative o Bluetooth e o Wi-Fi no Centro de controle para usar a Gravação em dois telefones.</string>
-    <string name="network_connection_prerequisites_china">Ative o Bluetooth e o Wi-Fi no Centro de controle para usar a Gravação em dois telefones.</string>
+    <string name="network_connection_prerequisites">Ative o Bluetooth e o Wi-Fi no centro de controle para usar a Gravação em dois telefones.</string>
+    <string name="network_connection_prerequisites_china">Ative o Bluetooth e o Wi-Fi no centro de controle para usar a Gravação em dois telefones.</string>
     <string name="network_connection_rejected">Rejeitado</string>
     <string name="network_connection_timed_out">A conexão expirou</string>
     <string name="new_bie_dialog_cancel">Fechar descrição do recurso</string>
@@ -1641,7 +1641,7 @@ As imagens Ultra RAW economizam %d bits de dados, mantendo ainda mais detalhes."
     <string name="parameter_wb_title">Balanço de branco</string>
     <string name="parameter_zoom_slider_description">Arraste o controle deslizante do zoom horizontalmente para alterar suavemente de uma captura distante para uma captura próxima.</string>
     <string name="parameter_zoom_slider_title">"Zoom"</string>
-    <string name="path_settings">Configurar Apps do sistema/Câmera/Configurações</string>
+    <string name="path_settings">Configurar apps do sistema/Câmera/Configurações</string>
     <string name="photo_assistance_tips_title">Dicas</string>
     <string name="pic_flaw_blink_more">Parece que alguém no enquadramento fechou os olhos</string>
     <string name="pic_flaw_blink_one">Parece que a pessoa no enquadramento fechou os olhos</string>
@@ -1742,8 +1742,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_auto_capture_when_stable_title">Capturar objetos quando estável</string>
     <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
     <string name="pref_camera_auto_hibernation">Gravar com a tela desligada</string>
-    <string name="pref_camera_auto_hibernation_desc">Desative a tela após %d minutos de inatividade para economizar energia durante a gravação de vídeos regulares ou com time-lapse, usando rajadas cronometradas ou longa exposição</string>
-    <string name="pref_camera_auto_hibernation_description">Ao gravar, a tela será desligada após %d minutos de inatividade para economizar energia</string>
+    <string name="pref_camera_auto_hibernation_desc">Desative a tela após %d minutos de inatividade para economizar energia durante a gravação de vídeos regulares ou com time-lapse, usando rajadas cronometradas ou longa exposição.</string>
+    <string name="pref_camera_auto_hibernation_description">Ao gravar, a tela será desligada após %d minutos de inatividade para economizar energia.</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Média de quadros</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Medição pontual</string>
@@ -2122,10 +2122,10 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_google_lens_summary">Aponte a câmera para informações de contatos, URLs e códigos QR para ver as opções disponíveis</string>
     <string name="pref_google_lens_title">Sugestões Lens</string>
     <string name="pref_groupshot_with_primitive_title">Salvar também a foto original</string>
-    <string name="pref_hdr10_hdr10plus_video_mode_description">Otimizar cores para vídeos 4K (HDR10+) e 8K (HDR10). Este recurso só funciona em dispositivos compatíveis com HDR10+/HDR10.</string>
+    <string name="pref_hdr10_hdr10plus_video_mode_description">Otimiza cores para vídeos 4K (HDR10+) e 8K (HDR10). Este recurso só funciona em dispositivos compatíveis com HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">Otimiza cores e contraste para vídeos 4K e 8K automaticamente. Vídeos otimizados só podem ser reproduzidos em dispositivos compatíveis com HDR10.</string>
     <string name="pref_hdr10_video_mode_title">"HDR10"</string>
-    <string name="pref_hdr10plus_video_mode_description">Otimizar cores e ajustar o contraste para vídeos em 4K e 8K. Este recurso só funciona em dispositivos compatíveis com HDR10+.</string>
+    <string name="pref_hdr10plus_video_mode_description">Otimiza cores e ajusta o contraste para vídeos em 4K e 8K. Este recurso só funciona em dispositivos compatíveis com HDR10+.</string>
     <string name="pref_hybrid_video_mode_description">Usa a tecnologia HLG para aprimorar as cores e o alcance dinâmico dos vídeos gravados em alta resolução</string>
     <string name="pref_hybrid_video_mode_title">Híbrido</string>
     <string name="pref_i_n_r_b">Redução de ruídos inteligente</string>
@@ -2147,8 +2147,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_n_s_a">Configurações de áudio</string>
     <string name="pref_n_s_o_l">Ativado</string>
     <string name="pref_n_s_o_m">Desativado</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">Você só pode gravar vídeos 720p a 240 fps</string>
-    <string name="pref_new_slow_motion_video_quality_960_720only">Você só pode gravar vídeos 720p a 960 fps</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">Você só pode gravar vídeos 720p a 240 FPS</string>
+    <string name="pref_new_slow_motion_video_quality_960_720only">Você só pode gravar vídeos 720p a 960 FPS</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_p_d_e">Recursos Pro</string>
@@ -2168,18 +2168,18 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_qc_focus_position_title">Foco</string>
     <string name="pref_qc_focus_position_title_abbr">Foco</string>
     <string name="pref_retain_ai_scene">Câmera IA</string>
-    <string name="pref_retain_ai_scene_description">Preservar o status da câmera IA definido durante a sessão anterior</string>
+    <string name="pref_retain_ai_scene_description">Preserve o status da câmera IA definido durante a sessão anterior</string>
     <string name="pref_retain_beauty">Embelezar</string>
     <string name="pref_retain_beauty_description">Preserve as preferências de embelezamento selecionadas durante a sessão anterior</string>
     <string name="pref_retain_camera_common_mode_summary">Abre a Câmera no modo usado anteriormente ao invés de alternar para \"Foto\"</string>
     <string name="pref_retain_camera_mode">Modo da câmera</string>
     <string name="pref_retain_camera_mode_description">Preserve o modo usado anteriormente junto com a seleção da câmera frontal ou traseira</string>
-    <string name="pref_retain_camera_mode_summary">Alternar câmera para o modo usado anteriormente ao abrir o app.</string>
+    <string name="pref_retain_camera_mode_summary">Alterne a câmera para o modo usado anteriormente ao abrir o app.</string>
     <string name="pref_retain_camera_mode_title">Salvar modo anterior</string>
     <string name="pref_retain_camera_status_description">Preserve o modo usado anteriormente em vez de redefinir automaticamente para as preferências padrão</string>
     <string name="pref_retain_camera_status_title">Preservar configurações</string>
     <string name="pref_retain_live_shot">Fotos dinâmicas</string>
-    <string name="pref_retain_live_shot_description">Preserva o status de instantâneos dinâmicos definido durante a sessão anterior</string>
+    <string name="pref_retain_live_shot_description">Preserve o status de instantâneos dinâmicos definido durante a sessão anterior</string>
     <string name="pref_s_n_r_s_c">Reduzir ruído em vídeos dependendo do cenário</string>
     <string name="pref_scan_qrcode_summary">Só a câmera traseira pode digitalizar códigos QR no modo \"Foto\".</string>
     <string name="pref_scan_qrcode_title">Digitalizar códigos QR</string>
@@ -2192,7 +2192,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_skin_beautify_smooth_title">"Skin"</string>
     <string name="pref_smart_guide_title">Sugestões inteligentes</string>
     <string name="pref_super_night_se_desc">Detecte condições de pouca luz ao usar os Modos foto e retrato para melhorar a qualidade da imagem automaticamente</string>
-    <string name="pref_super_night_se_summary">Detectar condições de baixa luminosidade e melhorar qualidade da imagem automaticamente</string>
+    <string name="pref_super_night_se_summary">Detecta condições de baixa luminosidade e melhorar qualidade da imagem automaticamente</string>
     <string name="pref_super_night_se_title">Modo noturno automático</string>
     <string name="pref_switch_camera_heic_image_desc">"Um formato de foto mais eficiente que economiza espaço de armazenamento. Ele suporta o modo Ultra HD, mas não suporta fotos dinâmicas, remoção de marcas d’água regulares e alguns apps de terceiros."</string>
     <string name="pref_true_colour_video_mode_description">Grave vídeos com Dolby Vision para capturar detalhes realistas, cores impressionantes e contraste impressionante (esse recurso pode não ser compatível com alguns apps de terceiros)</string>
@@ -2221,17 +2221,17 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_video_focusmode_entry_continuous">Contínuo</string>
     <string name="pref_video_focusmode_title">Modo foco</string>
     <string name="pref_video_hfr_title">Taxa de quadros</string>
-    <string name="pref_video_quality_entry_1080p">"FHD 1080p, %d fps"</string>
-    <string name="pref_video_quality_entry_1080p_24fps">"FHD 1080p, 24 fps"</string>
-    <string name="pref_video_quality_entry_1080p_60fps">"FHD 1080p, %d fps"</string>
-    <string name="pref_video_quality_entry_480p">"SD 480p, 30 fps"</string>
-    <string name="pref_video_quality_entry_4kuhd">"UHD 4K, %d fps"</string>
-    <string name="pref_video_quality_entry_4kuhd_24fps">"UHD 4K, 24 fps"</string>
-    <string name="pref_video_quality_entry_4kuhd_60fps">"UHD 4K, %d fps"</string>
-    <string name="pref_video_quality_entry_720p">"HD 720p, %d fps"</string>
-    <string name="pref_video_quality_entry_720p_60fps">"HD 720p, 60 fps"</string>
-    <string name="pref_video_quality_entry_8k_24fps_uhd">"UHD 8K, 24 fps"</string>
-    <string name="pref_video_quality_entry_8kuhd">"UHD 8K, 30 fps"</string>
+    <string name="pref_video_quality_entry_1080p">"FHD 1080p, %d FPS"</string>
+    <string name="pref_video_quality_entry_1080p_24fps">"FHD 1080p, 24 FPS"</string>
+    <string name="pref_video_quality_entry_1080p_60fps">"FHD 1080p, %d FPS"</string>
+    <string name="pref_video_quality_entry_480p">"SD 480p, 30 FPS"</string>
+    <string name="pref_video_quality_entry_4kuhd">"UHD 4K, %d FPS"</string>
+    <string name="pref_video_quality_entry_4kuhd_24fps">"UHD 4K, 24 FPS"</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">"UHD 4K, %d FPS"</string>
+    <string name="pref_video_quality_entry_720p">"HD 720p, %d FPS"</string>
+    <string name="pref_video_quality_entry_720p_60fps">"HD 720p, 60 FPS"</string>
+    <string name="pref_video_quality_entry_8k_24fps_uhd">"UHD 8K, 24 FPS"</string>
+    <string name="pref_video_quality_entry_8kuhd">"UHD 8K, 30 FPS"</string>
     <string name="pref_video_quality_hfr_title">Taxa de quadros e qualidade de imagem</string>
     <string name="pref_video_quality_title">Qualidade de vídeo</string>
     <string name="pref_video_speed_entry_fast">Rápido</string>
@@ -2290,10 +2290,10 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="remote_online_disconnect_confirmation">Cancelar a conexão com %1$s?</string>
     <string name="remote_online_exit_confirmation">Desativar a Gravação em dois telefones agora?</string>
     <string name="remote_online_exit_connecting">Desconectar e sair da Gravação em dois telefones agora?</string>
-    <string name="remote_online_guide">Ative a Gravação em dois telefones no outro dispositivo usando o seletor do Centro de controle.</string>
+    <string name="remote_online_guide">Ative a Gravação em dois telefones no outro dispositivo usando o seletor do centro de controle.</string>
     <string name="remote_online_interrupted">Desconectado. Conecte-se novamente para continuar.</string>
     <string name="remote_online_introduction_i">A Gravação em dois telefones permite combinar feeds de dois dispositivos diferentes que estão próximos um do outro em um só vídeo. Você poderá visualizar os dois sinais de vídeo e o vídeo final neste dispositivo. Note que o áudio só será gravado por este dispositivo.</string>
-    <string name="remote_online_introduction_ii">Para que este recurso funcione, o outro dispositivo Mi ou Redmi deve suportar a Gravação em dois telefones. Ela pode ser ativada através do seletor no Centro de controle.</string>
+    <string name="remote_online_introduction_ii">Para que este recurso funcione, o outro dispositivo Mi ou Redmi deve suportar a Gravação em dois telefones. Ela pode ser ativada através do seletor no centro de controle.</string>
     <string name="remote_online_permission">"Alterar a permissão de localização da câmera para \"Permitir apenas durante o uso\" para ser capaz de usar a gravação em dois telefone."</string>
     <string name="remote_online_searching">Procurando por dispositivos…</string>
     <string name="remote_online_service_name">Gravação em dois telefones</string>
@@ -2331,7 +2331,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="settings_camera_tele_fallback_title">Telefoto adaptativa</string>
     <string name="share">Compartilhar</string>
     <string name="simple_mode_button_asd_flash">Desativar Captura com flash</string>
-    <string name="simple_mode_button_asd_hdr">Desativar captura HDR</string>
+    <string name="simple_mode_button_asd_hdr">Desativar Captura HDR</string>
     <string name="simple_mode_button_text_audio_capture">Desativar disparo por voz</string>
     <string name="simple_mode_button_text_color_effect">Desativar filtro</string>
     <string name="simple_mode_button_text_delay_capture">Desativar Timer</string>

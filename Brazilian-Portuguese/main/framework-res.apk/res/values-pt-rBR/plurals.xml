@@ -49,11 +49,11 @@
         <item quantity="one">em %d minuto</item>
     </plurals>
     <plurals name="duration_minutes_shortest">
-        <item quantity="other">%d min</item>
+        <item quantity="other">%d mins</item>
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="duration_minutes_shortest_future">
-        <item quantity="other">em %d min</item>
+        <item quantity="other">em %d mins</item>
         <item quantity="one">em %d min</item>
     </plurals>
     <plurals name="duration_years_relative">
@@ -125,7 +125,7 @@
         <item quantity="one">Por um minuto</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_short">
-        <item quantity="other">Por %d min</item>
+        <item quantity="other">Por %d mins</item>
         <item quantity="one">Por 1 min</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary">
@@ -133,7 +133,7 @@
         <item quantity="one">Por um minuto (até às %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary_short">
-        <item quantity="other">Por %1$d min (até %2$s)</item>
+        <item quantity="other">Por %1$d mins (até %2$s)</item>
         <item quantity="one">Por 1 min (até %2$s)</item>
     </plurals>
 </resources>

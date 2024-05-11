@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -133,7 +133,7 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
-	<string name="close_drawer">Fechar menu de navegação</string>
+    <string name="close_drawer">Fechar menu de navegação</string>
     <string name="close_sheet">Fechar folha</string>
     <string name="cloud_description_closed">Ocupado | Sincronização desativada</string>
     <string name="cloud_description_normal">Ocupado</string>
@@ -358,7 +358,7 @@ Envie este código para o supervisor."</string>
     <string name="get_back_password">Redefina a senha</string>
     <string name="get_back_pwd">Redefinindo senha</string>
     <string name="get_device_list_failed">Não é possível obter dispositivos</string>
-    <string name="get_identity_auth_url_failed">Não foi possível verificar a ID</string>
+    <string name="get_identity_auth_url_failed">Não foi possível verificar o ID</string>
     <string name="get_phone_bind_exceed_limit">Você pode associar até %d Contas Mi a um número de telefone. Não é possível adicionar mais contas.</string>
     <string name="get_phone_verifycode_exceed_limit">Não é possível enviar mais códigos de verificação para este número.</string>
     <string name="go_to_setting">Configurações</string>
@@ -399,7 +399,7 @@ Envie este código para o supervisor."</string>
     <string name="login_3rd_app_with_system_account">Fazer login com %s</string>
     <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
     <string name="login_check_find_device_failed_title">Não foi possível verificar as informações de segurança do dispositivo</string>
-    <string name="login_find_device_bind">Este dispositivo está associado à uma ID de Conta Mi existente (%s).</string>
+    <string name="login_find_device_bind">Este dispositivo está associado à um ID de Conta Mi existente (%s).</string>
     <string name="login_notification_button_text">Entrar</string>
     <string name="login_notification_desc">Desfrute de serviços em nuvem, espaço de armazenamento familiar e muito mais</string>
     <string name="login_notification_title">Entrar na sua Conta Mi</string>
@@ -568,10 +568,10 @@ Envie este código para o supervisor."</string>
     <string name="not_set">Não definido</string>
     <string name="notify_bind_security_phone">Adicione um telefone de recuperação</string>
     <string name="notify_complete_security_info">Adicione informações de recuperação</string>
-    <string name="notify_network_restricted_content_bg_network">O acesso à Internet da Conta Mi está restrito. Toque para permitir.</string>
+    <string name="notify_network_restricted_content_bg_network">O acesso à internet da Conta Mi está restrito. Toque para permitir.</string>
     <string name="notify_network_restricted_content_hidden_state">A atividade em segundo plano da Conta Mi está restrita. Toque para permitir.</string>
-    <string name="notify_network_restricted_content_mobile_network">O acesso à Internet da Conta Mi está restrito. Toque para permitir.</string>
-    <string name="notify_network_restricted_title">A Conta Mi não conseguiu se conectar à Internet</string>
+    <string name="notify_network_restricted_content_mobile_network">O acesso à internet da Conta Mi está restrito. Toque para permitir.</string>
+    <string name="notify_network_restricted_title">A Conta Mi não conseguiu se conectar à internet</string>
     <string name="notify_verify_again_security_phone">Confirmar</string>
     <string name="notify_verify_security_phone">Telefone</string>
     <string name="oauth_get_scopes_failed">Não foi possível obter informações da conta</string>
@@ -674,7 +674,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_email_or_id_hint_text">E-mail/ID da Conta Mi</string>
     <string name="passport_email_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usaá-lo para fazer login ou redefinir sua senha.</string>
     <string name="passport_error_auth_fail">Sessão expirada, faça o login novamente mais tarde</string>
-    <string name="passport_error_device_id">Não é possível obter a id do dispositivo</string>
+    <string name="passport_error_device_id">Não é possível obter o ID do dispositivo</string>
     <string name="passport_error_dup_email">O e-mail digitado já está associado com outra conta.</string>
     <string name="passport_error_email">O endereço de e-mail digitado é inválido</string>
     <string name="passport_error_empty_captcha_code">Digitar captcha</string>
@@ -687,7 +687,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_error_empty_vcode">Digite o código de verificação</string>
     <string name="passport_error_empty_voice_code">Digitar captcha</string>
     <string name="passport_error_illegal_pwd">Senha inválida</string>
-    <string name="passport_error_invalid_dev_id">Sua ID de dispositivo é inválida.</string>
+    <string name="passport_error_invalid_dev_id">Seu ID de dispositivo é inválido.</string>
     <string name="passport_error_invalid_phone_num">Número do telefone inválido</string>
     <string name="passport_error_length_limit">O texto digitado é muito longo</string>
     <string name="passport_error_login">Não foi possível fazer o login</string>
@@ -882,7 +882,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_sms_verification_code_login_or_register">Faça o login ou crie uma conta usando SMS</string>
     <string name="passport_sns_bind_limit">Muitas tentativas. Tente outras formas de fazer login.</string>
     <string name="passport_sync_account_data">Sincronizando informações da conta…</string>
-    <string name="passport_sync_account_data_failed_warning">As informações de sua conta estão sendo sincronizadas agora, e você pode fazer o login usando a ID da Conta Mi. Caso deseje fazer o login usando seu telefone ou e-mail, aguarde até que suas informações estejam totalmente sincronizadas.</string>
+    <string name="passport_sync_account_data_failed_warning">As informações de sua conta estão sendo sincronizadas agora, e você pode fazer o login usando o ID da Conta Mi. Caso deseje fazer o login usando seu telefone ou e-mail, aguarde até que suas informações estejam totalmente sincronizadas.</string>
     <string name="passport_system_error">O sistema está ocupado. Espere um pouco e tente novamente.</string>
     <string name="passport_talkback_image_captcha">Código de verificação por imagem</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação por imagem</string>
@@ -903,7 +903,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="passport_uplink_reg">Usar número de telefone</string>
-    <string name="passport_uplink_send_sms_hint">"Toque \"Enviar\" depois de ser redirecionado para a página com uma mensagem composta."</string>
+    <string name="passport_uplink_send_sms_hint">"Toque em \"Enviar\" depois de ser redirecionado para a página com uma mensagem composta."</string>
     <string name="passport_uplink_slot1_reg">Usar SIM %d</string>
     <string name="passport_uplink_slot2_reg">Usar SIM 2</string>
     <string name="passport_uplink_sms_send_cancel">Envio do link SMS cancelado</string>
@@ -929,7 +929,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_user_avatar_update_title">Alterar foto do perfil</string>
     <string name="passport_user_avatar_uploading">Aguarde…</string>
     <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
-    <string name="passport_user_id_notice">Sua ID da Conta Mi é %s.</string>
+    <string name="passport_user_id_notice">Seu ID da Conta Mi é %s.</string>
     <string name="passport_user_name_phone_number">Número de telefone</string>
     <string name="passport_user_password_hint">Senha</string>
     <string name="passport_user_reg_region">País/Região</string>
@@ -995,11 +995,11 @@ Envie este código para o supervisor."</string>
     <string name="reopen">Ativar</string>
     <string name="replace_binded_phone">Substituir telefone</string>
     <string name="request_open_permission">Permissões necessárias</string>
-    <string name="request_use_camera_message">"Permitir que Conta Mi acesse a câmera do seu dispositivo?"</string>
+    <string name="request_use_camera_message">"Permitir que a Conta Mi acesse a câmera do seu dispositivo?"</string>
     <string name="request_use_camera_title">Acesso a Câmera</string>
     <string name="request_use_gallery_message">Permitir que a Conta Mi acesse a Galeria?</string>
     <string name="request_use_gallery_title">Acesso a Galeria</string>
-    <string name="request_use_writing_clipboard_message">Para copiar a ID da sua Conta Mi, permita que a Conta Mi salve itens na área de transferência.</string>
+    <string name="request_use_writing_clipboard_message">Para copiar o ID da sua Conta Mi, permita que a Conta Mi salve itens na área de transferência.</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">Você solicitou muitos códigos de verificação. Certifique-se de que o e-mail de verificação não está na sua caixa de Spam.</string>
     <string name="resend_email_reach_limit_title">Não é possível enviar o e-mail</string>
@@ -1145,7 +1145,7 @@ Envie este código para o supervisor."</string>
     <string name="user_agreement_device_permission_desc">Para garantir a segurança do ambiente de login</string>
     <string name="user_agreement_device_permission_title">Acessar informações do dispositivo</string>
     <string name="user_agreement_must_permission_msg">Permissões obrigatórias (usadas para recursos e serviços básicos deste app)</string>
-    <string name="user_agreement_network_permission_msg">Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
+    <string name="user_agreement_network_permission_msg">Este app precisa se conectar à internet e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="user_agreement_permission_summary_msg">Xiaomi Account allows you to access all of the services provided by Xiaomi. This app needs to connect to the internet and requires the following permissions to be able to work normally:</string>
     <string name="user_agreement_use_account_msg">A Conta Mi permite que você acesse todos os serviços fornecidos pela Xiaomi.</string>
     <string name="user_agreement_wifi_permission_title">Ativar e desativar o Wi-Fi</string>
@@ -1181,4 +1181,3 @@ Envie este código para o supervisor."</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="yesterday">Ontem</string>
 </resources>
-
