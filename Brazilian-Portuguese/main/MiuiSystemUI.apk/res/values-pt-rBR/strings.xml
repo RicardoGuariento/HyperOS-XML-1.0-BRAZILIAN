@@ -1691,8 +1691,8 @@ dd/MM"</string>
     <string name="miui_snooze_toast_hint_default">"As próximas notificações serão ocultadas por %d minuto. "</string>
     <string name="miui_snooze_toast_hint_until_unlock_screen">"As próximas notificações ficarão ocultas até que o dispositivo seja bloqueado. "</string>
     <string name="miui_snooze_until_unlock_screen">Até bloquear</string>
-    <string name="miui_snooze_user_set_fail">Vá para as Configurações > Notificações e barra de status para mais opções</string>
-    <string name="miui_snooze_user_set_success">Aplicado com sucesso. Vá para as Configurações > Notificações e barra de status para mais opções.</string>
+    <string name="miui_snooze_user_set_fail">Vá para as Configurações para mais opções</string>
+    <string name="miui_snooze_user_set_success">Aplicado com sucesso. Vá para as Configurações para mais opções.</string>
     <string name="miui_toast_zen_dnd_to_off">Não perturbe desativado. Os sons e vibrações foram restaurados.</string>
     <string name="miui_toast_zen_standard_to_off">Modo silencioso desativado. Toques restaurados.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Modo silencioso desativado. Toques, sons de notificação e multimídia, serão reproduzidos.</string>
@@ -3413,7 +3413,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="accessibility_floating_button_undo">Desfazer</string>
     <string name="accessibility_floating_button_undo_message_label_text">%s atalho removido</string>
     <string name="accessibility_floating_button_undo_message_number_text">{count, plural, =1 {# atalho removido} other {# atalhos removidos} }</string>
-    <string name="accessibility_left_uwb_button">Xiaomi Magic Control</string>
+    <string name="accessibility_left_uwb_button">"Xiaomi Magic Control"</string>
     <string name="accessibility_magnification_done">Feito</string>
     <string name="accessibility_magnification_fullscreen">Tela cheia</string>
     <string name="accessibility_magnification_large">Grande</string>

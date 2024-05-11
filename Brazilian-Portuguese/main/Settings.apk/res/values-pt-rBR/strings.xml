@@ -2867,7 +2867,7 @@ deslize o dedo de cima para baixo na tela para abrir a aba suspensa. Em seguida,
     <string name="conversations_category_title">Conversas</string>
     <string name="convert_to_esim_title">Converter para eSIM</string>
     <string name="convert_to_fbe_warning">"Converte a partição de dados para criptografia baseada em arquivos.
-Atenção: Isto apagará todos os seus dados.
+Atenção: isto apagará todos os seus dados.
 Este recurso está sendo desenvolvido, e pode não funcionar corretamente.
 Toque em \"Apagar e converter…\" para continuar."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
@@ -4860,7 +4860,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="headset_adaptive_hearing_summary">Ajuste automaticamente o som com base no formato do seu ouvido e no ambiente</string>
     <string name="headset_adaptive_hearing_title">Som adaptativo</string>
     <string name="headset_ambient_sound">Sons do ambiente</string>
-    <string name="headset_aptx_adapter">Qualcomm® aptX™ Adaptive</string>
+    <string name="headset_aptx_adapter">"Qualcomm® aptX™ Adaptive"</string>
     <string name="headset_connectiong">Conectando…</string>
     <string name="headset_find_both">Ambos</string>
     <string name="headset_find_cancel">Cancelar</string>
@@ -5573,7 +5573,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="location_agps_supl_server_addr">Endereço do servidor</string>
     <string name="location_agps_supl_server_port">Porta do servidor</string>
     <string name="location_agps_supl_settings">Configurações de SUPL</string>
-    <string name="location_app_level_permissions">Acesso do app à localização</string>
+    <string name="location_app_level_permissions">Apps com acesso à localização</string>
     <string name="location_app_permission_summary_location_off">Localização desativada</string>
     <string name="location_app_permission_summary_location_on">{count, plural, =1 {# do {total} app têm acesso à localização} other {# do {total} apps têm acesso à localização} }</string>
     <string name="location_category">Localização</string>
@@ -6317,11 +6317,11 @@ Não poderá reverter esta ação."</string>
     <string name="middle_function_key">Área central</string>
     <string name="midnight">"AM"</string>
     <string name="miheadet_up_music">Anterior</string>
-    <string name="miheadset_Box">"Caixa"</string>
+    <string name="miheadset_Box">"Case"</string>
     <string name="miheadset_Intelligentpickfree_summary">Quando o cancelamento de ruído está ativado, seus fones de ouvido mudarão automaticamente para transparência por um curto período de tempo quando detectarem vozes</string>
     <string name="miheadset_LEAudio_summary">"Alguns recursos não estarão disponíveis quando o áudio de baixa energia estiver ativado."</string>
     <string name="miheadset_LEAudio_title">Ativar áudio de baixa energia?</string>
-    <string name="miheadset_LE_on_toast">Certifique-se de que ambos os fones de ouvido estejam carregados e retire-os da caixa antes de ativar esse recurso</string>
+    <string name="miheadset_LE_on_toast">Certifique-se de que ambos os fones de ouvido estejam carregados e retire-os do case antes de ativar esse recurso</string>
     <string name="miheadset_LeftEar">Esquerdo</string>
     <string name="miheadset_RightEar">Direito</string>
     <string name="miheadset_active">Energético</string>
@@ -6383,7 +6383,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_enhence_low">Aprimorar os graves</string>
     <string name="miheadset_equalizer">Equalizador</string>
     <string name="miheadset_feedback">"Feedback"</string>
-    <string name="miheadset_feedback_summary">Para poder enviar registros, coloque os dois fones de ouvido na caixa de carregamento e mantenha a tampa aberta.</string>
+    <string name="miheadset_feedback_summary">Para poder enviar registros, coloque os dois fones de ouvido no case de carregamento e mantenha a tampa aberta.</string>
     <string name="miheadset_feedback_title">Enviar registros</string>
     <string name="miheadset_fitness_check">Teste de fones de ouvido</string>
     <string name="miheadset_fitness_check_checking">Testando…</string>
@@ -7002,7 +7002,7 @@ Selecione seu sistema operacional:"</string>
     <string name="network_5G_recommended">5G (recomendado)</string>
     <string name="network_acceleration">Aceleração de rede</string>
     <string name="network_alarm">Não silenciar chamadas pela internet</string>
-    <string name="network_alarm_summary">Nota: Alguns apps não são compatíveis com este recurso. %1$s</string>
+    <string name="network_alarm_summary">Nota: alguns apps não são compatíveis com este recurso. %1$s</string>
     <string name="network_alarm_summary_reg">Ver apps suportados</string>
     <string name="network_alarm_support_apps">Apps suportados</string>
     <string name="network_and_internet_preferences_summary">Conecte-se a redes públicas</string>
@@ -8389,8 +8389,8 @@ Você não perderá os dados dos apps."</string>
     <string name="reset_bluetooth_wifi_complete_toast">Bluetooth e Wi‑Fi foram redefinidos</string>
     <string name="reset_bluetooth_wifi_desc">Isso redefinirá todas as configurações de Wi-Fi e Bluetooth. Você não pode desfazer esta ação.</string>
     <string name="reset_bluetooth_wifi_title">Redefinir Bluetooth e Wi-Fi</string>
-    <string name="reset_confirm_directory">"Nota: Antes de restaurar os itens, verifique se a pasta \"MIUI/backup/AllBackup\" existe no seu dispositivo. Se não existir, crie-a."</string>
-    <string name="reset_confirm_directory_pad">"Nota: Antes de restaurar os itens, verifique se a pasta \"MIUI/backup/AllBackup\" existe no seu dispositivo. Se não existir, crie-a."</string>
+    <string name="reset_confirm_directory">"Nota: antes de restaurar os itens, verifique se a pasta \"MIUI/backup/AllBackup\" existe no seu dispositivo. Se não existir, crie-a."</string>
+    <string name="reset_confirm_directory_pad">"Nota: antes de restaurar os itens, verifique se a pasta \"MIUI/backup/AllBackup\" existe no seu dispositivo. Se não existir, crie-a."</string>
     <string name="reset_dashboard_summary">A rede, os apps ou o dispositivo podem ser redefinidos</string>
     <string name="reset_dashboard_summary_onlyApps">Os apps podem ser redefinidos</string>
     <string name="reset_dashboard_title">Redefinir opções</string>
@@ -10267,7 +10267,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="structure_face_data_ir_input_face">Mova levemente sua cabeça</string>
     <string name="structure_face_data_manage_delete_msg">Excluir dados faciais 3D</string>
     <string name="structure_face_data_suggestion_text">"Certifique-se de que todas as partes do seu rosto estão claramente visíveis. Não use chapéus, óculos de sol ou outros acessórios que possam cobrir o seu rosto durante o registro dos dados faciais 3D. Certifique-se de que seu rosto está bem iluminado."</string>
-    <string name="structure_face_data_suggestion_warning_text">Nota: O uso dos dados faciais 3D é menos seguro do que o uso de uma senha. Pessoas ou objetos que pareçam com você podem conseguir desbloquear seu dispositivo.</string>
+    <string name="structure_face_data_suggestion_warning_text">Nota: o uso dos dados faciais 3D é menos seguro do que o uso de uma senha. Pessoas ou objetos que pareçam com você podem conseguir desbloquear seu dispositivo.</string>
     <string name="structure_face_delete_data_dialog_msg">Não foi possível abrir a Câmera e obter a pré-visualização. Tente novamente."</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Tente novamente</string>
     <string name="structure_face_delete_data_dialog_title">Não foi possível abrir a Câmera</string>
