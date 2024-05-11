@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -32,12 +32,12 @@
     <string name="am">"AM"</string>
     <string name="brvah_load_complete">Clique para carregar mais</string>
     <string name="brvah_load_end">Não há mais dados</string>
-    <string name="brvah_load_failed">Carregamento falhou, por favor clique aqui para tentar novamente</string>
-    <string name="brvah_loading">Carregando...</string>
+    <string name="brvah_load_failed">Carregamento falhou. Por favor, clique aqui para tentar novamente.</string>
+    <string name="brvah_loading">Carregando…</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="copy">Copiar</string>
-    <string name="date_picker_lunar">Calendário tradicional chinês.</string>
+    <string name="date_picker_lunar">Calendário Tradicional Chinês.</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
@@ -198,7 +198,7 @@ Toque duas vezes para ver os detalhes."</string>
     <string name="pa_accessibility_picker_order_list_to_theme">Abrir o Temas</string>
     <string name="pa_accessibility_picker_search_cancel">Barra de pesquisa de widgets. Toque duas vezes para cancelar.</string>
     <string name="pa_accessibility_picker_search_tips">Barra de pesquisa de widgets. Toque duas vezes para pesquisar.</string>
-    <string name="pa_accessibility_picker_suit_item_add_to_desktop">Loja de Widgets. %s selecionado. Toque duas vezes para ver detalhes.</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_desktop">Loja de widgets. %s selecionado. Toque duas vezes para ver detalhes.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Loja de widgets. %s selecionado. Toque duas vezes para ver detalhes.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_third">Loja de widgets. %s selecionado. Toque duas vezes para ver detalhes.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s selecionado.</string>
@@ -258,9 +258,9 @@ Toque duas vezes para ver os detalhes."</string>
     <string name="pa_edit_text_size">Tamanho do texto</string>
     <string name="pa_express_all">Tudo</string>
     <string name="pa_express_auth_extra">Adicionar número de telefone</string>
-    <string name="pa_express_auth_title">Faixa entrega Express</string>
+    <string name="pa_express_auth_title">Rastrear entrega expressa</string>
     <string name="pa_express_call">Ligar</string>
-    <string name="pa_express_company">serviço de entrega</string>
+    <string name="pa_express_company">Serviço de entrega</string>
     <string name="pa_express_content_title_2">Entrega expressa</string>
     <string name="pa_express_detail_list_empty_text">"Itens podem aparecer aqui com um atraso.
 Você também pode acompanhar a entrega expressa nos sites oficiais de serviços de correio."</string>
@@ -344,7 +344,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_express_state_unknown">Sem dados ainda</string>
     <string name="pa_express_tail_number">Número do pedido: %1$s</string>
     <string name="pa_express_title">Entrega expressa</string>
-    <string name="pa_express_widget_list_item_desc">"Tracking number: "</string>
+    <string name="pa_express_widget_list_item_desc">"Numero de rastreio: "</string>
     <string name="pa_express_widget_logout">Faça login para ver seus pacotes de entrega expressa</string>
     <string name="pa_express_widget_order_42">Digite o número de rastreamento</string>
     <string name="pa_express_widget_post">Enviar pacote</string>
@@ -374,7 +374,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_lite_setting_private_auth_summary">Sugestões de apps serão baseadas em seus dados de uso</string>
     <string name="pa_lite_setting_private_policy">Política de Privacidade</string>
     <string name="pa_lite_setting_service_covid">"Ferramentas diárias"</string>
-    <string name="pa_lite_setting_service_covid_summry">Os recursos que você usa diariamente, tudo em um só lugar</string>
+    <string name="pa_lite_setting_service_covid_summry">Os recursos que você usa diariamente, tudo em um só lugar.</string>
     <string name="pa_lite_setting_service_express">Entrega expressa</string>
     <string name="pa_lite_setting_service_express_summry">Acompanhe seus pacotes de entrega expressa</string>
     <string name="pa_lite_setting_service_management">Gerenciar serviços</string>
@@ -388,6 +388,8 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_lite_setting_service_quick_func_summary">Abrir apps e serviços usados com frequência</string>
     <string name="pa_lite_setting_service_search">Procurar</string>
     <string name="pa_lite_setting_service_search_summary">Pesquise na web e este dispositivo</string>
+    <string name="pa_lite_setting_service_shopping">Shopping</string>
+    <string name="pa_lite_setting_service_shopping_summary">Obtenha descontos e ofertas de compras</string>
     <string name="pa_lite_setting_service_sports">Esportes</string>
     <string name="pa_lite_setting_service_sports_summary">Últimas informações sobre as equipes que você segue</string>
     <string name="pa_lite_setting_service_stock">Ações</string>
@@ -460,7 +462,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_picker_detail_state_error_retry">Algo deu errado. Tente novamente.</string>
     <string name="pa_picker_detail_suit_price_already_bought">Comprado</string>
     <string name="pa_picker_detail_theme_app_cta">Configurações</string>
-    <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, permita que temas possam se conectarem à Internet primeiro."</string>
+    <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, permita que temas possam se conectarem à internet primeiro."</string>
     <string name="pa_picker_detail_theme_app_need_login">Entrar</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Faça login na sua Conta Mi primeiro. "</string>
     <string name="pa_picker_detail_view_more">Veja mais</string>
@@ -473,7 +475,7 @@ Fique ligado!"</string>
     <string name="pa_picker_home_request_failed">Erro de rede</string>
     <string name="pa_picker_home_search_hint">Procurar</string>
     <string name="pa_picker_home_title">Adicionar widgets</string>
-    <string name="pa_picker_item_retry">"Não pôde carregar itens. Tente novamente."</string>
+    <string name="pa_picker_item_retry">"Não foi possível carregar itens. Tente novamente."</string>
     <string name="pa_picker_list_app_footer_classic_widget">Widgets Android</string>
     <string name="pa_picker_list_app_title">Apps com widgets.</string>
     <string name="pa_picker_list_app_widget_count">%s</string>
@@ -488,14 +490,14 @@ Fique ligado!"</string>
     <string name="pa_picker_order_go_to_allow_cta">Permitir</string>
     <string name="pa_picker_order_go_to_login">Entrar</string>
     <string name="pa_picker_order_login_xiaomi_account">Entre na sua Conta Mi para poder usar este recurso.</string>
-    <string name="pa_picker_order_theme_app_cta_pre">Permita que este app se conecte à Internet para poder usar este recurso.</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Permita que este app se conecte à internet para poder usar este recurso.</string>
     <string name="pa_picker_permission_denied">"O Assistente precisa acessar o status de instalação
 para mostrar widgets."</string>
     <string name="pa_picker_purchase_order">Comprado</string>
     <string name="pa_picker_recommend_add_limit_toast">"Não é possível adicionar mais widgets"</string>
     <string name="pa_picker_recommend_bottom_button_add">Adicionar widget</string>
     <string name="pa_picker_recommend_bottom_button_download_and_add">Adicionar widget</string>
-    <string name="pa_picker_recommend_download_tip">Ao adicionar um widget, o app associado será baixado automaticamente</string>
+    <string name="pa_picker_recommend_download_tip">Ao adicionar um widget, o app associado será baixado automaticamente.</string>
     <string name="pa_picker_recommend_title">Recomendado para você</string>
     <string name="pa_picker_request">Configurações</string>
     <string name="pa_picker_retry">Tente novamente</string>
@@ -537,8 +539,8 @@ Adicione widgets para começar."</string>
     <string name="pa_recommend_card_add_des">Adicione este widget ao Assistente</string>
     <string name="pa_recommend_card_image_content_des">Este é um widget. Abra nossa loja de widgets para saber mais.</string>
     <string name="pa_recommend_card_image_text_null_des">Sem dados</string>
-    <string name="pa_recommend_card_summary">Receber Recomendações do Widget.</string>
-    <string name="pa_recommend_card_text_des">%s. Abra nossa loja Widget para saber mais.</string>
+    <string name="pa_recommend_card_summary">Receber recomendações de widgets.</string>
+    <string name="pa_recommend_card_text_des">%s. Abra nossa loja de widget para saber mais.</string>
     <string name="pa_recommend_card_title">Recomendada</string>
     <string name="pa_recommend_no_network">Baixe o app primeiro</string>
     <string name="pa_rtk_card_title">Painel</string>
@@ -555,7 +557,7 @@ Adicione widgets para começar."</string>
     <string name="pa_search_title">Procurar</string>
     <string name="pa_setting">Configurações</string>
     <string name="pa_setting_app_usage_auth_close_auth">Desativar</string>
-    <string name="pa_setting_app_usage_auth_dialog_message">"Você não poderá usar o widget \"Sugestões do app\" depois de desativar esse recurso. Desativar mesmo assim?"</string>
+    <string name="pa_setting_app_usage_auth_dialog_message">"Você não poderá usar o widget \"Sugestões do app\" após desativar esse recurso. Desativar mesmo assim?"</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atenção!</string>
     <string name="pa_setting_bugreport">"Feedback"</string>
     <string name="pa_setting_perm_empty">Nada aqui ainda</string>
@@ -584,7 +586,7 @@ Adicione widgets para começar."</string>
     <string name="pa_setting_privacy_policy_update_agree">Aceitar</string>
     <string name="pa_setting_privacy_policy_update_exit">Saída</string>
     <string name="pa_setting_privacy_policy_update_link">Política de Privacidade</string>
-    <string name="pa_setting_privacy_policy_update_message" formatted="false">"Assistente Política de Privacidade foi atualizada:
+    <string name="pa_setting_privacy_policy_update_message" formatted="false">"A Política de Privacidade do Assistente foi atualizada:
 %s Leia e concorde com a nova versão do %s antes de continuar."</string>
     <string name="pa_setting_privacy_policy_update_title">Política de privacidade atualizada</string>
     <string name="pa_setting_privacy_revoke_cta">Retirada de consentimento</string>
@@ -594,19 +596,19 @@ Adicione widgets para começar."</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Retirar o consentimento para a Política de Privacidade do Assistente</string>
     <string name="pa_setting_privacy_revoke_error_message">Um erro do servidor ocorreu. Espere um minuto ou dois e tente novamente.</string>
     <string name="pa_setting_privacy_revoke_error_title">"Não podia retirar o consentimento"</string>
-    <string name="pa_setting_privacy_revoke_no_net_message">Seu dispositivo precisa se conectar à rede para você Para poder retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="pa_setting_privacy_revoke_no_net_message">Seu dispositivo precisa se conectar à rede para você para poder retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="pa_setting_privacy_revoke_no_net_title">"Não foi possível conectar-se à rede"</string>
     <string name="pa_setting_privacy_revoke_positive">Entendi</string>
     <string name="pa_setting_privacy_third_parties">Declaração sobre como compartilhar dados com terceiros</string>
     <string name="pa_setting_privacy_view_priv">Ver Política de Privacidade</string>
     <string name="pa_setting_simplify_title_bar">Assistente</string>
     <string name="pa_setting_version">Versão: %1$s</string>
-    <string name="pa_shopping_dialog_privacy_authorize_message">Welcome to Shopping! You can use this widget to get discounts and shopping offers. Read and agree to our Statement on Third-Party Services and Privacy Policy before you continue.</string>
-    <string name="pa_shopping_dialog_privacy_authorize_title">Terms and conditions</string>
-    <string name="pa_shopping_dialog_privacy_desc">Privacy Policy</string>
-    <string name="pa_shopping_dialog_privacy_withdraw_message">"If you continue, you'll withdraw your consent to the Privacy Policy of Shopping. We will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Shopping provides its services based on the collection of necessary personal information, your withdrawal of consent will be held as a refusal to accept these services."</string>
-    <string name="pa_shopping_dialog_privacy_withdraw_title">Withdrawal of consent</string>
-    <string name="pa_shopping_dialog_statement_desc">Statement on Third-Party Services</string>
+    <string name="pa_shopping_dialog_privacy_authorize_message">Bem-vindo ao Shopping! Você pode usar este widget para obter descontos e ofertas de compras. Leia e concorde com nossa Declaração sobre Serviços de Terceiros e Política de Privacidade antes de continuar.</string>
+    <string name="pa_shopping_dialog_privacy_authorize_title">Termos e condições</string>
+    <string name="pa_shopping_dialog_privacy_desc">Política de Privacidade</string>
+    <string name="pa_shopping_dialog_privacy_withdraw_message">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Shopping. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Shopping presta seus serviços com base na coleta de informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar esses serviços."</string>
+    <string name="pa_shopping_dialog_privacy_withdraw_title">Retirada do consentimento</string>
+    <string name="pa_shopping_dialog_statement_desc">Declaração sobre serviços de terceiros</string>
     <string name="pa_shopping_page_product_action_bar_title">Todos os produtos</string>
     <string name="pa_shopping_page_product_delete_bar_desc">Excluir produtos</string>
     <string name="pa_shopping_page_product_delete_dialog_message">Excluir %d itens selecionados agora?</string>
@@ -615,10 +617,10 @@ Adicione widgets para começar."</string>
     <string name="pa_shopping_page_product_item_icon_tag_new">Recomendado</string>
     <string name="pa_shopping_page_product_jump_setting_error">Um erro ocorreu. Verifique suas configurações de rede e tente novamente.</string>
     <string name="pa_shopping_page_setting_source_desc">Obtenha descontos e ofertas em produtos</string>
-    <string name="pa_shopping_page_setting_statement">Disclaimer</string>
+    <string name="pa_shopping_page_setting_statement">Isenção de responsabilidade</string>
     <string name="pa_shopping_page_setting_update_channel_failure">Um erro ocorreu. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="pa_shopping_page_setting_widthdraw_desc">Withdraw your consent to the Shopping Privacy Policy</string>
-    <string name="pa_shopping_page_setting_withdraw">Withdrawal of consent</string>
+    <string name="pa_shopping_page_setting_widthdraw_desc">Retirar o seu consentimento com a Política de Privacidade do Shopping</string>
+    <string name="pa_shopping_page_setting_withdraw">Retirada do consentimento</string>
     <string name="pa_shopping_widget_empty_content_click_desc">Nada aqui ainda</string>
     <string name="pa_shopping_widget_empty_content_desc">Nada aqui ainda</string>
     <string name="pa_shopping_widget_full_bottom_desc">Todos os produtos</string>
@@ -626,7 +628,7 @@ Adicione widgets para começar."</string>
     <string name="pa_shopping_widget_full_title_desc_new">Economize %s CNY nestes</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Toque para conceder permissões para usar o Shopping</string>
     <string name="pa_shopping_widget_no_network_content_desc">"Não foi possível conectar à rede"</string>
-    <string name="pa_shopping_widget_no_privacy_content_desc">Agree to the Shopping Privacy Policy to be able to use this feature. Tap to view.</string>
+    <string name="pa_shopping_widget_no_privacy_content_desc">Concorde com a Política de Privacidade do Shopping para poder usar esse recurso. Toque para visualizar.</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Configurações</string>
     <string name="pa_shopping_widget_title">"Shopping"</string>
     <string name="pa_shortcut_accessibility_description">"Assistente fornece atalhos para apps terceirizados selecionados. Esses atalhos não funcionam se você desativar o recurso."</string>
@@ -653,7 +655,7 @@ Adicione widgets para começar."</string>
     <string name="pa_smart_shortcut_widget_label">Sugestões de apps</string>
     <string name="pa_sports_action_live">Viver</string>
     <string name="pa_sports_action_preview">Pré-visualização</string>
-    <string name="pa_sports_action_review">replay</string>
+    <string name="pa_sports_action_review">Replay</string>
     <string name="pa_sports_add_followed">Adicionar equipes</string>
     <string name="pa_sports_add_shown">Adicionar a mostrar</string>
     <string name="pa_sports_all_club">Equipes.</string>
@@ -711,7 +713,7 @@ Adicione widgets para começar."</string>
     <string name="pa_stock_follow_list_label">Minhas empresas</string>
     <string name="pa_stock_green_grow">Verde - para cima, vermelho - para baixo</string>
     <string name="pa_stock_hszs">Aguarda tarde.</string>
-    <string name="pa_stock_init_toast">Inicializando widgets...</string>
+    <string name="pa_stock_init_toast">Inicializando widgets…</string>
     <string name="pa_stock_label_stock">Ações</string>
     <string name="pa_stock_load_data_failure">"Não foi possível carregar informações"</string>
     <string name="pa_stock_network_unavailable">"Não foi possível conectar-se à rede"</string>
@@ -730,7 +732,7 @@ Adicione widgets para começar."</string>
     <string name="pa_stock_widget_empty">Nenhum item aqui ainda</string>
     <string name="pa_stock_widget_name">Ações</string>
     <string name="pa_sure">"OK"</string>
-    <string name="pa_toast_home_layout_locked">Layout da tela inicial está bloqueado</string>
+    <string name="pa_toast_home_layout_locked">Layout da Tela inicial está bloqueado</string>
     <string name="pa_toast_message_not_support_size">"Widgets deste tamanho não são compatíveis com o Assistente"</string>
     <string name="pa_vertical_center">Layout vertical. Centro alinhado.</string>
     <string name="pa_vertical_left">Layout vertical. Esquerda alinhada.</string>
@@ -751,9 +753,9 @@ Adicione widgets para começar."</string>
     <string name="pa_widget_need_download_dialog_message_install">Para poder usar widgets, instale \"%s\" primeira.</string>
     <string name="pa_widget_need_download_dialog_message_load">Para poder usar widgets, carregar \"%s\" primeira.</string>
     <string name="pa_widget_need_download_dialog_message_upgrade">Para poder usar widgets, atualizar \"%s\" primeira.</string>
-    <string name="pa_widget_need_download_permission">Permissions</string>
-    <string name="pa_widget_need_download_privacy">Privacy</string>
-    <string name="pa_widget_need_download_version">Version %1$s</string>
+    <string name="pa_widget_need_download_permission">Permissões</string>
+    <string name="pa_widget_need_download_privacy">Privacidade</string>
+    <string name="pa_widget_need_download_version">Versão %1$s</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="saturday">Sábado</string>
@@ -782,7 +784,7 @@ Adicione widgets para começar."</string>
     <string name="solar_term_summer_solstice">Solstício de verão</string>
     <string name="solar_term_the_rains">Chuveiros de primavera</string>
     <string name="solar_term_vernal_equinox">equinócio vernal</string>
-    <string name="solar_term_white_dews">Dews.</string>
+    <string name="solar_term_white_dews">Orvalho.</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="sunday">Domingo</string>

@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="about_extreme_mode">Economia extrema de bateria</string>
+    <string name="about_extreme_mode">Ultra economia de bateria</string>
     <string name="about_hide_mode">Sobre a Economia de bateria de apps</string>
     <string name="accessibility_service_description">Economia de energia inteligente</string>
     <string name="actionbar_button_up_description">Voltar</string>
@@ -40,7 +40,7 @@
     <string name="app_name">Bateria e desempenho</string>
     <string name="app_preload_policies_summary">Usar machine learning para prever os apps que você usa frequentemente para carregar os recursos antecipadamente.</string>
     <string name="app_preload_policies_title">Pré-carregamento por IA</string>
-    <string name="appconfig_active_app_dialog_title">Gerenciamento de apps ativos</string>
+    <string name="appconfig_active_app_dialog_title">Gerenciar apps ativos</string>
     <string name="atrace_saved">Salvo com sucesso</string>
     <string name="atrace_saving">Salvando log do atrace…</string>
     <string name="atrace_start">Gravando log do atrace…</string>
@@ -95,14 +95,14 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="extreme_add_white_list_summary">Adicione até 4 apps</string>
     <string name="extreme_add_white_list_title">Exceções de segundo plano</string>
-    <string name="extreme_mode_max_item_alert">Você pode selecionar até 4 apps para executarem em segundo plano quando a Economia extrema de bateria estiver ativada</string>
-    <string name="extreme_power_config_mode_category">Economia extrema de bateria</string>
-    <string name="extreme_power_config_mode_desc"><li>A Economia extrema de bateria interrompe todas as atividades em segundo plano de um app depois que você sai dele e volta para a Tela inicial. Este app não enviará notificações ou receberá atualizações.</li>"
-"<li>Se você desejar que um app execute em segundo plano, bloqueie-o nos Recentes, ou adicione-o às exceções de segundo plano abaixo. Até 4 apps podem ser executados em segundo plano quando a Economia extrema de bateria estiver ativada.</li>"
-"<li>A Economia extrema de bateria desativa o NFC por padrão. Você pode alterar isto nas Configurações.</li>"
-"<li>Para garantir que você pode usar todos os recursos do seu dispositivo normalmente, a Economia extrema de bateria será desativada automaticamente quando a sua bateria estiver acima de 30% carregada.</li></string>
-    <string name="extreme_power_config_mode_summary">A Economia extrema de bateria restringe a atividade em segundo plano e interrompe a sincronização.</string>
-    <string name="extreme_power_config_mode_title">Economia extrema de bateria</string>
+    <string name="extreme_mode_max_item_alert">Você pode selecionar até 4 apps para executarem em segundo plano quando a Ultra economia de bateria estiver ativada</string>
+    <string name="extreme_power_config_mode_category">Ultra economia de bateria</string>
+    <string name="extreme_power_config_mode_desc"><li>A Ultra economia de bateria interrompe todas as atividades em segundo plano de um app depois que você sai dele e volta para a Tela inicial. Este app não enviará notificações ou receberá atualizações.</li>"
+"<li>Se você desejar que um app execute em segundo plano, bloqueie-o nos Recentes, ou adicione-o às exceções de segundo plano abaixo. Até 4 apps podem ser executados em segundo plano quando a Ultra economia de bateria estiver ativada.</li>"
+"<li>A Ultra economia de bateria desativa o NFC por padrão. Você pode alterar isto nas Configurações.</li>"
+"<li>Para garantir que você pode usar todos os recursos do seu dispositivo normalmente, a Ultra economia de bateria será desativada automaticamente quando a sua bateria estiver acima de 30% carregada.</li></string>
+    <string name="extreme_power_config_mode_summary">A Ultra economia de bateria restringe a atividade em segundo plano e interrompe a sincronização.</string>
+    <string name="extreme_power_config_mode_title">Ultra economia de bateria</string>
     <string name="extreme_power_settings_title">Configurações</string>
     <string name="failure">Erro</string>
     <string name="fmt_date_day">dd</string>
@@ -144,7 +144,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="hide_mode_desc">Quando um app está em execução em segundo plano, suas atividades serão monitoradas para reduzir o uso da bateria. Este recurso obterá e usará os dados do usuário de acordo com a %s</string>
+    <string name="hide_mode_desc">Quando um app está em execução em segundo plano, suas atividades serão monitoradas para reduzir o uso da bateria. Este recurso obterá e usará os dados do usuário de acordo com a %s.</string>
     <string name="hide_system_app">Ocultar apps do sistema</string>
     <string name="high_temp_benchmark_state">Superaquecimento</string>
     <string name="high_temp_benchmark_state_message">"Parece que este dispositivo está muito quente agora, use este app após o seu dispositivo esfriar: "</string>
@@ -157,9 +157,9 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="important_warning">Atenção!</string>
     <string name="insert_data">Inserir dados</string>
     <string name="item_view_role_description">Guia</string>
-    <string name="kill_all_back_pro_toast_message">Seu dispositivo está superaquecido. Todos os apps em execução em segundo plano foram encerrados</string>
+    <string name="kill_all_back_pro_toast_message">Seu dispositivo está superaquecido. Todos os apps em execução em segundo plano foram encerrados.</string>
     <string name="kill_pkg_toast_message">Seu dispositivo está superaquecendo e o app será encerrado</string>
-    <string name="kill_some_back_pro_toast_message">Seu dispositivo está superaquecido. Alguns apps em execução em segundo plano foram encerrados</string>
+    <string name="kill_some_back_pro_toast_message">Seu dispositivo está superaquecido. Alguns apps em execução em segundo plano foram encerrados.</string>
     <string name="lasttime_applist_cloud">Apps atualizados:</string>
     <string name="lasttime_feature_cloud">Recursos atualizados:</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
@@ -285,8 +285,8 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="notification_exit_extreme_mode_text">Bateria com mais de %s de carga</string>
-    <string name="notification_exit_extreme_mode_title">Economia extrema de bateria desativada</string>
-    <string name="notification_open_extreme_mode_text">Economia extrema de bateria ativada</string>
+    <string name="notification_exit_extreme_mode_title">Ultra economia de bateria desativada</string>
+    <string name="notification_open_extreme_mode_text">Ultra economia de bateria ativada</string>
     <string name="password_toggle_content_description">Exibir senha</string>
     <string name="performance_category">Desempenho</string>
     <string name="permstep_description">Permitir que este app acesse sua contagem de passos</string>

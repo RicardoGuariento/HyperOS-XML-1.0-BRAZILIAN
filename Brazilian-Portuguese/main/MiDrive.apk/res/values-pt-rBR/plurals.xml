@@ -23,8 +23,8 @@
         <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d minutos</item>
-        <item quantity="one">Em %d minuto</item>
+        <item quantity="other">Em %d mins</item>
+        <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>

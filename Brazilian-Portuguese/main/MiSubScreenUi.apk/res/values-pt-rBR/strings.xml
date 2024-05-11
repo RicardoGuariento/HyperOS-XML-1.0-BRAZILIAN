@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -262,11 +262,10 @@ dd/MM"</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
-    <string name="service_name">Áudio Miplay</string>
+    <string name="service_name">Áudio MiPlay</string>
     <string name="small_display_style">Tela traseira</string>
     <string name="sps_cancel">Pressione e segure para sair</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="step_to_image_community">Encontre mais na Mi Community</string>
+    <string name="step_to_image_community">Encontre mais no Mi Community</string>
     <string name="subscreen_brightness">Brilho da tela traseira</string>
     <string name="sub_screen_app_name">Tela traseira</string>
     <string name="subscreen_could_edit_pic">Arraste imagens para ajustá-las, pressione e segure para excluir</string>
@@ -276,11 +275,11 @@ dd/MM"</string>
     <string name="subscreen_other_dialog_cancel">Cancelar</string>
     <string name="subscreen_other_dialog_confirm">Ativar</string>
     <string name="subscreen_other_dialog_goto">Adicionar</string>
-    <string name="subscreen_other_dialog_message">A Super economia de energia desativa a tela principal. Você só poderá conferir as horas, aceitar chamadas, e ligar para seu contato de emergência definido anteriormente. Nossos testes mostram que o dispositivo pode funcionar por até %d dias em uma única carga quando a Super economia de energia está ativada. No entanto, esse período de tempo pode ser menor devido a vários fatores. Ativar a Super economia de energia agora?</string>
-    <string name="subscreen_other_dialog_title">Super economia de energia</string>
+    <string name="subscreen_other_dialog_message">A Ultra economia de bateria desativa a tela principal. Você só poderá conferir as horas, aceitar chamadas, e ligar para seu contato de emergência definido anteriormente. Nossos testes mostram que o dispositivo pode funcionar por até %d dias em uma única carga quando a Ultra economia de bateria está ativada. No entanto, esse período de tempo pode ser menor devido a vários fatores. Ativar a Ultra economia de bateria agora?</string>
+    <string name="subscreen_other_dialog_title">Ultra economia de bateria</string>
     <string name="subscreen_other_next_dialog_message">Você precisa adicionar um contato de emergência antes de usar a Super economia de energia. Adicionar agora?</string>
-    <string name="subscreen_other_wilderness_summary">A Super economia de energia desativa a tela principal. Você só poderá conferir as horas, aceitar chamadas, e ligar para seu contato de emergência definido anteriormente. Nossos testes mostram que o dispositivo pode funcionar por até %d dias em uma única carga quando a Super economia de energia está ativada. No entanto, esse período de tempo pode ser menor devido a vários fatores.</string>
-    <string name="subscreen_other_wilderness_title">Super economia de energia</string>
+    <string name="subscreen_other_wilderness_summary">A Super economia de energia desativa a tela principal. Você só poderá conferir as horas, aceitar chamadas, e ligar para seu contato de emergência definido anteriormente. Nossos testes mostram que o dispositivo pode funcionar por até %d dias em uma única carga quando a Ultra economia de bateria está ativada. No entanto, esse período de tempo pode ser menor devido a vários fatores.</string>
+    <string name="subscreen_other_wilderness_title">Ultra economia de bateria</string>
     <string name="subscreen_settings_fail">Não foi possível completar a ação</string>
     <string name="subscreen_settings_mode">Desativar após</string>
     <string name="subscreen_settings_style">Tema da tela traseira</string>
@@ -362,7 +361,7 @@ dd/MM"</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="wilderness_dcalling">Conectado</string>
     <string name="wilderness_dialing">Discando</string>
-    <string name="wilderness_is_starting">Ativando a Super economia de bateria…</string>
+    <string name="wilderness_is_starting">Ativando a Ultra economia de bateria…</string>
     <string name="wireless_change_to_ac_charging">Alterado para carregamento com fios</string>
     <string name="yesterday">Ontem</string>
 </resources>

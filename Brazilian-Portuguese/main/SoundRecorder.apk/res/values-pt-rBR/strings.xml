@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -32,7 +32,7 @@
     <string name="add_remark_hint">Digite seu comentário aqui</string>
     <string name="add_remark_tip">Toque para adicionar comentário</string>
     <string name="afternoon">"PM"</string>
-    <string name="agree_description">Permita que este app conecte-se à Internet para poder usar todos os seus recursos.</string>
+    <string name="agree_description">Permita que este app conecte-se à internet para poder usar todos os seus recursos.</string>
     <string name="alert_message_clear_records">Excluir gravações selecionadas?</string>
     <string name="alert_message_delete_local_record">Excluir esta gravação?</string>
     <string name="alert_message_delete_record">Excluir a gravação do seu dispositivo também excluirá esta gravação da MiCloud. Excluir agora?</string>
@@ -387,7 +387,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="order_item_price">%s CNY</string>
     <string name="other_settings_pref_title">Configurações adicionais</string>
     <string name="password_toggle_content_description">Exibir senha</string>
-    <string name="path_soundrecorder_setting">Configurar Apps do sistema/Gravador</string>
+    <string name="path_soundrecorder_setting">Configurar apps do sistema/Gravador</string>
     <string name="pause_status_focus_notification">Gravação pausada</string>
     <string name="pause">Pausar</string>
     <string name="pay_error_cancel">O pagamento foi cancelado</string>

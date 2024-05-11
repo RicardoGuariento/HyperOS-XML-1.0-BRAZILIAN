@@ -4,7 +4,7 @@
     <string name="PassWordGuard">Senha do Segundo espaço</string>
     <string name="PrivacyContactDes1">"Os contatos se tornarão privados.
 Mensagens aparecerão apenas no Segundo espaço."</string>
-    <string name="PrivacyContactDes2">"Se você usa Mensagens pessoais no Primeiro espaço,
+    <string name="PrivacyContactDes2">"Se você usa mensagens pessoais no Primeiro espaço,
 este recurso será adicionado ao Segundo espaço automaticamente."</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
@@ -33,9 +33,9 @@ este recurso será adicionado ao Segundo espaço automaticamente."</string>
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="about_ent_mode">Sobre o Modo Empresarial</string>
+    <string name="about_ent_mode">Sobre o Modo empresarial</string>
     <string name="actionbar_button_up_description">Voltar</string>
-    <string name="activate_ent_mode">Ativar Modo Empresarial</string>
+    <string name="activate_ent_mode">Ativar Modo empresarial</string>
     <string name="add_finger_print">Adicionar impressão digital</string>
     <string name="advanced_gesture">Gestos personalizados</string>
     <string name="afternoon">"PM"</string>
@@ -49,7 +49,7 @@ este recurso será adicionado ao Segundo espaço automaticamente."</string>
     <string name="alwaysUsePrompt">Lembre-se da minha escolha</string>
     <string name="am">"AM"</string>
     <string name="appData">Apps instalados</string>
-    <string name="app_name">Componente de Segurança</string>
+    <string name="app_name">Componente de segurança</string>
     <string name="app_switch_key">Recentes</string>
     <string name="application_label">Configurações de entrada</string>
     <string name="au_pay">au PAY</string>
@@ -58,9 +58,9 @@ este recurso será adicionado ao Segundo espaço automaticamente."</string>
     <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
     <string name="auto_disable_screenbuttons_dialog_title">Desative os botões da tela para %s?</string>
     <string name="auto_disable_screenbuttons_no">Nunca desativar</string>
-    <string name="auto_disable_screenbuttons_rotation_summary">Quando seu dispositivo estiver em modo paisagem, os botões de navegação serão bloqueados</string>
+    <string name="auto_disable_screenbuttons_rotation_summary">Quando seu dispositivo estiver em modo paisagem, os botões de navegação serão bloqueados.</string>
     <string name="auto_disable_screenbuttons_rotation_title">Bloquear botões de navegação em modo paisagem</string>
-    <string name="auto_disable_screenbuttons_summary">Desativar botões de navegação automaticamente quando usando apps selecionados. Toque duas vezes em qualquer botão de navegação para reativá-los.</string>
+    <string name="auto_disable_screenbuttons_summary">Desative os botões de navegação automaticamente quando usar os apps selecionados. Toque duas vezes em qualquer botão de navegação para reativá-los.</string>
     <string name="auto_disable_screenbuttons_title">Desativar botões de navegação automaticamente</string>
     <string name="back">Voltar</string>
     <string name="back_button">Voltar</string>
@@ -97,9 +97,9 @@ este recurso será adicionado ao Segundo espaço automaticamente."</string>
     <string name="camera_key_action_shortcut_wake">Bloquear dispositivo</string>
     <string name="camera_key_action_title">Botão Mi</string>
     <string name="camera_key_action_toggle_title">Acionar atalho</string>
-    <string name="can_not_delete_when_calling">Não é possível excluir Espaços durante uma chamada</string>
-    <string name="can_not_switch_when_calling">Não é possível trocar de Espaços durante uma chamada</string>
-    <string name="can_not_switch_when_desktop_mode">"Não é possível alternar entre espaços no Modo estação de Trabalho"</string>
+    <string name="can_not_delete_when_calling">Não é possível excluir espaços durante uma chamada</string>
+    <string name="can_not_switch_when_calling">Não é possível trocar de espaços durante uma chamada</string>
+    <string name="can_not_switch_when_desktop_mode">"Não é possível alternar entre espaços no Modo estação de trabalho"</string>
     <string name="can_not_switch_when_extreme_endurance_battery_active">"Não é possível usar o Segundo espaço devido à bateria fraca"</string>
     <string name="can_not_switch_when_green_kid_active">A alteração para o Segundo espaço é restringida pelos controle familiar</string>
     <string name="can_not_switch_when_green_kid_active_new">"Não é possível alternar para o Segundo espaço quando a Segurança familiar está ativa"</string>
@@ -150,7 +150,7 @@ para visualizá-las a qualquer momento"</string>
     <string name="continueButton">Continuar</string>
     <string name="convenience_key_category_title">Controle do sistema</string>
     <string name="copy">Copiar</string>
-    <string name="createANewSpace">Crie um espaço separado em seu telefone.</string>
+    <string name="createANewSpace">Crie um espaço separado em seu dispositivo.</string>
     <string name="createUserFail">Não foi possível criar</string>
     <string name="create_app_icon_failed">Não foi possível criar o ícone</string>
     <string name="create_app_icon_success">Ícone criado com sucesso</string>
@@ -186,7 +186,7 @@ para visualizá-las a qualquer momento"</string>
     <string name="dialog_verify_fingerprint_retry">Não foi possível verificar sua impressão digital. Tente novamente.</string>
     <string name="dir_switch_out_all_photos">Galeria do Segundo espaço</string>
     <string name="disable">Desativar</string>
-    <string name="disable_power_key_long_press_under_keyguard">Desative o menu do botão [liga/desliga]</string>
+    <string name="disable_power_key_long_press_under_keyguard">Desative o menu do botão [Liga/Desliga]</string>
     <string name="diy_suppression_summary">Ajuste o tamanho da área próxima às bordas onde o toque acidental será ignorado</string>
     <string name="diy_suppression_title">Personalizado</string>
     <string name="do_not_ask">Não perguntar novamente</string>
@@ -198,8 +198,8 @@ para visualizá-las a qualquer momento"</string>
     <string name="dual_animation">Animação de início</string>
     <string name="dual_animation_description">Exibe uma animação sempre que um dual app for iniciado</string>
     <string name="dump_log">Obtenha logs relacionados a problemas</string>
-    <string name="dump_log_summary">"Este recurso foi projetado para gerar o log %s na versão Beta do MIUI. Use-o com cautela.
-Você pode visualizar os logs gerados no gerenciador de Arquivos."</string>
+    <string name="dump_log_summary">"Este recurso foi projetado para gerar o log %s na versão Beta da MIUI. Use-o com cautela.
+Você pode visualizar os logs gerados no Arquivos."</string>
     <string name="dump_log_title">Sobre este recurso</string>
     <string name="early_morning">"AM"</string>
     <string name="edge_mode_state_summary">"A área ao redor das bordas curvas não responde ao toque"</string>
@@ -207,17 +207,17 @@ Você pode visualizar os logs gerados no gerenciador de Arquivos."</string>
     <string name="enable">Ativar</string>
     <string name="ent_activating">Ativando…</string>
     <string name="ent_activation">Ativar</string>
-    <string name="ent_activation_hint">Insira o seu código corporativo juntamente com o código de licença para ativar o Modo Empresarial. Depois disso, serviços empresariais personalizados serão ativados.</string>
-    <string name="ent_activation_hint_whit_licence">"Ative o Modo Empresarial para ativar serviços empresariais personalizados.
+    <string name="ent_activation_hint">Insira o seu código corporativo juntamente com o código de licença para ativar o Modo empresarial. Depois disso, serviços empresariais personalizados serão ativados.</string>
+    <string name="ent_activation_hint_whit_licence">"Ative o Modo empresarial para ativar serviços empresariais personalizados.
 Certifique-se que o nome da sua empresa está correto. Leia e aceite as políticas de privacidade relacionadas antes da ativação."</string>
     <string name="ent_agency_code">Código corporativo</string>
     <string name="ent_agency_code_hint">Insira o código corporativo</string>
     <string name="ent_agency_code_invalid">O código corporativo inserido é inválido.</string>
     <string name="ent_agree_privacy_policy">Eu li e aceitei a Política de Privacidade</string>
-    <string name="ent_app_verified">Parece que existem apps empresariais instalados no seu dispositivo. Ativar o Modo Empresarial?</string>
-    <string name="ent_confirm_dialog_content">Você não será capaz de voltar para o estado atual do seu sistema depois de ativar o Modo Empresarial. Entretanto, todos os seus dados ainda estarão armazenados enste dispositivo. Você precisará reiniciar seu dispositivo para ativar o Modo Empresarial. Ativar agora?</string>
+    <string name="ent_app_verified">Parece que existem apps empresariais instalados no seu dispositivo. Ativar o Modo empresarial?</string>
+    <string name="ent_confirm_dialog_content">Você não será capaz de voltar para o estado atual do seu sistema depois de ativar o Modo empresarial. Entretanto, todos os seus dados ainda estarão armazenados enste dispositivo. Você precisará reiniciar seu dispositivo para ativar o Modo empresarial. Ativar agora?</string>
     <string name="ent_disallow_running">O app está proibido de executar</string>
-    <string name="ent_download_install_dialog_content">Você precisa instalar apps corporativos para ativar o Modo Empresarial. Instalar agora?</string>
+    <string name="ent_download_install_dialog_content">Você precisa instalar apps corporativos para ativar o Modo empresarial. Instalar agora?</string>
     <string name="ent_download_install_dialog_title">Baixar apps corporativos</string>
     <string name="ent_downloading_message">Baixando %d%%</string>
     <string name="ent_error_dialog_content">Pelo menos um dos códigos inseridos está incorreto. Verifique o código corporativo e de licença, e insira-os novamente.</string>
@@ -229,12 +229,12 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="ent_licence_code">Código da licença</string>
     <string name="ent_licence_code_hint">Insira o código da licença</string>
     <string name="ent_licence_code_invalid">O código da licença inserido é inválido.</string>
-    <string name="ent_mode_activated">O Modo Empresarial está ativado</string>
+    <string name="ent_mode_activated">O Modo empresarial está ativado</string>
     <string name="ent_network_error">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="ent_next_step">Avançar</string>
     <string name="ent_privacy_policy_notice">• Dados pessoais neste modo são coletados de acordo com políticas estabelecidas por sua empresa. A Xiaomi não coleta dados pessoais neste modo.</string>
     <string name="enter_air_space">Ir ao Espaço de trabalho</string>
-    <string name="enterprise_mode">Modo Empresarial</string>
+    <string name="enterprise_mode">Modo empresarial</string>
     <string name="entrance_reopen_toast_msg">Mostrando atalho do Segundo espaço devido a tipos de senha diferentes</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -326,20 +326,20 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="global_stylus_summary">Escreva em qualquer campo de texto e converta sua caligrafia em texto (somente inglês e chinês são suportados)</string>
     <string name="global_stylus_title">Escriba</string>
     <string name="global_stylus_title_beta">Escriba (Beta)</string>
-    <string name="gms_message">Criar um Dual app exige o funcionamento com o app Serviços do Google Play. Criar um dual app para o Serviços do Google Play?</string>
+    <string name="gms_message">Criar um Dual app exige o funcionamento com o app Google Play Services. Criar um dual app para o Google Play Services?</string>
     <string name="gms_open_button">Ativar</string>
-    <string name="gms_title">Dual app para Serviços do Google</string>
+    <string name="gms_title">Dual app para Google Play Services</string>
     <string name="goToSecondSpacce">Ir ao Segundo espaço</string>
     <string name="go_on_import">Continuar importando</string>
     <string name="go_to_sleep">Desligar a tela</string>
     <string name="google_assistant_guide_cancel">Cancelar</string>
-    <string name="google_assistant_guide_message">Você pode manter pressionado o botão [liga/desliga] por %s segundos para começar a falar com o Google Assistente. Definir este atalho agora?</string>
+    <string name="google_assistant_guide_message">Você pode manter pressionado o botão [Liga/Desliga] por %s segundos para começar a falar com o Google Assistente. Definir este atalho agora?</string>
     <string name="google_assistant_guide_ok">Definir</string>
-    <string name="google_assistant_guide_tip">• Pressione e segure o botão [liga/desliga] por %s segundos para abrir o menu de desligamento.</string>
+    <string name="google_assistant_guide_tip">• Pressione e segure o botão [Liga/Desliga] por %s segundos para abrir o menu de desligamento.</string>
     <string name="google_assistant_guide_title">Google Assistente</string>
     <string name="gpg_message">Criar dual apps para jogos requer o uso do Google Play Games. Criar um dual app para o Google Play Games?</string>
     <string name="gpg_title">Dual app para o Google Play Games</string>
-    <string name="green_guard">Segurança Familiar</string>
+    <string name="green_guard">Segurança familiar</string>
     <string name="green_guard_des1">Adicione dispositivos para gerenciá-los remotamente</string>
     <string name="green_guard_des2">Saiba onde todos os dispositivos gerenciados estão</string>
     <string name="green_guard_des3">Controle apps instalados e restrinja a utilização</string>
@@ -350,10 +350,10 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="greenguard_functional_description">"Gerencie dispositivos remotamente, veja as informações de localização e controle apps instalados"</string>
     <string name="greenguard_install_cancle">Não, obrigado</string>
     <string name="greenguard_install_confirm">Instalar</string>
-    <string name="greenguard_install_message">O Segurança Familiar é um app do sistema. Você não precisa de internet para instalá-lo.</string>
-    <string name="greenguard_install_title">Instalar o Segurança Familiar</string>
-    <string name="greenguard_new_install_message">Segurança Familiar é um app do sistema. Você pode instalar este aplicativo sem baixá-lo.</string>
-    <string name="greenguard_new_install_title">Instalar Segurança Familiar</string>
+    <string name="greenguard_install_message">O Segurança familiar é um app do sistema. Você não precisa de internet para instalá-lo.</string>
+    <string name="greenguard_install_title">Instalar o Segurança familiar</string>
+    <string name="greenguard_new_install_message">Segurança familiar é um app do sistema. Você pode instalar este aplicativo sem baixá-lo.</string>
+    <string name="greenguard_new_install_title">Instalar Segurança familiar</string>
     <string name="greenguard_parent_des">Gerencie dispositivos de amigos e familiares</string>
     <string name="greenguard_parent_des_title">Use o Kite Guard para adicionar dispositivos</string>
     <string name="guide_confirm">Entendi</string>
@@ -400,11 +400,11 @@ Você também pode baixá-los separadamente."</string>
     <string name="intelligence_suppression_title">Automático (recomendado)</string>
     <string name="invalid_qr_code">Código QR inválido</string>
     <string name="item_view_role_description">Aba</string>
-    <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [liga/desliga] por %ss para ativar o Google Assistente</string>
+    <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [Liga/Desliga] por %ss para ativar o Google Assistente</string>
     <string name="kddi_long_press_power_guide_assistant_title">Acionar o Google Assistente</string>
     <string name="kddi_long_press_power_guide_know">Entendi</string>
     <string name="kddi_long_press_power_guide_settings">Configurações</string>
-    <string name="kddi_long_press_power_guide_shutdown_message">Pressione simultaneamente os botões [liga/desliga] e volume para reiniciar ou desligar o dispositivo</string>
+    <string name="kddi_long_press_power_guide_shutdown_message">Pressione simultaneamente os botões [Liga/Desliga] e volume para reiniciar ou desligar o dispositivo</string>
     <string name="kddi_long_press_power_guide_shutdown_title">Reinicie ou desligue o dispositivo</string>
     <string name="key_combination_power_back">Liga/Desliga + Voltar</string>
     <string name="key_combination_power_home">Liga/Desliga + Início</string>
@@ -440,7 +440,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="keyboard_cursor_style_title">Estilo do cursor</string>
     <string name="keyboard_cursor_title">Cursor</string>
     <string name="keyboard_function_summary_first_line">• Pressione e segure para exibir os atalhos.</string>
-    <string name="keyboard_function_summary_second_line">• Toque na área NFC do teclado com um telefone conectado à mesma conta para transferir a tela. Selecione um arquivo ou foto para transferir facilmente entre dispositivos.</string>
+    <string name="keyboard_function_summary_second_line">• Toque na área NFC do teclado com um dispositivo conectado à mesma conta para transferir a tela. Selecione um arquivo ou foto para transferir facilmente entre dispositivos.</string>
     <string name="keyboard_funtion_key">Tecla de função</string>
     <string name="keyboard_layout_arabic">Árabe</string>
     <string name="keyboard_layout_default_label">Padrão</string>
@@ -458,7 +458,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="knock_edge_area_invalid">Este gesto não funciona perto das bordas da tela</string>
     <string name="knock_guide_dialog_title">Selecione uma ação para este gesto. Você pode alterá-la mais tarde em Configurações > Configurações adicionais > Botões de atalho.</string>
     <string name="knock_guide_drive_desc">Capturar tela ao dirigir</string>
-    <string name="knock_guide_launch_desc">Acionar o Mi AI quando seu telefone estiver estático</string>
+    <string name="knock_guide_launch_desc">Acionar o Mi AI quando seu dispositivo estiver estático</string>
     <string name="knock_guide_set_screenshot">Captura de tela</string>
     <string name="knock_guide_set_voiceassist">"Mi AI"</string>
     <string name="knock_guide_sub_title">Você pode acionar o Mi AI ou tirar capturas de tela tocando na tela com o nó dos dedos</string>
@@ -481,7 +481,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="ks_dialog_reset_text_system">Restaurar as preferências de atalho padrão do sistema agora?</string>
     <string name="ks_dialog_title">Abrir %s</string>
     <string name="ks_launch_control_center">Centro de controle</string>
-    <string name="ks_launch_notification_center">Aba de notificação</string>
+    <string name="ks_launch_notification_center">Área de notificações</string>
     <string name="ks_launch_recents_tasks">Abrir recentes</string>
     <string name="ks_lock_screen">Tela de bloqueio</string>
     <string name="ks_regional_screen_shot">Captura de tela (parcial)</string>
@@ -689,17 +689,17 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="newSecondSpace">Ativar o Segundo espaço</string>
     <string name="next_setp">Avançar</string>
     <string name="night">"PM"</string>
-    <string name="no_match_repate_scanner">Nenhuma impressão digital correspondente, tente novamente</string>
+    <string name="no_match_repate_scanner">Nenhuma impressão digital correspondente, tente novamente.</string>
     <string name="no_media_button_receiver">Não</string>
     <string name="none">Nenhum</string>
     <string name="noon">"PM"</string>
     <string name="normal_app">Primeiro espaço</string>
     <string name="not_set">Não definido</string>
-    <string name="not_support_air_space">Este recurso não é suportado no seu telefone</string>
+    <string name="not_support_air_space">Este recurso não é suportado no seu dispositivo</string>
     <string name="not_support_multiple_users">Múltiplos espaços não são suportados</string>
     <string name="notificationSetPassword">Definir senha</string>
     <string name="notificationSetPasswordDes">Proteja os dados do Segundo espaço</string>
-    <string name="notificationSummary">Alterne entre os Espaços na Área de notificações</string>
+    <string name="notificationSummary">Alterne entre os espaços na Área de notificações</string>
     <string name="notificationTitle">Atalho na Área de notificações</string>
     <string name="notification_from_owner_user">Mostrar notificações do Primeiro espaço</string>
     <string name="notification_from_second_user">Mostrar notificações do Segundo espaço</string>
@@ -796,7 +796,7 @@ para pode acessá-lo através da Tela de bloqueio"</string>
     <string name="search_screen_shot">Captura de tela</string>
     <string name="secondSpace">Segundo espaço</string>
     <string name="second_owner_finger_print">Impressão digital do Segundo espaço</string>
-    <string name="second_space_desktop_tips_dialog_message">Depois desta atualização, os ícones para mover dados e gerenciar o Segundo espaço não ficarão mais disponíveis na tela inicial. Você poderá acessar os recursos correspondentes nas Configurações.</string>
+    <string name="second_space_desktop_tips_dialog_message">Depois desta atualização, os ícones para mover dados e gerenciar o Segundo espaço não ficarão mais disponíveis na Tela inicial. Você poderá acessar os recursos correspondentes nas Configurações.</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Entendi</string>
     <string name="second_space_desktop_tips_dialog_title">Atualização importante</string>
     <string name="second_space_finger_printf_desc">Adicionar uma impressão digital para ser usada especificamente para entrar no Segundo espaço</string>
@@ -854,7 +854,7 @@ Separe e proteja seus dados."</string>
     <string name="show_noti_from_owner">Notificações do outro Espaço</string>
     <string name="show_noti_from_owner_detail">Receber notificações no espaço atual quando elas chegarem em outro espaço</string>
     <string name="show_noti_quick_switch_icon">Atalho na Área de notificações</string>
-    <string name="show_noti_quick_switch_icon_detail">Mostrar um atalho para trocar de Espaços na Área de notificação</string>
+    <string name="show_noti_quick_switch_icon_detail">Mostrar um atalho para trocar de espaços na Área de notificação</string>
     <string name="show_private_content">Mostrar itens privados</string>
     <string name="show_private_msg">Mostrar mensagens pessoais</string>
     <string name="show_private_msg_summary">Mostrar mensagens pessoais no Segundo espaço</string>
@@ -892,7 +892,7 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
     <string name="stop_xspace_alert_content">Excluir todos os dual apps juntamente com suas contas e dados? Seu dispositivo será reiniciado para aplicar esta alteração.</string>
     <string name="stop_xspace_alert_title">Excluir contas de dual apps</string>
-    <string name="strong_suppression_summary">Seu dispositivo responderá menos a toques acidentais. Alguns controles de gestos podem não funcionar perto das bordas</string>
+    <string name="strong_suppression_summary">Seu dispositivo responderá menos a toques acidentais. Alguns controles de gestos podem não funcionar perto das bordas.</string>
     <string name="strong_suppression_title">Área grande</string>
     <string name="stylus_btn_continue">Próximo</string>
     <string name="stylus_btn_learn">"Tutorial"</string>
@@ -946,10 +946,10 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="stylus_quick_note_title">Escreva com a tela desligada</string>
     <string name="stylus_quick_write">Escrever</string>
     <string name="stylus_quick_write_creator_summary">Pressione e segure o botão de escrita para abrir o Mi Canvas</string>
-    <string name="stylus_quick_write_summary">Pressione e segure o botão de escrita para escrever ou desenhar.</string>
+    <string name="stylus_quick_write_summary">Pressione e segure o botão de escrita para escrever ou desenhar</string>
     <string name="stylus_schematic_diagram">Demonstração</string>
     <string name="stylus_screen_shot">Faça uma captura de tela</string>
-    <string name="stylus_screen_shot_summary">Pressione e segure o botão de captura de tela para tirar e editar uma captura de tela.</string>
+    <string name="stylus_screen_shot_summary">Pressione e segure o botão de captura de tela para tirar e editar uma captura de tela</string>
     <string name="stylus_settings_title">Caneta</string>
     <string name="stylus_shortcut_actions_summary">Pressione e segure o primeiro botão para escrever. Pressione e segure o segundo botão para fazer uma captura de tela.</string>
     <string name="stylus_shortcut_actions_title">Ações rápidas</string>
@@ -958,12 +958,12 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="stylus_success">Feito</string>
     <string name="stylus_vice_key">Segundo botão</string>
     <string name="stylus_welcome">Conheça a Xiaomi Smart Pen</string>
-    <string name="summary_switch_apps_settings">Selecionar apps usados no Espaço atual</string>
+    <string name="summary_switch_apps_settings">Selecionar apps usados no espaço atual</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sure_to_use">Confirmar</string>
-    <string name="switchDataSummary">Mover itens entre Espaços</string>
+    <string name="switchDataSummary">Mover itens entre espaços</string>
     <string name="switch_apps_settings">Configurações de apps</string>
     <string name="switch_data_app">Mover itens para o Segundo espaço</string>
     <string name="switch_data_settings">Mover dados</string>
@@ -972,12 +972,12 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="switch_file_success">Arquivos movidos com sucesso</string>
     <string name="switch_in_contacts">Importar contatos</string>
     <string name="switch_in_files">Importar arquivos</string>
-    <string name="switch_in_hidden_space">Importar para o Espaço atual</string>
+    <string name="switch_in_hidden_space">Importar para o espaço atual</string>
     <string name="switch_in_photos">Importar fotos</string>
     <string name="switch_in_privacy_contacts">Importar contatos privados</string>
     <string name="switch_out_contacts">Exportar contatos</string>
     <string name="switch_out_files">Exportar arquivos</string>
-    <string name="switch_out_hidden_space">Exportar dados para o Espaço atual</string>
+    <string name="switch_out_hidden_space">Exportar dados para o espaço atual</string>
     <string name="switch_out_photos">Exportar fotos</string>
     <string name="switch_out_privacy_contacts">Exportar contatos privados</string>
     <string name="switch_success">Movido com sucesso</string>
@@ -1029,7 +1029,7 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
-    <string name="the_way_of_wakeup_voice_assistant_summary">Aciona o assistente de voz no modo de tela cheia (sem botões virtuais)</string>
+    <string name="the_way_of_wakeup_voice_assistant_summary">Aciona o assistente de voz no Modo Tela cheia (sem botões virtuais)</string>
     <string name="this_function_can_not_use_in_second_space">Este recurso só pode ser usado no Primeiro espaço</string>
     <string name="three_gesture_down">Deslizar 3 dedos para baixo</string>
     <string name="three_gesture_horizontal">Deslize horizontalmente com %d dedos</string>
@@ -1095,12 +1095,12 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="turn_on_torch">Ativar a lanterna</string>
     <string name="tutorial_music_singer">Sarah Proctor</string>
-    <string name="tutorial_music_song_title_next">The Breaks(Joey Pecoraro Remix)</string>
+    <string name="tutorial_music_song_title_next">The Breaks (Joey Pecoraro Remix)</string>
     <string name="tutorial_music_song_title_pre">Isolando Sonho</string>
     <string name="under_keyguard">Tela desligada</string>
-    <string name="undo_activated_dialog_message">Revogar a autorização desativará o Modo Empresarial e uma redefinição para os dados de fábrica será executada no dispositivo. Todos os recursos relacionados não ficarão mais disponíveis. Além disso, a Xiaomi parará a coleta de informações requeridas para o Modo Empresarial (IMEI, ID do Dispositivo, Versão do sistema, Região, etc.). Gostaríamos de lembrar que a Xiaomi não gerencia os dados coletados para o Modo Empresarial. Faremos o nosso melhor para notificar todas as partes envolvidas, mas recomendamos que você entre em contato com o supervisor de sua empresa para aprovar esta revogação. Revogar a autorização e redefinir para os dados de fábrica?</string>
+    <string name="undo_activated_dialog_message">Revogar a autorização desativará o Modo empresarial e uma redefinição para os dados de fábrica será executada no dispositivo. Todos os recursos relacionados não ficarão mais disponíveis. Além disso, a Xiaomi parará a coleta de informações requeridas para o Modo empresarial (IMEI, ID do dispositivo, Versão do sistema, Região, etc.). Gostaríamos de lembrar que a Xiaomi não gerencia os dados coletados para o Modo empresarial. Faremos o nosso melhor para notificar todas as partes envolvidas, mas recomendamos que você entre em contato com o supervisor de sua empresa para aprovar esta revogação. Revogar a autorização e redefinir para os dados de fábrica?</string>
     <string name="undo_activated_dialog_ok">Revogar</string>
-    <string name="undo_grant_dialog_message">A Xiaomi parará de coletar as informações requeridas para este recurso (IMEI, ID do dispositivo, Versão do sistema, Região, etc.) depois que você revogar a autorização. Revogar agora?</string>
+    <string name="undo_grant_dialog_message">A Xiaomi parará de coletar as informações requeridas para este recurso (IMEI, ID do dispositivo, versão do sistema, região, etc.) depois que você revogar a autorização. Revogar agora?</string>
     <string name="undo_privacy_menu">Revogar autorização</string>
     <string name="undo_success">Revogado com sucesso</string>
     <string name="use_google_open">Ligar tela com o Google Assistente</string>
@@ -1108,7 +1108,7 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="voice_category">Fala</string>
-    <string name="wake_suppression_summary">Seu dispositivo responderá melhor a toques acidentais, mas também reagirá à maioria dos controles de gestos próximos às bordas</string>
+    <string name="wake_suppression_summary">Seu dispositivo responderá melhor a toques acidentais, mas também reagirá à maioria dos controles de gestos próximos às bordas.</string>
     <string name="wake_suppression_title">Área pequena</string>
     <string name="wating">Aguarde…</string>
     <string name="wednesday">Quarta</string>
@@ -1122,7 +1122,7 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="xspace_account">Contas de dual apps</string>
     <string name="xspace_chocie">Suporte ao dual apps</string>
     <string name="xspace_creating">Criando dual app…</string>
-    <string name="xspace_default_app_summary">Selecione os apps padrão para login, compartilhamento e assistente de voz</string>
+    <string name="xspace_default_app_summary">Selecione os apps padrão para login, compartilhamento e assistente de voz.</string>
     <string name="xspace_default_app_title">Personalização</string>
     <string name="xspace_default_guide_notification_content">Toque para alterar</string>
     <string name="xspace_default_guide_notification_main_title">Usando o app padrão</string>
@@ -1139,11 +1139,11 @@ Alguns dual apps requerem o suporte à Estrutura de Serviços do Google. Nestes 
     <string name="xspace_guide_des">Use duas contas simultaneamente sem ter que alternar entre elas</string>
     <string name="xspace_guide_description">"Toda conta
 merece seu próprio app"</string>
-    <string name="xspace_guide_title">Experimente um Dual app</string>
+    <string name="xspace_guide_title">Experimente o Dual apps</string>
     <string name="xspace_head">"Dual app"</string>
     <string name="xspace_header">"Dual apps"</string>
     <string name="xspace_instagram_title">"Instagram"</string>
-    <string name="xspace_install_complete">&lt;font&gt;Dual app criado. &lt;/font&gt;&lt;font color=#0D84FF&gt;Abrir agora&lt;/font&gt;.</string>
+    <string name="xspace_install_complete">&lt;font&gt;Dual app criado com sucesso. &lt;/font&gt;&lt;font color=#0D84FF&gt;Abrir agora&lt;/font&gt;.</string>
     <string name="xspace_install_completed">Ícone adicionado à Tela inicial</string>
     <string name="xspace_install_completed_global">Ícone adicionado à bandeja</string>
     <string name="xspace_install_failed">Não foi possível criar o app</string>

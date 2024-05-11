@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -50,7 +50,7 @@
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="delete_kid_mode">Desativar Espaço infantil</string>
-    <string name="delete_space_loading">O Espaço infantil está sendo excluído...</string>
+    <string name="delete_space_loading">O Espaço infantil está sendo excluído…</string>
     <string name="dialog_market_score_cancel">Cancelar</string>
     <string name="dialog_market_score_dislike">Comentar</string>
     <string name="dialog_market_score_like">Cinco estrelas!</string>
@@ -97,14 +97,14 @@ monitoramento de terremoto"</string>
     <string name="exposed_dropdown_menu_content_description">Exibir menu suspenso</string>
     <string name="fastboot_locked_answer_1">O Fastboot é um método tradicional para a instalação de firmwares em dispositivos Mi. Quando o dispositivo está em modo Fastboot, todos os dados armazenados nele podem ser acessados ou apagados diretamente. Nós bloqueamos o Fastboot para certificar de que seus dados permaneçam seguros caso você perca o dispositivo, assim como garantir a confiabilidade dos recursos do Encontrar dispositivo.</string>
     <string name="fastboot_locked_answer_2">Caso você perca seu dispositivo, o Fastboot garante a segurança dos itens armazenados no telefone. Caso você desbloqueie o Fastboot, você não será capaz de bloquear seu dispositivo remotamente ou apagar seus dados usando o Encontrar dispositivo. É por isso que não recomendamos o desbloqueio do Fastboot em seu dispositivo.</string>
-    <string name="fastboot_locked_answer_3">Você precisa usar a ferramenta de desbloqueio disponível no website do HyperOS. Para desbloquear o dispositivo, precisaremos garantir que ele pertence a você. É por isso que ao receber o seu dispositivo você deve fazer o login em sua Conta Mi e ativar o Encontrar dispositivo.</string>
+    <string name="fastboot_locked_answer_3">Você precisa usar a ferramenta de desbloqueio disponível no site do HyperOS. Para desbloquear o dispositivo, precisaremos garantir que ele pertence a você. É por isso que ao receber o seu dispositivo você deve fazer o login em sua Conta Mi e ativar o Encontrar dispositivo.</string>
     <string name="fastboot_locked_question_1">Por que o Fastboot precisa ser bloqueado?</string>
     <string name="fastboot_locked_question_2">Existe algum risco envolvendo o desbloqueio do Fastboot?</string>
     <string name="fastboot_locked_question_3">Sei dos riscos, mas ainda quero desbloquear meu dispositivo. O que preciso fazer?</string>
     <string name="fastboot_status_locked_info">O Fastboot não está desbloqueado neste dispositivo</string>
     <string name="fastboot_status_locked_summary">Não é possível obter acesso root</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
-    <string name="fastboot_unlock_web_title">Vá ao website oficial do HyperOS para obter a ferramenta de desbloqueio.</string>
+    <string name="fastboot_unlock_web_title">Vá ao site oficial do HyperOS para obter a ferramenta de desbloqueio.</string>
     <string name="fingerprint_not_remind">Não perguntar novamente</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -152,8 +152,8 @@ monitoramento de terremoto"</string>
     <string name="game_booster">"Game Turbo"</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
-    <string name="gamebooster_network_dialog_message">Permitir que o app Segurança conecte-se à Internet para usar todos os recursos do Game Turbo?</string>
-    <string name="gamebooster_network_dialog_message_pad">Permitir que o app Segurança se conecte à rede para usar todos os recursos do Game Turbo?</string>
+    <string name="gamebooster_network_dialog_message">Permitir que o app Segurança conecte-se à internet para usar todos os recursos do Game Turbo?</string>
+    <string name="gamebooster_network_dialog_message_pad">Permitir que o app Segurança conecte-se à internet para usar todos os recursos do Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
     <string name="gamebox_no_network_btn">Recarregar</string>
     <string name="gb_adv_touch_adv_title">Modo clássico (padrão)</string>
@@ -254,7 +254,7 @@ monitoramento de terremoto"</string>
     <string name="midnight">"AM"</string>
     <string name="miuishare_title_more">Mais</string>
     <string name="miuishare_title_share">Compartilhar</string>
-    <string name="miuishare_wechat_timeline_title">Moments WeChat</string>
+    <string name="miuishare_wechat_timeline_title">Momentos WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -376,7 +376,7 @@ monitoramento de terremoto"</string>
     <string name="pc_activity_title">Otimizar bateria</string>
     <string name="pc_entered_extreme_mode">O Modo hibernação está ativado</string>
     <string name="pc_entered_extreme_mode_summary">"Seu dispositivo está sem bateria e entrou no Modo hibernação. Os apps serão executados em segundo plano e não enviarão notificações."</string>
-    <string name="pc_entered_extreme_mode_summary2">"Seu dispositivo está quase sem bateria. No modo de hibernação, você não receberá nenhuma notificação dos apps que estiverem funcionando em segundo plano."</string>
+    <string name="pc_entered_extreme_mode_summary2">"Seu dispositivo está quase sem bateria. No Modo hibernação, você não receberá nenhuma notificação dos apps que estiverem funcionando em segundo plano."</string>
     <string name="pc_extreme_exit_and_power_off">Sair</string>
     <string name="pc_extreme_mode_bg_toast">"No Modo hibernação, os apps serão executados em segundo plano e não enviarão notificações"</string>
     <string name="pc_extreme_mode_exit_risk_title">Atenção!</string>
@@ -430,7 +430,6 @@ monitoramento de terremoto"</string>
     <string name="superpower_third">Apps de terceiros</string>
     <string name="superpower_time">"h:mm"</string>
     <string name="superpower_time_24">"H:mm"</string>
-    <string name="superpower_toast_app_select_full">Você pode adicionar até 6 itens aos apps usados com frequência</string>
     <string name="superpower_toast_app_select_full_new">Você pode adicionar até %d itens aos apps usados com frequência</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
