@@ -321,7 +321,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="autofill_save_title_with_3types">Salvar %1$s, %2$s e %3$s em &lt;b&gt;%4$s&lt;/b&gt;?</string>
     <string name="autofill_save_title_with_type">Salvar %1$s em &lt;b&gt;%2$s&lt;/b&gt;?</string>
     <string name="autofill_save_type_address">endereço</string>
-    <string name="">cartão de crédito</string>
+    <string name="autofill_save_type_credit_card">cartão de crédito</string>
     <string name="autofill_save_type_debit_card">cartão de débito</string>
     <string name="autofill_save_type_email_address">endereço de e-mail</string>
     <string name="autofill_save_type_generic_card">cartão</string>
@@ -1238,7 +1238,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="no_matches">Não encontrado</string>
     <string name="no_permissions">Nenhuma permissão necessária</string>
     <string name="no_recent_tasks">Nenhum app recente</string>
-    <string name="noon">PM</string>
+    <string name="noon">"PM"</string>
     <string name="not_checked">não marcado</string>
     <string name="not_selected">não selecionado</string>
     <string name="notification_action_check_bg_apps">Verifique os apps ativos</string>

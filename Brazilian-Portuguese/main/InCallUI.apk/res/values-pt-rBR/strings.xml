@@ -408,11 +408,12 @@ Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
     <string name="saf_permission_use_this_folder">Usar esta pasta</string>
     <string name="satellite_call_failed">Sinal interrompido. Tente novamente.</string>
     <string name="satellite_debug_antenna">Antena</string>
-    <string name="satellite_debug_azimuth">Azimute</string>
+    <string name="satellite_debug_azimuth">"Azimute"</string>
     <string name="satellite_debug_compass">Bússola</string>
-    <string name="satellite_debug_evevation">Evevation</string>
+    <string name="satellite_debug_evevation">Elevação</string>
     <string name="satellite_debug_rssi">Força do sinal Rssi</string>
     <string name="satellite_debug_satellite">Satélite</string>
+    <string name="satellite_diable_earpiece">"Não é possível usar o fone de ouvido com chamadas via satélite"</string>
     <string name="satellite_dialog_button">Janela flutuante</string>
     <string name="satellite_dialog_cancel">Cancelar</string>
     <string name="satellite_guide_azimuth">Mova até que o ícone do satélite esteja na área azul</string>

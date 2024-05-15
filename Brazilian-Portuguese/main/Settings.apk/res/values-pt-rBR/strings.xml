@@ -3271,9 +3271,9 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="debug_view_attributes">Ativar visualização de atributos</string>
     <string name="decline_remote_bugreport_action">Recusar</string>
     <string name="decryption_settings_summary">O dispositivo não está criptografado</string>
-    <string name="defalut_launcher_title">Launcher</string>
-    <string name="default_active_sim_calls">chamadas</string>
-    <string name="default_active_sim_mobile_data">dados móveis</string>
+    <string name="defalut_launcher_title">"Launcher"</string>
+    <string name="default_active_sim_calls">Chamadas</string>
+    <string name="default_active_sim_mobile_data">Dados móveis</string>
     <string name="default_active_sim_sms">"SMS"</string>
     <string name="default_admin_support_msg">Para mais informações, entre em contato com seu administrador de TI</string>
     <string name="default_app">(Padrão)</string>
@@ -4902,7 +4902,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="hide_extra_apps">Mostrar uso de apps</string>
     <string name="hide_silent_icons_summary">Os ícones de notificações discretas não são exibidos na barra de status</string>
     <string name="hide_silent_icons_title">Ocultar ícones das notificações discretas</string>
-    <string name="high_brightness_hint_summary">Um pequeno ícone de sol aparecerá na parte superior da tela quando a luz ambiente for forte</string>
+    <string name="high_brightness_hint_summary">Um pequeno ícone de sol 🌞 aparecerá na parte superior da tela quando a luz ambiente for forte</string>
     <string name="high_label">Alta</string>
     <string name="high_performance_notif_summary">O dispositivo pode aquecer com o uso intenso.</string>
     <string name="high_performance_notif_title">Modo desempenho ativado</string>
@@ -5447,7 +5447,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="launch_noapp_dialog_replace">Configurações</string>
     <string name="launch_notification_center">Área de notificações</string>
     <string name="launch_recents">Iniciar Recentes</string>
-    <string name="launch_smarthome">Controle Mágico Xiaomi</string>
+    <string name="launch_smarthome">"Xiaomi Magic Control"</string>
     <string name="launch_voice_assistant">Iniciar Assistente de Voz</string>
     <string name="launch_wechat_health_code">Código de saúde WeChat</string>
     <string name="launch_wechat_health_code_auto_close">O atalho do código de saúde WeChat não está mais disponível. Você pode alternar para um atalho diferente.</string>
@@ -10389,7 +10389,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="sunlight_mode">Modo luz solar</string>
     <string name="sunlight_mode_boost_summary">Expanda a faixa de brilho e ajuste o brilho automaticamente sob condições de luminosidade. Este recurso fará com que seu dispositivo aqueça e consuma mais energia.</string>
     <string name="sunlight_mode_summary">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura</string>
-    <string name="sunlight_mode_summary_new">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura. Um pequeno ícone do sol aparecerá na parte superior da tela quando a luz ambiente for muito forte.</string>
+    <string name="sunlight_mode_summary_new">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura. Um pequeno ícone do sol 🌞 aparecerá na parte superior da tela quando a luz ambiente for muito forte.</string>
     <string name="supl_not_set">(Não definido)</string>
     <string name="supplicant_state_label">Estado suplicante:</string>
     <string name="support_summary">Ajuda, início, telefone e bate-papo</string>
