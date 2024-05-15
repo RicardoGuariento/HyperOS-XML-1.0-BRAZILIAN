@@ -1545,6 +1545,7 @@ fiquem maiores nas fotos"</string>
     <string name="msg_bubble_doc4_first_use">Toque para reconhecer o texto</string>
     <string name="msg_toast_doc4_recognition_failed">Um erro ocorreu. Tente novamente.</string>
     <string name="msg_toast_doc4_text_not_found">"Não foi possível detectar o texto"</string>
+    <string name="mutex_hdr_quality" formatted="false">"HDR não é compatível com %1s/%2sFPS"</string>
     <string name="multi_window_mode_not_supported">A câmera não pode ser usada no modo multi janela</string>
     <string name="network_access_user_notice_agree">Aceitar</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data>A Câmera precisa se conectar à internet para fornecer efeitos, música e outros recursos para vídeos curtos.&lt;br/>&lt;br/>Ao tocar em \"Aceitar\" abaixo, você estará concordando com o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a>, e permitindo que a Câmera conecte-se à internet.&lt;/Data></string>
