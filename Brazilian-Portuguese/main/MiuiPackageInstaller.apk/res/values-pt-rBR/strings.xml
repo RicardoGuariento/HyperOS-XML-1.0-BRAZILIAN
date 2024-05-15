@@ -98,7 +98,7 @@
     <string name="auth_type_face">Rosto</string>
     <string name="auth_type_finger">Impressão digital</string>
     <string name="auth_type_screen_lock">Bloqueio de tela</string>
-    <string name="auth_type_security_verify">Verificação de Identidade</string>
+    <string name="auth_type_security_verify">Verificação de identidade</string>
     <string name="auto_startup_dialog_msg">Este app não pode iniciar sem sua permissão.</string>
     <string name="btn_text_full_scan">Verificação completa</string>
     <string name="btn_text_install_new_version">Última versão</string>
@@ -392,7 +392,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="lockscreen_access_pattern_cleared">Padrão apagado</string>
     <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
     <string name="login_to_install">Entrar para instalar</string>
-    <string name="login_to_install_des">Entre na sua Conta MI para continuar com a instalação. Você também pode alterar suas preferências de instalação nas Configurações > Instale apps de risco.</string>
+    <string name="login_to_install_des">Entre na sua Conta MI para continuar com a instalação. Você também pode alterar suas preferências de instalação em Configurações > Instale apps de risco.</string>
     <string name="login_xiaomi_account">Entrar</string>
     <string name="low_risk_perms">Permissões de baixo risco</string>
     <string name="manage_applications">Gerenciar apps</string>
@@ -453,7 +453,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="miui_failed_system_incompatible">Pacote de instalação incompatível</string>
     <string name="miui_failed_update_incompatible">Assinaturas de apps conflitantes</string>
     <string name="miui_failed_version_downgrade">"Não é possível rebaixar apps"</string>
-    <string name="miui_failed_version_downgrade_space">"Há uma versão mais recente deste app instalada no segundo espaço ou espaço infantil."</string>
+    <string name="miui_failed_version_downgrade_space">"Há uma versão mais recente deste app instalada no Segundo espaço ou no Espaço infantil."</string>
     <string name="miui_help_feedback_label">Ajuda e feedback</string>
     <string name="miui_install_confirm_question">Instalar este app?</string>
     <string name="miui_install_confirm_question_update">Atualizar o app existente?</string>
@@ -1074,7 +1074,7 @@ Proteção aprimorada"</string>
     <string name="virus_title_subtext">"Este app pode conter vírus: "</string>
     <string name="virus_warning_title">Vírus detectados</string>
     <string name="virus_warning_title_2">Este app contém os seguintes vírus:</string>
-    <string name="waiting_tip">Isso pode demorar um pouco, mas vale a pena</string>
+    <string name="waiting_tip">Isso pode demorar um pouco, mas vale a pena.</string>
     <string name="warning_msg_virus">Vírus detectados</string>
     <string name="warning_msg_virus_name">Este app contém os seguintes vírus: %1$s</string>
     <string name="wear_app_channel">Instalando/desinstalando apps Android Wear</string>

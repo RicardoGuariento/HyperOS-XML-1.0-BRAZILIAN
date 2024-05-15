@@ -152,9 +152,9 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
     <string name="activate_status_desc_failed_getting_gateway">Não foi possível obter o gateway de SMS</string>
     <string name="activate_status_desc_getting_gateway">Obtendo gateway de SMS…</string>
     <string name="activate_status_desc_prepare_sending_sms">Preparando o envio do SMS de ativação…</string>
-    <string name="activate_status_desc_query_activation_info">Obtendo info. de ativação…</string>
-    <string name="activate_status_desc_query_activation_info_downlink_sms_error">O servidor não conseguiu enviar o SMS de ativação ao seu telefone</string>
-    <string name="activate_status_desc_query_activation_info_no_info">Não foi possível encontrar info. de ativação no servidor</string>
+    <string name="activate_status_desc_query_activation_info">Obtendo informações de ativação…</string>
+    <string name="activate_status_desc_query_activation_info_downlink_sms_error">O servidor não conseguiu enviar o SMS de ativação para o seu dispositivo</string>
+    <string name="activate_status_desc_query_activation_info_no_info">Não foi possível encontrar informações de ativação no servidor</string>
     <string name="activate_status_desc_query_activation_info_server_error">Erro no servidor durante a ativação da conta</string>
     <string name="activate_status_desc_query_activation_server_info">Obtendo informações…</string>
     <string name="activate_status_desc_registering_sim_account">Registrando cartão SIM…</string>
@@ -196,8 +196,8 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
     <string name="error_no_get_send_sms_permission_one_sim">Primeiro permita o envio do SMS.</string>
     <string name="error_no_send_sms_permission">O Serviço de Ativação do SIM Xiaomi precisa de permissão para enviar SMS</string>
     <string name="error_sim_not_in_service">Não é possível ativar o cartão SIM. Certifique-se de que seu saldo é suficiente.</string>
-    <string name="error_sim_not_in_service_tip">O SIM %d não pôde se conectar à Internet. Certifique-se de que o cartão SIM esteja funcionando corretamente e tente novamente.</string>
-    <string name="error_sim_not_in_service_tip_one_sim">Não é possível conectar à Internet. Certifique-se de que o seu cartão SIM esteja funcionando corretamente e tente novamente.</string>
+    <string name="error_sim_not_in_service_tip">O SIM %d não pôde se conectar à internet. Certifique-se de que o cartão SIM esteja funcionando corretamente e tente novamente.</string>
+    <string name="error_sim_not_in_service_tip_one_sim">Não é possível conectar à internet. Certifique-se de que o seu cartão SIM esteja funcionando corretamente e tente novamente.</string>
     <string name="evening">"PM"</string>
     <string name="explain_activate_feature_server_title">Ativar \"%s\"</string>
     <string name="explain_activate_register_xiaomi_account_title">Criar Conta Mi</string>
@@ -325,7 +325,7 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
     <string name="pm">"PM"</string>
     <string name="privacy_revoke_failed_msg">A ativação requer o concedimento de autorização para que o app Mensagens obtenha o seu número de telefone.</string>
     <string name="privacy_revoke_failed_msg_tip">Permita que este serviço acesse o seu número de telefone primeiro.</string>
-    <string name="privacy_revoke_tips">Depois que você revogar a autorização, o app parará de coletar seus dados e excluirá todos os dados de seus servidores. A sincronização com a MiCloud, Mi Mensagens e outros recursos de mensagens não estarão mais disponíveis. Revogar a autorização mesmo assim?</string>
+    <string name="privacy_revoke_tips">Após você revogar a autorização, o app parará de coletar seus dados e excluirá todos os dados de seus servidores. A sincronização com a MiCloud, Mi Mensagens e outros recursos de mensagens não estarão mais disponíveis. Revogar a autorização mesmo assim?</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

@@ -25,7 +25,7 @@
         <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d min</item>
+        <item quantity="other">Em %d mins</item>
         <item quantity="one">Em 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -33,22 +33,22 @@
         <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min atrás</item>
+        <item quantity="other">%d mins atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">O telefone estará no Modo chamada de emergência por %s minutos. Nesse modo, nenhum app que usa uma conexão de dados pode ser usado. Você deseja sair agora?</item>
-        <item quantity="one">O telefone estará no Modo chamada de emergência por %s minuto. Nesse modo, nenhum app que usa uma conexão de dados pode ser usado. Você deseja sair agora?</item>
+        <item quantity="other">O dispositivo estará no Modo chamada de emergência por %s minutos. Nesse modo, nenhum app que usa uma conexão de dados pode ser usado. Você deseja sair agora?</item>
+        <item quantity="one">O dispositivo estará no Modo chamada de emergência por %s minuto. Nesse modo, nenhum app que usa uma conexão de dados pode ser usado. Você deseja sair agora?</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
-        <item quantity="other">"O telefone estará no Modo de Emergência durante %s minutos.
+        <item quantity="other">"O dispositivo estará no Modo de emergência durante %s minutos.
 Quer sair agora?"</item>
-        <item quantity="one">"O telefone estará no Modo de Emergência durante %s minuto.
+        <item quantity="one">"O dispositivo estará no Modo de emergência durante %s minuto.
 Quer sair agora?"</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">A ação selecionada não está disponível no Modo chamada de emergência. O telefone estará nesse modo por %s minutos. Você deseja sair agora?</item>
-        <item quantity="one">A ação selecionada não está disponível no Modo chamada de emergência. O telefone estará nesse modo por %s minuto. Você deseja sair agora?</item>
+        <item quantity="other">A ação selecionada não está disponível no Modo chamada de emergência. O dispositivo estará nesse modo por %s minutos. Você deseja sair agora?</item>
+        <item quantity="one">A ação selecionada não está disponível no Modo chamada de emergência. O dispositivo estará nesse modo por %s minuto. Você deseja sair agora?</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
         <item quantity="other">atraso: %d segundos</item>

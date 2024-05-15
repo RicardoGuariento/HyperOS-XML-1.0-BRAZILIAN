@@ -117,14 +117,14 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
     <string name="abc_capital_off">DESATIVADO</string>
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -235,16 +235,16 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="alarms_and_reminders_title">Alarmes e lembretes</string>
     <string name="alert_dialog_close">Feche o perfil</string>
     <string name="alert_dialog_dismiss">Descartar</string>
-    <string name="alert_dialog_exit_ecm">{count, plural, =1 {O telefone ficará no Modo chamada de emergência por um minuto. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?} other {O telefone estará no Modo chamada de emergência por %s minutos. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?} }</string>
-    <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {O telefone ficará no Modo chamada de emergência por um minuto.
-Deseja sair agora?} other {O telefone estará em Modo chamada de emergência por %s minutos.
+    <string name="alert_dialog_exit_ecm">{count, plural, =1 {O dispositivo ficará no Modo chamada de emergência por um minuto. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?} other {O telefone estará no Modo chamada de emergência por %s minutos. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?} }</string>
+    <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {O dispositivo ficará no Modo chamada de emergência por um minuto.
+Deseja sair agora?} other {O dispositivo estará em Modo chamada de emergência por %s minutos.
 Deseja sair agora?} }"</string>
-    <string name="alert_dialog_exit_scm">O telefone está no Modo retorno de SMS. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?</string>
+    <string name="alert_dialog_exit_scm">O dispositivo está no Modo retorno de SMS. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?</string>
     <string name="alert_dialog_in_ecm_call">A ação selecionada não está disponível durante uma chamada de emergência.</string>
     <string name="alert_dialog_in_scm_call">"A ação selecionada não está disponível durante uma chamada de emergência."</string>
     <string name="alert_dialog_no">Não</string>
     <string name="alert_dialog_ok">"OK"</string>
-    <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {A ação selecionada não está disponível no Modo chamada de emergência. O telefone ficará neste modo por um minuto. Deseja sair agora?} other {A ação selecionada não está disponível no Modo chamada de retorno de emergência. O telefone ficará neste modo por %s minutos. Deseja sair agora?} }"</string>
+    <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {A ação selecionada não está disponível no Modo chamada de emergência. O dispositivo ficará neste modo por um minuto. Deseja sair agora?} other {A ação selecionada não está disponível no Modo chamada de retorno de emergência. O dispositivo ficará neste modo por %s minutos. Deseja sair agora?} }"</string>
     <string name="alert_dialog_not_avaialble_in_scm">"A ação selecionada não está disponível no Modo retorno de SMS. Deseja sair agora?"</string>
     <string name="alert_dialog_yes">Sim</string>
     <string name="alertdialogtitle">Resultados</string>
@@ -369,18 +369,18 @@ Deseja sair agora?} }"</string>
     <string name="bluetooth_dun_profile_summary_use_for">Use para acesso à rede Dial-up</string>
     <string name="bluetooth_enable_gabeldorsche">Ativar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Ativa a pilha de recursos Bluetooth Gabeldorsche.</string>
-    <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do smartphone</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Usar para áudio do smartphone</string>
+    <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do dispositivo</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Usado para áudio do dispositivo</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado a aparelhos auditivos</string>
-    <string name="bluetooth_hearing_aid_profile_summary_use_for">Usar para aparelhos auditivos</string>
+    <string name="bluetooth_hearing_aid_profile_summary_use_for">Usado para aparelhos auditivos</string>
     <string name="bluetooth_hearingaid_left_battery_level">Esquerdo: %1$s de bateria</string>
     <string name="bluetooth_hearingaid_left_pairing_message">Pareando aparelho auditivo esquerdo…</string>
     <string name="bluetooth_hearingaid_right_battery_level">Direito: %1$s de bateria</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Pareando aparelho auditivo direito…</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado ao dispositivo de entrada</string>
-    <string name="bluetooth_hid_profile_summary_use_for">Usar para entrada</string>
+    <string name="bluetooth_hid_profile_summary_use_for">Usado para entrada</string>
     <string name="bluetooth_map_profile_summary_connected">Conectado ao mapa</string>
-    <string name="bluetooth_map_profile_summary_use_for">Usar para mapa</string>
+    <string name="bluetooth_map_profile_summary_use_for">Usado para mapa</string>
     <string name="bluetooth_opp_profile_summary_connected">Conectado ao servidor de transferência de arquivo</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Não está conectado ao servidor de transferência de arquivo</string>
     <string name="bluetooth_opp_profile_summary_use_for">Usado para transferência de arquivo</string>
@@ -393,9 +393,9 @@ Deseja sair agora?} }"</string>
     <string name="bluetooth_pairing_pin_error_message">Não foi possível parear com %1$s por causa de um PIN ou senha incorretos.</string>
     <string name="bluetooth_pairing_rejected_error_message">Pareamento rejeitado por %1$s.</string>
     <string name="bluetooth_pairing_will_share_phonebook">O pareamento dá acesso a seus contatos e ao histórico de chamadas quando estiver conectado.</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhamento de conexão local de Internet c/ disposit.</string>
-    <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à Internet</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Conectado ao dispositivo para acesso à Internet</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhamento de conexão local de internet c/ disposit.</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à internet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Conectado ao dispositivo para acesso à internet</string>
     <string name="bluetooth_profile_a2dp">Áudio da mídia</string>
     <string name="bluetooth_profile_a2dp_high_quality">Áudio HD: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Áudio HD</string>
@@ -405,8 +405,8 @@ Deseja sair agora?} }"</string>
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
     <string name="bluetooth_profile_map">Mensagens de texto</string>
     <string name="bluetooth_profile_opp">Transferência de arquivo</string>
-    <string name="bluetooth_profile_pan">Acesso à Internet</string>
-    <string name="bluetooth_profile_pan_nap">Compartilhamento de conexão à Internet</string>
+    <string name="bluetooth_profile_pan">Acesso à internet</string>
+    <string name="bluetooth_profile_pan_nap">Compartilhamento de conexão à internet</string>
     <string name="bluetooth_profile_pbap">Compartilhar contatos</string>
     <string name="bluetooth_profile_pbap_summary">Usar para compartilhar contatos</string>
     <string name="bluetooth_profile_sap">Acesso ao chip</string>
@@ -428,7 +428,7 @@ Seleção: taxa de amostra"</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec de áudio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Acionar codec de áudio Bluetooth
 Seleção"</string>
-    <string name="bluetooth_select_a2dp_codec_type_help_info">Os itens esmaecidos não são compatíveis com o smartphone ou o fone de ouvido</string>
+    <string name="bluetooth_select_a2dp_codec_type_help_info">Os itens esmaecidos não são compatíveis com o dispositivo ou o fone de ouvido</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Selecionar versão do Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versão do Bluetooth AVRCP</string>
     <string name="bluetooth_select_map_version_dialog_title">Selecionar versão MAP do Bluetooth</string>
@@ -446,7 +446,7 @@ Seleção"</string>
     <string name="bt_hci_snoop_log">Ativar registro de rastreamento Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Capturar pacotes de Bluetooth. Ative o Bluetooth depois de alterar essa configuração.</string>
     <string name="bugreport_in_power">Atalho para relatório de bugs</string>
-    <string name="bugreport_in_power_summary">Mostrar um botão para gerar relatórios de bugs no menu do botão liga/desliga</string>
+    <string name="bugreport_in_power_summary">Mostra um botão para gerar relatórios de bugs no menu do botão Liga/Desliga</string>
     <string name="button_convert_fbe">Limpar e converter…</string>
     <string name="cached_apps_freezer_device_default">Padrão do dispositivo</string>
     <string name="cached_apps_freezer_disabled">Desativado</string>
@@ -465,7 +465,7 @@ Seleção"</string>
     <string name="callFailed_call_rejected">Chamada rejeitada</string>
     <string name="callFailed_calling_disabled">Não é possível fazer uma chamada, pois a chamada foi desabilitada usando a propriedade de sistema ro.telephony.disable-call.</string>
     <string name="callFailed_cb_enabled">"Não é possível fazer chamadas enquanto o bloqueio de chamadas está ativado."</string>
-    <string name="callFailed_cdma_activation">Um cartão SIM ativou seu serviço e atualizou as capacidades de roaming do seu telefone.</string>
+    <string name="callFailed_cdma_activation">Um cartão SIM ativou seu serviço e atualizou as capacidades de roaming do seu dispositivo.</string>
     <string name="callFailed_cdma_call_limit">Existem muitas chamadas ativas. Encerre ou junte as chamadas existentes antes de fazer uma nova.</string>
     <string name="callFailed_channel_unacceptable">Canal inaceitável</string>
     <string name="callFailed_concurrent_calls_not_possible">Chamada encerrada, pois chamadas simultâneas não são possíveis.</string>
@@ -627,13 +627,13 @@ Seleção"</string>
     <string name="callwait_open_hint">A função de \"Chamada em espera\" é fornecida por sua operadora. Se você receber uma notificação de erro, entre em contato com sua operadora móvel para certificar-se de que esta função é suportada.</string>
     <string name="can_not_use_for_not_data_sim">(Falha: O SIM deve ser o padrão para dados)</string>
     <string name="cancel">Cancelar</string>
-    <string name="card_title_call_ended">"Chamada encerrada "</string>
+    <string name="card_title_call_ended">"Chamada encerrada"</string>
     <string name="card_title_conf_call">Conferência telefônica</string>
     <string name="card_title_dialing">Discando</string>
-    <string name="card_title_hanging_up">Desligando†</string>
+    <string name="card_title_hanging_up">Desligando</string>
     <string name="card_title_in_call">Em chamada</string>
     <string name="card_title_incoming_call">Recebendo chamada</string>
-    <string name="card_title_on_hold">"Em espera "</string>
+    <string name="card_title_on_hold">"Em espera"</string>
     <string name="card_title_redialing">Rediscando</string>
     <string name="carrier_info">Informação de operadora</string>
     <string name="carrier_mmi_msg_title">Mensagem %s</string>
@@ -658,7 +658,7 @@ Seleção"</string>
     <string name="cdma_lte_data_service">Configurar serviço de dados</string>
     <string name="cdma_options">Opções de CDMA</string>
     <string name="cdma_subscription_dialogtitle">inscrição</string>
-    <string name="cdma_subscription_summary">Alterar entre RUIM/SIM e NV</string>
+    <string name="cdma_subscription_summary">Altere entre RUIM/SIM e NV</string>
     <string name="cdma_subscription_title">Inscrição CDMA</string>
     <string name="cdma_system_select_dialogtitle">Selecionar sistema</string>
     <string name="cdma_system_select_summary">Alterar o modo de roaming CDMA</string>
@@ -829,7 +829,7 @@ Seleção"</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (azul-amarelo)</string>
     <string name="daltonizer_type_overridden">Substituído por %1$s</string>
     <string name="data_disable_warning_no_mms">Você não poderá enviar e receber MMS se você desativar os dados móveis (WCDMA/LTE). No entanto, você poderá enviar e receber quando seu dispositivo estiver conectado ao Wi-Fi.</string>
-    <string name="data_disable_warning_with_mms">Você ainda poderá enviar e receber MMS se você desativar os dados móveis (WCDMA/LTE). Para usar a Internet, conecte-se ao Wi-Fi.</string>
+    <string name="data_disable_warning_with_mms">Você ainda poderá enviar e receber MMS se você desativar os dados móveis (WCDMA/LTE). Para usar a internet, conecte-se ao Wi-Fi.</string>
     <string name="data_enable_always_warn">Perguntar sobre uso de dados móveis</string>
     <string name="data_enable_summary">Permite que este dispositivo use dados móveis</string>
     <string name="data_enable_warning">Permitir o uso contínuo de dados móveis pode gerar tarifas adicionais fora do plano da sua operadora. Conectar mesmo assim?</string>
@@ -860,10 +860,10 @@ Seleção"</string>
     <string name="debug_hw_overdraw">Depurar overdraw da GPU</string>
     <string name="debug_input_category">Entrada</string>
     <string name="debug_layout">Mostrar limites de layout</string>
-    <string name="debug_layout_summary">Mostrar limites de corte, margens, etc.</string>
+    <string name="debug_layout_summary">Mostre limites de corte, margens, etc.</string>
     <string name="debug_monitoring_category">Monitoramento</string>
     <string name="debug_networking_category">Redes</string>
-    <string name="debug_view_attributes">Ativar visualiz. insp. atributo</string>
+    <string name="debug_view_attributes">Ativar visualização insp. atributo</string>
     <string name="default_carrier_mmi_msg_title">Mensagem da operadora</string>
     <string name="default_notification_description">Som padrão (%1$s)</string>
     <string name="default_preference_summary_domain_address">&lt;Não definido&gt;</string>
@@ -910,7 +910,7 @@ Seleção"</string>
     <string name="dialog_alert_title">Atenção!</string>
     <string name="dialog_cancel">Cancelar</string>
     <string name="dialog_network_priority_title">Prioridade</string>
-    <string name="dialog_ota_change_number_fail">Não foi possível alterar o número do    telefone. Se este erro ocorrer ao tentar novamente, contate sua operadora."</string>
+    <string name="dialog_ota_change_number_fail">Não foi possível alterar o número do telefone. Se este erro ocorrer ao tentar novamente, contate sua operadora."</string>
     <string name="dialog_ota_change_number_lgu">Baixar o USIM agora?</string>
     <string name="dialog_ota_change_number_lgu_roaming">Não é possível alterar números de telefone enquanto estiver no exterior.</string>
     <string name="dialog_ota_change_number_processing">Baixando o USIM…</string>
@@ -926,12 +926,12 @@ Seleção"</string>
     <string name="dialpad_three">%d</string>
     <string name="dialpad_two">%d</string>
     <string name="dialpad_zero">%d</string>
-    <string name="direct_boot_unaware_dialog_message">Observação: após uma reinicialização, não é possível iniciar este app até que você desbloqueie seu smartphone</string>
+    <string name="direct_boot_unaware_dialog_message">Observação: após uma reinicialização, não é possível iniciar este app até que você desbloqueie seu dispositivo</string>
     <string name="disable">Desativar</string>
     <string name="disable_all_cf">Desativar todos os encaminhamentos</string>
     <string name="disable_cdma_cw">Cancelar</string>
-    <string name="disable_cfb_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando o seu telefone está ocupado.</string>
-    <string name="disable_cfnrc_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando o seu telefone está inacessível.</string>
+    <string name="disable_cfb_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando o seu dispositivo está ocupado.</string>
+    <string name="disable_cfnrc_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando o seu dispositivo está inacessível.</string>
     <string name="disable_cfnry_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando a ligação não for atendida.</string>
     <string name="disable_esim_dialog_summary">"SIM %s será ativado se você desativar o eSIM agora.
 Desativar o eSIM?"</string>
@@ -948,7 +948,7 @@ Desativar o eSIM?"</string>
     <string name="disabled_by_admin">Desativado pelo administrador</string>
     <string name="disabled_by_admin_summary_text">Controlada pelo administrador</string>
     <string name="display_name_summary">&lt;O mesmo que nome de usuário></string>
-    <string name="display_name_title">Nome em Exibição</string>
+    <string name="display_name_title">Nome em exibição</string>
     <string name="do_not_show_again">"Não mostra novamente"</string>
     <string name="domain_address_title">Servidor</string>
     <string name="doneButton">Concluído</string>
@@ -1038,12 +1038,12 @@ Desativar o eSIM?"</string>
     <string name="enable_opengl_traces_title">Ativar rastream. OpenGL</string>
     <string name="enable_pin">Ativar/Desativar o PIN do SIM</string>
     <string name="enable_pin_ok">PIN do SIM ativado.</string>
-    <string name="enable_proximity_summary">Desativar tela automaticamente quando estiver com o dispositivo próximo à orelha durante uma chamada</string>
+    <string name="enable_proximity_summary">Desativa a tela automaticamente quando estiver com o dispositivo próximo à orelha durante uma chamada</string>
     <string name="enable_proximity_title">Sensor de proximidade</string>
     <string name="enable_sim_pin">Ativar PIN do SIM</string>
     <string name="enable_terminal_summary">Ativar o app terminal que oferece acesso ao shell local</string>
     <string name="enable_terminal_title">Terminal local</string>
-    <string name="enable_verbose_vendor_logging">Ativ. registro detal. de fornecedor</string>
+    <string name="enable_verbose_vendor_logging">Ativar registro detalhado de fornecedor</string>
     <string name="enable_verbose_vendor_logging_summary">Inclui mais registros de fornecedores específicos do dispositivo em relatórios de bugs, que podem conter informações privadas e usar mais bateria e/ou armazenamento.</string>
     <string name="enable_vice_volte_if_dual_ct">Ative o VoLTE para o SIM secundário automaticamente quando dois cartões SIM da China Telecom estiverem instalados.</string>
     <string name="enable_video_calling_dialog_close">Fechar</string>
@@ -1057,7 +1057,7 @@ Desativar o eSIM?"</string>
     <string name="enhanced_4g_lte_mode_summary_o2">Usar os serviços de 4G para melhorar a comunicação por voz ou outros meior (recomendado)</string>
     <string name="enhanced_4g_lte_mode_title">Modo 4G LTE Avançado</string>
     <string name="enhanced_connectivity">Conectividade melhorada</string>
-    <string name="enhanced_connectivity_summary">Ativa o recurso \"Conectividade melhorada\".</string>
+    <string name="enhanced_connectivity_summary">Ativa o recurso Conectividade melhorada.</string>
     <string name="enter_callbarring_password">Insira a senha de restrição de chamadas (4 dígitos)</string>
     <string name="enter_esim_manager">Gerenciar eSim</string>
     <string name="enter_esim_manager_title">Gerenciar eSIM</string>
@@ -1135,7 +1135,7 @@ Desativar o eSIM?"</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atenção!</string>
     <string name="fiveg_sa_switch_summary">Permitir conexão de redes 5G em modo autônomo</string>
     <string name="fiveg_sa_switch_title">Usar rede SA</string>
-    <string name="fiveg_sa_switch_warning_toast">Por favor, reinicie o telefone para que as alterações tenham efeito.</string>
+    <string name="fiveg_sa_switch_warning_toast">Por favor, reinicie o dispositivo para que as alterações tenham efeito.</string>
     <string name="fiveg_sa_vice_switch_summary">Permitir que o SIM secundário use rede 5G independente</string>
     <string name="fiveg_sa_vice_switch_title">SA no SIM secundário</string>
     <string name="fiveg_signal_strength1">Força do sinal 5G:</string>
@@ -1185,7 +1185,7 @@ Desativar o eSIM?"</string>
     <string name="fold_answer_pref_summary">Dobre o dispositivo para aceitar uma chamada automaticamente</string>
     <string name="fold_answer_pref_title">Dobre para aceitar chamadas</string>
     <string name="forbidden_fakecell">Não conecte a falsas estações base</string>
-    <string name="forbidden_fakecell_summary">Evita que seu telefone se conecte a falsas estações base</string>
+    <string name="forbidden_fakecell_summary">Evita que seu dispositivo se conecte a falsas estações base</string>
     <string name="forbidden_network">(Restrita)</string>
     <string name="force_allow_on_external">Forçar permissão de apps em armazenamento externo</string>
     <string name="force_allow_on_external_summary">Qualificar apps para gravação em armazenamento externo, independentemente de valores de manifestos</string>
@@ -1236,7 +1236,7 @@ Mudar para o novo provedor?"</string>
     <string name="guest_resetting">Reiniciando convidado…</string>
     <string name="hac_mode_summary">Ativar compatibilidade com aparelhos auditivos</string>
     <string name="hac_mode_title">Aparelhos auditivos</string>
-    <string name="handon_ringer_summary">Reduzir volume de toque para chamadas recebidas quando o telefone for levantado.</string>
+    <string name="handon_ringer_summary">Reduza o volume de toque para chamadas recebidas quando o dispositivo for levantado.</string>
     <string name="handon_ringer_title">Silenciar toque ao pegar</string>
     <string name="hdcp_checking_dialog_title">Config. a verificação HDCP</string>
     <string name="hdcp_checking_title">Verificação HDCP</string>
@@ -1448,9 +1448,9 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="lodgings_disable">Alojamentos desativados</string>
     <string name="lodgings_enable">Alojamentos ativados</string>
     <string name="low_battery_flash_when_ring_button_tip">Não é possível usar o flash ao tocar devido à bateria fraca</string>
-    <string name="lte_band_sel_setting">band list</string>
-    <string name="lte_band_set_status">lte band set</string>
-    <string name="lte_freq_set_button">set freq and pci</string>
+    <string name="lte_band_sel_setting">lista de bandas</string>
+    <string name="lte_band_set_status">conjunto de banda lte</string>
+    <string name="lte_freq_set_button">definir frequência e pci</string>
     <string name="main_netcheck_summary">Teste a conexão para verificar se há problemas na rede</string>
     <string name="maintenance_disable">Manutenção desativado</string>
     <string name="maintenance_enable">Manutenção ativado</string>
@@ -1475,7 +1475,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="material_timepicker_select_time">Selecione tempo</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="media_category">Mídia</string>
-    <string name="media_transfer_this_device_name">Alto-falante do smartphone</string>
+    <string name="media_transfer_this_device_name">Alto-falante do dispositivo</string>
     <string name="media_transfer_this_phone">Este dispositivo</string>
     <string name="media_transfer_wired_device_name">Dispositivo de áudio com fio</string>
     <string name="media_transfer_wired_usb_device_name">Fones de ouvido com fio</string>
@@ -1490,8 +1490,8 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="messageCFNRc">Encaminhar chamadas para</string>
     <string name="messageCFNRy">Encaminhar chamadas para</string>
     <string name="messageCFU">Encaminhar chamadas para</string>
-    <string name="messageCFU_kr">Um serviço de rede que desvia todas as chamadas recebidas e mensagens de texto para um número específico. Você precisa se cadastrar neste serviço. Você será cobrado com uma taxa mensal. Entre em contato com o centro de atendimento ao cliente (114+[Enviar]) para se cadastrar ou descadastrar deste serviço. Digite %1$s+[número que receberá as chamadas][Enviar] pata habilitar, ou %2$s[Enviar] para desabilitar.</string>
-    <string name="messageCW_kr">Um serviço de rede gratuito que permite atender uma segunda chamada durante uma chamada, colocando a primeira em espera. Digite %1$s[Enviar] pata habilitar, ou %2$s[Enviar] para desabilitar.</string>
+    <string name="messageCFU_kr">Um serviço de rede que desvia todas as chamadas recebidas e mensagens de texto para um número específico. Você precisa se cadastrar neste serviço. Você será cobrado com uma taxa mensal. Entre em contato com o centro de atendimento ao cliente (114+[Enviar]) para se cadastrar ou descadastrar deste serviço. Digite %1$s+[número que receberá as chamadas][Enviar] para ativar, ou %2$s[Enviar] para desativar.</string>
+    <string name="messageCW_kr">Um serviço de rede gratuito que permite atender uma segunda chamada durante uma chamada, colocando a primeira em espera. Digite %1$s[Enviar] pata ativar, ou %2$s[Enviar] para desativar.</string>
     <string name="messageCallBarring">Insira a senha</string>
     <string name="message_decode_error">Ocorreu um erro durante a decodificação da mensagem.</string>
     <string name="mhh_disable">Serviços médicos, de saúde e hospitalares desativados</string>
@@ -1594,7 +1594,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="modem_set_title">CONFIGURAÇÃO DO MODEM</string>
     <string name="modem_setting_button_title">Entre no menu de configurações</string>
     <string name="modem_setting_info">INFORMAÇÕES DE CONFIGURAÇÃO DO MODEM</string>
-    <string name="modem_setting_text_title">configuração de propriedade de teste de modem</string>
+    <string name="modem_setting_text_title">configuração de propriedade de teste do modem</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -1757,7 +1757,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="network_active">Redes ativas</string>
     <string name="network_available">Redes disponíveis</string>
     <string name="network_connected">Conectado</string>
-    <string name="network_connecting">Conectando...</string>
+    <string name="network_connecting">Conectando…</string>
     <string name="network_could_not_connect">Não foi possível conectar</string>
     <string name="network_disconnected">Desconectado</string>
     <string name="network_error_message">Não foi possível conectar-se à rede</string>
@@ -1802,7 +1802,7 @@ A rede preferencial será usada."</string>
     <string name="no_application">Nada</string>
     <string name="no_change">Nenhuma alteração foi feita.</string>
     <string name="no_checked_network">Você não será capaz de conectar-se a redes móveis e fazer chamadas. Selecionar outra rede?</string>
-    <string name="no_internet_available">Para fazer uma chamada SIP, verifique primeiro sua conexão com a Internet.</string>
+    <string name="no_internet_available">Para fazer uma chamada SIP, verifique primeiro sua conexão com a internet.</string>
     <string name="no_mobile_data">Os dados móveis não estão disponíveis</string>
     <string name="no_mobile_data_roaming">O roaming de dados não está disponível</string>
     <string name="no_rtt_when_roaming">Observação: RTT não está disponível em roaming</string>
@@ -1904,7 +1904,7 @@ Isto pode levar até 5 minutos."</string>
     <string name="ota_title_problem_with_activation">Problema com a ativação</string>
     <string name="ota_touch_activate">"Uma chamada especial precisa ser feita para ativar o serviço do seu telefone. 
 
-Depois de pressionar “Ativar”, ouça as instruções fornecidas para ativar o seu telefone."</string>
+Depois de pressionar "Ativar", ouça as instruções fornecidas para ativar o seu telefone."</string>
     <string name="ota_try_again">Repetir</string>
     <string name="ota_unsuccessful">"Seu telefone não foi ativado. 
 Talvez seja necessário encontrar uma área com uma cobertura melhor (próximo de uma janela ou ao ar livre). 
@@ -1920,40 +1920,40 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="password_changed">Senha alterada</string>
     <string name="password_title">Senha</string>
     <string name="password_toggle_content_description">Mostar senha</string>
-    <string name="path_answer_state_setting_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações de chamadas recebidas</string>
-    <string name="path_antispam_setting">Configurações/Apps/Configurar Apps do sistema/Telefone/Lista de bloqueio</string>
-    <string name="path_app_name">Configurações/Apps/Configurar Apps do sistema/Telefone</string>
-    <string name="path_auto_answer_pref_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Atendimento automático</string>
-    <string name="path_auto_retry_mode_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Rediscagem automática</string>
-    <string name="path_call_advanced_settings_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas</string>
-    <string name="path_call_forwarding_settings">Configurações/Apps/Configurar Apps do sistema/Telefone/Encaminhamento de chamadas</string>
-    <string name="path_call_record_auto_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Gravação de chamadas/Gravar chamadas automaticamente</string>
-    <string name="path_call_record_setting">Configurações/Apps/Configurar Apps do sistema/Telefone/Gravação de chamadas</string>
-    <string name="path_call_recording_notification_toggle_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Gravação de chamadas/Notificação de gravação de chamadas</string>
-    <string name="path_call_waiting_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Chamada em espera</string>
-    <string name="path_call_waiting_tone_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Notificação de chamada em espera</string>
-    <string name="path_caller_id_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/ID de chamada</string>
-    <string name="path_cloud_antispam_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Identificar números desconhecidos</string>
-    <string name="path_connect_disconnect_vibrate_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Vibrar quando a chamada é atendida</string>
-    <string name="path_crescendo_ringer_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações de chamadas recebidas/Volume de toque crescente</string>
-    <string name="path_dtmf_tones_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Tons DTMF</string>
-    <string name="path_enable_antispam_strange_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações de chamadas recebidas/Silenciar primeiro toque</string>
-    <string name="path_enable_proximity_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações de chamadas recebidas/Sensor de proximidade</string>
-    <string name="path_fdn">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Números de chamada fixa (FDN)</string>
-    <string name="path_flash_when_ring_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações de chamadas recebidas/Piscar flash quando tocar</string>
-    <string name="path_handon_ringer_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações de chamadas recebidas/Silenciar toque ao pegar</string>
-    <string name="path_missed_call_notify_times_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Lembrete de chamadas perdidas</string>
-    <string name="path_preference_dial_pad_touch_tone_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Tons do teclado de discagem</string>
-    <string name="path_preference_telocation_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Localização</string>
-    <string name="path_reject_via_sms">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Respostas rápidas</string>
-    <string name="path_sip_settings">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Configurações de SIP</string>
-    <string name="path_t9_indexing_method_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Entrada de pesquisa T9</string>
-    <string name="path_telocation_auto_country_code">Configurações/Apps/Configurar Apps do sistema/Telefone/Localização/Adicionar código de país</string>
-    <string name="path_telocation_contacts_countrycode">Configurações/Apps/Configurar Apps do sistema/Telefone/Localização/Código de país padrão</string>
-    <string name="path_telocation_custom_location_title">Apps do sistema/Telefone/Localização/Minhas localizações</string>
-    <string name="path_telocation_enable_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Localização/Mostrar localização</string>
-    <string name="path_turnover_mute_title">Configurações/Apps/Configurar Apps do sistema/Telefone/Configuração de chamadas recebidas/Virar telefone para silenciar toque</string>
-    <string name="path_voicemail_settings">Configurações/Apps/Configurar Apps do sistema/Telefone/Configurações avançadas/Configurações do correio de voz</string>
+    <string name="path_answer_state_setting_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações de chamadas recebidas</string>
+    <string name="path_antispam_setting">Configurações/Apps/Configurar apps do sistema/Telefone/Lista de bloqueio</string>
+    <string name="path_app_name">Configurações/Apps/Configurar apps do sistema/Telefone</string>
+    <string name="path_auto_answer_pref_title">Configurações/Apps/Configurar apps do sistema/Telefone/Atendimento automático</string>
+    <string name="path_auto_retry_mode_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Rediscagem automática</string>
+    <string name="path_call_advanced_settings_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas</string>
+    <string name="path_call_forwarding_settings">Configurações/Apps/Configurar apps do sistema/Telefone/Encaminhamento de chamadas</string>
+    <string name="path_call_record_auto_title">Configurações/Apps/Configurar apps do sistema/Telefone/Gravação de chamadas/Gravar chamadas automaticamente</string>
+    <string name="path_call_record_setting">Configurações/Apps/Configurar apps do sistema/Telefone/Gravação de chamadas</string>
+    <string name="path_call_recording_notification_toggle_title">Configurações/Apps/Configurar apps do sistema/Telefone/Gravação de chamadas/Notificação de gravação de chamadas</string>
+    <string name="path_call_waiting_title">Configurações/Apps/Configurar apps do sistema/Telefone/Chamada em espera</string>
+    <string name="path_call_waiting_tone_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Notificação de chamada em espera</string>
+    <string name="path_caller_id_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/ID de chamada</string>
+    <string name="path_cloud_antispam_title">Configurações/Apps/Configurar apps do sistema/Telefone/Identificar números desconhecidos</string>
+    <string name="path_connect_disconnect_vibrate_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Vibrar quando a chamada é atendida</string>
+    <string name="path_crescendo_ringer_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações de chamadas recebidas/Volume de toque crescente</string>
+    <string name="path_dtmf_tones_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Tons DTMF</string>
+    <string name="path_enable_antispam_strange_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações de chamadas recebidas/Silenciar primeiro toque</string>
+    <string name="path_enable_proximity_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações de chamadas recebidas/Sensor de proximidade</string>
+    <string name="path_fdn">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Números de chamada fixa (FDN)</string>
+    <string name="path_flash_when_ring_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações de chamadas recebidas/Piscar flash quando tocar</string>
+    <string name="path_handon_ringer_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações de chamadas recebidas/Silenciar toque ao pegar</string>
+    <string name="path_missed_call_notify_times_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Lembrete de chamadas perdidas</string>
+    <string name="path_preference_dial_pad_touch_tone_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Tons do teclado de discagem</string>
+    <string name="path_preference_telocation_title">Configurações/Apps/Configurar apps do sistema/Telefone/Localização</string>
+    <string name="path_reject_via_sms">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Respostas rápidas</string>
+    <string name="path_sip_settings">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Configurações de SIP</string>
+    <string name="path_t9_indexing_method_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Entrada de pesquisa T9</string>
+    <string name="path_telocation_auto_country_code">Configurações/Apps/Configurar apps do sistema/Telefone/Localização/Adicionar código de país</string>
+    <string name="path_telocation_contacts_countrycode">Configurações/Apps/Configurar apps do sistema/Telefone/Localização/Código de país padrão</string>
+    <string name="path_telocation_custom_location_title">Configurações/Apps/Configurar apps do sistema/Telefone/Localização/Minhas localizações</string>
+    <string name="path_telocation_enable_title">Configurações/Apps/Configurar apps do sistema/Telefone/Localização/Mostrar localização</string>
+    <string name="path_turnover_mute_title">Configurações/Apps/Configurar apps do sistema/Telefone/Configuração de chamadas recebidas/Virar telefone para silenciar toque</string>
+    <string name="path_voicemail_settings">Configurações/Apps/Configurar apps do sistema/Telefone/Configurações avançadas/Configurações do correio de voz</string>
     <string name="pause_prompt_no">Não</string>
     <string name="pause_prompt_str">"Enviando tons
 "</string>
@@ -1986,7 +1986,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="phone_in_scm_notification_complete_time">Desde %s</string>
     <string name="phone_in_scm_notification_title">Modo retorno de chamada SMS</string>
     <string name="phone_index_label">Selecione o índice do telefone</string>
-    <string name="phone_info_label">"Informação do telefone "</string>
+    <string name="phone_info_label">"Informação do telefone"</string>
     <string name="phone_report_title">Ler informações de chamadas recebidas</string>
     <string name="picture_color_mode">Modo de cor da imagem</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
@@ -2029,8 +2029,8 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="power_remaining_charging_duration_only">%1$s restante(s) até a carga completa</string>
     <string name="power_remaining_duration_only">Tempo restante aproximado: %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Tempo restante aproximado, com base no seu uso: %1$s</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">O smartphone pode ser desligado em breve</string>
-    <string name="power_remaining_duration_shutdown_imminent">O smartphone pode ser desligado em breve (%1$s)</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">O dispositivo pode ser desligado em breve</string>
+    <string name="power_remaining_duration_shutdown_imminent">O dispositivo pode ser desligado em breve (%1$s)</string>
     <string name="power_remaining_less_than_duration">Menos de %1$s restante(s) (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Menos de %1$s restante(s)</string>
     <string name="power_remaining_more_than_subtext">Mais de %1$s restante(s) (%2$s)</string>
@@ -2257,7 +2257,7 @@ Interface UT: %5$s"</string>
     <string name="registration_status_done">Este dispositivo pode receber chamadas.</string>
     <string name="registration_status_failed_try_later">"Não foi possível registrar a conta: %s. Outra tentativa será feita mais tarde."</string>
     <string name="registration_status_invalid_credentials">Não foi possível registrar a conta. Usuário ou senha incorretos</string>
-    <string name="registration_status_no_data">Não foi possível registrar a conta. Este dispositivo não está conectado à Internet.</string>
+    <string name="registration_status_no_data">Não foi possível registrar a conta. Este dispositivo não está conectado à internet.</string>
     <string name="registration_status_no_wifi_data">Não foi possível registrar a conta. Este dispositivo não está conectado ao Wi-Fi.</string>
     <string name="registration_status_not_receiving">Não é possível receber chamadas</string>
     <string name="registration_status_not_running">Não foi possível registrar a conta</string>
@@ -2389,14 +2389,14 @@ Interface UT: %5$s"</string>
     <string name="show_all_anrs">Mostrar ANRs em 2º plano</string>
     <string name="show_all_anrs_summary">Exibir a caixa de diálogo \"App não responde\" para apps em segundo plano</string>
     <string name="show_hw_layers_updates">Atualizações de camadas de hardware</string>
-    <string name="show_hw_layers_updates_summary">Piscar camadas de hardware em verde ao atualizar</string>
+    <string name="show_hw_layers_updates_summary">Pisque camadas de hardware em verde ao atualizar</string>
     <string name="show_hw_screen_updates">Ver atualizações de exibição</string>
-    <string name="show_hw_screen_updates_summary">Piscar visualizações em janelas ao desenhar</string>
+    <string name="show_hw_screen_updates_summary">Pisque visualizações em janelas ao desenhar</string>
     <string name="show_non_rect_clip">Depurar operações de corte não retangulares</string>
     <string name="show_notification_channel_warnings">Mostrar avisos de notificações</string>
-    <string name="show_notification_channel_warnings_summary">Exibir aviso na tela quando um app posta notificação sem canal válido</string>
+    <string name="show_notification_channel_warnings_summary">Exiba aviso na tela quando um app posta notificação sem canal válido</string>
     <string name="show_screen_updates">Mostrar superfície atualizada</string>
-    <string name="show_screen_updates_summary">Piscar superfícies de toda a janela ao atualizar</string>
+    <string name="show_screen_updates_summary">Pisque superfícies de toda a janela ao atualizar</string>
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar feedback visual para toques</string>
     <string name="show_volte_switch_summary">Ative/Desative a opção VoLTE nos detalhes do SIM</string>
@@ -2455,7 +2455,7 @@ Suas contas SIP existentes %s foram removidas.
 Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="sip_accounts_removed_notification_title">Contas SIP obsoletas encontradas e removidas</string>
     <string name="sip_accounts_title">Contas</string>
-    <string name="sip_add_account_tip_text">Para fazer chamadas pela Internet, adicione uma conta SIP</string>
+    <string name="sip_add_account_tip_text">Para fazer chamadas pela internet, adicione uma conta SIP</string>
     <string name="sip_always_send_keepalive">Sempre enviar</string>
     <string name="sip_call_options_entry_1">Para todas as chamadas quando a rede de dados estiver disponível</string>
     <string name="sip_call_options_entry_2">Apenas para chamadas SIP</string>
@@ -2487,7 +2487,7 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="skt_msim_emm_cause_7_8_15">O SIM %d não pôde registrar na rede. Desligue seu dispositivo, depois ligue-o e tente novamente. Se você ainda encontrar esse problema depois disso, entre em contato com o atendimento ao cliente (1599-0011).</string>
     <string name="smart_divert_summary">Configurações de CFNRc</string>
     <string name="smart_divert_title">Reencaminhamento inteligente</string>
-    <string name="smart_dual_sim_prompt">Seu dispositivo usará o SIM 2 para se conectar a Internet quando a conectividade estiver ruim. Isto pode gerar tarifas de dados adicionais. Defina um limite de uso de dados para evitar tarifas adicionais.</string>
+    <string name="smart_dual_sim_prompt">Seu dispositivo usará o SIM 2 para se conectar a internet quando a conectividade estiver ruim. Isto pode gerar tarifas de dados adicionais. Defina um limite de uso de dados para evitar tarifas adicionais.</string>
     <string name="smart_dual_sim_prompt_ok">Configurações</string>
     <string name="smart_dual_sim_prompt_title">Alerta de uso de dados (SIM %s)</string>
     <string name="smart_dual_sim_summary">Alterne para o SIM 2 e use dados móveis deste chip automaticamente quando a conectividade atual estiver ruim. Quando a conectividade melhorar, volte ao cartão SIM padrão.</string>
@@ -2696,26 +2696,26 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_end">" A "</string>
-    <string name="time_end_hour">time end hour</string>
-    <string name="time_end_minute">time end minute</string>
+    <string name="time_end_hour">hora final</string>
+    <string name="time_end_minute">minuto final</string>
     <string name="time_formate_am">"AM"</string>
     <string name="time_formate_pm">"PM"</string>
     <string name="time_next_day">" dia seguinte "</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="time_start">" De "</string>
-    <string name="time_start_hour">time start hour</string>
-    <string name="time_start_minute">time start minute</string>
+    <string name="time_start_hour">hora inicial</string>
+    <string name="time_start_minute">minuto inicial</string>
     <string name="time_unit_just_now">Agora</string>
     <string name="title_cfu_enabled">Encaminhamento de chamadas ativado</string>
     <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivos</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="track_frame_time">Classificar renderização HWUI</string>
-    <string name="traffic_mode_summary">Priorizar conexão de rede móvel para apps atualmente em uso. Apps em segundo plano podem não conseguir se conectar.</string>
+    <string name="traffic_mode_summary">Priorize a conexão de rede móvel para apps atualmente em uso. Apps em segundo plano podem não conseguir se conectar.</string>
     <string name="traffic_mode_switch_title">Modo extremo</string>
     <string name="transcode_default">Suponha que os apps sejam compatíveis com formatos modernos</string>
     <string name="transcode_disable_cache">Desativar cache de transcodificação</string>
-    <string name="transcode_enable_all">Habilitar transcodificação</string>
+    <string name="transcode_enable_all">Ativar transcodificação</string>
     <string name="transcode_notification">Mostrar notificações de transcodificação</string>
     <string name="transcode_settings_title">Configurações de transcodificação de mídia</string>
     <string name="transcode_user_control">Substituir padrões de transcodificação</string>
@@ -2971,7 +2971,7 @@ Se você selecionar redes móveis como preferenciais, elas serão usadas por pad
     <string name="wifi_cant_connect_to_ap">Não é possível conectar-se a \"%1$s\"</string>
     <string name="wifi_check_password_try_again">Verifique a senha e tente novamente</string>
     <string name="wifi_connected_low_quality">Baixa qualidade</string>
-    <string name="wifi_connected_no_internet">Sem Internet</string>
+    <string name="wifi_connected_no_internet">Sem internet</string>
     <string name="wifi_coverage_extend">Ative o recurso de extensão de cobertura de Wi-Fi</string>
     <string name="wifi_coverage_extend_summary">Ative a extensão da cobertura de Wi-Fi usando um Hotspot</string>
     <string name="wifi_disabled_by_recommendation_provider">Não conectado devido à baixa qualidade da rede</string>
@@ -2990,7 +2990,7 @@ Se você selecionar redes móveis como preferenciais, elas serão usadas por pad
     <string name="wifi_hotspot_switch_on_text">Ativado</string>
     <string name="wifi_limited_connection">Conexão limitada</string>
     <string name="wifi_metered_label">Limitada</string>
-    <string name="wifi_no_internet">Sem acesso à Internet</string>
+    <string name="wifi_no_internet">Sem acesso à internet</string>
     <string name="wifi_no_internet_no_reconnect">Não se conectará automaticamente</string>
     <string name="wifi_not_in_range">Fora do alcance</string>
     <string name="wifi_passpoint_expired">Expirada</string>
@@ -3003,7 +3003,7 @@ Se você selecionar redes móveis como preferenciais, elas serão usadas por pad
     <string name="wifi_ssid_is_empty">O campo SSID não pode ser deixado em branco</string>
     <string name="wifi_ssid_length_is_max">O SSID não pode ter mais de 32 caracteres</string>
     <string name="wifi_status_mac_randomized">O MAC é randomizado</string>
-    <string name="wifi_status_no_internet">Sem Internet</string>
+    <string name="wifi_status_no_internet">Sem internet</string>
     <string name="wifi_status_sign_in_required">É necessário fazer login</string>
     <string name="wifi_unmetered_label">Ilimitada</string>
     <string name="wifi_verbose_logging">Ativar registro detalhado de Wi-Fi</string>
@@ -3054,7 +3054,7 @@ O armazenamento de credenciais pode não estar ativo"</string>
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Sinal fraco. Tente se aproximar do roteador.</string>
     <string name="wifitrackerlib_wifi_metered_label">Medida</string>
     <string name="wifitrackerlib_wifi_network_not_found">"Não é possível conectar. Tente mais tarde."</string>
-    <string name="wifitrackerlib_wifi_no_internet">Nenhum acesso à Internet</string>
+    <string name="wifitrackerlib_wifi_no_internet">Nenhum acesso à internet</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Não se conectará automaticamente</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Expirada</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Condições de rede pobres temporárias</string>

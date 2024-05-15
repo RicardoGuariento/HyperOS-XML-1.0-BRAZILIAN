@@ -23,7 +23,7 @@
     <string name="application_cannot_open_weixin_scanner">Não foi possível abrir o digitalizador do WeChat</string>
     <string name="application_not_install_content">Parece que o app que executa esta ação não está instalado no seu dispositivo. Você pode instalar este app ou atribuir uma ação diferente a este gesto.</string>
     <string name="apply_password_action">"OK"</string>
-    <string name="apply_password_confirm_dlg_msg">Use a senha atual de sua tela de bloqueio para acessar as configurações para o %s.</string>
+    <string name="apply_password_confirm_dlg_msg">Use a senha atual de sua Tela de bloqueio para acessar as configurações para o %s.</string>
     <string name="apply_password_confirm_dlg_title">Senha para %s</string>
     <string name="arcticanimals_preview">O Ártico</string>
     <string name="asend">Enviar</string>
@@ -31,7 +31,7 @@
     <string name="asus_phone">"Asus"</string>
     <string name="atlantis">Atlântida (estéreo)</string>
     <string name="australiaanimals_preview">Austrália</string>
-    <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desabilitados, toque duas vezes em qualquer botão para reativá-los</string>
+    <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desativados, toque duas vezes em qualquer botão para reativá-los</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação ativados</string>
     <string name="auto_disable_screenbuttons_float_text">Toque para desativar os botões de navegação</string>
     <string name="auto_disable_screenbuttons_prompts_message">Toque duas vezes em qualquer botão para reativá-los a qualquer momento.</string>
@@ -93,9 +93,6 @@
     <string name="clank">Clank</string>
     <string name="close">Desativado</string>
     <string name="close_app">Fechar o app atual</string>
-
-
-
     <string name="configure_input_methods">Escolher teclado</string>
     <string name="confirm_cancel_task_files">Cancelar o envio de arquivos para %1$s?</string>
     <string name="confirm_cancel_task_images">Cancelar o envio de imagens para %1$s?</string>
@@ -117,7 +114,7 @@
     <string name="dark_mode_enable">Ativar</string>
     <string name="dark_mode_suggest_message">Você pode alternar para o Modo escuro automaticamente ao pôr do sol para obter uma experiência de visualização mais confortável</string>
     <string name="dark_mode_suggest_title">"Está ficando escuro"</string>
-    <string name="dark_mode_suggest_toast">O modo escuro será ativado automaticamente ao pôr do sol e desativado ao amanhecer a partir de agora</string>
+    <string name="dark_mode_suggest_toast">O Modo escuro será ativado automaticamente ao pôr do sol e desativado ao amanhecer a partir de agora</string>
     <string name="data_usage_context">Se o Wi-Fi não estiver ativado, seu dispositivo se conectará a uma rede móvel, o que pode resultar em cobranças adicionais dependendo do seu plano de dados. Obrigado!</string>
     <string name="daydream">Sonhar Acordado</string>
     <string name="default_device_name">Dispositivo desconhecido</string>
@@ -171,7 +168,7 @@
     <string name="force_exit_message">%1$s encerrado</string>
     <string name="force_exit_skip_message">%1$s não pode ser finalizado porque ele é requerido pelo sistema.</string>
     <string name="fourhours">2 horas</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">Você pode retornar para a tela inicial ao tocar suavemente no botão Início. Você pode ativar ou desativar esta função nas Configurações &gt; Configurações adicionais &gt; Botões &gt; Tocar no botão Início para voltar à tela inicial.</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Você pode retornar para a Tela inicial ao tocar suavemente no botão Início. Você pode ativar ou desativar esta função nas Configurações &gt; Configurações adicionais &gt; Botões &gt; Tocar no botão Início para voltar à Tela inicial.</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Agora não</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ativar</string>
     <string name="fp_nav_center_action_choose_dlg_title">Ativar Toque rápido</string>
@@ -247,10 +244,10 @@
     <string name="kb_reset_toast">Teclado redefinido com sucesso</string>
     <string name="key_btn_ok">"OK"</string>
     <string name="key_btn_space">Espaço</string>
-    <string name="key_combination_power_back">Ligar + Voltar</string>
-    <string name="key_combination_power_home">Ligar + Home</string>
-    <string name="key_combination_power_menu">Ligar + Menu</string>
-    <string name="key_combination_power_volume_down">[Volume -] + Ligar</string>
+    <string name="key_combination_power_back">Liga/Desliga + Voltar</string>
+    <string name="key_combination_power_home">Liga/Desliga + Início</string>
+    <string name="key_combination_power_menu">Liga/Desliga + Menu</string>
+    <string name="key_combination_power_volume_down">[Volume -] + Liga/Desliga</string>
     <string name="key_none">Nenhum</string>
     <string name="keyboard_connect_failed">"Não foi possível conectar o teclado. Anexe novamente."</string>
     <string name="keyboard_identity_reject_confirm">Entendi</string>
@@ -283,9 +280,9 @@
     <string name="launch_camera">Iniciar câmera</string>
     <string name="launch_control_center">Centro de controle</string>
     <string name="launch_google_search">Iniciar o Google Assistente</string>
-    <string name="launch_notification_center">Área de notificação</string>
+    <string name="launch_notification_center">Área de notificações</string>
     <string name="launch_recents">Iniciar os recentes</string>
-    <string name="launch_smarthome">Controle Mágico Xiaomi</string>
+    <string name="launch_smarthome">Xiaomi Magic Control</string>
     <string name="launch_voice_assistant">Iniciar assistente de voz</string>
     <string name="launch_wechat_health_code">Código de integridade do WeChat</string>
     <string name="launch_wechat_payment_code">Código de pagamento WeChat</string>
@@ -303,12 +300,12 @@
     <string name="lockscreen_carrier_customized">Serviço limitado</string>
     <string name="lollipop">"Lollipop"</string>
     <string name="long_press_back_key">Pressione e segure o botão Voltar</string>
-    <string name="long_press_buttom_key">Pressione e segure o botão Home na tela de bloqueio</string>
-    <string name="long_press_home_key">Pressione e segure o botão Home</string>
+    <string name="long_press_buttom_key">Pressione e segure o botão Início na Tela de bloqueio</string>
+    <string name="long_press_home_key">Pressione e segure o botão Início</string>
     <string name="long_press_menu_key">Pressione e segure o botão Menu</string>
-    <string name="long_press_menu_key_when_lock">Pressione e segure Menu na tela de bloqueio</string>
-    <string name="long_press_power_key">Pressione e segure o botão Power</string>
-    <string name="long_press_power_key_half_second">Pressione e segure o botão Power por %s s</string>
+    <string name="long_press_menu_key_when_lock">Pressione e segure Menu na Tela de bloqueio</string>
+    <string name="long_press_power_key">Pressione e segure o botão Liga/Desliga</string>
+    <string name="long_press_power_key_half_second">Pressione e segure o botão Liga/Desliga por %s s</string>
     <string name="long_press_volume_down">Pressione e segure o volume para baixo</string>
     <string name="magic_window_toast">Multiplicador de app ativado</string>
     <string name="makewishes">Desejo de aniversário</string>
@@ -351,7 +348,7 @@
     <string name="mw_guide_dialog_button_confirm">Entendi</string>
     <string name="mw_guide_dialog_message">Parece que este app não suporta janelas paralelas. Alterado para outro layout compatível.</string>
     <string name="mw_guide_dialog_title">Janelas paralelas não são compatíveis</string>
-    <string name="nearby_share">Com. p/proximidade</string>
+    <string name="nearby_share">Compartilhar nas proximidades</string>
     <string name="no_avaliable_application">Nenhum app disponível</string>
     <string name="notice_audition">Sons da natureza</string>
     <string name="notification_channel_hotspot">Notificação do hotspot</string>
@@ -370,7 +367,7 @@
     <string name="nubia_phone">"Nubia"</string>
     <string name="onehour">30 minutos</string>
     <string name="open_close_tip_action">"OK"</string>
-    <string name="open_close_tip_content">Para fechar a janela flutuante, pressione e segure a barra de ação e depois deslize para cima</string>
+    <string name="open_close_tip_content">Para fechar a janela flutuante, pressione e segure a barra de ação e depois deslize para cima.</string>
     <string name="open_miui_optimization">Ative a otimização HyperOS primeiro</string>
     <string name="open_system_optimization">Ative a otimização do sistema primeirot</string>
     <string name="other_ime">Outros teclados</string>
@@ -389,7 +386,7 @@
     <string name="perm_send_push_dspt">Permitir mensagens push Mi</string>
     <string name="perm_send_push_lab">Enviar mensagem push</string>
     <string name="permdesc_manageFingerprint">Permite que o app invoque métodos para adicionar e excluir modelos de impressão digital para uso.</string>
-    <string name="permdesc_manageLocationPolicy">Permitir que o app gerencie políticas de localização e definir regras específicas do app.</string>
+    <string name="permdesc_manageLocationPolicy">Permite que o app gerencie políticas de localização e definir regras específicas do app.</string>
     <string name="permdesc_useBiometric">Permite que o app use hardware biométrico para autenticação</string>
     <string name="permdesc_useFingerprint">Permite que o app use hardware de impressão digital para autenticação</string>
     <string name="permlab_manageFingerprint">Gerenciar hardware de impressão digital</string>
@@ -454,7 +451,7 @@
     <string name="rog_phone">"ROG"</string>
     <string name="samsung">"Samsung"</string>
     <string name="samsung_phone">"Samsung"</string>
-    <string name="sc_notification_warning_content">"Se o app não for exibido corretamente, você poderá restaurar a visualização padrão ou alterar as preferências de exibição do app em Configurações."</string>
+    <string name="sc_notification_warning_content">"Se o app não for exibido corretamente, você poderá restaurar a visualização padrão ou alterar as preferências de exibição do app nas Configurações."</string>
     <string name="sc_notification_warning_restore">Restaurar</string>
     <string name="sc_notification_warning_settings">Configurar</string>
     <string name="sc_notification_warning_title">Preferências de exibição do app</string>
@@ -541,10 +538,10 @@
     <string name="status_bar_toggle_cast">Transmitir</string>
     <string name="status_bar_toggle_data">Dados móveis</string>
     <string name="status_bar_toggle_edit">Ordenar</string>
-    <string name="status_bar_toggle_flight_mode">Avião</string>
+    <string name="status_bar_toggle_flight_mode">Modo avião</string>
     <string name="status_bar_toggle_gps">"GPS"</string>
     <string name="status_bar_toggle_lock">Bloquear</string>
-    <string name="status_bar_toggle_midrop">"Mi Drop"</string>
+    <string name="status_bar_toggle_midrop">"Compartilhamento Mi"</string>
     <string name="status_bar_toggle_mute">Silencioso</string>
     <string name="status_bar_toggle_nfc">"NFC"</string>
     <string name="status_bar_toggle_paper_mode">Modo leitura</string>
@@ -649,7 +646,7 @@ usar a câmera frontal"</string>
     <string name="wallpaper_neon_title">"Neon"</string>
     <string name="wallpaper_overlapping_space_title">Forma e sombra</string>
     <string name="waterdrop_preview">Gotas</string>
-    <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à Internet</string>
+    <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
     <string name="wifi_disable_micar_p2p_dialog_message">Conectar-se a uma nova rede Wi-Fi desconectará seu dispositivo do carro. Desconectar agora?</string>
     <string name="wifi_disable_micar_p2p_dialog_message_carwith">Conectar-se a uma nova rede Wi-Fi desconectará seu dispositivo do CarWith. Desconectar agora?</string>

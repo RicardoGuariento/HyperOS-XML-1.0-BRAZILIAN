@@ -351,7 +351,7 @@ seus dispositivos?"</string>
     <string name="close">Fechar</string>
     <string name="close_auxiliary_wifi_hint">Desative \"Aumentar velocidade do Wi-Fi\" para poder transmitir</string>
     <string name="close_auxiliary_wifi_hint_china">Desative \"Aumentar velocidade do Wi-Fi\" para poder transmitir</string>
-    <string name="close_hotspot_hint">Desative o Hotspot portátil antes de transmitir</string>
+    <string name="close_hotspot_hint">Desative o hotspot portátil antes de transmitir</string>
     <string name="close_hotspot_hint_DFS">Para transferir itens para uma TV, primeiro desative o hotspot.</string>
     <string name="close_invisible_mode_dialog_cancel">Cancelar</string>
     <string name="close_invisible_mode_dialog_message">"Não é possível usar o Mi Smart Play agora. Desative o Modo anônimo nas Configurações para poder usar esse recurso."</string>
@@ -399,7 +399,7 @@ seus dispositivos?"</string>
     <string name="connect_settings_share_clipboard">Prancheta</string>
     <string name="connect_settings_share_launcher">Tela inicial+</string>
     <string name="connect_settings_share_notification">Notificações</string>
-    <string name="connect_settings_summary"><Data>Descubra automaticamente dispositivos próximos conectados à sua Conta Mi e conecte-os entre si para executar uma variedade de tarefas em vários dispositivos. &lt;a href=%1$s&gt;Saiba mais&lt;/a&gt;.</Data></string>
+    <string name="connect_settings_summary"><Data>Descubra automaticamente dispositivos próximos conectados à sua Conta Mi e conecte-os entre si para executar uma variedade de tarefas em vários dispositivos. &lt;a href=%1$s&gt;Saiba mais&lt;/a&gt;</Data></string>
     <string name="connect_settings_summary_connection_service">Permita que seus dispositivos interajam entre si sem fio</string>
     <string name="connect_settings_summary_corp_phone">Atenda chamadas em tablets ou computadores próximos conectados à sua Conta Mi</string>
     <string name="connect_settings_summary_global"><Data>Descubra dispositivos próximos conectados à sua Conta Mi e adicione-os ao Xiaomi Smart Hub</Data></string>
@@ -407,9 +407,9 @@ seus dispositivos?"</string>
     <string name="connect_settings_summary_relay_app">Continue tarefas no mesmo app em outro dispositivo</string>
     <string name="connect_settings_summary_share_clipboard">Cole texto e imagens em outros dispositivos dentro de %d minutos após copiá-los neste dispositivo</string>
     <string name="connect_settings_summary_share_launcher_pad">Visualize e interaja com as telas iniciais de dispositivos próximos conectados à sua Conta Mi</string>
-    <string name="connect_settings_summary_share_launcher_phone">Permitir que tablets e computadores próximos visualizem e interajam com a Tela inicial deste dispositivo</string>
+    <string name="connect_settings_summary_share_launcher_phone">Permita que tablets e computadores próximos visualizem e interajam com a Tela inicial deste dispositivo</string>
     <string name="connect_settings_summary_share_notification_pad">Receba notificações de dispositivos próximos conectados à sua Conta Mi</string>
-    <string name="connect_settings_summary_share_notification_phone">Mostrar notificações em tablets próximos ou computadores em uso quando este dispositivo estiver bloqueado</string>
+    <string name="connect_settings_summary_share_notification_phone">Mostre notificações em tablets próximos ou computadores em uso quando este dispositivo estiver bloqueado</string>
     <string name="connect_settings_user_agreement">Termo de Acordo do Usuário</string>
     <string name="connect_settings_withdraw_consent">Retirada do consentimento</string>
     <string name="connection_failed">Não foi possível conectar a câmera</string>
@@ -431,7 +431,7 @@ seus dispositivos?"</string>
     <string name="debug_mode_log_title">Detalhes de impressão de registro</string>
     <string name="debug_mode_merge_support">Compatibilidade com a mesclagem de apps</string>
     <string name="debug_mode_milink_version">Versão do MiLink</string>
-    <string name="debug_mode_miplay_limit_desc">Requisitos: Android 9 ou superior, chip Qualcomm, versão doméstica e adaptação de privacidade completa</string>
+    <string name="debug_mode_miplay_limit_desc">Requisitos: Android 9 ou superior, chip Qualcomm, versão doméstica e adaptação de privacidade completa.</string>
     <string name="debug_mode_miplay_limit_title">Requisitos mínimos do MiPlay</string>
     <string name="debug_mode_miplay_support">Suporte para projeção MiPlay</string>
     <string name="debug_mode_miplay_version">Versão do MiPlay</string>
@@ -443,7 +443,7 @@ seus dispositivos?"</string>
     <string name="debug_mode_system">Propriedades do sistema</string>
     <string name="debug_mode_title">Modo de depuração</string>
     <string name="debug_mode_vendor">Tipo de processador</string>
-    <string name="debug_mode_wait_remove_desc">Por padrão, haverá uma janela pop-up para digitalização que dura pelo menos 1 segundo</string>
+    <string name="debug_mode_wait_remove_desc">Por padrão, haverá uma janela pop-up para digitalização que dura pelo menos 1 segundo.</string>
     <string name="debug_mode_wait_remove_title">Remover pop-up de verificação de dispositivo</string>
     <string name="device_desc_trust">Dispositivos confiáveis</string>
     <string name="device_permission_authorize_dialog_message">Assim que esta permissão for concedida, este dispositivo poderá usar %s para tirar fotos e gravar vídeos.</string>
@@ -953,7 +953,7 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="notify">A transmissão está funcionando em 2º plano</string>
     <string name="notify_content">Executar em segundo plano</string>
     <string name="notify_str">Serviço de Hardware Distribuído</string>
-    <string name="notify_wifiap_dialog_msg">Para digitalizar o código e configurar a rede, desative o Hotspot portátil primeiro.</string>
+    <string name="notify_wifiap_dialog_msg">Para digitalizar o código e configurar a rede, desative o hotspot portátil primeiro.</string>
     <string name="notify_wifiap_dialog_negative">Entedi</string>
     <string name="notify_wifiap_dialog_title">Configurar rede</string>
     <string name="ok_button">Entendi</string>
@@ -1222,7 +1222,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="toast_nfc_dont_move">Não afaste o seu dispositivo</string>
     <string name="toast_nfc_same_wifi">Conecte sua TV e este dispositivo à mesma rede</string>
     <string name="toast_title_for_small_window">Selecione \"Minimizar janela\" no app</string>
-    <string name="toast_turn_off_hotspot_before_cast">Desative o Hotspot portátil antes de transmitir</string>
+    <string name="toast_turn_off_hotspot_before_cast">Desative o hotspot portátil antes de transmitir</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="trust_device_desc">Estes dispositivos aparecerão aqui primeiro quando estiverem próximos</string>

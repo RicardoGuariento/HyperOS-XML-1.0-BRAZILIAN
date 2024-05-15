@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -30,8 +30,8 @@
     <string name="app_name">Mi Macro</string>
     <string name="brvah_app_name">Biblioteca</string>
     <string name="brvah_load_end">Sem dados</string>
-    <string name="brvah_load_failed">O carregamento falhou, toque para tentar novamente</string>
-    <string name="brvah_loading">Carregando...</string>
+    <string name="brvah_load_failed">O carregamento falhou, toque para tentar novamente.</string>
+    <string name="brvah_loading">Carregando…</string>
     <string name="cancel">Cancelar</string>
     <string name="character_counter_content_description">Limite de caracteres excedido %1$d de %2$d</string>
     <string name="four_guide_introduce">Toque no botão [Macro] para ativar as funções macro definidas</string>
@@ -72,7 +72,7 @@
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="multiple_times">Velocidade</string>
     <string name="name_can_not_be_renamed">Já existe um item com este nome</string>
-    <string name="name_not_empty">O nome da macro não pode estar em branco</string>
+    <string name="name_not_empty">O nome do macro não pode estar em branco</string>
     <string name="name_not_greater_than_twenty_character_tips">O nome pode conter até 20 caracteres</string>
     <string name="name_not_less_than_two_character_tips">O nome deve conter pelo menos 2 caracteres</string>
     <string name="notification_content">Combinação em execução…</string>

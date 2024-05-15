@@ -150,8 +150,13 @@ monitoramento de terremoto"</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="game_booster">"Game Turbo"</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">"Não concordo"</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Concordar</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a></Data></string>
+    <string name="gamebooster_confirm_dialog_title">Concorde com nossa Política de Privacidade</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
+    <string name="gamebooster_dialog_start_booster_new">Boost</string>
     <string name="gamebooster_network_dialog_message">Permitir que o app Segurança conecte-se à internet para usar todos os recursos do Game Turbo?</string>
     <string name="gamebooster_network_dialog_message_pad">Permitir que o app Segurança conecte-se à internet para usar todos os recursos do Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
@@ -242,6 +247,7 @@ monitoramento de terremoto"</string>
     <string name="gdpr_msg"><Data>Para usar os recursos básicos do app Segurança, você deve concordar que a Xiaomi coletará, processará e usará seus dados pessoais, incluindo informações sobre as maneiras como você usa os recursos do app Segurança (ex.: estatísticas de uso de dados móveis, informações sobre malwares, bem como informações básicas sobre o seu dispositivo) e outros tipos de informações especificadas em nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Booster Xunyou. Este serviço irá coletar o sua ID da Conta Mi para registrar a duração da sua adesão."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Eu li e concordei com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Eu li e concordei com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Game Booster Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Modificador de voz Xunyou Game. Este serviço coletará o ID da sua Conta Mi para registrar a duração da sua assinatura."</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>"Eu li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Modificador de voz Xunyou Game."</Data></string>
@@ -362,6 +368,8 @@ monitoramento de terremoto"</string>
     <string name="net_booster_expire_notification">A sessão de otimização da velocidade de rede está prestes a encerrar</string>
     <string name="net_booster_overdue_notification">A sessão de otimização da velocidade de rede está prestes a encerrar</string>
     <string name="net_booster_overdue_notification_tip">A sessão de otimização da velocidade foi encerrada. Você pode começar a ter atrasos na rede. Renovar a sessão?</string>
+    <string name="net_free_booster_new_user_tip">Obtenha um boost de jogo grátis e concorra a um dispositivo Xiaomi!</string>
+    <string name="net_free_booster_new_user_title">Presente para novo usuário</string>
     <string name="network_error">Ocorreu um erro de rede.</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
     <string name="night">"PM"</string>
@@ -404,6 +412,7 @@ monitoramento de terremoto"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="super_power_satellite_endurance_time">Pode fazer uma chamada via satélite para ≈%1$s %2$s</string>
     <string name="superpower_app_add">Adicionar</string>
     <string name="superpower_app_contact">Contatos</string>
     <string name="superpower_app_delete">Excluir</string>
