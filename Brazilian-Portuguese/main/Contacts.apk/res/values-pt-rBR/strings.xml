@@ -10,9 +10,9 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -716,9 +716,9 @@ Motivo: \"%s\""</string>
     <string name="heduohao_popup_txt">Sub %d</string>
     <string name="hide_app_description_content">Contatos é um app do sistema. Você ainda poderá usá-lo através do app Telefone ao remover o seu atalho da Tela inicial.</string>
     <string name="hide_app_description_title">Remover \"Contatos\" da Tela inicial?</string>
-    <string name="hint_distance" />
+    <string name="hint_distance">Mantenha os dois dispositivos próximos um do outro durante o processo de importação para garantir que permaneçam conectados.</string>
     <string name="hint_findContacts">Localizar contatos</string>
-    <string name="hint_more_contact">Mesclar contatos duplicados</string>
+    <string name="hint_more_contact">Se a importação criar contatos duplicados, use o recurso \"Mesclar contatos duplicados\".</string>
     <string name="hybrid_check_network">Configurações de rede</string>
     <string name="hybrid_data_error">Ocorreu um erro</string>
     <string name="hybrid_locating_fail">Não foi possível obter sua localização</string>

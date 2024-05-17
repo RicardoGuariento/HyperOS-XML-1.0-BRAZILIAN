@@ -1000,6 +1000,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="other">vezes</item>
         <item quantity="one">vez</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d vezes</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d itens com alto consumo de energia</item>
         <item quantity="one">%d item com alto consumo de energia</item>

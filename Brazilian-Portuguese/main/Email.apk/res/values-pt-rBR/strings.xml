@@ -458,7 +458,6 @@ IMAP"</string>
     <string name="copy">Copiar</string>
     <string name="copy_email">Copiar endereço de e-mail</string>
     <string name="copy_number">Copiar número de telefone</string>
-    <string name="copy_toast_msg">Link copiado para a área de transferência</string>
     <string name="create_action">Novo</string>
     <string name="cur_debt">Saldo da conta</string>
     <string name="custom_from_account_label">Enviar e-mail como:</string>
@@ -622,9 +621,6 @@ IMAP"</string>
     <string name="failed_parse_eml_file">Não foi possível abrir o arquivo EML, tente novamente.</string>
     <string name="failed_read_write_calendar_permission">As permissões da agenda são obrigatórias</string>
     <string name="failed_read_write_contacts_permission">Permitir acesso aos contatos para poder usar este recurso</string>
-    <string name="fallback_menu_item_copy_link">Copiar link</string>
-    <string name="fallback_menu_item_open_in_browser">Abrir no navegador</string>
-    <string name="fallback_menu_item_share_link">Compartilhar link</string>
     <string name="feedback">Enviar feedback</string>
     <string name="feedback_body">Mensagem</string>
     <string name="feedback_sent">Obrigado por seu feedback</string>
