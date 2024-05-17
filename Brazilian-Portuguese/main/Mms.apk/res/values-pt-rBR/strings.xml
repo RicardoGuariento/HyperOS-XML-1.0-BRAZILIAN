@@ -148,6 +148,7 @@ Tente novamente."</string>
     <string name="card_insert_to_contact">Importar contato</string>
     <string name="change_duration_activity">Alterar duração</string>
     <string name="charge_link">Verificar transação</string>
+    <string name="chatbot_info_title">Informação básica</string>
     <string name="chatbot_list_title">Mensagens 5G</string>
     <string name="chatbot_main_title">"Mini apps"</string>
     <string name="check_all">Selecionar todos</string>
@@ -366,6 +367,8 @@ Tente novamente."</string>
     <string name="favorite_at_time">Adicionado aos favoritos às: %1s</string>
     <string name="fcm_fallback_notification_channel_label">Diversos</string>
     <string name="fdn_check_failure">Você só pode enviar mensagens para os números de chamadas fixas (FDN).</string>
+    <string name="file_expired">Este arquivo expirou</string>
+    <string name="file_name_too_long">"Não foi possível enviar. O nome do arquivo é muito longo."</string>
     <string name="feature_mx">Mi Mensagens</string>
     <string name="feature_mx_summary"><b>O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da internet sem a cobrança de tarifas</b>. É necessária uma mensagem SMS para ativar este serviço. A sua operadora cobrará por esta mensagem. Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar este recurso.</string>
     <string name="feature_smart_sms">Mensagens inteligentes</string>
@@ -600,7 +603,7 @@ Verifique seu cartão SIM."</string>
 Esta mensagem pode não ter sido solicitada."</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
     <string name="mms_main_purpose">Para ter acesso a todos os recursos do app Mensagens, ative o Mi Mensagens e as Mensagens inteligentes.</string>
-    <string name="mms_main_purpose_new">Este app precisa se conectar à internet para fornecer serviços básicos. Recomendamos que você ative os serviços Mi Mensagens e as Mensagens inteligentes.</string>
+    <string name="mms_main_purpose_new">Este app precisa se conectar à internet para fornecer serviços básicos.</string>
     <string name="mms_mi_message_main_purpose">Bem-vindo ao Mi Mensagens! Uma mensagem SMS é necessária para ativar o Mi Mensagens. Sua operadora cobrará por esta mensagem.</string>
     <string name="mms_mi_message_request_notice">Queremos que você aproveite ao máximo o Mi Mensagens.</string>
     <string name="mms_mx_privacy_policy">Política de privacidade do Mi Mensagens</string>
@@ -973,6 +976,8 @@ Leia e concorde com a nova versão da Política de Privacidade antes de continua
     <string name="prvate_contact">Contatos privados</string>
     <string name="quick_reply">Responder</string>
     <string name="rate_limit_surpassed">"OK"</string>
+    <string name="rcs_ad_close">Fechar este anúncio</string>
+    <string name="rcs_ad_name">Anúncio</string>
     <string name="rcs_auto_resend_as_sms_remind_change">Alterar configurações</string>
     <string name="rcs_auto_resend_as_sms_remind_desp">Mensagens de até 900B podem ser convertidas como SMS quando o sinal de rede estiver fraco. Toque em \"Alterar configurações\" se você não quiser converter suas mensagens para SMS.</string>
     <string name="rcs_auto_resend_as_sms_remind_title">Converter para SMS</string>
@@ -996,7 +1001,7 @@ Ative os dados móveis e abra esta página novamente."</string>
     <string name="rcs_chatbot_main_menu_blacklist">Lista de bloqueio</string>
     <string name="rcs_chatbot_main_menu_scan">Escanear</string>
     <string name="rcs_chatbot_main_search_hint">Procurar por mini apps</string>
-    <string name="rcs_chatbot_main_tab_my">Meus apps</string>
+    <string name="rcs_chatbot_main_tab_my">Favoritos</string>
     <string name="rcs_chatbot_main_tab_near">Próximo</string>
     <string name="rcs_chatbot_main_tab_recommend">Recomendado</string>
     <string name="rcs_chatbot_mms_remind_desp">Converter e enviar esta mensagem como MMS?</string>
@@ -1037,6 +1042,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_chatdetail_more_href">"Website"</string>
     <string name="rcs_chatdetail_more_id">ID do proprietário</string>
     <string name="rcs_chatdetail_more_number">Número de telefone (mensagens)</string>
+    <string name="rcs_chatdetail_more_provider">Fornecedor</string>
+    <string name="rcs_chatdetail_more_tcpage">Acordo de serviço</string>
     <string name="rcs_chatdetail_more_type">Categoria</string>
     <string name="rcs_chatdetail_name_unknow">Fornecedor desconhecido</string>
     <string name="rcs_chatdetail_save_chatbot">Adicionar aos meus apps</string>
@@ -1047,8 +1054,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_chatlist_scan_error">Não é possível digitalizar este código QR</string>
     <string name="rcs_conversation_rcs_tip">"Mini app: %s"</string>
     <string name="rcs_create_new_group">Criar chat em grupo</string>
-    <string name="rcs_dspt">Enviar e receber mensagens usando Wi-Fi ou a rede da China Mobile</string>
-    <string name="rcs_dspt_unavailable">Não é possível usar este recurso agora. O cartão SIM China Mobile não é seu cartão padrão de dados.</string>
+    <string name="rcs_dspt">Envie e receba mensagens usando Wi-Fi ou rede móvel</string>
+    <string name="rcs_dspt_unavailable">Os recursos relacionados a mensagens 5G não são suportados devido a restrições da operadora.</string>
     <string name="rcs_file_link_as_sms">Acesse %s para ver o arquivo RCS enviado para você.</string>
     <string name="rcs_forward_faild">Não foi possível encaminhar</string>
     <string name="rcs_forward_successful">Encaminhado com sucesso</string>
@@ -1057,12 +1064,13 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_hello_from_pc">Faça o login no Fetion em seu computador para transferir arquivos.</string>
     <string name="rcs_list_bottom_loading">Aguarde…</string>
     <string name="rcs_list_bottom_search">Procurando…</string>
-    <string name="rcs_main_purpose">Este recurso permite que você envie e receba mensagens RCS. O recurso Mensagens RCS é fornecido pela China Mobile.</string>
+    <string name="rcs_main_purpose">Você pode usar este serviço para enviar e receber fotos, mensagens de voz, vídeos e muito mais.</string>
     <string name="rcs_message">Mensagens 5G</string>
     <string name="rcs_message_disable">Não é possível ver esta mensagem no Segundo espaço</string>
     <string name="rcs_message_title">Mensagens 5G</string>
     <string name="rcs_more_bar_title">Mais informações</string>
     <string name="rcs_msg">Mensagens 5G</string>
+    <string name="rcs_msg_privacy_policy">Política de Privacidade da Mensagens 5G</string>
     <string name="rcs_my_black_chatbot_title">Lista de bloqueio</string>
     <string name="rcs_not_online">Não é possível usar o Mensagens 5G. Verifique suas configurações de rede e tente novamente.</string>
     <string name="rcs_offline">Não conectado ao Mensagens 5G. Aguarde alguns minutos e tente novamente.</string>
@@ -1107,7 +1115,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_summary_auto_resend_mms">Converter mensagens multimídia 5G para MMS se a mensagem original não puder ser enviada. Sua operadora cobrará por esta mensagem.</string>
     <string name="rcs_summary_auto_resend_sms">Converter mensagens de texto 5G para SMS se a mensagem original não puder ser enviada. Sua operadora cobrará por esta mensagem.</string>
     <string name="rcs_summary_silence_message">Silenciar notificações de mensagens quando o cliente de desktop estiver em execução</string>
-    <string name="rcs_unavailable">Não é possível usar o Mensagens 5G agora. O cartão SIM China Mobile não é seu cartão de dados padrão.</string>
+    <string name="rcs_unavailable">Os recursos relacionados a mensagens 5G não são suportados devido a restrições da operadora.</string>
     <string name="rcs_up_not_online">O Mensagens 5G está offline. Verifique suas configurações de rede e tente novamente.</string>
     <string name="rcs_wait_for_retry_text">Aguardando…</string>
     <string name="received_at_time">Recebido às: %1s</string>
@@ -1250,6 +1258,13 @@ Dê uma olhada nos recomendados!"</string>
     <string name="select_sim">Selecione o cartão SIM</string>
     <string name="select_top_text">Texto na parte superior</string>
     <string name="send">Enviar</string>
+    <string name="send_after_compress">Comprimir</string>
+    <string name="send_fail">"Não foi possível enviar"</string>
+    <string name="send_orignal_picture">"Original"</string>
+    <string name="send_orignal_video">"Original"</string>
+    <string name="send_rms_editor_hints">Mensagens 5G</string>
+    <string name="send_rms_editor_hints_omit">Mensagem Mi</string>
+    <string name="send_sms">Enviar mensagem</string>
     <string name="send_message_dlg_check_hint">Não mostrar novamente</string>
     <string name="send_message_dlg_mgs">Alerta CMCC: Precisamos registrar seu dispositivo em nossa plataforma de gerenciamento para fornecer serviços gratuitos de suporte. A plataforma CMSS gerencia dispositivos móveis e permite que você altere configurações e atualize o software remotamente. Uma mensagem de texto gratuita com informações de seu dispositivo será enviada para o registro. A mensagem será enviada apenas uma vez e não conterá dados pessoais. Esta mensagem não pode ser enviada por usuários em Hong Kong, Macau, Taiwan ou outros países. Selecione \"OK\" para aceitar e registrar seu dispositivo. Selecione \"Cancelar\" se você não concorda com os termos. Neste caso, os serviços não serão fornecidos a você.</string>
     <string name="send_message_dlg_title">Gerenciamento do dispositivo</string>
@@ -1262,6 +1277,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="send_signature_confirm_dialog_title">Enviar mensagem</string>
     <string name="send_sms">Enviar mensagem</string>
     <string name="send_sms_with_location">Permita que este app acesse sua localização para poder enviar mensagens incluindo sua localização. Você pode conceder essa permissão em Configurações.</string>
+    <string name="send_success">Enviado com sucesso</string>
     <string name="send_to">Para:</string>
     <string name="sent_at_time">Enviado às %1s</string>
     <string name="sent_label">"Enviada: "</string>
@@ -1576,6 +1592,8 @@ Tentativas efetuadas: %s."</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
+    <string name="wrong_mms_version_msg">"Instale uma versão do Mensagens compatível com seu dispositivo e sistema."</string>
+    <string name="wrong_mms_version_title">Erro de versão</string>
     <string name="wild_msg_processing">Trabalhando…</string>
     <string name="wild_msg_title">Escolha os números a sincronizar</string>
     <string name="xiaomi_account_service_retry_main_purpose">Os serviços da Conta Mi devem ser ativados para que este recurso funcione normalmente. Você pode ativar os serviços da Conta Mi em Configurações > Gerenciar apps.</string>

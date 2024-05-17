@@ -357,7 +357,7 @@
     <string name="app_behavior_media_volume_bg">%1s ajustou o volume de mídia em 2º plano</string>
     <string name="app_behavior_media_volume_bg_single">Este app ajustou o volume de mídia em 2º plano</string>
     <string name="app_behavior_media_volume_single">Este app ajustou o volume de mídia</string>
-    <string name="app_behavior_menu_about">Sobre o registro de status dos apps</string>
+    <string name="app_behavior_menu_about">Sobre o registros</string>
     <string name="app_behavior_monitor_off">Desativando notificações</string>
     <string name="app_behavior_monitor_off_content">Você não poderá receber notificações sobre ações sensíveis executadas por este app. Desativar as notificações mesmo assim?</string>
     <string name="app_behavior_monitor_off_positive">Desativar</string>
@@ -404,7 +404,7 @@
     <string name="app_behavior_recognition_single">Este app acessou as informações de suas atividades</string>
     <string name="app_behavior_record_cancel">Cancelar</string>
     <string name="app_behavior_record_close">Desativar</string>
-    <string name="app_behavior_record_close_title">Desativar</string>
+    <string name="app_behavior_record_close_title">Pare de gravar</string>
     <string name="app_behavior_record_hide_system">Ocultar apps do sistema</string>
     <string name="app_behavior_record_open">Ativar</string>
     <string name="app_behavior_record_open_content_text">Os registros de comportamento do app mostram o que os apps fazem e ajudam a evitar riscos de segurança.</string>
@@ -1969,6 +1969,7 @@ monitoramento de terremotos"</string>
     <string name="fingerprint_verify_failed">Não foi possível verificar a impressão digital</string>
     <string name="fingerprint_verify_succeed">Impressão digital verificada</string>
     <string name="fingerprint_verify_try_agin">Não foi possível verificar sua impressão digital, tente novamente.</string>
+    <string name="fingerprint_verify_try_error">Muitas tentativas malsucedidas. Bloqueie e desbloqueie seu dispositivo antes de tentar novamente.</string>
     <string name="firewall_activity_lable">Acesso à rede</string>
     <string name="firewall_allow_all">Permitir que apps conectem-se usando o seguinte método</string>
     <string name="firewall_allow_data">Permitir uso de dados móveis</string>
@@ -2199,11 +2200,15 @@ monitoramento de terremotos"</string>
     <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
     <string name="gamebooster_push_expiring_soon_button">Renovar</string>
     <string name="gamebooster_push_expiring_soon_title">"Game Turbo"</string>
+    <string name="gamebox_ai_accelerate">Impulsionador IA de dados móveis</string>
+    <string name="gamebox_ai_accelerate_description">Analise o ambiente de rede para aumentar a velocidade de conexão da rede móvel e economizar dados móveis</string>
     <string name="gamebox_ai_subtitle">Legendas IA</string>
     <string name="gamebox_app_not_find">Instale o app primeiro.</string>
     <string name="gamebox_brightness">Brilho</string>
     <string name="gamebox_browser_not_find">Instale o Navegador Mi primeiro</string>
     <string name="gamebox_bullet_chat">Comentários na tela</string>
+    <string name="gamebox_cellular_network">Otimize a rede celular</string>
+    <string name="gamebox_cellular_network_description">Seleciona automaticamente a melhor rede com base na latência do jogo</string>
     <string name="gamebox_collimator">Mira</string>
     <string name="gamebox_display_1">Nenhum</string>
     <string name="gamebox_display_2">Saturado</string>
@@ -2305,6 +2310,9 @@ monitoramento de terremotos"</string>
     <string name="gb_audition_play_instruction">Use fones de ouvido para um melhor efeito</string>
     <string name="gb_award_noti_message">Ative as atualizações de plano de fundo do Game for Peace no Game Turbo para obter recompensas</string>
     <string name="gb_award_noti_title">As recompensas do Game for Peace chegaram!</string>
+    <string name="gb_bar_high">Alta</string>
+    <string name="gb_bar_low">Baixa</string>
+    <string name="gb_bar_mid">Média</string>
     <string name="gb_barrage_app_manger">Gerenciar apps</string>
     <string name="gb_barrage_chat_desc">Sempre acredite que algo maravilhoso está para acontecer</string>
     <string name="gb_barrage_chat_pre_desc">Visualização</string>
@@ -2418,6 +2426,9 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_have_signed">Check-in de hoje realizado</string>
     <string name="gb_manual_record_dialog_del_video_message">Excluir vídeos selecionados permanentemente?</string>
     <string name="gb_manual_video_record_title">Gravações</string>
+    <string name="gb_margin_restrain">Ignore o toque acidental nas bordas</string>
+    <string name="gb_margin_restrain_description">Seu dispositivo responderá menos a toques acidentais na área próxima às bordas</string>
+    <string name="gb_margin_restrain_seekbar">Área de toque acidental</string>
     <string name="gb_msg_completely_shielded">Ocultar mensagens</string>
     <string name="gb_msg_completely_shielded_summary">Ocultar</string>
     <string name="gb_msg_not_shielded_summary">Mostrar</string>
@@ -2509,6 +2520,7 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_signed_gift_loading_summary">Aguarde…</string>
     <string name="gb_signed_title">Check-in feito neste mês</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s restante</string>
+    <string name="gb_smart_shake_description">Sensibilidade a pequenos gestos</string>
     <string name="gb_sound_audition">Experimentar</string>
     <string name="gb_storage_game_dialog_button_timer">%d s</string>
     <string name="gb_storage_game_dialog_message">Os jogos baixados, serão automaticamente incluídos no \"Game Turbo\" e o ícone do jogo não será mais exibido na Tela inicial. Ativar esta função?</string>
@@ -2730,7 +2742,7 @@ das suas sessões de jogos"</string>
     <string name="gtb_guide_gtb_game_new">Novo</string>
     <string name="gtb_guide_gtb_line_new">Experimente o Modo performance no Game Turbo!</string>
     <string name="gtb_guide_gtb_line_new_global">Deslize para abrir o Game Turbo</string>
-    <string name="gtb_guide_gtb_line_wilde_mode">Experimente o Modo ultimate no Game Turbo para levar seu jogo para o próximo nível</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Experimente o Modo desempenho no Game Turbo para levar seu jogo para o próximo nível</string>
     <string name="gtb_guide_gtb_line_xspace">Intensifique seu jogo com o novo Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Use outros apps enquanto você joga</string>
     <string name="gtb_guide_small_window_app_title">Janelas flutuantes</string>
@@ -3646,6 +3658,29 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_camera_printer_notify_subtitle">Conectado</string>
     <string name="pc_camera_printer_title">Kit de impressora fotográfica</string>
     <string name="pc_category_charge_settings">Configurações de carregamento</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Baixa voltagem</string>
+    <string name="pc_charge_mode_low_power_fast_speed_tips">O dispositivo pode esquentar</string>
+    <string name="pc_charge_mode_standard">Padrão</string>
+    <string name="pc_charge_mode_topspeed">Velocidade máxima</string>
+    <string name="pc_charge_mode_topspeed_tips">O dispositivo pode esquentar</string>
+    <string name="pc_charge_protection_features_title">Opções de carregamento</string>
+    <string name="pc_charge_protection_wired_charge">Carregamento com fio</string>
+    <string name="pc_charge_protection_wired_charge_mode">Modo de carregamento com fio</string>
+    <string name="pc_charge_protection_wireless_charge">Carregamento sem fio</string>
+    <string name="pc_charge_protection_wireless_charge_mode">Modo de carregamento sem fio</string>
+    <string name="pc_charge_protection_wireless_reverse_charge">Carregamento reverso sem fio</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">"Desativa o carregamento reverso sem fio quando a bateria deste dispositivo estiver abaixo de %1$s"</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_title">Limite de carregamento</string>
+    <string name="pc_charge_wireless_charge_mode_silence_title">Tempo do Modo silencioso</string>
+    <string name="pc_charge_wireless_charge_select_silence">Silencioso</string>
+    <string name="pc_charge_wireless_charge_select_silence_always">Sempre</string>
+    <string name="pc_charge_wireless_charge_select_silence_night">Noite</string>
+    <string name="pc_charge_wireless_charge_select_silence_night_summary">%1$s a %2$s no dia seguinte</string>
+    <string name="pc_charge_wireless_charge_select_silence_summary">Ruído reduzido e carregamento mais lento</string>
+    <string name="pc_charge_wireless_charge_select_standard">Padrão</string>
+    <string name="pc_charge_wireless_charge_select_topspeed">Velocidade máxima</string>
+    <string name="pc_charge_wireless_charge_select_topspeed_summary">Aumenta o ruído e temperatura do dispositivo</string>
+    <string name="pc_charge_wireless_only_mi_charger_work">"Funciona apenas com os carregadores fornecidos pela Xiaomi"</string>
     <string name="pc_close_notifi_action">Desativar</string>
     <string name="pc_continuity_has_open_save_mode_notifi_sumary">A Economia de bateria será desativada quando %1$s estiver %2$s ou totalmente carregado</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">Economia de bateria ativada em %s</string>
@@ -3655,6 +3690,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_endurance_calculation">Calculando…</string>
     <string name="pc_entered_extreme_mode">O Modo hibernação está ativado</string>
     <string name="pc_entered_extreme_mode_summary">"Seu dispositivo está sem bateria e entrou no Modo hibernação. Os apps serão executados em segundo plano e não enviarão notificações."</string>
+    <string name="pc_extreme_category">Bateria extremamente fraca</string>
     <string name="pc_extreme_exit_and_power_off">Sair</string>
     <string name="pc_extreme_mode_bg_toast">"No Modo hibernação, os apps serão executados em segundo plano e não enviarão notificações"</string>
     <string name="pc_extreme_mode_entering">Entrando no Modo hibernação…</string>
@@ -3663,6 +3699,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_extreme_mode_exiting">Saindo do Modo hibernação…</string>
     <string name="pc_extreme_mode_find_charger">Carregue seu dispositivo o mais rápido possível.</string>
     <string name="pc_extreme_mode_runtime">O Modo hibernação está ativado há %1$s %2$s.</string>
+    <string name="pc_extreme_mode_setting_summary">Prolonga o tempo de espera quando a bateria estiver extremamente fraca</string>
+    <string name="pc_extreme_mode_setting_title">Hibernação</string>
     <string name="pc_extreme_mode_title">Modo hibernação</string>
     <string name="pc_fast_charge_notifi_action_text_off">Parar</string>
     <string name="pc_fast_charge_notifi_action_text_on">Impulsionar</string>
@@ -3715,6 +3753,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_low_batterty_got_it">Entendi</string>
     <string name="pc_low_battery_fast_charge">Acelerar o carregamento</string>
     <string name="pc_low_battery_fast_charge_summary">Conecte o carregador fornecido para acelerar o carregamento quando a tela estiver desligada e a bateria estiver fraca. Lembre-se, este recurso pode fazer com que seu dispositivo aqueça.</string>
+    <string name="pc_low_temp_charge_summary">Mantenha o carregador conectado e espere a bateria aquecer depois que a tela apagar para carregar normalmente</string>
+    <string name="pc_low_temp_charge_title">Carregamento em baixa temperatura</string>
     <string name="pc_main_activity_back">Voltar</string>
     <string name="pc_main_battery_text_day">%1$s min adicionado, cerca de %2$s d restante(s)</string>
     <string name="pc_main_battery_text_day_hour">%1$s min adicionado, cerca de %2$s d e %3$s h restante(s)</string>
@@ -4127,6 +4167,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_optimize_loading">Carregando</string>
     <string name="power_optimize_open_hide_mode">Ativar Economia de bateria</string>
     <string name="power_optimize_power_save_extend_time">Adicionar %s</string>
+    <string name="power_optimize_power_save_extend_time_new" formatted="false">Estender para %1s %2s</string>
     <string name="power_optimize_power_save_summary">Ative a Economia de bateria para aplicar múltiplas otimizações de sistema que limitam atividades em segundo plano</string>
     <string name="power_optimize_prohibit_app_autostart">Não permitir que apps iniciem automaticamente</string>
     <string name="power_optimize_reduce_fps">Reduzir a taxa de atualização da tela para %d Hz</string>
@@ -5283,6 +5324,9 @@ Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</
     <string name="storage_menu_mount">Montar</string>
     <string name="storage_mount_failure">Não foi possível montar o %1$s</string>
     <string name="storage_mount_success">%1$s montado com sucesso</string>
+    <string name="storage_permission_button">Configurações</string>
+    <string name="storage_permission_message">Permita que este recurso acesse o armazenamento para poder calcular com precisão o uso do armazenamento. Você pode conceder essa permissão nas Configurações.</string>
+    <string name="storage_permission_title">Permissões necessárias</string>
     <string name="storage_space_release_hint">Precisa de mais espaço?</string>
     <string name="storage_system_log">Registros do sistema</string>
     <string name="storage_system_log_tip">Os registros do sistema serão limpos automaticamente quando necessário</string>
@@ -6040,6 +6084,9 @@ Experimente interpolar a resolução!"</string>
     <string name="verify_sms_ensure_allow">Enviar</string>
     <string name="verify_sms_title">%1$s está tentando enviar uma mensagem…</string>
     <string name="video_repeat">Reproduzir novamente</string>
+    <string name="videobox_double_core_visual">Visuais dual-core</string>
+    <string name="videobox_double_core_visual_description1">Melhora a resolução de vídeo, a taxa de quadros e otimiza o HDR por meio de um chip dedicado</string>
+    <string name="videobox_double_core_visual_description2">Melhora a clareza e suavidade do vídeo. Ativar esse recurso aumentará ligeiramente o consumo de bateria.</string>
     <string name="videobox_hangup_tips_content">A sua tela será bloqueada, mas o app continuará executando em segundo plano quando este recurso estiver ativado. Pressione o botão Liga/Desliga para ligar a tela novamente. Ativar este recurso agora?</string>
     <string name="videobox_hangup_tips_title">Atenção!</string>
     <string name="videobox_settings_line_location">Local do atalho</string>

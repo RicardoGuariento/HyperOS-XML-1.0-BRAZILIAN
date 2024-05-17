@@ -53,6 +53,7 @@
     <string name="am">"AM"</string>
     <string name="ambient_display_screen_title">Tela ambiente</string>
     <string name="ambient_display_screen_title_sp">Exibição ambiente</string>
+    <string name="ambient_display_screen_title_summary">Defina o estilo da Tela interna. A Tela externa manterá o estilo da Tela de bloqueio.</string>
     <string name="animation_clock_panel">Disco ondulado</string>
     <string name="aod_app_name">Tela sempre ativa e editor de Tela de bloqueio</string>
     <string name="aod_close_color_inversion">Este recurso não pode ser combinado com a inversão de cores. Desative a inversão de cores primeiro.</string>
@@ -326,6 +327,7 @@ dd/MM"</string>
     <string name="kg_template_description_classic">"O que é clássico nunca sai de moda."</string>
     <string name="kg_template_description_magazine">Transforme sua Tela de bloqueio em uma capa de revista.</string>
     <string name="kg_template_description_rhombus">O tempo é importante. Faça valer a pena.</string>
+    <string name="kg_template_preview_content_description">Visualização da Tela de bloqueio</string>
     <string name="kg_template_title_classic">Clássico</string>
     <string name="kg_template_title_magazine">Revista</string>
     <string name="kg_template_title_mine">Tela de bloqueio</string>
@@ -553,7 +555,9 @@ mm"</string>
     <string name="signature_default_content">"Sempre acredite que algo
  incrível está prestes a acontecer"</string>
     <string name="smart_style">Inteligente</string>
-    <string name="smart_style_summary">"Sempre exiba itens, exceto quando seu dispositivo estiver no bolso, quando a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para seu dispositivo"</string>
+    <string name="smart_style_summary">"Não exibir quando o dispositivo estiver no bolso, quando a luz ambiente estiver fraca por muito tempo ou quando você não estiver olhando para a tela"</string>
+    <string name="smart_style_summary_inner">"Não exibir quando o dispositivo estiver no bolso, a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para a Tela interna"</string>
+    <string name="smart_style_summary_outer">"Não exibir quando o dispositivo estiver no bolso, a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para a Tela externa"</string>
     <string name="somatosensory_temperature_format">Sensação de %s°</string>
     <string name="standard_clock_panel">Padrão</string>
     <string name="standard_style">Padrão</string>
@@ -633,6 +637,17 @@ dd/MM"</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_style">Estilo</string>
     <string name="time_style_layout">"Layout"</string>
+    <string name="tiny_camera_content_description">Câmera</string>
+    <string name="tiny_classic_date_format">EEE d/M</string>
+    <string name="tiny_clock_time_format_12">hh:mm</string>
+    <string name="tiny_clock_time_format_24">HH:mm</string>
+    <string name="tiny_doodle_clock_date">"dd MMMM"</string>
+    <string name="tiny_doodle_clock_week_full">"EEEE"</string>
+    <string name="tiny_pets_date_format">"d/M"</string>
+    <string name="tiny_pets_week_format">"EEE"</string>
+    <string name="tiny_splicing_date_content_description">d/M</string>
+    <string name="tiny_splicing_date_format">d/M</string>
+    <string name="tiny_splicing_week_format">"EEE"</string>
     <string name="tip_to_open_aod_mode">A Tela ambiente está desativada. Ativar agora?</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>

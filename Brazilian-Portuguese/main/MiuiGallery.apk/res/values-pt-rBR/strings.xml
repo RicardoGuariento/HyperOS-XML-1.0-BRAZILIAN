@@ -138,6 +138,7 @@ Tente criar a imagem IA com fotos diferentes."</string>
     <string name="ai_creation_count_limit_msg">"Não é possível criar mais retratos hoje. Volte amanhã!"</string>
     <string name="ai_creation_delete_msg">Excluir este registro do histórico agora?</string>
     <string name="ai_creation_delete_title">Atenção!</string>
+    <string name="ai_creation_record_footer_tips">Você só pode visualizar itens criados neste dispositivo. Eles serão excluídos depois que você sair da sua Conta Mi.</string>
     <string name="ai_creation_recreate_button">Recomeçar</string>
     <string name="ai_creation_save_failed_msg">"Não foi possível salvar. Tente novamente."</string>
     <string name="ai_creation_save_success_msg">Salvo com sucesso</string>
@@ -184,12 +185,18 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_image_count_limit_msg">"Não é possível criar mais imagens IA hoje. Volte amanhã!"</string>
     <string name="ai_image_creating_failed_msg">"Não foi possível criar a imagem para %s"</string>
     <string name="ai_image_creating_msg">Criando imagem para %s</string>
+    <string name="ai_image_creation_over_limit_title">"Não é possível criar mais retratos"</string>
+    <string name="ai_image_invalid">"Imagem de IA de %s excluída com sucesso"</string>
+    <string name="ai_image_invalid_in_update">"Atualizando %s imagem de IA agora. Espere até que seja atualizado e tente novamente."</string>
+    <string name="ai_image_manager_empty_msg">"Não é possível visualizar fotos usadas para criar imagens de IA em versões mais antigas deste serviço em outro dispositivo"</string>
+    <string name="ai_image_manager_empty_msg_net">Não há fotos aqui</string>
     <string name="ai_image_manager_re_create_tip">Adicione ou exclua fotos para atualizar sua imagem IA</string>
     <string name="ai_image_manager_title">Gerenciar imagem IA</string>
     <string name="ai_image_not_creatable">"A imagem IA está sendo atualizada agora. Tente novamente depois de terminar."</string>
     <string name="ai_image_over_limit_button_cancel">Entendi</string>
     <string name="ai_image_over_limit_button_create">Continuar</string>
     <string name="ai_image_over_limit_title">"Não é possível criar imagem IA"</string>
+    <string name="ai_image_over_limit_title_update">"Não é possível atualizar imagens de IA agora"</string>
     <string name="ai_image_privacy_message"><Data>"Bem-vindo aos Retratos IA!&lt;br/>Para poder fornecer serviços a você, precisamos coletar as informações pessoais necessárias:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Para criar retratos IA, você terá que fazer upload &lt;b>fotos de pessoas&lt;/b> aos nossos servidores. Coletaremos e processaremos as informações sobre suas &lt;b>faces&lt;/b> para gerar um modelo de IA.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Quando você carrega &lt;b>fotos de pessoas&lt;/b>, vamos sincronizar &lt;b>seus nomes e fotos de perfil&lt;/b> dos álbuns correspondentes e associar essas informações às imagens IA.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Quando você cria imagens IA com base em texto, coletaremos a &lt;b>descrição&lt;/b> que você fornece para gerar imagens.&lt;br/>Coletamos apenas informações pessoais necessárias para os recursos específicos dos produtos e serviços que você utiliza. Você pode saber como coletamos e processamos informações pessoais na &lt;a href=\"%4$s\">Política de Privacidade de Retratos IA&lt;/a>.&lt;br/>Leia e concorde com o &lt;a href=\"%5$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%6$s\">Política de Privacidade&lt;/a> do Retratos IA, antes de continuar."</Data></string>
     <string name="ai_input_name_hint">Insira o nome</string>
     <string name="ai_loading">Aguarde…</string>
@@ -657,6 +664,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="clear_dup_medias">Limpar fotos duplicadas</string>
     <string name="clear_dup_success">Limpeza feita com sucesso</string>
     <string name="clear_dup_tip">Limpando fotos duplicadas</string>
+    <string name="clear_gallery_disk_cache_img">Limpar imagem de cache de disco da galeria</string>
     <string name="clear_thumbnails_ending_dialog_cancer">Cancelar</string>
     <string name="clear_thumbnails_ending_dialog_content">"A sincronização com a nuvem não está mais disponível nesta versão da Galeria. Você não poderá mais visualizar itens que não foram baixados para este dispositivo. Você ainda pode visualizá-los e baixá-los em i.mi.com."</string>
     <string name="clear_thumbnails_ending_dialog_title">A sincronização com a nuvem não está mais disponível</string>
@@ -1066,6 +1074,7 @@ Tire mais fotos de seus amigos!"</string>
     <string name="fancy_color_desc">Cores</string>
     <string name="fast_share_auto_render">Embelezar</string>
     <string name="fast_share_auto_render_finish">Embelezado</string>
+    <string name="father_day">Dia das Mães</string>
     <string name="feature_guidance_photo_effects">"Novos efeitos de foto
 estão disponíveis"</string>
     <string name="feature_guidance_video_editor_smart_effects">Novos efeitos estão disponíveis</string>
@@ -1387,6 +1396,7 @@ estão disponíveis"</string>
     <string name="group_header_title_media_group">Tipos de mídia</string>
     <string name="group_header_title_third_album">Mais álbuns</string>
     <string name="group_header_title_user_create_album">Meus álbuns</string>
+    <string name="halloween">Dia das Bruxas</string>
     <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
     <string name="have_known">Entendi</string>
     <string name="hdr_show_hint">Ajusta a exibição para exibir mais detalhes nas sombras e destaques em itens com alta faixa dinâmica</string>
@@ -1679,6 +1689,7 @@ para personalizar a Galeria"</string>
     <string name="mark_operation_processing">Processando…</string>
     <string name="mark_operation_succeeded">Adicionado com sucesso</string>
     <string name="mark_people_ignore_info_message">Pressione e segure em fotos de pessoas para adicioná-las em grupos</string>
+    <string name="mather_day">"Dia dos Pais"</string>
     <string name="media_type_burst_photo">Estouro</string>
     <string name="media_type_cinematic">Modo filme</string>
     <string name="media_type_clone_photo">"Clones"</string>
@@ -1938,6 +1949,7 @@ para personalizar a Galeria"</string>
     <string name="new_relation_invalid_char">Nomes de grupos não podem conter \"%s\". Use letras, números ou caracteres especiais.</string>
     <string name="new_relation_invalid_name">O grupo \"%s\" já existe, renomeie este grupo.</string>
     <string name="new_relation_invalid_prefix">Não é possível iniciar nomes de grupos com \".\" ou \"_\"</string>
+    <string name="new_year_eve">"Véspera de Ano Novo"</string>
     <string name="next">Avançar</string>
     <string name="night">"PM"</string>
     <string name="no">Não</string>
@@ -3327,6 +3339,8 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="text_item_type_talkback_spot_yiheyuan">Summer Palace</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Zhangjiajie</string>
     <string name="text_recognition">Reconhecer texto</string>
+    <string name="text_segment">Recorte de foto</string>
+    <string name="thanksgiving_day">Ação de graças</string>
     <string name="text_tab_bubble">Bolha</string>
     <string name="text_tab_city">Cidade</string>
     <string name="text_tab_festival">Feriado</string>
@@ -3348,6 +3362,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="the_childrens_day">Dia das Crianças</string>
     <string name="the_chinese_youth_day">Dia da Juventude</string>
     <string name="the_christmas_day">Natal</string>
+    <string name="the_christmas_eve">Noite de Natal</string>
     <string name="the_double_ninth_festival">Festival do Nono Duplo</string>
     <string name="the_dragon_boat_festival">Festival do Barco-dragão</string>
     <string name="the_easter_day">Páscoa</string>
