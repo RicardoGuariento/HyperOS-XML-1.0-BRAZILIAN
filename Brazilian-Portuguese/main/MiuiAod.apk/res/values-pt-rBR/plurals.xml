@@ -150,8 +150,8 @@ Animações mais longas serão interrompidas neste ponto."</item>
         <item quantity="one">O nível da bateria é %s%% agora</item>
     </plurals>
     <plurals name="tiny_accessibility_battery_level_charging">
-        <item quantity="other">Carregando. O nível da bateria é %s%% agora.</item>
-        <item quantity="one">Carregando. O nível da bateria é %s%% agora.</item>
+        <item quantity="other">Carregando. O nível da bateria é %d%% agora.</item>
+        <item quantity="one">Carregando. O nível da bateria é %d%% agora.</item>
     </plurals>
     <plurals name="weather_temperature_desc">
         <item quantity="other">Temperatura: %1$s graus, %2$s</item>

@@ -146,6 +146,7 @@ Tente novamente."</string>
     <string name="change_duration_activity">Alterar duração</string>
     <string name="chatbot_info_title">Informação básica</string>
     <string name="charge_link">Verificar transação</string>
+    <string name="chatbot_info_title">Informação básica</string>
     <string name="chatbot_list_title">Mensagens 5G</string>
     <string name="chatbot_main_title">"Mini apps"</string>
     <string name="check_all">Selecionar todos</string>
@@ -594,7 +595,7 @@ Verifique seu cartão SIM."</string>
 Esta mensagem pode não ter sido solicitada."</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
     <string name="mms_main_purpose">Para ter acesso a todos os recursos do app Mensagens, ative o Mi Mensagens e as Mensagens inteligentes.</string>
-    <string name="mms_main_purpose_new">Este app precisa se conectar à internet para poder fornecer serviços básicos.</string>
+    <string name="mms_main_purpose_new">Este app precisa se conectar à internet para fornecer serviços básicos.</string>
     <string name="mms_mi_message_main_purpose">Bem-vindo ao Mi Mensagens! Uma mensagem SMS é necessária para ativar o Mi Mensagens. Sua operadora cobrará por esta mensagem.</string>
     <string name="mms_mi_message_request_notice">Queremos que você aproveite ao máximo o Mi Mensagens.</string>
     <string name="mms_mx_privacy_policy">Política de privacidade do Mi Mensagens</string>
@@ -1057,6 +1058,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_chatdetail_more_href">"Website"</string>
     <string name="rcs_chatdetail_more_id">ID do proprietário</string>
     <string name="rcs_chatdetail_more_number">Número de telefone (mensagens)</string>
+    <string name="rcs_chatdetail_more_provider">Fornecedor</string>
+    <string name="rcs_chatdetail_more_tcpage">Acordo de serviço</string>
     <string name="rcs_chatdetail_more_type">Categoria</string>
     <string name="rcs_chatdetail_more_provider">Fornecedor</string>
     <string name="rcs_chatdetail_more_tcpage">Acordo de serviço</string>
@@ -1286,6 +1289,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="send_signature_confirm_dialog_message">Nenhum conteúdo encontrado. Enviar apenas a sua assinatura?</string>
     <string name="send_signature_confirm_dialog_title">Enviar mensagem</string>
     <string name="send_sms">Enviar mensagem</string>
+    <string name="send_sms_with_location">Permita que este app acesse sua localização para poder enviar mensagens incluindo sua localização. Você pode conceder essa permissão em Configurações.</string>
     <string name="send_success">Enviado com sucesso</string>
     <string name="send_to">Para:</string>
     <string name="sent_at_time">Enviado às %1s</string>
