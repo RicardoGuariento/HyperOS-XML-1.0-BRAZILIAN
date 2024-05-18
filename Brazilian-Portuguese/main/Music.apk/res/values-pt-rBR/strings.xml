@@ -350,7 +350,12 @@
     <string name="columbus_player_speed_title">Pular vídeo?</string>
     <string name="columbus_player_speed_video">Pular VÍDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
+    <string name="columbus_reward_style_access">Saiba mais</string>
+    <string name="columbus_reward_style_close_cancel">Sair</string>
+    <string name="columbus_reward_style_close_desc">Termine de assistir ao vídeo para receber uma recompensa. Continuar assistindo?</string>
+    <string name="columbus_reward_style_speed_confirm">Continuar</string>
     <string name="columbus_skip_ad">Pular</string>
+    <string name="columbus_skip_ad_time">Pular (%d)</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
@@ -1310,6 +1315,10 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="local_page_artist_more">Mais músicas por %s</string>
     <string name="local_page_playlist">"Playlists"</string>
     <string name="local_page_song_download_history">"Downloads"</string>
+    <string name="lock_screen_music_settings">Música nas configurações da Tela de bloqueio</string>
+    <string name="lock_screen_settings">Configurações da Tela de bloqueio</string>
+    <string name="lock_screen_slide_up">Deslize para cima para desbloquear</string>
+    <string name="lock_screen_switch">Música na Tela de bloqueio</string>
     <string name="lock_failure">Failed to lock, please try again later~</string>
     <string name="lock_seat">Lock Seats</string>
     <string name="login_button_login">Sign in</string>
@@ -1338,6 +1347,16 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="ludo_play_time">Times %1$d</string>
     <string name="ludo_tab_guide">Confira nossas novas salas de música</string>
     <string name="ludo_to_voice_room">Do you want to exit the game and enter the voice room?</string>
+
+    <string name="lyric_feedback_inaccurate_timing">As letras estão fora de sincronia</string>
+    <string name="lyric_feedback_lyrics_error">"A letra da música inteira está errada"</string>
+    <string name="lyric_feedback_misspelling">Erros ortográficos e de digitação</string>
+    <string name="lyric_feedback_other">Outro</string>
+    <string name="lyric_feedback_pure_music">Música instrumental</string>
+    <string name="lyric_feedback_report_optimization">Envie um relatório para nos ajudar a otimizar nossos serviços</string>
+    <string name="lyric_feedback_submit">Enviar</string>
+    <string name="lyric_feedback_submit_success">Enviado com sucesso</string>
+    <string name="lyric_feedback_title">Conte-nos sobre o problema</string>
     <string name="lyric_is_empty">Nenhuma letra de música disponível</string>
     <string name="lyric_label">Letras</string>
     <string name="lyric_open_other_connect">Baixar letras usando a rede móvel</string>
@@ -1731,6 +1750,7 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="online_switch_setting">Configurações de conteúdo online</string>
     <string name="online_user_list">Online user list</string>
     <string name="only_pro_can_choose_hd_sound_quality">Áudio em HD está disponível apenas para membros PRO</string>
+    <string name="open_alarm_clock_recommend_switch">Alarme de música recomendado</string>
     <string name="open_mic">Open mic</string>
     <string name="open_online_service">Você precisa ativar os serviços online para usar este recurso. Ativar agora?</string>
     <string name="open_service">Ativar</string>
@@ -1916,6 +1936,7 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="privacy_dialog_desc">&lt;Data>Hi, welcome to GoGo Voice Room, come here to enjoy music with friends. Please agree to the &lt;a href=\"%1$s\">GoGo User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using&lt;/Data></string>
     <string name="privacy_dialog_disapproval">Disapproval</string>
     <string name="privacy_policy">Política de Privacidade</string>
+    <string name="privacy_policy_title_asm">Um mundo de música ao seu alcance</string>
     <string name="privacy_request_desc"><Data>"O Música precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode saber mais sobre como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt;. Você pode retirar o seu consentimento da Política de Privacidade do Música nas Configurações a qualquer momento.
 Leia e aceite o nosso &lt;a href=\"%2$s\"&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt; antes de usar o Música.
 Se você não aceitar em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
@@ -2402,6 +2423,7 @@ Seja feliz"</string>
     <string name="toast_will_play_song_when_ad_pause">Esta música será reproduzida após o anúncio</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
+    <string name="tools_settings">Configurações de ferramentas</string>
     <string name="tool_change_hint">success in switch, tools activated in the next game</string>
     <string name="tool_chat_bubble">Text bubble</string>
     <string name="tool_chess">Pawn</string>

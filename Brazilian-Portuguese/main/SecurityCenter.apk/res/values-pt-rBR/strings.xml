@@ -357,7 +357,7 @@
     <string name="app_behavior_media_volume_bg">%1s ajustou o volume de mídia em 2º plano</string>
     <string name="app_behavior_media_volume_bg_single">Este app ajustou o volume de mídia em 2º plano</string>
     <string name="app_behavior_media_volume_single">Este app ajustou o volume de mídia</string>
-    <string name="app_behavior_menu_about">Sobre o registros</string>
+    <string name="app_behavior_menu_about">Sobre os registros</string>
     <string name="app_behavior_monitor_off">Desativando notificações</string>
     <string name="app_behavior_monitor_off_content">Você não poderá receber notificações sobre ações sensíveis executadas por este app. Desativar as notificações mesmo assim?</string>
     <string name="app_behavior_monitor_off_positive">Desativar</string>
@@ -1381,8 +1381,8 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cta_dialog_negative">Sair</string>
     <string name="cta_dialog_positive">Aceitar</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
-    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança do sistema, serviços do sistema, e Joyose e Limpeza) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança do sistema se conectarão à internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
-    <string name="cta_main_purpose_new">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança do sistema, segurança, serviços do sistema e Joyose e Limpeza) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança do sistema se conectarão à internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
+    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança do sistema, serviços do sistema, Joyose e Limpeza) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança do sistema se conectarão à internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
+    <string name="cta_main_purpose_new">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança do sistema, segurança, serviços do sistema, Joyose e Limpeza) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança do sistema se conectarão à internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
     <string name="cta_settings">Permita o acesso à internet e à localização</string>
     <string name="current_network_state_not_need_diagnose">A conexão com a internet está normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar a lista de bloqueio e fazer chamadas para contatos de emergência quando avisos de terremoto forem emitidos</string>
@@ -2200,15 +2200,15 @@ monitoramento de terremotos"</string>
     <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
     <string name="gamebooster_push_expiring_soon_button">Renovar</string>
     <string name="gamebooster_push_expiring_soon_title">"Game Turbo"</string>
-    <string name="gamebox_ai_accelerate">Impulsionador IA de dados móveis</string>
+    <string name="gamebox_ai_accelerate">Aumento IA de dados móveis</string>
     <string name="gamebox_ai_accelerate_description">Analise o ambiente de rede para aumentar a velocidade de conexão da rede móvel e economizar dados móveis</string>
     <string name="gamebox_ai_subtitle">Legendas IA</string>
     <string name="gamebox_app_not_find">Instale o app primeiro.</string>
     <string name="gamebox_brightness">Brilho</string>
     <string name="gamebox_browser_not_find">Instale o Navegador Mi primeiro</string>
     <string name="gamebox_bullet_chat">Comentários na tela</string>
-    <string name="gamebox_cellular_network">Otimize a rede celular</string>
-    <string name="gamebox_cellular_network_description">Seleciona automaticamente a melhor rede com base na latência do jogo</string>
+    <string name="gamebox_cellular_network">Otimizar rede celular</string>
+    <string name="gamebox_cellular_network_description">Selecione automaticamente o melhor caminho de rede com base na latência do jogo</string>
     <string name="gamebox_collimator">Mira</string>
     <string name="gamebox_display_1">Nenhum</string>
     <string name="gamebox_display_2">Saturado</string>
@@ -2243,6 +2243,7 @@ monitoramento de terremotos"</string>
     <string name="gamebox_mem_clean">Limpar memória</string>
     <string name="gamebox_mem_filter">Filtros de jogo</string>
     <string name="gamebox_milink">Transmitir</string>
+    <string name="gamebox_net_optimize_description">Reduza a latência e a instabilidade do Wi-Fi. Use um roteador Xiaomi ou Redmi para desfrutar de modos especiais de aumento de velocidade.</string>
     <string name="gamebox_positive_button_text">"OK (%1$d s)"</string>
     <string name="gamebox_qq_not_find">Instale o QQ e tente novamente.</string>
     <string name="gamebox_recent_task_expand_fail">Apps que funcionam com atalhos não estão instalados</string>
@@ -6085,7 +6086,7 @@ Experimente interpolar a resolução!"</string>
     <string name="verify_sms_title">%1$s está tentando enviar uma mensagem…</string>
     <string name="video_repeat">Reproduzir novamente</string>
     <string name="videobox_double_core_visual">Visuais dual-core</string>
-    <string name="videobox_double_core_visual_description1">Melhora a resolução de vídeo, a taxa de quadros e otimiza o HDR por meio de um chip dedicado</string>
+    <string name="videobox_double_core_visual_description1">Melhora a resolução de vídeo, a taxa de quadros e otimiza o HDR por meio de um chip dedicado.</string>
     <string name="videobox_double_core_visual_description2">Melhora a clareza e suavidade do vídeo. Ativar esse recurso aumentará ligeiramente o consumo de bateria.</string>
     <string name="videobox_hangup_tips_content">A sua tela será bloqueada, mas o app continuará executando em segundo plano quando este recurso estiver ativado. Pressione o botão Liga/Desliga para ligar a tela novamente. Ativar este recurso agora?</string>
     <string name="videobox_hangup_tips_title">Atenção!</string>

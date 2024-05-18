@@ -140,13 +140,11 @@ Tente novamente."</string>
     <string name="cannot_forward_drm_obj">O objeto DRM incluído na mensagem não pode ser encaminhado.</string>
     <string name="cannot_get_details">Não é possível obter detalhes.</string>
     <string name="cannot_resend_audio">Não foi possível enviar a gravação</string>
-    <string name="cannot_send_location">Conceda permissões de localização primeiro</string>
     <string name="cannot_send_message">Não é possível enviar a mensagem</string>
     <string name="cannot_send_message_reason">A sua mensagem não tem destinatários válidos.</string>
-    <string name="cannot_send_mms">"As comunicações via satélite não suportam MMS"</string>
-    <string name="carry_current_location">Incluir localização atual</string>
     <string name="card_insert_to_contact">Importar contato</string>
     <string name="change_duration_activity">Alterar duração</string>
+    <string name="chatbot_info_title">Informação básica</string>
     <string name="charge_link">Verificar transação</string>
     <string name="chatbot_info_title">Informação básica</string>
     <string name="chatbot_list_title">Mensagens 5G</string>
@@ -324,9 +322,7 @@ Tente novamente."</string>
     <string name="edit_phrase">Editar respostas rápidas</string>
     <string name="edit_slide_activity">Editar slide</string>
     <string name="edit_slideshow_activity">Editar apresentação de slides</string>
-    <string name="emergency_label">Contato de emergência</string>
     <string name="enable_classify_tip_dialog_content">Isso reiniciará o app Mensagens. Continuar mesmo assim?</string>
-    <string name="enable_location_service">Permissões necessárias</string>
     <string name="enabled">Ativado</string>
     <string name="english_subject_limit">40 caracteres</string>
     <string name="enter_edit_mode">Editar mensagens</string>
@@ -454,7 +450,6 @@ Tente novamente."</string>
     <string name="guild_msim_switcher">Toque para trocar de cartões SIM</string>
     <string name="has_invalid_recipient">Destinatários inválidos: &lt;%1$s&gt;</string>
     <string name="hidden_sender_address">Endereço do remetente oculto</string>
-    <string name="hold_hand_with_sending">Envio de SMS. Fique parado.</string>
     <string name="hold_to_talk">Segure para falar</string>
     <string name="home_tab_ad">Promocional</string>
     <string name="home_tab_common">"Regular"</string>
@@ -482,8 +477,6 @@ Tente novamente."</string>
     <string name="invalid_recipient_message">Corrija os destinatários ou eles não receberão a mensagem.</string>
     <string name="invisible_mode_on">Você está anônimo</string>
     <string name="is_composing">Escrevendo…</string>
-    <string name="item_over_quantity">Selecione até %d mensagens contendo informações de localização</string>
-    <string name="item_shortage">Selecione pelo menos %d mensagens contendo informações de localização</string>
     <string name="json_card_img_retry">Tente novamente</string>
     <string name="json_card_img_retry_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="kilobyte">"KB"</string>
@@ -511,7 +504,6 @@ Tente novamente."</string>
     <string name="menu_edit">Editar</string>
     <string name="menu_forward">Encaminhar</string>
     <string name="menu_lock">Adicionar aos favoritos</string>
-    <string name="menu_locus_map">Mapa de rotas</string>
     <string name="menu_make_call">Chamar</string>
     <string name="menu_mark">Reportar</string>
     <string name="menu_more">Mais</string>
@@ -725,7 +717,6 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="mx_reactivate">Reativar Mi Mensagens</string>
     <string name="mx_recommend_msg">Toque para ativar o Mi Mensagens</string>
     <string name="mx_stranger_recommend_msg">Toque para bloquear Mi Mensagens de números desconhecidos</string>
-    <string name="my_location">Minha localização:</string>
     <string name="mx_type_guide">Envie mensagens a outros dispositivos com HyperOS sem a cobrança de taxas</string>
     <string name="need_download">Sincronizando…</string>
     <string name="net_sms_subscribed">Inscrito com sucesso</string>
@@ -753,7 +744,6 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="noon">"PM"</string>
     <string name="nosend_message">Não enviar</string>
     <string name="not_prepare_for_send">Nenhuma mensagem para enviar</string>
-    <string name="not_send_location">Agora não</string>
     <string name="not_set">Não definido</string>
     <string name="not_support_audio_forward">Não é possível encaminhar mensagens de voz</string>
     <string name="notification_ad_content">Você recebeu uma mensagem promocional de %s</string>
@@ -779,7 +769,6 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="number_recognition_partner">Provedores de serviço de reconhecimento de ID de Remetente</string>
     <string name="open_audio_record_panel">Abrir painel de gravação de áudio</string>
     <string name="open_edit_sms_panel">Abrir painel de edição de mensagens</string>
-    <string name="open_now">Configurações</string>
     <string name="open_url_with_web">Permitir a abertura do link desta mensagem?</string>
     <string name="otp">Código</string>
     <string name="otp_copy">Copiar</string>
@@ -987,7 +976,34 @@ Leia e concorde com a nova versão da Política de Privacidade antes de continua
     <string name="rcs_auto_resume_only_by_wifi">Retomar uploads apenas quando conectado ao Wi-Fi</string>
     <string name="rcs_cfs_dialog_content">As mensagens não puderam ser entregues usando o RCS. Enviar uma mensagem de texto em vez disso?</string>
     <string name="rcs_cfs_dialog_title">Transferência de mensagens alternativa</string>
-    <string name="rcs_chat_bot_instruction">Sobre o proprietário</string>
+    <string name="rcs_bw_allow">Permitir</string>
+    <string name="rcs_bw_app_not_found">App não encontrado</string>
+    <string name="rcs_bw_cancel">Cancelar</string>
+    <string name="rcs_bw_close">Fechar</string>
+    <string name="rcs_bw_download_desc">Aguarde enquanto baixa</string>
+    <string name="rcs_bw_download_title">Navegador de mensagens 5G</string>
+    <string name="rcs_bw_link_copied">Link copiado</string>
+    <string name="rcs_bw_menu_copy">Copiar link</string>
+    <string name="rcs_bw_menu_jump">Abrir no navegador</string>
+    <string name="rcs_bw_menu_refresh">Atualizar</string>
+    <string name="rcs_bw_menu_search">Pesquisar na página</string>
+    <string name="rcs_bw_menu_share">Enviar para contatos</string>
+    <string name="rcs_bw_network_error_desc" formatted="false">Mensagem de erro (%d,%s)</string>
+    <string name="rcs_bw_network_error_title">Não é possível abrir a página</string>
+    <string name="rcs_bw_open_file_failed">Falha ao acessar aos arquivos</string>
+    <string name="rcs_bw_permission_tip_audio">Solicite acesso ao seu microfone</string>
+    <string name="rcs_bw_permission_tip_location">Solicite acesso à sua localização</string>
+    <string name="rcs_bw_permission_tip_media_id">Solicite acesso às informações do seu dispositivo</string>
+    <string name="rcs_bw_permission_tip_midi">Solicite acesso ao seu dispositivo MIDI</string>
+    <string name="rcs_bw_permission_tip_video">Solicite para usar sua webcam</string>
+    <string name="rcs_bw_preview_image">Verificar foto</string>
+    <string name="rcs_bw_refuse">Recusar</string>
+    <string name="rcs_bw_retry">Toque na tela para recarregar</string>
+    <string name="rcs_bw_save_image">Salvar imagem</string>
+    <string name="rcs_bw_share_image">Compartilhar fotos</string>
+    <string name="rcs_bw_share_title_http_tip">Página da web fornecida por %s</string>
+    <string name="rcs_bw_start_app_failed">Falha ao abrir o app</string>
+    <string name="rcs_chat_bot_instruction">Descrição</string>
     <string name="rcs_chat_bot_subject">Proprietário: %1$s</string>
     <string name="rcs_chatbot_a2p_message">Você recebeu uma mensagem A2P. Toque para ver os detalhes.</string>
     <string name="rcs_chatbot_audio_message">Você recebeu uma mensagem de áudio. Toque para ver os detalhes.</string>
@@ -1045,6 +1061,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_chatdetail_more_provider">Fornecedor</string>
     <string name="rcs_chatdetail_more_tcpage">Acordo de serviço</string>
     <string name="rcs_chatdetail_more_type">Categoria</string>
+    <string name="rcs_chatdetail_more_provider">Fornecedor</string>
+    <string name="rcs_chatdetail_more_tcpage">Acordo de serviço</string>
     <string name="rcs_chatdetail_name_unknow">Fornecedor desconhecido</string>
     <string name="rcs_chatdetail_save_chatbot">Adicionar aos meus apps</string>
     <string name="rcs_chatdetail_save_fail">Não foi possível adicionar. Tente novamente.</string>
@@ -1055,7 +1073,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_conversation_rcs_tip">"Mini app: %s"</string>
     <string name="rcs_create_new_group">Criar chat em grupo</string>
     <string name="rcs_dspt">Envie e receba mensagens usando Wi-Fi ou rede móvel</string>
-    <string name="rcs_dspt_unavailable">Os recursos relacionados a mensagens 5G não são suportados devido a restrições da operadora.</string>
+    <string name="rcs_dspt_unavailable">Os recursos relacionados a Mensagens 5G não são suportados devido a restrições da operadora.</string>
     <string name="rcs_file_link_as_sms">Acesse %s para ver o arquivo RCS enviado para você.</string>
     <string name="rcs_forward_faild">Não foi possível encaminhar</string>
     <string name="rcs_forward_successful">Encaminhado com sucesso</string>
@@ -1115,7 +1133,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_summary_auto_resend_mms">Converter mensagens multimídia 5G para MMS se a mensagem original não puder ser enviada. Sua operadora cobrará por esta mensagem.</string>
     <string name="rcs_summary_auto_resend_sms">Converter mensagens de texto 5G para SMS se a mensagem original não puder ser enviada. Sua operadora cobrará por esta mensagem.</string>
     <string name="rcs_summary_silence_message">Silenciar notificações de mensagens quando o cliente de desktop estiver em execução</string>
-    <string name="rcs_unavailable">Os recursos relacionados a mensagens 5G não são suportados devido a restrições da operadora.</string>
+    <string name="rcs_unavailable">Os recursos relacionados a Mensagens 5G não são suportados devido a restrições da operadora.</string>
     <string name="rcs_up_not_online">O Mensagens 5G está offline. Verifique suas configurações de rede e tente novamente.</string>
     <string name="rcs_wait_for_retry_text">Aguardando…</string>
     <string name="received_at_time">Recebido às: %1s</string>
@@ -1205,11 +1223,6 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rms_video_body">[Vídeo]</string>
     <string name="rsc_chatbot_back">Voltar</string>
     <string name="rsc_chatbot_detail">Info. do fornecedor</string>
-    <string name="satellite_location_failed">"Não foi possível enviar a localização. SMS enviado sem localização."</string>
-    <string name="satellite_location_privacy"><Data>O Satélite Tiantong precisa acessar sua localização para poder enviar SMS. Leia e concorde com a nossa &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> antes de continuar.</Data></string>
-    <string name="satellite_location_privacy_title">Acesso a localização</string>
-    <string name="satellite_message_notification_contact_end">(Enviando via satélite)</string>
-    <string name="satellite_sms_notification">Esta mensagem foi enviada pelos serviços do Satélite Tiantong. O remetente pode precisar da sua ajuda.</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

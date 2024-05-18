@@ -90,6 +90,8 @@ dd/MM"</string>
     <string name="aqi_format_desc">Índice de qualidade do ar: %s</string>
     <string name="atmosphere_pressure_unit">"hPa"</string>
     <string name="background_icon">Fundo</string>
+    <string name="battery_level">%d%%</string>
+    <string name="battery_level_rtl">%%%d</string>
     <string name="below_image">Abaixo</string>
     <string name="bold_font">Negrito</string>
     <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
@@ -542,7 +544,6 @@ mm"</string>
     <string name="settings_view_btn_check_off">Desativado</string>
     <string name="settings_view_btn_check_on">Ativado</string>
     <string name="share">Compartilhar</string>
-    <string name="share_to_community">Compartilhar na Comunidade Mi</string>
     <string name="show_battery">Mostrar status da bateria</string>
     <string name="show_battery_status">Mostrar status da bateria</string>
     <string name="show_lunar">Mostrar Calendário Tradicional Chinês</string>
@@ -555,9 +556,9 @@ mm"</string>
     <string name="signature_default_content">"Sempre acredite que algo
  incrível está prestes a acontecer"</string>
     <string name="smart_style">Inteligente</string>
-    <string name="smart_style_summary">"Não exibir quando o dispositivo estiver no bolso, quando a luz ambiente estiver fraca por muito tempo ou quando você não estiver olhando para a tela"</string>
-    <string name="smart_style_summary_inner">"Não exibir quando o dispositivo estiver no bolso, a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para a Tela interna"</string>
-    <string name="smart_style_summary_outer">"Não exibir quando o dispositivo estiver no bolso, a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para a Tela externa"</string>
+    <string name="smart_style_summary">"Não exibir quando o dispositivo estiver no bolso, quando a luz ambiente estiver fraca por muito tempo ou quando você não estiver olhando para a tela."</string>
+    <string name="smart_style_summary_inner">"Não exibir quando o dispositivo estiver no bolso, quando a luz ambiente estiver fraca por muito tempo ou quando você não estiver olhando para a Tela interna."</string>
+    <string name="smart_style_summary_outer">"Não exibir quando o dispositivo estiver no bolso, quando a luz ambiente estiver fraca por muito tempo ou quando você não estiver olhando para a Tela externa."</string>
     <string name="somatosensory_temperature_format">Sensação de %s°</string>
     <string name="standard_clock_panel">Padrão</string>
     <string name="standard_style">Padrão</string>

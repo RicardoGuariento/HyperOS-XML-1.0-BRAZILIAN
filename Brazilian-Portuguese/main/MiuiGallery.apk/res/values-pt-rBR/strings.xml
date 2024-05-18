@@ -186,8 +186,8 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_image_creating_failed_msg">"Não foi possível criar a imagem para %s"</string>
     <string name="ai_image_creating_msg">Criando imagem para %s</string>
     <string name="ai_image_creation_over_limit_title">"Não é possível criar mais retratos"</string>
-    <string name="ai_image_invalid">"Imagem de IA de %s excluída com sucesso"</string>
-    <string name="ai_image_invalid_in_update">"Atualizando %s imagem de IA agora. Espere até que seja atualizado e tente novamente."</string>
+    <string name="ai_image_invalid">"Imagem IA de %s excluída com sucesso"</string>
+    <string name="ai_image_invalid_in_update">"Atualizando a imagem IA de %s agora. Espere até que seja atualizado e tente novamente."</string>
     <string name="ai_image_manager_empty_msg">"Não é possível visualizar fotos usadas para criar imagens de IA em versões mais antigas deste serviço em outro dispositivo"</string>
     <string name="ai_image_manager_empty_msg_net">Não há fotos aqui</string>
     <string name="ai_image_manager_re_create_tip">Adicione ou exclua fotos para atualizar sua imagem IA</string>
@@ -196,7 +196,7 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_image_over_limit_button_cancel">Entendi</string>
     <string name="ai_image_over_limit_button_create">Continuar</string>
     <string name="ai_image_over_limit_title">"Não é possível criar imagem IA"</string>
-    <string name="ai_image_over_limit_title_update">"Não é possível atualizar imagens de IA agora"</string>
+    <string name="ai_image_over_limit_title_update">"Não é possível atualizar imagens IA agora"</string>
     <string name="ai_image_privacy_message"><Data>"Bem-vindo aos Retratos IA!&lt;br/>Para poder fornecer serviços a você, precisamos coletar as informações pessoais necessárias:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Para criar retratos IA, você terá que fazer upload &lt;b>fotos de pessoas&lt;/b> aos nossos servidores. Coletaremos e processaremos as informações sobre suas &lt;b>faces&lt;/b> para gerar um modelo de IA.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Quando você carrega &lt;b>fotos de pessoas&lt;/b>, vamos sincronizar &lt;b>seus nomes e fotos de perfil&lt;/b> dos álbuns correspondentes e associar essas informações às imagens IA.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Quando você cria imagens IA com base em texto, coletaremos a &lt;b>descrição&lt;/b> que você fornece para gerar imagens.&lt;br/>Coletamos apenas informações pessoais necessárias para os recursos específicos dos produtos e serviços que você utiliza. Você pode saber como coletamos e processamos informações pessoais na &lt;a href=\"%4$s\">Política de Privacidade de Retratos IA&lt;/a>.&lt;br/>Leia e concorde com o &lt;a href=\"%5$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%6$s\">Política de Privacidade&lt;/a> do Retratos IA, antes de continuar."</Data></string>
     <string name="ai_input_name_hint">Insira o nome</string>
     <string name="ai_loading">Aguarde…</string>
@@ -1689,7 +1689,7 @@ para personalizar a Galeria"</string>
     <string name="mark_operation_processing">Processando…</string>
     <string name="mark_operation_succeeded">Adicionado com sucesso</string>
     <string name="mark_people_ignore_info_message">Pressione e segure em fotos de pessoas para adicioná-las em grupos</string>
-    <string name="mather_day">"Dia dos Pais"</string>
+    <string name="mather_day">Dia dos Pais</string>
     <string name="media_type_burst_photo">Estouro</string>
     <string name="media_type_cinematic">Modo filme</string>
     <string name="media_type_clone_photo">"Clones"</string>
@@ -3340,7 +3340,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="text_item_type_talkback_spot_zhangjiajie">Zhangjiajie</string>
     <string name="text_recognition">Reconhecer texto</string>
     <string name="text_segment">Recorte de foto</string>
-    <string name="thanksgiving_day">Ação de graças</string>
+    <string name="thanksgiving_day">Ação de Graças</string>
     <string name="text_tab_bubble">Bolha</string>
     <string name="text_tab_city">Cidade</string>
     <string name="text_tab_festival">Feriado</string>

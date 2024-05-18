@@ -97,6 +97,15 @@
     <string name="add_wallpaper">Adicionar planos de fundo</string>
     <string name="addcw_apply_btn_txt">Adicionar plano de fundo</string>
     <string name="afternoon">"PM"</string>
+    <string name="ai_back">Voltar</string>
+    <string name="ai_begin">Iniciar</string>
+    <string name="ai_disable_limit_message">Não restam mais tentativas por hoje. Crie mais planos de fundos IA amanhã!</string>
+    <string name="ai_edit_hint">Descreva o resultado esperado. Uma boa descrição pode ajudar nossa IA a fazer uma criação melhor com palavras claras como \"Ouro\", \"Dragão\", \"Crescente\", \"Nuvem\".</string>
+    <string name="ai_network_error_message">"Nenhuma conexão de rede. Não é possível usar o plano de fundo IA."</string>
+    <string name="ai_next">Salvar na Galeria</string>
+    <string name="ai_participation">Envolvimento da IA</string>
+    <string name="ai_recommend_keyword">Estilos</string>
+    <string name="ai_text_limit">"Não é possível inserir mais texto"</string>
     <string name="ai_wallpaper_declare_double_link"><Data>Leia e concorde com nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="allowed">Permitido</string>
     <string name="am">"AM"</string>
@@ -174,6 +183,13 @@
     <string name="create_shortcut">Criar atalho na Tela inicial</string>
     <string name="create_shortcut_btn">Criar</string>
     <string name="create_shortcut_title">Crie um atalho na Tela inicial</string>
+    <string name="creation_ai_disable_limit_message">Não restam mais tentativas por hoje. Crie mais planos de fundos IA amanhã!</string>
+    <string name="creation_ai_disable_message">Este recurso está disponível apenas para testadores Beta. Você pode se inscrever na Xiaomi Community.</string>
+    <string name="creation_ai_disable_title">Permissões de testador beta necessárias</string>
+    <string name="creation_ai_err">Exceção do autenticador</string>
+    <string name="creation_ai_load">Aguarde…</string>
+    <string name="creation_ai_ok">Entendi</string>
+    <string name="creation_ai_recreate">Recomeçar</string>
     <string name="current_connection_invalid">Aguarde até que o dispositivo se conecte à rede</string>
     <string name="current_data_invalid">Ocorreu um erro</string>
     <string name="current_network_invalid">Conecte-se à rede primeiro</string>
@@ -500,6 +516,9 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Sincronização com a nuvem está desativada</string>
+    <string name="miuix_appcompat_cloud_state_finished">Sincronizado com a nuvem com sucesso</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
@@ -520,6 +539,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_search_action_mode_cancel">Cancelar</string>
+    <string name="miuix_search_history_clear">Limpar histórico de pesquisa</string>
+    <string name="miuix_search_history_default_title">Histórico de pesquisa</string>
+    <string name="miuix_search_recommendation_default_title">Você pode estar interessado nestes</string>
+    <string name="miuix_search_recommendation_item_del_des">Excluir</string>
     <string name="mode_auto_desc">Ative o Carrossel de planos de fundo para receber novas imagens automaticamente</string>
     <string name="mode_auto_desc_open">Receba novas imagens automaticamente</string>
     <string name="mode_auto_desc_selected">Recebendo novas imagens automaticamente</string>
@@ -902,6 +926,8 @@ mm"</string>
     <string name="privacy_update_summary3">"Você não poderá continuar usando o Carrossel de planos de fundo, a menos que concorde com a nova versão da sua &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a>. Concorda com a Política de Privacidade atualizada agora?"</string>
     <string name="privacy_update_title1">Política de privacidade atualizada</string>
     <string name="privacy_update_title2">Atenção!</string>
+    <string name="prompt_add_origin_pic">Adicione uma foto</string>
+    <string name="prompt_add_tip">Adicione uma descrição</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="protocal_dialog_cancel">Cancelar</string>
     <string name="protocal_dialog_confirm">Aceitar</string>
@@ -983,6 +1009,8 @@ mm"</string>
     <string name="select_picture">Selecionar imagens</string>
     <string name="select_picture_des">Adicione suas fotos e imagens online ao mix para que elas apareçam na apresentação de slides automaticamente</string>
     <string name="send">Enviar</string>
+    <string name="sensitive_preview">"Não é possível processar o plano de fundo IA para conteúdo confidencial ou impróprio"</string>
+    <string name="sensitive_prompt">"Não é possível processar o plano de fundo IA para conteúdo confidencial ou impróprio"</string>
     <string name="send_diagnosis_log">Enviar logs</string>
     <string name="send_email_activate_message">E-mail de verificação enviado com sucesso</string>
     <string name="sending">Enviando…</string>
@@ -1024,6 +1052,9 @@ mm"</string>
     <string name="sns_access_token_expired_warning">Sessão expirada. Faça o login novamente para reconectar esta conta.</string>
     <string name="sns_bind_limit">Muitas tentativas efetuadas. Tente outras formas de login.</string>
     <string name="sns_sign_in">Outras formas de login</string>
+    <string name="sst_ai_wallpaper_Activity_title">Criar planos de fundos IA</string>
+    <string name="sst_ai_wallpaper_desc">Imagens desenhadas à mão podem ser usadas para produzir planos de fundos de alta definição em vários estilos usando IA</string>
+    <string name="sst_ai_wallpaper_title">Criador de plano de fundo IA</string>
     <string name="sst_auto_recommand_desc">Inscreva-se em suas categorias favoritas para receber novas imagens e histórias entregues em sua Tela de bloqueio diariamente</string>
     <string name="sst_auto_recommand_title">Planos de fundo recomendados</string>
     <string name="sst_change_wallpaper_desc">Selecionar onde quer aplicar o plano de fundo</string>
@@ -1239,6 +1270,8 @@ mm"</string>
     <string name="v_code_title">Insira o código de verificação</string>
     <string name="view_privacy_policy">Política de Privacidade</string>
     <string name="wallpaper">Planos de fundo</string>
+    <string name="wallpaper_added_success_toast">Plano de fundo adicionado com sucesso</string>
+    <string name="wallpaper_creator_empty_dlg_content">Passos simples, formação instantânea. Importe uma imagem/outra imagem desenhada à mão, insira vários prompts e gere instantaneamente quatro imagens de plano de fundo estilizadas por meio de modelos grandes de IA. Escolha o mais satisfatório e salve no álbum.</string>
     <string name="wallpaper_feed_title">Pode também gostar de</string>
     <string name="wallpaper_relations_title">Recomendado</string>
     <string name="wednesday">Quarta</string>
