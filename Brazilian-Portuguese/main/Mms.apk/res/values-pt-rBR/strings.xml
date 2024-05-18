@@ -146,7 +146,6 @@ Tente novamente."</string>
     <string name="change_duration_activity">Alterar duração</string>
     <string name="chatbot_info_title">Informação básica</string>
     <string name="charge_link">Verificar transação</string>
-    <string name="chatbot_info_title">Informação básica</string>
     <string name="chatbot_list_title">Mensagens 5G</string>
     <string name="chatbot_main_title">"Mini apps"</string>
     <string name="check_all">Selecionar todos</string>
@@ -1061,8 +1060,6 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_chatdetail_more_provider">Fornecedor</string>
     <string name="rcs_chatdetail_more_tcpage">Acordo de serviço</string>
     <string name="rcs_chatdetail_more_type">Categoria</string>
-    <string name="rcs_chatdetail_more_provider">Fornecedor</string>
-    <string name="rcs_chatdetail_more_tcpage">Acordo de serviço</string>
     <string name="rcs_chatdetail_name_unknow">Fornecedor desconhecido</string>
     <string name="rcs_chatdetail_save_chatbot">Adicionar aos meus apps</string>
     <string name="rcs_chatdetail_save_fail">Não foi possível adicionar. Tente novamente.</string>
@@ -1273,17 +1270,14 @@ Dê uma olhada nos recomendados!"</string>
     <string name="send">Enviar</string>
     <string name="send_after_compress">Comprimir</string>
     <string name="send_fail">"Não foi possível enviar"</string>
-    <string name="send_orignal_picture">"Original"</string>
-    <string name="send_orignal_video">"Original"</string>
-    <string name="send_rms_editor_hints">Mensagens 5G</string>
-    <string name="send_rms_editor_hints_omit">Mensagem Mi</string>
-    <string name="send_sms">Enviar mensagem</string>
     <string name="send_message_dlg_check_hint">Não mostrar novamente</string>
     <string name="send_message_dlg_mgs">Alerta CMCC: Precisamos registrar seu dispositivo em nossa plataforma de gerenciamento para fornecer serviços gratuitos de suporte. A plataforma CMSS gerencia dispositivos móveis e permite que você altere configurações e atualize o software remotamente. Uma mensagem de texto gratuita com informações de seu dispositivo será enviada para o registro. A mensagem será enviada apenas uma vez e não conterá dados pessoais. Esta mensagem não pode ser enviada por usuários em Hong Kong, Macau, Taiwan ou outros países. Selecione \"OK\" para aceitar e registrar seu dispositivo. Selecione \"Cancelar\" se você não concorda com os termos. Neste caso, os serviços não serão fornecidos a você.</string>
     <string name="send_message_dlg_title">Gerenciamento do dispositivo</string>
     <string name="send_message_notification_msg">Toque para ver detalhes da solicitação.</string>
     <string name="send_message_notification_tickerText">O dispositivo está solicitando uma permissão</string>
     <string name="send_message_notification_title">Solicitação de permissão</string>
+    <string name="send_orignal_picture">"Original"</string>
+    <string name="send_orignal_video">"Original"</string>
     <string name="send_rms_editor_hints">Mensagens 5G</string>
     <string name="send_rms_editor_hints_omit">Mi Mensagens</string>
     <string name="send_signature_confirm_dialog_message">Nenhum conteúdo encontrado. Enviar apenas a sua assinatura?</string>
