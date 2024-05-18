@@ -797,8 +797,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%1$s | Enviou SMS %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_allow_storage">
-        <item quantity="other">%1$s｜Acessou fotos, vídeos, áudio e arquivos %2$d vezes</item>
-        <item quantity="one">%1$s｜Acessou fotos, vídeos, áudio e arquivos %2$d vez</item>
+        <item quantity="other">%1$s | Acessou fotos, vídeos, áudio e arquivos %2$d vezes</item>
+        <item quantity="one">%1$s | Acessou fotos, vídeos, áudio e arquivos %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_allow_w_calendar">
         <item quantity="other">%1$s | Editou a agenda %2$d vezes</item>
@@ -842,7 +842,7 @@ Você pode testar gratuitamente por %d dia agora!"</item>
     </plurals>
     <plurals name="permission_usage_deny_camera">
         <item quantity="other">%1$s | Teve o acesso à câmera negado %2$d vezes</item>
-        <item quantity="one">%1$s | TTeve o acesso à câmera negado %2$d vez</item>
+        <item quantity="one">%1$s | Teve o acesso à câmera negado %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_deny_clipboard">
         <item quantity="other">%1$s | Acesso à área de transferência foi negado %2$d vezes</item>
@@ -925,8 +925,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%1$s | Teve o envio de SMS negado %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_deny_storage">
-        <item quantity="other">"%1$s｜Não foi permitido acessar fotos, vídeos, áudio e arquivos %2$d vezes"</item>
-        <item quantity="one">"%1$s｜Não foi permitido acessar fotos, vídeos, áudio e arquivos %2$d vez"</item>
+        <item quantity="other">"%1$s | Não foi permitido acessar fotos, vídeos, áudio e arquivos %2$d vezes"</item>
+        <item quantity="one">"%1$s | Não foi permitido acessar fotos, vídeos, áudio e arquivos %2$d vez"</item>
     </plurals>
     <plurals name="permission_usage_deny_w_calendar">
         <item quantity="other">%1$s | Teve a edição da agenda negada %2$d vezes</item>
@@ -949,8 +949,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%1$s | Não permitido %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_projection_screen">
-        <item quantity="other">%1$s｜Conteúdo da tela acessado ou gravado %2$d vezes</item>
-        <item quantity="one">%1$s｜Conteúdo da tela acessado ou gravado %2$d vez</item>
+        <item quantity="other">%1$s | Conteúdo da tela acessado ou gravado %2$d vezes</item>
+        <item quantity="one">%1$s | Conteúdo da tela acessado ou gravado %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_recent_day">
         <item quantity="other">%1$d dias atrás</item>
@@ -1281,7 +1281,7 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">Atualização disponível para %d app.</item>
     </plurals>
     <plurals name="summary_condition_lock_screen_format">
-        <item quantity="other">Após a tela ser bloqueada por %d minutos</item>
+        <item quantity="other">Após a tela ser bloqueada por %d mins</item>
         <item quantity="one">Após a tela ser bloqueada por %d min</item>
     </plurals>
     <plurals name="summary_flow_verify">
@@ -1289,7 +1289,7 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">As estatísticas de uso de dados com a operadora não sincronizam há %d dia</item>
     </plurals>
     <plurals name="summary_result_absorbed_time_format">
-        <item quantity="other">"%d minutos"</item>
+        <item quantity="other">"%d mins"</item>
         <item quantity="one">"%d min"</item>
     </plurals>
     <plurals name="summary_result_lock_screen_format">
