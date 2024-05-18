@@ -673,7 +673,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
 
 Se esta permissão estiver desligada, os alarmes existentes e eventos baseados em tempo agendados por este app não funcionarão."</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
-    <string name="alarms_and_reminders_switch_title">Permitir a definição de alarmes e lembretes</string>
+    <string name="alarms_and_reminders_switch_title">Permitir definir alarmes e lembretes</string>
     <string name="alarms_and_reminders_title">Alarmes e lembretes</string>
     <string name="all_apps">Todos os apps</string>
     <string name="all_network_unavailable">Nenhuma rede disponível</string>
@@ -693,7 +693,7 @@ Widget: %2$s
     <string name="allow_float_summary">Permite notificações flutuantes</string>
     <string name="allow_float_title">Notificações flutuantes</string>
     <string name="allow_interruption">Permitir interrupções</string>
-    <string name="allow_interruption_summary">Permite que o app emita um som, vibre e/ou mostre notificações na tela</string>
+    <string name="allow_interruption_summary">Permite que o app emita um som, vibre e/ou mostre notificações na tela.</string>
     <string name="allow_keyguard_summary">Permite notificações na Tela de bloqueio</string>
     <string name="allow_keyguard_title">Notificações na Tela de bloqueio</string>
     <string name="allow_lights_title">LED de notificações</string>
@@ -3868,7 +3868,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_mobile_data_when_opening_hotspot">Ativar também a conexão de dados móveis?</string>
     <string name="enable_non_resizable_multi_window">Ativar compatibilidade para multi janela</string>
     <string name="enable_non_resizable_multi_window_summary">Permite que apps não compatíveis sejam executados em multi janela</string>
-    <string name="enable_notes_role_summary">Ative integrações de sistemas de anotações por meio da função Notes. Se a função Notes já estiver habilitada, não faz nada.</string>
+    <string name="enable_notes_role_summary">Ative integrações de sistemas de anotações por meio da função Notes. Se a função Notes já estiver ativada, não faz nada.</string>
     <string name="enable_notes_role_title">Forçar a ativação da função do Notes</string>
     <string name="enable_opengl_traces_title">Ativar rastreamento OpenGL</string>
     <string name="enable_preferred_network_type_summary">Visualize e defina seu tipo de rede em Configurações &gt; Cartões SIM e redes móveis &gt; Cartão SIM</string>
@@ -7743,7 +7743,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="permit_manage_external_storage">Permitir acesso para gerenciar todos os arquivos</string>
     <string name="permit_running_network">Dados em segundo plano</string>
     <string name="permit_usage_access">Permitir acesso ao uso</string>
-    <string name="permit_write_settings">Permitir modificação de config. do sistema</string>
+    <string name="permit_write_settings">Permitir modificar as configurações do sistema</string>
     <string name="person_hotpot">Pontos de acesso móveis</string>
     <string name="personal_data_section_title">Dados pessoais</string>
     <string name="personal_profile_app_subtext">Pessoais</string>
@@ -12453,7 +12453,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="wps_connect_summary">Certifique-se de que o seu roteador suporta WPS e que o mesmo encontra-se ativo</string>
     <string name="wps_connect_title">Conecte-se com o WPS</string>
     <string name="write_settings">Mudar configurações do sistema</string>
-    <string name="write_settings_description">Esta permissão permite que um app modifique configurações do sistema.</string>
+    <string name="write_settings_description">Esta permissão permite que um app modifique as configurações do sistema.</string>
     <string name="write_settings_off">Não</string>
     <string name="write_settings_on">Sim</string>
     <string name="write_settings_summary">%1$d de %2$d apps autorizados a modificar configurações do sistema</string>
