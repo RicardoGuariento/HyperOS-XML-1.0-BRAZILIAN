@@ -153,4 +153,12 @@
         <item quantity="other">%d destinatários</item>
         <item quantity="one">%d destinatário</item>
     </plurals>
+    <plurals name="vital_signs_data_bpm">
+        <item quantity="other">Frequência cardíaca: %1$d BPM (%2$s)</item>
+        <item quantity="one">Frequência cardíaca: %1$d BPM (%2$s)</item>
+    </plurals>
+    <plurals name="vital_signs_data_spo2">
+        <item quantity="other">SpO₂: %1$d%% (%2$s)</item>
+        <item quantity="one">SpO₂: %1$d%% (%2$s)</item>
+    </plurals>
 </resources>
