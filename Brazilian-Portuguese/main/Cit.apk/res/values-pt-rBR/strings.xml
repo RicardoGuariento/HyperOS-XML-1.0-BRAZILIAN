@@ -300,6 +300,8 @@ Nenhum dispositivo Bluetooth encontrado."</string>
     <string name="cit_charge_usb_hvdcp">Carregando: USB_HVDCP</string>
     <string name="cit_charge_usb_pd">Carregando: USB_PD</string>
     <string name="cit_charger_check_title">Teste de carregador</string>
+    <string name="cit_charger_hall_test_summary">Por favor, aproxime o ímã da posição traseira correspondente à área retangular verde, permaneça por 1 segundo e depois afaste-se.</string>
+    <string name="cit_charger_hall_test_title">Salão do carregador</string>
     <string name="cit_charger_in">Carregador conectado</string>
     <string name="cit_charger_in_check_title">Teste de inserção do carregador</string>
     <string name="cit_charger_plugin_check_summary">Quando o carregador USB estiver conectado, o texto \"Carregando via USB/CA\" deverá aparecer abaixo</string>
@@ -440,6 +442,10 @@ Toque na tela para iniciar o GPS…"</string>
     <string name="cit_headset_pull_detect_title">Detecção de fones de ouvido (desconectado)</string>
     <string name="cit_headset_pull_finish">Os fones de ouvido foram desconectados</string>
     <string name="cit_headset_pull_finish_test">Fones de ouvido desconectados, teste concluído.</string>
+    <string name="cit_high_accdata_sensor_check_summary">Os valores para as coordenadas X, Y, Z devem aparecer abaixo. Por favor, coloque o dispositivo na mesa antes de realizar o teste.</string>
+    <string name="cit_high_accdata_sensor_check_title">Acelerômetro alto</string>
+    <string name="cit_high_accdata_sensor_graph_title">Gráfico de acelerômetro alto</string>
+    <string name="cit_high_accelermeter_sensor_cali_title">Teste de calibração do sensor de aceleração de alta faixa</string>
     <string name="cit_headset_pull_hint">Desconecte os fones de ouvido</string>
     <string name="cit_headset_right_hph_val">"Valor de impedância do canal direito: "</string>
     <string name="cit_hvdcp_charger_in">Carregando via (USB_HVDCP)</string>
@@ -506,6 +512,8 @@ Não desligue a tela durante o teste."</string>
     <string name="cit_nfc_sim_check_summary">Confirme se o status correto e as informações do cartão SIM NFC são exibidas abaixo, apenas dois cartões SIM NFC existem simultaneamente e têm o status correto para passar</string>
     <string name="cit_no_sim_check_summary">Confirme se o dispositivo não tem um cartão SIM!</string>
     <string name="cit_no_sim_check_title">Nenhum cartão SIM</string>
+    <string name="cit_nt_chip_check_title">Verificação de chip NT</string>
+    <string name="cit_nt_rt_rx_title">Verificação NT RT/RX</string>
     <string name="cit_not_available">Este teste não está disponível nesta versão HyperOS</string>
     <string name="cit_notificationlight">LED de notificação</string>
     <string name="cit_notificationlight_off">LED de notificação desligado</string>
@@ -528,6 +536,8 @@ Não desligue a tela durante o teste."</string>
     <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância com a mão e então afaste sua mão do sensor de distância. 
  Sensor de distância ultra-sônico: Simule a ação de atender o dispositivo
  Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
+    <string name="cit_proximity_second_sensor_cali_title">Teste de calibração do segundo sensor de proximidade</string>
+    <string name="cit_proximity_second_sensor_check_summary">"Ao calibrar, certifique-se de que não há nada entre o sensor e sua mão (ex.: capa protetora de tela ou luvas)."</string>
     <string name="cit_proximity_sensor_cali_title">Teste de calibração do sensor de proximidade</string>
     <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado na parte superior do dispositivo, próximo ao receptor) com a mão e, em seguida, afaste-a. O valor deve aumentar de 0,0 quando você move sua mão para longe do dispositivo.
 Ao calibrar, certifique-se de que não haja nada entre o sensor e sua mão (ex.: película protetora de tela ou luvas)."</string>
@@ -816,6 +826,12 @@ toque no botão para mudar o modo de toque para o Modo THP ou Modo FW"</string>
     <string name="cit_touch_work_mode_test_title">Teste de Modo THP de comutação por toque</string>
     <string name="cit_touch_work_summary">O toque alterna o Modo THP</string>
     <string name="cit_touch_work_switch_tips">Não toque na tela e espere até que a mudança de modo seja concluída</string>
+    <string name="cit_tt_cali_bin_check_title">Detecção de conteúdo de arquivo de calibração de chip</string>
+    <string name="cit_tt_chip_detection_title">Detecção de chip Tian-tong no local</string>
+    <string name="cit_tt_close_satelite_tip">Por favor, mantenha a função de telefone via satélite desligada</string>
+    <string name="cit_tt_description">Funções relacionadas ao chip estão sendo detectadas, não opere o dispositivo.</string>
+    <string name="cit_tt_rx_check_title">Detecção do caminho de recepção do chip RX</string>
+    <string name="cit_tt_tx_check_title">Detecção de caminho de transmissão do chip TX</string>
     <string name="cit_ultra_camera_check_title">Câmera Ultra</string>
     <string name="cit_usb_OTG_error_condition">"O dispositivo USB foi conectado, mas não é possível obter as informações do dispositivo.
 Falha no teste!"</string>

@@ -44,7 +44,10 @@ O ID do dispositivo precisa ser um IMEI ou endereço MAC válido. Sem o ID do di
     <string name="pop_up_allow_notify_dialog">Permitir</string>
     <string name="pop_up_deny_notify_dialog">Recusar</string>
     <string name="search_menu_title">Pesquisar</string>
+    <string name="size_unit_gigabyte">%1$s GB</string>
+    <string name="size_unit_kilobyte">%1$s KB</string>
+    <string name="size_unit_megabyte">%1$s MB</string>
     <string name="sync_notification_title_format">Sincronizando item: %1$s</string>
     <string name="xiaomi_cloud_service">"MiCloud"</string>
-    <string name="xmsf_activate_info">Informações de ativação da XMSF</string>
+    <string name="xmsf_activate_info">Informações de ativação do XMSF</string>
 </resources>

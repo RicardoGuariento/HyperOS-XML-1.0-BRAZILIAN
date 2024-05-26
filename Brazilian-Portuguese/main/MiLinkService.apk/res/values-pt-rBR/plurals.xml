@@ -43,6 +43,14 @@
         <item quantity="other">Digite o código de %1$s (%2$d segundos)</item>
         <item quantity="one">Digite o código de %1$s (%2$d segundo)</item>
     </plurals>
+    <plurals name="habit_executed_number_day">
+        <item quantity="other">Usado há %1$d dias</item>
+        <item quantity="one">Usado há %1$d dia</item>
+    </plurals>
+    <plurals name="habit_remembered_number_day">
+        <item quantity="other">Lembrado há %1$d dias</item>
+        <item quantity="one">Lembrado há %1$d dia</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
@@ -77,5 +85,13 @@
     <plurals name="remember_number_habit">
         <item quantity="other">%1$d padrões lembrados</item>
         <item quantity="one">%1$d padrão lembrado</item>
+    </plurals>
+    <plurals name="remembered_number_habit">
+        <item quantity="other">%1$d padrões adicionados</item>
+        <item quantity="one">%1$d padrão adicionado</item>
+    </plurals>
+    <plurals name="un_remember_number_habit">
+        <item quantity="other">%1$d padrões pendentes</item>
+        <item quantity="one">%1$d padrão pendente</item>
     </plurals>
 </resources>

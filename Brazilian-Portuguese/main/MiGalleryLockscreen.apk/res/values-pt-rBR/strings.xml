@@ -926,6 +926,7 @@ mm"</string>
     <string name="privacy_update_summary3">"Você não poderá continuar usando o Carrossel de planos de fundo, a menos que concorde com a nova versão da sua &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a>. Concorda com a Política de Privacidade atualizada agora?"</string>
     <string name="privacy_update_title1">Política de privacidade atualizada</string>
     <string name="privacy_update_title2">Atenção!</string>
+    <string name="prompt_Theme_tip">Não foi possível obter o estilo do tema. Por favor, verifique se a rede e a hora estão corretas.</string>
     <string name="prompt_add_origin_pic">Adicione uma foto</string>
     <string name="prompt_add_tip">Adicione uma descrição</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
@@ -1150,9 +1151,15 @@ mm"</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sure_close_gallery">Desativar o Carrossel de planos de fundo?</string>
     <string name="sure_close_gallery_des">Você não receberá imagens novas na sua Tela inicial e Tela de bloqueio. Desativar mesmo assim?</string>
+    <string name="surprise_wallpaper_can_not_open_tip">Por favor, abra a rotação pictórica primeiro.</string
     <string name="surprise_wallpaper_empty_dlg_content">Os Planos de fundos surpresa criarão planos de fundo personalizados com base em outros planos de fundos autosselecionados (se habilitados) ou com base em uma estratégia aleatória, e a frequência de rotação pictórica será limitada a 1 dia. Quando a criação falhar, o plano de fundo será atualizado para você usando a imagem original.</string>
     <string name="surprise_wallpaper_empty_dlg_title">Plano de fundo surpresa</string>
     <string name="surprise_wallpaper_generate_failed_toast">Falha na geração do Plano de fundo surpresa</string>
+    <string name="surprise_wallpaper_goto_prompts_error">Houve uma exceção de rede. Por favor, tente novamente mais tarde.</string>
+    <string name="surprise_wallpaper_prompts_null">Selecionar a imagem original não adicionará um favorito</string>
+    <string name="surprise_wallpaper_prompts_send_failed">Falha ao salvar, tente novamente.</string>
+    <string name="surprise_wallpaper_prompts_send_succeed">Salvo com sucesso!</string>
+    <string name="surprise_wallpaper_prompts_sending">Enviando suas preferências…</string>
     <string name="system_default">Padrão</string>
     <string name="system_error_info">O sistema está ocupado. Espere um momento e tente novamente.</string>
     <string name="tab_user_title_bar_text">Configurações</string>

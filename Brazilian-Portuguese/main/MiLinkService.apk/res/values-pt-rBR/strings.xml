@@ -87,11 +87,10 @@ Faça login na sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="camera_associate_success">Câmera conectada</string>
     <string name="camera_choose_device">Selecionar dispositivo</string>
     <string name="camera_connecting">%s deseja usar a câmera deste dispositivo</string>
-    <string name="camera_connecting_device">Conectando-se a %s</string>
     <string name="camera_disassociate">Desconectado da câmera</string>
-    <string name="camera_disconnecting_device">Desconectando de %s</string>
     <string name="camera_notify_string">Notificação de câmera</string>
     <string name="camera_title">Procurando dispositivos disponíveis…</string>
+    <string name="cancel">Cancelar</string>
     <string name="cancel_button">Cancelar</string>
     <string name="car_air_con_back_switch_close">Desligue o AC do banco traseiro</string>
     <string name="car_air_con_back_switch_open">Ligue o AC do banco traseiro</string>
@@ -277,6 +276,7 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_headset_error_headset_not_support">"Não é possível conectar seus fones de ouvido a este computador"</string>
     <string name="circulate_headset_error_headset_not_worn">Coloque os dois fones de ouvido e tente novamente</string>
     <string name="circulate_headset_error_headset_not_worn_both">Coloque os dois fones de ouvido e tente novamente</string>
+    <string name="circulate_headset_error_headset_not_worn_single">Use seus fones de ouvido para usar este recurso</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Ative o Bluetooth na sua TV
 e faça login em sua Conta Mi"</string>
     <string name="circulate_headset_error_self_upgrade">"Não foi possível concluir esta ação. Atualize o app primeiro."</string>
@@ -709,6 +709,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
 %1$d. Se encontrar algum problema, você pode relatá-lo usando nosso app \"Serviços e feedback\"."</string>
     <string name="help_page_text_end">Se o modelo do seu dispositivo não estiver listado aqui, entre em contato com o fabricante para saber mais sobre a funcionalidade de transmissão.</string>
     <string name="hm_always">Lembrar</string>
+    <string name="hm_always_execute">Sempre</string>
     <string name="hm_conflict_title">Padrão pausado: %1$s</string>
     <string name="hm_conflict_toast">Você tem um cenário de casa inteligente ou automação conflitante. Edite-o primeiro no app.</string>
     <string name="hm_go_to_help">Ver ajuda</string>
@@ -719,12 +720,18 @@ aprendendo como você os usa"</string>
     <string name="hm_habit_info_empty_describe">"Continue usando seus dispositivos
 para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="hm_habit_info_list_empty">Padrões de aprendizagem…</string>
+    <string name="hm_has_ignored">Padrão ignorado com sucesso</string>
+    <string name="hm_has_remembered">Padrão lembrado com sucesso</string>
     <string name="hm_help">Ajuda</string>
     <string name="hm_knew">Entendi</string>
+    <string name="hm_new_habit">Novos padrões</string>
+    <string name="hm_new_habit_empty_title">Não há padrões aqui</string>
+    <string name="hm_not_notify">"Não mostrar novamente"</string>
     <string name="hm_pause_habit">Pausar</string>
     <string name="hm_please_login_mi_account">Faça login na sua Conta Mi para começar</string>
     <string name="hm_remember">Lembrar</string>
     <string name="hm_resume_habit">Retomar</string>
+    <string name="hm_setstate_error">"Não foi possível concluir esta ação"</string>
     <string name="hm_setup">Configurações</string>
     <string name="hm_time_has_paused">Pausado</string>
     <string name="hm_time_just_remembered">Aprendi agora há pouco</string>
@@ -732,7 +739,11 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="hm_time_not_executed">Ainda não usado</string>
     <string name="hm_time_recent_week">Essa semana</string>
     <string name="hm_time_today">Hoje</string>
+    <string name="hm_time_today_executed">Usado em %s hoje</string>
+    <string name="hm_time_today_remembered">Lembrado em %s hoje</string>
     <string name="hm_time_yesterday">Ontem</string>
+    <string name="hm_time_yesterday_executed">Usado em %s ontem</string>
+    <string name="hm_time_yesterday_remembered">Lembrado em %s ontem</string>
     <string name="hm_toast_log_in">Faça login na sua Conta Mi primeiro</string>
     <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
     <string name="hyper_mind">HyperMind</string>
@@ -741,7 +752,10 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="hyper_mind_close_warning_content">Se você desativar esse recurso, o HyperMind não poderá mais aprender ou usar seus padrões. Se quiser retirar o seu consentimento para a recolha dos seus dados, toque &lt;a href=%1$s>aqui&lt;/a>.</string>
     <string name="hyper_mind_close_warning_ok">Entendi</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
+    <string name="i_see">Entendi</string>
     <string name="icon_content_description">Ícone de diálogo</string>
+    <string name="image_transfer_failed">"Não foi possível transferir a imagem"</string>
+    <string name="install">Instalar</string>
     <string name="invisible_mode_dialog_content">"Não é possível usar a transmissão quando você está no Modo anônimo. Desative o Modo anônimo primeiro."</string>
     <string name="invisible_mode_dialog_content_audio_relay">"Não é possível transferir a reprodução quando você está no no Modo anônimo. Desative o Modo anônimo primeiro."</string>
     <string name="invisible_mode_dialog_pos">Desativar</string>
@@ -767,6 +781,9 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione o horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
+    <string name="message_connection_interrupted">Certifique-se de que seu computador e tablet estejam dentro do alcance de conexão e que o Bluetooth e o Wi-Fi estejam ativados. Para continuar, reinicie a tarefa em seu computador.</string>
+    <string name="message_install">Instale o Mi Canvas para poder esboçar em vários dispositivos.</string>
+    <string name="message_update">Atualize o Mi Canvas para poder esboçar em vários dispositivos.</string>
     <string name="midnight">"AM"</string>
     <string name="mipaly_server_exit_touping">Saia do screencast atual primeiro</string>
     <string name="miplay_accessibility_cast">Selecione o dispositivo</string>
@@ -1213,6 +1230,9 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="title_activity_permission">Atividade de permissão</string>
+    <string name="title_connection_interrupted">Conexão interrompida</string>
+    <string name="title_install">Instalar Mi Canvas</string>
+    <string name="title_update">Atualizar Mi Canvas</string>
     <string name="toast_guide_show_more">Saiba mais</string>
     <string name="toast_guide_title">Explore nossos novos recursos aqui</string>
     <string name="toast_invisible_mode">"Você está anônimo. Não é possível usar transmissão agora."</string>
@@ -1238,6 +1258,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="tuesday_shortest">Ter</string>
     <string name="universal_clipboard_notification_persistent">Serviço UniversalClipboard</string>
     <string name="unlock_screen_to_authorize_camera">%s deseja usar a câmera deste dispositivo</string>
+    <string name="update">Atualizar</string>
     <string name="upgrade_app_name_version">%1$s | %2$s</string>
     <string name="upgrade_cancel">Cancelar</string>
     <string name="upgrade_cancel_all">Cancelar atualizações</string>

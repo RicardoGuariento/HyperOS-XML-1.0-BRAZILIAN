@@ -993,7 +993,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="battery_low_percent_format_save_mode_closed">Há menos de %s de bateria restante. Não se esqueça de carregar seu dispositivo.</string>
     <string name="battery_low_percent_format_save_mode_closed_new_version">Bateria está fraca. Carregue seu dispositivo agora.</string>
     <string name="battery_low_percent_format_save_mode_open">Há menos de %1$s de bateria restante. Ative a Economia de bateria para adicionar %2$s de tempo extra.</string>
-    <string name="battery_low_percent_format_save_mode_open_new_version">Ative a Economia de bateria para adicionar mais: %s, de duração.</string>
+    <string name="battery_low_percent_format_save_mode_open_new_version">Ative a Economia de bateria para adicionar mais %s, de duração.</string>
     <string name="battery_low_title">A bateria está acabando</string>
     <string name="battery_low_title_power_save">Economia de bateria</string>
     <string name="battery_statistics_activity_title">Estatísticas de uso da bateria</string>
@@ -1338,6 +1338,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="continue_set">Continuar</string>
     <string name="convenient_mode">Desbloquear todos os apps de uma só vez</string>
     <string name="convenient_summary">Insira a senha apenas uma vez para desbloquear todos os apps</string>
+    <string name="conversation_phone_title">Caixa de ferramentas de chamada</string>
     <string name="conversation_settings_top">" • Deslize a barra de ferramentas da Conferência durante as chamadas de áudio e vídeo em tela cheia para acessar seus recursos.
 • O tipo e o número de recursos dependem do modelo do dispositivo."</string>
     <string name="conversation_sider_tips">Use as novas ferramentas de conferência para obter a melhor experiência de chamada</string>
@@ -1368,6 +1369,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_pickup_vioce_print_unsupport_toast">Desconecte os dispositivos externos e tente novamente</string>
     <string name="cs_pickup_voice_print_desc">Capte o som apenas de uma pessoa</string>
     <string name="cs_screen_translation_title">Tradução de tela</string>
+    <string name="cs_simultaneous_interpretation_title">Interpretar</string>
     <string name="cs_title_pickup">Redução de ruído</string>
     <string name="cs_title_smart_subtitle">Transcrição da legenda</string>
     <string name="cs_title_ultraclear">Modo Ultra HD</string>
@@ -1692,7 +1694,7 @@ cartão médico"</string>
     <string name="ew_alert_help_place_title">Abrigo próximo</string>
     <string name="ew_alert_help_safe_title">Evitar perigo</string>
     <string name="ew_alert_help_tips">Mantenha a calma e fique alerta. Fique longe de objetos pendurados, não pegue o elevador. Encontre um espaço seguro e amplo, abrigue-se e aguarde.</string>
-    <string name="ew_alert_no_contact">Defina um contato de emergência em Segurança > Aviso de terremoto primeiro</string>
+    <string name="ew_alert_no_contact">Defina seu contato de emergência em Configurações > Privacidade e segurança > SOS de emergência</string>
     <string name="ew_alert_no_emergency">Adicione os seus dados médicos em Segurança > Aviso de terremoto</string>
     <string name="ew_alert_text_from">Dados fornecidos por %s</string>
     <string name="ew_app_name">Aviso de terremoto</string>
@@ -1803,10 +1805,14 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
     <string name="ew_main_setting_show_desc">Demonstração</string>
     <string name="ew_main_setting_warning_desc">Saiba mais</string>
     <string name="ew_main_settings">Configurações</string>
+    <string name="ew_main_subscribe_city">Inscreva-se em cidades</string>
     <string name="ew_main_warning_all_title">Ver avisos emitidos anteriormente</string>
     <string name="ew_main_warning_list">Ver alertas</string>
     <string name="ew_main_warning_list_tips">Ver</string>
     <string name="ew_main_warning_list_title">Ver histórico de avisos</string>
+    <string name="ew_merge_contact_button">Entendi</string>
+    <string name="ew_merge_contact_message">Seus contatos de emergência do SOS de emergência e do Aviso de terremoto foram mesclados.</string>
+    <string name="ew_merge_contact_title">Mesclar contatos de emergência</string>
     <string name="ew_monitor_bad_request_tips">"A Segurança não pode acessar as informações do dispositivo"</string>
     <string name="ew_monitor_content">Seu dispositivo móvel pode se tornar parte da rede de alerta precoce de terremoto. Após seus sensores detectarem ondas sísmicas, os dados serão analisados pelo algoritmo de IA e avisos antecipados serão emitidos para as pessoas nas áreas afetadas.</string>
     <string name="ew_monitor_exit">Cancelar inscrição</string>
@@ -2290,6 +2296,8 @@ monitoramento de terremotos"</string>
     <string name="gb_advance_settings_reset_dialog_content">Restaurar configurações originais agora?</string>
     <string name="gb_advance_settings_reset_dialog_title">Configurações originais</string>
     <string name="gb_advance_settings_screen_display">Tela</string>
+    <string name="gb_advance_settings_screen_display_style_summary">Aumente o contraste e otimize os recursos visuais para mostrar mais detalhes</string>
+    <string name="gb_advance_settings_screen_display_summary">Melhore o contraste e otimize os visuais para mostrar mais detalhes</string>
     <string name="gb_advance_settings_screen_hdr">Visuais aprimorados</string>
     <string name="gb_advance_settings_screen_hdr_gear1">"Original"</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Moderado</string>
@@ -2298,6 +2306,10 @@ monitoramento de terremotos"</string>
     <string name="gb_advance_settings_screen_hdr_gear5">"HDR"</string>
     <string name="gb_advance_settings_screen_hdr_gear5_short">"HDR"</string>
     <string name="gb_advance_settings_screen_hdr_summary">"Aumenta o contraste e aprimora os detalhes em jogos"</string>
+    <string name="gb_advance_settings_screen_show_enhancement">Melhorar visual</string>
+    <string name="gb_advance_settings_screen_show_enhancement_summary">Exiba movimentos com maior suavidade e fluidez</string>
+    <string name="gb_advance_settings_screen_super_picture_quality">Super qualidade de imagem</string>
+    <string name="gb_advance_settings_screen_super_picture_quality_summary">Aumente a resolução e a taxa de quadros para obter visuais mais suaves</string>
     <string name="gb_advance_settings_touch">Controles de toque</string>
     <string name="gb_advance_settings_vibration_4d">Vibração 4D</string>
     <string name="gb_advance_settings_vibration_4d_summary">Vibrar durante tiros em jogos</string>
@@ -2539,6 +2551,7 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_vision_enhance_desc">Melhore a qualidade e o desempenho da imagem</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Taxa de quadros inteligente
 %dFPS"</string>
+    <string name="gb_vision_enhance_smart_frame_enhance">Melhorar a taxa de quadros</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Taxa de quadros inteligente</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Ajuste a taxa de quadros automaticamente para tornar o movimento mais suave</string>
     <string name="gb_vision_enhance_super_resolution">Super resolução</string>
@@ -4686,7 +4699,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_thumbnail_blur_category_photography">Foto e vídeo</string>
     <string name="privacy_thumbnail_blur_category_tip">Recomendado</string>
     <string name="privacy_thumbnail_blur_search_empty">Não foi possível encontrar resultados</string>
-    <string name="privacy_thumbnail_blur_title">Desfocar prévias</string>
+    <string name="privacy_thumbnail_blur_title">Desfocar prévias de apps</string>
     <string name="privacy_thumbnail_blur_top_tip">Selecione os apps que terão suas prévias desfocadas nos Recentes</string>
     <string name="privacy_thumbnail_shield_title">Máscara de visualização</string>
     <string name="privacy_thumbnail_shield_top_tip">Mascarar visualizações para apps exibidos em Recentes</string>
@@ -6087,7 +6100,9 @@ Experimente interpolar a resolução!"</string>
     <string name="video_repeat">Reproduzir novamente</string>
     <string name="videobox_double_core_visual">Visuais dual-core</string>
     <string name="videobox_double_core_visual_description1">Melhora a resolução de vídeo, a taxa de quadros e otimiza o HDR por meio de um chip dedicado.</string>
-    <string name="videobox_double_core_visual_description2">Melhora a clareza e suavidade do vídeo. Ativar esse recurso aumentará ligeiramente o consumo de bateria.</string>
+    <string name="videobox_double_core_visual_description2">"Aprimore a clareza, a suavidade e o efeito geral da exibição.
+Este recurso requer maior consumo de energia.
+Este recurso não funcionará quando a Economia de bateria ou a Ultra economia de bateria estiver ativada."</string>
     <string name="videobox_hangup_tips_content">A sua tela será bloqueada, mas o app continuará executando em segundo plano quando este recurso estiver ativado. Pressione o botão Liga/Desliga para ligar a tela novamente. Ativar este recurso agora?</string>
     <string name="videobox_hangup_tips_title">Atenção!</string>
     <string name="videobox_settings_line_location">Local do atalho</string>
@@ -6497,8 +6512,9 @@ Experimente interpolar a resolução!"</string>
     <string name="pc_battery_history_usetime_title">Ativo</string>
     <string name="pc_battery_health_revise_title">Calibrar informações de integridade da bateria</string>
     <string name="pc_battery_low_health_reminder">"É hora de substituir sua bateria"</string>
+    <string name="pc_battery_replacement_service_title">Experimente nosso serviço de substituição de bateria. Hardware original de %1$s com garantia de %2$s.</string>
     <string name="pc_charged_auto_close_summary">Desligue quando a bateria estiver %1$s ou totalmente carregada</string>
-    <string name="pc_charged_auto_close_title">Desligue quando carregado</string>
+    <string name="pc_charged_auto_close_title">Desligar quando carregado</string>
     <string name="pc_current_power_mode">Modo atual</string>
     <string name="pc_have_no_battery_issue">Sem problemas</string>
     <string name="pc_hide_more_power_rank_apps">Esconder</string>
@@ -6510,14 +6526,14 @@ Experimente interpolar a resolução!"</string>
     <string name="pc_night_sleep_mode_title">Modo noturno</string>
     <string name="pc_power_consume_check">Verificação da bateria</string>
     <string name="pc_power_consume_check_ing">Verificando…</string>
-    <string name="pc_power_save_settings_new">Configurações de economia de bateria</string>
+    <string name="pc_power_save_settings_new">Configurações da Economia de bateria</string>
     <string name="pc_save_charge">Carregando</string>
     <string name="pc_save_other_setting">Outros ajustes</string>
-    <string name="pc_save_power">Economizador de bateria</string>
+    <string name="pc_save_power">Economia de bateria</string>
     <string name="pc_screen_on_time">Tempo de tela</string>
     <string name="pc_suggest_open_fast_charge">Ative o carregamento rápido de %dW</string>
     <string name="pc_toady_charge_time_title">Carregamentos hoje</string>
-    <string name="pc_work_in_save_mode">Economizador de bateria</string>
+    <string name="pc_work_in_save_mode">Economia de bateria</string>
     <string name="pc_work_in_super_save_mode">Ultra economia de bateria</string>
     <string name="percent_formatted_text">%s%%</string>
     <string name="percent_symbol">%</string>
@@ -6635,7 +6651,7 @@ Experimente interpolar a resolução!"</string>
     <string name="power_port_damp_dialog_btn">Entendi</string>
     <string name="power_port_damp_notify_msg">Para garantir a segurança e evitar danos à bateria, seque a porta antes de carregar.</string>
     <string name="power_port_damp_notify_title">A porta de carregamento está molhada</string>
-    <string name="power_save_model_open">A economia de bateria está ativada</string>
+    <string name="power_save_model_open">A Economia de bateria está ativada</string>
     <string name="power_wireless_update_checking">Verificando atualizações…</string>
     <string name="power_wireless_update_driver_note">"Você pode verificar atualizações de firmware e instalar novas versões automaticamente assim que forem lançadas. Não desligue seu dispositivo enquanto ele verifica atualizações ou as instala."</string>
     <string name="power_wireless_update_error">"Não foi possível atualizar. Tente novamente."</string>
