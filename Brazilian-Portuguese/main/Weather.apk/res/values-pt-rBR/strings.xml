@@ -30,7 +30,7 @@
     <string name="about_weather_setting">Sobre o Clima</string>
     <string name="about_weather_setting_feedback">"Feedback"</string>
     <string name="abrupt_weather_alert_channel_name">Alertas de clima</string>
-    <string name="abrupt_weather_settings_summary_type">Receber alertas sobre chuvas esperadas, mudanças na qualidade do ar e outras mudanças significativas</string>
+    <string name="abrupt_weather_settings_summary_type">Receba alertas sobre chuvas esperadas, mudanças na qualidade do ar e outras mudanças significativas</string>
     <string name="abrupt_weather_settings_summary_type_a">Interruptor de aviso de clima incomum</string>
     <string name="abrupt_weather_settings_summary_type_b">Interruptor de aviso de clima incomum</string>
     <string name="abrupt_weather_settings_title">Aviso de clima incomum</string>
@@ -192,7 +192,7 @@ Puxe para baixo para atualizar ou verificar as configurações de rede"</string>
     <string name="dialog_internet_error_title">Ocorreu um erro</string>
     <string name="dialog_msg_score_midrop">Como você se sente em relação ao app Clima?</string>
     <string name="dialog_msg_score_not_good">Você poderia nos fornecer seu feedback também?</string>
-    <string name="dialog_msg_score_perfect">Legal! Também avaliar o Clima na Play Store?</string>
+    <string name="dialog_msg_score_perfect">Legal! Avaliar o Clima na Play Store?</string>
     <string name="dialog_privacy_policy_update_msg">"A Política de Privacidade do Clima foi atualizada:
 %1$s
 Leia e concorde com a nova versão de %2$s antes de continuar."</string>
@@ -217,10 +217,10 @@ Leia e concorde com a nova versão de %2$s antes de continuar."</string>
     <string name="evening">"PM"</string>
     <string name="exo_controls_fastforward_description">Avanço rápido</string>
     <string name="exo_controls_fullscreen_description">Modo de tela cheia</string>
-    <string name="exo_controls_next_description">Próxima faixa</string>
+    <string name="exo_controls_next_description">Próxima música</string>
     <string name="exo_controls_pause_description">Pausar</string>
     <string name="exo_controls_play_description">Reproduzir</string>
-    <string name="exo_controls_previous_description">Faixa anterior</string>
+    <string name="exo_controls_previous_description">Música anterior</string>
     <string name="exo_controls_repeat_all_description">Repetir todas</string>
     <string name="exo_controls_repeat_off_description">Repetir nenhuma</string>
     <string name="exo_controls_repeat_one_description">Repetir uma</string>
@@ -243,9 +243,9 @@ Leia e concorde com a nova versão de %2$s antes de continuar."</string>
     <string name="exo_track_selection_title_text">Texto</string>
     <string name="exo_track_selection_title_video">Vídeo</string>
     <string name="exo_track_stereo">Estéreo</string>
-    <string name="exo_track_surround">Sistema surround</string>
-    <string name="exo_track_surround_5_point_1">Sistema surround 5.1</string>
-    <string name="exo_track_surround_7_point_1">Sistema surround 7.1</string>
+    <string name="exo_track_surround">Som surround</string>
+    <string name="exo_track_surround_5_point_1">Som surround 5.1</string>
+    <string name="exo_track_surround_7_point_1">Som surround 7.1</string>
     <string name="exo_track_unknown">Desconhecido</string>
     <string name="expand_button_title">Avançado</string>
     <string name="feedback">Reportar informações incorretas de clima</string>
@@ -334,7 +334,7 @@ Leia e concorde com a nova versão de %2$s antes de continuar."</string>
     <string name="index_item_install_dialog">%1$s instalado com sucesso. Abrir agora?</string>
     <string name="index_item_install_now">Instalar agora</string>
     <string name="index_item_installing">Instalando</string>
-    <string name="index_item_installing2">Instalando</string>
+    <string name="indices_desc_humidity">Umidade %1$s%%</string>
     <string name="indices_title_chance_of_rain">Probabilidade de chuva</string>
     <string name="indices_title_feel">Sensação térmica</string>
     <string name="indices_title_feel_new">Sensação térmica</string>
@@ -595,6 +595,30 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="size_mega_byte">"MB"</string>
     <string name="size_peta_byte">"PB"</string>
     <string name="size_tera_byte">"TB"</string>
+    <string name="solar_term_autumn_begins">O outono começa</string>
+    <string name="solar_term_autumn_equinox">Equinócio de outono</string>
+    <string name="solar_term_clear_and_bright">Claro e brilhante</string>
+    <string name="solar_term_cold_dews">Orvalho frio</string>
+    <string name="solar_term_grain_buds">As criaturas se abastecem</string>
+    <string name="solar_term_grain_in_ear">Semeando milho</string>
+    <string name="solar_term_grain_rain">Chuva de trigo</string>
+    <string name="solar_term_great_cold">Frio severo</string>
+    <string name="solar_term_great_heat">Grande calor</string>
+    <string name="solar_term_heavy_snow">Neve pesada</string>
+    <string name="solar_term_hoar_frost_falls">Geada</string>
+    <string name="solar_term_insects_awaken">Insetos despertam</string>
+    <string name="solar_term_light_snow">Pouca neve</string>
+    <string name="solar_term_slight_cold">Frio moderado</string>
+    <string name="solar_term_slight_heat">Calor moderado</string>
+    <string name="solar_term_spring_begins">A primavera começa</string>
+    <string name="solar_term_stopping_the_heat">O calor se retira</string>
+    <string name="solar_term_summer_begins">O verão começa</string>
+    <string name="solar_term_summer_solstice">Solstício de verão</string>
+    <string name="solar_term_the_rains">Chuvas de primavera</string>
+    <string name="solar_term_vernal_equinox">Equinócio vernal</string>
+    <string name="solar_term_white_dews">Orvalho</string>
+    <string name="solar_term_winter_begins">O inverno começa</string>
+    <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="some_where_on_earth">Em algum lugar na Terra</string>
     <string name="suggestion_for_blizzard">Mantenha-se aquecido e viaje com segurança</string>
     <string name="suggestion_for_cloudy">Um céu nublado é perfeito para tirar selfies</string>

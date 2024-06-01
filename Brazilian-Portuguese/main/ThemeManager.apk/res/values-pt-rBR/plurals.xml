@@ -69,6 +69,10 @@
         <item quantity="other">Atualizando %1$d temas</item>
         <item quantity="one">Atualizando %1$d tema</item>
     </plurals>
+        <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Pressão atmosférica: %s hectopascais</item>
+        <item quantity="one">Pressão atmosférica: %s hectopascal</item>
+    </plurals>
     <plurals name="de_author_fans_amount">
         <item quantity="other">%1$d fãs</item>
         <item quantity="one">%1$d fã</item>
@@ -171,6 +175,10 @@
     <plurals name="resource_download_notification_title_many">
         <item quantity="other">%1$d itens foram baixados com sucesso</item>
         <item quantity="one">%1$d item foi baixado com sucesso</item>
+    </plurals>
+        <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi Créditos/definido</item>
+        <item quantity="one">%1$s Mi Créditos/definido</item>
     </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f pontos</item>
