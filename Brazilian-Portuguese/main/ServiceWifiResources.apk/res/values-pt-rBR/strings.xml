@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Aceitar</string>
+    <string name="apm_enabled_first_time_message">"Seu dispositivo se lembra de manter o Wi-Fi ativado no Modo avião. Desative o Wi-Fi se não quiser que ele permaneça ligado."</string>
+    <string name="apm_enabled_first_time_title">Wi-Fi permanece ativado</string>
     <string name="decline">Rejeitar</string>
     <string name="dlg_ok">"OK"</string>
+    <string name="notification_channel_apm_alerts">Alertas de APM</string>
     <string name="notification_channel_network_alerts">Alertas de rede</string>
     <string name="notification_channel_network_available">Rede disponível</string>
     <string name="notification_channel_network_status">Status da rede</string>

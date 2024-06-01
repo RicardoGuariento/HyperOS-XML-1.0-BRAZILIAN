@@ -187,9 +187,9 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_pairing_pin_error_message">Não foi possível parear com %1$s por causa de um PIN ou senha incorretos.</string>
     <string name="bluetooth_pairing_rejected_error_message">Pareamento rejeitado por %1$s.</string>
     <string name="bluetooth_pairing_will_share_phonebook">O pareamento dá acesso a seus contatos e ao histórico de chamadas quando estiver conectado.</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhamento de conexão local de Internet c/ disposit.</string>
-    <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à Internet</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Conectado ao dispositivo para acesso à Internet</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhamento de conexão local de internet c/ disposit.</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à internet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Conectado ao dispositivo para acesso à internet</string>
     <string name="bluetooth_profile_a2dp">Áudio da mídia</string>
     <string name="bluetooth_profile_a2dp_high_quality">Áudio HD: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Áudio HD</string>
@@ -201,8 +201,8 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
     <string name="bluetooth_profile_map">Mensagens de texto</string>
     <string name="bluetooth_profile_opp">Transferência de arquivo</string>
-    <string name="bluetooth_profile_pan">Acesso à Internet</string>
-    <string name="bluetooth_profile_pan_nap">Compartilhamento de conexão à Internet</string>
+    <string name="bluetooth_profile_pan">Acesso à internet</string>
+    <string name="bluetooth_profile_pan_nap">Compartilhamento de conexão à internet</string>
     <string name="bluetooth_profile_pbap">Compartilhar contatos</string>
     <string name="bluetooth_profile_pbap_summary">Usar para compartilhar contatos</string>
     <string name="bluetooth_profile_sap">Acesso ao chip</string>
@@ -813,7 +813,7 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="wifi_cant_connect_to_ap">Não é possível conectar-se a \"%1$s\"</string>
     <string name="wifi_check_password_try_again">Verifique a senha e tente novamente</string>
     <string name="wifi_connected_low_quality">Baixa qualidade</string>
-    <string name="wifi_connected_no_internet">Sem Internet</string>
+    <string name="wifi_connected_no_internet">Sem internet</string>
     <string name="wifi_coverage_extend">Ativar recurso de extensão de cobertura do Wi-Fi</string>
     <string name="wifi_coverage_extend_summary">Ative a extensão da cobertura de Wi-Fi usando um Hotspot</string>
     <string name="wifi_disabled_by_recommendation_provider">Não conectado devido à baixa qualidade da rede</string>
@@ -832,7 +832,7 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="wifi_hotspot_switch_on_text">Ativado</string>
     <string name="wifi_limited_connection">Conexão limitada</string>
     <string name="wifi_metered_label">Limitada</string>
-    <string name="wifi_no_internet">Sem acesso à Internet</string>
+    <string name="wifi_no_internet">Sem acesso à internet</string>
     <string name="wifi_no_internet_no_reconnect">Não se conectará automaticamente</string>
     <string name="wifi_non_persistent_mac_randomization">Randomização do endereço MAC</string>
     <string name="wifi_non_persistent_mac_randomization_summary">Quando este modo está ativado, o endereço MAC deste dispositivo pode mudar sempre que ele se conectar a uma rede que tenha a randomização de MAC ativa.</string>
@@ -845,7 +845,7 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="wifi_ssid_is_empty">O campo SSID não pode ser deixado em branco</string>
     <string name="wifi_ssid_length_is_max">O SSID não pode conter mais que 32 caracteres</string>
     <string name="wifi_status_mac_randomized">O MAC é aleatório</string>
-    <string name="wifi_status_no_internet">Sem Internet</string>
+    <string name="wifi_status_no_internet">Sem internet</string>
     <string name="wifi_status_sign_in_required">Autenticação necessária</string>
     <string name="wifi_tether_connected_summary">{count, plural, =0 {0 dispositivo conectado} =1 {1 dispositivo conectado} other {# dispositivos conectados} }</string>
     <string name="wifi_unmetered_label">Ilimitada</string>
@@ -896,14 +896,14 @@ O armazenamento de credenciais podem estar desativados"</string>
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Sinal fraco. Tente se aproximar do roteador.</string>
     <string name="wifitrackerlib_wifi_metered_label">Medida</string>
     <string name="wifitrackerlib_wifi_network_not_found">"Não é possível conectar. Tente mais tarde."</string>
-    <string name="wifitrackerlib_wifi_no_internet">Nenhum acesso à Internet</string>
+    <string name="wifitrackerlib_wifi_no_internet">Nenhum acesso à internet</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Não se conectará automaticamente</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Expirada</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Condições de rede pobres temporárias</string>
     <string name="wifitrackerlib_wifi_remembered">Salvo</string>
     <string name="wifitrackerlib_wifi_security_none">Nenhum</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Não limitada</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WiFi não se conecta automaticamente por agora</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi não se conecta automaticamente por agora</string>
     <string name="window_animation_scale_title">Escala de animação da janela</string>
     <string name="window_blurs">Permitir desfoques no nível da janela</string>
     <string name="zen_alarm_warning">Você não ouvirá o próximo alarme %1$s</string>

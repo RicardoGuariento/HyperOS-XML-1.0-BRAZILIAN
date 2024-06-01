@@ -4,6 +4,10 @@
         <item>Masculino</item>
         <item>Feminino</item>
     </string-array>
+        <string-array name="passport_account_user_gender_name">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Contas</item>
         <item>Adicionar e gerenciar contas de terceiros</item>
@@ -22,7 +26,7 @@
     <string-array name="settings_search_cloud_space_share">
         <item>Espaço de armazenamento familiar</item>
         <item>Visualizar/ativar o espaço de armazenamento familiar</item>
-        <item>Espaço de armazenamento familiar; Compartilhamento de armazenamento</item>
+        <item>Espaço de armazenamento familiar;Compartilhamento de armazenamento</item>
     </string-array>
     <string-array name="settings_search_family_service">
         <item>Serviços familiares</item>
