@@ -73,6 +73,9 @@
     <string name="bluetooth_sap_notif_ticker">Acessar o SIM via Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Acessar o SIM via Bluetooth</string>
     <string name="broadcast_notification_name">Status de transmissão</string>
+    <string name="bt_Auracast_audio_share_notification_content">Toque para ver detalhes</string>
+    <string name="bt_Auracast_audio_share_notification_title">Transmitindo áudio deste dispositivo…</string>
+    <string name="bt_audio_share_assistant_notification_title">Recebendo uma transmissão de um dispositivo próximo…</string>
     <string name="bt_audio_share_notification_content">Toque para ver as opções</string>
     <string name="bt_audio_share_notification_title">Compartilhando áudio</string>
     <string name="bt_enable_cancel">Cancelar</string>
@@ -100,6 +103,7 @@
     <string name="call_notification_screening_text">Triagem de uma chamada recebida</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
+    <string name="close_broadcast_audio">Parar</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="defaultname">Kit carro</string>
@@ -180,6 +184,7 @@
     <string name="insert_record">Inserir registro</string>
     <string name="localPhoneName">O meu nome</string>
     <string name="midnight">"AM"</string>
+    <string name="miheadset_close_broadcast_audio">Fechar transmissão</string>
     <string name="miui_transfer_history_title">Transferências Bluetooth</string>
     <string name="miui_transfer_inbound_title">Recebidas</string>
     <string name="miui_transfer_outbound_title">Enviadas</string>
@@ -257,6 +262,7 @@
     <string name="not_exist_file">Sem arquivo</string>
     <string name="not_exist_file_desc">"O arquivo não existe. 
 "</string>
+    <string name="notice_Auracast_audio_share_disconnected">Não compartilha mais áudio devido à conexão interrompida</string>
     <string name="notice_audio_share_disconnected">O áudio não está mais sendo compartilhado devido à interrupção da conexão</string>
     <string name="notification_received">Bluetooth: Recebido %1$s</string>
     <string name="notification_received_fail">Bluetooth: Arquivo %1$s não foi recebido</string>

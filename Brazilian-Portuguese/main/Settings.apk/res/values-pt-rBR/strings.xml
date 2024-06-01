@@ -961,13 +961,13 @@ Alterar as configurações agora?"</string>
     <string name="assist_footer">Os Assistentes podem ajudar com base nas informações da tela que você vê no momento. Alguns apps são compatíveis com a tela de início e com serviços de entrada de texto por voz para fornecer assistência integrada.</string>
     <string name="assist_gesture_title">Assistente de gestos</string>
     <string name="assistance_category_title">Acessibilidade</string>
-    <string name="assistant_add_fail">Não é possível ouvir por enquanto, por favor, tente novamente mais tarde.</string>
+    <string name="assistant_add_fail">"Não posso ouvir agora. Espere um ou dois minutos e tente novamente."</string>
     <string name="assistant_corner_gesture_summary">Deslize de um canto inferior para iniciar o Assistente.</string>
     <string name="assistant_corner_gesture_title">Deslize para abrir o Assistente</string>
     <string name="assistant_gesture_category_title">Assistente digital</string>
     <string name="assistant_long_press_home_gesture_summary">Pressione e segure o botão Início para iniciar o Assistente.</string>
     <string name="assistant_long_press_home_gesture_title">Segurar o botão de Início</string>
-    <string name="assistant_operate_timeout">O tempo limite da operação, tente novamente mais tarde</string>
+    <string name="assistant_operate_timeout">A solicitação expirou. Tente novamente.</string>
     <string name="assistant_security_warning">O Assistente lerá informações sobre apps em uso no seu sistema, incluindo informações visíveis na tela ou as que podem ser acessadas nos apps.</string>
     <string name="assistant_security_warning_agree">Aceitar</string>
     <string name="assistant_security_warning_disagree">Discordo</string>
@@ -1001,7 +1001,7 @@ Alterar as configurações agora?"</string>
     <string name="auracast_add_source_code_error">A senha está errada, a audição de rádio é anormal, junte-se à audição novamente</string>
     <string name="auracast_add_source_conflict_broadcasting">Esta máquina está na transmissão, desligue a transmissão de áudio antes de ouvir a transmissão próxima</string>
     <string name="auracast_add_source_conflict_listening">Por favor, termine primeiro ouça a transmissão atual</string>
-    <string name="auracast_scan_not_support">Fones de ouvido apoiados desconectados, incapazes de procurar por ouvir o rádio próximo</string>
+    <string name="auracast_scan_not_support">"Não conectado a fones de ouvido compatíveis. Não consigo encontrar transmissões próximas."</string>
     <string name="auto_adjst_effect_summary">Ajusta a temperatura de cor de acordo com a luz ambiente automaticamente</string>
     <string name="auto_adjust_effect_title">Ajustar a temperatura de cor automaticamente</string>
     <string name="auto_anc_closed">Desativado</string>
@@ -1608,11 +1608,11 @@ para ^2"</string>
     <string name="bluetooth_audio_share_request_disconnect">"Se você desconectar agora, seus dispositivos não compartilharão áudio automaticamente na próxima vez que você se conectar. Desconectar mesmo assim?"</string>
     <string name="bluetooth_audoi_share">" | Compartilhando áudio"</string>
     <string name="bluetooth_auracast_assist_add_source">Ouvir</string>
-    <string name="bluetooth_auracast_assist_leave_broadcast">Terminar</string>
+    <string name="bluetooth_auracast_assist_leave_broadcast">Parar</string>
     <string name="bluetooth_auracast_password_input_hint">Insira o código de conexão</string>
     <string name="bluetooth_auracast_source_and_assistant_text">Transmita áudio para outros dispositivos e pesquise transmissões de áudio próximas</string>
     <string name="bluetooth_auracast_source_available_connect">Transmissões próximas</string>
-    <string name="bluetooth_auracast_source_explain_summary">Quando ativado, as pessoas próximas podem receber áudio do seu dispositivo com um código de conexão</string>
+    <string name="bluetooth_auracast_source_explain_summary">Quando ativado, as pessoas próximas podem receber áudio do seu dispositivo com um código de conexão.</string>
     <string name="bluetooth_auracast_source_opend_summary">Código de conexão:</string>
     <string name="bluetooth_battery_level">Bateria %1$s</string>
     <string name="bluetooth_battery_level_untethered">E: %1$s de bateria, D: %2$s de bateria</string>
@@ -4980,6 +4980,8 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="ignore_optimizations_off_desc">Recomendado para maior duração da bateria.</string>
     <string name="ignore_optimizations_on">Não otimizar</string>
     <string name="ignore_optimizations_on_desc">Isso pode esgotar a bateria mais rapidamente. A restrição do uso de bateria em segundo plano não se aplicará mais ao app.</string>
+    <string name="illegal_device_name_modification_notification">Renomeie seu dispositivo</string>
+    <string name="illegal_hotspot_name_modification_notification">Renomeie seu ponto de acesso</string>
     <string name="ignore_optimizations_title">Permitir que %s ignore as otimizações de bateria?</string>
     <string name="ime_security_warning">%1$s poderá gravar tudo o que você digitar, inclusive senhas, números de cartões de crédito e outros dados pessoais.</string>
     <string name="ime_security_warning_global">Os métodos de entrada podem coletar todo o texto digitado, incluindo dados pessoais, como senhas e números de cartão de crédito. Usar o %1$s?</string>
@@ -6951,6 +6953,7 @@ Selecione seu sistema operacional:"</string>
     <string name="my_device_info_legal_category_title">Jurídica e regulatória</string>
     <string name="my_device_real_camera">Câmera traseira</string>
     <string name="n_cacrts">%d certificados CA</string>
+    <string name="name_modification_no_network_notification">Conecte-se à rede e tente novamente</string>
     <string name="natural_haptic">Vibrações naturais</string>
     <string name="natural_haptic_summary">O novo padrão de resposta tátil traz uma dimensão adicional a tudo que você interage na tela</string>
     <string name="natural_scroll">Rolagem natural</string>
@@ -7703,7 +7706,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="passpoint_r1_privacy_dialog_yes">Concordar</string>
     <string name="passwordIncorrect">A senha inserida está incorreta</string>
     <string name="password_and_security">Senhas e segurança</string>
-    <string name="password_check_fail">A entrada do código de verificação é erro e não pode ser ouvido</string>
+    <string name="password_check_fail">Código incorreto</string>
     <string name="password_entrance_title">Definir bloqueio de tela</string>
     <string name="password_guard">Senha</string>
     <string name="password_security_settings_title">Senhas e segurança</string>
@@ -7787,8 +7790,8 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="please_connect_to_the_network">Conecte-se ao Wi-Fi ou aos dados móveis para concluir a limpeza dos dados do eSIM.</string>
     <string name="please_connect_to_the_wifi">Conecte-se ao Wi-Fi para terminar de limpar os dados do eSIM.</string>
     <string name="please_select_phase2">Autenticação da Fase 2</string>
-    <string name="please_stop_broadcast_audio">Termine de transmitir o áudio local primeiro</string>
-    <string name="please_stop_listen_broadcast_audio">Por favor, termine de ouvir a transmissão atual</string>
+    <string name="please_stop_broadcast_audio">Pare de transmitir áudio primeiro</string>
+    <string name="please_stop_listen_broadcast_audio">Pare de ouvir a transmissão primeiro</string>
     <string name="please_type_passphrase">Senha</string>
     <string name="plmn_failure_radio_off">A seleção da rede falhou devido ao rádio estar desativado ou indisponível</string>
     <string name="pm">"PM"</string>
@@ -8560,6 +8563,7 @@ Essa configuração afeta todos os usuários do dispositivo."</string>
     <string name="save">Salvar</string>
     <string name="save_battery_mode">Economizar bateria com WQHD+</string>
     <string name="save_battery_mode_summary">Trocar resolução automaticamente para economizar bateria</string>
+    <string name="save_device_name_progress_message">Salvando…</string>
     <string name="saved_network">Salvo como %1$s</string>
     <string name="saved_wifi">Gerenciar redes salvas</string>
     <string name="saved_wifi_delete">Excluir</string>
