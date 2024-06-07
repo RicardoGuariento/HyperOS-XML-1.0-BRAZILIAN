@@ -2,25 +2,21 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
-        <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Em %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Em %d min</item>
@@ -28,10 +24,9 @@
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min atrás</item>
+        <item quantity="other">%d mins atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="comment_model_watch_reply">
@@ -42,45 +37,36 @@
         <item quantity="other">%s estrelas selecionadas</item>
         <item quantity="one">%s estrela selecionada</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">Voltando para a página inicial em %1$d segundos…</item>
-        <item quantity="one">Voltando para a página inicial em %1$d segundo…</item>
-    </plurals>
     <plurals name="follower">
         <item quantity="other">%d seguidores</item>
         <item quantity="one">%d seguidor</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
-        <item quantity="one">Em 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="incentive_popup_window_share_success">
-        <item quantity="other">Shared successfully. You earned %d points.</item>
-        <item quantity="one">Shared successfully. You earned %d point.</item>
+        <item quantity="other">Compartilhado com sucesso. Você ganhou %d pontos.</item>
+        <item quantity="one">Compartilhado com sucesso. Você ganhou %d ponto.</item>
     </plurals>
     <plurals name="incentive_popup_window_subscribe_success">
-        <item quantity="other">Subscribed successfully. You earned %d points.</item>
-        <item quantity="one">Subscribed successfully. You earned %d point.</item>
+        <item quantity="other">Inscrito com sucesso. Você ganhou %d pontos.</item>
+        <item quantity="one">Inscrito com sucesso. Você ganhou %d ponto.</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="local_diversion_video_number">
         <item quantity="other">%d vídeos</item>
