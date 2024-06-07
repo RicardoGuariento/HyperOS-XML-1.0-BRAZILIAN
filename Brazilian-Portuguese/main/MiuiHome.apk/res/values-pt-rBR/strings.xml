@@ -458,6 +458,7 @@
     <string name="gadget_weather_title_24">Clima</string>
     <string name="garbage_count">Existem %1$s instâncias antigas</string>
     <string name="global_search">Pesquisar</string>
+    <string name="global_shelf">Localizador de apps</string>
     <string name="global_search_hint">Pesquisar</string>
     <string name="got_it_botton">Entendi</string>
     <string name="group_folder">Nova pasta</string>
@@ -471,6 +472,7 @@
     <string name="hide_apps_title">Ocultar ícones dos apps</string>
     <string name="home_gesture_content_center">Centro de conteúdo</string>
     <string name="home_gesture_global_search">Pesquisar</string>
+    <string name="home_gesture_global_shelf">Localizador de apps</string>
     <string name="home_gesture_no_action">Nenhum</string>
     <string name="home_gesture_notification_and_control_center">Área de notificação e Centro de controle</string>
     <string name="home_gesture_notification_bar">Notificações</string>
@@ -496,7 +498,7 @@
     <string name="international_home_pull_down_sub_content">Você pode alternar esse gesto para abrir o Centro de controle em Configurações > Tela inicial > Deslize para baixo na Tela inicial.</string>
     <string name="international_home_pull_down_up_btn_get">Entendi</string>
     <string name="international_home_pull_up_content">Deslize para cima na Tela inicial para abrir o Centro de conteúdo.</string>
-    <string name="international_home_pull_up_sub_content">Para abrir a pesquisa, deslize para baixo a partir do centro da Tela inicial.</string>
+    <string name="international_home_pull_up_sub_content">Para encontrar apps e sugestões de apps, deslize para baixo a partir do centro da Tela inicial.</string>
     <string name="invalid_contact_shortcut">Contato inválido</string>
     <string name="is_setting_wallpaper_message">Definindo o plano de fundo…</string>
     <string name="is_system_wallpaper_message">Não é possível excluir recursos do sistema</string>
@@ -698,7 +700,6 @@ Segurança melhorada."</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
     <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="mtzgadget_missing_text">O widget não está disponível</string>
-    <string name="name_aireco_name">Sugestões de IA</string>
     <string name="multi_selecting_tips">Para pegar um app, arraste o seu ícone e solte-o aqui.</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslize de cima para baixo na tela, então deslize para a esquerda ou direita</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary_pad">Deslize para a esquerda ou direita na parte inferior da tela</string>
@@ -1017,7 +1018,6 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="switch_screen_button_order">Espelhar botões</string>
     <string name="switch_screen_button_order_desc">Espelha os botões de Voltar e Menu</string>
     <string name="system_sdk_disabled_toast">O SDK do Sistema foi desativado. Ative-o primeiro.</string>
-    <string name="system_shortcuts_dislike">"Não gostei"</string>
     <string name="system_shortcuts_edit">Editar</string>
     <string name="system_shortcuts_icon_remove">Remover</string>
     <string name="system_shortcuts_more_operation">Detalhes</string>

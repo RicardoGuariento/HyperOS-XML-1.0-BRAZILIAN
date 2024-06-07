@@ -43,8 +43,11 @@
     <string name="actionbar_close_description">Fechar</string>
     <string name="actionbar_home_description">Voltar</string>
     <string name="add_account_desc">Sincronizar suas notas com sua Conta Mi?</string>
+    <string name="add_excerpt_summary">Adicionar lista de resumo</string>
     <string name="added_to_clipboard">Copiado com sucesso</string>
     <string name="afternoon">"PM"</string>
+    <string name="ai_chat_declare_double_link"><Data>Leia e concorde com nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
+    <string name="ai_chat_dlg_content">Para diversas fontes de informação em diferentes cenários (como links ou texto que aparecem em apps como navegadores, WeChat e Feishu), a função de coletar e resumir informações rapidamente, bem como gerá-las e apresentá-las automaticamente em uma entrada unificada para arquivamento, pode ser alcançado.</string>
     <string name="alarm_bar_title">Lembrete</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
     <string name="alert_message_delete">Excluir %1$s?</string>
@@ -261,8 +264,13 @@
     <string name="evening">"PM"</string>
     <string name="exceed_todo_text_limitation">A descrição da tarefa é muito longa.</string>
     <string name="excerpt">Excertos</string>
+    <string name="excerpt_ares_limit">Agradecemos seu entusiasmo, mas atualmente estamos enfrentando um tráfego intenso. Por favor, clique no link original para visualizar ou tente novamente mais tarde.</string>
     <string name="excerpt_bubble_tips">O texto copiado e imagens salvas serão salvas em Notas</string>
     <string name="excerpt_link_bubble_tips">Toque para salvar em Notas</string>
+    <string name="excerpt_original_text">Texto original：</string>
+    <string name="excerpt_summary_fail">Falha na análise de conteúdo. Por favor, clique no link original para visualizar ou tente novamente mais tarde.</string>
+    <string name="excerpt_summary_huangfan">O conteúdo é sensível. Por favor, clique no link original para ver.</string>
+    <string name="excerpt_summary_link_bubble_tips">Toque para salvar o resumo em Notas.</string>
     <string name="excerpt_note">Meus excertos</string>
     <string name="excerpted_to_note">Excerto salvo em Notas</string>
     <string name="excerpting">Criando um excerto…</string>
@@ -709,6 +717,7 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Deslize para cima com 2 dedos para excluir notas sem confirmação</string>
     <string name="pref_desc_todo_float_mode">Deslize a partir da borda da tela para abrir a caixa de ferramentas de tarefas</string>
     <string name="pref_excerpt_link_float">Receba um lembrete para criar um excerto sempre que uma URL for copiada</string>
+    <string name="pref_excerpt_summary_link_float">Cada vez que o link for copiado, a barra abreviada fornecerá um lembrete de resumo pendente, clique para extrair o resumo.</string>
     <string name="pref_permission_allowed">Concedido</string>
     <string name="pref_permission_manage">Detalhes de permissões</string>
     <string name="pref_permission_manage_key_contact">Acessar contatos</string>
@@ -724,6 +733,7 @@
     <string name="pref_title_cloud_trash_bin">Notas excluídas da nuvem</string>
     <string name="pref_title_common">Configurações adicionais</string>
     <string name="pref_title_excerpt_remind">Lembretes de excertos</string>
+    <string name="pref_title_excerpt_summary_remind">Lista resumida</string>
     <string name="pref_title_font_size">Tamanho do texto</string>
     <string name="pref_title_note_style">Estilo</string>
     <string name="pref_title_quick_note">Notas rápidas</string>
@@ -820,6 +830,7 @@
     <string name="setting_other">OUTROS</string>
     <string name="setting_privacy">Política de Privacidade</string>
     <string name="single_link_excerpt_saving">Salvando itens…</string>
+    <string name="single_link_excerpt_summary_saving">Gerando lista de resumo.</string>
     <string name="single_new_excerpt_title">Excertos</string>
     <string name="size_byte">"B"</string>
     <string name="size_giga_byte">"GB"</string>
@@ -947,9 +958,12 @@
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
+    <string name="to_be_read_bubble_tips">O link e o texto copiados extrairão diretamente o resumo para as notas.</string>
+    <string name="to_be_read_link_bubble_tips">Toque para salvar o resumo em Notas</string>
+    <string name="to_be_read_list">Lista resumida</string>
     <string name="to_view_alarm_content">Toque para visualizar</string>
     <string name="toast_cancel_to_insert_image">Não foi possível adicionar a imagem.</string>
     <string name="toast_excerpt_end">Excerto criado com sucesso</string>
@@ -983,6 +997,8 @@ Permita que o app Notas leia o status do dispositivo e sua identidade."</string>
     <string name="toast_refuse_to_use_record_audio">"As permissões do microfone estão restritas.
 Permita que o app Notas grave áudio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permita que o Notas acesse o armazenamento para poder adicionar imagens às suas notas</string>
+    <string name="toast_show_no_network">Conecte-se à rede e tente novamente.</string>
+    <string name="toast_show_xiaomi_account">Faça login na sua Conta Mi e tente novamente.</string>
     <string name="today">Hoje</string>
     <string name="todo_alert_title_delete">Excluir tarefas concluídas</string>
     <string name="todo_audio_default_content">"[Tarefa em áudio] "</string>

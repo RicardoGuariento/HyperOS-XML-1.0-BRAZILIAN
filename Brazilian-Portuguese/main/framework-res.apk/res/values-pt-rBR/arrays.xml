@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="config_autoTimeSourcesPriority">
-        <item>rede</item>
-        <item>telefonia</item>
+        <item>Rede</item>
+        <item>Telefonia</item>
     </string-array>
     <string-array name="config_system_condition_providers">
-        <item>contagem regressiva</item>
-        <item>cronograma</item>
-        <item>evento</item>
+        <item>Contagem regressiva</item>
+        <item>Cronograma</item>
+        <item>Evento</item>
     </string-array>
     <string-array name="emailAddressTypes">
         <item>Residencial</item>
@@ -60,13 +60,6 @@
         <item>ICQ</item>
         <item>Jabber</item>
     </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>-22863878</item>
-        <item>-43244097</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>3</item>
-    </integer-array>
     <string-array name="network_switch_type_name">
         <item>Dados móveis</item>
         <item>"Wi-Fi"</item>

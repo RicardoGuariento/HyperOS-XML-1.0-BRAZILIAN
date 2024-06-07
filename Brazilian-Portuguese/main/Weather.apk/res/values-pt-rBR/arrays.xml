@@ -8,22 +8,6 @@
         <item>Severo</item>
         <item>Perigoso</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="aqi_title_prefix">
         <item>IQA %1$s</item>
         <item>IQA %1$s</item>
@@ -40,6 +24,13 @@
         <item>Severa</item>
         <item>Perigosa</item>
         <item>Fora do índice</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Força 2</item>
+        <item>"&lt;6.0 km/h"</item>
+        <item>"&lt;1.7 m/s"</item>
+        <item>"&lt;3.7 mph"</item>
+        <item>"&lt;3.2 kn"</item>
     </string-array>
     <string-array name="hot_city">
         <item>Pequim</item>

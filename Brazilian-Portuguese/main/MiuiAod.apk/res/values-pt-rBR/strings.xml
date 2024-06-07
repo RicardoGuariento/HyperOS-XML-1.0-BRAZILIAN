@@ -53,7 +53,6 @@
     <string name="am">"AM"</string>
     <string name="ambient_display_screen_title">Tela ambiente</string>
     <string name="ambient_display_screen_title_sp">Exibição ambiente</string>
-    <string name="ambient_display_screen_title_summary">Defina o estilo da Tela interna. A Tela externa manterá o estilo da Tela de bloqueio.</string>
     <string name="animation_clock_panel">Disco ondulado</string>
     <string name="aod_app_name">Tela sempre ativa e editor de Tela de bloqueio</string>
     <string name="aod_close_color_inversion">Este recurso não pode ser combinado com a inversão de cores. Desative a inversão de cores primeiro.</string>
@@ -90,8 +89,6 @@ dd/MM"</string>
     <string name="aqi_format_desc">Índice de qualidade do ar: %s</string>
     <string name="atmosphere_pressure_unit">"hPa"</string>
     <string name="background_icon">Fundo</string>
-    <string name="battery_level">%d%%</string>
-    <string name="battery_level_rtl">%%%d</string>
     <string name="below_image">Abaixo</string>
     <string name="bold_font">Negrito</string>
     <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
@@ -544,6 +541,7 @@ mm"</string>
     <string name="settings_view_btn_check_off">Desativado</string>
     <string name="settings_view_btn_check_on">Ativado</string>
     <string name="share">Compartilhar</string>
+    <string name="share_to_community">Compartilhe na Xiaomi Community</string>
     <string name="show_battery">Mostrar status da bateria</string>
     <string name="show_battery_status">Mostrar status da bateria</string>
     <string name="show_lunar">Mostrar Calendário Tradicional Chinês</string>
@@ -556,9 +554,7 @@ mm"</string>
     <string name="signature_default_content">"Sempre acredite que algo
  incrível está prestes a acontecer"</string>
     <string name="smart_style">Inteligente</string>
-    <string name="smart_style_summary">"Não exibir quando o dispositivo estiver no bolso, quando a luz ambiente estiver fraca por muito tempo ou quando você não estiver olhando para a tela."</string>
-    <string name="smart_style_summary_inner">"Não exibir quando o dispositivo estiver no bolso, quando a luz ambiente estiver fraca por muito tempo ou quando você não estiver olhando para a Tela interna."</string>
-    <string name="smart_style_summary_outer">"Não exibir quando o dispositivo estiver no bolso, quando a luz ambiente estiver fraca por muito tempo ou quando você não estiver olhando para a Tela externa."</string>
+    <string name="smart_style_summary">"Sempre exiba itens, exceto quando seu dispositivo estiver no bolso, quando a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para seu dispositivo."</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
     <string name="solar_term_clear_and_bright">Claro e brilhante</string>
@@ -662,17 +658,6 @@ dd/MM"</string>
     <string name="time_picker_label_minute">"M"</string>
     <string name="time_style">Estilo</string>
     <string name="time_style_layout">"Layout"</string>
-    <string name="tiny_camera_content_description">Câmera</string>
-    <string name="tiny_classic_date_format">EEE d/M</string>
-    <string name="tiny_clock_time_format_12">hh:mm</string>
-    <string name="tiny_clock_time_format_24">HH:mm</string>
-    <string name="tiny_doodle_clock_date">"dd MMMM"</string>
-    <string name="tiny_doodle_clock_week_full">"EEEE"</string>
-    <string name="tiny_pets_date_format">"d/M"</string>
-    <string name="tiny_pets_week_format">"EEE"</string>
-    <string name="tiny_splicing_date_content_description">d/M</string>
-    <string name="tiny_splicing_date_format">d/M</string>
-    <string name="tiny_splicing_week_format">"EEE"</string>
     <string name="tip_to_open_aod_mode">A Tela ambiente está desativada. Ativar agora?</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>

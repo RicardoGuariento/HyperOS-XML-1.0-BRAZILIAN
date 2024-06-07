@@ -376,7 +376,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="dialog_video_high">Alta</string>
     <string name="dialog_video_low">Baixa</string>
     <string name="dialog_video_medium">Média</string>
-    <string name="dialog_ytb_content">"Você está prestes a sair do Mi Video e abrir o YouTube. Continuar?"</string>
+    <string name="dialog_ytb_content">"Você está prestes a sair do Mi Vídeo e abrir o YouTube. Continuar?"</string>
     <string name="disagree">Não aceitar</string>
     <string name="diy_channels_tips">Você pode personalizar sua lista de canais agora.</string>
     <string name="do_not_show_again">Não mostrar novamente</string>
@@ -396,6 +396,8 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="download_unable_tip">Não é possível baixar este item</string>
     <string name="download_video">Baixando vídeo</string>
     <string name="downloading">Baixando…</string>
+    <string name="draw_ad_button_click_text">Agite ou toque para abrir</string>
+    <string name="draw_ad_button_slide_text">Deslize para detalhes</string>
     <string name="early_morning">"AM"</string>
     <string name="empty_channels">Gerenciar canais</string>
     <string name="empty_subscribe">Você ainda não se inscreveu em nada.</string>
@@ -473,14 +475,10 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="feedback_activity_title">"Feedback"</string>
     <string name="feedback_contact_empty">Insira suas informações de contato</string>
     <string name="feedback_contact_title">Informações de contato</string>
-    <string name="feedback_detail_input_hint">Insira sua mensagem</string>
-    <string name="feedback_hint">Descreva o problema que você encontrou.</string>
     <string name="feedback_hint_contact">Telefone/QQ/E-mail</string>
     <string name="feedback_hint_text">Descreva o problema que você encontrou.</string>
-    <string name="feedback_input_tip">Você pode descrever os problemas ou fornecer sugestões aqui.</string>
     <string name="feedback_net_error">Não foi possível enviar. Verifique suas configurações de rede e tente novamente.</string>
     <string name="feedback_sent">Enviar</string>
-    <string name="feedback_success">Enviado com sucesso</string>
     <string name="feedback_success_toast">Enviado com sucesso. Obrigado pelo seu feedback!</string>
     <string name="feedback_tag_title">Categoria</string>
     <string name="feedback_text_empty_toast">Insira seu feedback primeiro.</string>
@@ -756,7 +754,6 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
     <string name="input_new_pwd">Insira a nova senha</string>
     <string name="input_size_tips">Você pode inserir até %d caracteres</string>
-    <string name="input_size_tips_new">Você pode inserir até %d caracteres</string>
     <string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
     <string name="issue">Problema</string>
     <string name="item_card_all_replies">Todas as respostas</string>
@@ -847,7 +844,6 @@ para uma melhor experiência de visualização"</string>
     <string name="local_video_time">Duração</string>
     <string name="lock_screen">Tela de bloqueio</string>
     <string name="login">Fazer login</string>
-    <string name="login_tip">Faça o login para receber nossas respostas ao seu feedback.</string>
     <string name="logo_neverthink">Com curadoria de Neverthink.tv</string>
     <string name="logout">Fazer logout</string>
     <string name="logout_account">Fazer logout</string>
@@ -986,6 +982,14 @@ para uma melhor experiência de visualização"</string>
     <string name="lv_video_null">Nenhum vídeo</string>
     <string name="lv_volume">"Volume"</string>
     <string name="manage">Gerenciar</string>
+    <string name="manager_request_Content">"Devido à política do Android sobre gerenciamento de arquivos, o Mi Vídeo não pode acessar vídeos de outros apps.
+Você pode permitir que o Mi Vídeo acesse e reproduza todos os arquivos de vídeo.
+Usaremos essa permissão apenas para encontrar os vídeos que você procura e não acessaremos nenhum outro arquivo. Permitir agora?"</string>
+    <string name="manager_request_cancel">Cancelar</string>
+    <string name="manager_request_continue">Permitir</string>
+    <string name="manager_request_tip">"Não mostre novamente"</string>
+    <string name="manager_request_title">"Não é possível acessar este arquivo"</string>
+    <string name="mangotv_episode">Episódio %d</string>
     <string name="mangotv_feature_list_title3">Episódio %s adicionado</string>
     <string name="mangotv_feature_more">Mais</string>
     <string name="mangotv_feature_title1">Episódios</string>
@@ -1154,7 +1158,6 @@ para uma melhor experiência de visualização"</string>
     <string name="music_new_user_dialog_got_it">Entendido</string>
     <string name="music_new_user_dialog_tip">Bem-vindo ao Mi Vídeo! Este app fornece um reprodutor de vídeos locais e serviços de transmissão de música e vídeos online.</string>
     <string name="my_favorite_channels">Meus canais favoritos</string>
-    <string name="my_feedback_title">Meu feedback</string>
     <string name="native_body">Corpo</string>
     <string name="native_headline">Título</string>
     <string name="native_media_view">Visualização de mídia</string>
@@ -1433,6 +1436,8 @@ Aumentar a segurança da sua conta."</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="pip">"PiP"</string>
     <string name="pip_not_supported_toast">Atualize o HyperOS para poder usar picture-in-picture.</string>
+    <string name="play_at_normal_speed">Reproduzindo na velocidade 1X</string>
+    <string name="play_at_speed">Reproduzindo na velocidade %.1fX</string
     <string name="play_list_delete_title">Excluir esta playlist agora?</string>
     <string name="play_list_detial_add">Adicionar vídeos</string>
     <string name="play_list_detial_delete">Excluir</string>
@@ -1749,7 +1754,6 @@ Aumentar a segurança da sua conta."</string>
     <string name="start_download_tip">Adicionado à fila. Verifique o progresso em Perfil &gt; Downloads.</string>
     <string name="storage_external_sdcard">Cartão SD</string>
     <string name="storage_internal_sdcard">Armazenamento interno</string>
-    <string name="submit">Enviar</string>
     <string name="subscribe">INSCREVER-SE</string>
     <string name="subscribe_author_recommend_btn">Inscrever-se</string>
     <string name="subscribe_author_recommend_title">Inscreva-se para ver os vídeos mais recentes destes criadores</string>
@@ -1919,7 +1923,6 @@ Aumentar a segurança da sua conta."</string>
     <string name="toast_m3u8_download_path_tip">Não é possível alterar o local de download para conteúdo no formato m3u8</string>
     <string name="toast_no_data">Este item não está disponível agora. Volte mais tarde.</string>
     <string name="toast_play_error_tip">Não é possível reproduzir este arquivo</string>
-    <string name="toast_request_too_frequently">Não tão rápido!</string>
     <string name="toast_share_failed">Não foi possível compartilhar. Aguarde alguns minutos e tente novamente.</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
@@ -1932,9 +1935,6 @@ Aumentar a segurança da sua conta."</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
-    <string name="type_content">Conteúdo</string>
-    <string name="type_issue">Problema</string>
-    <string name="type_suggestion">Sugestão</string>
     <string name="ugc_no_net">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="ui_common_title_back">Voltar</string>
     <string name="ui_log_tip">Toque nesta área para ocultar, pressione e segure para limpar logs antigos. Arraste os logs manualmente.</string>
