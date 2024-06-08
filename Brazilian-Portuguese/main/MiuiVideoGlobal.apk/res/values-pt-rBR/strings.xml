@@ -11,14 +11,14 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
     <string name="abc_capital_off">DESATIVADO</string>
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">espaço</string>
@@ -46,9 +46,9 @@
     <string name="account_error_user_name">Este apelido não é válido. Tente um apelido diferente.</string>
     <string name="account_invalid_user_avatar">Esta foto é inválida. Tente uma diferente.</string>
     <string name="account_limit_update_birthday">Não é possível atualizar o aniversário agora</string>
-    <string name="account_no_set">N/A</string>
-    <string name="account_none_bind_info">N/A</string>
-    <string name="account_none_user_name">N/A</string>
+    <string name="account_no_set">Não disponível</string>
+    <string name="account_none_bind_info">Não disponível</string>
+    <string name="account_none_user_name">Não disponível</string>
     <string name="account_secure_info_pref_title">Informações da conta</string>
     <string name="account_security_info_pref_title">Informações de segurança</string>
     <string name="account_user_avatar">Foto de perfil</string>
@@ -85,9 +85,9 @@
     <string name="add_local_shortcut_des">Adicione o atalho \"Meus vídeos\" à Tela inicial para acessar arquivos de vídeos locais em um único toque.</string>
     <string name="add_search_channel_link">"URL"</string>
     <string name="add_search_channel_name">Nome</string>
-    <string name="add_search_channel_tip">Pesquise por \"%s\" no website de destino, e então copie e cole a URL aqui.</string>
+    <string name="add_search_channel_tip">Pesquise por \"%s\" no site de destino, e então copie e cole a URL aqui.</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
-    <string name="add_website">Adicionar um website</string>
+    <string name="add_website">Adicionar um site</string>
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
     <string name="agree_and_continue">Aceitar</string>
@@ -177,7 +177,7 @@
     <string name="cast_tracks_chooser_dialog_closed_captions">Legendas ocultas</string>
     <string name="cast_tracks_chooser_dialog_default_track_name">Rastreio %1$d</string>
     <string name="cast_tracks_chooser_dialog_none">Nenhum</string>
-    <string name="cast_tracks_chooser_dialog_ok">Ok</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Legendas</string>
     <string name="cast_unmute">Ativar som</string>
     <string name="catchplay_video">Catchplay</string>
@@ -335,7 +335,7 @@ Envie este código para o supervisor."</string>
     <string name="dialog_jumpto_choose">Não mostrar novamente</string>
     <string name="dialog_jumpto_content">Alternar para o Mi Vídeo para acessar recursos adicionais de reprodução?</string>
     <string name="dialog_jumpto_title">Mi Vídeo</string>
-    <string name="dialog_look_offline_btn">Ver conteúdo off-line</string>
+    <string name="dialog_look_offline_btn">Ver conteúdo offline</string>
     <string name="dialog_no_internet_des">"Você não está conectado à rede. Vizualizar conteúdo offline?"</string>
     <string name="dialog_no_video_confirm">Entendi</string>
     <string name="dialog_no_video_tip">Tente abrir os detalhes do vídeo primeiro. O botão de download ficará disponível quando um vídeo for encontrado.</string>
@@ -344,7 +344,7 @@ Envie este código para o supervisor."</string>
     <string name="dialog_privacy_change_info">Nós atualizamos a Política de Privacidade do Mi Vídeo devido aos ajustes de serviços que oferecemos. Para entender totalmente seus direitos como usuário, bem como as formas que usamos os seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o app.</string>
     <string name="dialog_privacy_change_title">Atualização da Política de Privacidade</string>
    <string name="dialog_privacy_info">"Bem-vindo ao Mi Vídeo! Este app oferece os seguintes serviços:
-- Streaming on-line
+- Streaming online
 - Um reprodutor de vídeo local
 O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer serviços básicos. Você pode saber como lidamos com as informações que coletamos em nossa Política de Privacidade. Você pode alterar as configurações relacionadas em Perfil > Configurações."</string>
     <string name="dialog_privacy_experience_plan">Participe do nosso Programa de Experiência do Usuário para compartilhar dados conosco e nos ajudar a melhorar os nossos produtos e serviços.</string>
@@ -452,7 +452,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="exo_track_surround_5_point_1">Som surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Som surround 7.1</string>
     <string name="exo_track_unknown">Desconhecido</string>
-    <string name="expand_button_title">Advanced</string>
+    <string name="expand_button_title">Avançado</string>
     <string name="explore">Descobrir</string>
     <string name="explore_on_mi_video">Encontre mais no Mi Vídeo</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
@@ -612,7 +612,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="galleryplus_orientation_lock">Orientação bloqueada com sucesso</string>
     <string name="galleryplus_orientation_unlock">Orientação da tela desbloqueada</string>
     <string name="galleryplus_permission_content">Dê ao Mi Vídeo as permissões necessárias para poder usar este recurso.</string>
-    <string name="galleryplus_permission_content2">"Para poder usar este recurso, vá em Configurações &gt; Apps &gt; Mi Vídeo &gt;; Permissões do app e permita que o Mi Vídeo faça o seguinte:
+    <string name="galleryplus_permission_content2">"Para poder usar este recurso, vá em Configurações > Apps > Mi Vídeo > Permissões do app e permita que o Mi Vídeo faça o seguinte:
 
 1. Acesse o armazenamento
 2. Acesse a ID do dispositivo"</string>
@@ -729,7 +729,7 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="incentive_exchange_tip">Estes pontos só estão disponíveis hoje</string>
     <string name="incentive_login_for_claim">Faça o login em sua Conta Google para resgatar pontos</string>
     <string name="incentive_login_success_for_already_claimd">Signed in successfully. Points claimed.</string>
-    <string name="incentive_login_tip">Sign in to earn points and get rewards</string>
+    <string name="incentive_login_tip">Faça login para ganhar pontos e receber recompensas</string>
     <string name="incentive_my_points">Meus pontos</string>
     <string name="incentive_popup_window_share">Compartilhe para ganhar pontos</string>
     <string name="incentive_popup_window_subscribe">Inscreva-se para ganhar pontos</string>
@@ -878,7 +878,7 @@ para uma melhor experiência de visualização"</string>
     <string name="lv_app_downloading">Baixando o Mi Vídeo…</string>
     <string name="lv_audio_changed">Nova faixa de áudio</string>
     <string name="lv_audio_title">Faixa de áudio</string>
-    <string name="lv_audio_track">"Faixa de áudio "</string>
+    <string name="lv_audio_track">Faixa de áudio</string>
     <string name="lv_auto_update">Atualizar depois</string>
     <string name="lv_brightness">Brilho</string>
     <string name="lv_cast">Transmitir</string>
@@ -972,7 +972,7 @@ para uma melhor experiência de visualização"</string>
     <string name="lv_subtitle_subonline_non_network">Não foi possível conectar-se à rede. Conecte-se e tente novamente.</string>
     <string name="lv_subtitle_synchronization_title">Sincronização</string>
     <string name="lv_subtitle_title">Legendas</string>
-    <string name="lv_subtitle_track">"Legendas "</string>
+    <string name="lv_subtitle_track">Legendas</string>
     <string name="lv_unhide_prompt">Definido com sucesso. Você pode ver os itens reexibidos agora.</string>
     <string name="lv_updating">Atualizando…</string>
     <string name="lv_use_notch">Mostrar entalhe</string>
@@ -1209,12 +1209,12 @@ Usaremos essa permissão apenas para encontrar os vídeos que você procura e n�
     <string name="notify_apk_installed">Baixado com sucesso</string>
     <string name="off_tip_firework_recommend">Você não receberá recomendações personalizadas de conteúdos do Firework</string>
     <string name="offline_notification_text">Toque para abrir o anúncio</string>
-    <string name="offline_notification_title">Ver o anúncio que você salvou quando estava off-line</string>
+    <string name="offline_notification_title">Ver o anúncio que você salvou quando estava offline</string>
     <string name="offline_opt_in_confirm">"OK"</string>
-    <string name="offline_opt_in_confirmation">Você receberá uma notificação com o link quando ficar on-line novamente</string>
+    <string name="offline_opt_in_confirmation">Você receberá uma notificação com o link quando ficar online novamente</string>
     <string name="offline_opt_in_decline">Não</string>
     <string name="offline_opt_in_message">Enviaremos uma notificação com um link para o site do anunciante.</string>
-    <string name="offline_opt_in_title">Abrir o anúncio quando você ficar on-line novamente.</string>
+    <string name="offline_opt_in_title">Abrir o anúncio quando você ficar online novamente.</string>
     <string name="ok">"OK"</string>
     <string name="on_tip_firework_recommend">Você receberá recomendações personalizadas de conteúdos do Firework</string>
     <string name="online_play_hint">Por exemplo: http://www.example.com/video.mp4</string>
@@ -1426,7 +1426,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="permission_phone">Telefone</string>
     <string name="permission_phone_desc">Para acessar o status do dispositivo e pausar reprodução durante ligações</string>
     <string name="permission_storage">Armazenamento</string>
-    <string name="permission_storage_desc">Para acessar itens, salvar arquivos, exibir e reproduzir vídeos locais</string>
+    <string name="permission_storage_desc">Para acessar itens, salvar arquivos, exibir e reproduzir vídeos locais.</string>
     <string name="permission_title">Permissões necessárias</string>
     <string name="pgc_push_title">Inscrições</string>
     <string name="phone_bind_too_many">Este telefone foi associado a várias Contas Mi em um curto período de tempo. Tente usar outro número de telefone.</string>
@@ -1438,7 +1438,6 @@ Aumentar a segurança da sua conta."</string>
     <string name="pip_not_supported_toast">Atualize o HyperOS para poder usar picture-in-picture.</string>
     <string name="play_at_normal_speed">Reproduzindo na velocidade 1X</string>
     <string name="play_at_speed">Reproduzindo na velocidade %.1fX</string
-    <string name="play_list_delete_title">Excluir esta playlist agora?</string>
     <string name="play_list_detial_add">Adicionar vídeos</string>
     <string name="play_list_detial_delete">Excluir</string>
     <string name="play_list_detial_play">Reproduzir</string>
@@ -1672,7 +1671,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="save">SALVAR</string>
     <string name="save_cancel_toast">Toque novamente para cancelar o salvamento</string>
     <string name="screenrecord_cancel">Problemas de compatibilidade</string>
-    <string name="screenrecord_nosupport_record">O Gravador de tela não é atualmente suportado neste dispositivo.</string>
+    <string name="screenrecord_nosupport_record">O Gravador de Tela não é atualmente suportado neste dispositivo.</string>
     <string name="search">Pesquisar</string>
     <string name="search_bar_hint">Pesquisar vídeos</string>
     <string name="search_bar_video_download_hint">Pesquisar ou inserir URL</string>
@@ -1729,6 +1728,30 @@ Aumentar a segurança da sua conta."</string>
     <string name="sns_access_token_expired_warning">Sessão expirada. Faça o login novamente para reconectar esta conta.</string>
     <string name="sns_bind_limit">Muitas tentativas efetuadas. Tente outras formas de login.</string>
     <string name="sns_sign_in">Outras formas de login</string>
+    <string name="solar_term_autumn_begins">O outono começa</string>
+    <string name="solar_term_autumn_equinox">Equinócio de outono</string>
+    <string name="solar_term_clear_and_bright">Claro e brilhante</string>
+    <string name="solar_term_cold_dews">Orvalho frio</string>
+    <string name="solar_term_grain_buds">As criaturas se abastecem</string>
+    <string name="solar_term_grain_in_ear">Semeando milho</string>
+    <string name="solar_term_grain_rain">Chuva de trigo</string>
+    <string name="solar_term_great_cold">Frio severo</string>
+    <string name="solar_term_great_heat">Grande calor</string>
+    <string name="solar_term_heavy_snow">Neve pesada</string>
+    <string name="solar_term_hoar_frost_falls">Geada</string>
+    <string name="solar_term_insects_awaken">Insetos despertam</string>
+    <string name="solar_term_light_snow">Pouca neve</string>
+    <string name="solar_term_slight_cold">Frio moderado</string>
+    <string name="solar_term_slight_heat">Calor moderado</string>
+    <string name="solar_term_spring_begins">A primavera começa</string>
+    <string name="solar_term_stopping_the_heat">O calor se retira</string>
+    <string name="solar_term_summer_begins">O verão começa</string>
+    <string name="solar_term_summer_solstice">Solstício de verão</string>
+    <string name="solar_term_the_rains">Chuvas de primavera</string>
+    <string name="solar_term_vernal_equinox">Equinócio vernal</string>
+    <string name="solar_term_white_dews">Orvalho</string>
+    <string name="solar_term_winter_begins">O inverno começa</string>
+    <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="source">"Fonte: "</string>
     <string name="special_type_8k">IA 8K</string>
     <string name="special_type_log">"LOG"</string>
@@ -1751,7 +1774,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="srl_header_release">Solte para atualizar</string>
     <string name="srl_header_secondary">Liberação para o segundo andar</string>
     <string name="srl_header_update">"'Última atualização' d-M HH:mm"</string>
-    <string name="start_download_tip">Adicionado à fila. Verifique o progresso em Perfil &gt; Downloads.</string>
+    <string name="start_download_tip">Adicionado à fila. Verifique o progresso em Perfil > Downloads.</string>
     <string name="storage_external_sdcard">Cartão SD</string>
     <string name="storage_internal_sdcard">Armazenamento interno</string>
     <string name="subscribe">INSCREVER-SE</string>
@@ -2002,10 +2025,10 @@ Aumentar a segurança da sua conta."</string>
     <string name="video_live_over">Esta sessão terminou</string>
     <string name="video_noyet_download_tip">Este vídeo ainda está sendo baixado</string>
     <string name="video_offline">Este item não está mais disponível</string>
-    <string name="video_resolution_b_size_suffix">%.2fB</string>
-    <string name="video_resolution_gb_size_suffix">%.2fGB</string>
-    <string name="video_resolution_kb_size_suffix">%.2fKB</string>
-    <string name="video_resolution_mb_size_suffix">%.2fMB</string>
+    <string name="video_resolution_b_size_suffix">%.2f B</string>
+    <string name="video_resolution_gb_size_suffix">%.2f GB</string>
+    <string name="video_resolution_kb_size_suffix">%.2f KB</string>
+    <string name="video_resolution_mb_size_suffix">%.2f MB</string>
     <string name="video_resolution_tag_suffix">%dP</string>
     <string name="videos_guide_tip">Encontre as tendências da Indonésia aqui</string>
     <string name="view">Ver</string>

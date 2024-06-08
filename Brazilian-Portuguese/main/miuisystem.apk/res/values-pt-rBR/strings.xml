@@ -41,12 +41,12 @@
     <string name="crystal">Cristal</string>
     <string name="cta_button_continue">Concordo</string>
     <string name="cta_button_quit">Sair</string>
-    <string name="cta_check_reminder">Não mostrar novamente</string>
+    <string name="cta_check_reminder">"Não mostrar novamente"</string>
     <string name="cta_message_license">Ao usar este produto, você concorda com os termos estabelecidos em nosso Contrato do Usuário e a Política de Privacidade.</string>
     <string name="cta_message_permission">Este app precisa de %2$s para funcionar normalmente.</string>
     <string name="cta_permission_and"> e </string>
     <string name="cta_permission_delimiter">, </string>
-    <string name="cta_title">Contrato do Usuário</string>
+    <string name="cta_title">Termo de uso</string>
     <string name="dance">Dança</string>
     <string name="daydream">Sonhar acordado</string>
     <string name="device_hongmi">"Redmi"</string>
@@ -305,9 +305,9 @@ mm"</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="windchime">Sinos de vento</string>
     <string name="yellow_page_module_sms_sent">SMS enviado</string>
-    <string name="yellow_page_sms_disabled_in_privacy_mode">Não é possível enviar mensagem no Modo convidado</string>
-    <string name="yellow_page_sms_send_failed">Não foi possível enviar o SMS</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">"Não é possível enviar mensagem no Modo convidado"</string>
+    <string name="yellow_page_sms_send_failed">"Não foi possível enviar o SMS"</string>
     <string name="yellow_page_sms_sending">Enviando…</string>
-    <string name="yellow_page_unable_send_sms">Não foi possível enviar o SMS</string>
+    <string name="yellow_page_unable_send_sms">"Não consigo enviar o SMS"</string>
     <string name="yesterday">Ontem</string>
 </resources>
