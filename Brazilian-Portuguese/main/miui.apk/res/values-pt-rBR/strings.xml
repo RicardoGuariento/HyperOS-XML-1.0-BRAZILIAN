@@ -17,7 +17,7 @@
     <string name="birthday">Aniversário</string>
     <string name="cancel_description">Cancelar</string>
     <string name="check_phone_error_title">Sincronização desativada</string>
-    <string name="check_phone_io_error">Não é possível conectar-se à rede</string>
+    <string name="check_phone_io_error">"Não é possível conectar-se à rede"</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="click_to_restore">Restaure os itens do sistema para poder usar o seu dispositivo normalmente após uma restauração de fábrica. Clique para começar.</string>
     <string name="close">Fechar</string>
@@ -293,7 +293,7 @@
     <string name="eras_bc">a.C</string>
     <string name="error_forbidden">A sincronização foi desativada devido a problemas com sua Conta Mi.</string>
     <string name="error_not_acceptable">A sincronização foi desativada.</string>
-    <string name="error_title">Não foi possível sincronizar</string>
+    <string name="error_title">"Não foi possível sincronizar"</string>
     <string name="error_unauthorized">A sincronização foi desativada devido a muitas tentativas de login.</string>
     <string name="evening">"PM"</string>
     <string name="experience_new_system_app">Confira os novos recursos!</string>
@@ -387,7 +387,7 @@
     <string name="name">Nome</string>
     <string name="nickname">Apelido</string>
     <string name="night">"PM"</string>
-    <string name="no_network">Não é possível conectar-se à rede</string>
+    <string name="no_network">"Não é possível conectar-se à rede"</string>
     <string name="no_sim">Nenhum cartão SIM detectado.</string>
     <string name="noon">"PM"</string>
     <string name="note">Notas</string>
@@ -506,9 +506,9 @@
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Definir hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>
@@ -525,6 +525,6 @@
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="xiaomi_mobile">"Mi Mobile"</string>
+    <string name="xiaomi_mobile">Celular Mi</string>
     <string name="yesterday">Ontem</string>
 </resources>
