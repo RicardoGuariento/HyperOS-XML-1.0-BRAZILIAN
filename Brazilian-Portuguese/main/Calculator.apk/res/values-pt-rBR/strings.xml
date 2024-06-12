@@ -78,12 +78,13 @@
     <string name="cal_text_copied">Texto copiado</string>
     <string name="cancel">Cancelar</string>
     <string name="card_mortgage_average_repayment_monthly">Pagamento mensal</string>
-    <string name="children_education">Educação infantil</string>
+    <string name="children_education">"Educação infantil"</string>
     <string name="choose_currency">Selecione a moeda</string>
     <string name="choose_radix">Selecione o sistema numérico</string>
     <string name="choose_unit">Selecione a unidade</string>
     <string name="city">Cidade</string>
     <string name="clear">C</string>
+    <string name="city_picker_hint">Selecionar</string>
     <string name="clearDesc">limpar</string>
     <string name="clear_history">Limpar histórico</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
@@ -146,7 +147,7 @@
     <string name="deselect_all">Desmarcar</string>
     <string name="detail_close_btn">Ocultar extrato de reembolso</string>
     <string name="detail_expand_btn">Exibir extrato de reembolso</string>
-    <string name="devided_by_zero_reminder_message">Não é possível dividir por 0</string>
+    <string name="devided_by_zero_reminder_message">"Não é possível dividir por 0"</string>
     <string name="dialog_privacy_content">&lt;Data>Além dos recursos básicos de uma calculadora, nosso app também possui uma calculadora científica e um conversor multifunções. Alguns recursos precisam de conexão com a internet para funcionarem normalmente. Você deve ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar a Calculadora.&lt;/Data></string>
     <string name="dialog_privacy_disagree_msg">Ao desativar o seletor, você retira seu consentimento para a Política de Privacidade do app Calculadora. Nós deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, conforme exigido pelas leis aplicáveis. O app Calculadora precisa coletar as informações pessoais necessárias para fornecer-lhe serviços básicos. Sua retirada de consentimento de sua Política de Privacidade será considerada como recusa a aceitar seus serviços com base nas informações pessoais coletadas.</string>
     <string name="dialog_privacy_revoke_btn_ok">Retirar</string>
@@ -172,7 +173,7 @@
     <string name="dont_allow">Não aceitar</string>
     <string name="dotDesc">ponto</string>
     <string name="e">e</string>
-    <string name="eDesc">Número de Euler</string>
+    <string name="eDesc">"Número de Euler"</string>
     <string name="early_morning">"AM"</string>
     <string name="empty_history">Nenhum item aqui ainda</string>
     <string name="equalDesc">igual a</string>
@@ -406,10 +407,10 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -479,7 +480,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="mortgage_item_years_commercial">Prazo do empréstimo comercial</string>
     <string name="mortgage_item_years_lending">Prazo do empréstimo do fundo de previdência</string>
     <string name="mortgage_loans_amount">Valor da hipoteca</string>
-    <string name="mortgage_provident_found_interest_rate">Taxa de juros do fundo</string>
+    <string name="mortgage_provident_found_interest_rate">"Taxa de juros do fundo"</string>
     <string name="mortgage_provider_east_money">Dados fornecidos por East Money</string>
     <string name="mortgage_repayment_amount">Valor do reembolso</string>
     <string name="mortgage_result">Resultados</string>
@@ -524,7 +525,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="permission_privacy_link"><Data>Antes de usar este app, leia e concorde com o nosso &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a>.</Data></string>
     <string name="permission_purpose_miui12_system">Bem-vindo à Calculadora! Este app combina os recursos de uma calculadora normal com vários conversores e recursos de estilo de vida.</string>
     <string name="permission_remove_desc_miui12">Permita que este app se conecte à internet e conceda permissões opcionais para poder usar todos os seus recursos.</string>
-    <string name="permission_title_miui12">Atenção!!</string>
+    <string name="permission_title_miui12">Atenção!</string>
     <string name="piDesc">pi</string>
     <string name="plusDesc">adição</string>
     <string name="pm">"PM"</string>
@@ -563,7 +564,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="preference_view_privacy_title">Ver Política de Privacidade</string>
     <string name="privacy_dialog_title">Privacidade</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_revoke_error">Não foi possível retirar. Tente novamente.</string>
+    <string name="privacy_revoke_error">"Não foi possível retirar. Tente novamente."</string>
     <string name="privacy_revoke_progress">Retirando…</string>
     <string name="privacy_switch">Retirada de consentimento</string>
     <string name="pull_to_refresh">Puxe para baixo para ver o histórico</string>
@@ -593,6 +594,30 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="settingsDesc">Configurações</string>
     <string name="sin">sen</string>
     <string name="sinDesc">seno</string>
+    <string name="solar_term_autumn_begins">O outono começa</string>
+    <string name="solar_term_autumn_equinox">Equinócio de outono</string>
+    <string name="solar_term_clear_and_bright">Claro e brilhante</string>
+    <string name="solar_term_cold_dews">Orvalho frio</string>
+    <string name="solar_term_grain_buds">As criaturas se abastecem</string>
+    <string name="solar_term_grain_in_ear">Semeando milho</string>
+    <string name="solar_term_grain_rain">Chuva de trigo</string>
+    <string name="solar_term_great_cold">Frio severo</string>
+    <string name="solar_term_great_heat">Grande calor</string>
+    <string name="solar_term_heavy_snow">Neve pesada</string>
+    <string name="solar_term_hoar_frost_falls">Geada</string>
+    <string name="solar_term_insects_awaken">Insetos despertam</string>
+    <string name="solar_term_light_snow">Pouca neve</string>
+    <string name="solar_term_slight_cold">Frio moderado</string>
+    <string name="solar_term_slight_heat">Calor moderado</string>
+    <string name="solar_term_spring_begins">A primavera começa</string>
+    <string name="solar_term_stopping_the_heat">O calor se retira</string>
+    <string name="solar_term_summer_begins">O verão começa</string>
+    <string name="solar_term_summer_solstice">Solstício de verão</string>
+    <string name="solar_term_the_rains">Chuvas de primavera</string>
+    <string name="solar_term_vernal_equinox">Equinócio vernal</string>
+    <string name="solar_term_white_dews">Orvalho</string>
+    <string name="solar_term_winter_begins">O inverno começa</string>
+    <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="sin_mathematical_value">sen</string>
     <string name="sqrtDesc">raiz quadrada</string>
     <string name="statistic_label_balance">Saldo</string>
@@ -716,6 +741,8 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="title_bar">Conversor de comprimento</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
@@ -727,7 +754,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="tv_recurrence_quaterly">Trimestral</string>
     <string name="tv_recurrence_yearly">Anual</string>
     <string name="unKnow_error">Erro desconhecido</string>
-    <string name="uninstall_warning_content">"Calculadora é um app de sistema. Você não poderá usar sua funcionalidade básica, bem como converter moedas e unidades de medida, calcular pagamentos de hipotecas ou usar outros recursos após a desinstalação."</string>
+    <string name="uninstall_warning_content">"Calculadora é um app do sistema. Você não poderá usar sua funcionalidade básica, bem como converter moedas e unidades de medida, calcular pagamentos de hipotecas ou usar outros recursos após a desinstalação."</string>
     <string name="uninstall_warning_title">Desinstalar a Calculadora?</string>
     <string name="unit_cm">Centímetros</string>
     <string name="unit_data_display_area_acre">"Acre"</string>

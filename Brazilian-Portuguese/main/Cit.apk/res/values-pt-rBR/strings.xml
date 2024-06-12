@@ -48,12 +48,13 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="actionbar_button_up_description">Voltar</string>
+    <string name="app_name">CIT</string>
     <string name="add">Adicionar</string>
     <string name="audio_spk_cal_wait">Calibrando, aguarde…</string>
     <string name="audio_spk_def">Calibre os alto-falantes, por favor.</string>
-    <string name="auto_frontflash_description">Todas as luzes do flash frontal estão acesas? Selecione para \"Passou"\" para sim, caso contrário, selecione para \"Falhou\"</string>
+    <string name="auto_frontflash_description">Todas as luzes do flash frontal estão acesas? Selecione para \"Passou"\ para sim, caso contrário, selecione para \"Falhou\"</string>
     <string name="auto_frontflash_title">Teste de flash da câmera frontal</string>
-    <string name="auto_rearflash_description">Todas as luzes do flash da câmera traseira estão acesas? Selecione para \"Passou"\" para sim, caso contrário, selecione para \"Falhou\"</string>
+    <string name="auto_rearflash_description">Todas as luzes do flash da câmera traseira estão acesas? Selecione para \"Passou"\ para sim, caso contrário, selecione para \"Falhou\"</string>
     <string name="auto_rearflash_title">Teste de flash da câmera traseira</string>
     <string name="aux_mic_check_record_tip">Gravando. Por favor, diga algo no Microfone AUX na parte inferior do dispositivo.</string>
     <string name="back_info">Tem certeza que deseja sair desta interface?</string>
@@ -98,7 +99,7 @@
     <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
     <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
     <string name="charger_test_end">"
-Fim do teste, por favor, desconecte o carregador."</string>
+Fim do teste. Por favor, desconecte o carregador."</string>
     <string name="cit_DP_check_summary">O cabo Tipo C para DP deve ser conectado durante o processo de teste</string>
     <string name="cit_DP_check_title">Teste de DP</string>
     <string name="cit_DP_in_start_test">Insira o cabo Tipo C para DP para iniciar o teste</string>
@@ -145,12 +146,12 @@ Observe se a tela foi bem-sucedida e clique no botão correspondente</string>
     <string name="cit_USB3_in_start_test">Insira os dispositivos habilitados para USB 3.0 e comece a testar</string>
     <string name="cit_USB3_plug_err">O valor correto não foi recebido, entre em contato com o desenvolvimento</string>
     <string name="cit_USB3_plug_fail">O dispositivo de teste não suporta USB 3.0, o teste falhou</string>
-    <string name="cit_USB3_plug_out_test_err">"O dispositivo foi retirado, o teste falhou
-O valor correto não foi obtido, entre em contato com o aluno de pesquisa e desenvolvimento para saber o motivo"</string>
-    <string name="cit_USB3_plug_out_test_fail">"O dispositivo foi retirado, o teste falhou
-Recomenda-se testar novamente o equipamento de substituição"</string>
-    <string name="cit_USB3_plug_out_test_pass">O dispositivo foi retirado, teste concluído</string>
-    <string name="cit_USB3_plug_pass">USB 3.0 concluído. Por favor, retire o dispositivo</string>
+    <string name="cit_USB3_plug_out_test_err">"O dispositivo foi retirado, o teste falhou.
+O valor correto não foi obtido, entre em contato com o aluno de pesquisa e desenvolvimento para saber o motivo."</string>
+    <string name="cit_USB3_plug_out_test_fail">"O dispositivo foi retirado, o teste falhou.
+Recomenda-se testar novamente o equipamento de substituição."</string>
+    <string name="cit_USB3_plug_out_test_pass">O dispositivo foi retirado, teste concluído.</string>
+    <string name="cit_USB3_plug_pass">USB 3.0 concluído. Por favor, retire o dispositivo.</string>
     <string name="cit_USB3_plug_re_plugin">"O teste USB 3.0 terminou. Por favor, não repita o teste."</string>
     <string name="cit_abnormal_reboot_summary">Aguarde… Lendo dados de estabilidade neste dispositivo.</string>
     <string name="cit_abnormal_reboot_title">Dados de estabilidade do dispositivo</string>
@@ -184,27 +185,39 @@ Antes de calibrar o dispositivo, coloque-o numa superfície plana."</string>
     <string name="cit_audio_cali_title">Teste de calibração da coluna PA</string>
     <string name="cit_audio_calibrating">Calibrando…</string>
     <string name="cit_audio_get_temp_fail">Falha ao obter dados temporários!</string>
-    <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do alto-falante traseiro</string>
+    <string name="cit_audio_lb_auxmic_to_earpiece_title">Teste de funcionamento do alto-falante do microfone auxiliar</string>
     <string name="cit_audio_lb_backmic_to_earpiece_title">Teste de funcionamento do alto-falante do microfone traseiro</string>
-    <string name="cit_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do alto-falante do microfone frontal</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do alto-falante do microfone traseiro</string>
+    <string name="cit_audio_lb_check_track_tip">Agora reproduzindo a gravação, verifique se há algum som</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do alto-falante principal</string>
-    <string name="cit_audio_lb_phonecall_title">Teste de simulação de chamada</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">Teste de funcionamento do microfone traseiro. 
+    <string name="cit_audio_lb_mainmic_to_speaker_title">Teste de funcionamento do alto-falante do microfone principal</string>
+    <string name="cit_audio_lb_sidebottommic_to_speaker_title">Teste de funcionamento do alto-falante do microfone lateral inferior</string>
+    <string name="cit_audio_lb_sidetopmic_to_speaker_title">Teste de funcionamento do alto-falante do microfone lateral</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Microfone auxiliar para teste de funcionamento do receptor.
+
+Segure o dispositivo como se estivesse fazendo uma chamada, fale com o microfone auxiliar. Você deverá ouvir a voz do receptor."</string>
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Teste de funcionamento do microfone traseiro para o receptor.
+
+Segure o dispositivo como se estivesse fazendo uma chamada, fale no microfone traseiro. Você deverá ouvir a voz do receptor."</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Teste de funcionamento do microfone traseiro. 
 
 Vire o dispositivo, fale no microfone traseiro. Você deverá ouvir a voz no alto-falante."</string>
-    <string name="cit_audio_lb_summary_frontmic_to_speaker">"Teste de funcionamento do microfone frontal para o alto-falante. 
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal para o receptor.
 
-Fale com o microfone frontal. Você deverá ouvir a voz no alto-falante."</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal para o alto-falante.
+Segure o dispositivo como se estivesse fazendo uma chamada, fale no microfone principal. Você deverá ouvir a voz do receptor."</string>
+    <string name="cit_audio_lb_summary_mainmic_to_speaker">"Teste de funcionamento do microfone principal para o alto-falante.
 
-Segure o dispositivo como se estivesse fazendo uma chamada, fale no microfone principal. Você deverá ouvir a voz no alto-falante."</string>
-    <string name="cit_audio_lb_summary_phonecall">"Simulação de teste de chamada.
+Fale com o microfone principal. Você deverá ouvir a voz do alto-falante."</string>
+    <string name="cit_audio_lb_summary_sidebottommic_to_speaker">"Microfone inferior lateral para teste de funcionamento do alto-falante.
 
-Segure o dispositivo como se estivesse fazendo uma chamada, fale no microfone principal. Você deverá ouvir a voz no alto-falante."</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone superior para o alto-falante.
+Fale com o microfone lateral inferior. Você deverá ouvir a voz do alto-falante."</string>
+    <string name="cit_audio_lb_summary_sidetopmic_to_speaker">"Microfone superior lateral para teste de funcionamento do alto-falante.
 
-Vire o dispositivo, fale no microfone superior. Você deverá ouvir a voz no alto-falante."</string>
-    <string name="cit_audio_lb_topmic_to_speaker_title">Teste de funcionamento do microfone superior</string>
+Fale com o microfone lateral superior. Você deverá ouvir a voz do alto-falante."</string>
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Teste de funcionamento do microfone superior para o receptor.
+
+Segure o dispositivo como se estivesse fazendo uma chamada, fale no microfone superior. Você deverá ouvir a voz do receptor."</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Melhor teste de funcionamento do alto-falante do microfone</string>
     <string name="cit_audio_loopback_check_one_title">Teste de funcionamento do microfone principal</string>
     <string name="cit_audio_loopback_check_summary_first">"Teste de funcionamento do microfone principal.
 
@@ -252,8 +265,8 @@ Segure o dispositivo como se estivesse atendendo uma chamada, fale no microfone.
     <string name="cit_blue_tooth_scan_check_summary">Abaixo encontra-se a informação dos dispositivos Bluetooth detectados</string>
     <string name="cit_blue_tooth_scan_check_title">Pesquisa por Bluetooth</string>
     <string name="cit_blue_torch_on">Ligar luz de LED azul</string>
-    <string name="cit_bluetooth_address_open_error">Não foi possível obter o endereço Bluetooth. Ocorreu um erro ao abrir o dispositivo Bluetooth.</string>
-    <string name="cit_bluetooth_not_support">Este dispositivo não suporta Bluetooth</string>
+    <string name="cit_bluetooth_address_open_error">"Não foi possível obter o endereço Bluetooth. Ocorreu um erro ao abrir o dispositivo Bluetooth."</string>
+    <string name="cit_bluetooth_not_support">"Este dispositivo não suporta Bluetooth"</string>
     <string name="cit_bluetooth_scan_retry">Pesquisar novamente</string>
     <string name="cit_bluetooth_scanning">Pesquisando dispositivos Bluetooth próximos (isto pode demorar cerca de 4 segundos)…</string>
     <string name="cit_bluetooth_scanning_bluetooth_done">"Pesquisa concluída.
@@ -518,7 +531,7 @@ Não desligue a tela durante o teste."</string>
     <string name="cit_notificationlight">LED de notificação</string>
     <string name="cit_notificationlight_off">LED de notificação desligado</string>
     <string name="cit_notificationlight_on">LED de notificação ligado</string>
-    <string name="cit_otg_not_supported">Este dispositivo não suporta teste OTG</string>
+    <string name="cit_otg_not_supported">"Este dispositivo não suporta teste OTG"</string>
     <string name="cit_pass">Passou</string>
     <string name="cit_pencil_reverse_wireless_charger_summary">Por favor, coloque o lápis na área de detecção a parte direita da mesa para iniciar o teste</string>
     <string name="cit_pencil_reverse_wireless_charger_title">Teste de Carga de Lápis</string>
@@ -557,6 +570,7 @@ Ao calibrar, certifique-se de que não haja nada entre o sensor e sua mão (ex.:
     <string name="cit_rear_sub_second_camera_check_title">Câmera secundária traseira</string>
     <string name="cit_recovery_signature_failed">Assinatura do recovery FALHOU</string>
     <string name="cit_recovery_signature_passed">Assinatura do recovery PASSOU</string>
+    <string name="cit_reverse_charge_check_summary">"Por favor, insira o dispositivo de carregamento reverso OTG para carregar o dispositivo da outra parte"</string>
     <string name="cit_reverse_wireless_charge_check_tips">Coloque o dispositivo para ser carregado conforme necessário e comece a testar</string>
     <string name="cit_reset_check_summary">Este teste vai reiniciar o dispositivo. Todos os dados dos testes anteriores serão excluídos.</string>
     <string name="cit_reset_check_title">Teste de reinicialização</string>
@@ -601,6 +615,14 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
     <string name="cit_stop_calibration">Parar a calibração</string>
     <string name="cit_sub_display_check_title">Sub display</string>
     <string name="cit_sub_touch_panel_test_title">Sensor Sub Touch</string>
+    <string name="cit_tele_5x_cali">Calibração do PDFOffset da Câmera Tele</string>
+    <string name="cit_tele_5x_cali_reset">Redefinir</string>
+    <string name="cit_tele_5x_cali_reset_success_toast">Redefinido com sucesso</string>
+    <string name="cit_tele_5x_cali_success_toast">Calibração concluída</string>
+    <string name="cit_tele_5x_cali_tip">"1. Confirmado que o problema é causado por desfoque ultratelefoto.
+2. Clique no botão Calibrar.
+3. Determine se o problema de desfoque de foco ultratelefoto melhorou antes ou depois da calibração.
+4. Se o problema persistir, clique no botão Redefinir."</string>
     <string name="cit_tele_camera_check_title">Câmera Tele</string>
     <string name="cit_test_results">Histórico do resultado do teste</string>
     <string name="cit_tfcard_available_szie">Tamanho disponível</string>
@@ -739,6 +761,7 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
     <string name="cit_tool_no_repeat">Sem repetição!</string>
     <string name="cit_tool_not_support">Não suportado</string>
     <string name="cit_tool_opt_fail_info_notify">Opt falhou, é necessário reiniciar o dispositivo para modo offline.</string>
+    <string name="cit_tool_opt_standby">opção em espera…</string>
     <string name="cit_tool_prx_drx_select_mode">Selecionar Modo:</string>
     <string name="cit_tool_prx_drx_select_rat">Selecionar RAT:</string>
     <string name="cit_tool_prx_drx_start_test">Iniciar o teste</string>
@@ -808,10 +831,10 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
     <string name="cit_torch_off">Desligar a luz do flash</string>
     <string name="cit_torch_on">Ligar a luz do flash</string>
     <string name="cit_torch_second">Segundo flash</string>
-    <string name="cit_touch_auto_main_tips">Auto-teste da tela inicial em andamento. Por favor, não toque na tela.</string>
+    <string name="cit_touch_auto_main_tips">Autoteste da tela inicial em andamento. Por favor, não toque na tela.</string>
     <string name="cit_touch_auto_operate_expand_screen_tips">Por favor, expanda a tela primeiro e, em seguida, execute a tela principal da tela principal.</string>
     <string name="cit_touch_auto_operate_fold_screen_tips">Por favor, dobre a tela primeiro e execute a tela secundária auto-verificação.</string>
-    <string name="cit_touch_auto_vice_tips">Auto-teste da sub-tela em andamento. Por favor, não toque na tela.</string>
+    <string name="cit_touch_auto_vice_tips">Autoteste da sub-tela em andamento. Por favor, não toque na tela.</string>
     <string name="cit_touch_fw_mode">Modo FW</string>
     <string name="cit_touch_panel_nead_pencil_tip">Por favor, use o lápis para testar novamente.</string>
     <string name="cit_touch_calib_fail">Erro na calibração do toque. Tente novamente.</string>
@@ -1101,8 +1124,8 @@ Controle o acessório perto e longe do dispositivo"</string>
     <string name="sar_sensor_test_next_step">Defletor de controle próximo ao dispositivo</string>
     <string name="sar_sensor_test_success">Sucesso no teste do Sensor Sar</string>
     <string name="sar_sensor_test_summary">"Gire o dispositivo, e coloque-o no suporte
-Clique no botão \"Iniciar Calibração\"
-Após a calibração ser concluída, controle o acessório perto e longe do dispositivo"</string>
+Clique no botão \"Iniciar Calibração\".
+Após a calibração ser concluída, controle o acessório perto e longe do dispositivo."</string>
     <string name="sar_sensor_test_timeout">Tempo limite do teste do Sensor Sar</string>
     <string name="screen_cancel">Desativar</string>
     <string name="screen_confirm">Ativar</string>
@@ -1154,7 +1177,7 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
     <string name="top_mic_check_record_tip">Gravando. Por favor, diga algo ao Microfone na parte superior do dispositivo</string>
     <string name="top_right_high_speaker">Teste de saída de agudos do lado superior direito</string>
     <string name="top_right_low_speaker">Teste de saída de graves do lado superior direito</string>
-    <string name="touch_auto">Autoteste do touchscreen em andamento, aguarde....</string>
+    <string name="touch_auto">Autoteste do touchscreen em andamento, aguarde…</string>
     <string name="tp_color">Cor TP:</string>
     <string name="tp_version">Versão TP:</string>
     <string name="verified_boot_lock">Bloqueado</string>

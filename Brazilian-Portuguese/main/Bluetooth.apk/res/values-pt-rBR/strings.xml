@@ -32,7 +32,7 @@
     <string name="ack_record">Registro de confirmação</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
-    <string name="airplane_error_msg">Não é possível utilizar o Bluetooth em Modo avião</string>
+    <string name="airplane_error_msg">"Não é possível utilizar o Bluetooth em Modo avião"</string>
     <string name="airplane_error_title">Modo avião</string>
     <string name="am">"AM"</string>
     <string name="app_name">"Bluetooth"</string>
@@ -84,11 +84,11 @@
     <string name="bt_enable_ok">Ativar</string>
     <string name="bt_error_btn_ok">"OK"</string>
     <string name="bt_share_picker_label">"Bluetooth"</string>
-    <string name="bt_sm_2_1_default">Não há espaço suficiente no armazenamento USB para salvar o arquivo de \"%1$s\"</string>
+    <string name="bt_sm_2_1_default">"Não há espaço suficiente no armazenamento USB para salvar o arquivo de \"%1$s\""</string>
     <string name="bt_sm_2_1_nosdcard">"Não há espaço suficiente no armazenamento USB para salvar o arquivo de \"%1$s\""</string>
     <string name="bt_sm_2_2">Espaço necessário: %1$s</string>
     <string name="bt_toast_1">O arquivo será recebido. Verifique o progresso na Área de notificações.</string>
-    <string name="bt_toast_2">Não foi possível receber o arquivo</string>
+    <string name="bt_toast_2">"Não foi possível receber o arquivo"</string>
     <string name="bt_toast_3">Parou de receber arquivo de \"%1$s\"</string>
     <string name="bt_toast_4">Enviando arquivo para \"%1$s\"</string>
     <string name="bt_toast_5">Enviando %1$s arquivos para \"%2$s\"</string>
@@ -211,10 +211,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -339,9 +339,9 @@
     <string name="status_forbidden">Transferência não permitida pelo dispositivo de destino</string>
     <string name="status_no_sd_card_default">Não há cartão SD. Insira um cartão SD para salvar os arquivos transferidos.</string>
     <string name="status_no_sd_card_nosdcard">Não há armazenamento USB.</string>
-    <string name="status_not_accept">O conteúdo não é suportado</string>
+    <string name="status_not_accept">"O conteúdo não é suportado"</string>
     <string name="status_pending">A transferência de arquivo ainda não iniciou</string>
-    <string name="status_protocol_error">O pedido não foi tratado corretamente</string>
+    <string name="status_protocol_error">"O pedido não foi tratado corretamente"</string>
     <string name="status_running">A transferência de arquivos está em andamento.</string>
     <string name="status_success">Transferência concluída</string>
     <string name="status_unknown_error">Erro desconhecido</string>
@@ -358,7 +358,7 @@
     <string name="switch_audio_device_hfp_toast_hint">Selecione a saída de áudio \"Padrão\" para começar novamente a reproduzir áudio no dispositivo conectado.</string>
     <string name="switch_audio_device_phone">Este dispositivo</string>
     <string name="switch_audio_device_phone_summary">Reproduz o áudio no dispositivo</string>
-    <string name="switch_audio_device_switch_hint">Você pode desativar notificações sobre dispositivos conectados em Configurações &gt; Bluetooth &gt; Configurações adicionais.</string>
+    <string name="switch_audio_device_switch_hint">Você pode desativar notificações sobre dispositivos conectados em Configurações > Bluetooth > Configurações adicionais.</string>
     <string name="switch_audio_dialog_title">Selecione a saída de áudio</string>
     <string name="switch_audio_notification_content">"Saída de áudio atual: "</string>
     <string name="switch_audio_notification_title">Conectividade do dispositivo</string>
@@ -405,9 +405,9 @@
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="transfer_clear_dlg_msg">Todos os itens serão limpos da lista.</string>
@@ -426,7 +426,7 @@
 "</string>
     <string name="update_record">Confirmar registro</string>
     <string name="upload_fail_cancel">Fechar</string>
-    <string name="upload_fail_line1">O arquivo não foi enviado para \"%1$s\"</string>
+    <string name="upload_fail_line1">"O arquivo não foi enviado para \"%1$s\""</string>
     <string name="upload_fail_line1_2">Arquivo: %1$s</string>
     <string name="upload_line1">Para: \"%1$s\"</string>
     <string name="upload_line3">Tipo de arquivo: %1$s (%2$s)</string>
