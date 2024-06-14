@@ -94,9 +94,9 @@
     <string name="bh_cancellation_of_carrier_services">Cancelar serviços</string>
     <string name="bh_cancellation_of_carrier_services_des">Cancelar Serviços da operadora Mi</string>
     <string name="bh_cancellation_of_carrier_services_result">"Se continuar, você cancelará os Serviços da operadora Mi. Depois disso, pararemos de coletar e usar suas informações pessoais e excluiremos seu histórico de pedidos permanentemente. Certifique-se de que todas as suas transações sejam concluídas antes de cancelar os serviços."</string>
-    <string name="bh_cannot_action">Não é possível usar %1$s. Instale o app correspondente primeiro.</string>
+    <string name="bh_cannot_action">"Não é possível usar %1$s. Instale o app correspondente primeiro."</string>
     <string name="bh_cannot_fetch_num">Número de telefone desconhecido</string>
-    <string name="bh_cannot_login_miacount">Não foi possível entrar com a Conta Mi</string>
+    <string name="bh_cannot_login_miacount">"Não foi possível entrar com a Conta Mi"</string>
     <string name="bh_card_order_detail">Informação do pedido</string>
     <string name="bh_card_order_name">Pacote de serviço</string>
     <string name="bh_card_order_pay_price">Quantia paga</string>
@@ -108,9 +108,9 @@
     <string name="bh_close_traffic_package">Fechar detalhes do plano da operadora</string>
     <string name="bh_cmcc">"China Mobile"</string>
     <string name="bh_confirm">"OK"</string>
-    <string name="bh_connect_address">Nome do destinatário</string>
+    <string name="bh_connect_address">"Nome do destinatário"</string>
     <string name="bh_connect_name">Destinatário</string>
-    <string name="bh_connect_number">Número de telefone do destinatário</string>
+    <string name="bh_connect_number">"Número de telefone do destinatário"</string>
     <string name="bh_contact_number">%1$s dos seus contatos</string>
     <string name="bh_ct">China Telecom</string>
     <string name="bh_cu">China Unicom</string>
@@ -158,15 +158,15 @@
     <string name="bh_net_error">Ocorreu um erro de rede</string>
     <string name="bh_no_permission_read_call_log_desc">Esta permissão permite exibir a duração da chamada</string>
     <string name="bh_no_permission_read_contact_desc">Esta permissão permite o acesso a números de telefone em contatos</string>
-    <string name="bh_no_sim">O cartão SIM não está inserido</string>
-    <string name="bh_no_sim_inserted">O cartão SIM não está inserido</string>
+    <string name="bh_no_sim">"O cartão SIM não está inserido"</string>
+    <string name="bh_no_sim_inserted">"O cartão SIM não está inserido"</string>
     <string name="bh_none">Nenhum</string>
     <string name="bh_not_contact">"Este número não está em seus contatos"</string>
     <string name="bh_notice">Atenção!</string>
     <string name="bh_online_service">Suporte online</string>
     <string name="bh_open_carrier_services_short">Serviços de operadora Mi</string>
     <string name="bh_open_carrier_services_short_reason">Ative os Serviços de operadora Mi para poder usar esse recurso.</string>
-    <string name="bh_option_agree_dec">Permita que os Serviços da Operadora Mi se conecte à internet e conceda as permissões necessárias antes de usar o app.</string>
+    <string name="bh_option_agree_dec">Permita que os Serviços da operadora Mi se conecte à internet e conceda as permissões necessárias antes de usar o app.</string>
     <string name="bh_order_detail">Detalhes do pedido</string>
     <string name="bh_order_id">ID do pedido</string>
     <string name="bh_order_loading">Só um momento…</string>
@@ -179,7 +179,7 @@
     <string name="bh_pay_fail_desc">"Não foi possível conectar à rede. Volte e conclua o pagamento novamente."</string>
     <string name="bh_pay_fee">Total</string>
     <string name="bh_pay_success_desc">Seu saldo pode ser creditado com um atraso</string>
-    <string name="bh_perm_ask_read_contacts">Permita que os Serviços da Operadora Mi acesse seus contatos primeiro.</string>
+    <string name="bh_perm_ask_read_contacts">Permita que os Serviços da operadora Mi acesse seus contatos primeiro.</string>
     <string name="bh_perm_desc_read_contacts">Para exibir contatos durante a recarga</string>
     <string name="bh_permission_contact">Acessar contatos</string>
     <string name="bh_permission_contact_desc">Para completar o saldo de seus contatos</string>
@@ -216,10 +216,10 @@
     <string name="bh_stop_carrier_services_short">Desativar os Serviços de operadora Mi</string>
     <string name="bh_stop_result">"Você não poderá gerenciar seu plano de operadora ou comprar dados e minutos de chamada se desativar os Serviços de operadora Mi. Desativar mesmo assim?"</string>
     <string name="bh_system_recommend">Recomendações do sistema</string>
-    <string name="bh_system_recommend_des">Quando as recomendações personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios de quando o recurso estava ativo, mas esses anúncios não serão tão relevantes para você.</string>
+    <string name="bh_system_recommend_des">"Quando as recomendações personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios de quando o recurso estava ativo, mas esses anúncios não serão tão relevantes para você."</string>
     <string name="bh_tag">*%1$s</string>
     <string name="bh_tag_phones">Números de telefones usados com frequência</string>
-    <string name="bh_tags_number_exceed">Não é possível salvar mais números</string>
+    <string name="bh_tags_number_exceed">"Não é possível salvar mais números"</string>
     <string name="bh_tb">"TB"</string>
     <string name="bh_text_buy_time">Pedido criado</string>
     <string name="bh_text_charge_name">Valor</string>
@@ -338,7 +338,7 @@
     <string name="calllog_record_none_toast">Nenhuma gravação de chamadas para mostrar</string>
     <string name="calllog_record_searching_toast">Pesquisando gravações de chamadas…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">"%1$d min e %2$d s"</string>
-    <string name="callrecordview_item_op_time_missed">Não atendida</string>
+    <string name="callrecordview_item_op_time_missed">"Não atendida"</string>
     <string name="callrecordview_item_op_time_only_minutes">"%d min"</string>
     <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
     <string name="callrecordview_item_op_time_rejected">Rejeitada</string>
@@ -378,7 +378,7 @@
     <string name="cancel_import_confirmation_message">Cancelar a importação de %s?</string>
     <string name="cancel_import_dialog_message">Parar a importação dos contatos?</string>
     <string name="cancel_import_dialog_title">Parar</string>
-    <string name="cancel_vcard_import_or_export_failed">Não foi possível cancelar a importação/exportação do vCard</string>
+    <string name="cancel_vcard_import_or_export_failed">"Não foi possível cancelar a importação/exportação do vCard"</string>
     <string name="chat">Bater papo</string>
     <string name="chat_aim">Bater papo usando o AIM</string>
     <string name="chat_gtalk">Bater papo usando o Hangouts</string>
@@ -399,18 +399,18 @@
     <string name="cloud_antispam_marked">Reportado</string>
     <string name="cloud_state_disabled">Sincronizar contatos com a MiCloud</string>
     <string name="cloud_state_loading">Aguarde…</string>
-    <string name="cloud_upgrade_recommend">Não é possível sincronizar os contatos porque não há espaço suficiente no armazenamento da nuvem. Faça upgrade do plano de armazenamento da nuvem.</string>
+    <string name="cloud_upgrade_recommend">"Não é possível sincronizar os contatos porque não há espaço suficiente no armazenamento da nuvem. Faça upgrade do plano de armazenamento da nuvem."</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
     <string name="comma">Vírgula</string>
-    <string name="composer_failed_to_get_database_infomation">Não foi possível obter as informações do banco de dados.</string>
+    <string name="composer_failed_to_get_database_infomation">"Não foi possível obter as informações do banco de dados."</string>
     <string name="composer_has_no_exportable_contact">Não existem contatos exportáveis. Caso tenha contatos no seu dispositivo, alguns provedores de dados podem não permitir que os contatos sejam exportados do dispositivo.</string>
-    <string name="composer_not_initialized">O editor de vCards não iniciou corretamente.</string>
-    <string name="conference_call_disable_tip">Não é possível fazer chamadas. Certifique-se de que o dispositivo está conectado a uma rede 4G com suporte a VoLTE.</string>
+    <string name="composer_not_initialized">"O editor de vCards não iniciou corretamente."</string>
+    <string name="conference_call_disable_tip">"Não é possível fazer chamadas. Certifique-se de que o dispositivo está conectado a uma rede 4G com suporte a VoLTE."</string>
     <string name="confirm_call_log_dial_summary">Uma confirmação será exigida antes da discagem do histórico de chamadas para evitar ligações acidentais.</string>
     <string name="confirm_call_log_dial_title">Confirmar ligações do histórico de chamadas</string>
-    <string name="confirm_delete_contact_all_call_logs">Excluir o histórico de %s?</string>
+    <string name="confirm_delete_contact_all_call_logs">"Excluir o histórico de %s?"</string>
     <string name="confirm_delete_selected_all_call_logs">Excluir registro de chamadas?</string>
     <string name="confirm_delete_sim_entry_miui_title">Excluir</string>
     <string name="confirm_export_message">Sua lista de contatos será exportada para o arquivo: %s.</string>
@@ -444,7 +444,7 @@
     <string name="contact_import_methods_dialog_mi_mover">Importar usando o Mi Mover</string>
     <string name="contact_import_methods_dialog_title">Selecionar método de importação</string>
     <string name="contact_is_deleted">Este contato foi excluído</string>
-    <string name="contact_is_readOnly">Não é possível editar contatos somente leitura</string>
+    <string name="contact_is_readOnly">"Não é possível editar contatos somente leitura"</string>
     <string name="contact_pick_photo">Foto</string>
     <string name="contact_search_history">Histórico</string>
     <string name="contact_status_update_attribution">"via %1$s"</string>
@@ -460,7 +460,7 @@
     <string name="contacts_trash_activity_title">Contatos excluídos recentemente</string>
     <string name="contacts_trash_delete">Excluir</string>
     <string name="contacts_trash_delete_dialog_continue">Excluir</string>
-    <string name="contacts_trash_delete_dialog_hint">Não será possível reverter</string>
+    <string name="contacts_trash_delete_dialog_hint">"Não será possível reverter"</string>
     <string name="contacts_trash_delete_dialog_loading">Excluindo…</string>
     <string name="contacts_trash_delete_dialog_title">Excluir contatos selecionados?</string>
     <string name="contacts_trash_restore">Restaurar</string>
@@ -474,9 +474,9 @@
     <string name="copy_number">Copiar</string>
     <string name="copy_text">Copiar para área de transferência</string>
     <string name="create_group_dialog_title">Criar novo grupo</string>
-    <string name="create_qrcode_fail_message">Não é possível criar o código QR</string>
-    <string name="cta_content_seg1"><Data>"&lt;strong&gt;Informação importante
-Ao tocar em \"Aceitar\" abaixo, você está aceitando o &lt;font color=#33aaff&gt;&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&gt;Contrato de Serviço da Conta Mi&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&gt;Contrato do Usuário do Mi Roaming&lt;/a&gt;&lt;/font&gt;, e a &lt;font color=#33aaff&gt;&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt;. Leia estes documentos cuidadosamente e entenda todos os termos e condições relacionados antes de aceitar.&lt;/strong&gt;"</Data></string>
+    <string name="create_qrcode_fail_message">"Não é possível criar o código QR"</string>
+    <string name="cta_content_seg1"><Data>"&lt;strong>Informação importante
+Ao tocar em \"Aceitar\" abaixo, você está aceitando o &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Contrato de Serviço da Conta Mi&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Contrato do Usuário do Mi Roaming&lt;/a>&lt;/font>, e a &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade&lt;/a>&lt;/font>. Leia estes documentos cuidadosamente e entenda todos os termos e condições relacionados antes de aceitar.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
 O Mi Roaming precisa se conectar à internet e acessar suas informações de localização para funcionar normalmente. Além disso, Mi Roaming pode coletar, usar e compartilhar suas informações pessoais. Suas informações pessoais serão protegidas de acordo com as leis e regulamentos locais."</string>
     <string name="cta_dialog_cancel">Sair</string>
@@ -499,7 +499,7 @@ O Mi Roaming precisa se conectar à internet e acessar suas informações de loc
     <string name="delete_conference_call_log_title">Excluir registros de conferência telefônica</string>
     <string name="delete_duplicate">Mesclar</string>
     <string name="delete_duplicate_message">"Unindo contatos… "</string>
-    <string name="delete_group_dialog_message">Excluir o grupo \"%1$s\"? Os contatos não serão excluídos.</string>
+    <string name="delete_group_dialog_message">"Excluir o grupo \"%1$s\"? Os contatos não serão excluídos."</string>
     <string name="delete_group_dialog_title">Excluir grupo</string>
     <string name="delete_selected_sim_entry_miui">Excluir contatos selecionados</string>
     <string name="delete_sim_entries_finish">Contatos no cartão SIM excluídos</string>
@@ -628,19 +628,19 @@ O Mi Roaming precisa se conectar à internet e acessar suas informações de loc
     <string name="export_to_sim_title">Exportando…</string>
     <string name="exporting_contact_failed_message">"Os dados de contato não foram exportados.
 Motivo: \"%s\""</string>
-    <string name="exporting_contact_failed_title">Não foi possível exportar</string>
+    <string name="exporting_contact_failed_title">"Não foi possível exportar"</string>
     <string name="exporting_contact_list_message">Exportando para %s</string>
     <string name="exporting_contact_list_title">Exportando dados do contato</string>
     <string name="exporting_vcard_canceled_title">Exportação de %s cancelada.</string>
     <string name="exporting_vcard_finished_title">Exportação de %s concluída.</string>
     <string name="external_profile_title">Meu perfil %1$s</string>
-    <string name="fail_reason_could_not_initialize_exporter">Não foi possível iniciar a exportação: %s</string>
+    <string name="fail_reason_could_not_initialize_exporter">"Não foi possível iniciar a exportação: %s"</string>
     <string name="fail_reason_could_not_open_file">Não foi possível abrir \"%1$s\": %2$s</string>
     <string name="fail_reason_error_occurred_during_export">Ocorreu um erro durante a exportação: %s</string>
     <string name="fail_reason_io_error">Erro de E/S</string>
     <string name="fail_reason_low_memory_during_import">Não há memória suficiente. O arquivo pode ser muito grande.</string>
     <string name="fail_reason_no_exportable_contact">Nenhum contato exportável encontrado.</string>
-    <string name="fail_reason_not_supported">O formato não é suportado.</string>
+    <string name="fail_reason_not_supported">"O formato não é suportado."</string>
     <string name="fail_reason_too_long_filename">O nome do arquivo é longo demais (\"%s\").</string>
     <string name="fail_reason_too_many_vcard">Muitos arquivos vCard estão no armazenamento.</string>
     <string name="fail_reason_unknown">Erro desconhecido.</string>
@@ -694,8 +694,8 @@ Motivo: \"%s\""</string>
     <string name="gallery">Galeria</string>
     <string name="ghostData_company">Empresa</string>
     <string name="ghostData_title">Cargo</string>
-    <string name="group_add_fail_toast">Não foi possível adicionar destinatários</string>
-    <string name="group_create_fail_toast">Não foi possível criar o grupo</string>
+    <string name="group_add_fail_toast">"Não foi possível adicionar destinatários"</string>
+    <string name="group_create_fail_toast">"Não foi possível criar o grupo"</string>
     <string name="group_create_success_toast">Grupo criado</string>
     <string name="group_delete_success_toast">Grupo excluído</string>
     <string name="group_detail_label_placeholder"> </string>
@@ -704,7 +704,7 @@ Motivo: \"%s\""</string>
     <string name="group_member_remove_success_toast">Removido do grupo</string>
     <string name="group_name">Meus grupos</string>
     <string name="group_rename_dialog_title">Renomear grupo</string>
-    <string name="group_rename_fail_toast">Não foi possível renomear o grupo</string>
+    <string name="group_rename_fail_toast">"Não foi possível renomear o grupo"</string>
     <string name="group_rename_success_toast">Grupo renomeado</string>
     <string name="group_sms_error_message">O SMS não pode ter mais de %s destinatários.</string>
     <string name="group_sms_progress_msg">Agrupando…</string>
@@ -714,15 +714,15 @@ Motivo: \"%s\""</string>
     <string name="heduohao_fuhao_order">Sub %d</string>
     <string name="heduohao_main_call_menu_title">Discar no principal</string>
     <string name="heduohao_popup_txt">Sub %d</string>
-    <string name="hide_app_description_content">Contatos é um app do sistema. Você ainda poderá usá-lo através do app Telefone ao remover o seu atalho da Tela inicial.</string>
+    <string name="hide_app_description_content">"Contatos é um app do sistema. Você ainda poderá usá-lo através do app Telefone ao remover o seu atalho da Tela inicial."</string>
     <string name="hide_app_description_title">Remover \"Contatos\" da Tela inicial?</string>
     <string name="hint_distance">Mantenha os dois dispositivos próximos um do outro durante o processo de importação para garantir que eles permaneçam conectados.</string>
     <string name="hint_findContacts">Localizar contatos</string>
     <string name="hint_more_contact">Se a importação criar contatos duplicados, use o recurso \"Mesclar contatos duplicados\".</string>
     <string name="hybrid_check_network">Configurações de rede</string>
     <string name="hybrid_data_error">Ocorreu um erro</string>
-    <string name="hybrid_locating_fail">Não foi possível obter sua localização</string>
-    <string name="hybrid_network_unavaliable">Não é possível conectar-se à rede</string>
+    <string name="hybrid_locating_fail">"Não foi possível obter sua localização"</string>
+    <string name="hybrid_network_unavaliable">"Não é possível conectar-se à rede"</string>
     <string name="hybrid_service_unavailiable">Serviço indisponível</string>
     <string name="hybrid_try_again">Tente novamente</string>
     <string name="hybrid_webpage_not_available">Página web indisponível</string>
@@ -758,15 +758,15 @@ Motivo: \"%s\""</string>
     <string name="importing_vcard_description">Importando %s</string>
     <string name="importing_vcard_finished_title">Importação do vCard %s concluída</string>
     <string name="insertContactDescription">Criar contato</string>
-    <string name="invalidContactMessage">O contato não existe</string>
+    <string name="invalidContactMessage">"O contato não existe"</string>
     <string name="invisible_mode_dialog_cancel">Cancelar</string>
     <string name="invisible_mode_dialog_to_close">Desativar</string>
     <string name="invisible_mode_title">"Você está anônimo"</string>
     <string name="invisible_mode_unable_connect_camera">Desative o Modo anônimo para poder usar a câmera. Desativar agora?</string>
     <string name="invisible_mode_unable_get_location">Desative o Modo anônimo para poder usar os serviços de localização e importar contatos de outros dispositivos via Bluetooth. Desativar agora?</string>
     <string name="item_offical">Oficial</string>
-    <string name="keep_local">Não sincronizar</string>
-    <string name="keep_local_btn">Usar armazenamento interno do dispositivo</string>
+    <string name="keep_local">"Não sincronizar"</string>
+    <string name="keep_local_btn">"Usar armazenamento interno do dispositivo"</string>
     <string name="know">Entendi</string>
     <string name="label_custom_type">Personalizado</string>
     <string name="label_no_duplicate_contacts">Nenhum contato duplicado</string>
@@ -788,7 +788,7 @@ Motivo: \"%s\""</string>
     <string name="local_profile_title">Meu perfil</string>
     <string name="local_search_label">Todos os contatos</string>
     <string name="locale_change_in_progress">A lista de contatos está sendo atualizada para incorporar a alteração do idioma.</string>
-    <string name="low_memory_toast">Não é possível usar este recurso devido à falta de memória.</string>
+    <string name="low_memory_toast">"Não é possível usar este recurso devido à falta de memória."</string>
     <string name="lunarBirthdayLabelsGroup">Aniversário lunar</string>
     <string name="make_primary">Lembrar desta escolha</string>
     <string name="manage_external_storage_dialog_message">Permitir que este app acesse todos os arquivos para gerenciar gravações de chamadas.</string>
@@ -832,7 +832,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_name">Meu perfil</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_notice_close">Fechar</string>
-    <string name="miprofile_switch_off_alertdialog_message">Você não será capaz de trocar cartões de contato com outras pessoas.</string>
+    <string name="miprofile_switch_off_alertdialog_message">"Você não será capaz de trocar cartões de contato com outras pessoas."</string>
     <string name="missing_name">(Sem nome)</string>
     <string name="missing_required_permission">Você desativou uma permissão requerida.</string>
     <string name="miuix_access_state_desc">Selecionado</string>
@@ -865,10 +865,10 @@ Motivo: \"%s\""</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="mobile_equipment_identification">Identificação do dispositivo</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
@@ -945,16 +945,16 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="night">"PM"</string>
     <string name="noAccounts">Para criar grupos você precisa de uma conta.</string>
     <string name="no_contact_selected">Selecione um contato para ver os detalhes</string>
-    <string name="no_contacts_dialog_message">Os contatos podem estar armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do dispositivo e tente novamente.</string>
-    <string name="no_contacts_dialog_title">Não é possível encontrar contatos</string>
-    <string name="no_phone_no_shortcut">Não é possível criar atalhos para contatos sem números de telefone</string>
+    <string name="no_contacts_dialog_message">"Os contatos podem estar armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do dispositivo e tente novamente."</string>
+    <string name="no_contacts_dialog_title">"Não é possível encontrar contatos"</string>
+    <string name="no_phone_no_shortcut">"Não é possível criar atalhos para contatos sem números de telefone"</string>
     <string name="no_sdcard_message">Cartão SD não encontrado.</string>
     <string name="no_setting_menu">Nenhuma opção de menu disponível</string>
     <string name="non_phone_add_to_contacts">Adicionar a um contato existente</string>
     <string name="non_phone_caption">Número de telefone</string>
     <string name="non_phone_close">Fechar</string>
     <string name="noon">"PM"</string>
-    <string name="not_applied">Não foi possível aplicar</string>
+    <string name="not_applied">"Não foi possível aplicar"</string>
     <string name="not_set">Não definido</string>
     <string name="notification_click_detail">Toque para ver detalhes</string>
     <string name="notification_micloudsync_delete_contact">A MiCloud deseja excluir alguns dos seus contatos</string>
@@ -1143,7 +1143,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="passport_wrong_phone_number_format">O formato do número do telefone inserido é inválido</string>
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_wrong_voice">O código inserido está incorreto</string>
-    <string name="pay_fail">Não foi possível concluir o pagamento</string>
+    <string name="pay_fail">"Não foi possível concluir o pagamento"</string>
     <string name="pay_success">Pagamento concluído com sucesso</string>
     <string name="payphone">Telefone público</string>
     <string name="people">Contatos</string>
@@ -1229,7 +1229,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="preference_privacy_settings_title">Privacidade</string>
     <string name="preference_remove_duplicate">Mesclar contatos duplicados</string>
     <string name="preference_show_firewall_calllog">Mostrar chamadas bloqueadas no histórico</string>
-    <string name="preference_show_yellowpage_tab_description">As Páginas amarelas e seus serviços não serão exibidos se você desativar esse recurso.</string>
+    <string name="preference_show_yellowpage_tab_description">"As Páginas amarelas e seus serviços não serão exibidos se você desativar esse recurso."</string>
     <string name="preference_show_yellowpage_tab_title">Mostrar Páginas amarelas</string>
     <string name="preference_simple_mode_title">Mostrar fotos e informações</string>
     <string name="preference_smart_group_company_summary">Agrupa contatos por empresa</string>
@@ -1302,10 +1302,10 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="quick_dial_setting_set_dialog_option_set">Sim</string>
     <string name="quick_dial_setting_title">Discagem rápida</string>
     <string name="quickcontact_missing_app">Nenhum app foi encontrado para executar essa ação</string>
-    <string name="quit_dialog_confirm_message">Você não mesclou nenhum contato</string>
+    <string name="quit_dialog_confirm_message">"Você não mesclou nenhum contato"</string>
     <string name="quit_dialog_confirm_title">Cancelar mesclagem de contatos</string>
     <string name="readingSimContacts">Lendo o cartão SIM…</string>
-    <string name="reading_vcard_failed_title">Não foi possível ler os dados do vCard</string>
+    <string name="reading_vcard_failed_title">"Não foi possível ler os dados do vCard"</string>
     <string name="rebuild_t9_index_dialog_message">Recriando…</string>
     <string name="recentCallsIconLabel">Registro de chamadas</string>
     <string name="recent_contacts_label">Recentes</string>
@@ -1371,8 +1371,8 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="select_vcard_title">Escolher arquivo vCard</string>
     <string name="send">Enviar</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Este atalho já existe</string>
-    <string name="send_contact_shortcut_todesktop_failed">Não foi possível colocar o atalho na Tela inicial</string>
-    <string name="send_contact_shortcut_todesktop_overflow">Não é possível colocar mais atalhos na Tela inicial</string>
+    <string name="send_contact_shortcut_todesktop_failed">"Não foi possível colocar o atalho na Tela inicial"</string>
+    <string name="send_contact_shortcut_todesktop_overflow">"Não é possível colocar mais atalhos na Tela inicial"</string>
     <string name="send_contact_shortcut_todesktop_success">Adicionado à Tela inicial</string>
     <string name="separatorJoinAggregateAll">Todos os contatos</string>
     <string name="separatorJoinAggregateSuggestions">Contatos sugeridos</string>
@@ -1381,8 +1381,8 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="set_default">Definir padrão</string>
     <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Compartilhar contato como</string>
-    <string name="share_error">Este contato não pode ser compartilhado.</string>
-    <string name="share_over_limit">Não é possível compartilhar mais de %d contatos</string>
+    <string name="share_error">"Este contato não pode ser compartilhado."</string>
+    <string name="share_over_limit">"Não é possível compartilhar mais de %d contatos"</string>
     <string name="share_qrcode">Compartilhar código QR</string>
     <string name="share_via">Enviar usando</string>
     <string name="share_visible_contacts">Compartilhar contatos</string>
@@ -1417,7 +1417,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="sim_export_loading">Lendo cartão SIM…</string>
     <string name="sim_indexed_contact_not_exist">A posição %1$d no cartão SIM é inválida. Ela deveria estar entre %2$d e %3$d.</string>
     <string name="sim_no_contact">Nenhum contato no cartão SIM</string>
-    <string name="sim_unloaded">O cartão SIM não está instalado</string>
+    <string name="sim_unloaded">"O cartão SIM não está instalado"</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nenhum membro no grupo</string>
     <string name="smart_group_company_label">Empresas</string>
@@ -1477,7 +1477,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
-    <string name="special_code_security_exception">Não foi possível concluir a ação. Este não é o seu discador padrão.</string>
+    <string name="special_code_security_exception">"Não foi possível concluir a ação. Este não é o seu discador padrão."</string>
     <string name="splitConfirmation_title">Separar contato?</string>
     <string name="starredList">Com estrela</string>
     <string name="starred_contacts">Favoritos</string>
@@ -1557,7 +1557,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="toast_displaying_all_contacts">Exibindo todos os contatos</string>
     <string name="toast_finish_delete_call_log">Limpo com sucesso</string>
     <string name="toast_finish_delete_selected_call_log">Limpo com sucesso</string>
-    <string name="toast_for_failed_saving_nickname">Não foi possível salvar o apelido</string>
+    <string name="toast_for_failed_saving_nickname">"Não foi possível salvar o apelido"</string>
     <string name="toast_for_saving_nickname">Apelido salvo</string>
     <string name="toast_join_with_empty_contact">Insira o nome de contato antes de uní-lo a outro</string>
     <string name="toast_not_show_blue_scan_connect_perm_req">Permita que este recurso se conecte a dispositivos próximos via Bluetooth para poder importar contatos de outros dispositivos.</string>
@@ -1570,7 +1570,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="toast_not_show_storage_perm_req_for_pad">Para poder adicionar fotos de perfil e importar vCards, primeiro permita que este app acesse o armazenamento.</string>
     <string name="toast_not_show_write_calllogs_perm_req">Para ser capaz de manter o histórico de chamadas atualizado, primeiro permita que este app edite o histórico de chamadas.</string>
     <string name="toast_not_show_write_contacts_perm_req">Para poder ver os contatos, primeiro permita que este app edite os contatos.</string>
-    <string name="toast_start_intent_failed">Não foi possível encontrar um app para executar esta ação</string>
+    <string name="toast_start_intent_failed">"Não foi possível encontrar um app para executar esta ação"</string>
     <string name="toast_text_copied">Texto copiado</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
@@ -1581,26 +1581,26 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="type_mx_msg">Mi Mensagens</string>
     <string name="unable_get_device_id">Não foi possível obter o IMEI</string>
     <string name="undefined">Não definido</string>
-    <string name="unknow_phone_number_call_failed">Não é possível ligar para números desconhecidos</string>
-    <string name="unknow_phone_number_mms_failed">Não é possível enviar mensagens para números desconhecidos</string>
+    <string name="unknow_phone_number_call_failed">"Não é possível ligar para números desconhecidos"</string>
+    <string name="unknow_phone_number_mms_failed">"Não é possível enviar mensagens para números desconhecidos"</string>
     <string name="unknown">Desconhecido</string>
     <string name="unknown_contact_name">Contato desconhecido</string>
     <string name="unknown_details_add_to_contact">Existente</string>
     <string name="unknown_details_new_contact">Novo</string>
     <string name="unshow_qr_code_in_narrow_screen_split">"Não é possível mostrar códigos QR ao usar a tela dividida"</string>
-    <string name="update_sim_contact_photo_toast">Não é possível definir uma foto de perfil para contatos no SIM</string>
+    <string name="update_sim_contact_photo_toast">"Não é possível definir uma foto de perfil para contatos no SIM"</string>
     <string name="upgrade_in_progress">A lista de contatos está sendo atualizada.</string>
     <string name="upgrade_out_of_memory">"Os contatos estão sendo atualizados no momento. 
 
 O processo de atualização requer aproximadamente %s MB de armazenamento interno.
 
 Selecione uma das seguintes opções:"</string>
-    <string name="use_photo_as_primary2">Usar a foto de contato de %1$s</string>
+    <string name="use_photo_as_primary2">"Usar a foto de contato de %1$s"</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="vcard_export_request_rejected_message">O pedido de exportação do vCard foi rejeitado. Tente novamente mais tarde.</string>
     <string name="vcard_export_will_start_message">%s será exportado em breve.</string>
-    <string name="vcard_import_failed">Não foi possível importar o vCard %s.</string>
+    <string name="vcard_import_failed">"Não foi possível importar o vCard %s."</string>
     <string name="vcard_import_request_rejected_message">O pedido de importação do vCard foi rejeitado. Tente novamente mais tarde.</string>
     <string name="vcard_import_will_start_message_with_default_name">O arquivo será importado em breve.</string>
     <string name="vcard_unknown_filename">contato</string>
@@ -1613,11 +1613,11 @@ Selecione uma das seguintes opções:"</string>
     <string name="voicemail">Correio de voz</string>
     <string name="websiteLabelsGroup">Website</string>
     <string name="webview_btn_retry">Tentar novamente</string>
-    <string name="webview_network_failure">Não foi possível conectar à rede</string>
+    <string name="webview_network_failure">"Não foi possível conectar à rede"</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="wifi_pad_disable_phone">Não é possível fazer chamadas neste dispositivo</string>
+    <string name="wifi_pad_disable_phone">"Não é possível fazer chamadas neste dispositivo"</string>
     <string name="wipe_data">Limpar dados</string>
     <string name="yellowPageNavigationLabel">Páginas amarelas</string>
     <string name="yellowpage_address_tag">Endereço</string>

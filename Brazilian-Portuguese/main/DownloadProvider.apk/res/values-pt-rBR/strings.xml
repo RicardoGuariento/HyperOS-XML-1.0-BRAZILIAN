@@ -67,7 +67,7 @@
     <string name="dialog_insufficient_space_on_cache">Espaço insuficiente no armazenamento interno</string>
     <string name="dialog_insufficient_space_on_external">Espaço insuficiente no armazenamento externo</string>
     <string name="dialog_msg_disabled_net">%1$s downloads restritos para a rede atual. Toque nas Configurações de rede para acessar o app Segurança.</string>
-    <string name="dialog_not_show_again">Não mostrar novamente</string>
+    <string name="dialog_not_show_again">"Não mostrar novamente"</string>
     <string name="dialog_tip_limit">Avisar quando for maior que %s</string>
     <string name="dialog_tip_limit0">Avisar sempre</string>
     <string name="dialog_tip_no_limit">Não avisar</string>
@@ -88,6 +88,7 @@
     <string name="download_queued">Em espera</string>
     <string name="download_remaining">%s restantes</string>
     <string name="download_running">Em andamento</string>
+    <string name="download_running_percent">Em andamento, %d%%</string>
     <string name="download_status_continue">Retomar</string>
     <string name="download_status_fail">Tente novamente</string>
     <string name="download_status_paused">Pausar</string>
@@ -167,10 +168,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="mobile_recommended_title">Uso de dados móveis</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
@@ -238,10 +239,10 @@
     <string name="paused_waiting_for_network">Aguardando rede</string>
     <string name="paused_waiting_to_retry">Aguardando para tentar novamente</string>
     <string name="permdesc_accessAllDownloads">Permite que o app veja e modifique todos os downloads iniciados por qualquer app.</string>
-    <string name="permdesc_downloadCacheNonPurgeable">Permite que o app faça o download de arquivos para o cache de downloads, que não podem ser excluídos automaticamente quando o gerenciador de downloads precisar de mais espaço.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Permite que o app faça o download de arquivos para o cache de downloads, que não podem ser excluídos automaticamente quando o gerenciador de downloads precisar de mais espaço."</string>
     <string name="permdesc_downloadCompletedIntent">Permite que o app envie notificações sobre downloads concluídos. Apps maliciosos podem usar este envio para confundir outros apps que fazem download de arquivos.</string>
     <string name="permdesc_downloadManager">Permite que o app acesse o Gerenciador de downloads e use-o para baixar arquivos. Apps maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais.</string>
-    <string name="permdesc_downloadManagerAdvanced">Permite que o app acesse recursos avançados do Gerenciador de downloads e use-o para baixar arquivos. Apps maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais.</string>
+    <string name="permdesc_downloadManagerAdvanced">"Permite que o app acesse recursos avançados do Gerenciador de downloads e use-o para baixar arquivos. Apps maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais."</string>
     <string name="permdesc_downloadWithoutNotification">Permite que o app faça download de arquivos sem notificações exibidas ao usuário.</string>
     <string name="permdesc_seeAllExternal">Permite que o app veja todos os downloads do cartão SD, independentemente de sua origem.</string>
     <string name="permlab_accessAllDownloads">Acesso a todos os downloads do sistema</string>
@@ -345,6 +346,8 @@ para usar todos os recursos"</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="toast_net_error">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
     <string name="today">Hoje</string>
     <string name="today_download">Baixado hoje</string>
@@ -355,7 +358,7 @@ para usar todos os recursos"</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="warning_tip_cancel">Baixar</string>
-    <string name="warning_tip_content">Não há conexão Wi-Fi. Se usar a sua conexão de dados móveis para terminar este download, irá aumentar o consumo de dados móveis. Taxas adicionais poderão ser cobradas.</string>
+    <string name="warning_tip_content">"Não há conexão Wi-Fi. Se usar a sua conexão de dados móveis para terminar este download, irá aumentar o consumo de dados móveis. Taxas adicionais poderão ser cobradas."</string>
     <string name="warning_tip_ok">Pausar</string>
     <string name="warning_tip_title">Aviso de uso de dados</string>
     <string name="wednesday">Quarta</string>
@@ -369,7 +372,7 @@ Toque %2$s para iniciar este download na próxima vez que estiver conectado ao W
 
 Toque %2$s to para iniciar este download na próxima vez que estiver conectado ao Wi-Fi."</string>
     <string name="wifi_required_title">Arquivo muito grande para baixar através de dados móveis</string>
-    <string name="xl_speedup_experience_notify_context">A velocidade dos downloads será otimizada se for membro Xunlei</string>
+    <string name="xl_speedup_experience_notify_context">"A velocidade dos downloads será otimizada se for membro Xunlei"</string>
     <string name="xl_speedup_experience_notify_title">Membro Xunlei</string>
     <string name="xl_speedup_notify_button_experience">Testar gratuitamente</string>
     <string name="xl_speedup_notify_button_member">Tornar-se membro</string>

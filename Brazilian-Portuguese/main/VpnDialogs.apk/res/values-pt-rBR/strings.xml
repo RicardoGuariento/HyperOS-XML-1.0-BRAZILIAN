@@ -29,11 +29,11 @@
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
-    <string name="always_on_disconnected_message">%1$s está configurada para permanecer conectada o tempo todo, mas não é possível conectá-la no momento. Seu dispositivo usará uma rede pública até que possa se reconectar a %1$s.</string>
-    <string name="always_on_disconnected_message_lockdown">%1$s está definida para permanecer conectada o tempo todo, mas não é possível conectá-la no momento. Você não terá uma conexão até que a VPN possa se reconectar.</string>
+    <string name="always_on_disconnected_message">"%1$s está configurada para permanecer conectada o tempo todo, mas não é possível conectá-la no momento. Seu dispositivo usará uma rede pública até que possa se reconectar a %1$s."</string>
+    <string name="always_on_disconnected_message_lockdown">"%1$s está definida para permanecer conectada o tempo todo, mas não é possível conectá-la no momento. Você não terá uma conexão até que a VPN possa se reconectar."</string>
     <string name="always_on_disconnected_message_separator">" "</string>
     <string name="always_on_disconnected_message_settings_link">Alterar configurações de VPN</string>
-    <string name="always_on_disconnected_title">Não é possível se conectar à VPN sempre ativa</string>
+    <string name="always_on_disconnected_title">"Não é possível se conectar à VPN sempre ativa"</string>
     <string name="am">"AM"</string>
     <string name="app_name">HyperOS VPN</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
@@ -115,10 +115,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -166,6 +166,8 @@
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="prompt">Solicitação de conexão</string>
+    <string name="sanitized_vpn_label">%1$s (%2$s)</string>
+    <string name="sanitized_vpn_label_with_ellipsis">%1$s… (%2$s)</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -244,8 +246,8 @@
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>
@@ -253,7 +255,7 @@
     <string name="tuesday_shortest">Ter</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
-    <string name="warning">%s quer configurar uma conexão VPN que permite monitorar o tráfego da rede. Aceite somente se confiar na origem. &lt;br /> &lt;br /> O ícone &lt;img src=vpn_icon /> é exibido na parte superior da tela quando a rede VPN estiver ativa.</string>
+    <string name="warning">%s quer configurar uma conexão VPN que permite monitorar o tráfego da rede. Aceite somente se confiar na origem. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> é exibido na parte superior da tela quando a rede VPN estiver ativa.</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

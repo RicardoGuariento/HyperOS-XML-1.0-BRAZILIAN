@@ -2,39 +2,32 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
-        <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
-        <item quantity="one">1 hora atrás</item>
+        <item quantity="other">%d hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em 1 hora</item>
-        <item quantity="one">Em 1 hora</item>
+        <item quantity="other">Em %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Em %d mins</item>
-        <item quantity="one">Em 1 min</item>
+        <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins atrás</item>
-        <item quantity="one">1 min atrás</item>
+        <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="actionbar_large_unread_count">
         <item quantity="other">%1$d+ não lidas</item>
@@ -126,7 +119,6 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">Ocultar %1$d anexos</item>
@@ -134,15 +126,12 @@
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
-        <item quantity="one">Em 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
@@ -150,7 +139,6 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="local_search_result">
         <item quantity="other">%s resultados nas mensagens sincronizadas</item>

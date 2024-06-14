@@ -40,12 +40,12 @@
     <string name="act_find_city_hot_city_title">Cidades populares</string>
     <string name="act_find_city_location_button_text">Obtenha a localização atual</string>
     <string name="act_find_city_location_title">Localização atual</string>
-    <string name="act_location_error_to_find_city">Não foi possível obter as informações de localização. Você pode adicionar uma localização manualmente.</string>
+    <string name="act_location_error_to_find_city">"Não foi possível obter as informações de localização. Você pode adicionar uma localização manualmente."</string>
     <string name="act_set_city_find_side">Localizando</string>
-    <string name="act_set_city_find_side_error">Não é possível localizar o dispositivo</string>
+    <string name="act_set_city_find_side_error">"Não é possível localizar o dispositivo"</string>
     <string name="act_weather_find_city_added">Adicionada</string>
     <string name="act_weather_find_city_click_retry">Repetir</string>
-    <string name="act_weather_find_city_net_no_good">Não é possível conectar-se à rede.</string>
+    <string name="act_weather_find_city_net_no_good">"Não é possível conectar-se à rede."</string>
     <string name="act_weather_find_city_no_result">Nenhum resultado</string>
     <string name="act_weather_find_city_searching">Pesquisando…</string>
     <string name="actionbar_button_up_description">Voltar</string>
@@ -59,7 +59,7 @@
     <string name="activity_find_city_location_fail_dialog_negative_btn_tag">Cancelar</string>
     <string name="activity_find_city_location_fail_dialog_positive_btn_tag">Configurações</string>
     <string name="activity_find_city_location_fail_dialog_title">Permissões necessárias</string>
-    <string name="activity_main_pub_time">Publicado às %1$s</string>
+    <string name="activity_main_pub_time">| Publicado às %1$s</string>
     <string name="activity_main_time_format">"E"</string>
     <string name="activity_main_update_time">Atualizado: %1$s</string>
     <string name="activity_main_update_time_expire">Dados expirados</string>
@@ -71,13 +71,13 @@
     <string name="alert_warning">Alertas de clima</string>
     <string name="alert_weather_enable_settings_summary">Receber alertas de clima oficiais</string>
     <string name="alert_weather_enable_settings_title">Alertas de clima</string>
-    <string name="already_voted_toast">Você já votou hoje</string>
+    <string name="already_voted_toast">"Você já votou hoje"</string>
     <string name="am">"AM"</string>
     <string name="app_name">Clima</string>
-    <string name="aqi_15_days_desc">IQA previsão para 15 dias</string>
-    <string name="aqi_24_hours_desc">IQA previsão para 24 horas</string>
-    <string name="aqi_48_hours_desc">IQA previsão para 48 horas</string>
-    <string name="aqi_5_days_desc">IQA previsão para 5 dias</string>
+    <string name="aqi_15_days_desc">Previsão para 15 dias</string>
+    <string name="aqi_24_hours_desc">Previsão para 24 horas</string>
+    <string name="aqi_48_hours_desc">Previsão para 48 horas</string>
+    <string name="aqi_5_days_desc">Previsão para 5 dias</string>
     <string name="aqi_alert_channel_name">Alertas sobre a qualidade do ar</string>
     <string name="aqi_data_source">Fornecido por Colorful Clouds</string>
     <string name="aqi_desc">Índice de Qualidade do Ar</string>
@@ -130,16 +130,18 @@
     <string name="button_allow">"OK"</string>
     <string name="button_confirm">Aceitar</string>
     <string name="button_confirm_to_revoke_permission">Retirar</string>
-    <string name="button_exit">Não aceitar</string>
+    <string name="button_exit">"Não aceitar"</string>
     <string name="button_not_allow">Cancelar</string>
     <string name="button_revoke_permission_fail">Entendi</string>
     <string name="button_settings_cancel">Cancelar</string>
     <string name="button_settings_confirm">Retirar</string>
-    <string name="button_settings_confirm_to_revoke_msg">Ao desativar o seletor, você retira seu consentimento para a Política de Privacidade do app Clima. Nós deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, conforme exigido pelas leis aplicáveis. O app Clima precisa coletar as informações pessoais necessárias para fornecer-lhe serviços básicos. Sua retirada de consentimento de sua Política de Privacidade será considerada como recusa a aceitar seus serviços com base nas informações pessoais coletadas.</string>
+    <string name="button_settings_confirm_to_revoke_msg">Você não poderá usar o Clima após retirar o consentimento.</string>
+    <string name="button_settings_confirm_to_revoke_title">Retirar consentimento?</string>
+    <string name="button_sure_abandon">Descartar mudanças?</string>
     <string name="card_vote_item_vs">"VS"</string>
     <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
     <string name="china_version_first_start_network_msg">"Você precisa concordar com o %1$s e %2$s da Xiaomi para poder usar o Clima. O Clima precisa acessar sua localização e se conectar à internet para funcionar normalmente. Aceitar?"</string>
-    <string name="city_exceeded_warning">Não é possível adicionar mais locais. Remova um local antes de adicionar um novo.</string>
+    <string name="city_exceeded_warning">"Não é possível adicionar mais locais. Remova um local antes de adicionar um novo."</string>
     <string name="clear_net_mock_success">Simulação de rede limpa com sucesso</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
@@ -162,7 +164,7 @@
     <string name="common_open_on_phone">Abrir no smartphone</string>
     <string name="common_signin_button_text">Fazer login</string>
     <string name="common_signin_button_text_long">Fazer login com o Google</string>
-    <string name="connect_fail">Não foi possível conectar-se à rede, tente novamente.</string>
+    <string name="connect_fail">"Não foi possível conectar-se à rede, tente novamente."</string>
     <string name="content_desc_activity_main_add_city">Adicionar cidade</string>
     <string name="content_desc_activity_main_add_city_manage">Gerenciar cidades</string>
     <string name="content_desc_activity_main_more_settings">Mais configurações</string>
@@ -173,6 +175,7 @@
     <string name="content_desc_close_button">Fechar</string>
     <string name="content_desc_feedback_weather_type_choose">Selecionado: %1$s</string>
     <string name="copy">Copiar</string>
+    <string name="customer_service_hotline">Atendimento ao cliente: 400-100-5678</string>
     <string name="daily_forcast_no_stable_direction">Brisa</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
@@ -187,6 +190,8 @@
     <string name="daily_forecast_no_data">"Não foi possível obter informações do clima
 Puxe para baixo para atualizar ou verificar as configurações de rede"</string>
     <string name="data_provided_by">Dados fornecidos parcialmente por</string>
+    <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
+    <string name="data_source_timezone">GMT%1$s</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dialog_internet_error_title">Ocorreu um erro</string>
@@ -209,11 +214,11 @@ Leia e concorde com a nova versão de %2$s antes de continuar."</string>
     <string name="early_morning">"AM"</string>
     <string name="edit_city">Gerenciar cidades</string>
     <string name="empty_view_net_loading">Atualizando…</string>
-    <string name="empty_view_net_unavailable">Não foi possível conectar-se à rede</string>
+    <string name="empty_view_net_unavailable">"Não foi possível conectar-se à rede"</string>
     <string name="empty_view_refresh">Tente novamente</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
-    <string name="eu_region_version_first_start_network_msg">"Ao usar este produto, você concorda que este produto conectará a rede, coletará, processará e usará suas informações pessoais, incluindo as coordenadas das cidades que você pesquisar e outros tipos de dados especificados em nossa Política de Privacidade. Consulte nossa Política de Privacidade para saber como coletamos e processamos informações. Ao tocar em \"Aceitar\", você aceita o %1$s e %2$s da Xiaomi."</string>
+    <string name="eu_region_version_first_start_network_msg">"Ao usar este produto, você concorda que este produto conectará a rede, coletará, processará e usará suas informações pessoais, incluindo as coordenadas das cidades que você pesquisar e outros tipos de dados especificados em nossa Política de Privacidade. Consulte nossa Política de Privacidade para saber como coletamos e processamos informações. Ao tocar em \"Aceitar\", você aceita o %1$s e a %2$s da Xiaomi."</string>
     <string name="evening">"PM"</string>
     <string name="exo_controls_fastforward_description">Avanço rápido</string>
     <string name="exo_controls_fullscreen_description">Modo de tela cheia</string>
@@ -268,7 +273,7 @@ Leia e concorde com a nova versão de %2$s antes de continuar."</string>
     <string name="feedback_report_privacy_msg">Para corrigir informações do clima, seu feedback junto com suas coordenadas atuais serão compartilhados com Moji Weather (%1$s). Suas coordenadas serão usadas apenas para corrigir informações do clima.</string>
     <string name="feedback_result_fail_no_choice">Escolha as condições atuais do clima</string>
     <string name="feedback_result_fail_no_reason">Obrigado pelo seu feedback!</string>
-    <string name="feedback_result_fail_same_type">Parece que seu relatório não é diferente do clima atual. Tente novamente.</string>
+    <string name="feedback_result_fail_same_type">"Parece que seu relatório não é diferente do clima atual. Tente novamente."</string>
     <string name="feedback_result_success">Submetido com sucesso. Obrigado por seu feedback.</string>
     <string name="feedback_sandy">Arenoso</string>
     <string name="feedback_sunny">Limpo</string>
@@ -370,7 +375,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="menu_location">Localizações</string>
     <string name="menu_speaker">Transmissão de voz</string>
     <string name="midnight">"AM"</string>
-    <string name="minute_rain">Precipitação de 2 horas</string>
+    <string name="minute_rain">Precipitação para 2 horas</string>
     <string name="minute_rain_after_an_hour">Em 1 hora</string>
     <string name="minute_rain_after_two_hour">Em 2 horas</string>
     <string name="minute_rain_feedback_subtitle">Diga-nos como está o clima agora.</string>
@@ -406,10 +411,10 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -460,7 +465,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="news_tips_no_data">Sem novas informações</string>
     <string name="night">"PM"</string>
     <string name="night_not_disturb_settings_summary">Silencie alertas entre 23:00 e 07:00</string>
-    <string name="night_not_disturb_settings_title">Não perturbar à noite</string>
+    <string name="night_not_disturb_settings_title">"Não perturbar à noite"</string>
     <string name="no_data">Nenhum dado</string>
     <string name="no_internet_message">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="no_network_btn">Tente novamente</string>
@@ -468,7 +473,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="non_wifi_environment">Conecte-se ao Wi-Fi para baixar efeitos sonoros</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
-    <string name="open_browser">Abra no navegador</string>
+    <string name="open_browser">Abrir no navegador</string>
     <string name="open_now">Abrir</string>
     <string name="notif_aqi_title">A previsão de qualidade do ar de hoje em %2$s é %1$d</string>
     <string name="notif_weather_title">%1$s em %2$s hoje</string>
@@ -503,7 +508,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="privacy_grant_or_revoke_settings">Retirada de consentimento</string>
     <string name="privacy_grant_success">Autorização concedida com sucesso</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_policy_msg">&lt;Data>Este app possui os seguintes recursos:&lt;br/>• Informações de clima específicos da sua localização&lt;br/>• Previsões do tempo&lt;br/>• Alertas de clima&lt;br/>&lt;br/>O app Clima precisa coletar informações pessoais necessárias para lhe fornecer serviços básicos. Você pode saber mais sobre como tratamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e aceite nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar o app Clima. Você pode retirar o seu consentimento à Política de Privacidade do app Clima nas Configurações a qualquer momento.&lt;/Data></string>
+    <string name="privacy_policy_msg"><Data>Este app possui os seguintes recursos:&lt;br/>• Informações de clima específicos da sua localização&lt;br/>• Previsões do tempo&lt;br/>• Alertas de clima&lt;br/>&lt;br/>O app Clima precisa coletar informações pessoais necessárias para lhe fornecer serviços básicos. Você pode saber mais sobre como tratamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e aceite nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar o app Clima. Você pode retirar o seu consentimento à Política de Privacidade do app Clima nas Configurações a qualquer momento.</Data></string>
     <string name="privacy_policy_msg_for_gp">&lt;Data>Este app possui os seguires recursos:&lt;br/>• informações do clima específicas à sua localização&lt;br/>• Previsão do tempo&lt;br/>• Alertas meteorológicos&lt;br/>&lt;br/>O app Clima precisa coletar informações pessoais necessárias, incluindo dados de localização, para que estes recursos sejam disponibilizados, até mesmo quando o app estiver fechado ou fora de uso. Para entender melhor como lidamos com as informações coletadas, consulte a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de utilizar o app. Você pode retirar o seu consentimento à Política de Privacidade do app Clima nas Configurações a qualquer momento.&lt;/Data></string>
     <string name="privacy_revoke_failed">"Não foi possível retirar o consentimento. Espere um pouco e tente novamente."</string>
     <string name="privacy_revoke_success">Autorização revogada com sucesso</string>
@@ -528,7 +533,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="realtime_wind_default_title">Vento</string>
     <string name="receive_net_mock_success">Simulação de rede com sucesso</string>
     <string name="refresh_empty_data">"Não foi possível carregar os dados. Espere um pouco e tente novamente."</string>
-    <string name="refresh_fail">Não foi possível conectar-se à rede</string>
+    <string name="refresh_fail">"Não foi possível conectar-se à rede"</string>
     <string name="reminder_from_xiaomi_weather_app">Alertas do Clima</string>
     <string name="request_cta_connect_net">Permita que este app conecte-se à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="request_permission_background_location_dialog_content">Para garantir que este app sempre use informações de localização precisas, sempre permita que ele acesse sua localização.</string>
@@ -536,7 +541,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="request_permission_main_purpose">Exibir informações de clima</string>
     <string name="request_permission_storage_dialog_content">Para compartilhar as informações de clima como imagem</string>
     <string name="retry">Tente novamente</string>
-    <string name="revoke_fail">Não é possível conectar-se à rede</string>
+    <string name="revoke_fail">"Não é possível conectar-se à rede"</string>
     <string name="revoke_permission_fail_msg">Ocorreu um erro no servidor. Espere um pouco e tente novamente.</string>
     <string name="revoke_permission_fail_next_msg">Seu dispositivo precisa estar conectado à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="revoke_permission_fail_next_title">"Não foi possível conectar-se à rede"</string>
@@ -545,7 +550,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="save_to_gallery_failure_message">Não foi possível salvar na Galeria</string>
+    <string name="save_to_gallery_failure_message">"Não foi possível salvar na Galeria"</string>
     <string name="save_to_gallery_icon_name">Salvar na Galeria</string>
     <string name="save_to_gallery_success_message">Salvo na Galeria com sucesso</string>
     <string name="save_to_local_failure_message">"Não foi possível salvar"</string>
@@ -586,7 +591,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="share_subject">Compartilhar</string>
     <string name="share_weather_desc">Clima HyperOS: Hoje %1$s %2$s</string>
     <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">Não foi possível capturar a tela</string>
+    <string name="share_weather_save_pic_fail">"Não foi possível capturar a tela"</string>
     <string name="shortcut_short_label_24_hour_forecast">Previsão para 24 horas</string>
     <string name="shortcut_short_label_recent_forecast">Confira a previsão do tempo</string>
     <string name="size_byte">"B"</string>
@@ -625,14 +630,14 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="suggestion_for_daxue">Estradas podem estar bloqueadas</string>
     <string name="suggestion_for_dust">Alta poluição esperada para hoje</string>
     <string name="suggestion_for_floating_dust">A visibilidade está baixa. Use uma máscara contra poluição.</string>
-    <string name="suggestion_for_fog">Está enevoado. Viaje com cuidado!</string>
+    <string name="suggestion_for_fog">"Está enevoado. Viaje com cuidado!"</string>
     <string name="suggestion_for_freezing_rain">Vista roupas impermeáveis e quentes</string>
     <string name="suggestion_for_hail">Fique dentro de casa. As tempestades de granizo podem causar ferimentos.</string>
     <string name="suggestion_for_haze">A visibilidade está baixa. Evite sair de casa.</string>
     <string name="suggestion_for_heavy_rain">O tráfego pode ser afetado</string>
     <string name="suggestion_for_heavy_storm">Chuva e ventos podem afetar a condução</string>
     <string name="suggestion_for_light_rain">Use roupas impermeáveis</string>
-    <string name="suggestion_for_rain">Não se esqueça do seu guarda-chuva</string>
+    <string name="suggestion_for_rain">"Não se esqueça do seu guarda-chuva"</string>
     <string name="suggestion_for_sand_storm">Dirija com cuidado hoje</string>
     <string name="suggestion_for_shower">Chuva leve com ventos esperada</string>
     <string name="suggestion_for_sleet">Mantenha-se aquecido e leve um guarda-chuva</string>
@@ -650,7 +655,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sunrise">Nascer do sol</string>
-    <string name="sunset">Pôr do Sol</string>
+    <string name="sunset">Pôr do sol</string>
     <string name="temperature_normal_unit">"%1$s°"</string>
     <string name="temperature_unit_C">"%1$s℃"</string>
     <string name="temperature_unit_F">"%1$s℉"</string>
@@ -698,9 +703,9 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="title_share_link">Compartilhar URL</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
@@ -763,7 +768,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
-    <string name="xiaomi_weather_description_content">Clima é um app de sistema. Você não poderá visualizar informações do clima ou usar widgets relacionados após desinstalá-lo.</string>
+    <string name="xiaomi_weather_description_content">Clima é um app do sistema. Você não poderá visualizar informações do clima ou usar widgets relacionados após desinstalá-lo.</string>
     <string name="xiaomi_weather_description_content_remove">Clima é um app do sistema. Você não poderá ver as informações do clima ou usar os widgets relacionados após remover o atalho na Tela inicial.</string>
     <string name="xiaomi_weather_description_title">Desinstalar Clima?</string>
     <string name="xiaomi_weather_description_title_remove">Remover \"Clima\" da Tela inicial?</string>

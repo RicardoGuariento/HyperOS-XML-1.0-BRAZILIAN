@@ -44,6 +44,7 @@
     <string name="actionbar_home_description">Voltar</string>
     <string name="add_account_desc">Sincronizar suas notas com sua Conta Mi?</string>
     <string name="add_excerpt_summary">Adicionar lista de resumo</string>
+    <string name="add_pic_excerpt_summary">Adicionar resumo da imagem</string>
     <string name="added_to_clipboard">Copiado com sucesso</string>
     <string name="afternoon">"PM"</string>
     <string name="ai_chat_declare_double_link"><Data>Leia e concorde com nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
@@ -266,11 +267,16 @@
     <string name="excerpt">Excertos</string>
     <string name="excerpt_ares_limit">Agradecemos seu entusiasmo, mas atualmente estamos enfrentando um tráfego intenso. Por favor, clique no link original para visualizar ou tente novamente mais tarde.</string>
     <string name="excerpt_bubble_tips">O texto copiado e imagens salvas serão salvas em Notas</string>
+    <string name="excerpt_image_ares_limit">Agradecemos seu entusiasmo, mas atualmente estamos enfrentando um tráfego intenso. Consulte a imagem original ou tente novamente mais tarde.</string>
+    <string name="excerpt_image_summary_fail">Falha na análise de conteúdo. Revise a imagem original ou tente novamente mais tarde.</string>
+    <string name="excerpt_image_summary_huangfan">O conteúdo é sensível. Por favor, consulte a imagem original.</string>
     <string name="excerpt_link_bubble_tips">Toque para salvar em Notas</string>
-    <string name="excerpt_original_text">Texto original：</string>
+    <string name="excerpt_original_image">Imagem original:</string>
+    <string name="excerpt_original_text">Texto original:</string>
     <string name="excerpt_summary_fail">Falha na análise de conteúdo. Por favor, clique no link original para visualizar ou tente novamente mais tarde.</string>
     <string name="excerpt_summary_huangfan">O conteúdo é sensível. Por favor, clique no link original para ver.</string>
     <string name="excerpt_summary_link_bubble_tips">Toque para salvar o resumo em Notas.</string>
+    <string name="excerpt_text_min">Há muito pouco texto para gerar um resumo. Por favor, consulte a imagem original.</string>
     <string name="excerpt_note">Meus excertos</string>
     <string name="excerpted_to_note">Excerto salvo em Notas</string>
     <string name="excerpting">Criando um excerto…</string>
@@ -831,6 +837,7 @@
     <string name="setting_privacy">Política de Privacidade</string>
     <string name="single_link_excerpt_saving">Salvando itens…</string>
     <string name="single_link_excerpt_summary_saving">Gerando lista de resumo.</string>
+    <string name="single_link_pic_excerpt_summary_saving">Geração de resumo de imagem em andamento</string>
     <string name="single_new_excerpt_title">Excertos</string>
     <string name="size_byte">"B"</string>
     <string name="size_giga_byte">"GB"</string>
@@ -962,6 +969,7 @@
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>
     <string name="to_be_read_bubble_tips">O link e o texto copiados extrairão diretamente o resumo para as notas.</string>
+    <string name="to_be_read_image_list">Resumo da imagem</string>
     <string name="to_be_read_link_bubble_tips">Toque para salvar o resumo em Notas</string>
     <string name="to_be_read_list">Lista resumida</string>
     <string name="to_view_alarm_content">Toque para visualizar</string>

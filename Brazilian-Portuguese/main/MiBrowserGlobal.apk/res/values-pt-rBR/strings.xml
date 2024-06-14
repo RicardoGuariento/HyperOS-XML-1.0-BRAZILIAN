@@ -465,6 +465,7 @@ Desative o seletor para parar a sincronização."</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="click_always">Toque em \"Sempre\"</string>
     <string name="click_to_refresh">Parou aqui da última vez, toque para atualizar.</string>
+    <string name="click_to_replay_btn">Toque para repetir</string>
     <string name="clip_dialog_title">Abrir a URL copiada?</string>
     <string name="clipboard_title_text">Texto copiado</string>
     <string name="clipboard_title_url">URL copiada</string>
@@ -687,6 +688,7 @@ Envie este código para o supervisor."</string>
     <string name="download_business_app_update_install">Pronto para instalar a atualização.</string>
     <string name="download_business_v5_edit_mode_title_empty">Selecionar itens</string>
     <string name="download_change_dir">Alterar pasta</string>
+    <string name="download_close">Fechar</string>
     <string name="download_complete">Baixado com sucesso</string>
     <string name="download_completed">Baixado</string>
     <string name="download_completed_private_tips">Baixado com sucesso e adicionado aos arquivos ocultos. &lt;font color=\"#2dd9ce\">Toque para ver.&lt;/font></string>
@@ -914,7 +916,19 @@ Envie este código para o supervisor."</string>
     <string name="feedback_info_product">"Modelo: "</string>
     <string name="feedback_info_system">"Sistema: "</string>
     <string name="feedback_info_system_version">"Versão do sistema: "</string>
-    <string name="feedback_send_email_body_extra_info">Não exclua a informação a seguir. Ela nos ajuda a localizar o problema.</string>
+    <string name="feedback_multi">Selecione tudo para aplicar</string>
+    <string name="feedback_possible">Muito provavelmente</string>
+    <string name="feedback_recommend">Números mais altos correspondem a uma maior probabilidade de recomendação</string>
+    <string name="feedback_send_email_body_extra_info">"Não exclua a informação a seguir. Ela nos ajuda a localizar o problema."</string>
+    <string name="feedback_submit">Enviar</string>
+    <string name="feedback_terrible">Ruim</string>
+    <string name="feedback_thank_you">Obrigado pelo seu feedback!</string>
+    <string name="feedback_title">Este conteúdo é interessante?</string>
+    <string name="feedback_website_bad">A velocidade de carregamento é muito lenta</string>
+    <string name="feedback_website_general">A velocidade de carregamento é boa, mas poderia ser mais rápida.</string>
+    <string name="feedback_website_good">A velocidade de carregamento é boa</string>
+    <string name="feedback_website_speed_title">Como está a velocidade de carregamento das páginas da web?</string>
+    <string name="festival_task_start">Reproduzir</string>
     <string name="fetch_video">Preparando vídeo…</string>
     <string name="fetch_video_fail">Não foi possível obter os dados</string>
     <string name="fetch_video_ssl_bad_clock">Parece que a data e hora definida no seu dispositivo (%s) não estão corretos. Ajuste as configurações e tente novamente.</string>
@@ -1899,7 +1913,14 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="pay_failed_toast">Não foi possível concluir o pagamento</string>
     <string name="pay_now">Pagar</string>
     <string name="pay_success_toast">Pago com sucesso</string>
-    <string name="payment_method">Métodos de Pagamento</string>
+    <string name="payment_method">Métodos de pagamento</string>
+    <string name="pdf_confirm">"OK"</string>
+    <string name="pdf_failed_message">"Não foi possível gerar o resumo IA"</string>
+    <string name="pdf_password_error">Senha incorreta. Tente novamente.</string>
+    <string name="pdf_password_input">Digite a senha</string>
+    <string name="pdf_retry">Tente novamente</string>
+    <string name="pdf_summary">Resumo</string>
+    <string name="pdf_unlocking">Acessar arquivos</string>
     <string name="per_month">Por mês</string>
     <string name="permission_agree_service">Eu li e concordo com todos os termos e condições a seguir.</string>
     <string name="permission_alert_window">Para poder usar este recurso, permita a exibição de janelas pop-up nas Configurações.</string>
@@ -2870,6 +2891,7 @@ Try to modify your keyword?"</string>
     <string name="setting_installed_apps">Installed apps</string>
     <string name="setting_mobile_phone_settings">Device settings</string>
     <string name="setting_privacy_password">Configure o padrão de desbloqueio</string>
+    <string name="shake_get_more">Agite para saber mais</string>
     <string name="setting_searchable_content">Searchable items</string>
     <string name="setting_sms_content">SMS content</string>
     <string name="setting_swipe_up">Deslizar para cima na Tela inicial</string>

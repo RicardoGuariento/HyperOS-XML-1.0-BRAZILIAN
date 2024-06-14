@@ -48,13 +48,13 @@
         <item>Otimizado para qualidade de áudio</item>
         <item>Qualidade de áudio e conexão equilibrada</item>
         <item>Otimizado para qualidade de conexão</item>
-        <item>Melhor esforço (taxa de bits adaptativa)</item>
+        <item>Melhor esforço (taxa de bits adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
         <item>Qualidade de áudio e conexão equilibrada (660kbps/606kbps)</item>
         <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
-        <item>Melhor esforço (taxa de bits adaptável) </item>
+        <item>Melhor esforço (taxa de bits adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Use a seleção do sistema (padrão)</item>
@@ -121,7 +121,7 @@
         <item>Desativado</item>
         <item>Ativado (filtrado)</item>
         <item>Ativado</item>
-        <item>Ativado Cabeçalhos Filtrados</item>
+        <item>Ativado Cabeçalhos filtrados</item>
         <item>Ativado Pacotes de mídia filtrados</item>
 	<item>Ativado Perfis filtrados</item>
     </string-array>
