@@ -37,9 +37,9 @@
     <string name="arrange_restore_order">Reordenando apps…</string>
     <string name="as_new_device">Substituir configurações e Tela inicial anterior</string>
     <string name="as_new_device_summary">Apagar backups anteriores da MiCloud</string>
-    <string name="authentication_failed">Não foi possível verificar a conta.</string>
+    <string name="authentication_failed">"Não foi possível verificar a conta."</string>
     <string name="back_up_task_in_process">Fazendo backup…</string>
-    <string name="back_up_task_unfinished">Não foi possível fazer backup</string>
+    <string name="back_up_task_unfinished">"Não foi possível fazer backup"</string>
     <string name="backing_up_to_micloud">Fazendo backup…</string>
     <string name="backup_action_access_permission">Configurações</string>
     <string name="backup_action_buy_cloud_space">Obtenha mais espaço de armazenamento</string>
@@ -53,7 +53,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de dados WeChat. Atualize seu plano de armazenamento para fazer backup de itens.</string>
     <string name="backup_action_no_space_with_wechat_on_title">"Não foi possível fazer backup dos dados do WeChat"</string>
     <string name="backup_action_retry_now">Tente novamente</string>
-    <string name="backup_failed_reason_app_data_error">Não foi possível fazer backup dos dados do WeChat</string>
+    <string name="backup_failed_reason_app_data_error">"Não foi possível fazer backup dos dados do WeChat"</string>
     <string name="backup_failed_reason_app_usage_denied">Conceda as permissões necessárias para fazer backup de itens</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para salvar este backup. Faça o upgrade do seu plano ou libere espaço no armazenamento da nuvem.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Espaço de armazenamento insuficiente. Libere armazenamento primeiro.</string>
@@ -75,7 +75,7 @@
     <string name="backup_to_cloud">Backup do app</string>
     <string name="backup_warning_reason_app_usage_denied">"Não foi possível sincronizar os dados.
 Permissões necessárias."</string>
-    <string name="backup_warning_reason_cloud_space_not_enough">Não é possível fazer o backup</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">"Não é possível fazer o backup"</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Não é possível fazer o backup.
 Espaço de armazenamento insuficiente."</string>
     <string name="backup_warning_reason_network_error">"Erro de rede.
@@ -86,7 +86,7 @@ Tente novamente."</string>
     <string name="btn_continue">Continuar</string>
     <string name="btn_restore_abort">Cancelar</string>
     <string name="btn_restore_cancel">Cancelar</string>
-    <string name="btn_restore_cancel_app_app">Não restaure os dados do WeChat</string>
+    <string name="btn_restore_cancel_app_app">"Não restaure os dados do WeChat"</string>
     <string name="btn_restore_continue">Restaurar mesmo assim</string>
     <string name="btn_restore_resume">Continuar</string>
     <string name="btn_restore_retry">Tentar novamente</string>
@@ -98,8 +98,8 @@ Tente novamente."</string>
     <string name="button_confirm">Entendi</string>
     <string name="button_delete">Excluir</string>
     <string name="button_next">Avançar</string>
-    <string name="can_not_backup_in_lite_mode">Não é possível fazer o backup no Modo simples</string>
-    <string name="can_not_restore_in_lite_mode">Não é possível restaurar no Modo simples</string>
+    <string name="can_not_backup_in_lite_mode">"Não é possível fazer o backup no Modo simples"</string>
+    <string name="can_not_restore_in_lite_mode">"Não é possível restaurar no Modo simples"</string>
     <string name="cancel_backup">Cancelando backup…</string>
     <string name="cancel_recover_settings">Cancelar</string>
     <string name="cancel_restore">Cancelando…</string>
@@ -112,24 +112,24 @@ Tente novamente."</string>
     <string name="cloud_app_current_device">Dispositivo atual</string>
     <string name="cloud_app_dont_restore">Usar como um novo dispositivo</string>
     <string name="cloud_app_no_data">Nenhum backup</string>
-    <string name="cloud_app_no_network">Não é possível conectar-se à rede</string>
+    <string name="cloud_app_no_network">"Não é possível conectar-se à rede"</string>
     <string name="cloud_app_other_devices">Outros dispositivos</string>
     <string name="cloud_app_restore_data">Dados pessoais e apps instalados anteriormente aparecerão em seu dispositivo automaticamente</string>
-    <string name="cloud_app_restore_error">Não foi possível restaurar</string>
+    <string name="cloud_app_restore_error">"Não foi possível restaurar"</string>
     <string name="cloud_app_restore_success">Apps restaurados</string>
     <string name="cloud_app_restore_wifi_prompt">Restaurar do backup na nuvem.</string>
     <string name="cloud_back_up_date_format">HH:mm, dd/MM/yyyy</string>
     <string name="cloud_back_up_detail_discription">"Estes itens serão salvos na MiCloud quando o seu dispositivo estiver conectado ao Wi-Fi: 
-•    Apps, layout da Tela inicial e planos de fundo 
-•    Configurações de alarme, relógio e hora 
-•    Configurações de notificações 
-•    Configurações do HyperOS e do sistema 
+•  Apps, layout da Tela inicial e planos de fundo 
+•  Configurações de alarme, relógio e hora 
+•  Configurações de notificações 
+•  Configurações do HyperOS e do sistema 
 Observação: Os dados dos apps que estão instalados não serão salvos na MiCloud."</string>
     <string name="cloud_back_up_detail_discription_china">"Estes itens serão salvos na MiCloud quando o seu dispositivo estiver conectado ao Wi-Fi: 
-•    Apps, layout da Tela inicial e planos de fundo 
-•    Configurações de alarme, relógio e hora 
-•    Configurações de notificações 
-•    Configurações do HyperOS e do sistema 
+•  Apps, layout da Tela inicial e planos de fundo 
+•  Configurações de alarme, relógio e hora 
+•  Configurações de notificações 
+•  Configurações do HyperOS e do sistema 
 Observação: Os dados dos apps que estão instalados não serão salvos na MiCloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Programação de backup</string>
     <string name="cloud_back_up_frequence_long">A cada %d dias</string>
@@ -172,15 +172,15 @@ Observação: Os dados dos apps que estão instalados não serão salvos na MiCl
     <string name="cloud_backup_rw_storage_summary">Para backup em nuvem do layout da Tela inicial, dados e configurações do app</string>
     <string name="cloud_backup_rw_storage_title">Acessar o armazenamento</string>
     <string name="cloud_backup_select_recover">Escolher backup da MiCloud</string>
-    <string name="cloud_restore_from_other_device">Parar a restauração de %s e excluir este backup? Você não pode reverter esta ação.</string>
+    <string name="cloud_restore_from_other_device">"Parar a restauração de %s e excluir este backup? Você não pode reverter esta ação."</string>
     <string name="cloud_restore_task">Restaurando…</string>
-    <string name="cloud_task_in_process">Parar %s e excluir este backup? Você não pode reverter esta ação.</string>
+    <string name="cloud_task_in_process">"Parar %s e excluir este backup? Você não pode reverter esta ação."</string>
     <string name="collect_diagnosis_log">Coletar registro de diagnóstico</string>
     <string name="confirm_cancel_restore_negative">Cancelar</string>
     <string name="confirm_cancel_restore_positive">Continuar</string>
     <string name="confirm_cancel_restore_title">Cancelar a restauração?</string>
     <string name="confirm_restore">Restaurar</string>
-    <string name="confirm_restore_app_data">O WeChat já está instalado neste dispositivo. Não é possível restaurar os dados do WeChat.</string>
+    <string name="confirm_restore_app_data">"O WeChat já está instalado neste dispositivo. Não é possível restaurar os dados do WeChat."</string>
     <string name="confirm_restore_app_data_summary">Parece que o WeChat já gerou dados neste dispositivo. Substituir com os dados do backup?</string>
     <string name="confirm_restore_summary">Sua Tela inicial será reiniciada. Apps que foram salvos em backup serão baixados automaticamente.</string>
     <string name="confirm_restore_title">Restaurar</string>
@@ -210,7 +210,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_auto_backup_condition_normal_content_china">Para poder fazer backup regularmente de todos os itens importantes automaticamente, verifique se você tem espaço de armazenamento em nuvem suficiente e se este dispositivo está bloqueado, tenha mais de %s de bateria e esteja conectado ao Wi-Fi à noite. Você também pode fazer backup manualmente a qualquer momento.</string>
     <string name="dialog_auto_backup_condition_normal_positive">Entendi</string>
     <string name="dialog_auto_backup_condition_normal_title">Faça backup de seus itens</string>
-    <string name="dialog_backup_failed">Não foi possível fazer backup</string>
+    <string name="dialog_backup_failed">"Não foi possível fazer backup"</string>
     <string name="dialog_btn_cancel_backup">Cancelar</string>
     <string name="dialog_btn_confirm2">Entendi</string>
     <string name="dialog_btn_enter">Configurações</string>
@@ -218,7 +218,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_btn_overwrite_backup">Substituir</string>
     <string name="dialog_btn_restore_skip">Restaurar depois</string>
     <string name="dialog_button_agree">Permitir</string>
-    <string name="dialog_button_disagree">Não permitir</string>
+    <string name="dialog_button_disagree">"Não permitir"</string>
     <string name="dialog_button_get_installed_apps_agree">Configurações</string>
     <string name="dialog_button_get_installed_apps_disagree">Cancelar</string>
     <string name="dialog_buy_cloud_space">Atualizar</string>
@@ -257,20 +257,20 @@ Por favor, envie este código para o técnico."</string>
     <string name="doing_restore_home">Restaurando Tela inicial e configurações…</string>
     <string name="done_remove">Removido com sucesso</string>
     <string name="download_home_data">Baixando o layout da Tela inicial…</string>
-    <string name="download_meta_again">Não foi possível carregar o backup, tente novamente.</string>
-    <string name="download_meta_failed">Não foi possível carregar os dados.</string>
+    <string name="download_meta_again">"Não foi possível carregar o backup, tente novamente."</string>
+    <string name="download_meta_failed">"Não foi possível carregar os dados."</string>
     <string name="download_settings">Baixando itens da Tela inicial %s%%</string>
-    <string name="download_settings_fail">Não foi possível baixar as configurações da Tela Inicial</string>
+    <string name="download_settings_fail">"Não foi possível baixar as configurações da Tela Inicial"</string>
     <string name="dump_app_data_record_complete_msg">Localizações de arquivos: %s</string>
     <string name="dump_app_data_record_complete_title">Backup dos dados do WeChat foir realizado com sucesso</string>
-    <string name="dump_app_data_record_not_found_msg">Parece que você não fez backup dos dados do WeChat antes</string>
-    <string name="dump_app_data_record_not_found_title">Não foi possível encontrar backups do WeChat</string>
+    <string name="dump_app_data_record_not_found_msg">"Parece que você não fez backup dos dados do WeChat antes"</string>
+    <string name="dump_app_data_record_not_found_title">"Não foi possível encontrar backups do WeChat"</string>
     <string name="dump_app_data_record_running_title">Fazendo backup dos dados do WeChat…</string>
     <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_num_placeholder">--</string>
-    <string name="error_retry_later">Não foi possível completar a ação. Aguarde alguns minutos e tente novamente…</string>
+    <string name="error_retry_later">"Não foi possível completar a ação. Aguarde alguns minutos e tente novamente…"</string>
     <string name="error_unknown">Algo deu errado</string>
     <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
@@ -314,15 +314,15 @@ Por favor, envie este código para o técnico."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="get_device_id_error">Não foi possível obter o ID do dispositivo</string>
+    <string name="get_device_id_error">"Não foi possível obter o ID do dispositivo"</string>
     <string name="help_and_feedback">Ajuda e feedback</string>
     <string name="hint_restore_wechat_data">Observação: Os dados do WeChat podem não ser restaurados devido a problemas de compatibilidade em alguns casos.</string>
     <string name="home_hint_global_launcher">"POCO Launcher"</string>
     <string name="home_hint_other_launcher">Outro launcher</string>
-    <string name="home_restore_error">Não foi possível restaurar a Tela inicial</string>
+    <string name="home_restore_error">"Não foi possível restaurar a Tela inicial"</string>
     <string name="lack_of_storage">Não há espaço suficiente no armazenamento</string>
     <string name="latest_backup_time_loading">Carregando…</string>
-    <string name="load_backup_failed">Não foi possível carregar os backups</string>
+    <string name="load_backup_failed">"Não foi possível carregar os backups"</string>
     <string name="loading_progress_num">%s%% carregado</string>
     <string name="loading_user_backup">Carregando backups do usuário…</string>
     <string name="manage_and_restore_backups">Gerencie e restaure dados de backup</string>
@@ -362,10 +362,10 @@ Por favor, envie este código para o técnico."</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -408,10 +408,10 @@ Por favor, envie este código para o técnico."</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="msg_alert_cancel_restore">Restaurando itens da MiCloud. Cancelar agora?</string>
-    <string name="msg_alert_restore_error">Não foi possível restaurar itens da MiCloud. Tente novamente.</string>
+    <string name="msg_alert_restore_error">"Não foi possível restaurar itens da MiCloud. Tente novamente."</string>
     <string name="msg_restore_start_with_metered_network">"Se você restaurar esse backup, sua Tela inicial será redefinida e seus apps serão baixados e instalados automaticamente.&lt;br />&lt;b>&lt;font color='red'>Tamanho do backup: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Se você prosseguir com a restauração destes itens, os dados móveis serão usados para baixá-los.</string>
-    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de arquivos serão baixados."</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> de arquivos serão baixados."</string>
     <string name="network_error">Conecte-se à rede</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
@@ -426,7 +426,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="open_backup_switch">Alterne o botão de backup</string>
     <string name="other_device_main_space">Primeiro espaço</string>
     <string name="other_device_second_space">Segundo espaço</string>
-    <string name="pc_mode_not_support_restore_warning">Não é possível restaurar itens no Modo PC. Desative o Modo PC e tente novamente.</string>
+    <string name="pc_mode_not_support_restore_warning">"Não é possível restaurar itens no Modo PC. Desative o Modo PC e tente novamente."</string>
     <string name="permission_to_use">Detalhes das permissões</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
@@ -434,12 +434,12 @@ Por favor, envie este código para o técnico."</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_background_restore_more_data">Restaurar mais itens em segundo plano</string>
-    <string name="provision_error_connect_msg">Teste a rede e tente novamente. Backups não estão disponíveis quando seu dispositivo está offline.</string>
-    <string name="provision_error_connect_title">Não é possível conectar-se</string>
+    <string name="provision_error_connect_msg">"Teste a rede e tente novamente. Backups não estão disponíveis quando seu dispositivo está offline."</string>
+    <string name="provision_error_connect_title">"Não é possível conectar-se"</string>
     <string name="provision_next">Próximo</string>
     <string name="provision_restore_data">Restaurando itens</string>
     <string name="provision_skip_underline">Pular</string>
-    <string name="query_restore_description">Caso restaure o layout e as configurações da Tela inicial, os apps que já estão instalados serão restaurados para suas posições originais anteriormente na Tela inicial. Os apps que não fazem parte desse backup serão movidos para a última página da Tela inicial.</string>
+    <string name="query_restore_description">"Caso restaure o layout e as configurações da Tela inicial, os apps que já estão instalados serão restaurados para suas posições originais anteriormente na Tela inicial. Os apps que não fazem parte desse backup serão movidos para a última página da Tela inicial."</string>
     <string name="query_restore_summary">Foi encontrado um backup na MiCloud para este dispositivo. Restaurar apps da Tela inicial e suas configurações, ou usá-lo como um novo dispositivo, excluindo os backups anteriores da MiCloud?</string>
     <string name="recover_home_settings">Restaurar configurações da Tela inicial</string>
     <string name="recover_miui_settings">Restaurar configurações do sistema</string>
@@ -493,7 +493,8 @@ Verifique sua conexão e tente novamente."</string>
     <string name="restore_header_title_backup_time">Tempo</string>
     <string name="restore_home_failed">Não foi possível restaurar a Tela inicial.</string>
     <string name="restore_home_screen_apps">Restaurar itens</string>
-    <string name="restore_home_screen_apps_options">Restaurar dados</string>
+    <string name="restore_home_screen_apps_options">"Opções de backup
+%s"</string>
     <string name="restore_init_description">Iniciar restauração</string>
     <string name="restore_network_pause">Pausado para economizar dados móveis. Toque para retomar.</string>
     <string name="restore_network_unconnect">%s (Aguardando conexão)</string>
@@ -501,7 +502,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="restore_prepare_item_type_other">Outros backups</string>
     <string name="restore_task_cancelling">Cancelando…</string>
     <string name="restore_task_in_process">Restaurando…</string>
-    <string name="restore_task_unfinished">Não foi possível restaurar</string>
+    <string name="restore_task_unfinished">"Não foi possível restaurar"</string>
     <string name="restore_unfinished">Restaurando, tente mais tarde</string>
     <string name="restoring_app_data_title_no_progress">Restaurando dados do WeChat…</string>
     <string name="restoring_data">Restaurando dados…</string>

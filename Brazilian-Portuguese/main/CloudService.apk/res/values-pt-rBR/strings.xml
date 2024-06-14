@@ -59,7 +59,7 @@
     <string name="added_successfully">Adicionado com sucesso</string>
     <string name="afternoon">"PM"</string>
     <string name="agree_and_continue">Aceitar</string>
-    <string name="agreement_and_privacy_description">"Leia e concorde com a &lt;a href=%1$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> e o &lt;a href=%2$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> da MiCloud's, antes de continuar."</string>
+    <string name="agreement_and_privacy_description">"Leia e concorde com a &lt;a href=%1$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> e o &lt;a href=%2$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> da MiCloud, antes de continuar."</string>
     <string name="alert_sync_data_merge_dialog_title">Os itens serão mesclados</string>
     <string name="alert_sync_merge_dialog_cancel">Cancelar</string>
     <string name="alert_sync_merge_dialog_confirm">Ativar</string>
@@ -117,7 +117,7 @@
     <string name="contact_alert_sync_data_merge_dialog_msg">Caso ative a sincronização, os contatos carregados deste dispositivo serão mesclados com os contatos armazenados na nuvem. Ativar sincronização mesmo assim?</string>
     <string name="copy">Copiar</string>
     <string name="cta_notification_content_text">Permita que o app %s conecte-se à internet para poder restaurar os itens</string>
-    <string name="cta_notification_content_title">Não é possível restaurar itens do %s</string>
+    <string name="cta_notification_content_title">"Não é possível restaurar itens do %s"</string>
     <string name="customize_notification_btn_text">Melhorar</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Esta conta também foi usada em outro dispositivo. Mesclar os itens de vários apps (incluindo %1$s e %2$s) com os itens neste dispositivo?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Esta conta também foi usada em outro dispositivo. Mesclar os itens da %s com os itens neste dispositivo?</string>
@@ -135,12 +135,12 @@
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_noti_quota_full_title">O armazenamento em nuvem está cheio</string>
     <string name="detect_sim_card">Verificar por cartão SIM</string>
-    <string name="device_activation_card_cannot_get_yet">Não foi possível obter informações. Tente novamente mais tarde.</string>
-    <string name="device_activation_card_description">A primeira ativação é registada quando o dispositivo conecta-se à rede pela primeira vez. Normalmente, demora um pouco para ser feita a primeira ativação, por isso é melhor aguardar 3 a 5 dias para verificar o status da ativação.&lt;br>&lt;br>A ativação do dispositivo é o principal fator para determinar o período de validade da garantia extendida. Consulte a nossa &lt;a href=%1$s>Política de Devoluções, Reparos e Trocas&lt;/a> para mais detalhes.&lt;br>&lt;br>Sinta-se à vontade para ligar para nossa linha direta de suporte ao cliente se tiver alguma dúvida: 400-100-5678.</string>
-    <string name="device_activation_card_description_china">A primeira ativação é registada quando o dispositivo conecta-se à rede pela primeira vez. Normalmente, demora um pouco para ser feita a primeira ativação, por isso é melhor aguardar 3 a 5 dias para verificar o status da ativação.&lt;br>&lt;br>A activação do dispositivo é o factor chave para determinar o período de validade da garantia extendida. Consulte a nossa &lt;a href=%1$s>Política de Devoluções, Reparos e Trocas&lt;/a> para mais detalhes.&lt;br>&lt;br>Sinta-se à vontade para ligar para nossa linha direta de suporte ao cliente se tiver alguma dúvida: 400-100-5678.</string>
+    <string name="device_activation_card_cannot_get_yet">"Não foi possível obter informações. Tente novamente mais tarde."</string>
+    <string name="device_activation_card_description">"A primeira ativação é registada quando o dispositivo conecta-se à rede pela primeira vez. Normalmente, demora um pouco para ser feita a primeira ativação, por isso é melhor aguardar 3 a 5 dias para verificar o status da ativação.&lt;br>&lt;br>A ativação do dispositivo é o principal fator para determinar o período de validade da garantia extendida. Consulte a nossa &lt;a href=%1$s>Política de Devoluções, Reparos e Trocas&lt;/a> para mais detalhes.&lt;br>&lt;br>Sinta-se à vontade para ligar para nossa linha direta de suporte ao cliente se tiver alguma dúvida: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"A primeira ativação é registada quando o dispositivo conecta-se à rede pela primeira vez. Normalmente, demora um pouco para ser feita a primeira ativação, por isso é melhor aguardar 3 a 5 dias para verificar o status da ativação.&lt;br>&lt;br>A ativação do dispositivo é o principal fator para determinar o período de validade da garantia extendida. Consulte a nossa &lt;a href=%1$s>Política de Devoluções, Reparos e Trocas&lt;/a> para mais detalhes.&lt;br>&lt;br>Sinta-se à vontade para ligar para nossa linha direta de suporte ao cliente se tiver alguma dúvida: 400-100-5678."</string>
     <string name="device_activation_card_device_not_support">Não suportado neste dispositivo</string>
-    <string name="device_activation_card_local_service_error">Não foi possível obter informações. Aguarde um momento e tente novamente.</string>
-    <string name="device_activation_card_no_network_error">Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="device_activation_card_local_service_error">"Não foi possível obter informações. Aguarde um momento e tente novamente."</string>
+    <string name="device_activation_card_no_network_error">"Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente."</string>
     <string name="device_activation_card_title">Primeira ativação</string>
     <string name="device_activation_page_title">Ativação do dispositivo</string>
     <string name="dialog_add_shortcut_content">Adicione um atalho à Tela inicial da MiCloud para poder gerenciar seu armazenamento da nuvem com mais eficiência.</string>
@@ -151,12 +151,12 @@
     <string name="dialog_storage_upgrade_later">Não, obrigado</string>
     <string name="dialog_storage_upgrade_now">Atualizar</string>
     <string name="dialog_title_prompt">Atenção!</string>
-    <string name="disable_find_device_error">"Não é possível desativar o 'Encontrar dispositivo'. %1$s"</string>
+    <string name="disable_find_device_error">"Não é possível desativar o Encontrar dispositivo. %1$s"</string>
     <string name="do_not_merge">Cancelar</string>
     <string name="download_gallery_data_summary">Vá para i.mi.com para baixar fotos e vídeos sincronizados para o seu dispositivo.</string>
     <string name="download_gallery_data_title">Baixar itens para o seu dispositivo</string>
     <string name="early_morning">"AM"</string>
-    <string name="enable_find_device_error">"Não é possível ativar o 'Encontrar dispositivo'. %1$s"</string>
+    <string name="enable_find_device_error">"Não é possível ativar o Encontrar dispositivo. %1$s"</string>
     <string name="enable_find_device_success">Encontrar dispositivo ativado.</string>
     <string name="enable_micloud">Faça o login para usar a MiCloud</string>
     <string name="enable_sync_setting_title">Configurando serviços da nuvem…</string>
@@ -165,11 +165,11 @@
     <string name="error_canceled">Cancelado</string>
     <string name="error_credential_fail">Erro de senha</string>
     <string name="error_data_in_transfer">A sincronização terminará em %s horas.</string>
-    <string name="error_data_in_transfer_title">A MiCloud não está disponível</string>
+    <string name="error_data_in_transfer_title">"A MiCloud não está disponível"</string>
     <string name="error_keybag_unknown">Ocorreu um erro desconhecido. Espere alguns minutos e tente novamente.</string>
     <string name="error_masterkey_changed">A senha foi alterada</string>
     <string name="error_masterkey_exists">A senha já existe</string>
-    <string name="error_network">Não é possível conectar-se à rede</string>
+    <string name="error_network">"Não é possível conectar-se à rede"</string>
     <string name="error_request_error">Erro de solicitação</string>
     <string name="error_reset_retry_exceed_limit">Muitas tentativas de redefinir a senha</string>
     <string name="error_reset_retry_exceed_limit_with_retry">Muitas tentativas sem sucesso. Tente novamente em %s.</string>
@@ -181,16 +181,16 @@
     <string name="error_server_error">Erro de servidor</string>
     <string name="error_timeout">O pedido expirou</string>
     <string name="error_token_expired">Faça login em sua Conta Mi novamente</string>
-    <string name="error_unknown">Não é possível fazer o login</string>
+    <string name="error_unknown">"Não é possível fazer o login"</string>
     <string name="error_unsupported">"Este recurso não é compatível com este dispositivo"</string>
     <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
-    <string name="feedback_custom_hint">Descreva os problemas que você encontrou aqui. Se está sugerindo algo, agradecemos pelo seu esclarecimento com mais detalhes!</string>
+    <string name="feedback_custom_hint">"Descreva os problemas que você encontrou aqui. Se está sugerindo algo, agradecemos pelo seu esclarecimento com mais detalhes!"</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_dspt_provision">Em caso de perca do seu dispositivo, acesse &lt;font color=#0097FF>%s&lt;/font> para localizá-lo, bloqueá-lo ou apagá-lo. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações.</string>
     <string name="find_device_error_network">Verifique sua conexão de dados e tente novamente.</string>
     <string name="find_device_error_server">Erro no servidor</string>
-    <string name="find_device_gdpr_prompt">"Ao ativar o Encontrar dispositivo, você concorda com a nossa <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u>. Desative este recurso se quiser retirar seu consentimento."</string>
+    <string name="find_device_gdpr_prompt">"Ao ativar o Encontrar dispositivo, você concorda com a nossa "<u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u>. Desative este recurso se quiser retirar seu consentimento.</string>
     <string name="find_device_operation_failure_rpc">Não foi possível executar a operação devido a um erro de RPC.</string>
     <string name="find_device_permissions_footer">"Toque em \"Permitir\" para conceder as permissões que você selecionou."</string>
     <string name="find_device_permissions_header">"Bem-vindo ao Encontrar dispositivo! Você pode usar este app para localizar, rastrear e bloquear o dispositivo caso você o perca. Encontrar dispositivo requer as seguintes permissões:"</string>
@@ -208,8 +208,8 @@
     <string name="find_permission_phone_title">Acessar informações do dispositivo</string>
     <string name="find_permission_sms_summary">"Para localizar este dispositivo quando não estiver conectado à internet"</string>
     <string name="find_permission_sms_title">Enviar SMS</string>
-    <string name="finddevice_miservice_notification_content">Bloqueie seu dispositivo remotamente caso o perca</string>
-    <string name="finddevice_miservice_notification_title">"Ativar o 'Encontrar dispositivo'"</string>
+    <string name="finddevice_miservice_notification_content">"Bloqueie seu dispositivo remotamente caso o perca"</string>
+    <string name="finddevice_miservice_notification_title">"Ativar o Encontrar dispositivo"</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -264,7 +264,7 @@
     <string name="input_password_hint">Inserir senha</string>
     <string name="internet_access_dspt">Este app precisa se conectar à internet para funcionar normalmente.</string>
     <string name="keybag_create_by_new_passcode_prompt">"Esta senha protege suas senhas armazenadas na nuvem. Você não poderá acessá-los se esquecer esta senha."</string>
-    <string name="keybag_create_by_screen_password_prompt">Esta senha protege suas senhas armazenadas na nuvem. Digite seu bloqueio de tela para defini-lo como a senha para o Gerenciador de senhas.</string>
+    <string name="keybag_create_by_screen_password_prompt">"Esta senha protege suas senhas armazenadas na nuvem. Digite seu bloqueio de tela para defini-lo como a senha para o Gerenciador de senhas."</string>
     <string name="keybag_dialog_cancel">Cancelar</string>
     <string name="keybag_dialog_ok">"OK"</string>
     <string name="keybag_install_by_passcode_prompt">"Esta senha protege suas senhas armazenadas na nuvem. Você já configurou quando ativou a sincronização em nuvem para o Gerenciador de senhas."</string>
@@ -306,15 +306,15 @@
     <string name="ks_status_available">Disponível</string>
     <string name="ks_status_unavailable">Indisponível</string>
     <string name="ks_update_certificate">Certificado</string>
-    <string name="ks_update_fail">Não foi possível baixar</string>
-    <string name="ks_update_fail_code">Não foi possível baixar o certificado. Código do erro: %d</string>
-    <string name="ks_update_fail_no_network">Não foi possível conectar-se à rede. Conecte-se e tente novamente.</string>
+    <string name="ks_update_fail">"Não foi possível baixar"</string>
+    <string name="ks_update_fail_code">"Não foi possível baixar o certificado. Código do erro: %d"</string>
+    <string name="ks_update_fail_no_network">"Não foi possível conectar-se à rede. Conecte-se e tente novamente."</string>
     <string name="ks_update_fail_request_timeout">Tempo limite da conexão atingido. Aguarde de um a dois minutos e tente novamente.</string>
     <string name="ks_update_success">Atualizado com sucesso</string>
     <string name="ks_update_wait">Aguarde…</string>
     <string name="last_sync_time_just_now">Agora mesmo</string>
     <string name="last_sync_time_yesterday">Ontem</string>
-    <string name="license_host_unreachable">Não é possível conectar-se à rede. Para ver esta informação agora, acesse %s.</string>
+    <string name="license_host_unreachable">"Não é possível conectar-se à rede. Para ver esta informação agora, acesse %s."</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_enable_keybag">Ativando o gerenciador de senhas…</string>
     <string name="loading_server_key_info">Carregando itens…</string>
@@ -354,7 +354,7 @@
     <string name="micloud_all_sub_resend_common_sms_with_charge_hint">"Para ativar o Encontrar dispositivo e os serviços da MiCloud, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
     <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">"Para ativar o Encontrar dispositivo e os serviços da MiCloud, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
     <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">"Para ativar o Encontrar dispositivo e os serviços da MiCloud, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
-    <string name="micloud_all_sub_resend_sms">"Quando você ativar o 'Encontrar dispositivo', um SMS de ativação poderá ser enviado caso você troque os cartões SIM."</string>
+    <string name="micloud_all_sub_resend_sms">"Quando você ativar o Encontrar dispositivo, um SMS de ativação poderá ser enviado caso você troque os cartões SIM."</string>
     <string name="micloud_battery_low_notification_message">Conecte o carregador para sincronizar</string>
     <string name="micloud_battery_low_notification_title">Bateria fraca</string>
     <string name="micloud_buy_member_safe">Obter mais espaço na MiCloud</string>
@@ -370,12 +370,12 @@
     <string name="micloud_confusion_alert_title">Outro dispositivo está modificando a sua conta</string>
     <string name="micloud_confusion_cancel">Cancelar</string>
     <string name="micloud_confusion_check_account_title">Faça o login em sua Conta Mi para reativar a MiCloud.</string>
-    <string name="micloud_confusion_entrance_hint">Não faça login em sua Conta Mi em dispositivos públicos</string>
+    <string name="micloud_confusion_entrance_hint">"Não faça login em sua Conta Mi em dispositivos públicos"</string>
     <string name="micloud_confusion_entrance_notify_text">Toque para ver detalhes.</string>
     <string name="micloud_confusion_entrance_notify_title">Outro dispositivo está modificando sua conta</string>
     <string name="micloud_confusion_entrance_question">Você modificou sua Conta Mi recentemente usando um %s?</string>
     <string name="micloud_confusion_entrance_title">Dados modificados</string>
-    <string name="micloud_confusion_finish_hint">Alterações feitas neste dispositivo serão sincronizadas para todos os seus dispositivos. Para proteger a sua conta, nós recomendamos que você desative a sincronização para outros dispositivos quando você não estiver usando-os.</string>
+    <string name="micloud_confusion_finish_hint">"Alterações feitas neste dispositivo serão sincronizadas para todos os seus dispositivos. Para proteger a sua conta, nós recomendamos que você desative a sincronização para outros dispositivos quando você não estiver usando-os."</string>
     <string name="micloud_confusion_finish_message">Desative a sincronização para outros dispositivos.</string>
     <string name="micloud_confusion_finish_title">Conta verificada</string>
     <string name="micloud_confusion_no">Não</string>
@@ -404,7 +404,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_dspt_provision_no_sms_and_call">Você pode usar a MiCloud para sincronizar fotos, contatos, notas, gravações e outros dados, localizar seu dispositivo e compartilhar itens com amigos. Este app precisa se conectar à internet para funcionar normalmente. A sincronização de itens pode exigir conexão de dados móveis e ativação do Wi-Fi.</string>
     <string name="micloud_dspt_provision_xms">Use a MiCloud para sincronizar dados.</string>
     <string name="micloud_dspt_provision_xms_china">Use a MiCloud para sincronizar dados.</string>
-    <string name="micloud_find_device_close_alert_content">Caso desative o Encontrar dispositivo, não será possível localizar seu dispositivo usando este recurso. As pessoas com quem você compartilha a a localização não poderão receber atualizações sobre o seu paradeiro.</string>
+    <string name="micloud_find_device_close_alert_content">"Caso desative o Encontrar dispositivo, não será possível localizar seu dispositivo usando este recurso. As pessoas com quem você compartilha a a localização não poderão receber atualizações sobre o seu paradeiro."</string>
     <string name="micloud_find_device_close_alert_negtive">Desativar mesmo assim</string>
     <string name="micloud_find_device_close_alert_positive">Manter ativo</string>
     <string name="micloud_find_device_close_alert_title">Desativar o Encontrar dispositivo?</string>
@@ -418,7 +418,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Não, obrigado</string>
     <string name="micloud_find_device_guide_alert_positive">"OK"</string>
     <string name="micloud_find_device_guide_alert_title">Lembre-se da sua senha</string>
-    <string name="micloud_find_device_guide_button">"Ativar o 'Encontrar dispositivo'"</string>
+    <string name="micloud_find_device_guide_button">"Ativar o Encontrar dispositivo"</string>
     <string name="micloud_find_device_guide_desc_pad">"Caso você perca seu dispositivo, faça o login em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; em qualquer outro dispositivo para localizá-lo, bloqueá-lo remotamente ou apagar os dados no dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalhes&lt;/a&gt;"</string>
     <string name="micloud_find_device_guide_desc_phone">"Caso você perca seu dispositivo, faça o login em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; em qualquer outro dispositivo para localizá-lo, bloqueá-lo remotamente ou apagar os dados no dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalhes&lt;/a&gt;"</string>
     <string name="micloud_find_device_guide_fail_reopen">Ative o Encontrar dispositivo na MiCloud</string>
@@ -429,20 +429,20 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Seus dados do QQ estarão seguros mesmo que você perca seu dispositivo</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Seus dados do WeChat estarão seguros mesmo que você perca seu dispositivo</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Seus dados do Alipay estarão seguros mesmo que você perca seu dispositivo</string>
-    <string name="micloud_find_device_guide_noti_title">"Ativar o 'Encontrar dispositivo'"</string>
+    <string name="micloud_find_device_guide_noti_title">"Ativar o Encontrar dispositivo"</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">O QQ recomenda que você ative o Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">O WeChat recomenda que você ative o Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">O Alipay recomenda que você ative o Encontrar dispositivo</string>
-    <string name="micloud_find_device_guide_progress">"Ativando o 'Encontrar dispositivo'…"</string>
+    <string name="micloud_find_device_guide_progress">"Ativando o Encontrar dispositivo…"</string>
     <string name="micloud_find_device_guide_title">Entre em &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> com sua Conta Mi para localizar e bloquear seu dispositivo, defini-lo como perdido, apagar os dados remotamente. Veja detalhes &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>aqui&lt;/a>.</string>
     <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente para ativar este serviço.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
-    <string name="micloud_find_device_open_fail">"Não foi possível ativar o 'Encontrar dispositivo'"</string>
+    <string name="micloud_find_device_open_fail">"Não foi possível ativar o Encontrar dispositivo"</string>
     <string name="micloud_find_device_opened">Encontrar dispositivo está ativado</string>
     <string name="micloud_find_device_opened_content">Encontre seu dispositivo em %s</string>
     <string name="micloud_find_device_sms_alert">Um SMS pode ser necessário para ativar este serviço. A sua operadora poderá cobrar por este SMS. Quando você troca de cartão SIM, uma mensagem pode ser enviada automaticamente apra reativar este recurso.</string>
     <string name="micloud_find_device_verify_button">Reativar o Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_close">Desativar o Encontrar dispositivo</string>
-    <string name="micloud_find_device_verify_fail">Não foi possível ativar o Encontrar dispositivo</string>
+    <string name="micloud_find_device_verify_fail">"Não foi possível ativar o Encontrar dispositivo"</string>
     <string name="micloud_find_device_verify_progress">Reativando o Encontrar dispositivo…</string>
     <string name="micloud_last_sync_canceled">A sincronização foi cancelada. Tente novamente.</string>
     <string name="micloud_main_head_menu_cloud_backup">"Backups"</string>
@@ -456,7 +456,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_main_head_menu_state_unavailable">Não suportado</string>
     <string name="micloud_main_manual_sync">Sincronizar manualmente</string>
     <string name="micloud_main_memory_low_title">O armazenamento do dispositivo está quase cheio</string>
-    <string name="micloud_main_network_error">Não é possível conectar-se à rede</string>
+    <string name="micloud_main_network_error">"Não é possível conectar-se à rede"</string>
     <string name="micloud_main_sync_mode_summary">Sincroniza os dados dos apps em tempo real. O consumo de energia aumentará quando este recurso estiver ativado.</string>
     <string name="micloud_main_sync_mode_title">Sincronização rápida</string>
     <string name="micloud_main_wait_charge">Carregue seu dispositivo totalmente para continuar a sincronização.</string>
@@ -471,8 +471,8 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_manual_all_sync_off_title">Sincronização desativada</string>
     <string name="micloud_manual_buy_vip">Obter mais armazenamento</string>
     <string name="micloud_manual_cloud_storage_full_button_text">Obter mais armazenamento</string>
-    <string name="micloud_manual_cloud_storage_full_summary">Não é possível sincronizar fotos, contatos e outros itens. Faça o upgrade do seu plano ou libere espaço de armazenamento.</string>
-    <string name="micloud_manual_cloud_storage_full_title">Não é possível sincronizar. Armazenamento insuficiente na MiCloud.</string>
+    <string name="micloud_manual_cloud_storage_full_summary">"Não é possível sincronizar fotos, contatos e outros itens. Faça o upgrade do seu plano ou libere espaço de armazenamento."</string>
+    <string name="micloud_manual_cloud_storage_full_title">"Não é possível sincronizar. Armazenamento insuficiente na MiCloud."</string>
     <string name="micloud_manual_cloud_storage_low_button_text">Obtenha mais armazenamento</string>
     <string name="micloud_manual_cloud_storage_low_summary">O armazenamento na MiCloud está acabando</string>
     <string name="micloud_manual_cloud_storage_low_title">Sincronizado</string>
@@ -480,10 +480,10 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_manual_local_storage_low_button_text">Limpar</string>
     <string name="micloud_manual_local_storage_low_summary">Libere espaço de armazenamento e tente novamente.</string>
     <string name="micloud_manual_local_storage_low_summary_pad">Libere espaço de armazenamento e tente novamente.</string>
-    <string name="micloud_manual_local_storage_low_title">Não é possível sincronizar. Espaço de armazenamento do dispositivo insuficiente.</string>
-    <string name="micloud_manual_local_storage_low_title_pad">Não é possível sincronizar. Espaço de armazenamento do dispositivo insuficiente.</string>
+    <string name="micloud_manual_local_storage_low_title">"Não é possível sincronizar. Espaço de armazenamento do dispositivo insuficiente."</string>
+    <string name="micloud_manual_local_storage_low_title_pad">"Não é possível sincronizar. Espaço de armazenamento do dispositivo insuficiente."</string>
     <string name="micloud_manual_network_disconnet_button_text">Verifique as configurações de rede</string>
-    <string name="micloud_manual_network_disconnet_title">Não é possível sincronizar devido a um erro de rede</string>
+    <string name="micloud_manual_network_disconnet_title">"Não é possível sincronizar devido a um erro de rede"</string>
     <string name="micloud_manual_paused">Pausado</string>
     <string name="micloud_manual_pausing">Sincronização pausada</string>
     <string name="micloud_manual_pending">Pendente…</string>
@@ -500,8 +500,8 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_manual_sync_resume">Retomar sincronização</string>
     <string name="micloud_manual_syncing">Sincronizando…</string>
     <string name="micloud_manual_title">Sincronização manual</string>
-    <string name="micloud_member_net_error_alert_message">Você não está conectado à internet.</string>
-    <string name="micloud_member_net_error_alert_title">Não é possível conectar-se à rede</string>
+    <string name="micloud_member_net_error_alert_message">"Você não está conectado à internet."</string>
+    <string name="micloud_member_net_error_alert_title">"Não é possível conectar-se à rede"</string>
     <string name="micloud_member_pay_miid_error_toast">Erro na conta</string>
     <string name="micloud_member_pay_order_error_toast">Erro nos dados</string>
     <string name="micloud_notif_content_battery_low">Bateria muito fraca.</string>
@@ -514,12 +514,12 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_notif_content_multi_user_error">Você fez o login na mesma conta presente em seu Primeiro espaço.</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Ver detalhes</string>
     <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o dispositivo agora.</string>
-    <string name="micloud_notif_title_battery_low">Não é possível sincronizar com a MiCloud</string>
+    <string name="micloud_notif_title_battery_low">"Não é possível sincronizar com a MiCloud"</string>
     <string name="micloud_notif_title_dirty_data">Você tem itens não sincronizados</string>
-    <string name="micloud_notif_title_master_depend_wifi">A sincronização está pausada enquanto você usa os dados móveis</string>
-    <string name="micloud_notif_title_memory_low">Não é possível sincronizar com a MiCloud</string>
-    <string name="micloud_notif_title_multi_user_error">Não é possível sincronizar com a MiCloud</string>
-    <string name="micloud_notif_title_privacy_reopen_failed">Não foi possível ativar os serviços da MiCloud</string>
+    <string name="micloud_notif_title_master_depend_wifi">"A sincronização está pausada enquanto você usa os dados móveis"</string>
+    <string name="micloud_notif_title_memory_low">"Não é possível sincronizar com a MiCloud"</string>
+    <string name="micloud_notif_title_multi_user_error">"Não é possível sincronizar com a MiCloud"</string>
+    <string name="micloud_notif_title_privacy_reopen_failed">"Não foi possível ativar os serviços da MiCloud"</string>
     <string name="micloud_notif_title_sync_with_off">Sincronizar com a MiCloud</string>
     <string name="micloud_preference_last_sync_time">Última sincronização: %s</string>
     <string name="micloud_preference_syncing">Sincronizando…</string>
@@ -530,7 +530,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_privacy_licence_privacy_policy">Política de Privacidade</string>
     <string name="micloud_privacy_progress_content">Concedendo autorização…</string>
     <string name="micloud_privacy_warning_button">Voltar</string>
-    <string name="micloud_privacy_warning_content">Não é possível ativar os serviços da MiCloud. Aguarde alguns minutos e tente novamente.</string>
+    <string name="micloud_privacy_warning_content">"Não é possível ativar os serviços da MiCloud. Aguarde alguns minutos e tente novamente."</string>
     <string name="micloud_privacy_warning_title">Atenção!</string>
     <string name="micloud_proceed">Continuar</string>
     <string name="micloud_request_permission_confirm">Entendi</string>
@@ -563,8 +563,8 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_space_applist_title">Gerenciar apps</string>
     <string name="micloud_space_duokan_detail">Baixe e gerencie e-books com o app Duokan.</string>
     <string name="micloud_space_duokan_title">"Duokan"</string>
-    <string name="micloud_space_soundrecorder_detail">Abra o app Gravador em seu dispositivo Xiaomi e selecione a pasta com os itens armazenados na nuvem.
-Verifique se você está usando a Conta Mi associada como sua conta do sistema HyperOS.</string>
+    <string name="micloud_space_soundrecorder_detail">"Abra o app Gravador em seu dispositivo Xiaomi e selecione a pasta com os itens armazenados na nuvem.
+Verifique se você está usando a Conta Mi associada como sua conta do sistema HyperOS."</string>
     <string name="micloud_space_soundrecorder_title">Gravações</string>
     <string name="micloud_storage_detail">Detalhes</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Você precisa renovar sua assinatura.</string>
@@ -589,17 +589,17 @@ Verifique se você está usando a Conta Mi associada como sua conta do sistema H
     <string name="micloud_sync_result_already_in_progress">Processando sincronização anterior…</string>
     <string name="micloud_sync_result_auth_exception">Erro na conta</string>
     <string name="micloud_sync_result_cancel">Sincronização interrompida</string>
-    <string name="micloud_sync_result_cloud_storage_full">Não é possível sincronizar. Espaço de armazenamento insuficiente na MiCloud.</string>
+    <string name="micloud_sync_result_cloud_storage_full">"Não é possível sincronizar. Espaço de armazenamento insuficiente na MiCloud."</string>
     <string name="micloud_sync_result_common_message">A sincronização foi interrompida. Tente novamente.</string>
     <string name="micloud_sync_result_cta_permission_error">Permita a conexão com a rede para sincronizar</string>
-    <string name="micloud_sync_result_get_sim_info_error">Não foi possível obter as informações do cartão SIM. Aguarde alguns minutos e tente novamente.</string>
+    <string name="micloud_sync_result_get_sim_info_error">"Não foi possível obter as informações do cartão SIM. Aguarde alguns minutos e tente novamente."</string>
     <string name="micloud_sync_result_internal_error">Erro interno</string>
     <string name="micloud_sync_result_io_exception">Erro de E/S</string>
     <string name="micloud_sync_result_parse_exception">Não foi possível processar os dados</string>
     <string name="micloud_sync_result_permission_error">Erro de permissão</string>
     <string name="micloud_sync_result_request_error">Erro no pedido de sincronização</string>
-    <string name="micloud_sync_result_secure_space_limit">Não sincronizar itens do Segundo espaço</string>
-    <string name="micloud_sync_result_sim_activated_error">Não foi possível ativar o cartão SIM</string>
+    <string name="micloud_sync_result_secure_space_limit">"Não sincronizar itens do Segundo espaço"</string>
+    <string name="micloud_sync_result_sim_activated_error">"Não foi possível ativar o cartão SIM"</string>
     <string name="micloud_sync_result_wifi_only">Este item é muito grande. Sincronize-o quando estiver conectado ao Wi-Fi.</string>
     <string name="micloud_sync_result_wifi_only_china">Este item é muito grande. Sincronize-o quando estiver conectado ao Wi-Fi.</string>
     <string name="micloud_upgrade_member">Obter armazenamento</string>
@@ -650,10 +650,10 @@ Verifique se você está usando a Conta Mi associada como sua conta do sistema H
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -729,7 +729,7 @@ Esta função criptografa e envia o ID do seu dispositivo para os servidores da 
     <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Menos que &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> de armazenamento em nuvem restante</string>
     <string name="noti_quota_low_title_without_button">Armazenamento na nuvem insuficiente</string>
     <string name="notification_reinstall_key_text">Verifique sua identidade e tente novamente.</string>
-    <string name="notification_sync_fail_title">Não foi possível sincronizar as senhas</string>
+    <string name="notification_sync_fail_title">"Não foi possível sincronizar as senhas"</string>
     <string name="notification_update_key_text">A senha do Gerenciador de senhas foi alterada. Verifique a nova senha.</string>
     <string name="open_service_title">Ativar</string>
     <string name="pay_info_dialog_confirm_to_pay">Pagar %s</string>
@@ -743,7 +743,7 @@ Esta função criptografa e envia o ID do seu dispositivo para os servidores da 
     <string name="phone_number_required_dspt_provision">"Este serviço requer o número do seu telefone. "</string>
     <string name="phone_guarantee_service_name">Garantia do dispositivo</string>
     <string name="picker_list_empty">Nenhum contato aqui</string>
-    <string name="picker_search_empty">Nenhum contato encontrado</string>
+    <string name="picker_search_empty">"Nenhum contato encontrado"</string>
     <string name="picker_search_hint">Pesquisar</string>
     <string name="pm">"PM"</string>
     <string name="power_off_locate_summary">"Reportar informação de localização apertando e segurando o botão de energia.
@@ -751,7 +751,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="power_off_locate_title">Reportar as informações de localização antes de desligar</string>
     <string name="pre_privacy_policy">Política de Privacidade</string>
     <string name="pre_user_agreement">Contrato do Usuário</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">Apenas sincronizar fotos de perfil dos contatos quando você estiver conectado a uma rede Wi-Fi</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">"Apenas sincronizar fotos de perfil dos contatos quando você estiver conectado a uma rede Wi-Fi"</string>
     <string name="pref_title_sync_contacts_title">Sincronizar contatos</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizar fotos apenas por Wi-Fi</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Use apenas a rede sem fio para sincronizar as fotos</string>
@@ -760,12 +760,12 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="privacy_dialog_finddevice_all_purpose_pad">"Bem-vindo ao Encontrar dispositivo! Você pode usar este serviço para localizar, bloquear, ou apagar os dados no seu dispositivo caso ele seja perdido."</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">"Bem-vindo ao Encontrar dispositivo! Você pode usar este serviço para localizar, bloquear, ou apagar os dados no seu dispositivo caso ele seja perdido."</string>
     <string name="privacy_dialog_sync_all_purpose">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do Navegador, músicas, fotos e vídeos, configurações do Wi-Fi, gravações, layout da Tela inicial, apps, eventos da agenda, itens da Lista de bloqueio e o Assistente entre todos os seus dispositivos conectados."</string>
-    <string name="privacy_dialog_sync_all_purpose_china">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do Navegador, fotos e vídeos, configurações do Wi-Fi, gravações, layout da Tela inicial, apps, eventos da agenda, itens da Lista de bloqueio e o Assistente entre todos os seus dispositivos conectados."</string>
-    <string name="privacy_dialog_sync_all_purpose_china_v2">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do Navegador, fotos e vídeos, configurações do Wi-Fi, gravações, layout da Tela inicial, apps, eventos da agenda, itens da Lista de bloqueio e o Assistente entre todos os seus dispositivos conectados."</string>
-    <string name="privacy_dialog_sync_all_purpose_pad">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, contatos, notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, itens da Lista de bloqueio entre todos os seus dispositivos conectados."</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, itens da Lista de bloqueio entre todos os seus dispositivos conectados."</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar seus contatos, notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, itens da Lista de bloqueio entre todos os seus dispositivos conectados."</string>
-    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, itens da Lista de bloqueio entre todos os seus dispositivos conectados."</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do Navegador, fotos e vídeos, configurações do Wi-Fi, gravações, layout da Tela inicial, apps, eventos da agenda, itens da Lista de bloqueio e o Assistente entre todos os seus dispositivos conectados.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do Navegador, fotos e vídeos, configurações do Wi-Fi, gravações, layout da Tela inicial, apps, eventos da agenda, itens da Lista de bloqueio e o Assistente entre todos os seus dispositivos conectados.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, contatos, notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, itens da Lista de bloqueio entre todos os seus dispositivos conectados.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, itens da Lista de bloqueio entre todos os seus dispositivos conectados.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar seus contatos, notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, itens da Lista de bloqueio entre todos os seus dispositivos conectados.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, itens da Lista de bloqueio entre todos os seus dispositivos conectados.</string>
     <string name="privacy_dialog_sync_all_purpose_v2">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do Navegador, músicas, fotos e vídeos, configurações do Wi-Fi, gravações, layout da Tela inicial, apps, eventos da agenda, itens da Lista de bloqueio e o Assistente entre todos os seus dispositivos conectados."</string>
     <string name="privacy_doc_cloudservice">"Bem-vindo aos serviços MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do Navegador, músicas, fotos e vídeos, configurações do Wi-Fi, gravações, layout da Tela inicial, apps, eventos da agenda, itens da Lista de bloqueio e o Assistente entre todos os seus dispositivos conectados. Acesse o que você sincronizar a partir de qualquer navegador em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Uma mensagem SMS pode ser requerida para ativar estes serviços. A sua operadora cobrará por esta mensagem. Quando você trocar de cartões SIM, uma mensagem poderá ser enviada automaticamente para reativar estes serviços.&lt;br /&gt;&lt;br /&gt;Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br /&gt;Para funcionar normalmente, estes serviços precisam de uma conexão com a internet e requerem as seguintes permissões para coletar suas informações pessoais:&lt;br /&gt;• Agenda:&lt;br /&gt;Para sincronizar eventos&lt;br /&gt;• Acesso a SMS:&lt;br /&gt;Para sincronizar mensagens&lt;br /&gt;• Acesso a MMS:&lt;br /&gt;Para sincronizar mensagens&lt;br /&gt;• Acesso a contatos:&lt;br /&gt;Para sincronizar contatos&lt;br /&gt;• Editar contatos:&lt;br /&gt;Para sincronizar contatos&lt;br /&gt;• Armazenamento:&lt;br /&gt;Para salvar itens no seu dispositivo (ex.: imagens, vídeos, músicas)&lt;br /&gt;Se você não concorda em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar estes serviços. Você pode optar por desinstalar este app, sair ou restringir suas permissões nas Configurações nesses casos.&lt;br /&gt;Leia e aceite o nosso &lt;a href=%1$s&gt;&lt;u&gt;Contrato do Usuário&lt;/u&gt;&lt;/a&gt; e a &lt;a href=%2$s&gt;&lt;u&gt;Política de Privacidade&lt;/u&gt;&lt;/a&gt; antes de usar a MiCloud.&lt;br /&gt;"</string>
     <string name="privacy_doc_cloudservice_china">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do Navegador, músicas, fotos e vídeos, configurações do Wi-Fi, gravações, layout da Tela inicial, apps, eventos da agenda, itens da Lista de bloqueio e o Assistente entre todos os seus dispositivos conectados. Acesse o que você sincronizar por qualquer navegador em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Uma mensagem SMS pode ser necessária para ativar estes serviços. A sua operadora cobrará por esta mensagem. Quando você trocar de cartões SIM, uma mensagem poderá ser enviada automaticamente para reativar estes serviços.&lt;br /&gt;&lt;br /&gt;Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br /&gt;Para funcionar normalmente, estes serviços precisam se conectar à internet e requerem as seguintes permissões para coletar suas informações pessoais:&lt;br /&gt;• Agenda:&lt;br /&gt;Para sincronizar eventos&lt;br /&gt;• Acessar SMS:&lt;br /&gt;Para sincronizar mensagens&lt;br /&gt;• Acessar MMS:&lt;br /&gt;Para sincronizar mensagens&lt;br /&gt;• Acessar contatos:&lt;br /&gt;Para sincronizar contatos&lt;br /&gt;• Editar contatos:&lt;br /&gt;Para sincronizar contatos&lt;br /&gt;• Armazenamento:&lt;br /&gt;Para salvar itens no seu dispositivo (ex.: imagens, vídeos, músicas)&lt;br /&gt;Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar estes serviços. Você pode optar por desinstalar este app, sair ou restringir suas permissões nas Configurações nestes casos.&lt;br /&gt;Leia e aceite o nosso &lt;a href=%1$s&gt;&lt;u&gt;Contrato do Usuário&lt;/u&gt;&lt;/a&gt; e a &lt;a href=%2$s&gt;&lt;u&gt;Política de Privacidade&lt;/u&gt;&lt;/a&gt; antes de usar a MiCloud.&lt;br /&gt;"</string>
@@ -777,8 +777,8 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="privacy_doc_cloudservice_pad_without_contact_but_sim">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas mensagens, notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, e itens da Lista de bloqueio entre todos os seus dispositivos conectados. Acesse os itens que você sincroniza de qualquer navegador em &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Para ativar estes serviços, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mensagem SMS&lt;/b>&lt;/font> será enviada. Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mensagem SMS&lt;/b>&lt;/font> será enviada automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens.&lt;br />&lt;br />Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br />Para funcionar normalmente, estes serviços precisam de uma conexão com a internet e requerem as seguintes permissões para coletar suas informações pessoais:&lt;br />• Agenda:&lt;br />Para sincronizar eventos&lt;br />• Acesso a SMS:&lt;br />Para sincronizar mensagens&lt;br />• Acesso a MMS:&lt;br />Para sincronizar mensagens&lt;br />• Armazenamento:&lt;br />Para salvar itens no seu dispositivo (ex.: imagens, vídeos)&lt;br />Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar estes serviços. Você pode optar por desinstalar este app, sair ou restringir suas permissões nas Configurações nestes casos.&lt;br />Leia e aceite o nosso &lt;a href=%2$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> e a &lt;a href=%3$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de usar nossos serviços.&lt;br />"</string>
     <string name="privacy_doc_cloudservice_pad_without_sim_but_contact">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar seus contatos, notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, e itens da Lista de bloqueio entre todos os seus dispositivos conectados. Acesse os itens que você sincroniza de qualquer navegador em &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br />Para funcionar normalmente, estes serviços precisam de uma conexão com a internet e requerem as seguintes permissões para coletar suas informações pessoais:&lt;br />• Agenda:&lt;br />Para sincronizar eventos&lt;br />• Acesso a contatos:&lt;br />Para sincronizar contatos&lt;br />• Editar contatos:&lt;br />Para sincronizar contatos&lt;br />• Armazenamento:&lt;br />Para salvar itens no seu dispositivo (ex.: imagens, vídeos)&lt;br />Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar estes serviços. Você pode optar por desinstalar este app, sair ou restringir suas permissões nas Configurações nestes casos.&lt;br />Leia e aceite o nosso &lt;a href=%2$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> e a &lt;a href=%3$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de usar nossos serviços.&lt;br />"</string>
     <string name="privacy_doc_cloudservice_pad_without_sim_or_contact">"Bem-vindo aos serviços da MiCloud! Você pode usar a MiCloud para sincronizar suas notas, configurações do Navegador, fotos e vídeos, gravações, eventos da agenda, e itens da Lista de bloqueio entre todos os seus dispositivos conectados. Acesse os itens que você sincroniza de qualquer navegador em &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br />Para funcionar normalmente, estes serviços precisam de uma conexão com a internet e requerem as seguintes permissões para coletar suas informações pessoais:&lt;br />• Agenda:&lt;br />Para sincronizar eventos&lt;br />• Armazenamento:&lt;br />Para salvar itens no seu dispositivo (ex.: imagens, vídeos)&lt;br />Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar estes serviços. Você pode optar por desinstalar este app, sair ou restringir suas permissões nas Configurações nestes casos.&lt;br />Leia e aceite o nosso &lt;a href=%2$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> e a &lt;a href=%3$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de usar nossos serviços.&lt;br />"</string>
-    <string name="privacy_doc_finddevice_pad">"Bem-vindo ao Encontrar dispositivo! Você pode usar este serviço para localizar, bloquear, ou apagar os dados no seu dispositivo caso ele seja perdido. Você pode acessar &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou redefini-lo.&lt;br /&gt;&lt;br /&gt;Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br /&gt;Para funcionar normalmente, este serviço precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:&lt;br /&gt;• Localização:&lt;br /&gt;Para localizar seu dispositivo e ativar o Modo perdido&lt;br /&gt;Caso não concorde em conceder estas permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este serviço. Você pode optar por desinstalar este app, sair ou restringir permissões nas Configurações nestes casos.&lt;br /&gt;Leia e aceite o nosso &lt;a href=%1$s&gt;&lt;u&gt;Contrato do Usuário&lt;/u&gt;&lt;/a&gt; e a &lt;a href=%2$s&gt;&lt;u&gt;Política de Privacidade&lt;/u&gt;&lt;/a&gt; antes de usar nossos serviços.&lt;br /&gt;"</string>
-    <string name="privacy_doc_finddevice_phone">"Bem-vindo ao Encontrar dispositivo! Você pode usar este serviço para localizar, bloquear, ou apagar os dados no seu dispositivo caso ele seja perdido. Você pode acessar &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou redefini-lo.&lt;br /&gt;&lt;br /&gt;Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br /&gt;Para funcionar normalmente, este serviço precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:&lt;br /&gt;• Localização:&lt;br /&gt;Para localizar seu dispositivo e ativar o Modo perdido&lt;br /&gt;Caso não concorde em conceder estas permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este serviço. Você pode optar por desinstalar este app, sair ou restringir permissões nas Configurações nestes casos.&lt;br /&gt;Leia e aceite o nosso &lt;a href=%1$s&gt;&lt;u&gt;Contrato do Usuário&lt;/u&gt;&lt;/a&gt; e a &lt;a href=%2$s&gt;&lt;u&gt;Política de Privacidade&lt;/u&gt;&lt;/a&gt; antes de usar nossos serviços.&lt;br /&gt;"</string>
+    <string name="privacy_doc_finddevice_pad">"Bem-vindo ao Encontrar dispositivo! Você pode usar este serviço para localizar, bloquear, ou apagar os dados no seu dispositivo caso ele seja perdido. Você pode acessar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> para localizar, bloquear ou redefini-lo.&lt;br />&lt;br />Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br />Para funcionar normalmente, este serviço precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:&lt;br />• Localização:&lt;br />Para localizar seu dispositivo e ativar o Modo perdido&lt;br />Caso não concorde em conceder estas permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este serviço. Você pode optar por desinstalar este app, sair ou restringir permissões nas Configurações nestes casos.&lt;br />Leia e aceite o nosso &lt;a href=%1$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> e a &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de usar nossos serviços.&lt;br />"</string>
+    <string name="privacy_doc_finddevice_phone">"Bem-vindo ao Encontrar dispositivo! Você pode usar este serviço para localizar, bloquear, ou apagar os dados no seu dispositivo caso ele seja perdido. Você pode acessar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> para localizar, bloquear ou redefini-lo.&lt;br />&lt;br />Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br />Para funcionar normalmente, este serviço precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:&lt;br />• Localização:&lt;br />Para localizar seu dispositivo e ativar o Modo perdido&lt;br />Caso não concorde em conceder estas permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este serviço. Você pode optar por desinstalar este app, sair ou restringir permissões nas Configurações nestes casos.&lt;br />Leia e aceite o nosso &lt;a href=%1$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> e a &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de usar nossos serviços.&lt;br />"</string>
     <string name="privacy_doc_finddevice_with_telephony_feature_pad">"Bem-vindo ao Encontrar dispositivo! Você pode usar este serviço para localizar, bloquear ou apagar os dados no seu dispositivo caso você o perca. Você pode acessar &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou redefini-lo.&lt;br /&gt;&lt;br /&gt;Uma mensagem SMS pode ser requerida para ativar este serviço. A sua operadora cobrará por esta mensagem. Quando você trocar de cartões SIM, uma mensagem poderá ser enviada automaticamente para reativar este serviço.&lt;br /&gt;&lt;br /&gt;Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br /&gt;Para funcionar normalmente, este serviço precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:&lt;br /&gt;• Acessar informações do dispositivo:&lt;br /&gt;Para identificar seu dispositivo&lt;br /&gt;• Localização:&lt;br /&gt;Para localizar seu dispositivo e ativar o Modo perdido&lt;br /&gt;Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este serviço. Você pode optar por desinstalar este app, sair ou restringir permissões nas Configurações nestes casos.&lt;br /&gt;Leia e aceite o nosso &lt;a href=%1$s&gt;&lt;u&gt;Contrato do Usuário&lt;/u&gt;&lt;/a&gt; e a &lt;a href=%2$s&gt;&lt;u&gt;Política de Privacidade&lt;/u&gt;&lt;/a&gt; antes de usar o Encontrar dispositivo.&lt;br /&gt;"</string>
     <string name="privacy_doc_finddevice_with_telephony_feature_pad_inter_with_charge_hint">"Bem-vindo ao Encontrar dispositivo! Você pode usar este serviço para localizar, bloquear, ou apagar os dados no seu dispositivo caso você o perca. Você pode acessar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> para localizar, bloquear ou redefini-lo.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente para ativar este serviço. Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens.&lt;br />&lt;br />Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br />Para funcionar normalmente, este serviço precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:&lt;br />• Acessar informações do dispositivo:&lt;br />Para identificar seu dispositivo&lt;br />• Localização:&lt;br />Para localizar seu dispositivo e ativar o Modo perdido&lt;br />Caso não concorde em conceder estas permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este serviço. Você pode optar por desinstalar este app, sair ou restringir permissões nas Configurações nestes casos.&lt;br />Leia e aceite o nosso &lt;a href=%2$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> e a &lt;a href=%3$s>&lt;u>Política de Privacidadey&lt;/u>&lt;/a> antes de usar nossos serviços.&lt;br />"</string>
     <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_common_charge_hint">"Bem-vindo ao Encontrar dispositivo! Você pode usar este serviço para localizar, bloquear, ou apagar os dados no seu dispositivo caso você o perca. Você pode acessar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> para localizar, bloquear ou redefini-lo.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente para ativar este serviço. Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens.&lt;br />&lt;br />Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br />Para funcionar normalmente, este serviço precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:&lt;br />• Acessar informações do dispositivo:&lt;br />Para identificar seu dispositivo&lt;br />• Localização:&lt;br />Para localizar seu dispositivo e ativar o Modo perdido&lt;br />Caso não concorde em conceder estas permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este serviço. Você pode optar por desinstalar este app, sair ou restringir permissões nas Configurações nestes casos.&lt;br />Leia e aceite o nosso &lt;a href=%2$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> e a &lt;a href=%3$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de usar nossos serviços.&lt;br />"</string>
@@ -818,12 +818,12 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="quick_service_maintenance_price_title">Reparos</string>
     <string name="quick_service_title">Serviços rápidos</string>
     <string name="reading_status">Carregando status…</string>
-    <string name="reading_status_failure">Não foi possível carregar o status.</string>
+    <string name="reading_status_failure">"Não foi possível carregar o status."</string>
     <string name="recommend_service_cloudservice_description">Sincronizar dados dos apps do sistema, fazer backup das configurações, layout da Tela inicial e muito mais</string>
     <string name="recommend_service_sharelocation_description">Localizar, bloquear e excluir todos os dados nos dispositivos perdidos e compartilhar a localização com os seus amigos e familiares</string>
     <string name="recommend_service_title">Serviços recomendados</string>
     <string name="retain_data_high_quality_photo_waring_message">Cópias de alta qualidade de suas fotos e vídeos serão excluídas da Galeria após você encerrar a sessão. Os arquivos originais serão mantidos na MiCloud. Você também pode baixar os arquivos originais antes de encerrar a sessão</string>
-    <string name="retain_data_high_quality_photo_waring_title">Imagens de alta qualidade não estarão disponíveis</string>
+    <string name="retain_data_high_quality_photo_waring_title">"Imagens de alta qualidade não estarão disponíveis"</string>
     <string name="revoke_block_by_find_device">"Retirar o consentimento também desativará o Encontrar dispositivo. Você terá que verificar sua senha depois de continuar."</string>
     <string name="revoke_permission_content">"Você não poderá continuar usando o Encontrar dispositivo se você remover permissões. Encontrar dispositivo será desativado também. Você será solicitado a verificar sua senha antes de remover."</string>
     <string name="revoke_permission_title">Atenção!</string>
@@ -856,8 +856,8 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_location_menu_finddevice_settings">Configurações do Encontrar dispositivo</string>
     <string name="share_location_menu_help">Ajuda e feedback</string>
     <string name="share_location_menu_messages">Histórico de mensagens</string>
-    <string name="share_location_start_navigation_error">Não foi possível encontrar mapas no seu dispositivo</string>
-    <string name="share_miliao_not_installed">O Mi Talk não está instalado.</string>
+    <string name="share_location_start_navigation_error">"Não foi possível encontrar mapas no seu dispositivo"</string>
+    <string name="share_miliao_not_installed">"O Mi Talk não está instalado."</string>
     <string name="share_sdk_btn_already_shared_text">Convite enviado</string>
     <string name="share_sdk_btn_quit_share_text">Parar compartilhamento</string>
     <string name="share_sdk_btn_resend_share_text">Enviar novamente</string>
@@ -867,18 +867,18 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_btn_undo_invitation_confirm_text">Desfazer convite agora?</string>
     <string name="share_sdk_btn_undo_invitation_text">Cancelar convites</string>
     <string name="share_sdk_business_btn_grant_permission_text">Aceitar e continuar</string>
-    <string name="share_sdk_business_family_invite_preference_summary">Compartilhar localização e controlar os dispositivos um do outro</string>
+    <string name="share_sdk_business_family_invite_preference_summary">"Compartilhar localização e controlar os dispositivos um do outro"</string>
     <string name="share_sdk_business_family_member_actionbar_subtitle">Compartilhe informações de localização com amigos</string>
     <string name="share_sdk_business_high_risk_invite_success_summary">Seu convite foi enviado em uma mensagem de texto e notificação do sistema.</string>
     <string name="share_sdk_business_introduction">Você pode compartilhar informações de localização com seus amigos e familiares para garantir que eles estejam seguros, bem como para ajudá-los a lidar com seus dispositivos perdidos.</string>
-    <string name="share_sdk_business_low_risk_invite_success_summary">Você pode compartilhar informações de localização com seus amigos e familiares, assim como controlar os dispositivos uns dos outros.</string>
+    <string name="share_sdk_business_low_risk_invite_success_summary">"Você pode compartilhar informações de localização com seus amigos e familiares, assim como controlar os dispositivos uns dos outros."</string>
     <string name="share_sdk_business_main_title">Compartilhar localização</string>
     <string name="share_sdk_business_permission_title">Selecionar itens</string>
     <string name="share_sdk_business_qr_code_invite_title">Digitalize o código QR para aceitar o convite para compartilhar a localização</string>
-    <string name="share_sdk_business_suggest_member_actionbar_subtitle">Compartilhar localização e controlar os dispositivos um do outro</string>
+    <string name="share_sdk_business_suggest_member_actionbar_subtitle">"Compartilhar localização e controlar os dispositivos um do outro"</string>
     <string name="share_sdk_business_wechat_invite_description">%1$s convidou você a compartilhar a localização</string>
     <string name="share_sdk_business_wechat_invite_title">Comece a compartilhar o local conosco</string>
-    <string name="share_sdk_contact_invite_result_category_send_fail_summary">Os seguintes convites não foram enviados devido a números de telefone incorretos</string>
+    <string name="share_sdk_contact_invite_result_category_send_fail_summary">"Os seguintes convites não foram enviados devido a números de telefone incorretos"</string>
     <string name="share_sdk_contact_invite_result_category_send_fail_title">Não entregue</string>
     <string name="share_sdk_contact_invite_result_category_title_send_success">Entregue ou aceite</string>
     <string name="share_sdk_dialog_cancel">Cancelar</string>
@@ -888,10 +888,10 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_error_current_sharing_invalid">Compartilhamento interrompido</string>
     <string name="share_sdk_error_too_frequent">Muitos pedidos. Aguarde alguns minutos e tente novamente.</string>
     <string name="share_sdk_error_update_sharing">Selecione pelo menos 1 item</string>
-    <string name="share_sdk_error_user_already_invited">Você já convidou esta pessoa</string>
-    <string name="share_sdk_error_user_invalid">Este usuário não existe</string>
+    <string name="share_sdk_error_user_already_invited">"Você já convidou esta pessoa"</string>
+    <string name="share_sdk_error_user_invalid">"Este usuário não existe"</string>
     <string name="share_sdk_error_user_myself">Você não pode convidar a si mesmo</string>
-    <string name="share_sdk_error_user_not_support">Não é possível convidar pessoas desta região</string>
+    <string name="share_sdk_error_user_not_support">"Não é possível convidar pessoas desta região"</string>
     <string name="share_sdk_expire_time">Período de validade do convite: %1$s</string>
     <string name="share_sdk_family_member_title">Membros familiares</string>
     <string name="share_sdk_invitation_not_accepted_now">O convite ainda não foi aceito</string>
@@ -901,7 +901,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_invite_suggestion_list_error">Nenhuma pessoa recomendada para convidar</string>
     <string name="share_sdk_invite_way_contact_summary">Convide várias pessoas de uma só vez</string>
     <string name="share_sdk_invite_way_contact_title">Convidar por SMS</string>
-    <string name="share_sdk_invite_way_qr_code_summary">Use o app Scanner do seu dispositivo ou do WeChat</string>
+    <string name="share_sdk_invite_way_qr_code_summary">"Use o app Scanner do seu dispositivo ou do WeChat"</string>
     <string name="share_sdk_invite_way_qr_code_title">Convidar por código QR</string>
     <string name="share_sdk_invite_way_wechat_summary">Convide pessoas ou grupos</string>
     <string name="share_sdk_invite_way_wechat_title">Convidar por WeChat</string>
@@ -916,7 +916,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_pref_category_title_scan_qr_code">Digitalizar código QR</string>
     <string name="share_sdk_pref_family_detail_title">Ver detalhes do grupo familiar</string>
     <string name="share_sdk_privacy_link_description">Leia e aceite a <u><a href="https://account.xiaomi.com/about/protocol/privacy">Política de Privacidade da Conta Mi</a></u> antes de usar este serviço.</string>
-    <string name="share_sdk_qr_code_description">Convite de %1$s</string>
+    <string name="share_sdk_qr_code_description">"Convite de %1$s"</string>
     <string name="share_sdk_qr_code_expire_time">Período de validade do código QR: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Muitos convites foram enviados. Tente novamente em 24 horas.</string>
     <string name="share_sdk_search_hint">Número de telefone/ID da Conta Mi</string>
@@ -929,18 +929,18 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_user_info_already_shared">Compartilhado</string>
     <string name="share_sdk_user_info_family_suffix">" (Membro familiar)"</string>
     <string name="share_sdk_user_info_no_account_id">Esta pessoa não tem uma Conta Mi</string>
-    <string name="share_sdk_user_info_no_bind_phone_number">Esta Conta Mi não está associada a um número de telefone</string>
+    <string name="share_sdk_user_info_no_bind_phone_number">"Esta Conta Mi não está associada a um número de telefone"</string>
     <string name="share_sdk_user_info_phone_number">Número de telefone: %1$s</string>
     <string name="share_sdk_user_info_role_format">Função: %1$s</string>
     <string name="share_sdk_user_info_role_organizer">Organizador</string>
     <string name="share_sdk_user_info_role_sharer">Membro</string>
     <string name="share_sdk_user_info_wechat_user">Usuários do WeChat</string>
     <string name="share_success">Compartilhado</string>
-    <string name="share_weibo_not_installed">O Weibo não está instalado.</string>
-    <string name="share_weixin_not_installed">O WeChat não está instalado.</string>
+    <string name="share_weibo_not_installed">"O Weibo não está instalado."</string>
+    <string name="share_weixin_not_installed">"O WeChat não está instalado."</string>
     <string name="short_cut_desc">Adicionar ícone da MiCloud à Tela inicial?</string>
-    <string name="sina_share_fail">Não foi possível enviar</string>
-    <string name="sina_share_fail_content_repeat">Você já compartilhou isto</string>
+    <string name="sina_share_fail">"Não foi possível enviar"</string>
+    <string name="sina_share_fail_content_repeat">"Você já compartilhou isto"</string>
     <string name="sina_share_pendding">Enviando…</string>
     <string name="sina_share_success">Enviar</string>
     <string name="sina_token_expired_warning">Conta do Weibo expirada, adicione a conta novamente.</string>
@@ -990,7 +990,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="storage_upgrade_card_title">Atualize seu plano</string>
     <string name="sub_alert_notif_content">Ativar a MiCloud</string>
     <string name="sub_alert_notif_title">Sincronizar com a MiCloud</string>
-    <string name="sub_sync_item_sms_summary">Apenas sincronizar mensagens contendo fotos, áudio ou outras mídias quando você estiver conectado a uma rede Wi-Fi</string>
+    <string name="sub_sync_item_sms_summary">"Apenas sincronizar mensagens contendo fotos, áudio ou outras mídias quando você estiver conectado a uma rede Wi-Fi"</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS apenas por Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Sincronizar MMS apenas por Wi-Fi</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -1002,12 +1002,12 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="sync_detail_text">Detalhes da sincronização</string>
     <string name="sync_dspt">Sincronização</string>
     <string name="sync_dspt_entrance_provision">Sincronize suas fotos, notas e outros itens entre os seus dispositivos. Acesse os itens que você sincroniza de qualquer navegador em %s.</string>
-    <string name="sync_dspt_entrance_provision_confirm_close">Não usar</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">"Não usar"</string>
     <string name="sync_dspt_entrance_provision_confirm_content">Os apps de sistema precisam da MiCloud para fazer o backup das suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_pad">Você pode usar a MiCloud para fazer backup de suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">Os apps de sistema precisam da MiCloud para fazer backup de suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Usar a MiCloud</string>
-    <string name="sync_dspt_entrance_provision_confirm_title">Não usar a MiCloud?</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">"Não usar a MiCloud?"</string>
     <string name="sync_dspt_entrance_provision_network">Este app precisa de uma conexão com a internet para funcionar normalmente. A sincronização de dados pode requerer uma conexão de dados móveis e o Wi-Fi ativados.</string>
     <string name="sync_dspt_entrance_provision_network_china">Este app precisa se conectar à internet para funcionar normalmente. A sincronização de dados pode exigir conexão de dados móveis e/ou ativar o Wi-Fi.</string>
     <string name="sync_dspt_entrance_provision_skip">Pular este passo</string>
@@ -1019,10 +1019,10 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="sync_item_sms_summary">Sincronizar os SMS enviados e recebidos neste dispositivo</string>
     <string name="sync_item_sms_title">Sincronizar mensagens</string>
     <string name="sync_item_title">Sincronizar dados de apps</string>
-    <string name="sync_normal_summary">Alguns itens da lista abaixo não puderam ser sincronizados</string>
-    <string name="sync_normal_title">Não foi possível concluir a sincronização</string>
+    <string name="sync_normal_summary">"Alguns itens da lista abaixo não puderam ser sincronizados"</string>
+    <string name="sync_normal_title">"Não foi possível concluir a sincronização"</string>
     <string name="sync_off">Desativado</string>
-    <string name="sync_off_confirm_content">Você não poderá sincronizar novas senhas após desativar o Gerenciador de senhas.</string>
+    <string name="sync_off_confirm_content">"Você não poderá sincronizar novas senhas após desativar o Gerenciador de senhas."</string>
     <string name="sync_off_confirm_title">Atenção!</string>
     <string name="sync_on">Ativado</string>
     <string name="sync_page_autofill_login">Faça o login na Conta Mi para usar o Gerenciador de senhas</string>
@@ -1030,7 +1030,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="sync_page_route_message">O Gerenciador de senhas permite criptografar as suas senhas e armazená-las na MiCloud. Ativar o Gerenciador de senhas agora?</string>
     <string name="sync_page_route_not_now">Não, obrigado</string>
     <string name="sync_page_route_ok">Ativar</string>
-    <string name="sync_page_route_remember">Não mostrar novamente</string>
+    <string name="sync_page_route_remember">"Não mostrar novamente"</string>
     <string name="sync_setting_title">Configurações de sincronização</string>
     <string name="sync_sub_1_intl_sms">Um SMS internacional pode ser requerido para ativar este serviço. Sua operadora poderá cobrá-lo por esta mensagem.</string>
     <string name="sync_sub_1_sms">Um SMS pode ser requerido para ativar este serviço. Sua operadora poderá cobrá-lo por esta mensagem.</string>
@@ -1107,7 +1107,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="update_dialog_title">Atualização disponível</string>
     <string name="update_dialog_update_button_text">Atualizar</string>
     <string name="upgrade_member_storage">Assinatura da MiCloud</string>
-    <string name="user_agreement_content">Ao usar este serviço, você estará concordando com os %s.</string>
+    <string name="user_agreement_content">"Ao usar este serviço, você estará concordando com os %s."</string>
     <string name="user_agreement_link">Termos de Serviço da MiCloud</string>
     <string name="user_agreement_title">Termos de Serviço da MiCloud</string>
     <string name="user_storage_info_available_text_prefix">%s disponível</string>
@@ -1139,7 +1139,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="wipe_data_dialog_button_check_sync">Verificar sincronização</string>
-    <string name="wipe_data_dialog_msg">Alguns itens %s não estão sincronizados. Eles serão salvos no seu dispositivo e não serão excluídos.</string>
+    <string name="wipe_data_dialog_msg">"Alguns itens %s não estão sincronizados. Eles serão salvos no seu dispositivo e não serão excluídos."</string>
     <string name="wipe_data_dialog_msg_and_on">, e alguns outros itens</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Itens não sincronizados</string>

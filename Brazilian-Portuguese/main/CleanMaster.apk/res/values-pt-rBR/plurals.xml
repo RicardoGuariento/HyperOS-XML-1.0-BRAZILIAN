@@ -2,25 +2,21 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
-        <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Em %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Em %d mins</item>
@@ -28,23 +24,22 @@
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">Sem uso por %d dias</item>
-        <item quantity="one">Sem uso por %d dia</item>
+        <item quantity="other">"Sem uso por %d dias"</item>
+        <item quantity="one">"Sem uso por %d dia"</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">Sem uso por %d meses</item>
-        <item quantity="one">Sem uso por %d mês</item>
+        <item quantity="other">"Sem uso por %d meses"</item>
+        <item quantity="one">"Sem uso por %d mês"</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">Sem uso por %d anos</item>
-        <item quantity="one">Sem uso por %d ano</item>
+        <item quantity="other">"Sem uso por %d anos"</item>
+        <item quantity="one">"Sem uso por %d ano"</item>
     </plurals>
     <plurals name="clean_app_data_selected_app">
         <item quantity="other">%d apps selecionados para limpar dados</item>
@@ -69,32 +64,32 @@
         <item quantity="one">Mais %1$d passo para liberar %2$s</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
-        <item quantity="other">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> APKs&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> APK&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> APKs&lt;/Data></item>
+        <item quantity="one">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> APK&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_app_data">
-        <item quantity="other">&lt;Data&gt;Pode limpar os dados de &lt;font color=#0097FF>%d&lt;/font> apps&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Pode limpar os dados de &lt;font color=#0097FF>%d&lt;/font> app&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Pode limpar os dados de &lt;font color=#0097FF>%d&lt;/font> apps&lt;/Data></item>
+        <item quantity="one">&lt;Data>Pode limpar os dados de &lt;font color=#0097FF>%d&lt;/font> app&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_app_reset">
         <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> apps usam muito armazenamento&lt;/Data></item>
         <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> app usa muito armazenamento&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_image">
-        <item quantity="other">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> fotos desnecessárias&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> foto desnecessária&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> fotos desnecessárias&lt;/Data></item>
+        <item quantity="one">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> foto desnecessária&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_large_file">
-        <item quantity="other">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> arquivos grandes&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> arquivo grande&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> arquivos grandes&lt;/Data></item>
+        <item quantity="one">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> arquivo grande&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
-        <item quantity="other">&lt;Data&gt;Desinstale &lt;font color=#0097FF>%d&lt;/font> apps raramente usados&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Desinstale &lt;font color=#0097FF>%d&lt;/font> app raramente usado&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Desinstale &lt;font color=#0097FF>%d&lt;/font> apps raramente usados&lt;/Data></item>
+        <item quantity="one">&lt;Data>Desinstale &lt;font color=#0097FF>%d&lt;/font> app raramente usado&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_video">
-        <item quantity="other">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> vídeos&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> vídeo&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> vídeos&lt;/Data></item>
+        <item quantity="one">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> vídeo&lt;/Data></item>
     </plurals>
     <plurals name="deepclean_apk_summary">
         <item quantity="other">%d APKs encontrados, você pode excluir os desnecessários.</item>
@@ -170,15 +165,12 @@
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
-        <item quantity="one">Em 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
@@ -202,7 +194,6 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="million">
         <item quantity="other">Baixado por %1$d pessoas</item>
@@ -241,8 +232,8 @@
         <item quantity="one">%d app selecionado para redefinir</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; não foram usados por um bom tempo, dê uma olhada.&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; não foi usado por um bom tempo, dê uma olhada.&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> não foram usados por um bom tempo, dê uma olhada."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> não foi usado por um bom tempo, dê uma olhada."&lt;/Data></item>
     </plurals>
     <plurals name="rs_clean_size_hint_image">
         <item quantity="other">O suficiente para %d fotos</item>
@@ -273,8 +264,8 @@
         <item quantity="one">%1$s visualização</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
-        <item quantity="other">Não foi possível exportar %d vídeos. Libere algum espaço e tente novamente.</item>
-        <item quantity="one">Não foi possível exportar %d vídeo. Libere algum espaço e tente novamente.</item>
+        <item quantity="other">"Não foi possível exportar %d vídeos. Libere algum espaço e tente novamente."</item>
+        <item quantity="one">"Não foi possível exportar %d vídeo. Libere algum espaço e tente novamente."</item>
     </plurals>
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d arquivos vazios)</item>

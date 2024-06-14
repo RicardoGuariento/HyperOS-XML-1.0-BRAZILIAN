@@ -17,7 +17,6 @@
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Em %d mins</item>
@@ -25,7 +24,6 @@
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins atrás</item>
@@ -64,8 +62,8 @@
         <item quantity="one">Excluir %d número de telefone?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$d contatos ou fotos não foram sincronizados</item>
-        <item quantity="one">%1$d contato ou foto não foi sincronizado</item>
+        <item quantity="other">"%1$d contatos ou fotos não foram sincronizados"</item>
+        <item quantity="one">"%1$d contato ou foto não foi sincronizado"</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Excluir %1$d contatos do cartão SIM?</item>
@@ -220,8 +218,8 @@
         <item quantity="one">%s resultado</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
-        <item quantity="other">Selecione até %1$d, não é possível selecionar tudo</item>
-        <item quantity="one">Selecione até %1$d, não é possível selecionar tudo</item>
+        <item quantity="other">"Selecione até %1$d, não é possível selecionar tudo"</item>
+        <item quantity="one">"Selecione até %1$d, não é possível selecionar tudo"</item>
     </plurals>
     <plurals name="select_exceed_plurals">
         <item quantity="other">Selecione até %1$d</item>
