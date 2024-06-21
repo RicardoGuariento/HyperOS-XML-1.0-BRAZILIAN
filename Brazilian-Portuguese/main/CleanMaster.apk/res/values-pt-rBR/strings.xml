@@ -237,7 +237,12 @@
     <string name="columbus_player_speed_title">Pular vídeo?</string>
     <string name="columbus_player_speed_video">Pular VÍDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
+    <string name="columbus_reward_style_access">Saiba mais</string>
+    <string name="columbus_reward_style_close_cancel">Sair</string>
+    <string name="columbus_reward_style_close_desc">Termine de assistir ao vídeo para receber uma recompensa. Continuar assistindo?</string>
+    <string name="columbus_reward_style_speed_confirm">Continuar</string>
     <string name="columbus_skip_ad">Pular</string>
+    <string name="columbus_skip_ad_time">Pular (%d)</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
@@ -699,6 +704,9 @@
     <string name="msg_update_error_code_unknown_error">Os servidores estão ocupados. Aguarde alguns minutos e tente novamente.</string>
     <string name="name_debuglog_dir">Log de depuração BSP</string>
     <string name="name_optimizer">Política de Privacidade</string>
+    <string name="native_body">Corpo</string>
+    <string name="native_headline">Título</string>
+    <string name="native_media_view">Visualização de mídia</string>
     <string name="nb_clear_set">Limpar cache, ver informações de bateria e lista de bloqueio na Área de notificações</string>
     <string name="network_not_available">"Não é possível conectar-se à rede"</string>
     <string name="news_change">Alterar</string>

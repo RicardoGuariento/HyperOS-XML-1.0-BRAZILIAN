@@ -143,6 +143,7 @@
     <string name="control_center_title">Tempo de tela hoje</string>
     <string name="control_center_title_new">Tempo de tela hoje</string>
     <string name="copy">Copiar</string>
+    <string name="crazy_mode">Modo ultra</string>
     <string name="create">Criar</string>
     <string name="create_failed">Não foi possível criar</string>
     <string name="create_shortcut">Atalho na Tela inicial</string>
@@ -525,6 +526,7 @@ não são geradas no Segundo espaço"</string>
     <string name="p3_color_region_summary">Exibir todo o conteúdo da tela em gama de cores P3</string>
     <string name="pallas_s_cat">Gato-de-pallas</string>
     <string name="parasitic_jaeger">Moleiro-parasítico</string>
+    <string name="performance_mode">Modo desempenho</string>
     <string name="personality_hint_ringtone">Sons personalizados</string>
     <string name="petaurus_breviceps">Petauro-do-açúcar</string>
     <string name="phoebastria_irrorata">Phoebastria irrorata</string>
@@ -582,9 +584,11 @@ não são geradas no Segundo espaço"</string>
     <string name="sea_eagle_info">"As águias de cauda branca são poderosos predadores de ápice e necrófagos oportunistas que geralmente vivem perto de grandes corpos d'água."</string>
     <string name="sea_otter">Lontra-marinha</string>
     <string name="seal_info">Focas são mamíferos marinhos que se movem rapidamente em águas profundas, alimentando-se de peixes e camarões.</string>
+    <string name="search_anti_flicker_mode">DC dimming</string>
     <string name="search_app_name">Pesquisar por apps</string>
     <string name="search_app_tips">Pesquisar apps</string>
     <string name="search_empty">Nenhum app encontrado</string>
+    <string name="search_low_flicker_mode">DC dimming</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_nature_mix">Museu Natural;Animais</string>
     <string name="search_notification_sound">Toque de notificação;personalidade;exclusivo;museu natural;animal</string>
@@ -1043,4 +1047,6 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="yesterday">Ontem</string>
     <string name="yunnan_snub_nosed_monkey">Macaco-preto-de-nariz-arrebitado</string>
     <string name="footer_global_fps">"%1$d. Ao ativar o Modo desempenho, a taxa de atualização será alterada para o máximo do sistema de %2$d Hz. As configurações do app com alta taxa de atualização ficarão temporariamente indisponíveis."</string>
+    <string name="footer_global_fps_new">"
+%1$d. %2$s aumenta a taxa de atualização para o máximo do sistema de %3$d Hz. As configurações do app com alta taxa de atualização ficarão temporariamente indisponíveis."</string>
 </resources>

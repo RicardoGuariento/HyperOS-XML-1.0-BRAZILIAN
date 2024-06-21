@@ -42,7 +42,7 @@
 Para compreender totalmente os seus direitos como usuário, bem como as maneiras como processamos seus dados, leia a \"Declaração da Kingsoft sobre Proteção de Dados Pessoais de Menores\"."</string>
     <string name="account_child_dialog_title">"Declaração sobre proteção de dados pessoais de menores"</string>
     <string name="account_child_save_statement">"Declaração da Kingsoft sobre proteção de dados pessoais de menores"</string>
-    <string name="account_duplicate_dlg_message_fmt">Você já está usando este nome de usuário para a conta \"%s\".</string>
+    <string name="account_duplicate_dlg_message_fmt">"Você já está usando este nome de usuário para a conta \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Conta duplicada</string>
     <string name="account_failure">Tempo limite da sessão</string>
     <string name="account_login_type_title">Adicionar conta %1$s</string>
@@ -77,7 +77,7 @@ Para compreender totalmente os seus direitos como usuário, bem como as maneiras
     <string name="account_settings_data_usage">Configurações de sincronização</string>
     <string name="account_settings_description_label">Nome da conta</string>
     <string name="account_settings_display">Exibição</string>
-    <string name="account_settings_does_not_support_pop">Este recurso não é compatível com POP3</string>
+    <string name="account_settings_does_not_support_pop">"Este recurso não é compatível com POP3"</string>
     <string name="account_settings_does_not_support_pop_attachment">"POP3 pode baixar anexos automaticamente, mas não pode editá-los."</string>
     <string name="account_settings_edit_quick_responses_label">Resposta rápida</string>
     <string name="account_settings_edit_quick_responses_summary">Editar mensagens curtas para colar em e-mails</string>
@@ -87,7 +87,7 @@ Alterá-los agora?"</string>
     <string name="account_settings_login_dialog_reason_fmt">Não foi possível fazer login em %1$s. O servidor respondeu: %2$s. Atualizar seu usuário ou senha?</string>
     <string name="account_settings_login_dialog_title">Não foi possível fazer o login</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Você precisa atualizar o E-mail manualmente para sincronizar as mensagens</string>
-    <string name="account_settings_mail_check_frequency_dialog_title_eas">Você precisará sincronizar o E-mail manualmente para sincronizar eventos da agenda e mensagens.</string>
+    <string name="account_settings_mail_check_frequency_dialog_title_eas">"Você precisará sincronizar o E-mail manualmente para sincronizar eventos da agenda e mensagens."</string>
     <string name="account_settings_mail_check_frequency_label">Frequência de sincronização</string>
     <string name="account_settings_mibill_resolve_label">Gerenciar faturas automaticamente</string>
     <string name="account_settings_name_label">Apelido</string>
@@ -99,7 +99,7 @@ Alterá-los agora?"</string>
     <string name="account_settings_param">Configurações da conta</string>
     <string name="account_settings_preference_att_save_path">Caminho padrão para anexos</string>
     <string name="account_settings_preference_head_icon">Fotos de perfil</string>
-    <string name="account_settings_preference_head_icon_summary">A lista de discussão exibe o foto de perfil do remetente</string>
+    <string name="account_settings_preference_head_icon_summary">"A lista de discussão exibe o foto de perfil do remetente"</string>
     <string name="account_settings_preference_notify">Notificar</string>
     <string name="account_settings_receive_title">Recebendo e-mails</string>
     <string name="account_settings_ringtone">Som de notificação</string>
@@ -120,7 +120,7 @@ Alterá-los agora?"</string>
     <string name="account_settings_vibrate_when_label">Vibrar</string>
     <string name="account_setup_address_label">E-mail</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Confirme se o usuário, senha e configurações da conta estão corretas.</string>
-    <string name="account_setup_autodiscover_dlg_authfail_title">Não foi possível configurar a conta</string>
+    <string name="account_setup_autodiscover_dlg_authfail_title">"Não foi possível configurar a conta"</string>
     <string name="account_setup_basics_email_label">Endereço de e-mail</string>
     <string name="account_setup_basics_login_gmail_without_proxy">Fazer login usando a rede atual</string>
     <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
@@ -130,37 +130,37 @@ Alterá-los agora?"</string>
     <string name="account_setup_basics_title">Adicionar conta</string>
     <string name="account_setup_check_settings_check_incoming_msg">Validando as configurações do servidor…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Validando configurações de SMTP…</string>
-    <string name="account_setup_check_settings_retr_info_msg">Recuperando informações sobre a conta…</string>
+    <string name="account_setup_check_settings_retr_info_msg">"Recuperando informações sobre a conta…"</string>
     <string name="account_setup_correct_address_tips">O endereço de e-mail inserido é inválido.</string>
     <string name="account_setup_creating_account_msg">Criando conta…</string>
     <string name="account_setup_deleting_account_msg">"Removendo conta…"</string>
     <string name="account_setup_domain_invalid_toast">Insira um domínio de e-mail válido</string>
     <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
     <string name="account_setup_exchange_no_certificate">Nenhum</string>
-    <string name="account_setup_failed_auth_required">Este método de autenticação não é suportado pelo servidor.</string>
+    <string name="account_setup_failed_auth_required">"Este método de autenticação não é suportado pelo servidor."</string>
     <string name="account_setup_failed_certificate_inaccessible">O certificado é inválido ou inacessível.</string>
     <string name="account_setup_failed_certificate_required">É necessário um certificado de cliente. Deseja se conectar ao servidor com um certificado de cliente?</string>
     <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique seu nome de usuário e senha e tente novamente.</string>
-    <string name="account_setup_failed_dlg_auth_message">O nome de usuário ou senha que você inseriu não estão corretos. Insira novamente.</string>
+    <string name="account_setup_failed_dlg_auth_message">"O nome de usuário ou senha que você inseriu não estão corretos. Insira novamente."</string>
     <string name="account_setup_failed_dlg_bar_title">Formas de login em %s</string>
-    <string name="account_setup_failed_dlg_certificate_message">Não é possível se conectar ao servidor com segurança.</string>
+    <string name="account_setup_failed_dlg_certificate_message">"Não é possível se conectar ao servidor com segurança."</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível se conectar ao servidor com segurança.
 (%s)"</string>
     <string name="account_setup_failed_dlg_device_locked">Sua senha está protegida. Verifique o dispositivo usando o QQ Security ou remova a proteção.</string>
     <string name="account_setup_failed_dlg_edit_details_action">Editar detalhes</string>
     <string name="account_setup_failed_dlg_error_code">Código do erro: %s</string>
-    <string name="account_setup_failed_dlg_server_message">Não é possível conectar-se ao servidor.</string>
+    <string name="account_setup_failed_dlg_server_message">"Não é possível conectar-se ao servidor."</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Não é possível conectar-se ao servidor.
 (%s)"</string>
-    <string name="account_setup_failed_dlg_title">Não foi possível configurar a conta</string>
+    <string name="account_setup_failed_dlg_title">"Não foi possível configurar a conta"</string>
     <string name="account_setup_failed_dlg_todo2">Defina a conta como mostrado abaixo</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Erro desconhecido.</string>
-    <string name="account_setup_failed_ioerror">Não foi possível abrir a conexão com o servidor.</string>
-    <string name="account_setup_failed_protocol_unsupported">Você inseriu um endereço de servidor incorreto ou o servidor requer uma versão de protocolo que o app E-mail não suporta.</string>
-    <string name="account_setup_failed_security">Não foi possível abrir a conexão com o servidor devido a um erro de segurança.</string>
-    <string name="account_setup_failed_security_policies_unsupported">O servidor requer funções de segurança que seu dispositivo Android não suporta, incluindo %s</string>
+    <string name="account_setup_failed_ioerror">"Não foi possível abrir a conexão com o servidor."</string>
+    <string name="account_setup_failed_protocol_unsupported">"Você inseriu um endereço de servidor incorreto ou o servidor requer uma versão de protocolo que o app E-mail não suporta."</string>
+    <string name="account_setup_failed_security">"Não foi possível abrir a conexão com o servidor devido a um erro de segurança."</string>
+    <string name="account_setup_failed_security_policies_unsupported">"O servidor requer funções de segurança que seu dispositivo Android não suporta, incluindo %s"</string>
     <string name="account_setup_failed_tls_required">TLS solicitado, mas não suportado pelo servidor.</string>
-    <string name="account_setup_failed_too_many_partnerships">Não foi possível fazer o login, muitas conexões.</string>
+    <string name="account_setup_failed_too_many_partnerships">"Não foi possível fazer o login, muitas conexões."</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Quando eu excluir da Lixeira</string>
     <string name="account_setup_incoming_delete_policy_never_label">Nunca</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
@@ -270,13 +270,13 @@ IMAP"</string>
     <string name="attachment_mgr_name">Anexos</string>
     <string name="attachment_not_exists">O anexo não está disponível.</string>
     <string name="attachment_open_SecurityException_hint">Talvez você não tenha permissão para abrir este arquivo ou o arquivo pode estar danificado.</string>
-    <string name="attachment_open_SecurityException_title">Não é possível abrir o arquivo</string>
+    <string name="attachment_open_SecurityException_title">"Não é possível abrir o arquivo"</string>
     <string name="attachment_open_on_other_app">Abrir em outro app</string>
     <string name="attachment_opening_mode">Apps para anexos</string>
     <string name="attachment_size_exceed_limit">Parece que o limite de tamanho do servidor foi excedido</string>
     <string name="attachment_stop_all">Parar</string>
     <string name="attachment_text">Texto</string>
-    <string name="attachment_type_blocked">Infelizmente, você não pode salvar ou abrir este tipo de anexo.</string>
+    <string name="attachment_type_blocked">"Infelizmente, você não pode salvar ou abrir este tipo de anexo."</string>
     <string name="attachment_unknown">Arquivo %s</string>
     <string name="attachment_video">Vídeo</string>
     <string name="attachments_header">Anexos</string>
@@ -288,8 +288,8 @@ IMAP"</string>
     <string name="auto_advance_help_title">Ao excluir um e-mail, ir para…</string>
     <string name="auto_advance_label">Tela após excluir e-mails</string>
     <string name="auto_advance_summary">Selecione qual tela será exibida após um e-mail ser excluído</string>
-    <string name="auto_login_fail">Não foi possível fazer o login automaticamente</string>
-    <string name="auto_login_fail_to_retry">Não foi possível fazer o login automaticamente, tente novamente.</string>
+    <string name="auto_login_fail">"Não foi possível fazer o login automaticamente"</string>
+    <string name="auto_login_fail_to_retry">"Não foi possível fazer o login automaticamente, tente novamente."</string>
     <string name="auto_start_open_prompt">Permita que o app inicie automaticamente para poder sincronizar seus e-mails. Você pode conceder essa permissão nas Configurações.</string>
     <string name="auto_remind_bind">Adicionar</string>
     <string name="auto_remind_discribe_text">Ative para receber lembretes automáticos</string>
@@ -304,6 +304,7 @@ IMAP"</string>
     <string name="back">Voltar</string>
     <string name="bank_card_detail">Detalhes do cartão de crédito</string>
     <string name="bcc">Cco</string>
+    <string name="bcc_heading">"Cco: "</string>
     <string name="bill_center_setting">Configuração de faturas</string>
     <string name="bill_center_setting_head">Importar informações destas contas</string>
     <string name="bill_cycle_text">Ciclo de faturamento</string>
@@ -336,10 +337,10 @@ IMAP"</string>
     <string name="cc">Cc</string>
     <string name="cc_bcc">Cc/Cco</string>
     <string name="cc_heading">"Cc: "</string>
-    <string name="certificate_add_failed">Não foi possível adicionar certificado \"%s\"</string>
+    <string name="certificate_add_failed">"Não foi possível adicionar certificado \"%s\""</string>
     <string name="certificate_added">Certificado \"%s\" adicionado com sucesso</string>
     <string name="certificate_alias_prompt_certificate_name">Nome</string>
-    <string name="certificate_alias_prompt_hit">Insira o nome do certificado</string>
+    <string name="certificate_alias_prompt_hit">"Insira o nome do certificado"</string>
     <string name="certificate_alias_prompt_title">Nome deste certificado</string>
     <string name="certificate_alias_prompt_w">Já existe um certificado com este nome</string>
     <string name="certificate_password_hit">Inserir senha</string>
@@ -373,7 +374,7 @@ IMAP"</string>
     <string name="close_tips">Fechar lembrete</string>
     <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
     <string name="compose">Escrever</string>
-    <string name="compose_add_attachment_permission_denied">Não é possível encaminhar e-mail. São necessárias permissões para acessar o armazenamento externo.</string>
+    <string name="compose_add_attachment_permission_denied">"Não é possível encaminhar e-mail. São necessárias permissões para acessar o armazenamento externo."</string>
     <string name="compose_encrypt_lock_description">Criptografar</string>
     <string name="compose_encrypt_unlock_description">Descriptografar</string>
     <string name="compose_encrypt_unlock_w_description">Não é um contato confiável</string>
@@ -397,8 +398,8 @@ IMAP"</string>
     <string name="confirm_save_message_no">Descartar</string>
     <string name="confirm_save_message_title">Salvar como rascunho?</string>
     <string name="confirm_save_message_yes">Salvar</string>
-    <string name="confirm_send_message_with_no_body">Não há nenhum texto no corpo da mensagem.</string>
-    <string name="confirm_send_message_with_no_subject">Esta mensagem não possui um assunto.</string>
+    <string name="confirm_send_message_with_no_body">"Não há nenhum texto no corpo da mensagem."</string>
+    <string name="confirm_send_message_with_no_subject">"Esta mensagem não possui um assunto."</string>
     <string name="confirm_send_title">Enviar mensagem?</string>
     <string name="contact_add_options">Adicionar aos contatos</string>
     <string name="contact_add_options_details1">Todos</string>
@@ -434,7 +435,7 @@ IMAP"</string>
     <string name="contextmenu_send_mail">Enviar e-mail</string>
     <string name="contextmenu_sharelink">Compartilhar link</string>
     <string name="contextmenu_sms_dot">Enviar SMS…</string>
-    <string name="conversation_cert_distrust">Não confiar</string>
+    <string name="conversation_cert_distrust">"Não confiar"</string>
     <string name="conversation_cert_info_tips">Este e-mail foi assinado com um certificado confiável</string>
     <string name="conversation_cert_info_title">Assinado</string>
     <string name="conversation_cert_trust">Confiar</string>
@@ -444,7 +445,7 @@ IMAP"</string>
     <string name="conversation_item_mark_read">Lida</string>
     <string name="conversation_item_mark_unread">Não lida</string>
     <string name="conversation_message_encrypt_tips">Este é um e-mail criptografado. Adicione o certificado necessário para descriptografá-lo.</string>
-    <string name="conversation_message_info">Não foi possível carregar o e-mail. Toque para tentar novamente.</string>
+    <string name="conversation_message_info">"Não foi possível carregar o e-mail. Toque para tentar novamente."</string>
     <string name="conversation_msg_header_collapsed_sent_to">"Enviado para "</string>
     <string name="conversation_photo_welcome_text">Toque na imagem do remetente para selecionar a mensagem.</string>
     <string name="conversation_quick_button_approve">"OK"</string>
@@ -496,8 +497,8 @@ IMAP"</string>
     <string name="device_not_activiey_lint2">O serviço de e-mail não funciona com o Exchange</string>
     <string name="dialog_agree">Aceitar</string>
     <string name="dialog_change_sync_lookback">O e-mail recebido %s atrás será excluído automaticamente. Toque para mudar.</string>
-    <string name="dialog_disagree">Não aceitar</string>
-    <string name="dialog_insufficient_space_on_external">Não foi possível baixar o anexo. Não há espaço suficiente no armazenamento externo.</string>
+    <string name="dialog_disagree">"Não aceitar"</string>
+    <string name="dialog_insufficient_space_on_external">"Não foi possível baixar o anexo. Não há espaço suficiente no armazenamento externo."</string>
     <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
     <string name="dialog_system_auto_sync_account_no_open">Ative a sincronização da conta para receber e-mails automaticamente</string>
     <string name="dialog_system_auto_sync_master_no_open">Ative a sincronização para receber e-mails automaticamente</string>
@@ -518,7 +519,7 @@ IMAP"</string>
     <string name="downlaod_nonWifi_confirm_message">O download sem Wi-Fi pode usar dados móveis significativos. Baixar mesmo assim?</string>
     <string name="downlaod_nonWifi_confirm_title">Fazer download deste anexo?</string>
     <string name="download_before_sharing">" ainda não foi transferido completamente."</string>
-    <string name="download_before_sharing2">Alguns dos itens selecionados não foram baixados. Baixe-os primeiro.</string>
+    <string name="download_before_sharing2">"Alguns dos itens selecionados não foram baixados. Baixe-os primeiro."</string>
     <string name="download_cancel_confirm_message">O download será interrompido</string>
     <string name="download_cancel_confirm_title">Fazer download deste anexo?</string>
     <string name="download_complete_not_cancel">Download concluído</string>
@@ -576,8 +577,8 @@ IMAP"</string>
     <string name="email_sync_failed">Não foi possível sincronizar o e-mail</string>
     <string name="emial_filter_create_hint">"Condição não será aplicada aos e-mails existentes"</string>
     <string name="eml_parse_message">Abrindo arquivo EML…</string>
-    <string name="empty_account_tip">Não foi possível localizar a conta</string>
-    <string name="empty_email_tip">Não é possível enviar uma mensagem em branco</string>
+    <string name="empty_account_tip">"Não foi possível localizar a conta"</string>
+    <string name="empty_email_tip">"Não é possível enviar uma mensagem em branco"</string>
     <string name="empty_spam">Esvaziar Spam</string>
     <string name="empty_spam_dialog_title">Esvaziar Spam?</string>
     <string name="empty_trash">Esvaziar Lixeira</string>
@@ -618,7 +619,7 @@ IMAP"</string>
     <string name="exposed_dropdown_menu_content_description">Exibir menu suspenso</string>
     <string name="fail_get_email_message">Falha ao obter mensagem.</string>
     <string name="failed">Não foi possível carregar imagem</string>
-    <string name="failed_parse_eml_file">Não foi possível abrir o arquivo EML, tente novamente.</string>
+    <string name="failed_parse_eml_file">"Não foi possível abrir o arquivo EML, tente novamente."</string>
     <string name="failed_read_write_calendar_permission">As permissões da agenda são obrigatórias</string>
     <string name="failed_read_write_contacts_permission">Permitir acesso aos contatos para poder usar este recurso</string>
     <string name="feedback">Enviar feedback</string>
@@ -631,8 +632,8 @@ IMAP"</string>
     <string name="file_defailt_save_path">Os anexos são salvos na pasta %s por padrão. Você pode alterar a pasta nas configurações.</string>
     <string name="file_default_save_path_title">Caminho padrão para anexos</string>
     <string name="file_deleted_success">Arquivo excluído</string>
-    <string name="file_not_found">Não foi possível localizar o arquivo</string>
-    <string name="file_not_found_redownload">Não foi possível localizar o arquivo</string>
+    <string name="file_not_found">"Não foi possível localizar o arquivo"</string>
+    <string name="file_not_found_redownload">"Não foi possível localizar o arquivo"</string>
     <string name="file_rar_not_support">"Não é possível abrir arquivos '.rar' criptografados"</string>
     <string name="file_save_path_dialog_cancel">Entendi</string>
     <string name="file_save_path_dialog_ok">Alterar agora</string>
@@ -737,9 +738,9 @@ IMAP"</string>
     <string name="forget_app_password">Esqueci a senha</string>
     <string name="forward">Encaminhar</string>
     <string name="forward_attachment">Encaminhar</string>
-    <string name="forward_attribution">---------- Mensagem encaminhada ----------&lt;br&gt;De: %1$s&lt;br&gt;Data: %2$s&lt;br&gt;Assunto: %3$s&lt;br&gt;Para: %4$s&lt;br&gt;</string>
+    <string name="forward_attribution">---------- Mensagem encaminhada ----------&lt;br>De: %1$s&lt;br>Data: %2$s&lt;br>Assunto: %3$s&lt;br>Para: %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
-    <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
+    <string name="forward_download_failed_ticker">"Não foi possível encaminhar todos os anexos."</string>
     <string name="forward_download_failed_title">Anexo não encaminhado</string>
     <string name="free_period_text">Período sem juros</string>
     <string name="friday">Sexta</string>
@@ -762,8 +763,8 @@ IMAP"</string>
     <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
     <string name="general_preference_trash_contact">Filtro de spam</string>
     <string name="general_preference_trash_contact_sum">Filtre e-mails de remetentes relatados por vários usuários</string>
-    <string name="generic_attachment_problem">Não é possível anexar o arquivo.</string>
-    <string name="get_database_exception">Limpe os dados deste app em Configurações &gt; Apps do sistema e tente novamente.</string>
+    <string name="generic_attachment_problem">"Não é possível anexar o arquivo."</string>
+    <string name="get_database_exception">"Limpe os dados deste app em Configurações > Apps > Gerenciar apps e tente novamente."</string>
     <string name="get_oauth_code">Obter código</string>
     <string name="gmail_acceleration">Usar servidor proxy para a Conta Gmail</string>
     <string name="gmail_invalid_tip_cancel">Cancelar</string>
@@ -771,8 +772,8 @@ IMAP"</string>
     <string name="gmail_invalid_tip_message">"Sinto muito! Devido ao último contrato de segurança do Google, você precisa concluir a autorização de login do Gmail."</string>
     <string name="gmail_invalid_tip_title">Fazer login no Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Usar um servidor proxy para acessar sua Conta Gmail?</string>
-    <string name="gmail_login_failed_non_proxy_title">Não foi possível acessar o servidor do Gmail</string>
-    <string name="gmail_server_authorization_deleted">Não foi possível autenticar a conta. Tente adicionar essa conta novamente.</string>
+    <string name="gmail_login_failed_non_proxy_title">"Não foi possível acessar o servidor do Gmail"</string>
+    <string name="gmail_server_authorization_deleted">"Não foi possível autenticar a conta. Tente adicionar essa conta novamente."</string>
     <string name="go_to_mail_content">Ver e-mail</string>
     <string name="graph_name">Corporativo (Graph)</string>
     <string name="have_auth_code">Eu tenho um código</string>
@@ -858,10 +859,10 @@ IMAP"</string>
     <string name="login_err_outlook_msg">"%s
 Esse problema pode ser causado pela autenticação de dois fatores da conta. Tente inserir sua senha ou desative a autenticação de dois fatores."</string>
     <string name="login_err_sina_message">Use códigos de acesso autorizados para entrar em %1$s se você selecionou esta opção anteriormente. Acesse https://mail.sina.com.cn/ para redefinir sua senha ou código de autorização.</string>
-    <string name="login_failed">Não foi possível fazer login</string>
+    <string name="login_failed">"Não foi possível fazer login"</string>
     <string name="login_failed_ticker">Falha no login de %s.</string>
     <string name="login_failed_tip">"Contate-nos no WeChat para receber ajuda: "</string>
-    <string name="login_failed_title">Não é possível fazer o login</string>
+    <string name="login_failed_title">"Não é possível fazer o login"</string>
     <string name="login_mail">Fazer login</string>
     <string name="login_manual">Configuração manual</string>
     <string name="login_qq_psw">Inserir código manualmente</string>
@@ -872,7 +873,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="mail_description_content">O E-mail é um cliente de e-mails que pode gerenciar várias contas, enviar e receber mensagens e sincronizar suas informações de agenda e contatos. Certifique-se de que não precisará destes recursos antes de desinstalar o app. Suas informações de conta Exchange também serão excluídas.</string>
     <string name="mail_description_title">Sobre o E-mail</string>
     <string name="mail_header_network_not_available">Você não tem uma conexão de rede.</string>
-    <string name="mail_outlook_login_tips">Você será redirecionado à Microsoft para inserir sua senha</string>
+    <string name="mail_outlook_login_tips">"Você será redirecionado à Microsoft para inserir sua senha"</string>
     <string name="mail_outlook_oauth_login">"Faça login com OAuth
 (Os usuários pessoais do Outlook não podem sincronizar seus calendários ao fazer login com OAuth) "</string>
     <string name="mail_outlook_psw_login">Fazer login usando a senha</string>
@@ -889,6 +890,14 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="mailbox_name_display_starred">Com estrela</string>
     <string name="mailbox_name_display_trash">Lixeira</string>
     <string name="mailbox_name_display_unread">Não lido</string>
+    <string name="mailbox_name_server_all_unread">Não lido</string>
+    <string name="mailbox_name_server_drafts">Rascunhos</string>
+    <string name="mailbox_name_server_inbox">Caixa de entrada</string>
+    <string name="mailbox_name_server_junk">"Spam"</string>
+    <string name="mailbox_name_server_outbox">Saída</string>
+    <string name="mailbox_name_server_sent">Enviados</string>
+    <string name="mailbox_name_server_starred">Com estrela</string>
+    <string name="mailbox_name_server_trash">Lixeira</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sincronização desativada</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sincronização ativada</string>
     <string name="mailbox_settings_activity_title">Configurações de sincronização</string>
@@ -1002,7 +1011,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="min_payment_text">Pagamento mínimo</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
@@ -1012,7 +1021,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
@@ -1025,10 +1034,10 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="miuix_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_search_history_clear">Limpar histórico de pesquisa</string>
     <string name="miuix_search_history_default_title">Histórico de pesquisa</string>
@@ -1116,7 +1125,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="navigation_menu">Menu de navegação</string>
     <string name="network_error">Sem conexão</string>
     <string name="network_invaild">Não é possível conectar-se à rede</string>
-    <string name="network_not_available">Não é possível conectar-se à rede</string>
+    <string name="network_not_available">"Não é possível conectar-se à rede"</string>
     <string name="network_try_again">Verifique a conexão de rede e tente novamente</string>
     <string name="network_unavailable">Rede indisponível</string>
     <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar.</string>
@@ -1134,8 +1143,8 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="no_contacts">Nenhum contato.</string>
     <string name="no_content_in_body">[Ninguém]</string>
     <string name="no_conversations">Nenhuma mensagem</string>
-    <string name="no_img_application_found">Não foi possível encontrar apps para abrir esta imagem</string>
-    <string name="no_img_application_found_title">Não é possível abrir esta imagem</string>
+    <string name="no_img_application_found">"Não foi possível encontrar apps para abrir esta imagem"</string>
+    <string name="no_img_application_found_title">"Não é possível abrir esta imagem"</string>
     <string name="no_mails">Nenhum e-mail.</string>
     <string name="no_matched_attachment">Nenhum resultado.</string>
     <string name="no_more_mail">Não há mais mensagens</string>
@@ -1168,14 +1177,14 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="ntes_do_not_sms_uplink">Envie um SMS a partir do número de telefone associado e então toque em \"Mensagem enviada\".</string>
     <string name="ntes_had_send">Mensagem enviada</string>
     <string name="ntes_had_send_to_content">Se você já enviou um SMS a partir do número de telefone associado, toque em \"Mensagem enviada\" para continuar.</string>
-    <string name="ntes_login_auth_too_much">Não é possível adicionar mais de 5 códigos de verificação. Faça login em sua caixa de entrada em um computador e exclua os códigos que você não está usando.</string>
-    <string name="ntes_login_error_message" formatted="false">Não é possível obter informações da conta (Erro %s). %s.</string>
-    <string name="ntes_password_error_hint">Caso ocorram erros ao inserir a senha, feche esta página e abra-a novamente.</string>
+    <string name="ntes_login_auth_too_much">"Não é possível adicionar mais de 5 códigos de verificação. Faça login em sua caixa de entrada em um computador e exclua os códigos que você não está usando."</string>
+    <string name="ntes_login_error_message" formatted="false">"Não é possível obter informações da conta (Erro %s). %s."</string>
+    <string name="ntes_password_error_hint">"Caso ocorram erros ao inserir a senha, feche esta página e abra-a novamente."</string>
     <string name="ntes_phone_send">Enviar uma mensagem de texto a partir do número de telefone associado</string>
     <string name="ntes_send_to">Enviar para: %s</string>
     <string name="ntes_send_to_content">Se seu número de telefone atual estiver associado com a conta, toque em \"Enviar SMS\".</string>
     <string name="ntes_verification_code">Inserir código: %s</string>
-    <string name="oauth_error_description">Não foi possível autenticar</string>
+    <string name="oauth_error_description">"Não foi possível autenticar"</string>
     <string name="oauth_find_browser_error_description">Instale um navegador antes de fazer login</string>
     <string name="oauth_gmail_login_notify">Digite seu nome de usuário e senha de sua Conta do Google na próxima tela de login.</string>
     <string name="oauth_login_continue">Continuar</string>
@@ -1192,25 +1201,25 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Permita que o E-mail acesse o armazenamento, contatos e informações da agenda nas Configurações</string>
     <string name="open_external_storage_and_contacts_permission">Permita que o E-mail acesse o armazenamento e contatos nas Configurações</string>
     <string name="open_notification_kingagent">Ativar notificação de metas</string>
-    <string name="open_pdf_error">Não foi possível abrir o PDF. Instale um leitor de PDF e tente novamente.</string>
+    <string name="open_pdf_error">"Não foi possível abrir o PDF. Instale um leitor de PDF e tente novamente."</string>
     <string name="operation_settging">Ações</string>
     <string name="optimization_suggestion">Sugestões de otimização</string>
     <string name="other_pdf_open">Abrir com…</string>
     <string name="others_mail">Outros</string>
     <string name="others_mail_des">Outros serviços de e-mail privados ou corporativos</string>
-    <string name="outbox_alert_button_no_resend">Não enviar</string>
+    <string name="outbox_alert_button_no_resend">"Não enviar"</string>
     <string name="outbox_alert_button_resend">Reenviar</string>
-    <string name="outbox_alert_certificate_error">Entre em contato com o administrador do servidor de e-mails e atualize seu certificado.</string>
+    <string name="outbox_alert_certificate_error">"Entre em contato com o administrador do servidor de e-mails e atualize seu certificado."</string>
     <string name="outbox_alert_description_auth_error">Erro na autorização com o servidor durante a sincronização da caixa de saída.</string>
-    <string name="outbox_alert_description_cannot_authenticate">Não foi possível autenticar %s.</string>
+    <string name="outbox_alert_description_cannot_authenticate">"Não foi possível autenticar %s."</string>
     <string name="outbox_alert_description_email_size_error">O tamanho máximo do E-mail foi alcançado.</string>
     <string name="outbox_alert_description_fail_authentication">Nome de usuário ou senha incorretos.</string>
-    <string name="outbox_alert_description_fail_network">Não foi possível conectar-se à rede.</string>
+    <string name="outbox_alert_description_fail_network">"Não foi possível conectar-se à rede."</string>
     <string name="outbox_alert_description_http_error">Erro HTTP durante a sincronização da caixa de saída.</string>
     <string name="outbox_alert_description_insufficient_storage_error">Armazenamento insuficiente no servidor de e-mail</string>
     <string name="outbox_alert_description_provision_error">Erro no provisionamento do servidor durante a sincronização da caixa de saída.</string>
     <string name="outbox_alert_description_reject_by_server">Rejeitado por %s</string>
-    <string name="outbox_alert_description_sent_failed">O tamanho do anexo excede o limite do servidor.</string>
+    <string name="outbox_alert_description_sent_failed">"O tamanho do anexo excede o limite do servidor."</string>
     <string name="outbox_alert_duplicate_click">Enviando agora…</string>
     <string name="outbox_alert_edit_resend">Editar e reenviar</string>
     <string name="outbox_alert_failed_edit_resend">Não foi possível enviar. Edite a mensagem e tente novamente.</string>
@@ -1220,14 +1229,14 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="outbox_alert_title_sent_failed">Não foi possível enviar o e-mail</string>
     <string name="outbox_no_mails">Vazio</string>
     <string name="outlook_failed_to_get_auth_code">Código de erro de verificação: %1$s</string>
-    <string name="outlook_login_failed_non_proxy_title">Não foi possível acessar o servidor do Outlook</string>
+    <string name="outlook_login_failed_non_proxy_title">"Não foi possível acessar o servidor do Outlook"</string>
     <string name="output_all_log">Saída de todos os logs</string>
     <string name="output_db_summary">Prestes a copiar o banco de dados</string>
     <string name="output_db_title">Banco de dados de saída</string>
     <string name="output_to_disk">Salvar logs em um arquivo</string>
-    <string name="over_16_content">Confirma que você já tem mais de 16 anos de idade?</string>
+    <string name="over_16_content">"Confirma que você já tem mais de 16 anos de idade?"</string>
     <string name="over_due">Em atraso</string>
-    <string name="over_sixteen">Eu tenho 16 anos ou mais.</string>
+    <string name="over_sixteen">"Eu tenho 16 anos ou mais."</string>
     <string name="parase_setup_data">Obtendo dados…</string>
     <string name="parse_bill_discribe">Processando faturas de cartão de crédito…</string>
     <string name="password_expire_warning_content_title">Senha da Tela de bloqueio expirando</string>
@@ -1242,14 +1251,14 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="pdf_has_signature_prompt_cancel">"Original"</string>
     <string name="pdf_has_signature_prompt_confirm">Cópia assinada</string>
     <string name="pdf_has_signature_prompt_message">Parece que este anexo tem uma cópia assinada. Abrir?</string>
-    <string name="pdf_save_error">Não é possível converter para PDF. Esta mensagem é muito longa</string>
+    <string name="pdf_save_error">"Não é possível converter para PDF. Esta mensagem é muito longa"</string>
     <string name="pdf_save_local">"Salvo no dispositivo com sucesso: "</string>
     <string name="pdf_save_no_body">Espere até que a mensagem esteja totalmente carregada antes de converter para PDF</string>
     <string name="pdf_save_to">"Salvo em "</string>
     <string name="pdf_signature_add">Adicionar uma nova assinatura</string>
     <string name="pdf_signature_create_title">Desenhe sua assinatura</string>
     <string name="pdf_signature_delete">Excluir assinatura</string>
-    <string name="pdf_signature_manager_max_count">Não é possível adicionar mais assinaturas. Exclua as assinaturas mais antigas para adicionar novas.</string>
+    <string name="pdf_signature_manager_max_count">"Não é possível adicionar mais assinaturas. Exclua as assinaturas mais antigas para adicionar novas."</string>
     <string name="pdf_signature_manager_title">Gerenciar assinaturas</string>
     <string name="pdf_signature_select">Selecionar assinatura</string>
     <string name="pdf_viewer_actionbar_more_other">Outros apps</string>
@@ -1276,7 +1285,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="permission_get_accounts_subtitle">Para fazer login e gerenciar contas do sistema</string>
     <string name="permission_phone_status_subtitle">Para identificar diferentes dispositivos</string>
     <string name="permission_phone_status_title">Acessar contas no dispositivo</string>
-    <string name="permission_read_attachment_desc">Permite que o app leia seus anexos de e-mail</string>
+    <string name="permission_read_attachment_desc">"Permite que o app leia seus anexos de e-mail"</string>
     <string name="permission_read_attachment_label">Ler os anexos do e-mail</string>
     <string name="permission_write_contacts_subtitle">"Para exibir e alterar os endereços de e-mail dos contatos"</string>
     <string name="permission_write_external_storage_title">Acessar e salvar fotos e arquivos no dispositivo</string>
@@ -1284,7 +1293,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="personal_data_collection_title">Permitir coleta de dados pessoais</string>
     <string name="pl_select_age">Selecione a idade</string>
     <string name="please_save_sign_first">Primeiro salve a assinatura</string>
-    <string name="">"Analisar faturas e informações de viagens em seu e-mail
+    <string name="pls_parse_bill_discribe">"Analisar faturas e informações de viagens em seu e-mail
 para receber lembretes sobre pagamentos e viagens"</string>
     <string name="pm">"PM"</string>
     <string name="policy_app_blacklist">Desautorizar apps especificados</string>
@@ -1320,7 +1329,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="print_scheduler_title">Imprimir todas as programações</string>
     <string name="privacy_and_help">Privacidade e ajuda</string>
     <string name="privacy_and_private_permission">Consentimento para Contrato do Usuário e Política de Privacidade</string>
-    <string name="privacy_des">Os logs contêm informação de depuração do cliente de email e informações do seu dispositivo. Estas informações são usadas para localizar os problemas mais rápido. Ao tocar em \"%1$s\" abaixo, você está concordando com nossa \"%2$s\".</string>
+    <string name="privacy_des">"Os logs contêm informação de depuração do cliente de email e informações do seu dispositivo. Estas informações são usadas para localizar os problemas mais rápido. Ao tocar em \"%1$s\" abaixo, você está concordando com nossa \"%2$s\"."</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_policy_url">https://xiaomi.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">Aceitar</string>
@@ -1337,7 +1346,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="push_wps_better_confirm_download">Baixar</string>
     <string name="push_wps_better_confirm_exit">Outros apps</string>
     <string name="push_wps_better_confirm_message">Experimente usar o WPS Office para abrir este anexo.</string>
-    <string name="push_wps_better_confirm_noshow_hint">Não exibir novamente</string>
+    <string name="push_wps_better_confirm_noshow_hint">"Não exibir novamente"</string>
     <string name="push_wps_better_confirm_title">Experimentar WPS Office</string>
     <string name="push_wps_confirm_cancel">Agora não</string>
     <string name="push_wps_confirm_download">Baixar</string>
@@ -1346,7 +1355,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="push_wps_no_response_app">Nenhum app encontrado para executar esta ação</string>
     <string name="qq_authorization_help_get">Obter código</string>
     <string name="qq_authorization_know">Sobre o código</string>
-    <string name="qq_authorization_tips">Não mostrar novamente</string>
+    <string name="qq_authorization_tips">"Não mostrar novamente"</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Copiado com sucesso. Volte para a página de login e cole o código no campo da senha.</string>
     <string name="qq_auto_login_failed_dialog_message">Copie o código de verificação, toque em \"Insira o usuário e senha para login\" na página de login, e cole o código no campo da senha.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Copiar código</string>
@@ -1358,7 +1367,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="qq_login_notice">Nota: se você já configurou uma senha, você precisará verificá-la quando fizer login.</string>
     <string name="qq_login_sent_setting">Sincronizar mensagens enviadas</string>
     <string name="qq_pwd_or_qq_auth_code">Inserir código</string>
-    <string name="qq_sent_no_message">Não consegue encontrar seus e-mails enviados? Toque aqui para saber o que você pode fazer.</string>
+    <string name="qq_sent_no_message">"Não consegue encontrar seus e-mails enviados? Toque aqui para saber o que você pode fazer."</string>
     <string name="qq_sent_no_message_setting">Sincronizar mensagens enviadas do QQ Mail</string>
     <string name="qq_uthentication_failed">Não foi possível verificar a conta, faça o login novamente.</string>
     <string name="questionnair_confirm_delete">Remover conta?</string>
@@ -1395,7 +1404,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="remove_account">Remover conta</string>
     <string name="remove_folder">Remover da pasta %1$s</string>
     <string name="remove_star">Remover favorito</string>
-    <string name="replay_max_length_limit_hint">O e-mail é muito extenso. Não é possível editar o e-mail original.</string>
+    <string name="replay_max_length_limit_hint">"O e-mail é muito extenso. Não é possível editar o e-mail original."</string>
     <string name="reply">Responder</string>
     <string name="reply_add_bodycontent">Adicionar a resposta ao corpo da mensagem?</string>
     <string name="reply_all">Responder a todos</string>
@@ -1426,7 +1435,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="search_bar_text">Procurar por contatos</string>
     <string name="search_hint">Pesquisar e-mail</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="search_remote_again">Não foi possível conectar-se à rede. Toque para repetir.</string>
+    <string name="search_remote_again">"Não foi possível conectar-se à rede. Toque para repetir."</string>
     <string name="search_result">"Resultados "</string>
     <string name="search_tabs_name_all">Tudo</string>
     <string name="search_tabs_name_recipient">Destinatário</string>
@@ -1435,17 +1444,17 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="search_title">E-mail Unificado</string>
     <string name="search_txt_size_limit_prompt">Os termos da pesquisa devem ser maiores que 3 caracteres</string>
     <string name="security_needed_ticker_fmt">A conta \"%s\" requer atualização das configurações de segurança.</string>
-    <string name="security_notification_content_unsupported_title">Requisitos de segurança não podem ser satisfeitos</string>
+    <string name="security_notification_content_unsupported_title">"Requisitos de segurança não podem ser satisfeitos"</string>
     <string name="security_notification_content_update_title">Atualização de segurança requerida</string>
-    <string name="security_unsupported_ticker_fmt">A conta \"%s\" não pode ser sincronizada devido aos requisitos de segurança.</string>
+    <string name="security_unsupported_ticker_fmt">"A conta \"%s\" não pode ser sincronizada devido aos requisitos de segurança."</string>
     <string name="see_more_content">Mais</string>
     <string name="select_attachment_type">Escolher anexo de</string>
     <string name="select_no_file">Nenhum anexo selecionado</string>
     <string name="select_path">Selecionar caminho</string>
     <string name="selected">selecionado</string>
     <string name="send">Enviar</string>
-    <string name="send_encrypt_dialog_fail_content">Parece que o destinatário não possui o certificado de confiança necessário para criptografar este e-mail. Enviar como um e-mail normal?</string>
-    <string name="send_encrypt_dialog_fail_title">Não é possível enviar e-mails criptografados</string>
+    <string name="send_encrypt_dialog_fail_content">"Parece que o destinatário não possui o certificado de confiança necessário para criptografar este e-mail. Enviar como um e-mail normal?"</string>
+    <string name="send_encrypt_dialog_fail_title">"Não é possível enviar e-mails criptografados"</string>
     <string name="send_failed">A mensagem não foi enviada.</string>
     <string name="sender_whitelist_cleared">As imagens não serão exibidas automaticamente.</string>
     <string name="senders_split_token">, </string>
@@ -1455,12 +1464,12 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="sent_folder_selection_title">Selecionar pasta de itens enviados para %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Não foi possível validar o certificado do servidor
 \u0009 (Certifique-se de que a Sincronização automática está ativada nas Configurações)"</string>
-    <string name="ser_resp_err_map_landing_more_failure">Não foi possível fazer o login várias vezes seguidas. Aguarde alguns minutos e tente novamente.</string>
+    <string name="ser_resp_err_map_landing_more_failure">"Não foi possível fazer o login várias vezes seguidas. Aguarde alguns minutos e tente novamente."</string>
     <string name="ser_resp_err_map_landing_too_frequently">Muitas tentativas frequentes de login. Aguarde alguns minutos e tente novamente.</string>
     <string name="ser_resp_err_map_mailbox_locked">Esta conta de e-mail está bloqueada. Entre em contato com o provedor de serviços de e-mail para desbloqueá-lo primeiro.</string>
-    <string name="ser_resp_err_map_mailbox_not_open">Esta conta de e-mail não está ativa. Entre em contato com o provedor de serviços de e-mail para ativá-lo primeiro.</string>
+    <string name="ser_resp_err_map_mailbox_not_open">"Esta conta de e-mail não está ativa. Entre em contato com o provedor de serviços de e-mail para ativá-lo primeiro."</string>
     <string name="ser_resp_err_map_max_connections">Esta conta é acessada a partir de vários dispositivos. Remova esta conta de um dos dispositivos para poder acessá-la neste.</string>
-    <string name="ser_resp_err_map_nouser">Não foi possível encontrar uma conta válida. Verifique se as informações que você inseriu estão corretas e tente novamente.</string>
+    <string name="ser_resp_err_map_nouser">"Não foi possível encontrar uma conta válida. Verifique se as informações que você inseriu estão corretas e tente novamente."</string>
     <string name="ser_resp_err_map_or">%1$s ou %2$s</string>
     <string name="ser_resp_err_map_pserr">Senha incorreta</string>
     <string name="ser_resp_err_map_serclosed">Ative %s no cliente web do e-mail primeiro</string>
@@ -1475,12 +1484,12 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="server_cet_error_sug">"Tente o seguinte:
 1. Conecte-se a uma rede diferente ou reinicie seu roteador Wi-Fi.
 2. Certifique-se de que você está usando certificados válidos."</string>
-    <string name="server_cet_error_title_1">O servidor deste certificado não suporta este domínio</string>
+    <string name="server_cet_error_title_1">"O servidor deste certificado não suporta este domínio"</string>
     <string name="server_cet_error_title_2">Certificado expirado</string>
-    <string name="server_cet_error_title_3">O emissor deste certificado não é uma organização confiável.</string>
+    <string name="server_cet_error_title_3">"O emissor deste certificado não é uma organização confiável."</string>
     <string name="server_cet_issue_to">"Emitido para "</string>
     <string name="server_cet_issuer">"Emitido por "</string>
-    <string name="server_cet_issuer_no_trust">O emissor deste certificado não é uma organização confiável.</string>
+    <string name="server_cet_issuer_no_trust">"O emissor deste certificado não é uma organização confiável."</string>
     <string name="server_cet_subject_cn">"Domínio suportado: "</string>
     <string name="server_cet_title">Detalhes do certificado</string>
     <string name="server_log">Acordo de Serviço</string>
@@ -1508,7 +1517,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (com agenda)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sem agenda)</string>
     <string name="sign_in_graph_error">Você pode entrar usando o login dos protocolos IMAP ou EXCHANGE apenas quando sua organização não tiver alterado a configuração geral do servidor. Se o endereço do seu servidor for personalizado pela organização ou os protocolos relacionados estiverem desabilitados, entre usando o novo protocolo da Microsoft.</string>
-    <string name="sign_in_no_useful_provider_error">Não é possível obter configurações de protocolo da Microsoft. Use um protocolo diferente ou atualize o protocolo da Microsoft.</string>
+    <string name="sign_in_no_useful_provider_error">"Não é possível obter configurações de protocolo da Microsoft. Use um protocolo diferente ou atualize o protocolo da Microsoft."</string>
     <string name="signature">"
 
 
@@ -1570,9 +1579,9 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="sync_upload_question">"Feedback"</string>
     <string name="syncing_wait_restart">Tentar novamente</string>
     <string name="syncing_wait_restart_title">Tempo limite do servidor atingido</string>
-    <string name="system_account_create_failed">Não foi possível criar a conta. Tente novamente.</string>
+    <string name="system_account_create_failed">"Não foi possível criar a conta. Tente novamente."</string>
     <string name="system_root_path">Config. do armazenamento interno</string>
-    <string name="system_security_open_error">Para ajustar as configurações de segurança, conceda ao app E-mail as permissões necessárias nas Configurações</string>
+    <string name="system_security_open_error">Para ajustar as configurações de segurança, conceda ao app E-mail as permissões necessárias nas Configurações.</string>
     <string name="system_setup_open_error">Ative a sincronização para o E-mail nas Configurações</string>
     <string name="tap_to_configure">Toque para configurar.</string>
     <string name="tap_to_enable_sync">Toque para ativá-la.</string>
@@ -1621,23 +1630,23 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="title_activity_about">Sobre</string>
     <string name="to">Para</string>
     <string name="to_heading">"Para: "</string>
-    <string name="toast_bar_fail_synchronization">Não foi possível acessar o servidor. Aguarde alguns minutos e tente novamente.</string>
-    <string name="toast_bar_insufficient_memory_space">Não é possível receber e-mails. Não há espaço de armazenamento suficiente.</string>
+    <string name="toast_bar_fail_synchronization">"Não foi possível acessar o servidor. Aguarde alguns minutos e tente novamente."</string>
+    <string name="toast_bar_insufficient_memory_space">"Não é possível receber e-mails. Não há espaço de armazenamento suficiente."</string>
     <string name="toast_bar_invalid_account">A informação da conta expirou. Toque para fazer o login novamente.</string>
-    <string name="toast_bar_no_connection_network">Você não possui uma conexão com a internet</string>
-    <string name="toast_bar_open_gmail_synchronization">Não foi possível conectar ao Gmail. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="toast_bar_send_fail_remind">Não foi possível enviar o e-mail. Ele foi salvo na pasta \"Saída\".</string>
-    <string name="toast_bar_sync_failed_client_cert">Não foi possível sincronizar porque um certificado está ausente. Toque para adicionar o certificado novamente.</string>
-    <string name="toast_bar_sync_failed_mi_authority">Este dispositivo não foi autorizado. Verifique em SMS se há uma mensagem de autorização</string>
-    <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Não foi possível sincronizar contatos e eventos. Altere as permissões relacionadas para \"Sempre permitir\" para resolver este problema.</string>
-    <string name="toastbar_calendar_and_contacts_permission_switch_close">Para sincronizar informações de Agenda e Contatos, conceda as permissões necessárias ao app nas Configurações</string>
-    <string name="toastbar_calendar_permission_switch_allow_only_using">Não foi possível sincronizar eventos. Altere as permissões da agenda para \"Sempre permitir\" para resolver este problema.</string>
+    <string name="toast_bar_no_connection_network">"Você não possui uma conexão com a internet"</string>
+    <string name="toast_bar_open_gmail_synchronization">"Não foi possível conectar ao Gmail. Verifique suas configurações de rede e tente novamente."</string>
+    <string name="toast_bar_send_fail_remind">"Não foi possível enviar o e-mail. Ele foi salvo na pasta \"Saída\"."</string>
+    <string name="toast_bar_sync_failed_client_cert">"Não foi possível sincronizar porque um certificado está ausente. Toque para adicionar o certificado novamente."</string>
+    <string name="toast_bar_sync_failed_mi_authority">"Este dispositivo não foi autorizado. Verifique em SMS se há uma mensagem de autorização"</string>
+    <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">"Não foi possível sincronizar contatos e eventos. Altere as permissões relacionadas para \"Sempre permitir\" para resolver este problema."</string>
+    <string name="toastbar_calendar_and_contacts_permission_switch_close">"Para sincronizar informações de Agenda e Contatos, conceda as permissões necessárias ao app nas Configurações"</string>
+    <string name="toastbar_calendar_permission_switch_allow_only_using">"Não foi possível sincronizar eventos. Altere as permissões da agenda para \"Sempre permitir\" para resolver este problema."</string>
     <string name="toastbar_calendar_permission_switch_close">Para receber lembretes da Agenda, conceda as permissões necessárias ao app nas Configurações</string>
     <string name="toastbar_contacts_permission_switch_allow_only_using">Não foi possível sincronizar os contatos. Altere as permissões dos contatos para \"Sempre permitir\" para resolver este problema.</string>
     <string name="toastbar_contacts_permission_switch_close">Permita acesso aos contatos para poder adicioná-los como contatos do sistema</string>
@@ -1649,7 +1658,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="tomorrow">Amanhã</string>
     <string name="too_large_to_attach_additional">O tamanho do arquivo não pode exceder %1$s.</string>
     <string name="too_large_to_attach_multiple">Um ou mais arquivos não foram anexados. O tamanho dos anexos não pode exceder %1$s.</string>
-    <string name="too_large_to_attach_single">Não é possível anexar arquivos maiores do que %1$s.</string>
+    <string name="too_large_to_attach_single">"Não é possível anexar arquivos maiores do que %1$s."</string>
     <string name="toolbar_add_image">Adicionar imagem</string>
     <string name="toolbar_part_num">Número do parágrafo</string>
     <string name="toolbar_part_symbol">Marcação de parágrafo</string>
@@ -1667,7 +1676,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="translation_pronunciation_cn">Pinyin</string>
     <string name="translation_pronunciation_en">BrE</string>
     <string name="translation_pronunciation_other">Máquina</string>
-    <string name="translation_query_failure">Não foi possível encontrar resultados</string>
+    <string name="translation_query_failure">"Não foi possível encontrar resultados"</string>
     <string name="translation_technology_support">Suporte técnico por iciba.com</string>
     <string name="trash_folder_selection_title">Selecionar pasta de lixeira para %s</string>
     <string name="trigger_before_day">%d dia antes</string>
@@ -1680,8 +1689,8 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="tuesday_shortest">Ter</string>
     <string name="unbind_dialog_text">"O app E-mail não analisará seus e-mails depois disso.
 Remover conta?"</string>
-    <string name="under_16_content">Confirma que você ainda não tem 16 anos de idade?</string>
-    <string name="under_sixteen">Ainda não tenho 16 anos.</string>
+    <string name="under_16_content">"Confirma que você ainda não tem 16 anos de idade?"</string>
+    <string name="under_sixteen">"Ainda não tenho 16 anos."</string>
     <string name="undo">Desfazer</string>
     <string name="unknow">Desconhecido</string>
     <string name="unread_string">mensagem não lida</string>
@@ -1706,8 +1715,8 @@ Remover conta?"</string>
     <string name="user_new_auth_code">Use um novo código para fazer login</string>
     <string name="user_privacy_settings">Configurações de privacidade</string>
     <string name="user_privacy_settings_agreement_authorization">"(Ao tocar em \"Aceitar"\, você estará dando ao E-mail todas as permissões necessárias)"</string>
-    <string name="user_privacy_settings_path">Para revogar sua autorização, acesse Configurações &gt; Configurações de privacidade</string>
-    <string name="user_privacy_settings_summary">Vamos coletar seu ID Android no formulário criptografado e usá-lo como seu identificador de usuário exclusivo no E-mail. Também podemos coletar logs de uso. Você pode revogar sua autorização nas configurações de privacidade a qualquer momento.</string>
+    <string name="user_privacy_settings_path">Para revogar sua autorização, acesse Configurações > Configurações de privacidade</string>
+    <string name="user_privacy_settings_summary">"Vamos coletar seu ID Android no formulário criptografado e usá-lo como seu identificador de usuário exclusivo no E-mail. Também podemos coletar logs de uso. Você pode revogar sua autorização nas configurações de privacidade a qualquer momento."</string>
     <string name="user_privacy_settings_title">Declaração de privacidade do E-mail</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
@@ -1723,7 +1732,7 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
     <string name="webview_logout">Você pode tentar fazer o login novamente</string>
     <string name="webview_logout_cancel">Agora não</string>
     <string name="webview_logout_sure">Tentar novamete</string>
-    <string name="webview_not_found">Não foi possível abrir a página devido à falta do plug-in WebView</string>
+    <string name="webview_not_found">"Não foi possível abrir a página devido à falta do plug-in WebView"</string>
     <string name="webview_sslerror_handle_cancel">Cancelar</string>
     <string name="webview_sslerror_handle_continue">Continuar</string>
     <string name="webview_sslerror_handle_hitmessage">Ocorreu um erro de certificado, continuar assim mesmo?</string>

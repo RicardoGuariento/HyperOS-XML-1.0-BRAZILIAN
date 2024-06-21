@@ -69,8 +69,8 @@
         <item quantity="one">1 arquivo aguardando</item>
     </plurals>
     <plurals name="notification_download_failed_more">
-        <item quantity="other">Não foi possível baixar %1$d itens</item>
-        <item quantity="one">Não foi possível baixar %1$d item</item>
+        <item quantity="other">"Não foi possível baixar %1$d itens"</item>
+        <item quantity="one">"Não foi possível baixar %1$d item"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>

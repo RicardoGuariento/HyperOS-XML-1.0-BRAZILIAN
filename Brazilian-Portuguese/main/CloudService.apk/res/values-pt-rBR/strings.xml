@@ -116,6 +116,13 @@
     <string name="connect_wlan_china">Conecte-se ao Wi-Fi</string>
     <string name="contact_alert_sync_data_merge_dialog_msg">Caso ative a sincronização, os contatos carregados deste dispositivo serão mesclados com os contatos armazenados na nuvem. Ativar sincronização mesmo assim?</string>
     <string name="copy">Copiar</string>
+    <string name="creation_dialog_message">Veja os dados do Mi Canvas no seu tablet.</string>
+    <string name="creation_dialog_positive_btn">"OK"</string>
+    <string name="creation_dialog_title">Atenção!</string>
+    <string name="creation_sync_settings_only_in_wifi">Sincronizar apenas no Wi-Fi</string>
+    <string name="creation_sync_settings_only_in_wifi_summary">Recomendado para economizar dados móveis</string>
+    <string name="creation_sync_settings_preference">Sincronizar telas</string>
+    <string name="creation_sync_settings_summary">Telas criadas</string>
     <string name="cta_notification_content_text">Permita que o app %s conecte-se à internet para poder restaurar os itens</string>
     <string name="cta_notification_content_title">"Não é possível restaurar itens do %s"</string>
     <string name="customize_notification_btn_text">Melhorar</string>
@@ -251,6 +258,7 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="gallery_auto_sync_fail_noti_content">Não há espaço de armazenamento suficiente na nuvem. Atualize seu plano de armazenamento para sincronizar fotos e vídeos.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">"O armazenamento em nuvem é insuficiente. Não é possível salvar fotos."</string>
     <string name="gallery_data_transfer_ddl">Prazo final: %s</string>
     <string name="gallery_data_transfer_summary">"Os itens da Galeria não podem mais ser sincronizados com a MiCloud. Recomendamos transferir fotos e vídeos que você sincronizou com a nuvem para o Google Fotos e usá-lo para fazer backup de seus itens."</string>
     <string name="gallery_data_transfer_title">Transfira fotos e vídeos sincronizados para o Google Fotos</string>
@@ -1108,8 +1116,8 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="update_dialog_update_button_text">Atualizar</string>
     <string name="upgrade_member_storage">Assinatura da MiCloud</string>
     <string name="user_agreement_content">"Ao usar este serviço, você estará concordando com os %s."</string>
-    <string name="user_agreement_link">Termos de Serviço da MiCloud</string>
-    <string name="user_agreement_title">Termos de Serviço da MiCloud</string>
+    <string name="user_agreement_link">"Termos de Serviço da MiCloud"</string>
+    <string name="user_agreement_title">"Termos de Serviço da MiCloud"</string>
     <string name="user_storage_info_available_text_prefix">%s disponível</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
@@ -1144,7 +1152,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Itens não sincronizados</string>
     <string name="wipe_data_query_progress_title">Verificando…</string>
-    <string name="wipe_secret_photo_dialog_title">As fotos ocultas não estão sincronizadas</string>
+    <string name="wipe_secret_photo_dialog_title">"As fotos ocultas não estão sincronizadas"</string>
     <string name="xiaomi_cloud_service">"MiCloud"</string>
     <string name="xiaomi_cloud_service_subtitle">Todos os itens importantes em um só lugar</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>

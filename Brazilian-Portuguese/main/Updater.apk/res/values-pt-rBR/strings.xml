@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Atualizações</string>
-    <string name="battery_islow">&lt;font color=#f37981&gt;Conecte seu carregador&lt;/font&gt;</string>
+    <string name="battery_islow">&lt;font color=#f37981>Conecte seu carregador&lt;/font></string>
     <string name="battery_islow_desc">O nível da bateria está muito baixo para instalar o arquivo ZIP com segurança, conecte o carregador e tente novamente mais tarde!</string>
     <string name="btn_changelog">Lista de alterações</string>
     <string name="btn_download">Baixar (%1$s B)</string>

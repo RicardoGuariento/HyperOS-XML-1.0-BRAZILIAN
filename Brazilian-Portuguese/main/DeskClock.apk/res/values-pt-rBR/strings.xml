@@ -102,7 +102,7 @@
     <string name="bedtime_analysis_more">Mais dados</string>
     <string name="bedtime_banner_desc">Um sono consistente é importante</string>
     <string name="bedtime_banner_guide_desc">Agende seu horário de dormir</string>
-    <string name="bedtime_guide_back_desc">Você não receberá alertas para dormir se sair agora. Sair mesmo assim?</string>
+    <string name="bedtime_guide_back_desc">"Você não receberá alertas para dormir se sair agora. Sair mesmo assim?"</string>
     <string name="bedtime_manage">Gerenciar hora de dormir</string>
     <string name="bedtime_manage_desc">Programe lembretes de hora de dormir e acompanhe seu sono</string>
     <string name="bedtime_manage_open">Agende seu horário de dormir</string>
@@ -115,10 +115,10 @@
     <string name="bedtime_setting_no_disturbance">Alterar para o Não pertube enquanto dorme?</string>
     <string name="bedtime_setting_no_disturbance_desc">Toques, sons de notificações e vibração serão silenciados até você acordar.</string>
     <string name="bedtime_setting_repeat_type">Quando seu horário de dormir será aplicado?</string>
-    <string name="bedtime_setting_repeat_type_desc">Selecione os dias em que você receberá lembretes</string>
+    <string name="bedtime_setting_repeat_type_desc">"Selecione os dias em que você receberá lembretes"</string>
     <string name="bedtime_settings">Configurações da hora de dormir</string>
     <string name="bedtime_sleep_time_remind">Você será lembrado de ir para a cama 15 minutos antes desse horário</string>
-    <string name="bedtime_sleep_time_remind_new">Você será lembrado de ir para a cama %d minutos antes desse horário</string>
+    <string name="bedtime_sleep_time_remind_new">"Você será lembrado de ir para a cama %d minutos antes desse horário"</string>
     <string name="bedtime_sleep_time_setting">A que horas costuma dormir?</string>
     <string name="bedtime_wake_up_time_remind">Um alarme irá tocar neste horário</string>
     <string name="bedtime_wake_up_time_setting">A que horas costuma acordar?</string>
@@ -177,15 +177,15 @@
     <string name="device_sounds">Sons do dispositivo</string>
     <string name="dialog_confirm_abort">Descartar alterações?</string>
     <string name="dialog_legal_off_day"><Data>"Parece que você está usando os alarmes de feriados. Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
-    <string name="dialog_legal_off_day_desc">O Relógio não tem permissão para conectar-se à internet e atualizar as informações sobre feriados. Os alarmes de feriados dispararão nos sábados e domingos.</string>
+    <string name="dialog_legal_off_day_desc">"O Relógio não tem permissão para conectar-se à internet e atualizar as informações sobre feriados. Os alarmes de feriados dispararão nos sábados e domingos."</string>
     <string name="dialog_legal_workday"><Data>"Parece que você está usando os alarmes de dias úteis. Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
     <string name="dialog_legal_workday_and_off_day"><Data>"Parece que você está usando os alarmes de dias úteis e de feriados. Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
-    <string name="dialog_legal_workday_and_off_day_desc">O Relógio não tem permissão para conectar-se à internet para atualizar as informações sobre feriados. Os alarmes de dias úteis dispararão de segunda a sexta. Os alarmes de feriados dispararão nos sábados e domingos.</string>
-    <string name="dialog_legal_workday_desc">O Relógio não tem permissão para conectar-se à internet e atualizar as informações sobre os dias úteis. Os alarmes de dias úteis dispararão de segunda a sexta.</string>
+    <string name="dialog_legal_workday_and_off_day_desc">"O Relógio não tem permissão para conectar-se à internet para atualizar as informações sobre feriados. Os alarmes de dias úteis dispararão de segunda a sexta. Os alarmes de feriados dispararão nos sábados e domingos."</string>
+    <string name="dialog_legal_workday_desc">"O Relógio não tem permissão para conectar-se à internet e atualizar as informações sobre os dias úteis. Os alarmes de dias úteis dispararão de segunda a sexta."</string>
     <string name="dialog_message_agree">Aceitar</string>
     <string name="dialog_message_for_contact_permission">Para disponibilizar os alarmes de aniversário, o Relógio precisa de acesso aos seus contatos. Aceitar?</string>
     <string name="dialog_message_negative">Não aceitar</string>
-    <string name="dialog_message_not_remind">Não mostrar novamente</string>
+    <string name="dialog_message_not_remind">"Não mostrar novamente"</string>
     <string name="dialog_net_permission_in_repeat_type"><Data>Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="dialog_privacy_content">Para obter informações relevantes sobre feriados públicos, ajustar alarmes e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
     <string name="dialog_privacy_content_global">Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
@@ -255,7 +255,7 @@
     <string name="full_wday_month_day_no_year">"EEEE, d 'de' MMMM"</string>
     <string name="go_back">Voltar</string>
     <string name="holiday_update">Uma atualização de feriados públicos está disponível</string>
-    <string name="holiday_update_fail">Não foi possível atualizar</string>
+    <string name="holiday_update_fail">"Não foi possível atualizar"</string>
     <string name="holiday_update_loading">Atualizando…</string>
     <string name="holiday_update_success">Todos os itens estão atualizados</string>
     <string name="holiday_update_title">Atualizar informações sobre feriados públicos</string>
@@ -264,7 +264,7 @@
     <string name="install_weather_app_error">Não foi possível carregar o app</string>
     <string name="install_weather_app_loading">Aguarde…</string>
     <string name="invalid_time">Hora inválida: %3$s %1$d: %2$d</string>
-    <string name="invalid_timer_length">A duração do temporizador é inválida</string>
+    <string name="invalid_timer_length">"A duração do temporizador é inválida"</string>
     <string name="item_view_role_description">Aba</string>
     <string name="keep_screen_on">Manter tela ligada</string>
     <string name="korea_permission_calendar">Agenda</string>
@@ -372,11 +372,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
-    <string name="module_dialog_negative">Não aceitar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
+    <string name="module_dialog_negative">"Não aceitar"</string>
     <string name="module_dialog_neutral">Entendi</string>
     <string name="module_dialog_positive">Aceitar</string>
     <string name="module_download_cancel">Não, obrigado</string>
@@ -385,7 +385,7 @@ mm"</string>
     <string name="module_download_data_msg_replace">Arquivos de áudio atualizados para os alarmes inteligentes HyperOS estão disponíveis. ~20 MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
     <string name="module_download_data_msg_timer">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ~20 MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
     <string name="module_download_fail">Não foi possível baixar o áudio adicional</string>
-    <string name="module_download_failure">Não foi possível baixar os arquivos de áudio. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="module_download_failure">"Não foi possível baixar os arquivos de áudio. Verifique suas configurações de rede e tente novamente."</string>
     <string name="module_download_msg">Para disponibilizar os alarmes inteligentes do HyperOS, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contém recursos de áudio que permitem incluir informações de clima atual nos alarmes. Baixar agora?</string>
     <string name="module_download_msg_golbal">O Relógio precisa baixar arquivos de áudio para os alarmes inteligentes HyperOS. Baixar agora?</string>
     <string name="module_download_msg_replace">Arquivos de áudio atualizados para os alarmes inteligentes HyperOS estão disponíveis. Baixar agora?</string>
@@ -502,7 +502,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção diária</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
-    <string name="net_permission_cancel">Não aceitar</string>
+    <string name="net_permission_cancel">"Não aceitar"</string>
     <string name="net_permission_ok">Aceitar</string>
     <string name="network_privacy">&lt;Data>Para obter informações relevantes sobre feriados públicos locais e ajustar alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?&lt;/Data></string>
     <string name="network_privacy_global">&lt;Data>Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?&lt;/Data></string>
@@ -537,7 +537,7 @@ mm"</string>
     <string name="percentage_sign">%</string>
     <string name="permission_desc">Detalhes de permissões</string>
     <string name="permission_granted">Permitido</string>
-    <string name="permission_rejected">Não Permitido</string>
+    <string name="permission_rejected">Não permitido</string>
     <string name="permission_related">Permissões</string>
     <string name="personal_recommend">Recomendação personalizada de conteúdo</string>
     <string name="pm">"PM"</string>
@@ -595,11 +595,11 @@ mm"</string>
     <string name="shortcut_stop_watch">Iniciar cronômetro</string>
     <string name="show_life_post_desc">"Os relatórios matinais não serão exibidos caso desative esse recurso"</string>
     <string name="show_life_post_lable">Exibir relatório matinal</string>
-    <string name="shut_down_keep_screen">A tela não será mantida ligada</string>
+    <string name="shut_down_keep_screen">"A tela não será mantida ligada"</string>
     <string name="shutdown_alarm_alert_enable_summary">O alarme com o dispositivo desligado tocará a pelo menos 10 minutos depois que você desligar seu dispositivo</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Os alarmes definidos, irão tocar quando o seu dispositivo estiver desligado. Note que apenas alarmes definidos por pelo menos %d minutos após você desligar o dispositivo, irão tocar.</string>
     <string name="shutdown_alarm_alert_title">Alarme com o dispositivo desligado</string>
-    <string name="shutdown_alarm_disable_summary">O alarme não tocará após você desligar o dispositivo</string>
+    <string name="shutdown_alarm_disable_summary">"O alarme não tocará após você desligar o dispositivo"</string>
     <string name="shutdown_alarm_enable_summary">O alarme tocará se for definido para pelo menos 10 minutos após você desligar seu dispositivo</string>
     <string name="shutdown_alarm_title">Alarme com o telefone desligado</string>
     <string name="silent_alarm_summary">Silencioso</string>
@@ -733,7 +733,7 @@ mm"</string>
     <string name="timer_alarm_dot_matrix_label">Temporizador</string>
     <string name="timer_alert_alert_silenced">Temporizador silenciado após %1$s.</string>
     <string name="timer_alert_mute_off">O alarme tocará quando o temporizador parar</string>
-    <string name="timer_alert_mute_on">O alarme não tocará quando o temporizador parar</string>
+    <string name="timer_alert_mute_on">"O alarme não tocará quando o temporizador parar"</string>
     <string name="timer_alert_mute_remind">Toque para silenciar o alarme</string>
     <string name="timer_alert_mute_switch">Interruptor para silenciar alarmes do temporizador</string>
     <string name="timer_alert_pause">O temporizador está pausado</string>
@@ -774,10 +774,10 @@ mm"</string>
     <string name="timer_pause_timer">Pausar temporizador</string>
     <string name="timer_ringtone">Toque do temporizador</string>
     <string name="timer_running">Temporizador em execução</string>
-    <string name="timer_start_alarm">O tempo acabou!</string>
+    <string name="timer_start_alarm">"O tempo acabou!"</string>
     <string name="timer_start_timer">Iniciar temporizador</string>
     <string name="timer_title">Temporizador</string>
-    <string name="timezone_exist_error_message">Você já está exibindo este fuso horário</string>
+    <string name="timezone_exist_error_message">"Você já está exibindo este fuso horário"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>
@@ -850,7 +850,7 @@ mm"</string>
     <string name="worldcolock_timezone_gap">"%s H"</string>
     <string name="worldcolock_timezone_local">Mesmo que a hora local</string>
     <string name="xiaoai_ringtone_title">Toques Mi AI</string>
-    <string name="xiaomi_deskclock_uninstall_description_content">Relógio é um app do sistema. Você não poderá verificar a hora, definir alarmes ou usar outros recursos do Relógio após a desinstalação do app.</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">"Relógio é um app do sistema. Você não poderá verificar a hora, definir alarmes ou usar outros recursos do Relógio após a desinstalação do app."</string>
     <string name="xiaomi_deskclock_uninstall_description_title">Desinstalar Relógio?</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>

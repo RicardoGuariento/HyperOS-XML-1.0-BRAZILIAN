@@ -86,6 +86,30 @@
         <item quantity="other">Retroceder %d segundos</item>
         <item quantity="one">Retroceder %d segundo</item>
     </plurals>
+    <plurals name="festival_game_task_gifts">
+        <item quantity="other">ganhe %2$d caixas de presente</item>
+        <item quantity="one">ganhe %2$d caixa de presente</item>
+    </plurals>
+    <plurals name="festival_game_task_tips">
+        <item quantity="other">Jogue %1$d vezes, %2$s</item>
+        <item quantity="one">Jogue %1$d vez, %2$$s</item>
+    </plurals>
+    <plurals name="festival_news_second_task_tips">
+        <item quantity="other">Procure por %1$d segundos, %2$s</item>
+        <item quantity="one">Procure por %1$d segundo, %2$s</item>
+    </plurals>
+    <plurals name="festival_news_task_gifts">
+        <item quantity="other">ganhe %2$d caixas de presente</item>
+        <item quantity="one">ganhe %2$d caixa de presente</item>
+    </plurals>
+    <plurals name="festival_news_task_tips">
+        <item quantity="other">Procure por %1$d minutos, %2$s</item>
+        <item quantity="one">Procure por %1$d minuto, %2$$s</item>
+    </plurals>
+    <plurals name="festival_task_finish">
+        <item quantity="other">Parabéns! Você ganhou %d caixas de presente</item>
+        <item quantity="one">Parabéns! Você ganhou %d caixa de presente</item>
+    </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d itens</item>
         <item quantity="one">%1$d item</item>
