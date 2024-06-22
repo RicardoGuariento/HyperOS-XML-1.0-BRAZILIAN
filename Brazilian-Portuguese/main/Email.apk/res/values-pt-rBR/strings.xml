@@ -304,7 +304,6 @@ IMAP"</string>
     <string name="back">Voltar</string>
     <string name="bank_card_detail">Detalhes do cartão de crédito</string>
     <string name="bcc">Cco</string>
-    <string name="bcc_heading">"Cco: "</string>
     <string name="bill_center_setting">Configuração de faturas</string>
     <string name="bill_center_setting_head">Importar informações destas contas</string>
     <string name="bill_cycle_text">Ciclo de faturamento</string>
@@ -890,14 +889,6 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="mailbox_name_display_starred">Com estrela</string>
     <string name="mailbox_name_display_trash">Lixeira</string>
     <string name="mailbox_name_display_unread">Não lido</string>
-    <string name="mailbox_name_server_all_unread">Não lido</string>
-    <string name="mailbox_name_server_drafts">Rascunhos</string>
-    <string name="mailbox_name_server_inbox">Caixa de entrada</string>
-    <string name="mailbox_name_server_junk">"Spam"</string>
-    <string name="mailbox_name_server_outbox">Saída</string>
-    <string name="mailbox_name_server_sent">Enviados</string>
-    <string name="mailbox_name_server_starred">Com estrela</string>
-    <string name="mailbox_name_server_trash">Lixeira</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sincronização desativada</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sincronização ativada</string>
     <string name="mailbox_settings_activity_title">Configurações de sincronização</string>
