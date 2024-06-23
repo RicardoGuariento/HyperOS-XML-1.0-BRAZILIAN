@@ -60,4 +60,8 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="showStatusBar_executeHabit_count">
+        <item quantity="other">%d padrões executados</item>
+        <item quantity="one">%d padrão executado</item>
+    </plurals>
 </resources>

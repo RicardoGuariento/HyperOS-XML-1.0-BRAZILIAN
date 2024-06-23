@@ -2,27 +2,21 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
-        <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d hora atrás</item>
-        <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Em %d hora</item>
-        <item quantity="one">Em 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Em %d mins</item>
@@ -30,7 +24,6 @@
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins atrás</item>
@@ -46,8 +39,8 @@
         <item quantity="one">%d mensagem</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%d mensagens não foram sincronizadas</item>
-        <item quantity="one">%d mensagem não foi sincronizada</item>
+        <item quantity="other">"%d mensagens não foram sincronizadas"</item>
+        <item quantity="one">"%d mensagem não foi sincronizada"</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Excluir %1$s conversas selecionadas?</item>
@@ -63,12 +56,11 @@
         <item quantity="one">Mensagem recebida por %1$s e %2$d outra pessoa</item>
     </plurals>
     <plurals name="group_message_failed_title">
-        <item quantity="other">Não foi possível enviar para %d contatos</item>
-        <item quantity="one">Não foi possível enviar para %d contato</item>
+        <item quantity="other">"Não foi possível enviar para %d contatos"</item>
+        <item quantity="one">"Não foi possível enviar para %d contato"</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">%d mensagens</item>
@@ -77,15 +69,12 @@
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
-        <item quantity="one">Em 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
@@ -93,11 +82,30 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="mark_number_dialog_subtitle">
         <item quantity="other">Marcado como %2$s por %1$d pessoas</item>
         <item quantity="one">Marcado como %2$s por %1$d pessoa</item>
+    </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">As mensagens de áudio podem ter até %1$4d segundos de duração</item>
+        <item quantity="one">As mensagens de áudio podem ter até %1$4d segundo de duração</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">Envie arquivos de até %1$4d MB</item>
+        <item quantity="one">Envie arquivos de até %1$4d MB</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Enviar mensagem para até %1$4d contatos</item>
+        <item quantity="one">Enviar mensagem para até %1$4d contato</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">As mensagens podem conter até %1$4d caracteres</item>
+        <item quantity="one">As mensagens podem conter até %1$4d caracteres</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Os vídeos podem ter até %1$4d segundos de duração</item>
+        <item quantity="one">Os vídeos podem ter até %1$4d segundo de duração</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mensagens</item>
@@ -142,8 +150,8 @@
         <item quantity="few">%d seg</item>
     </plurals>
     <plurals name="timed_message_expired_title">
-        <item quantity="other">%d mensagens programadas não foram enviadas</item>
-        <item quantity="one">%d mensagem programada não foi enviada</item>
+        <item quantity="other">"%d mensagens programadas não foram enviadas"</item>
+        <item quantity="one">"%d mensagem programada não foi enviada"</item>
     </plurals>
     <plurals name="timed_message_in_total">
         <item quantity="other">(%d mensagens)</item>

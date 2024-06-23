@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AI_Customer_service_hotline">Atendimento ao cliente: 400–100–5678</string>
     <string name="AI_diwbkiad_dekete_model">Excluir modelo</string>
     <string name="AI_download_delete_message">"Se você excluir o Criador de imagem Mi IA, não poderá mais usar seus recursos. Excluir mesmo assim?"</string>
     <string name="AI_download_delete_neg">Cancelar</string>
@@ -8,6 +9,7 @@
     <string name="AI_download_file_message">Suporta Criador de imagem Mi IA, ≈%.1f GB</string>
     <string name="AI_download_function_message">Instale o Criador de imagem Mi IA para que o Mi IA gere imagens a partir de suas descrições.</string>
     <string name="AI_download_title">Criador de imagem Mi IA</string>
+    <string name="AI_version_number">Versão: %d</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
@@ -35,6 +37,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="about_MiAI_engine">Sobre o Motor Mi IA</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
@@ -236,6 +239,10 @@
     <string name="copywriting_scheduleToOpenCurtain_description">Abra %1$s todos os dias em um horário definido</string>
     <string name="copywriting_scheduleToOpenLightOther_description">"Acenda a luz de %1$s todos os dias em um horário definido"</string>
     <string name="copywriting_scheduleToOpenLight_description">Ative %1$s todos os dias em um horário definido</string>
+    <string name="copywriting_scheduleToRegularCloseLightOther_description">"Desligue a luz de %2$s todos os dias às %1$s"</string>
+    <string name="copywriting_scheduleToRegularClose_description">Desative %2$s todos os dias às %1$s</string>
+    <string name="copywriting_scheduleToRegularOpenLightOther_description">"Acenda a luz de %2$s todos os dias às %1$s"</string>
+    <string name="copywriting_scheduleToRegularOpen_description">Ative %2$s todos os dias às %1$s</string>
     <string name="copywriting_turnDownVolume_description_hmind">Diminuição do volume do dispositivo</string>
     <string name="copywriting_turnDownVolume_description_island">Diminuição do volume do dispositivo</string>
     <string name="copywriting_vacuumGocharging_description_hmind">Ancorado a vácuo</string>
@@ -244,9 +251,14 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para acessar informações de localização anteriores armazenadas no dispositivo</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
+    <string name="download_cancel">Cancelar</string>
     <string name="download_complete">Baixado</string>
+    <string name="download_done">Pronto</string>
+    <string name="download_notification_title">Melhore a estabilidade e otimize sua experiência</string>
+    <string name="download_notification_update">Toque para atualizar</string>
     <string name="download_paused">Retomar</string>
-    <string name="download_progress">%d%%</string>
+    <string name="download_process_content_wenshengtu_title">Baixando o Criador de imagem Mi IA…</string>
+    <string name="download_progress">%1d%%</string>
     <string name="download_resume">%d%%</string>
     <string name="download_start">Baixar</string>
     <string name="download_updata">Atualizar</string>
@@ -356,10 +368,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -402,10 +414,6 @@
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
-    <string name="mtrl_checkbox_button_icon_path_group_name">Ícone</string>
-    <string name="mtrl_checkbox_button_icon_path_name">Caminho do ícone</string>
-    <string name="mtrl_checkbox_button_path_group_name">Botão</string>
-    <string name="mtrl_checkbox_button_path_name">Caminho do botão</string>
     <string name="mtrl_checkbox_state_description_checked">Verificado</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente verificado</string>
     <string name="mtrl_checkbox_state_description_unchecked">Não verificado</string>

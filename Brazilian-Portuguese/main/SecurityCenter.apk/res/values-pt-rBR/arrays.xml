@@ -99,7 +99,7 @@
     <string-array name="debug_open_intercept">
         <item>Será possível acessar e editar arquivos no seu dispositivo usando um computador.</item>
         <item>Instalar apps no seu dispositivo sem sua permissão explícita será permitido.</item>
-        <item>Você poderá monitorar e gravar o conteúdo da tela remotamente.</item>
+        <item>"Você poderá monitorar e gravar o conteúdo da tela remotamente."</item>
         <item>Será possível acessar informações detalhadas sobre o seu dispositivo.</item>
     </string-array>
     <string-array name="ew_emergency_blood_type_arrays">
@@ -155,7 +155,7 @@
         <item>Acessar suas configurações de idioma e da operadora, além de outros detalhes</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>Apps de terceiros que não são verificados podem causar vários problemas e diminuir a estabilidade do sistema.</item>
+        <item>"Apps de terceiros que não são verificados podem causar vários problemas e diminuir a estabilidade do sistema."</item>
         <item>Alguns apps de terceiros podem conter malwares que colocam os seus dados pessoais em risco.</item>
     </string-array>
     <string-array name="pp_lab_compact_blur_location_entry">

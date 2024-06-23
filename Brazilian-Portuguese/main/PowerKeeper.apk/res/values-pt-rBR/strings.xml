@@ -61,9 +61,9 @@
     <string name="cloud_russion_addr">Atualizar dados do servidor Russion</string>
     <string name="cloud_staging_addr">Atualizar dados com servidor intermediário</string>
     <string name="config_classify">Ordenar por configurações dos apps</string>
-    <string name="config_description">O HyperOS consegue identificar apps com processos específicos em segundo plano (ex.: apps de mensagem, posicionamento e reprodutores de mídia), e aplica as regras de economia de uma forma que não influencie as atividades importantes em segundo plano.</string>
+    <string name="config_description">"O HyperOS consegue identificar apps com processos específicos em segundo plano (ex.: apps de mensagem, posicionamento e reprodutores de mídia), e aplica as regras de economia de uma forma que não influencie as atividades importantes em segundo plano."</string>
     <string name="config_mode_title">Configurações em segundo plano</string>
-    <string name="config_no_restrict_description">A Economia de bateria não restringirá as atividades deste app</string>
+    <string name="config_no_restrict_description">"A Economia de bateria não restringirá as atividades deste app"</string>
     <string name="config_no_restrict_title">Nenhuma restrição</string>
     <string name="config_restrict_function_description">"Encerra os apps após 10 minutos de atividade em segundo plano"</string>
     <string name="config_restrict_function_description_new">"Encerra os apps após %d minutos de atividade em segundo plano"</string>
@@ -158,7 +158,7 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="insert_data">Inserir dados</string>
     <string name="item_view_role_description">Guia</string>
     <string name="kill_all_back_pro_toast_message">Seu dispositivo está superaquecido. Todos os apps em execução em segundo plano foram encerrados.</string>
-    <string name="kill_pkg_toast_message">Seu dispositivo está superaquecendo e o app será encerrado</string>
+    <string name="kill_pkg_toast_message">"Seu dispositivo está superaquecendo e o app será encerrado"</string>
     <string name="kill_some_back_pro_toast_message">Seu dispositivo está superaquecido. Alguns apps em execução em segundo plano foram encerrados.</string>
     <string name="lasttime_applist_cloud">Apps atualizados:</string>
     <string name="lasttime_feature_cloud">Recursos atualizados:</string>
@@ -180,14 +180,14 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
@@ -200,10 +200,10 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="modify_data">Modificar dados</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
@@ -280,7 +280,7 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
     <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="night">"PM"</string>
-    <string name="nonui_mode_config_description">Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando o HyperOS detectar que você não está usando seu dispositivo.</string>
+    <string name="nonui_mode_config_description">"Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando o HyperOS detectar que você não está usando seu dispositivo."</string>
     <string name="nonui_mode_config_title">Modo não-interativo</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
@@ -327,18 +327,18 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="scenario_policies_warmcontrol">Controle de temperatura</string>
     <string name="screen_off_current">Tela desligada DC</string>
     <string name="screen_on_current">Tela ligada DC</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="search_result_text">Não foi possível encontrar nenhum app</string>
+    <string name="search_result_text">"Não foi possível encontrar nenhum app"</string>
     <string name="send">Enviar</string>
     <string name="show_system_app">Mostrar apps do sistema</string>
-    <string name="sleep_config_enhance_description">Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o NFC, Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
-    <string name="sleep_config_enhance_description_non_nfc">Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
-    <string name="sleep_config_enhance_description_pad">Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o Bluetooth e o Wi-Fi, e não ligará a tela para notificações.</string>
+    <string name="sleep_config_enhance_description">"Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o NFC, Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações."</string>
+    <string name="sleep_config_enhance_description_non_nfc">"Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações."</string>
+    <string name="sleep_config_enhance_description_pad">"Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o Bluetooth e o Wi-Fi, e não ligará a tela para notificações."</string>
     <string name="sleep_config_enhance_title">Modo sono</string>
     <string name="sleepmode_disclaimer_agree">Aceitar</string>
     <string name="sleepmode_disclaimer_cancel">Cancelar</string>
-    <string name="sleepmode_privacy_content">Este recurso precisa acessar informações sobre seu sistema e seu dispositivo. Estas informações não serão enviados aos nossos servidores.</string>
+    <string name="sleepmode_privacy_content">"Este recurso precisa acessar informações sobre seu sistema e seu dispositivo. Estas informações não serão enviados aos nossos servidores."</string>
     <string name="sleepmode_privacy_link">Saiba mais sobre privacidade e segurança</string>
     <string name="sleepmode_privacy_title">Modo sono</string>
     <string name="softbank_high_temp_toast_time_10min">A lanterna foi desativada para evitar superaquecimento</string>
@@ -367,7 +367,7 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
-    <string name="stricter_high_temp_state_message">Seu dispositivo está superaquecendo, você não poderá usar outros apps além do discador e contatos</string>
+    <string name="stricter_high_temp_state_message">"Seu dispositivo está superaquecendo, você não poderá usar outros apps além do discador e contatos."</string>
     <string name="sucess">Concluído</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -418,6 +418,8 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="title_dry_history">História a seco</string>
     <string name="title_history">Historia de vida</string>
     <string name="title_home">Início</string>
@@ -427,7 +429,7 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
-    <string name="update_profile_failture_not_connect_wifi">Não foi possível atualizar. Conecte-se ao Wi-Fi e tente novamente.</string>
+    <string name="update_profile_failture_not_connect_wifi">"Não foi possível atualizar. Conecte-se ao Wi-Fi e tente novamente."</string>
     <string name="update_profile_sucess">Atualizado do servidor com sucesso</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>

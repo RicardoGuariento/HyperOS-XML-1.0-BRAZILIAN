@@ -34,13 +34,15 @@
     <string name="activate_esim_tips">"Não foi possível ativar. Tente novamente."</string>
     <string name="activating_esim_tips">Ativando…</string>
     <string name="address_dialing_introduction">Você pode usar este app para fazer chamadas, ver o histórico de chamadas e gerenciar contatos.</string>
+    <string name="after_sales_support">Suporte pós-venda</string>
+    <string name="after_sales_support_introduction">Este serviço permite que você obtenha suporte e assistência em relação aos dispositivos adquiridos.</string>
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
     <string name="agree_and_next">Aceitar</string>
     <string name="agree_cookie">Aceitar cookies</string>
-    <string name="agree_terms">Eu li e concordo com o Contrato do Usuário e a Política de Privacidade.</string>
-    <string name="agree_terms_input_method_facemoji">Eu li e concordo com a Política de Privacidade do Facemoji.</string>
-    <string name="agree_terms_input_method_kika">Eu li e concordo com a Política de Privacidade do Kika.</string>
+    <string name="agree_terms">"Eu li e concordo com o Contrato do Usuário e a Política de Privacidade."</string>
+    <string name="agree_terms_input_method_facemoji">"Eu li e concordo com a Política de Privacidade do Facemoji."</string>
+    <string name="agree_terms_input_method_kika">"Eu li e concordo com a Política de Privacidade do Kika."</string>
     <string name="agreement_declare_use_network_and_location_china">"Além disso, os serviços a seguir se conectarão à rede e acessarão sua localização: "</string>
     <string name="agreement_declare_use_network_china">conecte-se à rede.</string>
     <string name="ai_button_desc">O Botão IA permite que você acione o Mi AI e use os seus atalhos.</string>
@@ -51,15 +53,16 @@
     <string name="ai_button_single_press">Pressionar</string>
     <string name="ai_button_single_press_desc">Pressione o Botão IA para ver os atalhos do Mi AI</string>
     <string name="ai_button_title">Botão IA</string>
-    <string name="album_introduction">A Galeria permite que você gerencie, otimize e edite fotos e vídeos no seu dispositivo, bem como sincronizá-las com a MiCloud.</string>
+    <string name="album_introduction">Você pode usar este app para gerenciar, editar e embelezar fotos e vídeos.</string>
     <string name="am">"AM"</string>
     <string name="app_battery_usage">"Para verificar o uso da bateria de apps individuais"</string>
     <string name="app_name">Configuração inicial</string>
     <string name="application_extension_service">Serviços de extensão de app</string>
-    <string name="application_extension_service_introduction">Os serviços de extensão de app fornecerão recursos de login e verificação. Para fornecer serviços básicos, este app precisa das seguintes permissões:</string>
+    <string name="application_extension_service_introduction">Os Serviços de extensão de app fornecerão recursos de login e verificação. Para fornecer serviços básicos, este app precisa das seguintes permissões:</string>
     <string name="application_package_introduction">Este app permite que você instale apps de terceiros, verificando-os antes de instalá-los, e dando recomendações após as instalações.</string>
     <string name="application_permissions">Permissões do app</string>
     <string name="aquire_device_info">Acessar informações do dispositivo</string>
+    <string name="authority_introduction">O Gerenciador de permissões é um serviço básico que permite gerenciar permissões de apps neste dispositivo.</string>
     <string name="back">Voltar</string>
     <string name="backup_introduction">Você pode usar este app para fazer backup e restaurá-los em seu dispositivo.</string>
     <string name="bluetooth_introduction">O Bluetooth é usado pelo sistema para comunicação sem fio. Para poder funcionar normalmente, o Bluetooth precisa das seguintes permissões:</string>
@@ -78,22 +81,22 @@
     <string name="carousel_setting_sub">O Carrossel de planos de fundo mostrará novas histórias toda vez que você desbloquear seu dispositivo</string>
     <string name="carrier_introduction">Para lhe fornecer melhores serviços, o seu dispositivo pode enviar periodicamente informações sobre a versão do dispositivo, dados de identificação do dispositivo (incluindo o endereço IMEI/IMSI/MSISDN/MAC, MEID/ICCID) e informações aproximadas de localização (incluindo ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS grátis. A operadora se compromete a analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas, e não divulgará informações relevantes a terceiros de nenhuma forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo do uso deste serviço.</string>
     <string name="carrier_introduction_china">Para lhe fornecer melhores serviços, os processos em execução no seu dispositivo (incluindo SystemHelper, RegService e Carrier Services) podem enviar periodicamente as informações relacionadas do seu dispositivo e cartão SIM (incluindo IMEI, IMSI, MSISDN, MEID, ICCID, endereço MAC, Versão do OS, Versão do Android, modelo do dispositivo e especificações básicas de hardware), bem como informações de localização aproximada (incluindo região, coordenadas, identificador de área e ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS gratuito. A operadora promete analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas e não divulgará informações relevantes a terceiros de qualquer forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo de utilização deste serviço.</string>
-    <string name="check_box_label"><Data>"Ao ativar esse recurso, você concorda com a &lt;a href=%1$s>Política de Privacidade dos Serviços de Interconectividade Xiaomi&lt;/a >."</Data></string>
+    <string name="check_box_label">"&lt;Data>Ao ativar este recurso, você concorda com nossa &lt;a href=%1$s>Política de Privacidade&lt;/a >.&lt;/Data>"</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="clock_introduction">Você pode usar este app para ver as horas, bem como usar o timer, relógio mundial, cronômetro, definir alarmes, entre outros.</string>
     <string name="close">Fechar</string>
     <string name="close_location_service_setting">Você pode optar por desativar o acesso à localização em Configurações > Configurações adicionais > Privacidade ou permissões restrita para apps individuais no app Segurança.</string>
     <string name="cloud_service_discount">Descontos de plano de armazenamento</string>
-    <string name="cm_terms_content">Para melhorar os serviços fornecidos a você, a operadora de rede de sua preferência poderá fazer o upload de dados pessoais e informações deste dispositivo para seus servidores usando uma conexão de dados móveis ou Wi-Fi. Esta informação será usada apenas para fins de estatística para a melhoria de produtos e serviços e fornecer conteúdo mais personalizado. Esta informação não será usada para identificá-lo e não será divulgada a terceiros.</string>
+    <string name="cm_terms_content">"Para melhorar os serviços fornecidos a você, a operadora de rede de sua preferência poderá fazer o upload de dados pessoais e informações deste dispositivo para seus servidores usando uma conexão de dados móveis ou Wi-Fi. Esta informação será usada apenas para fins de estatística para a melhoria de produtos e serviços e fornecer conteúdo mais personalizado. Esta informação não será usada para identificá-lo e não será divulgada a terceiros."</string>
     <string name="cm_terms_title">Acordo com a Operadora de rede móvel</string>
     <string name="compass_introduction">Você pode usar este app para navegação, assim como ver coordenadas, pressão atmosférica e altitude.</string>
-    <string name="congratulation_label">Você está pronto para começar!</string>
+    <string name="congratulation_label">"Você está pronto para começar!"</string>
     <string name="congratulation_pre_label">Aguarde…</string>
     <string name="congratulation_pre_title">Preparando o sistema…</string>
     <string name="congratulation_swipe">Deslize para cima para acessar o sistema</string>
     <string name="congratulation_title">Configuração concluída</string>
     <string name="content_description_complete">Concluído</string>
-    <string name="content_description_miui_version">MIUI 12.5</string>
+    <string name="content_description_miui_version">MIUI 14</string>
     <string name="content_description_start">Iniciar</string>
     <string name="content_introduction">O Centro de conteúdo agrega conteúdo e serviços de vários canais. Aqui você pode ler artigos, assistir a vídeos, ver itens diários em destaque e receber recomendações de conteúdo.</string>
     <string name="continue_to_enable_accessibility">Continue segurando dois dedos na tela para ativar a acessibilidade.</string>
@@ -102,32 +105,36 @@
     <string name="cookies_title">Conteúdo personalizado e cookies</string>
     <string name="copy">Copiar</string>
     <string name="create_shortcut">Atalho para tela inicial</string>
-    <string name="data_traffic_enable_dialog_title">Caso não esteja conectado ao Wi-Fi agora, seu dispositivo usará os dados móveis. O uso de dados móveis pode gerar cobranças adicionais da operadora.</string>
+    <string name="data_traffic_enable_dialog_title">"Caso não esteja conectado ao Wi-Fi agora, seu dispositivo usará os dados móveis. O uso de dados móveis pode gerar cobranças adicionais da operadora."</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
+    <string name="default_font">Padrão</string>
     <string name="desc_fingerprint">Use sua impressão digital para desbloquear o dispositivo, verificar transações no Mi Pay, ou para fazer login em apps e serviços.</string>
     <string name="desc_international_fingerprint">Use sua impressão digital para desbloquear seu dispositivo ou fazer login em apps e serviços.</string>
+    <string name="device_information_usage_desc">Este serviço permite visualizar informações do dispositivo, conectar seu dispositivo a redes e configurar seus recursos.</string>
     <string name="diagnose_report">Enviar dados de diagnóstico para localizar e analisar problemas do sistema e melhorar a experiência do usuário. Esses dados podem incluir informações pessoais (ex.: IP, localização, etc.)</string>
-    <string name="disageement_abnormal_download">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço.</string>
+    <string name="disageement_abnormal_download">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço."</string>
     <string name="disagree">Cancelar</string>
     <string name="disagree_unable_serve">"Se você não concordar com as permissões acima, não poderá usar este serviço."</string>
-    <string name="disagreement_abnormal_running">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por não usar este app ou restringir as permissões nas Configurações em tais casos.</string>
-    <string name="disagreement_abnormal_running_fast_pairing">Caso não concorde em conceder tais permissões, você não poderá usar este app. Você pode optar por restringir as permissões e desativar este recurso a qualquer momento nas Configurações neste caso.</string>
+    <string name="disagreement_abnormal_running">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por não usar este app ou restringir as permissões nas Configurações em tais casos."</string>
+    <string name="disagreement_abnormal_running_fast_pairing">"Caso não concorde em conceder tais permissões, você não poderá usar este app. Você pode optar por restringir as permissões e desativar este recurso a qualquer momento nas Configurações neste caso."</string>
     <string name="disagreement_application_not_working_properly">"Caso não concorde em conceder essas permissões, não poderá usar este app."</string>
-    <string name="disagreement_donnot_use_application">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por não usar este app em tais casos.</string>
-    <string name="disagreement_donnot_use_product">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este produto. Você pode optar por não usar este produto em tais casos.</string>
-    <string name="disagreement_donnot_use_service">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço. Você pode optar por não usar este serviço em tais casos.</string>
-    <string name="disagreement_exit_app">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por fazer logout ou restringir permissões nas Configurações em tais casos.</string>
+    <string name="disagreement_donnot_use_application">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por não usar este app em tais casos."</string>
+    <string name="disagreement_donnot_use_product">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este produto. Você pode optar por não usar este produto em tais casos."</string>
+    <string name="disagreement_donnot_use_service">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço. Você pode optar por não usar este serviço em tais casos."</string>
+    <string name="disagreement_exit_app">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por fazer logout ou restringir permissões nas Configurações em tais casos."</string>
     <string name="disagreement_fast_pairing_abnormal">"Caso não concorde em conceder essas permissões, não poderá usar este app. Você pode ativar ou desativar esse serviço a qualquer momento em Configurações > Bluetooth > Configurações adicionais > Mi Link."</string>
-    <string name="disagreement_function">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este recurso. Você pode optar por não usar este recurso em tais casos.</string>
-    <string name="disagreement_location_service">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço.</string>
+    <string name="disagreement_function">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este recurso. Você pode optar por não usar este recurso em tais casos."</string>
+    <string name="disagreement_location_service">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço."</string>
     <string name="disagreement_location_service_abnormal">"Caso não concorde em conceder essas permissões, não poderá usar os serviços de localização. Você pode ativar ou desativar os serviços de localização a qualquer momento em Configurações > Proteção de privacidade."</string>
     <string name="disagreement_mi_account_abnormal">"Caso não concorde em conceder essas permissões, não poderá usar os serviços Mi Account. Você pode ativar ou desativar os serviços da Conta Mi a qualquer momento em Configurações > Conta Mi."</string>
     <string name="disagreement_service_not_working_properly">"Caso não concorde em conceder essas permissões, não poderá usar este app."</string>
+    <string name="disagreement_service_not_working_properly_settings">"Se você não concordar em conceder essas permissões, este serviço não funcionará normalmente."</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">"Se você optar por não conceder essas permissões, o serviço não funcionará normalmente."</string>
     <string name="disagreement_terminate_bluetooth">"Se você não quiser conceder essas permissões, não poderá usar o Bluetooth. Você pode ativar e desativar o Bluetooth e adicionar dispositivos Bluetooth nas Configurações."</string>
-    <string name="disagreement_terminate_miuidaemon">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço. Você pode escolher não usar este serviço ou restringir as permissões nas Configurações nesses casos. Observe que usaremos as permissões apenas quando você começar a transferir dados de seu dispositivo quando a tela estiver danificada.</string>
-    <string name="disagreement_terminate_service">Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por desinstalar, fazer logout ou restringir permissões nas Configurações em tais casos.</string>
-    <string name="download_introduction">\"Downloads\" está usando o Xunlei para baixar itens em seu dispositivo. Esta ferramenta funciona para o GetApps, atualizações do sistema, temas, vídeos e downloads do navegador.</string>
+    <string name="disagreement_terminate_miuidaemon">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço. Você pode escolher não usar este serviço ou restringir as permissões nas Configurações nesses casos. Observe que usaremos as permissões apenas quando você começar a transferir dados de seu dispositivo quando a tela estiver danificada."</string>
+    <string name="disagreement_terminate_service">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por desinstalar, fazer logout ou restringir permissões nas Configurações em tais casos."</string>
+    <string name="download_introduction">Downloads é um app fornecido pela Xunlei usado para downloads e gerenciamento de conteúdo baixado (incluindo conteúdo da App Store, vídeos, atualizações do sistema, temas e conteúdo do navegador) para usuários de dispositivos Xiaomi.</string>
     <string name="early_morning">"AM"</string>
     <string name="enable_accessibility_canceled">Acessibilidade cancelada.</string>
     <string name="enable_accessibility_dialog_message">Você ativou o TalkBack ao pressionar a tela com 2 dedos por mais de 10 segundos. o TalkBack fornece retorno de voz para pessoas com deficiências visuais. Se você ativou a função por engano, toque no botão Cancelar e em seguida dê um toque duplo na tela.</string>
@@ -179,12 +186,19 @@
     <string name="fmt_weekday_short">E</string>
     <string name="font_hint_large">Tamanho do texto padrão</string>
     <string name="font_hint_normal">Aumentar tamanho do texto</string>
-    <string name="framework_introduction">A Estrutura de Serviços Mi permite que você use a Conta Mi, o Mi Push, Mi Stats e o HyperOS BI.</string>
-    <string name="framwork_base_service">Para lhe fornecer estes serviços, a Estrutura de Serviços Mi (Conta Mi, Mi Push, Mi Stats, HyperOS BI) precisa se conectar à internet, acessar sua localização, número de telefone, IMEI e IMSI, e permitir que seu dispositivo receba notificações push.</string>
+    <string name="font_settings_sub_title">Selecione a fonte do sistema</string>
+    <string name="font_settings_title">Configurações de fonte</string>
+    <string name="font_use_case_text_example">Corpo</string>
+    <string name="font_use_case_title_example">Título</string>
+    <string name="framework_introduction">A Estrutura de serviços Xiaomi (Mi Push e Analytics) é um serviço básico do sistema que fornece notificações push, prevenção de riscos, estatísticas e recursos analíticos. Para fornecer esses serviços, precisamos coletar e processar informações pessoais relevantes e necessárias. Ao coletar e processar tais informações, cumpriremos as leis, regulamentos e outros documentos normativos aplicáveis.</string>
+    <string name="framwork_base_service">"Para fornecer a funcionalidade de notificação push, precisamos coletar identificadores de dispositivos (OAID e ID criptografado do Android), informações sobre os apps que usam o serviço push (ex.: nome do pacote do app, versão e status do tempo de execução), fabricante do dispositivo, modelo do dispositivo, memória do dispositivo, versão do sistema operacional, região, nome da operadora do cartão SIM, tipo de rede atual e status do Wi-Fi. Você pode alterar a forma como recebe notificações push nas Configurações, e forneceremos notificações push com base em suas preferências, para as quais também coletaremos informações sobre suas preferências, incluindo se você escolhe bloquear notificações ou não, e se você permite que eles apareçam na Tela de bloqueio.
+Para fins de prevenção de riscos, estatísticas e processamento analítico, precisamos de permissão para nos conectar à rede e acessar sua localização, IMEI do dispositivo, IMSI do dispositivo, identificadores do dispositivo (OAID, endereço MAC e ID Android criptografado), fabricante do dispositivo, dispositivo modelo, memória do dispositivo, versão do sistema operacional, região e tipo de rede atual. As informações acima serão coletadas uma vez por dia enquanto você usar este dispositivo."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="game_introduction">O Plugin de jogos permite que você faça login, crie pedidos, conclua pagamentos, use cupons e participe de eventos promocionais.</string>
+    <string name="get_imei_information">Acessar IMEI</string>
+    <string name="get_imei_information_settings">Acessar o identificador exclusivo do dispositivo (IMEI)</string>
     <string name="google_service_introduction">Para poder funcionar normalmente, o Google Play precisa de uma conexão com a internet, acesso à sua localização, gravar áudio, fazer chamadas, acessar eventos da agenda, o histórico de chamadas, sensores, armazenamento câmera, informações do dispositivo e contas.</string>
     <string name="home_settings_miui_home">Clássico</string>
     <string name="home_settings_poco_launcher">Gaveta de apps</string>
@@ -196,102 +210,71 @@
     <string name="input_method_setting">Escolha o teclado</string>
     <string name="install_preinstall_app">Carregando apps…</string>
     <string name="intent_filter_verification_service">Serviço de verificação de filtro de intenção</string>
-    <string name="interconnection_communication_introduction">Os Serviços de comunicação da internet da Xiaomi, permite que você descubra, conecte e se comunique com outros dispositivos Xiaomi.</string>
+    <string name="interconnection_communication_introduction">Os serviços de comunicação pela internet da Xiaomi permitem descobrir, conectar e se comunicar com outros dispositivos.</string>
     <string name="interconnection_service_global_item_title">Interconectividade Xiaomi</string>
-    <string name="interconnection_service_global_label">"&lt;Data>A Interconectividade Xiaomi permite que seus dispositivos interajam entre si sem fio. Ao ativar esta opção, você concorda com a &lt;a href=%1$s>Política de Privacidade&lt;/a > da Interconectividade da Xiaomi.&lt;/Data>"</string>
-    <string name="interconnection_service_summary">"Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam uns com os outros sem fio. Esses serviços incluem Xiaomi Smart Hub, Mi Smart Play, MIUI+ Beta, Compartilhamento Mi e transmição.
-Para poder funcionar normalmente, esses serviços precisam se conectar à internet e exigir as seguintes permissões:
-\u0009\u0009Xiaomi Smart Hub:
-\u0009\u0009Ativar e desativar o Wi-Fi
-\u0009\u0009Para transferir itens por Wi-Fi
-\u0009\u0009Gravar áudio
-\u0009\u0009Para transferir a reprodução de áudio para dispositivos conectados durante a transmissão ou espelhamento de tela
-\u0009\u0009Acessar armazenamento
-\u0009\u0009Para transferir e receber arquivos sem fio
-\u0009\u0009Compartilhamento Mi:
-\u0009\u0009Acessar e salvar arquivos e fotos no seu dispositivo
-\u0009\u0009Para transferir e receber arquivos sem fio
-\u0009\u0009Acessar a localização
-\u0009\u0009Para transferir itens para dispositivos próximos por Wi-Fi e Bluetooth
-\u0009\u0009Ativar e desativar o Bluetooth
-\u0009\u0009Para encontrar dispositivos próximos
-\u0009\u0009Ativar e desativar o Wi-Fi
-\u0009\u0009Para encontrar dispositivos próximos e transferir arquivos sem fio
-\u0009\u0009Conecte-se a dispositivos próximos
-\u0009\u0009Para encontrar dispositivos próximos e conectar-se a eles
-\u0009\u0009Transmissão:
-\u0009\u0009Ativar e desativar o Bluetooth
-\u0009\u0009Para encontrar dispositivos próximos
-\u0009\u0009Ativar e desativar o Wi-Fi
-\u0009\u0009Para encontrar dispositivos próximos
-\u0009\u0009Acessar a localização
-\u0009\u0009Para obter informações sobre dispositivos próximos
-\u0009\u0009Gravar áudio
-\u0009\u0009Para transferir a reprodução de áudio para dispositivos conectados durante a transmissão
-Caso não concorde em conceder tais permissões, não poderá usar os Serviços de Interconectividade Xiaomi.
-Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não estar disponíveis em todos os modelos de dispositivos ou para todas as versões do sistema. Consulte o site do HyperOS (www.miui.com) para verificar a compatibilidade."</string>
-    <string name="interconnection_service_summary_china">"Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Esses serviços incluem Mi Smart Play, transmissão, transferência de apps, Tela inicial +, área de transferência compartilhada, captura de imagens entre dispositivos, assistência de rede, teclados e mouses compartilhados, câmera compartilhada e Xiaomi Smart Hub, Para poder funcionar normalmente, os Serviços de Interconectividade Xiaomi precisam estar conectados à internet e exigir as seguintes permissões:
-\u0009\u0009Mi Smart Play e transmissão:
-\u0009\u0009Ativar e desativar o Bluetooth
-\u0009\u0009Para descobrir dispositivos próximos para conectar via Bluetooth
-\u0009\u0009Ativar e desativar o Wi-Fi
-\u0009\u0009Para descobrir dispositivos próximos e transferir itens via Wi-Fi
-\u0009\u0009Transferir itens para outros dispositivos
-\u0009\u0009Para estabelecer uma conexão Bluetooth entre dispositivos e transferir itens
-\u0009\u0009Acessar informações de localização
-\u0009\u0009Para acessar as informações de dispositivos próximos
-\u0009\u0009Gravar áudio interno do dispositivo
-\u0009\u0009Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento
-\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
-\u0009\u0009Para enviar e receber conteúdo transferido
-\u0009\u0009Acessar o endereço MAC do dispositivo
-\u0009\u0009Para reconhecer dispositivos conectados
-\u0009\u0009Acessar o conteúdo da tela
-\u0009\u0009Para acessar o conteúdo da tela durante a gravação ou transmissão, incluindo informações confidenciais como áudio, senhas, senhas de pagamento, fotos, mensagens, etc.
-\u0009\u0009App handoff e Tela inicial+:
-\u0009\u0009Ativar e desativar o Bluetooth
-\u0009\u0009Para descobrir dispositivos próximos via Bluetooth
-\u0009\u0009Ativar e desativar o Wi-Fi
-\u0009\u0009Para descobrir dispositivos próximos e transferir itens via Wi-Fi
-\u0009\u0009Acessar o endereço MAC do dispositivo
-\u0009\u0009Para reconhecer dispositivos conectados
-\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
-\u0009\u0009Para enviar e receber conteúdo transferido
-\u0009\u0009Transferir itens para outros dispositivos
-\u0009\u0009Para estabelecer uma conexão Bluetooth entre dispositivos e transferir itens
-\u0009\u0009Gravar áudio interno do dispositivo
-\u0009\u0009Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento
-\u0009\u0009Acessar o conteúdo da tela
-\u0009\u0009Para acessar o conteúdo da tela durante a gravação ou transmissão, incluindo informações confidenciais como áudio, senhas, senhas de pagamento, fotos, mensagens, etc.
-\u0009\u0009Área de transferência compartilhada e captura de imagens entre dispositivos:
-\u0009\u0009Ativar e desativar o Bluetooth
-\u0009\u0009Para descobrir dispositivos próximos via Bluetooth
-\u0009\u0009Ativar e desativar o Wi-Fi
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
-\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
-\u0009\u0009Para enviar e receber conteúdo transferido
-\u0009\u0009Acessar a área de transferência
-\u0009\u0009Para permitir que apps acessem conteúdo copiado
-\u0009\u0009Assistência de rede, teclados, mouses e câmera compartilhados:
-\u0009\u0009Ativar e desativar o Bluetooth
-\u0009\u0009Para descobrir dispositivos próximos via Bluetooth
-\u0009\u0009Ativar e desativar o Wi-Fi
-\u0009\u0009Para descobrir dispositivos próximos e transferir itens via Wi-Fi
-\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
-\u0009\u0009Para enviar e receber conteúdo transferido
-\u0009\u0009Acessar câmera
-\u0009\u0009Para tirar fotos e gravar vídeos
-\u0009\u0009Xiaomi Smart Hub:
-\u0009\u0009Ativar e desativar o Bluetooth
-\u0009\u0009Para descobrir dispositivos próximos via Bluetooth
-\u0009\u0009Ativar e desativar o Wi-Fi
-\u0009\u0009Para descobrir dispositivos próximos e transferir itens via Wi-Fi
-\u0009\u0009Gravar áudio interno do dispositivo
-\u0009\u0009Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento
-\u0009\u0009Acessar fotos, vídeos e áudio armazenados no dispositivo
-\u0009\u0009Para enviar e receber conteúdo transferido
-Se você não concordar em conceder essas permissões, não poderá usar esses serviços.
-Os serviços de interconectividade disponíveis podem diferir com base na versão do sistema e no modelo do dispositivo. Encontre mais informações em %s."</string>
+    <string name="interconnection_service_global_label">"&lt;Data>A Interconectividade Xiaomi permite que seus dispositivos interajam entre si sem fio. Ao ativar esta opção, você concorda com a &lt;a href=%1$s>Política de Privacidade da Interconectividade Xiaomi&lt;/a >.&lt;/Data>"</string>
+    <string name="interconnection_service_summary_china">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. %1$s Os serviços de interconectividade disponíveis podem variar dependendo da versão do sistema e do modelo do dispositivo. Encontre mais informações em %2$s.</string>
+    <string name="interconnection_service_summary_china_fragment1">Esses serviços incluem Mi Smart Play, transmissão, transferência de app, Tela inicial+, área de transferência compartilhada, tethering sem fio (incluindo sincronização de rede), controles entre dispositivos, câmera entre dispositivos e Xiaomi Smart Hub. Para poder funcionar normalmente, os Serviços de Interconectividade Xiaomi precisam se conectar à internet e exigir as seguintes permissões:</string>
+    <string name="interconnection_service_summary_china_fragment10">Para acessar as informações de dispositivos próximos</string>
+    <string name="interconnection_service_summary_china_fragment11">Gravar áudio do dispositivo interno</string>
+    <string name="interconnection_service_summary_china_fragment12">Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento</string>
+    <string name="interconnection_service_summary_china_fragment13">Acessar fotos, vídeos e áudio armazenados no dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment14">Para enviar e receber conteúdo transferido</string>
+    <string name="interconnection_service_summary_china_fragment15">Acessar o endereço MAC do dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment16">Para reconhecer dispositivos conectados</string>
+    <string name="interconnection_service_summary_china_fragment17">Acessar o conteúdo da tela</string>
+    <string name="interconnection_service_summary_china_fragment18">Para acessar o conteúdo da tela durante a gravação ou transmissão, incluindo informações confidenciais como áudio, senhas, senhas de pagamento, fotos, mensagens, etc.</string>
+    <string name="interconnection_service_summary_china_fragment19">Transferência de apps e Tela inicial+:</string>
+    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play e transmissão:</string>
+    <string name="interconnection_service_summary_china_fragment20">Ativar e desativar o Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment21">Para descobrir dispositivos próximos para conectar via Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment22">Ativar e desativar o Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment23">Para descobrir dispositivos próximos e transferir itens via Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment24">Acessar o endereço MAC do dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment25">Para reconhecer dispositivos conectados</string>
+    <string name="interconnection_service_summary_china_fragment26">Acessar fotos, vídeos e áudio armazenados no dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment27">Para enviar e receber conteúdo transferido</string>
+    <string name="interconnection_service_summary_china_fragment28">Transferir itens para outros dispositivos</string>
+    <string name="interconnection_service_summary_china_fragment29">Para estabelecer uma conexão Bluetooth entre dispositivos e transferir itens</string>
+    <string name="interconnection_service_summary_china_fragment3">Ativar e desativar o Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment30">Gravar áudio do dispositivo interno</string>
+    <string name="interconnection_service_summary_china_fragment31">Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento</string>
+    <string name="interconnection_service_summary_china_fragment32">Acessar o conteúdo da tela</string>
+    <string name="interconnection_service_summary_china_fragment33">Para acessar o conteúdo da tela durante a gravação ou transmissão, incluindo informações confidenciais como áudio, senhas, senhas de pagamento, fotos, mensagens, etc.</string>
+    <string name="interconnection_service_summary_china_fragment34">Área de transferência compartilhada:</string>
+    <string name="interconnection_service_summary_china_fragment35">Ativar e desativar o Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment36">Para descobrir dispositivos próximos para conectar via Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment37">Ativar e desativar o Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment38">Para descobrir dispositivos próximos e transferir itens via Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment39">Acessar fotos, vídeos e áudio armazenados no dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment4">>Para descobrir dispositivos próximos para conectar via Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment40">Para enviar e receber conteúdo transferido</string>
+    <string name="interconnection_service_summary_china_fragment41">Acessar a área de transferência</string>
+    <string name="interconnection_service_summary_china_fragment42">Para permitir que apps acessem conteúdo copiado</string>
+    <string name="interconnection_service_summary_china_fragment43">Tethering sem fio (incluindo sincronização de rede), controles entre dispositivos e câmera entre dispositivos:</string>
+    <string name="interconnection_service_summary_china_fragment44">Ativar e desativar o Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment45">Para descobrir dispositivos próximos para conectar via Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment46">Ativar e desativar o Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment47">Para descobrir dispositivos próximos e transferir itens via Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment48">Acessar fotos, vídeos e áudio armazenados no dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment49">Para enviar e receber conteúdo transferido</string>
+    <string name="interconnection_service_summary_china_fragment5">Ativar e desativar o Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment50">Acessar câmera</string>
+    <string name="interconnection_service_summary_china_fragment51">Para tirar fotos e gravar vídeos</string>
+    <string name="interconnection_service_summary_china_fragment52">Xiaomi Smart Hub:</string>
+    <string name="interconnection_service_summary_china_fragment53">Ativar e desativar o Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment54">Para descobrir dispositivos próximos para conectar via Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment55">Ativar e desativar o Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment56">Para descobrir dispositivos próximos e transferir itens via Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment57">Gravar áudio do dispositivo interno</string>
+    <string name="interconnection_service_summary_china_fragment58">Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento</string>
+    <string name="interconnection_service_summary_china_fragment59">Acessar fotos, vídeos e áudio armazenados no dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment6">Para descobrir dispositivos próximos e transferir itens via Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment60">Para enviar e receber conteúdo transferido</string>
+    <string name="interconnection_service_summary_china_fragment61">"Se você não concordar em conceder essas permissões, não poderá usar esses serviços."</string>
+    <string name="interconnection_service_summary_china_fragment7">Transferir itens para outros dispositivos</string>
+    <string name="interconnection_service_summary_china_fragment8">Para estabelecer uma conexão Bluetooth entre dispositivos e transferir itens</string>
+    <string name="interconnection_service_summary_china_fragment9">Acessar informações de localização</string>
     <string name="interconnection_service_summary_global">"Os recursos de Interconectividade Xiaomi podem variar dependendo do modelo do dispositivo e da versão do sistema. Visite o site oficial do sistema para saber mais."</string>
     <string name="interconnection_service_title">Serviços de Interconectividade Xiaomi</string>
     <string name="item_contents_wwarning">Se seu dispositivo for perdido, você não poderá impedir que outras pessoas o utilizem e acessem seus dados, a menos que defina um bloqueio de tela. Ignorar mesmo assim?</string>
@@ -320,19 +303,19 @@ Os serviços de interconectividade disponíveis podem diferir com base na versã
     <string name="mint_keyboard_oobe_checkbox">Eu li e aceito a Política de Privacidade do Teclado Mint</string>
     <string name="mint_keyboard_oobe_terms">Política de Privacidade do Teclado Mint</string>
     <string name="miui14_start_up_slogan">Preparar. Estável. Ao vivo.</string>
-    <string name="miui_privacy_policy_no_network">Você não tem uma conexão com a internet. Veja a Política de Privacidade em %s.</string>
+    <string name="miui_privacy_policy_no_network">"Você não tem uma conexão com a internet. Veja a Política de Privacidade em %s."</string>
     <string name="miui_provision">Configuração inicial</string>
-    <string name="miui_terms_no_network">Você não tem uma conexão com a internet. Veja o Contrato do Usuário em %s.</string>
+    <string name="miui_terms_no_network">"Você não tem uma conexão com a internet. Veja o Contrato do Usuário em %s."</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
@@ -345,10 +328,10 @@ Os serviços de interconectividade disponíveis podem diferir com base na versã
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="mobile_network">Usando dados móveis</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
@@ -391,7 +374,7 @@ Os serviços de interconectividade disponíveis podem diferir com base na versã
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
-    <string name="move_data_dialog_box_le">Isto permite o uso de dados móveis e a conexão GPS com base na solicitação do usuário. A sincronização de contas e outros itens pode exigir o uso de dados móveis, dependendo das especificações do dispositivo.</string>
+    <string name="move_data_dialog_box_le">"Isto permite o uso de dados móveis e a conexão GPS com base na solicitação do usuário. A sincronização de contas e outros itens pode exigir o uso de dados móveis, dependendo das especificações do dispositivo."</string>
     <string name="move_data_dialog_box_title">A menos que você tenha um plano com dados ilimitados, o uso de dados móveis pode gerar tarifas adicionais com a operadora. Usar os dados móveis mesmo assim?</string>
     <string name="move_data_dialog_cancel">Cancelar</string>
     <string name="move_data_dialog_title">Você pode restringir a conexão de dados móveis posteriormente nas Configurações</string>
@@ -400,7 +383,7 @@ Os serviços de interconectividade disponíveis podem diferir com base na versã
     <string name="msim_setting_default_voice">SIM de chamadas</string>
     <string name="multisim_settings_category">Configurações do cartão SIM</string>
     <string name="multisim_settings_sb_title">%d cartão SIM detectado</string>
-    <string name="multisim_settings_title">2 cartões SIM detectados</string>
+    <string name="multisim_settings_title">%d cartões SIM detectados</string>
     <string name="navigation_picker_gesture_guide">Guia de gestos</string>
     <string name="navigation_picker_radio_text_full_screen">Gestos em Tela cheia</string>
     <string name="navigation_picker_radio_text_virtual_key">Botões</string>
@@ -412,7 +395,7 @@ Os serviços de interconectividade disponíveis podem diferir com base na versã
     <string name="note_introduction">Este app permite que você crie, veja e edite notas.</string>
     <string name="other_settings">Configurações adicionais</string>
     <string name="other_settings_ad_dialog_agree">Ativar</string>
-    <string name="other_settings_ad_dialog_content">Quando a recomendação personalizada de anúncios está desativada, você ainda verá a mesma quantidade de anúncios de quando o recurso está ativo. Os anúncios, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais.</string>
+    <string name="other_settings_ad_dialog_content">"Quando a recomendação personalizada de anúncios está desativada, você ainda verá a mesma quantidade de anúncios de quando o recurso está ativo. Os anúncios, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="other_settings_ad_dialog_content_for_global">"Quando as recomendações de anúncios personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios em apps do sistema HyperOS como quando o recurso estiver ativado. Os anúncios de plataformas Xiaomi e de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="other_settings_ad_dialog_disagree">Desativar</string>
     <string name="other_settings_ad_disable_summary">Ative para personalizar os anúncios</string>
@@ -444,7 +427,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="other_settings_upload_debug_log_summary">"Ajude a melhorar a experiência do dispositivo HyperOS enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema HyperOS, e da estabilidade do app e muito mais. "</string>
     <string name="other_settings_upload_debug_log_title">Enviar dados de uso e diagnóstico</string>
     <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
-    <string name="other_settings_user_experience_summary">Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso e análises conosco.</string>
+    <string name="other_settings_user_experience_summary">"Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso e análises conosco."</string>
     <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
     <string name="permission_MIUIDaemon_introduction">O HyperOS Daemon permite que você transfira dados do seu dispositivo quando a tela está danificada.</string>
     <string name="permission_access_calendar">Acessar o calendário</string>
@@ -453,6 +436,8 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="permission_account_introduction">Para fazer login com a Conta Mi</string>
     <string name="permission_application_package_introduction">Para acessar o armazenamento para analisar e verificar pacotes de instalação (APKs)</string>
     <string name="permission_application_scope_description">"Usamos essas permissões apenas ao realizar a verificação de segurança e não as usaremos para nenhuma outra finalidade."</string>
+    <string name="permission_authority_describe">Acessar lista de apps instalados neste dispositivo</string>
+    <string name="permission_authority_describe_applist_summary">Para gerenciar permissões de apps</string>
     <string name="permission_backup">Acessar o armazenamento</string>
     <string name="permission_backup_introduction">Para acessar e salvar backups em seu dispositivo</string>
     <string name="permission_call_records">Acessar o histórico de chamadas</string>
@@ -479,6 +464,8 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="permission_download_introduction">Para armazenar itens baixados em cache e salvá-los no seu dispositivo</string>
     <string name="permission_enable_disable_bluetooth_summary">Para encontrar dispositivos próximos para conectar e transferir dados</string>
     <string name="permission_fast_pairing">Para ser capaz de encontrar dispositivos próximos, Mi Link precisa se conectar à internet e requer as seguintes permissões:</string>
+    <string name="permission_get_imei_information_summary">Para identificar o tempo de ativação do dispositivo</string>
+    <string name="permission_get_imei_information_summary_settings">Para exibir informações e especificações do dispositivo</string>
     <string name="permission_imei_service">Para acessar o IMEI e fornecer serviços associados ao seu dispositivo</string>
     <string name="permission_interaction_introduction">Para salvar fotos e vídeos no dispositivo</string>
     <string name="permission_location">Acessar informações de localização:</string>
@@ -493,8 +480,11 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="permission_login_introduction">Para fazer login e gerenciar contas do sistema</string>
     <string name="permission_make_a_call">Fazer chamadas</string>
     <string name="permission_make_a_call_fast_application_summary">Para permitir que apps façam chamadas;</string>
+    <string name="permission_media_storage_summary">Para verificar como os apps usam as permissões relacionadas à privacidade ao acessar arquivos</string>
     <string name="permission_message_introduction">Para enviar mensagens a contatos bloqueados</string>
     <string name="permission_not_agree_service_not_working">"Se você não concordar com as permissões exigidas acima mencionadas, não poderá usar este serviço."</string>
+    <string name="permission_number">Acessar número de telefone</string>
+    <string name="permission_number_introduction">Para estabelecer uma conexão Bluetooth com sistemas automotivos e fones de ouvido Bluetooth</string>
     <string name="permission_phone_imei_device">Para acessar o IMEI para identificar dispositivos</string>
     <string name="permission_phone_network">Para acessar o tipo de rede para otimizar e ajustar itens baixáveis</string>
     <string name="permission_phone_service">Acessar o número do telefone, do IMEI e IMSI</string>
@@ -502,6 +492,8 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="permission_photo_video">Tirar fotos e gravar vídeos:</string>
     <string name="permission_photo_video_introduction">Para tirar fotos, gravar vídeos e usar o flash</string>
     <string name="permission_picture_introduction">Para salvar, editar e sincronizar fotos e vídeos</string>
+    <string name="permission_qualcomm_describe_summary">Para alocar dinamicamente recursos do sistema para diferentes apps e organizar seus processos de trabalho</string>
+    <string name="permission_quality_describe_summary">Para coletar informações sobre falhas dos apps</string>
     <string name="permission_read_app_list">Acessar a lista de apps instalados neste dispositivo</string>
     <string name="permission_read_application_list_summary">Para atualizar os apps baixados e confirmar as informações do app usadas pelo instalador do pacote;</string>
     <string name="permission_read_call_records">Editar histórico de chamadas</string>
@@ -540,6 +532,10 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="permission_screen_shoot_introduction">Para acessar e salvar gravações de tela</string>
     <string name="permission_send_message">Enviar SMS</string>
     <string name="permission_sms_verification_code_login">Para fornecer verificação por SMS para rápido login</string>
+    <string name="permission_uniquely_identifiable_information">Acessar identificadores exclusivos deste dispositivo</string>
+    <string name="permission_uniquely_identifiable_information_summary">Acesse o endereço MAC e o OAID do dispositivo para descobrir, conectar e se comunicar com outros dispositivos.</string>
+    <string name="permission_use_bluetooth">Usar o Bluetooth</string>
+    <string name="permission_use_bluetooth_summary">Para descobrir, conectar e comunicar-se com dispositivos próximos.</string>
     <string name="permission_use_camera">Acessar câmera</string>
     <string name="permission_use_camera_camera_summary">Para tirar fotos, gravar vídeos e usar o flash.</string>
     <string name="permission_use_camera_desktop_summary">Para determinar se deve ser compatível com o recurso da lanterna</string>
@@ -549,6 +545,8 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="permission_use_microphone_camera_summary">Para gravar áudio enquanto grava vídeo</string>
     <string name="permission_use_microphone_desktop_summary">Para mostrar o status da gravação.</string>
     <string name="permission_use_microphone_fast_application_summary">Para permitir que apps acessem o microfone</string>
+    <string name="permission_use_wlan">Usar o Wi-Fi</string>
+    <string name="permission_use_wlan_summary">Para descobrir, conectar e comunicar-se com dispositivos próximos.</string>
     <string name="permission_user_record_introduction">Para gravar áudio</string>
     <string name="permission_virusscan_introduction">Para executar verificações por vírus e otimizar seu dispositivo</string>
     <string name="permission_write_device_store">Salvar itens no armazenamento do dispositivo</string>
@@ -556,6 +554,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="permission_xunlei_introduction">Para entrar e gerenciar contas do sistema, a fim de fornecer serviços do Xunlei</string>
     <string name="phone_introduction">Você pode usar este app para localizar e neutralizar vírus, bloquear chamadas e mensagens, otimizar o desempenho de jogos, economizar bateria, bem como gerenciar apps, permissões, uso de dados e muito mais.</string>
     <string name="phone_name_security">Segurança</string>
+    <string name="phone_service_introduction">A telefonia é um serviço básico que permite ao seu dispositivo fazer chamadas, enviar e receber mensagens e conectar-se à rede.</string>
     <string name="pm">"PM"</string>
     <string name="poco_agree_terms_other">(Incluindo a Política de Privacidade e o Contrato do Usuário da POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">Política de Privacidade da POCO Launcher</string>
@@ -582,12 +581,18 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
     <string name="provision_next">Avançar</string>
     <string name="provision_skip_underline">Pular</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier é um serviço que gerencia processos do sistema.</string>
     <string name="read_application_info">Acessar informações do app</string>
     <string name="read_sms_and_mms">Acessar SMS e MMS</string>
+    <string name="recommended_font_mark">Recomendado</strin
     <string name="recorder_introduction">Você pode usar este app para gravar áudio e fazer o backup dessas gravações para a nuvem.</string>
     <string name="refuse_cookie">Recusar cookies</string>
     <string name="require_authority_list_statement">Para funcionar normalmente, este serviço requer as seguintes permissões:</string>
     <string name="require_authority_statement">Para que possamos fornecer-lhe serviços básicos, você precisa conceder as seguintes permissões para que possamos coletar suas informações pessoais:</string>
+    <string name="require_base_authority_statement">"Para fornecer serviços básicos, as seguintes permissões são necessárias:
+\u0009\u0009\u0009Acessar IMEI e IMSI"</string>
+    <string name="require_basic_applist_and_authority_statement">Para fornecer serviços básicos, as seguintes permissões são necessárias:</string>
+    <string name="require_device_information_statement">Para fornecer serviços básicos, as seguintes permissões são necessárias:</string>
     <string name="require_miuidaemon_authority_statement">Para que possamos lhe fornecer este serviço, você precisa se conectar à internet e conceder as seguintes permissões para que possamos coletar suas informações pessoais:</string>
     <string name="require_network_and_authority_statement">Para funcionar normalmente, este serviço precisa se conectar à internet e requer as seguintes permissões:</string>
     <string name="require_network_authority_statement">Para que possamos fornecer-lhe serviços básicos, você precisa se conectar à internet e conceder as seguintes permissões para que possamos coletar suas informações pessoais:</string>
@@ -598,12 +603,13 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="screen_recording_introduction">Este app permite que você grave o que está acontecendo na sua tela.</string>
+    <string name="screen_recording_introduction">"Este app permite que você grave o que está acontecendo na sua tela."</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="security_introduction">Você pode usar este app para localizar e neutralizar vírus, bloquear chamadas e mensagens, otimizar o desempenho de jogos, economizar bateria, bem como gerenciar apps, permissões, uso de dados e muito mais.</string>
     <string name="security_mobile_account_introduction">Para fazer login e gerenciar contas do sistema</string>
+    <string name="select_font_modele_tips">Você sempre pode selecionar uma nova fonte em Temas</string>
     <string name="send">Enviar</string>
-    <string name="service_agreement">Eu li e aceito os termos e condições.</string>
+    <string name="service_agreement">"Eu li e aceito os termos e condições."</string>
     <string name="service_company_adjust_content">Contrato de usuário de serviços de rede Xunlei</string>
     <string name="service_fast_pairing_policy"><Data>Leia e concorde com a &lt;a href=%1$s>Política de privacidade do Mi Link&lt;/a > antes de continuar.</Data></string>
     <string name="service_interconnection_communication">Serviços de comunicação da internet da Xiaomi</string>
@@ -636,7 +642,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="service_name_security">Segurança</string>
     <string name="service_name_service_framework">Estrutura de Serviços Mi</string>
     <string name="service_name_systemdesktop">Plugin de serviço da Tela inicial</string>
-    <string name="service_policy">&lt;Data>Leia e aceite a nossa &lt;a href=%1$s>Política de Privacidade&lt;/a >.&lt;/Data></string>
+    <string name="service_policy"><Data>Leia e aceite a nossa &lt;a href=%1$s>Política de Privacidade&lt;/a >.</Data></string>
     <string name="service_policy_adjust_content">Política de privacidade da Xunlei</string>
     <string name="service_policy_download"><Data>Antes de usar os nossos serviços, leia e aceite a &lt;a href=%1$s>Política de Privacidade da Xunlei&lt;/a >.</Data></string>
     <string name="service_privacy_index">Política de Privacidade</string>
@@ -666,7 +672,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="sim_card_network_card2">Dados SIM 2</string>
     <string name="sim_dectection_next">Continuar</string>
     <string name="sim_redetection">Verificar novamente</string>
-    <string name="sim_scard_detecting_check_mobile_not_available">O seu cartão SIM não pôde se conectar a uma operadora válida. Certifique-se de que você tem saldo suficiente na sua conta e tente se conectar novamente.</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">"O seu cartão SIM não pôde se conectar a uma operadora válida. Certifique-se de que você tem saldo suficiente na sua conta e tente se conectar novamente."</string>
     <string name="skip_gesture_guide_dialog_message">Certifique-se de que você sabe usar os Gestos em Tela cheia antes de selecionar esta opção.</string>
     <string name="skip_gesture_guide_dialog_negative_btn">Cancelar</string>
     <string name="skip_gesture_guide_dialog_positive_btn">"OK"</string>
@@ -702,7 +708,10 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="switch_network">Trocando de rede</string>
     <string name="system_navigation_mode">Modo de navegação do sistema</string>
+    <string name="system_update_statement">Para realizar uma atualização do sistema, precisamos coletar o IMEI do dispositivo, IMSI do dispositivo, identificadores do dispositivo (OAID e ID criptografado do Android), Conta Mi, fabricante do dispositivo, modelo do dispositivo, operadora de rede, memória do dispositivo, versão do sistema operacional, região, idioma, conectividade, tipo de rede e endereço IP.</string>
+    <string name="system_update_title">Atualizações do sistema</string>
     <string name="systemdesktop_introduction">O plugin de serviço da Tela inicial oferece recursos básicos, como Tela inicial, UI do Sistema e capturas de tela.</string>
     <string name="term_condition_detail">"Obtenha imagens impressionantes e histórias emocionantes entregues em sua tela de bloqueio diariamente. Este recurso não usará seus dados para personalização sem o seu consentimento. Leia e concorde com a &lt;a href =%1$s>Política de Privacidade&lt;/a> e o &lt;a href =%2$s>Contrato do Usuário&lt;/a> do provedor de conteúdo de terceiros antes de usar este recurso."</string>
     <string name="terms_of_use">Termos e condições</string>
@@ -743,6 +752,7 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_simcard">Serviço de ativação do SIM</string>
     <string name="terms_of_use_label_smart_service">Serviços inteligentes</string>
     <string name="terms_of_use_label_statistics">Estatisticas</string>
+    <string name="terms_of_use_label_system_quality_monitoring">Monitoramento da qualidade do sistema</string>
     <string name="terms_of_use_label_systemhelper">Serviço auto-registrado</string>
     <string name="terms_of_use_label_translation">Serviço de tradução</string>
     <string name="terms_of_use_label_unionplay_security">Elemento seguro UnionPay TSM (versão Xiaomi)</string>
@@ -838,14 +848,14 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="voice_assist_desp">Diga \"Mi AI\" no seu telefone. O Mi AI reconhecerá a sua voz e poderá controlar o seu dispositivo.</string>
     <string name="voice_assist_title">Ligar tela com voz</string>
     <string name="wc_dialog_agree">Aceitar</string>
-    <string name="wc_dialog_reject">Não aceitar</string>
+    <string name="wc_dialog_reject">"Não aceitar"</string>
     <string name="wc_dialog_summary">O Carrossel de planos de fundo oferece imagens impressionantes e histórias emocionantes em sua Tela de bloqueio diariamente.</string>
     <string name="wc_dialog_title">Tela de bloqueio reimaginada</string>
     <string name="wc_double_check_agree">Experimentar</string>
     <string name="wc_double_check_reject">Não, obrigado</string>
     <string name="wc_double_check_summary">Você pode ativar o Carrossel de planos de fundo para experimentar. Lembre-se de que você sempre pode ativar ou desativar o Carrossel de planos de fundo em Configurações > Tela de bloqueio.</string>
     <string name="wc_double_check_title">Experimente o Carrossel de planos de fundo</string>
-    <string name="wc_notice_link_announcement_summary">Leia e aceite a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> do provedor de conteúdo terceirizado, antes de usar este recurso.</string>
+    <string name="wc_notice_link_announcement_summary">"Leia e aceite a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> do provedor de conteúdo terceirizado, antes de usar este recurso."</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

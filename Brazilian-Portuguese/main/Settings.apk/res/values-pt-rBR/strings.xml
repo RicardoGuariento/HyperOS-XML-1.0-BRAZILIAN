@@ -137,7 +137,7 @@
     <string name="accessibility_color_and_motion_title">Cor e movimento</string>
     <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Correção de cores adicionada às Configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
     <string name="accessibility_color_correction_qs_tooltip_content">Você também pode adicionar a correção de cores às Configurações rápidas na parte superior da tela</string>
-    <string name="accessibility_color_inversion_about_title">Sobre a inversão de cores</string>
+    <string name="accessibility_color_inversion_about_title">Sobre a Inversão de cores</string>
     <string name="accessibility_color_inversion_auto_added_qs_tooltip_content">Inversão de cores adicionada às Configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
     <string name="accessibility_color_inversion_footer_learn_more_content_description">Saiba mais sobre a inversão de cores</string>
     <string name="accessibility_color_inversion_qs_tooltip_content">Você também pode adicionar a inversão de cores às Configurações rápidas na parte superior da tela</string>
@@ -147,10 +147,10 @@
     <string name="accessibility_control_timeout_preference_summary">"Esta preferência de tempo não é compatível com todos os apps"</string>
     <string name="accessibility_control_timeout_preference_title">Tempo de reação</string>
     <string name="accessibility_daltonizer_about_intro_text">Ajuste como as cores são exibidas no seu telefone</string>
-    <string name="accessibility_daltonizer_about_title">Sobre a correção de cores</string>
+    <string name="accessibility_daltonizer_about_title">Sobre a Correção de cores</string>
     <string name="accessibility_daltonizer_footer_learn_more_content_description">Saiba mais sobre a correção de cores</string>
     <string name="accessibility_daltonizer_master_switch_title">Usar correção de cor</string>
-    <string name="accessibility_daltonizer_primary_switch_title">Use correção de cores</string>
+    <string name="accessibility_daltonizer_primary_switch_title">Usar correção de cores</string>
     <string name="accessibility_daltonizer_shortcut_title">Atalho de correção de cores</string>
     <string name="accessibility_data_one_bar">Dados uma barra.</string>
     <string name="accessibility_data_signal_full">Sinal de dados cheio.</string>
@@ -163,10 +163,10 @@
     <string name="accessibility_dialog_button_stop">Parar</string>
     <string name="accessibility_disable_animations">Remover animações</string>
     <string name="accessibility_disable_animations_summary">Reduz o movimento na tela</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">A correção de cores pode ser útil quando você deseja:&lt;br/>&lt;ol>&lt;li> Ver as cores com mais precisão&lt;/li>&lt;li> Remover cores para ajudá-lo a se concentrar&lt;/li>&lt;/ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">A correção de cores pode ser útil quando você deseja:&lt;br/> &lt;ol> &lt;li> Ver as cores com mais precisão&lt;/li>&lt;li> Remover cores para ajudá-lo a se concentrar&lt;/li>&lt;/ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_display_inversion_preference_intro_text">A inversão de cores torna as telas claras em escuras. Ele também transforma telas escuras em claras.</string>
-    <string name="accessibility_display_inversion_preference_subtitle">&lt;b>Tenha em mente&lt;/b>&lt;br/> &lt;ol> &lt;li> As cores mudarão na mídia e nas imagens&lt;/li> &lt;li> A inversão de cores funciona em todos os apps&lt;/li> &lt;li> Para exibir um fundo escuro, o Tema escuro pode ser usado&lt;/li> &lt;/ol></string>
+    <string name="accessibility_display_inversion_preference_subtitle">&lt;b>Tenha em mente que:&lt;/b>&lt;br/> &lt;ol> &lt;li> As cores mudarão na mídia e nas imagens&lt;/li> &lt;li> A inversão de cores funciona em todos os apps&lt;/li> &lt;li> Para exibir um fundo escuro, o Modo escuro pode ser usado&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_inversion_preference_title">Inversão de cores</string>
     <string name="accessibility_display_inversion_shortcut_title">Atalho de inversão de cores</string>
     <string name="accessibility_display_inversion_switch_title">Usar inversão de cores</string>
@@ -239,10 +239,10 @@ Para evitar isso, você pode alterar o atalho de ampliação de toque triplo par
     <string name="accessibility_manual_zen_less_time">Menos tempo.</string>
     <string name="accessibility_manual_zen_more_time">Mais tempo.</string>
     <string name="accessibility_media_vibration_title">Vibração da mídia</string>
-    <string name="accessibility_menu_description">"O menu de acessibilidade fornece atalhos convenientes que permitem que você controle o seu dispositivo.
+    <string name="accessibility_menu_description">"O Menu de acessibilidade fornece atalhos convenientes que permitem que você controle o seu dispositivo.
 
 Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela para abrir o menu."</string>
-    <string name="accessibility_menu_description_pad">"O menu de acessibilidade fornece atalhos convenientes que permitem que você controle o seu dispositivo.
+    <string name="accessibility_menu_description_pad">"O Menu de acessibilidade fornece atalhos convenientes que permitem que você controle o seu dispositivo.
 
 Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela para abrir o menu."</string>
     <string name="accessibility_menu_item_settings">Configurações</string>
@@ -1058,8 +1058,8 @@ Alterar as configurações agora?"</string>
     <string name="auto_dual_clock_aod_summary">Mostrar Relógio duplo quando a hora atual for diferente da do relógio secundário</string>
     <string name="auto_dual_clock_summary">Mostrar Relógio duplo quando a hora atual for diferente da do relógio secundário</string>
     <string name="auto_dual_clock_title">Relógio duplo</string>
-    <string name="auto_launch_disable_text">Nenhum padrão definido.</string>
-    <string name="auto_launch_enable_text">Você decidiu lançar este app por padrão para algumas ações.</string>
+    <string name="auto_launch_disable_text">Nenhum padrão definido</string>
+    <string name="auto_launch_enable_text">Você decidiu lançar este app por padrão para algumas ações</string>
     <string name="auto_launch_label">Abrir por padrão</string>
     <string name="auto_launch_label_generic">Padrões</string>
     <string name="auto_pin_confirm_opt_in_security_message">Confirmar seu PIN tocando em Enter é mais seguro do que usar a confirmação automática</string>
@@ -1073,7 +1073,7 @@ Alterar as configurações agora?"</string>
     <string name="auto_rotate_camera_lock_summary">A câmera deve ser desbloqueada para detecção de rosto</string>
     <string name="auto_rotate_camera_lock_title">A câmera está bloqueada</string>
     <string name="auto_rotate_link_a11y">Saiba mais sobre a rotação automática</string>
-    <string name="auto_rotate_manage_permission_button">Gerenciar Permissões</string>
+    <string name="auto_rotate_manage_permission_button">Gerenciar permissões</string>
     <string name="auto_rotate_option_face_based">Ativado - baseado no rosto</string>
     <string name="auto_rotate_option_off">Desativado</string>
     <string name="auto_rotate_option_on">Ativado</string>
@@ -1148,7 +1148,7 @@ Alterar as configurações agora?"</string>
     <string name="back_key">Voltar</string>
     <string name="back_navigation_animation">Animações de retorno preditivas</string>
     <string name="back_navigation_animation_dialog">Essa configuração permite animações do sistema para gestos preditivos. Requer a definição de enableOnBackInvokedCallback como True no arquivo de manifesto de cada app.</string>
-    <string name="back_navigation_animation_summary">Ativar animações do sistema para retorno preditivo</string>
+    <string name="back_navigation_animation_summary">Ativa animações do sistema para retorno preditivo</string>
     <string name="back_sensitivity_dialog_message">O aumento da sensibilidade pode prejudicar gestos que usam as bordas da tela</string>
     <string name="back_sensitivity_dialog_title">Sensibilidade da parte de trás</string>
     <string name="back_tap">Toque na traseira</string>
@@ -3115,9 +3115,9 @@ Você pode encontrar controles de uso de dados mais apropriados nas configuraç�
     <string name="data_usage_app_summary_title">Dados móveis e Wi-Fi</string>
     <string name="data_usage_auto_sync_off_dialog">Isto preservará o uso de dados e da bateria, mas será necessário sincronizar manualmente cada conta para obter as informações mais recentes, e você não será informado de novas atualizações.</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desativar sincronização automática?</string>
-    <string name="data_usage_auto_sync_on_dialog">"As alterações feitas em suas contas na Web serão automaticamente copiadas para o dispositivo.
+    <string name="data_usage_auto_sync_on_dialog">"As alterações feitas em suas contas na web serão automaticamente copiadas para o dispositivo.
 
-Algumas contas também poderão copiar automaticamente as alterações feitas no dispositivo para a Web. É assim que funciona uma Conta do Google."</string>
+Algumas contas também poderão copiar automaticamente as alterações feitas no dispositivo para a web. É assim que funciona uma Conta do Google."</string>
     <string name="data_usage_auto_sync_on_dialog_title">Ativar sincronização automática?</string>
     <string name="data_usage_background_label">Segundo plano:</string>
     <string name="data_usage_cellular_data">Dados móveis</string>
@@ -3837,7 +3837,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_2g_summary_disabled_carrier">%1$s requer 2G para estar disponível</string>
     <string name="enable_2g_title">Permitir 2G.</string>
     <string name="enable_adb">Depuração USB</string>
-    <string name="enable_adb_summary">Alterar para modo de depuração quando o USB estiver conectado</string>
+    <string name="enable_adb_summary">Altere para o modo de depuração quando o USB estiver conectado</string>
     <string name="enable_adb_wireless">Depuração sem fios</string>
     <string name="enable_adb_wireless_summary">Modo de depuração quando o Wi-Fi estiver conectado</string>
     <string name="enable_angle_as_system_driver">Ativar ANGLE</string>
@@ -4486,7 +4486,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="force_resizable_activities">Forçar atividades a serem redimensionáveis</string>
     <string name="force_resizable_activities_summary">Torna todas as atividades redimensionáveis para várias janelas, independentemente dos valores do manifesto.</string>
     <string name="force_rtl_layout_all_locales">Forçar direção do layout (RTL)</string>
-    <string name="force_rtl_layout_all_locales_summary">Força a direção do layout (RTL) p/ todos os locais</string>
+    <string name="force_rtl_layout_all_locales_summary">Força a direção do layout (RTL) para todos os locais</string>
     <string name="force_stop">Forçar fechamento</string>
     <string name="force_stop_dlg_text">Se você forçar o fechamento de um app, ele pode apresentar mau funcionamento.</string>
     <string name="force_stop_dlg_title">Forçar fechamento?</string>
@@ -4834,7 +4834,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="hardware_info">Modelo e hardware</string>
     <string name="hardware_revision">Versão do hardware</string>
     <string name="hardware_version">Versão do hardware</string>
-    <string name="has_screenshot_sound">Som de captura de tela</string>
+    <string name="has_screenshot_sound">Som ao capturar tela</string>
     <string name="hdcp_checking_dialog_title">Configurar a verificação HDCP</string>
     <string name="hdcp_checking_title">Verificação HDCP</string>
     <string name="hdmi_3d_display_enable_summary">Suporte a jogos 3D</string>
@@ -4988,13 +4988,13 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="ime_security_warning_title_global">Ativando o teclado</string>
     <string name="imei_information_summary">Informações relativas de IMEI</string>
     <string name="imei_information_title">Informações de IMEI</string>
-    <string name="imei_multi_sim">IMEI (slot para o SIM %1$d)</string>
+    <string name="imei_multi_sim">IMEI (slot SIM %1$d)</string>
     <string name="imei_multi_sim_primary">IMEI (slot SIM %1$d) (Primário)</string>
     <string name="imei_multi_sim_softbank">IMEI %1$d</string>
     <string name="imitate_real_keyboard">Teclado tradicional</string>
     <string name="imitate_real_keyboard_summary">Conveniente quando o dispositivo está sobre uma superfície plana</string>
     <string name="immediately_destroy_activities">Não manter atividades</string>
-    <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
+    <string name="immediately_destroy_activities_summary">Encerra atividades assim que o usuário sair dela</string>
     <string name="immersive_audio_sources">Imersão de áudio</string>
     <string name="importance_default">Padrão</string>
     <string name="importance_high">Alta</string>
@@ -6935,7 +6935,7 @@ Selecione seu sistema operacional:"</string>
     <string name="music_video_flow_across_device">Controle e transfira a reprodução de áudio entre dispositivos</string>
     <string name="musicfx_title">Efeitos sonoros</string>
     <string name="mute">Modo silencioso</string>
-    <string name="mute_media_sound_summary">Jogos, música, vídeos e outros apps</string>
+    <string name="mute_media_sound_summary">Jogos, músicas, vídeos e outros apps</string>
     <string name="mute_media_sound_title">Silenciar mídias no Modo silencioso</string>
     <string name="mute_music_stream">Silenciar o som de mídias</string>
     <string name="mute_voiceassist_stream">Silenciar assistente de voz</string>
@@ -7770,7 +7770,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="picker_text">Selecionar tempo</string>
     <string name="picture_color_mode">Modo de cor da imagem</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
-    <string name="picture_in_picture_app_detail_summary">Permite que esse app crie uma janela Pip enquanto o app é aberto ou depois que você sai dele (por exemplo, para continuar assistindo um vídeo). Essa janela é sobreposta a outros apps que você está usando.</string>
+    <string name="picture_in_picture_app_detail_summary">Permite que esse app crie uma janela Pip enquanto o app é aberto ou depois que você sai dele (ex.: para continuar assistindo um vídeo). Essa janela é sobreposta a outros apps que você está usando.</string>
     <string name="picture_in_picture_app_detail_switch">Permitir Pip</string>
     <string name="picture_in_picture_app_detail_title">Picture-in-picture (Pip)</string>
     <string name="picture_in_picture_empty_text">Nenhum dos apps instalados é compatível com Pip</string>
@@ -7779,14 +7779,14 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="pin_failed">Falha na operação de PIN do SIM.</string>
     <string name="ping_test_label">Executar teste de ping</string>
     <string name="placeholder_activity">• Esta é uma atividade substituta temporária de espaço reservado.</string>
-    <string name="platform_compat_dashboard_summary">Alternar alterações de compatibilidade do app</string>
+    <string name="platform_compat_dashboard_summary">Alterna alterações de compatibilidade do app</string>
     <string name="platform_compat_dashboard_title">Alterações na compatibilidade do app</string>
     <string name="platform_compat_default_disabled_title">Alterações desativadas por padrão</string>
     <string name="platform_compat_default_enabled_title">Alterações ativadas por padrão</string>
     <string name="platform_compat_dialog_text_no_apps">Alterações de compatibilidade de apps só podem ser modificadas para apps depurados. Instale um app debuggable e tente novamente.</string>
     <string name="platform_compat_dialog_title_no_apps">Não há apps disponíveis</string>
     <string name="platform_compat_selected_app_summary">%1$s targetSdkVersion %2$d</string>
-    <string name="platform_compat_target_sdk_title">Ativado para targetSdkVersion &gt; %d</string>
+    <string name="platform_compat_target_sdk_title">Ativado para targetSdkVersion >= %d</string>
     <string name="please_connect_to_the_network">Conecte-se ao Wi-Fi ou aos dados móveis para concluir a limpeza dos dados do eSIM.</string>
     <string name="please_connect_to_the_wifi">Conecte-se ao Wi-Fi para terminar de limpar os dados do eSIM.</string>
     <string name="please_select_phase2">Autenticação da Fase 2</string>
@@ -8317,13 +8317,13 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="recommend_tip">Precisa de outras configurações?</string>
     <string name="recommend_tip_wakeup_xiaoai">Para usar botões para interagir com a Mi IA é necessário desativar os gestos de tela cheia e ativar os botões de navegação</string>
     <string name="recompute_size">Recalculando o tamanho…</string>
-    <string name="reduce_bright_colors_about_title">Sobre o ultra escuro</string>
+    <string name="reduce_bright_colors_about_title">Sobre o Ultra escuro</string>
     <string name="reduce_bright_colors_intensity_end_label">Mais brilhante</string>
     <string name="reduce_bright_colors_intensity_preference_title">Intensidade</string>
-    <string name="reduce_bright_colors_intensity_start_label">Escura</string>
+    <string name="reduce_bright_colors_intensity_start_label">Mais escura</string>
     <string name="reduce_bright_colors_persist_preference_title">Manter após a reinicialização do dispositivo</string>
     <string name="reduce_bright_colors_preference_intro_text">Deixe sua tela mais escura para que seja mais confortável ler</string>
-    <string name="reduce_bright_colors_preference_subtitle">"O escurecimento extra pode ser útil quando: &lt;ol> &lt;li> O brilho mínimo padrão do seu telefone ainda é muito claro&lt;/li> &lt;li> Você está usando seu telefone em situações escuras, como à noite ou em um quarto escuro antes de dormir&lt;/li> &lt;/ol>"</string>
+    <string name="reduce_bright_colors_preference_subtitle">"O ultra escuro pode ser útil quando: &lt;ol> &lt;li> O brilho mínimo padrão do seu dispositivo ainda é muito claro&lt;/li> &lt;li> Você está usando seu dispositivo em situações escuras, como à noite ou em um quarto escuro antes de dormir&lt;/li> &lt;/ol>"</string>
     <string name="reduce_bright_colors_preference_summary">Escurece a tela além do brilho mínimo do seu telefone</string>
     <string name="reduce_bright_colors_preference_title">Ultra escuro</string>
     <string name="reduce_bright_colors_shortcut_title">Atalho ultra escuro</string>
@@ -8787,7 +8787,7 @@ Para usar a fixação de apps: \u0009
     <string name="screen_zoom_summary_large">Grande</string>
     <string name="screen_zoom_summary_small">Pequeno</string>
     <string name="screen_zoom_summary_very_large">Maior</string>
-    <string name="screen_zoom_title">Tamanho da exibição</string>
+    <string name="screen_zoom_title">Tamanho de exibição</string>
     <string name="screensaver_settings_button">Configurações</string>
     <string name="screensaver_settings_current">Protetor de tela atual</string>
     <string name="screensaver_settings_disabled_prompt">Para controlar o que acontece quando o dispositivo está encaixado e/ou no modo de suspensão, ative o protetor de tela.</string>
@@ -9534,7 +9534,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="show_hw_layers_updates">Mostrar atualizações de camadas de hardware</string>
     <string name="show_hw_layers_updates_summary">Itens de hardware sendo atualizados piscam em verde</string>
     <string name="show_hw_screen_updates">Mostrar atualização de visualização</string>
-    <string name="show_hw_screen_updates_summary">Piscar visualizações dentro de janelas quando renderizadas</string>
+    <string name="show_hw_screen_updates_summary">Pisca visualizações dentro de janelas quando renderizadas</string>
     <string name="show_ime">Usar teclado virtual</string>
     <string name="show_ime_summary">Manter na tela enquanto o teclado físico estiver ativo</string>
     <string name="show_magnifier_when_input">Lupa para texto</string>
@@ -9689,7 +9689,7 @@ PIN possivelmente incorreto."</string>
     <string name="sim_setup_wizard_title">Chips</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="sim_status_title">Status do cartão SIM</string>
-    <string name="sim_status_title_sim_slot">Status do chip (slot para o SIM %1$d)</string>
+    <string name="sim_status_title_sim_slot">Status do chip (slot SIM %1$d)</string>
     <string name="sim_status_title_sim_softbank">Status do SIM %1$d</string>
     <string name="sim_switch_button">Mudar</string>
     <string name="sim_switch_channel_id">Comutação de transportadora</string>
@@ -10234,7 +10234,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="storageuse_settings_summary">Visualizar armazenamento usado pelos apps</string>
     <string name="storageuse_settings_title">Uso do armazenamento</string>
     <string name="strict_mode">Modo restrito</string>
-    <string name="strict_mode_summary">Piscar a tela quando apps executarem operações longas na tarefa principal</string>
+    <string name="strict_mode_summary">Pisca a tela quando apps executarem operações longas na tarefa principal</string>
     <string name="string_KB">"%d KB"</string>
     <string name="string_KB_per_log_buffer">%d KB por buffer de log</string>
     <string name="string_MB">"%d MB"</string>
@@ -11178,7 +11178,7 @@ Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as i
     <string name="usagestats_device_timeout_positive">Entendi</string>
     <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>
     <string name="usb_adb_input">Depuração USB (Configurações de segurança)</string>
-    <string name="usb_adb_input_desc">Conceder permissões de acesso e simulação de entrada via depuração USB</string>
+    <string name="usb_adb_input_desc">Conceda permissões de acesso e simulação de entrada via depuração USB</string>
     <string name="usb_audio_disable_routing">Desativar roteamento de áudio USB</string>
     <string name="usb_audio_disable_routing_summary">Desativa o roteamento automático p/ periféricos de áudio USB</string>
     <string name="usb_charging_summary">Desativa todos os outros recursos da conexão USB para acelerar o carregamento.</string>
@@ -11202,7 +11202,7 @@ ou com conector de 3.5mm."</string>
     <string name="usb_host_mode_text">Modo USB host</string>
     <string name="usb_insert_summary">Conectar armazenamento USB</string>
     <string name="usb_install_app">Instalar via USB</string>
-    <string name="usb_install_app_desc">Permitir instalação de apps via USB</string>
+    <string name="usb_install_app_desc">Permita instalação de apps via USB</string>
     <string name="usb_midi_summary">Permite que apps com MIDI ativado funcionem por meio de USB com o software MIDI no computador.</string>
     <string name="usb_midi_title">MIDI (som)</string>
     <string name="usb_mount">Montar armazenamento USB</string>

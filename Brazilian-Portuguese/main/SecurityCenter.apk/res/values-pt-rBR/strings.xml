@@ -515,8 +515,8 @@
     <string name="app_manager_copy_pkg_to_clip">Copiado para a área de transferência</string>
     <string name="app_manager_data_size">Dados do usuário</string>
     <string name="app_manager_default_cleared">Limpo</string>
-    <string name="app_manager_default_close_summary">Nenhum padrão definido.</string>
-    <string name="app_manager_default_open_summary">Você optou por iniciar este app por padrão para algumas ações.</string>
+    <string name="app_manager_default_close_summary">Nenhum padrão definido</string>
+    <string name="app_manager_default_open_summary">Você optou por iniciar este app por padrão para algumas ações</string>
     <string name="app_manager_default_open_title">Limpar padrões</string>
     <string name="app_manager_defaults_setting">Apps padrão</string>
     <string name="app_manager_details_electric_title">Bateria</string>
@@ -3070,7 +3070,7 @@ da operadora"</string>
     <string name="marked_by_user">"Você o reportou como "</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione a hora</string>
-    <string name="material_hour_suffix">"%1$s horas</string>
+    <string name="material_hour_suffix">"%1$s horas"</string>
     <string name="material_minute_selection">Selecione os minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Fim do intervalo,</string>
@@ -3879,7 +3879,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_change_wifi_state">Esta permissão permite que os apps ativem e desativem o Wi-Fi sem sua confirmação.</string>
     <string name="permission_instruction_device_admin">Esta permissão permite que os apps controlem seu dispositivo, o que pode incluir a limpeza de dados, o desbloqueio do dispositivo e a troca de senhas. Esta é uma permissão de alto risco.</string>
     <string name="permission_instruction_dont_disturb">Esta permissão permite que os apps ativem e desativem o modo Não perturbe.</string>
-    <string name="permission_instruction_draw_overlay">Esta permissão permite que os apps exibam janelas flutuantes sobre qualquer outra interface em seu dispositivo, o que pode afetar o uso normal de outros apps. Apps maliciosos podem usar esta permissão para ler ou coletar informações pessoais (por exemplo, senhas) através de janelas flutuantes transparentes.</string>
+    <string name="permission_instruction_draw_overlay">Esta permissão permite que os apps exibam janelas flutuantes sobre qualquer outra interface em seu dispositivo, o que pode afetar o uso normal de outros apps. Apps maliciosos podem usar esta permissão para ler ou coletar informações pessoais (ex.: senhas) através de janelas flutuantes transparentes.</string>
     <string name="permission_instruction_external_storage">Esta permissão permite que apps acessem fotos, mídias e arquivos em seu dispositivo. Tenha cuidado com esta permissão para evitar divulgação desnecessária de informações pessoais.</string>
     <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, o HyperOS para proteger sua privacidade permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
     <string name="permission_instruction_get_accounts">Esta permissão permite aos apps acessar a lista de contas armazenadas em seu dispositivo. Esta lista pode conter todas as suas contas pessoais criadas pelos apps instalados, assim como as contas de plataformas de mídia social e ferramentas de comunicação.</string>
@@ -5385,7 +5385,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="summary_condition_in_charge">Ao carregar</string>
     <string name="summary_condition_insert_headset">Conecte seus fones de ouvido</string>
     <string name="summary_condition_missing_call">Chamada não atendida</string>
-    <string name="summary_condition_no_in_charge">Quando não está carregando</string>
+    <string name="summary_condition_no_in_charge">Quando não estiver carregando</string>
     <string name="summary_condition_open_absorbed_mode">Após ativar o Modo foco</string>
     <string name="summary_condition_reduce_to_target">Quando a bateria estiver no nível definido</string>
     <string name="summary_condition_reduce_to_target_percent">Quando a bateria estiver em %d%%</string>
@@ -5535,7 +5535,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_close_eye_care_mode">Desativar o Modo leitura</string>
     <string name="task_summary_close_hotspot">Desativar o hotspot portátil</string>
     <string name="task_summary_close_location">Desativar os serviços de localização</string>
-    <string name="task_summary_close_mute">Desativar Modo silencioso</string>
+    <string name="task_summary_close_mute">Desativar o Modo silencioso</string>
     <string name="task_summary_close_network">Desativar os dados móveis</string>
     <string name="task_summary_close_nfc">Desativar o NFC</string>
     <string name="task_summary_close_rotate_lock">Desbloquear orientação</string>
@@ -5555,7 +5555,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_open_eye_care_mode">Ativar o Modo leitura</string>
     <string name="task_summary_open_hotspot">Ativar o hotspot portátil</string>
     <string name="task_summary_open_location">Ativar os serviços de localização</string>
-    <string name="task_summary_open_mute">Ativar Modo silencioso</string>
+    <string name="task_summary_open_mute">Ativar o Modo silencioso</string>
     <string name="task_summary_open_mute_mode">Ativar o Modo silencioso</string>
     <string name="task_summary_open_network">Ativar os dados móveis</string>
     <string name="task_summary_open_nfc">Ativar o NFC</string>
