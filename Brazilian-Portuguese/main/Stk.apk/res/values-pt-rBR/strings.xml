@@ -37,9 +37,9 @@
     <string name="button_no">Não</string>
     <string name="button_ok">"OK"</string>
     <string name="button_yes">Sim</string>
-    <string name="character_counter_content_description">Caracteres inseridos %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
-    <string name="chip_text">Texto do Chip</string>
+    <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
+    <string name="chip_text">Texto do chip</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
@@ -145,10 +145,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -271,7 +271,7 @@
     <string name="stk_dialog_accept">SIM</string>
     <string name="stk_dialog_reject">NÃO</string>
     <string name="stk_dialog_title">Serviços do SIM</string>
-    <string name="stk_ic_remove_content">Após remover o atalho da Tela inicial, você ainda poderá usar o Serviços do SIM por meio do app Configurações.</string>
+    <string name="stk_ic_remove_content">"Após remover o atalho da Tela inicial, você ainda poderá usar o Serviços do SIM por meio do app Configurações."</string>
     <string name="stk_ic_remove_title">Remover o Serviços do SIM da Tela inicial?</string>
     <string name="stk_no_service">Nenhum serviço disponível</string>
     <string name="sunday">Domingo</string>
@@ -320,7 +320,9 @@
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>

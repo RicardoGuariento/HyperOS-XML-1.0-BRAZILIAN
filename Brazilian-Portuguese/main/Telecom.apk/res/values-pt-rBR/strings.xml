@@ -98,7 +98,7 @@
     <string name="afternoon">"PM"</string>
     <string name="alarm_template">às %1$s</string>
     <string name="alarm_template_far">em %1$s</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e programe ações urgentes. Isso permite que o app seja executado em segundo plano, o que pode consumir mais bateria.
+    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e programe ações urgentes. Isso permite que o app seja executado em 2º plano, o que pode consumir mais bateria.
 
 Se esta permissão estiver desativada, alarmes existentes e eventos baseados em tempo programados por este app não funcionarão."</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
@@ -146,7 +146,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="blocked_numbers_butter_bar_body">Após discar ou mandar uma mensagem para um número de emergência, o bloqueio é temporariamente desativado para que os serviços de emergência possam contactá-lo.</string>
     <string name="blocked_numbers_butter_bar_button">Re-ativar agora</string>
     <string name="blocked_numbers_butter_bar_title">Lista de bloqueio desativada</string>
-    <string name="blocked_numbers_msg">Você não receberá chamadas ou mensagens de números bloqueados.</string>
+    <string name="blocked_numbers_msg">"Você não receberá chamadas ou mensagens de números bloqueados."</string>
     <string name="blocked_numbers_number_already_blocked_message">%1$s já está bloqueado.</string>
     <string name="blocked_numbers_number_blocked_message">%1$s bloqueado</string>
     <string name="blocked_numbers_number_unblocked_message">%1$s desbloqueado</string>
@@ -265,8 +265,8 @@ taxa de amostragem"</string>
     <string name="call_notification_incoming_text">Chamada recebida</string>
     <string name="call_notification_ongoing_text">Chamada em andamento</string>
     <string name="call_notification_screening_text">Triagem de uma chamada recebida</string>
-    <string name="can_not_dial_vt_while_voice_prompt">Não é possível fazer uma videochamada com uma chamada de voz em andamento</string>
-    <string name="can_not_dial_while_vt_prompt">Não é possível ligar com uma videochamada em progresso</string>
+    <string name="can_not_dial_vt_while_voice_prompt">"Não é possível fazer uma videochamada com uma chamada de voz em andamento"</string>
+    <string name="can_not_dial_while_vt_prompt">"Não é possível ligar com uma videochamada em progresso"</string>
     <string name="cancel">Cancelar</string>
     <string name="cant_call_due_to_no_supported_service">"Não é possível fazer ligações porque não há contas de chamadas compatíveis com chamadas desse tipo."</string>
     <string name="cant_call_due_to_ongoing_call">"Não é possível fazer uma ligação devido à suas %1$s chamada."</string>
@@ -352,8 +352,8 @@ taxa de amostragem"</string>
     <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este usuário</string>
     <string name="development_settings_summary">Define as opções para o desenvolvimento do app</string>
     <string name="development_settings_title">Opções do desenvolvedor</string>
-    <string name="dial_conference_fail_prompt">Não é possível realizar conferência diretamente porque a rede atual não suporta VoLTE.</string>
-    <string name="dial_vt_fail_prompt">A rede atual não suporta VoLTE. Alternar para chamada de voz?</string>
+    <string name="dial_conference_fail_prompt">"Não é possível realizar conferência diretamente porque a rede atual não suporta VoLTE."</string>
+    <string name="dial_vt_fail_prompt">"A rede atual não suporta VoLTE. Alternar para chamada de voz?"</string>
     <string name="direct_boot_unaware_dialog_message">Observação: após uma reinicialização, não é possível iniciar este app até que você desbloqueie seu smartphone</string>
     <string name="disable_overlays">Desativar sobreposição HW</string>
     <string name="disable_overlays_summary">Sempre usar a GPU para composição de tela</string>
@@ -461,9 +461,9 @@ taxa de amostragem"</string>
     <string name="inactive_app_active_summary">Ativo. Tocar para alternar.</string>
     <string name="inactive_app_inactive_summary">Inativo. Tocar para alternar.</string>
     <string name="inactive_apps_title">Apps inativos</string>
-    <string name="incall_error_call_failed">Não foi possível realizar a chamada.</string>
+    <string name="incall_error_call_failed">"Não foi possível realizar a chamada."</string>
     <string name="incall_error_power_off">Desative o Modo avião para fazer uma chamada.</string>
-    <string name="incall_error_supp_service_unknown">Este serviço não é suportado.</string>
+    <string name="incall_error_supp_service_unknown">"Este serviço não é suportado."</string>
     <string name="install_other_apps">Instalar apps desconhecidos</string>
     <string name="item_view_role_description">Guia</string>
     <string name="keep_screen_on">Permanecer ativo</string>
@@ -499,19 +499,19 @@ taxa de amostragem"</string>
     <string name="media_transfer_this_phone">Este dispositivo</string>
     <string name="media_transfer_wired_device_name">Dispositivo de áudio com fio</string>
     <string name="media_transfer_wired_usb_device_name">Fones de ouvido com fio</string>
-    <string name="message_no_voice_capability">Não é possível fazer chamadas neste dispositivo</string>
+    <string name="message_no_voice_capability">"Não é possível fazer chamadas neste dispositivo"</string>
     <string name="midnight">"AM"</string>
     <string name="missedcall_notification_public_version_title">Telefone</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
@@ -524,10 +524,10 @@ taxa de amostragem"</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="mobile_data_always_on">Sempre manter dados móveis ativados</string>
     <string name="mobile_data_always_on_summary">Sempre manter dados móveis ativos, mesmo quando o Wi-Fi estiver ativado (para troca rápida de rede)</string>
     <string name="mock_location_app">Selecionar app de local fictício</string>
@@ -642,7 +642,7 @@ taxa de amostragem"</string>
     <string name="not_default_data_content_description">Não definido para usar dados</string>
     <string name="not_set">Não definido</string>
     <string name="notification_AllMissedCallTitle">Todas as chamadas perdidas</string>
-    <string name="notification_audioProcessing_body">%s colocou uma chamada em segundo plano. Este app pode estar acessando e reproduzindo áudio durante a chamada.</string>
+    <string name="notification_audioProcessing_body">%s colocou uma chamada em 2º plano. Este app pode estar acessando e reproduzindo áudio durante a chamada.</string>
     <string name="notification_audioProcessing_title">Chamada em 2º plano</string>
     <string name="notification_channel_background_calls">Chamadas em 2º plano</string>
     <string name="notification_channel_call_blocking">Bloqueio de chamadas</string>
@@ -733,10 +733,10 @@ taxa de amostragem"</string>
     <string name="profile_info_settings_title">Informações do perfil</string>
     <string name="redirect_system_dialer_toast">Ocorreu um erro com %s. Alternando para o app discador do sistema.</string>
     <string name="remaining_length_format">%1$s restante(s)</string>
-    <string name="respond_via_sms_canned_response_1">Não posso falar agora. O que houve?</string>
-    <string name="respond_via_sms_canned_response_2">Te ligarei de volta em breve.</string>
-    <string name="respond_via_sms_canned_response_3">Te ligo mais tarde.</string>
-    <string name="respond_via_sms_canned_response_4">Não posso falar agora. Me ligue mais tarde?</string>
+    <string name="respond_via_sms_canned_response_1">"Não posso falar agora. O que houve?"</string>
+    <string name="respond_via_sms_canned_response_2">"Te ligarei de volta em breve."</string>
+    <string name="respond_via_sms_canned_response_3">"Te ligo mais tarde."</string>
+    <string name="respond_via_sms_canned_response_4">"Não posso falar agora. Me ligue mais tarde?"</string>
     <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
     <string name="respond_via_sms_failure_format">"Não foi possível enviar mensagem para %s."</string>

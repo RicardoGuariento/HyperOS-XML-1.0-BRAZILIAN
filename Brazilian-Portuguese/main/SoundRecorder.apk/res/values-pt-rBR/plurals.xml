@@ -56,7 +56,6 @@
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
@@ -90,8 +89,8 @@
         <item quantity="one">%d gravação baixada</item>
     </plurals>
     <plurals name="recovery_failed_dialog_message">
-        <item quantity="other">Não foi possível restaurar %d itens devido a um erro desconhecido.</item>
-        <item quantity="one">Não foi possível restaurar %d item devido a um erro desconhecido.</item>
+        <item quantity="other">"Não foi possível restaurar %d itens devido a um erro desconhecido."</item>
+        <item quantity="one">"Não foi possível restaurar %d item devido a um erro desconhecido."</item>
     </plurals>
     <plurals name="search_all_records_hint">
         <item quantity="other">%d gravações</item>

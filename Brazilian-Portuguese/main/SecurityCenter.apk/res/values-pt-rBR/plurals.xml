@@ -102,8 +102,8 @@
         <item quantity="one">Você será notificado sobre ações sensíveis executadas por %1$d app</item>
     </plurals>
     <plurals name="app_behavior_record_close_content_text">
-        <item quantity="other">Os registros de comportamento do app são armazenados neste dispositivo por %d dias. Se você desativar esse recurso, novos registros não aparecerão mais e os antigos serão excluídos. Desativar mesmo assim?</item>
-        <item quantity="one">Os registros de comportamento do app são armazenados neste dispositivo por %d dia. Se você desativar esse recurso, novos registros não aparecerão mais e os antigos serão excluídos. Desativar mesmo assim?</item>
+        <item quantity="other">"Os registros de comportamento do app são armazenados neste dispositivo por %d dias. Se você desativar esse recurso, novos registros não aparecerão mais e os antigos serão excluídos. Desativar mesmo assim?"</item>
+        <item quantity="one">"Os registros de comportamento do app são armazenados neste dispositivo por %d dia. Se você desativar esse recurso, novos registros não aparecerão mais e os antigos serão excluídos. Desativar mesmo assim?"</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s iniciou %2$d apps</item>
@@ -206,8 +206,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="one">%d dia atrás</item>
     </plurals>
     <plurals name="exit_dialog_scan_message_new">
-        <item quantity="other">A pontuação de desempenho do seu dispositivo é inferior a %d pontos. Otimizar agora?</item>
-        <item quantity="one">A pontuação de desempenho do seu dispositivo é inferior a %d ponto. Otimizar agora?</item>
+        <item quantity="other">"A pontuação de desempenho do seu dispositivo é inferior a %d pontos. Otimizar agora?"</item>
+        <item quantity="one">"A pontuação de desempenho do seu dispositivo é inferior a %d ponto. Otimizar agora?"</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Avançar %d segundos</item>
@@ -311,11 +311,11 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     <plurals name="gb_vision_enhance_desc_detail">
         <item quantity="other">"Observação:
-· Visuais aprimorados não estarão disponíveis quando a Economia de bateria estiver ativada ou seu dispositivo estiver superaquecido.
-· A taxa de quadros inteligente mostra melhores resultados quando seu jogo está configurado para exibir pelo menos %d quadros por segundo."</item>
+• Visuais aprimorados não estarão disponíveis quando a Economia de bateria estiver ativada ou seu dispositivo estiver superaquecido.
+• A taxa de quadros inteligente mostra melhores resultados quando seu jogo está configurado para exibir pelo menos %d quadros por segundo."</item>
         <item quantity="one">"Observação:
-· Visuais aprimorados não estarão disponíveis quando a Economia de bateria estiver ativada ou seu dispositivo estiver superaquecido.
-· A taxa de quadros inteligente mostra melhores resultados quando seu jogo está configurado para exibir pelo menos %d quadros por segundo."</item>
+• Visuais aprimorados não estarão disponíveis quando a Economia de bateria estiver ativada ou seu dispositivo estiver superaquecido.
+• A taxa de quadros inteligente mostra melhores resultados quando seu jogo está configurado para exibir pelo menos %d quadros por segundo."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Experimente o Modificador de voz agora
@@ -533,8 +533,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">Sua sessão de Otimização de velocidade de rede terminará em %d dia. Você pode começar a ter atrasos na rede. Renovar a sessão agora?</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"O acesso à rede está restrito para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; apps"</item>
-        <item quantity="one">"O acesso à rede está restrito para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; app"</item>
+        <item quantity="other">"O acesso à rede está restrito para &lt;font color='#ff0000'>%d&lt;/font> apps"</item>
+        <item quantity="one">"O acesso à rede está restrito para &lt;font color='#ff0000'>%d&lt;/font> app"</item>
     </plurals>
     <plurals name="not_added_apps_count">
         <item quantity="other">%d apps não adicionados</item>
@@ -1321,8 +1321,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
-        <item quantity="other">Pode adicionar %d jogos</item>
-        <item quantity="one">Adicione %d jogo</item>
+        <item quantity="other">"Pode adicionar %d jogos"</item>
+        <item quantity="one">"Adicione %d jogo"</item>
     </plurals>
     <plurals name="unlock_set_unlock_pattern_summary_new">
         <item quantity="other">Conecte pelo menos %s pontos</item>
@@ -1337,9 +1337,9 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="videobox_settings_timing_bubble">
-        <item quantity="other">Você assistiu vídeos por %d horas.
-Faça um intervalo!</item>
-        <item quantity="one">Você assistiu vídeos por %d hora.
+        <item quantity="other">"Você assistiu vídeos por %d horas.
+Faça um intervalo!"</item>
+        <item quantity="one">"Você assistiu vídeos por %d hora.
 Faça um intervalo!"</item>
     </plurals>
     <plurals name="view_num">

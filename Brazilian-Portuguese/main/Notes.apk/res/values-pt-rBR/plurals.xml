@@ -34,8 +34,8 @@
         <item quantity="one">Excluir %1$s item?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s itens não foram sincronizados</item>
-        <item quantity="one">%1$s item não foi sincronizado</item>
+        <item quantity="other">"%1$s itens não foram sincronizados"</item>
+        <item quantity="one">"%1$s item não foi sincronizado"</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d dias depois</item>

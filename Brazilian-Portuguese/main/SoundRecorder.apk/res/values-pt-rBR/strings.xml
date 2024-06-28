@@ -85,7 +85,7 @@
     <string name="change_password">Alterar senha</string>
     <string name="cancel_rename">Cancelar</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="chip_text">Texto do chip</string>
     <string name="clear_data_dialog_content">Os itens em cache, dados do app, e configurações personalizadas serão excluídos, mas suas gravações continuarão onde estão.</string>
     <string name="clear_data_dialog_title">Limpar os dados agora?</string>
@@ -97,7 +97,7 @@
     <string name="cloud_record_tip">Sincronizar gravações com a MiCloud.</string>
     <string name="cloud_service_state_open_reminder">Ative a sincronização com a nuvem para sincronizar gravações.</string>
     <string name="cloud_status_full_dialog_cancel">Agora não</string>
-    <string name="cloud_status_full_dialog_msg">Seu armazenamento na nuvem está cheio, não é possível sincronizar gravações. Faça o upgrade da sua conta para obter mais espaço de armazenamento.</string>
+    <string name="cloud_status_full_dialog_msg">"Seu armazenamento na nuvem está cheio, não é possível sincronizar gravações. Faça o upgrade da sua conta para obter mais espaço de armazenamento."</string>
     <string name="cloud_status_full_dialog_ok">"Upgrade"</string>
     <string name="cloud_status_full_dialog_title">O armazenamento da MiCloud está cheio</string>
     <string name="collect_diagnosis_log">Coletar logs</string>
@@ -119,8 +119,8 @@
 ID: %s
 Envie este código para o supervisor."</string>
     <string name="details">Detalhes</string>
-    <string name="dialog_content_storage_full">A gravação foi interrompida porque não há espaço de armazenamento suficiente no seu dispositivo.</string>
-    <string name="dialog_privacy_revoke_tips">Após você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização de serviços MiCloud.</string>
+    <string name="dialog_content_storage_full">"A gravação foi interrompida porque não há espaço de armazenamento suficiente no seu dispositivo."</string>
+    <string name="dialog_privacy_revoke_tips">"Após você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização de serviços MiCloud."</string>
     <string name="dialog_title_storage_full">Não há espaço suficiente</string>
     <string name="doing_query_account">Verificando informações da conta…</string>
     <string name="download">Baixar</string>
@@ -154,13 +154,13 @@ Envie este código para o supervisor."</string>
     <string name="error_app_internal">Verifique se outro app está usando a função de gravação.</string>
     <string name="error_app_internal_title">Erro no gravador de som</string>
     <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
-    <string name="error_file_access">O arquivo não existe ou está corrompido</string>
+    <string name="error_file_access">"O arquivo não existe ou está corrompido"</string>
     <string name="error_filename_illegal_char">O nome do arquivo contém caracteres inválidos.</string>
     <string name="error_filename_too_long">O nome do arquivo é muito longo.</string>
     <string name="error_icon_content_description">Erro</string>
     <string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
     <string name="error_remark_too_long">Seu comentário é muito longo</string>
-    <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
+    <string name="error_sdcard_access">"Não é possível acessar o cartão SD"</string>
     <string name="error_sdcard_unmounted">Insira o cartão SD agora</string>
     <string name="evening">"PM"</string>
     <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
@@ -220,10 +220,10 @@ Envie este código para o supervisor."</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="input_email_address_notice">"Usaremos este e-mail para verificar sua conta"</string>
     <string name="invalid_argument">Argumento inválido</string>
-    <string name="invisible_mode_dialog_message">Não é possível usar o microfone quando você está anônimo. Desative o Modo anônimo primeiro.</string>
+    <string name="invisible_mode_dialog_message">"Não é possível usar o microfone quando você está anônimo. Desative o Modo anônimo primeiro."</string>
     <string name="invisible_mode_dialog_negative">Cancelar</string>
     <string name="invisible_mode_dialog_positive">Desativar</string>
-    <string name="invisible_mode_dialog_title">Você está anônimo</string>
+    <string name="invisible_mode_dialog_title">"Você está anônimo"</string>
     <string name="invisible_mode_error_tip">Desative o Modo anônimo nas Configurações para poder usar o microfone</string>
     <string name="item_view_role_description">Guia</string>
     <string name="keywords_search_call_record">Gravar chamadas;Gravar chamada;Gravação de chamada;Gravação de chamadas</string>
@@ -245,7 +245,7 @@ Envie este código para o supervisor."</string>
     <string name="logout_account">Sair</string>
     <string name="loading_order_list">Aguarde…</string>
     <string name="loading_order_list_empty">Nenhum pedido aqui.</string>
-    <string name="low_battery_error">Menos de %s de bateria restante. Pare e salve sua gravação para garantir que ela não seja perdida.</string>
+    <string name="low_battery_error">"Menos de %s de bateria restante. Pare e salve sua gravação para garantir que ela não seja perdida."</string>
     <string name="low_battery_error_confirm">"OK"</string>
     <string name="low_battery_error_for_pad">Menos de %s de bateria restante. Pare e salve sua gravação para garantir que ela não seja perdida.</string>
     <string name="low_battery_error_title">Bateria fraca</string>
@@ -304,10 +304,10 @@ Envie este código para o supervisor."</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -382,8 +382,8 @@ Envie este código para o supervisor."</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="network_timeout_info">Não foi possível conectar à rede. Tente novamente.</string>
-    <string name="network_tip_dialog_cancel">Não aceitar</string>
+    <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
+    <string name="network_tip_dialog_cancel">"Não aceitar"</string>
     <string name="network_tip_dialog_content">O Gravador precisa de uma conexão com a internet para funcionar normalmente. Aceitar?</string>
     <string name="network_tip_dialog_ok">Permitir</string>
     <string name="network_tip_dialog_title">Conexão com a internet requerida</string>
@@ -403,7 +403,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="no_account">Não conectado</string>
     <string name="no_content">Nenhum item aqui ainda</string>
     <string name="no_file">Vazio</string>
-    <string name="no_network">Não foi possível conectar-se à rede</string>
+    <string name="no_network">"Não foi possível conectar-se à rede"</string>
     <string name="no_playback_file">Selecione uma gravação para ver os detalhes</string>
     <string name="no_records">Ainda não há gravações aqui</string>
     <string name="noon">"PM"</string>
@@ -598,7 +598,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="recognition_button_add_to_queue">Adicionar à fila</string>
     <string name="recognition_button_cancel">Agora não</string>
     <string name="recognition_button_start">Transcrever</string>
-    <string name="recognition_confirm_dialog_body">A transcrição pode levar algum tempo. Você receberá uma notificação quando esta tarefa for concluída. Transcrever agora?</string>
+    <string name="recognition_confirm_dialog_body">"A transcrição pode levar algum tempo. Você receberá uma notificação quando esta tarefa for concluída. Transcrever agora?"</string>
     <string name="recognition_error_cancel">Cancelado</string>
     <string name="recognition_error_code">Código do erro: %d</string>
     <string name="recognition_error_download_cancel">Depois</string>
@@ -614,10 +614,10 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="recognition_error_internal">Erro interno</string>
     <string name="recognition_error_stopped">Transcrição parada</string>
     <string name="recognition_error_unknown">Ocorreu um erro desconhecido. Reporte-o para nós e tente novamente.</string>
-    <string name="recognition_interrupt_current_dialog_body">A transcrição pode levar algum tempo. Você receberá uma notificação quando esta tarefa for concluída. \"%s\" está sendo transcrito agora. Adicionar esta tarefa à fila de transcrições?</string>
+    <string name="recognition_interrupt_current_dialog_body">"A transcrição pode levar algum tempo. Você receberá uma notificação quando esta tarefa for concluída. \"%s\" está sendo transcrito agora. Adicionar esta tarefa à fila de transcrições?"</string>
     <string name="recognition_notification_channel">Transcrevendo</string>
     <string name="recognition_notification_complete_success">\"%s\" transcrito com sucesso. Toque para ver.</string>
-    <string name="recognition_notification_error">Não foi possível transcrever \"%s\"</string>
+    <string name="recognition_notification_error">"Não foi possível transcrever \"%s\""</string>
     <string name="recognition_notification_running">Transcrevendo \"%s\"…</string>
     <string name="recognition_process_dialog_body">Outras gravações (%s) estão sendo transcritas agora. Parar as tarefas em andamento e iniciar uma nova?</string>
     <string name="recognition_process_dialog_cancel">Fila</string>
@@ -642,7 +642,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="record_download">Baixar da MiCloud</string>
     <string name="record_download_complete">Baixado</string>
     <string name="record_download_msg">Gravações só podem ser reproduzidas após serem baixadas.</string>
-    <string name="record_download_msg_reload">Esta gravação não existe.</string>
+    <string name="record_download_msg_reload">"Esta gravação não existe."</string>
     <string name="record_downloading_notification">Baixando…</string>
     <string name="record_downloading_notification_complete">Download concluído</string>
     <string name="record_downloading_notification_count">%d baixando</string>
@@ -697,13 +697,13 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="reg_error_upload_audio">Não foi possível enviar o arquivo. Tente novamente.</string>
     <string name="reg_error_upload_order">Não foi possível enviar. Tente novamente.</string>
     <string name="remind_settings_pref_title">Notificações</string>
-    <string name="remove_icon_description_content">Gravador é um app do sistema. Você não poderá gerenciar gravações após remover o atalho da Tela inicial.</string>
+    <string name="remove_icon_description_content">"Gravador é um app do sistema. Você não poderá gerenciar gravações após remover o atalho da Tela inicial."</string>
     <string name="remove_icon_description_title">Remover \"Gravador\" da Tela inicial?</string>
     <string name="rename">Renomear</string>
     <string name="rename_dialog_title">Renomear gravação</string>
     <string name="rename_duplicate">Outra gravação com o mesmo nome já existe.</string>
     <string name="rename_fail_tip">Não foi possível renomear. Já existe um item com este nome.</string>
-    <string name="rename_no_more_tip">Não mostrar novamente</string>
+    <string name="rename_no_more_tip">"Não mostrar novamente"</string>
     <string name="request_agree">Permitir</string>
     <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concorda para conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir permissões ou revogar sua autorização nas Configurações."</string>
     <string name="request_cancel">Cancelar</string>
@@ -720,7 +720,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="saf_permission_dialog_content">Devido às restrições do Android, o Gravador precisa de permissão para acessar as gravações feitas por outros apps. Permita que o Gravador acesse essas gravações para poder visualizá-las.</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Configurações</string>
     <string name="saf_permission_dialog_later">Não, obrigado</string>
-    <string name="saf_permission_dialog_no_more_tip">Não mostrar novamente</string>
+    <string name="saf_permission_dialog_no_more_tip">"Não mostrar novamente"</string>
     <string name="saf_permission_dialog_title">Permissões necessárias</string>
     <string name="same_new_and_old_pwd">"Não pode ser igual à senha atual"</string>
     <string name="saturday">Sábado</string>
@@ -729,7 +729,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="save_as">Salvar como</string>
     <string name="save_record_dialog_title">Salvar gravação</string>
     <string name="search_app">Gravador</string>
-    <string name="search_empty">Nenhum resultado encontrado</string>
+    <string name="search_empty">"Nenhum resultado encontrado"</string>
     <string name="search_enable_earpiece_title">Modo auricular</string>
     <string name="search_hint">Pesquisar</string>
     <string name="search_led_indicator">Notificações na tela de bloqueio</string>
@@ -864,14 +864,16 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="toast_enter_silent_mode">Gravando. O Modo silencioso está ativado.</string>
+    <string name="toast_exit_silent_mode">Gravação concluída. O Modo silencioso está desativado.</string>
     <string name="toast_max_record_time">%1$s pode gravar até %2$s</string>
     <string name="toast_stop">Gravação concluída</string>
-    <string name="toast_uninstall_fileexplorer">O gerenciador de Arquivos não está instalado</string>
+    <string name="toast_uninstall_fileexplorer">"O Arquivos não está instalado"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="trash_box">Itens recentemente excluídos</string>
@@ -880,7 +882,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
-    <string name="uninstall_warning_content">O Gravador é um app de sistema. Você não poderá gravar áudio e transcrever áudio e chamadas após desinstalá-lo.</string>
+    <string name="uninstall_warning_content">"O Gravador é um app de sistema. Você não poderá gravar áudio e transcrever áudio e chamadas após desinstalá-lo."</string>
     <string name="uninstall_warning_title">Desinstalar o Gravador?</string>
     <string name="unknown_error_info">Erro desconhecido</string>
     <string name="update_email_address_dialog_message">Você precisa verificar sua identidade antes de atualizar o e-mail de recuperação.</string>
@@ -906,9 +908,9 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="view_privacy">Ver a Política de Privacidade</string>
     <string name="webview_check_network">Configurações de rede</string>
     <string name="webview_data_error">Ocorreu um erro</string>
-    <string name="webview_locating_fail">Não foi possível encontrar sua localização</string>
+    <string name="webview_locating_fail">"Não foi possível encontrar sua localização"</string>
     <string name="webview_network_access_denied">Acesso à rede negado</string>
-    <string name="webview_network_unavaliable">Não é possível conectar-se à rede</string>
+    <string name="webview_network_unavaliable">"Não é possível conectar-se à rede"</string>
     <string name="webview_service_unavailiable">Serviço indisponível</string>
     <string name="webview_try_again">Tentar novamente</string>
     <string name="wednesday">Quarta</string>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Código de saúde</item>
+        <item>PCR</item>
+        <item>Áreas de alto risco</item>
+    </string-array>
     <string-array name="pa_home_week_days">
         <item>Domingo</item>
         <item>Segunda</item>

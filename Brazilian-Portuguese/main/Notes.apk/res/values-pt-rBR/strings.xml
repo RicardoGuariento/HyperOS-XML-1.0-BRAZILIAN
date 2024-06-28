@@ -43,12 +43,15 @@
     <string name="actionbar_close_description">Fechar</string>
     <string name="actionbar_home_description">Voltar</string>
     <string name="add_account_desc">Sincronizar suas notas com sua Conta Mi?</string>
-    <string name="add_excerpt_summary">Adicionar lista de resumo</string>
-    <string name="add_pic_excerpt_summary">Adicionar resumo da imagem</string>
+    <string name="add_excerpt_summary">Adicionar à lista de resumo</string>
+    <string name="add_pic_excerpt_summary">Adicionar resumo de imagem</string>
+    <string name="add_text_excerpt_summary">Adicionar resumo de texto</string>
     <string name="added_to_clipboard">Copiado com sucesso</string>
     <string name="afternoon">"PM"</string>
     <string name="ai_chat_declare_double_link"><Data>Leia e concorde com nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="ai_chat_dlg_content">Para diversas fontes de informação em diferentes cenários (como links ou texto que aparecem em apps como navegadores, WeChat e Feishu), a função de coletar e resumir informações rapidamente, bem como gerá-las e apresentá-las automaticamente em uma entrada unificada para arquivamento, pode ser alcançado.</string>
+    <string name="ai_createing_text">Geração de IA…</string>
+    <string name="ai_watermark">Gerar por IA:</string>
     <string name="alarm_bar_title">Lembrete</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
     <string name="alert_message_delete">Excluir %1$s?</string>
@@ -85,7 +88,7 @@
     <string name="audio_dialog_mode_meeting_use">Iniciar</string>
     <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">Arquivo de áudio inválido</string>
-    <string name="audio_toast_file_undownload">O arquivo de áudio não foi baixado totalmente ou está faltando</string>
+    <string name="audio_toast_file_undownload">"O arquivo de áudio não foi baixado totalmente ou está faltando"</string>
     <string name="audio_toast_network_is_not_available">Não foi possível conectar-se à rede</string>
     <string name="blackboard_note">Quadro inteligente</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
@@ -146,20 +149,20 @@
     <string name="clip_resource_deleted">Este item não está mais disponível</string>
     <string name="close">Fechar</string>
     <string name="cloud_trash_bin_title">Notas excluídas da nuvem</string>
-    <string name="confirm_cancel">Rejeitar</string>
+    <string name="confirm_cancel">"Rejeitar"</string>
     <string name="confirm_ok">Aceitar</string>
     <string name="continuous_default_hint">Copiar texto, salvar imagens e capturas de tela como excertos</string>
     <string name="continuous_new_excerpt_title">Novo excerto</string>
     <string name="copy">Copiar</string>
     <string name="cta_agree_desc">Permita que este app conecte-se à internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
-    <string name="cta_confirm_cancel">Não permitir</string>
+    <string name="cta_confirm_cancel">"Não permitir"</string>
     <string name="cta_confirm_ok">Permitir</string>
     <string name="cta_dialog_message">O app Notas precisa de permissões para conectar-se à internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
     <string name="cta_dialog_title">Permissões necessárias</string>
     <string name="cta_reminder">O app Notas precisa de permissões para conectar-se à internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
     <string name="cta_v2_agree_desc">Permita que este app conecte-se à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="cta_v2_app_purpose">Criação, visualização e gerenciamento de notas</string>
-    <string name="cta_v2_app_purpose_v12">Bem-vindo às Notas! Você pode usar este app para criar tarefas e notas que contenham texto, imagens e áudio.</string>
+    <string name="cta_v2_app_purpose_v12">Bem-vindo ao Notas! Você pode usar este app para criar tarefas e notas que contenham texto, imagens e áudio.</string>
     <string name="data_empty_folder">Nenhuma outra pasta para exibir</string>
     <string name="cta_v2_app_purpose_v12_lite">Bem-vindo ao Notas! Você pode usar este app para criar notas e tarefas.</string>
     <string name="data_empty_note">Nenhuma nota aqui ainda</string>
@@ -168,10 +171,10 @@
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_alarm_reminder">Alarme</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
-    <string name="date_time_picker_has_not_set_alarm">O alarme não foi definido</string>
+    <string name="date_time_picker_has_not_set_alarm">"O alarme não foi definido"</string>
     <string name="date_time_picker_has_set_alarm">Alarme definido com sucesso</string>
     <string name="db_downgrade_clear_button">Limpar dados do app</string>
-    <string name="db_downgrade_clear_date_reminder">Mudar para uma versão diferente do HyperOS requer a limpeza dos dados do app Notas. Antes de fazer isso, certifique-se de que você fez o backup de suas notas na nuvem.</string>
+    <string name="db_downgrade_clear_date_reminder">"Mudar para uma versão diferente do HyperOS requer a limpeza dos dados do app Notas. Antes de fazer isso, certifique-se de que você fez o backup de suas notas na nuvem."</string>
     <string name="default_folder_name">Pasta sem nome</string>
     <string name="default_update_documents">Atualização disponível. Atualizar agora?</string>
     <string name="delete_folder_dialog_tile">Excluir pasta</string>
@@ -183,7 +186,7 @@
     <string name="dialog_button_i_know">Entendido</string>
     <string name="dialog_button_move">Mover</string>
     <string name="dialog_expert_as_markdown">Exportar como Remarcação</string>
-    <string name="dialog_privacy_revoke_tips">Depois que você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá fazer com que o app fique virtualmente inutilizável. Revogar a autorização mesmo assim? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização dos serviços da nuvem.</string>
+    <string name="dialog_privacy_revoke_tips">"Depois que você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá fazer com que o app fique virtualmente inutilizável. Revogar a autorização mesmo assim? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização dos serviços da nuvem."</string>
     <string name="dialog_share_as_pic">Compartilhar nota como imagem</string>
     <string name="dialog_share_as_text">Compartilhar nota como texto</string>
     <string name="dialog_tip_title">Atenção!</string>
@@ -194,7 +197,7 @@
     <string name="dlg_info_creating_message">Criando imagem…</string>
     <string name="dlg_info_save_to_gallery_message">Salvando imagem na Galeria…</string>
     <string name="dlg_info_save_to_local_message">Salvando…</string>
-    <string name="dlg_message_password_reset">A senha para notas ocultas será substituída pela Senha de proteção de privacidade, que funciona para mensagens, fotos e pastas ocultas</string>
+    <string name="dlg_message_password_reset">"A senha para notas ocultas será substituída pela Senha de proteção de privacidade, que funciona para mensagens, fotos e pastas ocultas"</string>
     <string name="dlg_message_set_password">A Senha de proteção de privacidade funciona para mensagens, fotos e pastas ocultas</string>
     <string name="dlg_message_use_privacy_password">Use a Senha de proteção de privacidade. Ela funciona para mensagens, fotos e pastas ocultas.</string>
     <string name="dlg_move_message">Movendo…</string>
@@ -251,13 +254,13 @@
     <string name="enable_sync_desc">Sincronizar suas notas com a sua Conta Mi (%1$s)?</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
-    <string name="error_contact_not_exist">O contato não existe</string>
-    <string name="error_hide_empty_note">Não é possível ocultar uma nota vazia</string>
+    <string name="error_contact_not_exist">"O contato não existe"</string>
+    <string name="error_hide_empty_note">"Não é possível ocultar uma nota vazia"</string>
     <string name="error_icon_content_description">Erro</string>
-    <string name="error_note_empty_for_clock">Não é possível definir lembrete para uma nota vazia</string>
-    <string name="error_note_empty_for_send_to_desktop">Notas vazias não podem ser colocadas na Tela inicial</string>
-    <string name="error_note_not_exist">A nota não existe</string>
-    <string name="error_send_empty_note">Não é possível enviar uma nota vazia</string>
+    <string name="error_note_empty_for_clock">"Não é possível definir lembrete para uma nota vazia"</string>
+    <string name="error_note_empty_for_send_to_desktop">"Notas vazias não podem ser colocadas na Tela inicial"</string>
+    <string name="error_note_not_exist">"A nota não existe"</string>
+    <string name="error_send_empty_note">"Não é possível enviar uma nota vazia"</string>
     <string name="error_send_empty_note_to_weibo">Não é possível enviar uma nota vazia para o Weibo</string>
     <string name="error_unsupport_content">Nota com conteúdo não suportado, toque aqui para atualizar</string>
     <string name="error_unsupport_content_format">Esta nota contém conteúdo não suportado. Atualize para a versão %1$s ou posterior.</string>
@@ -354,7 +357,7 @@
     <string name="hear_note">Notas ditadas</string>
     <string name="hidden_notes_fragment_title">Notas ocultas</string>
     <string name="hide_arrow_description">Ocultar</string>
-    <string name="hint_cannot_view_hidden_note_content">Não é possível ver o conteúdo em notas ocultas</string>
+    <string name="hint_cannot_view_hidden_note_content">"Não é possível ver o conteúdo em notas ocultas"</string>
     <string name="hint_foler_name">Nome</string>
     <string name="hover_bold">MD: **Texto** espaço</string>
     <string name="hover_camera">Tira fotos</string>
@@ -382,6 +385,8 @@
     <string name="image_annotation_edit_hint">Descrição da imagem</string>
     <string name="image_annotation_edit_length_warning">A descrição da imagem pode conter até %d caracteres</string>
     <string name="info_note_enter_desktop">Adicionada à Tela inicial</string>
+    <string name="insert_image_menu_take_photo_by_local_device">Tire uma foto com este dispositivo</string>
+    <string name="insert_image_menu_take_photo_by_remote_device">Tire uma foto com %1$s</string>
     <string name="insert_image_size_limit_tip">"Esta imagem tem mais de %d MB. Foi compactada automaticamente."</string>
     <string name="item_view_role_description">Guia</string>
     <string name="last_excerpt_unfinish_hint">O último excerto está incompleto</string>
@@ -466,6 +471,7 @@
     <string name="miui_penengine_setting_show_black_background">Preto</string>
     <string name="miui_penengine_setting_show_grid_background">Pontilhado</string>
     <string name="miui_penengine_setting_show_white_background">Branco</string>
+    <string name="miui_penengine_toast_add_to_clip">Copiado com sucesso</string>
     <string name="miui_penengine_tool_brush">Ferramenta selecionada</string>
     <string name="miui_penengine_tool_brush_stroke1">Traço de espessura um</string>
     <string name="miui_penengine_tool_brush_stroke2">Traço de espessura dois</string>
@@ -496,7 +502,7 @@
     <string name="miui_plus_app_state_description_quick_note_setting">Configurações das notas rápidas</string>
     <string name="miui_plus_app_state_description_view_note">Ver nota</string>
     <string name="miui_plus_app_state_description_view_todo">Ver tarefa</string>
-    <string name="miui_plus_relay_waring_data_not_find">Não foi possível encontrar o item que você está vendo em outro dispositivo. Certifique-se de que todos os itens estejam sincronizados.</string>
+    <string name="miui_plus_relay_waring_data_not_find">"Não foi possível encontrar o item que você está vendo em outro dispositivo. Certifique-se de que todos os itens estejam sincronizados."</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -527,10 +533,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -604,7 +610,7 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="network_timeout_info">Não foi possível conectar à rede. Tente novamente.</string>
+    <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
     <string name="new_alert_title_delete">Excluir notas</string>
     <string name="new_app_name">Notas</string>
     <string name="new_audio_create_cancel_talkback_des">Cancelada</string>
@@ -615,13 +621,13 @@
     <string name="new_lite_audio_create_talkback_des">Toque para criar uma nota</string>
     <string name="new_sync_desc_state_disable">Ative a sincronização na nuvem para notas, tarefas e muito mais.</string>
     <string name="night">"PM"</string>
-    <string name="no_network">Não é possível conectar-se à rede</string>
+    <string name="no_network">"Não é possível conectar-se à rede"</string>
     <string name="noon">"PM"</string>
     <string name="not_now">Agora não</string>
     <string name="not_set">Não definido</string>
     <string name="note_description_content">O app Notas é uma ótima ferramenta para armazenar sua ideias. ele tem um sistema de lembretes integrado e sincroniza seus itens com a nuvem para que você os acesse de qualquer lugar. Certifique-se de que você não precisará destes recursos antes de excluir o app.</string>
     <string name="note_description_title">Sobre o app Notas</string>
-    <string name="note_dual_screen_dialog_content">Parece que você está editando notas no seu computador. Para evitar conflitos de edição, feche as Notas no seu computador.</string>
+    <string name="note_dual_screen_dialog_content">"Parece que você está editando notas no seu computador. Para evitar conflitos de edição, feche as Notas no seu computador."</string>
     <string name="note_dual_screen_dialog_title">Usando a combinação de tela…</string>
     <string name="note_gesture_guide_step1">Pressione e segure o botão flutuante \"+\" para criar uma nota de voz</string>
     <string name="note_gesture_guide_step2">Pressione e segure uma nota e então arraste-a em cima de outra nota para criar uma pasta</string>
@@ -645,7 +651,7 @@
     <string name="note_write_hint">Comece a escrever</string>
     <string name="notealert_enter">Abrir nota</string>
     <string name="notealert_ok">Dispensar</string>
-    <string name="notes_description_content">Notas é um app do sistema. Você não poderá usar este app após desinstalá-lo.</string>
+    <string name="notes_description_content">"Notas é um app do sistema. Você não poderá usar este app após desinstalá-lo."</string>
     <string name="notes_description_title">Desinstalar Notas?</string>
     <string name="notification_content_add_todo_from_other_app">Você adicionou uma nova tarefa. Toque para ver.</string>
     <string name="notify_alarm_title">Lembrete de nota</string>
@@ -679,7 +685,7 @@
     <string name="pc_date_time_picker_set_time">Definir hora</string>
     <string name="pc_module_notes_name">Notas</string>
     <string name="pc_module_todo_name">Tarefas</string>
-    <string name="pc_note_dual_screen_dialog_content">Parece que você está editando notas no seu dispositivo. Para evitar conflitos de edição, feche o app Notas no seu dispositivo.</string>
+    <string name="pc_note_dual_screen_dialog_content">"Parece que você está editando notas no seu dispositivo. Para evitar conflitos de edição, feche o app Notas no seu dispositivo."</string>
     <string name="pc_note_edit_blank_view_tips">Arraste uma imagem aqui, para criar uma nota.</string>
     <string name="pc_note_edit_create_time">"Criado: "</string>
     <string name="pc_note_edit_insert_doodle_by_phone">Criar um desenho no dispositivo</string>
@@ -714,8 +720,8 @@
     <string name="permission_storage_desc_pad_new_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
     <string name="permission_storage_desc_pad_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
     <string name="permission_storage_desc_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
-    <string name="permission_xiaoai_desc">&lt;Data>O Mi AI vai coletar suas gravações de voz e ID do dispositivo para transcrever áudios e criar notas por voz. Saiba mais na &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Mi AI.&lt;/Data></string>
-    <string name="permission_xiaoai_desc_new"><Data>Para fornecer serviços de transcrição de voz para texto, Mi AI precisa coletar a entrada de áudio e a ID do seu dispositivo, que é gerado aleatoriamente. Leia e concorde com a nossa &lt;a href=\"%1$s\">Declaração de compartilhamento de dados de terceiros da Notas&lt;/a> antes de continuar. Você também pode aprender mais lendo a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> do Mi AI.</Data></string>
+    <string name="permission_xiaoai_desc"><Data>O Mi AI vai coletar suas gravações de voz e ID do dispositivo para transcrever áudios e criar notas por voz. Saiba mais na &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Mi AI.&lt;/Data></string>
+    <string name="permission_xiaoai_desc_n"><Data>Para fornecer serviços de voz para texto, o Notas precisa coletar conteúdo de áudio falado e o IMEI do seu dispositivo. Leia e concorde com a &lt;a href=\"%1$s\">Declaração de compartilhamento de dados de terceiros do Notas&lt;/a> antes de usar este recurso. Você pode aprender mais sobre os recursos relacionados lendo a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> do Mi AI.</Data></string>
     <string name="permission_xiaoai_title">Fala para texto</string>
     <string name="permlab_accessNote">Acessar notas</string>
     <string name="pm">"PM"</string>
@@ -808,7 +814,7 @@
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="save_single_excerpt">Salvar</string>
-    <string name="save_to_gallery_failure_message">Não foi possível salvar</string>
+    <string name="save_to_gallery_failure_message">"Não foi possível salvar"</string>
     <string name="save_to_gallery_icon_name">Salvar na Galeria</string>
     <string name="save_to_gallery_success_message">Salvo com sucesso</string>
     <string name="save_to_local_failure_message">"Não foi possível salvar"</string>
@@ -972,8 +978,9 @@
     <string name="to_be_read_image_list">Resumo da imagem</string>
     <string name="to_be_read_link_bubble_tips">Toque para salvar o resumo em Notas</string>
     <string name="to_be_read_list">Lista resumida</string>
+    <string name="to_be_read_text_list">Resumo de texto</string>
     <string name="to_view_alarm_content">Toque para visualizar</string>
-    <string name="toast_cancel_to_insert_image">Não foi possível adicionar a imagem.</string>
+    <string name="toast_cancel_to_insert_image">"Não foi possível adicionar a imagem."</string>
     <string name="toast_excerpt_end">Excerto criado com sucesso</string>
     <string name="toast_excerpt_no_content">Nenhum excerto aqui</string>
     <string name="toast_excerpt_open_note">Nota com o excerto aberta</string>
@@ -988,12 +995,12 @@
     <string name="toast_notes_hidden_pad">Esta nota está oculta. Puxe o painel lateral para baixo para ver as notas ocultas.</string>
     <string name="toast_notes_unhidden">Desocultada com sucesso</string>
     <string name="toast_pic_is_not_really">Salvando imagem…</string>
-    <string name="toast_reach_text_limit_attachment">Não é possível adicionar novos anexos porque a nota é muito longa</string>
+    <string name="toast_reach_text_limit_attachment">"Não é possível adicionar novos anexos porque a nota é muito longa"</string>
     <string name="toast_reach_text_limit_checkbox">Não é possível adicionar uma caixa de seleção porque a nota é muito longa</string>
     <string name="toast_reach_text_limit_truncate">Esta nota é muito longa. Parte do texto foi cortado ao final.</string>
-    <string name="toast_refuse_to_record_when_in_call">Não é possível usar este recurso durante chamadas</string>
+    <string name="toast_refuse_to_record_when_in_call">"Não é possível usar este recurso durante chamadas"</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Não é possível usar este recurso com a Tela dividida</string>
-    <string name="toast_refuse_to_record_when_in_multi_window_new">Não é possível usar este recurso em Tela dividida ou janelas flutuantes</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">"Não é possível usar este recurso em Tela dividida ou janelas flutuantes"</string>
     <string name="toast_refuse_to_use_contact">"As permissões de contatos estão restritas.
 Permita que o app Notas leia seus contatos e encontre contas no seu dispositivo."</string>
     <string name="toast_refuse_to_use_external_storage">"As permissões de armazenamento estão restritas.
@@ -1039,7 +1046,7 @@ Permita que o app Notas grave áudio."</string>
     <string name="todo_list">Lista de sub-tarefas</string>
     <string name="todo_list_edit_text_hint">Toque em \"Enter\" para criar sub-tarefas</string>
     <string name="todo_list_new_finish_all_tip">Novos itens devem conter pelo menos uma tarefa não concluída</string>
-    <string name="todo_list_overflow_tip">Não é possível criar mais sub-tarefas</string>
+    <string name="todo_list_overflow_tip">"Não é possível criar mais sub-taferas"</string>
     <string name="todo_menu_add_audio_description">Adicionar tarefa em áudio</string>
     <string name="todo_menu_add_description">Adicionar tarefa</string>
     <string name="todo_menu_cancel">Cancelar</string>
@@ -1127,7 +1134,7 @@ Permita que o app Notas grave áudio."</string>
     <string name="widget_size_item_medium">Médio</string>
     <string name="widget_size_item_small">Pequeno</string>
     <string name="widget_size_item_super_big">Enorme</string>
-    <string name="widget_size_not_support">Widgets extragrandes não são compatíveis com este dispositivo</string>
+    <string name="widget_size_not_support">"Widgets extragrandes não são compatíveis com este dispositivo"</string>
     <string name="widget_take_notes_title">Notas</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>

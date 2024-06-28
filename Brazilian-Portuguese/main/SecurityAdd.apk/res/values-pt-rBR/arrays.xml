@@ -16,9 +16,20 @@
         <item>Equilibrado</item>
         <item>Alta qualidade</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Equilibrado</item>
+        <item>Padrão</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture_value">
         <item>Rápido</item>
         <item>Equilibrado</item>
         <item>Predefinido</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Baixo</item>
+        <item>Padrão</item>
+        <item>Alto</item>
+        <item>Altíssimo</item>
+        <item>Padrão</item>
     </string-array>
 </resources>

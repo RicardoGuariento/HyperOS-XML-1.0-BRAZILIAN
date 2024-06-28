@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Shell</string>
-    <string name="bugreport_add_details_to_zip_failed">Não foi possível adicionar detalhes do relatório do bug ao arquivo ZIP</string>
-    <string name="bugreport_confirm">Os relatórios de bugs contêm dados dos diversos arquivos de registros do sistema, que podem incluir dados que você considera confidenciais (como dados de uso de apps e de local). Compartilhe relatórios de bugs somente com pessoas e apps nos quais você confia.</string>
-    <string name="bugreport_confirm_dont_repeat">Não mostrar novamente</string>
+    <string name="bugreport_add_details_to_zip_failed">"Não foi possível adicionar detalhes do relatório do bug ao arquivo ZIP"</string>
+    <string name="bugreport_confirm">"Os relatórios de bugs contêm dados dos diversos arquivos de registros do sistema, que podem incluir dados que você considera confidenciais (como dados de uso de apps e de local). Compartilhe relatórios de bugs somente com pessoas e apps nos quais você confia."</string>
+    <string name="bugreport_confirm_dont_repeat">"Não mostrar novamente"</string>
     <string name="bugreport_finished_pending_screenshot_text">Toque para compartilhar seu relatório de bug sem captura de tela ou aguarde a conclusão</string>
     <string name="bugreport_finished_text">Toque para compartilhar seu relatório do bug</string>
     <string name="bugreport_finished_title">Relatório do bug #%d capturado</string>
