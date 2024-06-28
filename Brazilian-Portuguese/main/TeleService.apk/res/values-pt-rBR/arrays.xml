@@ -139,6 +139,10 @@
         <item>Systrace (Gráficos)</item>
         <item>Pilha de chamadas em glGetError</item>
     </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Chamada avançada</item>
+        <item>Chamadas 4G</item>
     <string-array name="hdcp_checking_summaries">
         <item>Nunca usar verificação de HDCP</item>
         <item>Usar verificação de HDCP para conteúdo de DRM</item>

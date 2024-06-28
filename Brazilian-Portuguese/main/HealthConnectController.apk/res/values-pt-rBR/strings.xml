@@ -82,7 +82,7 @@
     <string name="blood_glucose_before_meal">Antes da refeição</string>
     <string name="blood_glucose_fasting">Em jejum</string>
     <string name="blood_glucose_general">Geral</string>
-    <string name="blood_glucose_label">Glicemia</string>
+    <string name="blood_glucose_lowercase_label">Glicemia</string>
     <string name="blood_glucose_read_content_description">Leia dados de glicemia</string>
     <string name="blood_glucose_uppercase_label">Glicemia</string>
     <string name="blood_glucose_write_content_description">Grave dados de glicemia</string>
@@ -96,7 +96,7 @@
     <string name="blood_pressure_right_wrist">Pulso direito</string>
     <string name="blood_pressure_uppercase_label">Pressão arterial</string>
     <string name="blood_pressure_write_content_description">Grave dados de pressão arterial</string>
-    <string name="body_fat_label">Gordura corporal</string>
+    <string name="body_fat_lowercase_label">Gordura corporal</string>
     <string name="body_fat_read_content_description">Leia dados de gordura corporal</string>
     <string name="body_fat_uppercase_label">Gordura corporal</string>
     <string name="body_fat_write_content_description">Grave dados de gordura corporal</string>
@@ -114,7 +114,7 @@
     <string name="body_water_mass_read_content_description">Leia dados de massa de água corporal</string>
     <string name="body_water_mass_uppercase_label">Água corporal</string>
     <string name="body_water_mass_write_content_description">Grave dados de massa de água corporal</string>
-    <string name="bone_mass_label">Massa óssea</string>
+    <string name="bone_mass_lowercase_label">Massa óssea</string>
     <string name="bone_mass_read_content_description">Leia dados de massa óssea</string>
     <string name="bone_mass_uppercase_label">Massa óssea</string>
     <string name="bone_mass_write_content_description">Grave dados de massa óssea</string>
@@ -222,8 +222,8 @@
     <string name="delete_data_notification_title">Excluindo dados do app Conexão e saúde</string>
     <string name="delete_data_point">Excluir entrada</string>
     <string name="delete_dialog_failure_close_button">Fechar</string>
-    <string name="delete_dialog_failure_message">Ocorreu um erro. O Conexão e saúde não conseguiu excluir seus dados</string>
-    <string name="delete_dialog_failure_title">Não foi possível excluir os dados</string>
+    <string name="delete_dialog_failure_message">"Ocorreu um erro. O Conexão e saúde não conseguiu excluir seus dados"</string>
+    <string name="delete_dialog_failure_title">"Não foi possível excluir os dados"</string>
     <string name="delete_dialog_failure_try_again_button">Repetir</string>
     <string name="delete_dialog_success_got_it_button">Concluído</string>
     <string name="delete_dialog_success_message">Esses dados não estão mais armazenados no app Conexão e saúde.</string>
@@ -282,7 +282,7 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="energy_unit_title">Energia</string>
     <string name="entry_details_title">Detalhes da entrada</string>
     <string name="error_a11y_label">Erro: inválido</string>
-    <string name="error_icon_content_description">"Erro"</string>
+    <string name="error_icon_content_description">Erro</string>
     <string name="exercise_class">Aula de ginástica</string>
     <string name="exercise_laps_header">Voltas</string>
     <string name="exercise_lowercase_label">Exercício</string>
@@ -361,7 +361,7 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="hour_duration">%1$sh</string>
     <string name="hour_duration_accessibility">{count, plural, =1 {1 hora} other {# horas}}</string>
     <string name="hour_minute_duration_accessibility">%1$s %2$s</string>
-    <string name="hour_minute_duration_short">%1$sh %2$s min</string>
+    <string name="hour_minute_duration_short">%1$s h e %2$s min</string>
     <string name="hula_hoop">Bambolê</string>
     <string name="hydration_lowercase_label">Hidratação</string>
     <string name="hydration_read_content_description">Leia dados de hidratação</string>
@@ -417,8 +417,8 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="manganese">Manganês</string>
     <string name="martial_arts">Artes marciais</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
-    <string name="material_hour_selection">Selecionar horário</string>
-    <string name="material_hour_suffix">%1$s em ponto</string>
+    <string name="material_hour_selection">Selecione a hora</string>
+    <string name="material_hour_suffix">"%1$s horas"</string>
     <string name="material_minute_selection">Selecione os minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Fim do intervalo,</string>
@@ -428,7 +428,7 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="material_timepicker_hour">Hora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_pm">"PM"</string>
-    <string name="material_timepicker_select_time">Selecionar horário</string>
+    <string name="material_timepicker_select_time">Selecione o horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="meal_name">Nome</string>
     <string name="mealtype_breakfast">Café da manhã</string>
@@ -529,9 +529,9 @@ Clique em "Retomar" para reabrir o app e continuar transferindo seus dados e per
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">"dia"</string>
+    <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
+    <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
@@ -555,7 +555,7 @@ Clique em "Retomar" para reabrir o app e continuar transferindo seus dados e per
     <string name="niacin">Niacina</string>
     <string name="no_apps_allowed">Nenhum app permitido</string>
     <string name="no_apps_denied">Nenhum app negado</string>
-    <string name="no_categories">Você não tem dados na plataforma Conexão e saúde</string>
+    <string name="no_categories">"Você não tem dados na plataforma Conexão e saúde"</string>
     <string name="no_data">Não há dados</string>
     <string name="no_recent_access">Nenhum app acessou recentemente o Conexão e saúde</string>
     <string name="no_results">Nenhum resultado</string>
@@ -589,7 +589,7 @@ Clique em "Retomar" para reabrir o app e continuar transferindo seus dados e per
     <string name="paddling">Remo</string>
     <string name="pantothenic_acid">Ácido pantotênico</string>
     <string name="paragliding">Parapente</string>
-    <string name="password_toggle_content_description">Exibir senha</string>
+    <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pause">Pausar</string>
     <string name="percent" formatted="false">{value, plural, =1 {1%} other {#%}}</string>
     <string name="percent_long">{value, plural, =1 {1 por cento} other {# por cento}}</string>
@@ -871,6 +871,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="weight_lowercase_label">Peso</string>
     <string name="weight_read_content_description">Leia dados de peso</string>
     <string name="weight_unit_kilogram_label">Quilogramas</string>
+    <string name="weight_unit_pound_label">Libras</string>
     <string name="weight_unit_stone_label">Pedras</string>
     <string name="weight_unit_title">Peso</string>
     <string name="weight_uppercase_label">Peso</string>
@@ -885,7 +886,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="wheelchair_pushes_write_content_description">Grave dados de impulsos na cadeira de rodas</string>
     <string name="workout">Treino</string>
     <string name="write_data_access_label">Gravação: %s</string>
-    <string name="write_permission_category">Permitir que “%1$s” escreva</string>
+    <string name="write_permission_category">Permitir que "%1$s" escreva</string>
     <string name="yesterday_header">Ontem</string>
     <string name="yoga">Ioga</string>
     <string name="zinc">Zinco</string>

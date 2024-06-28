@@ -76,7 +76,7 @@
     <string name="close_invisible_mode_dialog_title">"Você está anônimo"</string>
     <string name="control_center_notification_switch_guide">Deslize para alternar entre o centro de controle e a área de notificações</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de tela,vibrar</string>
-    <string name="controls_add_device_guide">Nenhum dispositivo aqui ainda</string>
+    <string name="controls_add_device_guide">"Nenhum dispositivo aqui ainda"</string>
     <string name="controls_click_to_add_device">Adicionar dispositivos</string>
     <string name="controls_confirmation_message">Confirmar alteração para %s</string>
     <string name="controls_default_structure">Casa inteligente</string>
@@ -89,7 +89,7 @@
     <string name="controls_dismiss_dialog_confirm">Configurações</string>
     <string name="controls_dismiss_dialog_confirm_international">Excluir</string>
     <string name="controls_dismiss_dialog_message">Gerencie dispositivos de casa inteligente de vários apps no Centro de controle</string>
-    <string name="controls_dismiss_dialog_message_international">Remover o cartão \"Casa inteligente\" agora? É possível restaurá-lo em Configurações > Notificações e Centro de controle.</string>
+    <string name="controls_dismiss_dialog_message_international">"Remover o cartão \"Casa inteligente\" agora? É possível restaurá-lo em Configurações > Notificações e Centro de controle."</string>
     <string name="controls_dismiss_dialog_title">Dispositivos de casa inteligente</string>
     <string name="controls_dismiss_dialog_title_international">Remover cartão</string>
     <string name="controls_edit_add_device_guide">Nenhum dispositivo disponível para adicionar</string>
@@ -119,7 +119,7 @@
     <string name="controls_mijia_setup_subtitle_login">Toque para adicionar dispositivos</string>
     <string name="controls_mijia_setup_title">Dispositivos de casa inteligente</string>
     <string name="controls_no_device_subtitle">Adicione dispositivos no %s primeiro.</string>
-    <string name="controls_no_device_title">Não foi possível encontrar dispositivos</string>
+    <string name="controls_no_device_title">"Não foi possível encontrar dispositivos"</string>
     <string name="controls_no_favorites_title">Selecione apps para gerenciar dispositivos de casa inteligente aqui</string>
     <string name="controls_not_found_device_toast">Este item foi removido no app</string>
     <string name="controls_not_found_device_toast_mihome">Este item foi removido no app</string>
@@ -200,11 +200,11 @@
     <string name="hearing_assist_transmission_label">Monitor in-ear</string>
     <string name="hearing_assist_transmission_tips_cancel">Cancelar</string>
     <string name="hearing_assist_transmission_tips_continue">Ativar</string>
-    <string name="hearing_assist_transmission_tips_summary">O Monitor in-ear, transmite o feed do microfone do seu telefone para fones de ouvido Bluetooth conectados. Ativar agora?</string>
+    <string name="hearing_assist_transmission_tips_summary">"O Monitor in-ear, transmite o feed do microfone do seu telefone para fones de ouvido Bluetooth conectados. Ativar agora?"</string>
     <string name="hearing_assist_transmission_tips_title">Monitor in-ear</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="item_view_role_description">Guia</string>
-    <string name="kddi_miui_toast_zen_standard_to_off">Modo silencioso desativado. Chamadas e notificações não serão silenciadas.</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">"Modo silencioso desativado. Chamadas e notificações não serão silenciadas."</string>
     <string name="kddi_miui_toast_zen_to_standard">Alternado para o Modo silencioso. Chamadas e notificações serão silenciadas.</string>
     <string name="loading">Status desconhecido</string>
     <string name="material_slider_range_end">Fim do intervalo,</string>
@@ -238,8 +238,8 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="miui_dnd_count_down">Definir tempo</string>
     <string name="miui_dnd_count_down_time">"Timer do Não perturbe
 %s"</string>
-    <string name="miui_dnd_mode_off">Modo Zen desativado</string>
-    <string name="miui_dnd_mode_on">Modo Zen ativado</string>
+    <string name="miui_dnd_mode_off">Modo silencioso desativado</string>
+    <string name="miui_dnd_mode_on">Modo silencioso ativado</string>
     <string name="miui_guide_dialog_button_negative_text">Configurações</string>
     <string name="miui_guide_dialog_button_positive_text">Entendi</string>
     <string name="miui_guide_dialog_message">Sons de mídia (música, vídeos, etc.) ainda serão reproduzidos no Modo silencioso. Você pode alterar isto nas Configurações.</string>
@@ -253,7 +253,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="miui_screen_rotation_freeze_message">Orientação da tela bloqueada em modo paisagem</string>
     <string name="miui_silent_mode_off">Sons ativados</string>
     <string name="miui_silent_mode_on">Sons desativados</string>
-    <string name="miui_toast_zen_dnd_to_off">Sons de chamadas e notificações foram reativados</string>
+    <string name="miui_toast_zen_dnd_to_off">"Sons de chamadas e notificações foram reativados"</string>
     <string name="miui_toast_zen_dnd_to_off_T">As notificações não serão mais silenciadas</string>
     <string name="miui_toast_zen_standard_to_off">Modo silencioso desativado</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Modo silencioso está desativado. Toques, assim como sons de mídia e notificações, serão reproduzidos.</string>
@@ -288,10 +288,10 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -425,7 +425,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="qs_customize_header_sub_title">Arraste os atalhos adicionais para reorganizá-los</string>
     <string name="qs_customize_header_title">Editar e classificar</string>
     <string name="qs_customize_title">Editar</string>
-    <string name="qs_open_night_mode_alert_summary">Algumas configurações de exibição não são compatíveis com o Modo escuro. Entretanto, elas serão restauradas assim que o Modo escuro for desativado.</string>
+    <string name="qs_open_night_mode_alert_summary">"Algumas configurações de exibição não são compatíveis com o Modo escuro. Entretanto, elas serão restauradas assim que o Modo escuro for desativado."</string>
     <string name="quick_controls_subtitle">Adicione controles para seus dispositivos conectados</string>
     <string name="quick_controls_title">Controles do dispositivo</string>
     <string name="quick_settings_aisubtitles_label">Legendas inteligentes</string>
@@ -440,7 +440,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">"OK"</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Desativar</string>
     <string name="quick_settings_cellular_detail_title">Dados móveis</string>
-    <string name="quick_settings_cellular_detail_unable_change">Não é possível definir durante a chamada</string>
+    <string name="quick_settings_cellular_detail_unable_change">"Não é possível definir durante a chamada"</string>
     <string name="quick_settings_circulate_workd_label">"Xiaomi Smart Hub"</string>
     <string name="quick_settings_drivemode_label">Modo carro</string>
     <string name="quick_settings_edit_label">Editar</string>
@@ -473,7 +473,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="quick_settings_sim_disabled">" (Desativado)"</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Para adicionar um item, pressione-o e segure-o, e então arraste-o para a parte de cima do painel.</string>
-    <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
+    <string name="quick_settings_uwbsh_label">"Xiaomi Magic Control"</string>
     <string name="quick_settings_vibrate_label">Vibrar</string>
     <string name="quick_settings_vowifi_label">Chamada Wi-Fi</string>
     <string name="quick_settings_vowifi_sim1_label">Chamada Wi-Fi SIM 1</string>
@@ -481,9 +481,9 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Acelerando velocidade</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancelar</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmar</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Não mostrar novamente</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">"Não mostrar novamente"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Alternando entre redes</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">A Aceleração de velocidade com Wi-Fi Dual band precisa usar duas bandas de Wi-Fi diferentes. Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">A Aceleração de rede com Wi-Fi dual band precisa usar duas bandas de Wi-Fi diferentes. Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
     <string name="quick_settings_wifi_detail_empty_text">Nenhuma rede Wi-Fi disponível</string>
     <string name="quick_settings_wifi_label">"Wi-Fi"</string>
     <string name="quick_settings_wireless_label">Carregamento reverso sem fios</string>
@@ -583,8 +583,8 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="timer_1_hour">%d hora</string>
     <string name="timer_2_hours">%d horas</string>
     <string name="timer_30_minutes">%d minutos</string>
@@ -592,7 +592,7 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="timer_off">Desativado</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
-    <string name="torch_high_temperature_warning">Seu dispositivo está superaquecido. Não é possível usar a lanterna agora.</string>
+    <string name="torch_high_temperature_warning">"Seu dispositivo está superaquecido. Não é possível usar a lanterna agora."</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
@@ -604,16 +604,16 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="wifi_is_off">Wi-Fi desativado</string>
-    <string name="wireless_charging_connected_message">Não é possível usar o carregamento reverso sem fios quando seu dispositivo estiver sendo carregado sem fios.</string>
+    <string name="wireless_charging_connected_message">"Não é possível usar o carregamento reverso sem fios quando seu dispositivo estiver sendo carregado sem fios."</string>
     <string name="wireless_charging_fg_control_cancel">Cancelar</string>
-    <string name="wireless_charging_fg_control_messgae">O carregamento reverso sem fios foi desativado porque há menos de %d%% de bateria restante. Você pode ajustar as configurações para permitir que o carregamento reverso sem fio funcione por mais tempo.</string>
+    <string name="wireless_charging_fg_control_messgae">"O carregamento reverso sem fios foi desativado porque há menos de %d%% de bateria restante. Você pode ajustar as configurações para permitir que o carregamento reverso sem fio funcione por mais tempo."</string>
     <string name="wireless_charging_fg_control_ok">Ajustar</string>
-    <string name="wireless_charging_low_battery_level_message">Não é possível usar o carregamento reverso sem fios quando a bateria está com menos de %d%% de carga.</string>
+    <string name="wireless_charging_low_battery_level_message">"Não é possível usar o carregamento reverso sem fios quando a bateria está com menos de %d%% de carga."</string>
     <string name="wireless_charging_ok">Entendi</string>
     <string name="wireless_charging_saver_cancel">Desativar</string>
     <string name="wireless_charging_saver_message">A Economia de bateria está ativada. Manter o carregamento reverso sem fios disponível?</string>
     <string name="wireless_charging_saver_ok">Manter</string>
-    <string name="wireless_charging_tips_disable">Não mostrar novamente</string>
+    <string name="wireless_charging_tips_disable">"Não mostrar novamente"</string>
     <string name="wireless_charging_tips_message">Coloque o dispositivo que você deseja carregar sem fios (ex.: telefone, relógio inteligente, fones de ouvido) na parte de trás deste dispositivo. Certifique-se de que este dispositivo esteja com pelo menos %d%% carregado antes de usar o carregamento reverso sem fios.</string>
     <string name="wireless_charging_tips_sub_message">O outro dispositivo deve ser compatível com o recurso de carregamento sem fios Qi.</string>
     <string name="wireless_charging_tips_title">Carregamento reverso sem fios</string>

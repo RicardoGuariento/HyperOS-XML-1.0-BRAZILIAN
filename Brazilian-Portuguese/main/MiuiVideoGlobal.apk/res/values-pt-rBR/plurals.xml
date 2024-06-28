@@ -37,12 +37,24 @@
         <item quantity="other">%s estrelas selecionadas</item>
         <item quantity="one">%s estrela selecionada</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avançar %d segundos</item>
+        <item quantity="one">Avançar %d segundo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Retroceder %d segundos</item>
+        <item quantity="one">Retroceder %d segundo</item>
+    </plurals>
     <plurals name="follower">
         <item quantity="other">%d seguidores</item>
         <item quantity="one">%d seguidor</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s visualizações</item>
+        <item quantity="one">%s visualização</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
@@ -97,8 +109,8 @@
         <item quantity="one">As legendas serão exibidas com atraso de %.1fs</item>
     </plurals>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
-        <item quantity="other">Tamanho: %.2fKB</item>
-        <item quantity="one">Tamanho: %.2fKB</item>
+        <item quantity="other">Tamanho: %.2f KB</item>
+        <item quantity="one">Tamanho: %.2f KB</item>
     </plurals>
     <plurals name="lv_video_count">
         <item quantity="other">%d vídeos</item>
@@ -128,13 +140,17 @@
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">"Compartilhado com sucesso. Você ganhou %d pontos. Resgate no Centro de Pontos."</item>
-        <item quantity="one">"Compartilhado com sucesso. Você ganhou %d ponto. Resgate no Centro de Pontos."</item>
+        <item quantity="other">"Compartilhado com sucesso. Você ganhou %d pontos. Resgate no Centro de pontos."</item>
+        <item quantity="one">"Compartilhado com sucesso. Você ganhou %d ponto. Resgate no Centro de pontos."</item>
     </plurals>
     <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">"Subscrito com sucesso. Você ganhou %d pontos. Reclame no Centro de Pontos."</item>
-        <item quantity="one">"Subscrito com sucesso. Você ganhou %d ponto. Resgate no Centro de Pontos."</item>
+        <item quantity="other">"Inscrito com sucesso. Você ganhou %d pontos. Reclame no Centro de pontos."</item>
+        <item quantity="one">"Inscrito com sucesso. Você ganhou %d ponto. Resgate no Centro de pontos."</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Seu conteúdo possui itens (%1$s) que violam nossos padrões de comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>

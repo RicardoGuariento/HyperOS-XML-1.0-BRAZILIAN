@@ -32,6 +32,12 @@
         <item>Microfone</item>
         <item>Sons do sistema</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Nenhum</item>
+        <item>Microfone</item>
+        <item>Sistema</item>
+        <item>Ambos</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Armazenamento interno</item>
         <item>Armazenamento externo</item>

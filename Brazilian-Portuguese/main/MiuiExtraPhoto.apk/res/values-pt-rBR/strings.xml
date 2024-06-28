@@ -44,7 +44,7 @@
     <string name="auto_crop_water_mark_title">"Marcas d’água não serão exibidas"</string>
     <string name="cancel">Cancelar</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
-    <string name="close">"Fechar"</string>
+    <string name="close">Fechar</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="do_not_remind_me">"Não mostre novamente"</string>
@@ -81,9 +81,9 @@
     <string name="doc_photo_idcard_emblem">Preto</string>
     <string name="doc_photo_idcard_mode_title">Cartão de ID</string>
     <string name="doc_photo_idcard_portrait">Frente</string>
-    <string name="doc_photo_no_remind">Não mostre novamente</string>
-    <string name="doc_photo_not_save">Não salve</string>
-    <string name="doc_photo_not_support">Não é possível editar essa imagem como um documento</string>
+    <string name="doc_photo_no_remind">"Não mostre novamente"</string>
+    <string name="doc_photo_not_save">"Não salve"</string>
+    <string name="doc_photo_not_support">"Não é possível editar essa imagem como um documento"</string>
     <string name="doc_photo_remind">Atenção!</string>
     <string name="doc_photo_save_effect_toast">Salvar as alterações agora?</string>
     <string name="doc_photo_toast_undistortion_close">Antidistorção desativada</string>
@@ -96,7 +96,7 @@
     <string name="exit_alert_msg">Todas as alterações não salvas serão perdidas.</string>
     <string name="exit_alert_title">Descartar alterações?</string>
     <string name="extra_photo_common_permission_name">"Bokeh"</string>
-    <string name="extra_photo_common_save_fail">Não foi possível salvar</string>
+    <string name="extra_photo_common_save_fail">"Não foi possível salvar"</string>
     <string name="extra_photo_common_saving">Salvando…</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -165,10 +165,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -360,7 +360,9 @@
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>

@@ -24,7 +24,7 @@
         <item>Três cursos. Quatro estações.</item>
     </string-array>
     <string-array name="annual_travel_title">
-        <item>Olá Mundo!</item>
+        <item>Olá mundo!</item>
         <item>Na estrada</item>
         <item>Um caleidoscópio de lugares</item>
     </string-array>
@@ -48,7 +48,7 @@
         <item>Última sexta</item>
     </string-array>
     <string-array name="chinese_holiday_last_year">
-        <item>"Última véspera de Ano Novo Chinês"</item>
+        <item>"Última véspera do Ano Novo Chinês"</item>
         <item>Último Ano Novo Chinês</item>
         <item>Último Festival das Lanternas</item>
         <item>Último Festival do Barco-Dragão</item>
@@ -56,7 +56,7 @@
         <item>Último Festival de Outono</item>
     </string-array>
     <string-array name="chinese_holiday_past_year">
-        <item>"Véspera de Ano Novo Chinês ao longo dos anos"</item>
+        <item>"Véspera do Ano Novo Chinês ao longo dos anos"</item>
         <item>Ano Novo Chinês ao longo dos anos</item>
         <item>Festival das Lanternas ao longo dos anos</item>
         <item>Festival do Barco-Dragão ao longo dos anos</item>
@@ -366,6 +366,10 @@
         <item>Bons tempos</item>
         <item>Em uníssono</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
     <string-array name="people_travel_title">
         <item>Onde a estrada nos leva</item>
         <item>Viagens bem compartilhadas</item>
@@ -434,7 +438,7 @@
     </string-array>
     <string-array name="three_month_baby_title">
         <item>Eles crescem muito rápido</item>
-        <item>Fotos de crianças</item>
+        <item>"Fotos de crianças"</item>
     </string-array>
     <string-array name="weekend_title">
         <item>Finais de semana passados</item>

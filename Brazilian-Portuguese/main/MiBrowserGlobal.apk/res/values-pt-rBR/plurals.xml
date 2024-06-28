@@ -2,25 +2,21 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
-        <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Em %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Em %d mins</item>
@@ -28,7 +24,6 @@
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins atrás</item>
@@ -49,6 +44,7 @@
     <plurals name="articles_updated_amount">
         <item quantity="other">Confira %1$d novos artigos</item>
         <item quantity="one">Confira %1$d novo artigo</item>
+        <item quantity="few">Confira %1$d novos artigos</item>
     </plurals>
     <plurals name="auto_play_next_tips">
         <item quantity="other">Reproduzindo o próximo vídeo em %d segundos</item>
@@ -61,6 +57,10 @@
     <plurals name="bookroom__clear_invalid_book_view__found">
         <item quantity="other">Encontrado &lt;font color="#ed6c00">%d&lt;/font> itens obsoletos</item>
         <item quantity="one">Encontrado &lt;font color="#ed6c00">%d&lt;/font> item obsoleto</item>
+    </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s likes</item>
+        <item quantity="one">%s like</item>
     </plurals>
     <plurals name="coin_amount">
         <item quantity="other">%d moedas</item>
@@ -248,7 +248,6 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-        <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="hashtag_followers">
         <item quantity="other">%d seguidores</item>
@@ -263,20 +262,17 @@
         <item quantity="one">%1$d hora atrás</item>
     </plurals>
     <plurals name="import_confirm">
-        <item quantity="other">Import %d files</item>
-        <item quantity="one">Import %d file</item>
+        <item quantity="other">Importar %d arquivos</item>
+        <item quantity="one">Importar %d arquivo</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
-        <item quantity="one">Em 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Em meia hora</item>
-        <item quantity="one">Em meia hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-        <item quantity="one">Imediatamente</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
@@ -298,13 +294,20 @@
         <item quantity="other">Protegido %d vezes</item>
         <item quantity="one">Protegido %d vez</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">Você tem %d cupons</item>
+        <item quantity="one">Você tem %d cupom</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%1$s itens baixados com sucesso</item>
         <item quantity="one">%1$s item baixado com sucesso</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="mggc_ins_back_seconds_remaining">
+        <item quantity="other">&lt;font color=#0D84FF>%1$d&lt;/font> segundos restantes</item>
+        <item quantity="one">&lt;font color=#0D84FF>%1$d&lt;/font> segundo restante</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d minutos atrás</item>
@@ -318,13 +321,17 @@
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Últimos %d dias</item>
         <item quantity="one">Último %d dia</item>
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">%d correspondência(s)</item>
+        <item quantity="one">%d correspondência</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">Uma nova página será criada após %d segundos</item>
@@ -386,6 +393,18 @@
         <item quantity="other">"3. Os bônus são válidos por %d dias. Eles serão removidos da sua conta automaticamente após expirarem."</item>
         <item quantity="one">"3. Os bônus são válidos por %d dia. Eles serão removidos da sua conta automaticamente após expirarem."</item>
     </plurals>
+    <plurals name="opr_activity_news_task">
+        <item quantity="other">Navegue por %d notícias</item>
+        <item quantity="one">Navegue por %d notícia</item>
+    </plurals>
+    <plurals name="opr_activity_svideo_task">
+        <item quantity="other">Assista a %d vídeos curtos</item>
+        <item quantity="one">Assista a %d vídeo curto</item>
+    </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">Protegido %s vezes</item>
+        <item quantity="one">Protegido %s vez</item>
+    </plurals>
     <plurals name="players">
         <item quantity="other">%d jogadores</item>
         <item quantity="one">%d jogador</item>
@@ -393,6 +412,10 @@
     <plurals name="pref_adblock_counts">
         <item quantity="other">%d anúncios bloqueados</item>
         <item quantity="one">%d anúncio bloqueado</item>
+    </plurals>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d novos vídeos recomendados</item>
+        <item quantity="one">%d novo vídeo recomendado</item>
     </plurals>
     <plurals name="privacy_dialog_next_plurals">
         <item quantity="other">Próximo (%1$d segundos)</item>
@@ -411,8 +434,8 @@
         <item quantity="one">Saldo: %d moeda</item>
     </plurals>
     <plurals name="reading__chapter_need_pay_view__price">
-        <item quantity="other">Price: %d coins</item>
-        <item quantity="one">Price: %d coin</item>
+        <item quantity="other">Preço: %d moedas</item>
+        <item quantity="one">Preço: %d moeda</item>
     </plurals>
     <plurals name="reading__chapter_need_pay_view__unlock">
         <item quantity="other">Pague %d moedas</item>
@@ -517,8 +540,8 @@
         <item quantity="one">%1$d item selecionado</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
-        <item quantity="other">Você não assistiu %d dos seus vídeos favoritos há um bom tempo.</item>
-        <item quantity="one">Você não assistiu %d vídeo favorito há um bom tempo.</item>
+        <item quantity="other">"Você não assistiu %d dos seus vídeos favoritos há um bom tempo."</item>
+        <item quantity="one">"Você não assistiu %d vídeo favorito há um bom tempo."</item>
     </plurals>
     <plurals name="video_download_clear_info">
         <item quantity="other">%1$d vídeos removidos com sucesso.</item>
@@ -563,6 +586,7 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d pessoas já votaram</item>
         <item quantity="one">%d pessoa já votou</item>
+        <item quantity="few">%d pessoas já votaram</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_ad">
         <item quantity="other">%d anúncios bloqueados</item>
@@ -603,6 +627,10 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s vezes</item>
         <item quantity="one">%s vez</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Na semana passada, o Navegador Mi aumentou a velocidade de carregamento de páginas web para você %d vezes!</item>
+        <item quantity="one">Na semana passada, o Navegador Mi aumentou a velocidade de carregamento de páginas web para você %d vez!</item>
     </plurals>
     <plurals name="welcome_skip_count_down">
         <item quantity="other">%d segundos</item>

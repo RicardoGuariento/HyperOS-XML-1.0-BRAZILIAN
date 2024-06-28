@@ -97,9 +97,8 @@
     <string name="case00032_audioProjectWhenArriveHome_scene_name">Transferir reprodução de áudio ao chegar em casa</string>
     <string name="case00036_00037_muteWhenDooebellRing_description">%1$s será silenciado quando alguém tocar a campainha</string>
     <string name="case00036_00037_muteWhenDoorbellRing_scene_name">Silenciar alto-falante quando a campainha tocar</string>
-    <string name="character_counter_content_description">Caracteres inseridos %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
-    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
@@ -146,26 +145,26 @@
     <string name="cognition_privacy_revoke_and">Retirar seu consentimento desativará esse recurso</string>
     <string name="cognition_privacy_revoke_dialog_message">"Se continuar, você retirará seu consentimento com a Política de Privacidade do mecanismo de cognição no dispositivo. Deixaremos de coletar suas informações pessoais e as informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como o mecanismo de cognição no dispositivo fornece seus serviços com base na coleta de informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar esses serviços."</string>
     <string name="cognition_privacy_revoke_dialog_negative">Retirar</string>
-    <string name="cognition_privacy_revoke_dialog_negative_count">Retirar (%ds)</string>
+    <string name="cognition_privacy_revoke_dialog_negative_count">Retirar (%d s)</string>
     <string name="cognition_privacy_revoke_dialog_positive">Cancelar</string>
     <string name="cognition_privacy_revoke_dialog_title">Retirada do consentimento</string>
     <string name="cognition_privacy_setting">Privacidade</string>
     <string name="cognition_privacy_statement_show">Ver Política de Privacidade</string>
     <string name="cognition_privacy_statement_string">Política de Privacidade</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
-    <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_text">"%1$s só funciona com o Google Play Services ativado."</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">"%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo."</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
     <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo."</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
-    <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_google_play_services_update_text">"%1$s só funciona com uma versão atualizada do Google Play Services."</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
-    <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="common_google_play_services_updating_text">"%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento."</string>
     <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
     <string name="common_open_on_phone">Abrir no smartphone</string>
     <string name="common_signin_button_text">Fazer login</string>
@@ -327,23 +326,20 @@
     <string name="friday_shortest">Sex</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="item_view_role_description">Aba</string>
-    <string name="material_clock_display_divider">:</string>
-    <string name="material_clock_toggle_content_description">Selecionar AM ou PM</string>
-    <string name="material_hour_24h_suffix">%1$s horas</string>
-    <string name="material_hour_selection">Selecionar hora</string>
+    <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
+    <string name="material_hour_selection">Selecione a hora</string>
     <string name="material_hour_suffix">"%1$s horas"</string>
-    <string name="material_minute_selection">Selecionar minutos</string>
+    <string name="material_minute_selection">Selecione os minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
-    <string name="material_slider_range_end">Fim do intervalo</string>
-    <string name="material_slider_range_start">Início do intervalo</string>
-    <string name="material_slider_value">Valor</string>
+    <string name="material_slider_range_end">Fim do intervalo,</string>
+    <string name="material_slider_range_start">Início do intervalo,</string>
     <string name="material_timepicker_am">"AM"</string>
-    <string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string>
+    <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_pm">"PM"</string>
-    <string name="material_timepicker_select_time">Selecionar horário</string>
-    <string name="material_timepicker_text_input_mode_description">Mude para o modo de entrada de texto para a entrada de tempo.</string>
+    <string name="material_timepicker_select_time">Selecione o horário</string>
+    <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -449,9 +445,9 @@
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">mês</string>
-    <string name="mtrl_picker_text_input_year_abbr">ano</string>
+    <string name="mtrl_picker_text_input_day_abbr">"dia"</string>
+    <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
+    <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_today_description">Hoje %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção diária</string>
@@ -542,11 +538,11 @@
     <string name="passport_error_user_name">O nome de usuário que você digitou é inválido</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
-    <string name="passport_facebook_login_btn_content_description">Faça login com o Facebook</string>
-    <string name="passport_frequency_try_later">Muitas tentativas. Espere um ou dois minutos e tente novamente.</string>
+    <string name="passport_facebook_login_btn_content_description">Fazer login com o Facebook</string>
+    <string name="passport_frequency_try_later">Muitas tentativas. Aguarde um tempo e tente novamente.</string>
     <string name="passport_get_login_type_next">Próximo</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
-    <string name="passport_google_login_btn_content_description">Faça login com o Google</string>
+    <string name="passport_google_login_btn_content_description">Fazer login com o Google</string>
     <string name="passport_help">Ajuda</string>
     <string name="passport_i_know">Entendi</string>
     <string name="passport_identification_expired">O código de verificação expirou. Recomeçar.</string>
@@ -564,7 +560,7 @@
     <string name="passport_login_with_sns">Outras maneiras de fazer login</string>
     <string name="passport_logout_account">Sair</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_mi_account_title">Faça login com a Conta Mi</string>
+    <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
     <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-o no seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
@@ -577,7 +573,7 @@
     <string name="passport_password_show">Mostrar senha</string>
     <string name="passport_phone_auto_login_register_with_local_number">Criar conta</string>
     <string name="passport_photo_picker_not_found">Nenhuma foto disponível.</string>
-    <string name="passport_qq_login_btn_content_description">Entrar com QQ</string>
+    <string name="passport_qq_login_btn_content_description">Fazer login com o QQ</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
     <string name="passport_quick_login_title">Digite sua senha</string>
     <string name="passport_reging">Criando conta…</string>
@@ -605,14 +601,14 @@
     <string name="passport_skip_query_account">Pular</string>
     <string name="passport_sns_access_token_expired_warning">Sessão expirada. Faça login novamente para reconectar esta conta.</string>
     <string name="passport_sns_bind_limit">Muitas tentativas. Experimente outras maneiras de fazer login.</string>
-    <string name="passport_system_error">O sistema está ocupado. Espere um ou dois minutos e tente novamente.</string>
+    <string name="passport_system_error">O sistema está ocupado. Aguarde um tempo e tente novamente.</string>
     <string name="passport_talkback_image_captcha">Código de verificação de imagem</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação por imagem</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
     <string name="passport_talkback_voice_captcha">Reproduzir código de verificação por voz</string>
     <string name="passport_ticket_send_by_second">Enviar em %d</string>
     <string name="passport_to_forget_password">Esqueceu sua senha?</string>
-    <string name="passport_to_password_login">Entrar usando senha</string>
+    <string name="passport_to_password_login">Fazer login usando senha</string>
     <string name="passport_to_verify_code_login">Fazer login por SMS</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
@@ -620,7 +616,7 @@
     <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
     <string name="passport_user_agreement_hint_with_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
@@ -632,16 +628,15 @@
     <string name="passport_user_password_hint">Senha</string>
     <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para o seu telefone de recuperação (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Instale o WeChat primeiro</string>
-    <string name="passport_weibo_login_btn_content_description">Entrar com Weibo</string>
-    <string name="passport_weixin_login_btn_content_description">Entrar com WeChat</string>
+    <string name="passport_weibo_login_btn_content_description">Fazer login com o Weibo</string>
+    <string name="passport_weixin_login_btn_content_description">Fazer login com o WeChat</string>
     <string name="passport_wrong_captcha">O código inserido está incorreto</string>
-    <string name="passport_wrong_phone_number_format">O formato do número do telefone inserido é inválido</string>
+    <string name="passport_wrong_phone_number_format">O formato do número de telefone inserido é inválido</string>
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_wrong_voice">O código inserido está incorreto</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
-    <string name="required_permissions">;</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

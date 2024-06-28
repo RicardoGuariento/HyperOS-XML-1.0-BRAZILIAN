@@ -44,6 +44,22 @@
     <string name="download_failed">Não foi possível baixar</string>
     <string name="early_morning">"AM"</string>
     <string name="earth_id">Terra</string>
+    <string name="earth_position_content_0">"O Parque Natural do Cape Kamenjak, na Croácia, abriga as vistas mais deslumbrantes ao longo da costa do Mediterrâneo. Impressionantes formações geológicas aqui transformam este lugar num paraíso para mergulhadores. Todos os verões, o sol deslumbrante e as águas quentes do Mediterrâneo atraem inúmeros entusiastas do ar livre."</string>
+    <string name="earth_position_content_1">"Os socalcos são o resultado da atividade humana, mas também servem como um excelente local paisagístico natural.
+Na China, os terraços de arroz estão localizados principalmente ao sul do rio Yangtze, onde as chuvas são comuns e as cadeias de montanhas são abundantes. Os terraços Longji existem há mais de 700 anos e existem alguns monumentos históricos nas aldeias vizinhas."</string>
+    <string name="earth_position_content_2">Ilulissat está localizada no oeste da Groenlândia, 200 quilômetros ao norte do Círculo Polar Ártico. O lindo Ilulissat Icefjord, de 56 quilômetros, está situado próximo à geleira Jakobshavn Isbræ. Sendo a maior geleira do Hemisfério Norte, produz 2 bilhões de toneladas de icebergs todos os anos. Após um curto desvio em direção ao norte, eles viram para o sul e desembocam no Oceano Atlântico.</string>
+    <string name="earth_position_content_3">"Navagio é uma das mais belas praias da costa de Zakynthos, nas Ilhas Jônicas da Grécia. Diz-se que foi o lar de um famoso naufrágio, por isso a praia também é chamada de \"Smugglers Cove\"."</string>
+    <string name="earth_position_content_4">As Dolomitas são uma cordilheira localizada no nordeste da Itália. O Monte Seceda é realmente um dos lugares mais pitorescos de lá.</string>
+    <string name="earth_position_title_0">"Croácia
+Cape Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, China
+Campos em socalcos de Longji"</string>
+    <string name="earth_position_title_2">"Groenlândia
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Grécia
+Praia do Navagio"</string>
+    <string name="earth_position_title_4">"Itália
+Dolomitas"</string>
     <string name="earth_summary">A Terra é o berço da civilização humana</string>
     <string name="earth_super_wallpaper_label">Terra</string>
     <string name="earth_title">Nosso planeta</string>
@@ -91,7 +107,7 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="game_view_content_description">Visualizador de jogos</string>
-    <string name="geometry_id">geometry</string>
+    <string name="geometry_id">Geometria</string>
     <string name="geometry_summary">Formas, luz e cores</string>
     <string name="geometry_super_wallpaper_label">Geometria</string>
     <string name="geometry_title">Geometria</string>
@@ -100,25 +116,33 @@
     <string name="mars_coordinate_latitude_1">323.483°L</string>
     <string name="mars_coordinate_latitude_2">340.780°L</string>
     <string name="mars_id">Marte</string>
-    <string name="mars_position_content_0">"Esta região contém falésias, mesas e vales grandes e planos, os quais acredita-se terem sido formados por geleiras cobertas de detritos. Minerais de argila também foram detectados aqui, que são de grande interesse na busca por evidências de vida em Marte. 
+    <string name="mars_position_content_0">"Esta região contém falésias, mesas e vales grandes e planos, os quais acredita-se terem sido formados por geleiras cobertas de detritos. Minerais de argila também foram detectados aqui, que são de grande interesse na busca por evidências de vida em Marte.
 
 NASA/JPL/Universidade do Arizona"</string>
-    <string name="mars_position_content_1">"As linhas de declive recorrentes (RSL) são fluxos ativos em declives marcianos quentes que podem ser causados pela infiltração de água. O RSL na cratera Hale tem uma cor "avermelhada" incomum em comparação com a maioria dos RSL, talvez devido a compostos de ferro oxidado, como ferrugem. 
+    <string name="mars_position_content_1">"Tirada quando o rover Curiosity de Marte estava explorando as colinas Pahrump na cratera Gale. A região contém rochas sedimentares que os cientistas acreditam terem se formado na presença de água, e as áreas escuras são areia.
 
 NASA/JPL/Universidade do Arizona"</string>
-    <string name="mars_position_content_2">"Mawrth Vallis é um antigo canal de saída de água com rochas ricas em argila de cor clara. Os minerais de argila preservam facilmente vida microscópica na Terra, então talvez traços de vida antiga possam ser encontrados em Mawrth. 
+    <string name="mars_position_content_2">"Mawrth Vallis é um antigo canal de escoamento de água com rochas ricas em argila de cor clara. Os minerais argilosos preservam facilmente a vida microscópica na Terra, então talvez vestígios de vida antiga possam ser encontrados em Mawrth.
+
+NASA/JPL/Universidade do Arizona"</string>
+    <string name="mars_position_content_3">"Essas imagens foram tiradas enquanto o rover Curiosity explorava as colinas Pahrump, na cratera Gale. Esta região contém rochas sedimentares que os cientistas acreditam terem sido formadas na presença de água. As áreas mais escuras são areia.
+
+NASA/JPL/Universidade do Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis é um vale fluvial de tronco único, com paredes recortadas em alguns lugares. A presença de características erosivas aerodinâmicas em seu fundo mostra que o fluido esteve envolvido em sua formação.
 
 NASA/JPL/Universidade do Arizona"</string>
     <string name="mars_position_title_0">"Região de
 Nilosyrtis Mensae"</string>
-    <string name="mars_position_title_1">"Montanhas Centrais de Hale Crater"</string>
+    <string name="mars_position_title_1">Cratera Gale</string>
     <string name="mars_position_title_2">"Cratera em
 Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Colinas Pahrump</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
     <string name="mars_summary">Os vastos desertos de Marte sempre criaram admiração na humanidade</string>
     <string name="mars_super_wallpaper_label">Marte</string>
     <string name="mars_title">O planeta vermelho</string>
-    <string name="mi_wallpaper_loading">Carregando o Papéis de Parede Mi…</string>
-    <string name="mi_wallpaper_title">Papéis de Parede Mi</string>
+    <string name="mi_wallpaper_loading">Carregando o Plano de fundo Mi…</string>
+    <string name="mi_wallpaper_title">Plano de fundo Mi</string>
     <string name="midnight">"AM"</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segundo relógio</string>
@@ -136,14 +160,14 @@ d 'de' MMMM"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecione itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
@@ -154,10 +178,10 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -197,7 +221,7 @@ mm"</string>
     <string name="month_september">Setembro</string>
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
-    <string name="moon_summary">O \"pequeno passo\" da humanidade em direção à exploração espacial</string>
+    <string name="moon_summary">"O \"pequeno passo\" da humanidade em direção à exploração espacial"</string>
     <string name="moon_super_wallpaper_label">A Lua</string>
     <string name="moon_title">A Lua</string>
     <string name="more">Mais</string>
@@ -302,9 +326,9 @@ mm"</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="title_system_wallpaper_resource">Planos de fundo do sistema</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>

@@ -174,7 +174,7 @@
     <string name="accessibility_keyguard_face_unlock_view">Desbloqueio facial</string>
     <string name="accessibility_left_control_center_button">Atalho</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carrossel de planos de fundo</string>
-    <string name="accessibility_left_xmyzl_button">Xiaomi Magic Control</string>
+    <string name="accessibility_left_xmyzl_button">"Xiaomi Magic Control"</string>
     <string name="accessibility_location_active">Solicitação de localização ativada</string>
     <string name="accessibility_lock_icon">Dispositivo bloqueado</string>
     <string name="accessibility_long_click_tile">Abrir configurações</string>
@@ -408,6 +408,7 @@
     <string name="add_user_failed">Falha ao criar um novo usuário</string>
     <string name="adjust_button_width">Ajustar largura do botão</string>
     <string name="afternoon">"PM"</string>
+    <string name="air_quality_index_abbreviation">IQA</string>
     <string name="airplane_mode">Modo avião</string>
     <string name="alarm_template">às %1$s</string>
     <string name="alarm_template_far">%1$s</string>
@@ -424,14 +425,19 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="allow_turn_screen_on_description">Permite que um app ligue a tela. Se concedido, o app poderá ligar a tela a qualquer momento sem sua intenção explícita.</string>
     <string name="always_use_accessory">Abrir sempre %1$s quando %2$s estiver conectado</string>
     <string name="always_use_device">Abrir sempre %1$s quando %2$s estiver conectado</string>
-    <string name="am">""AM""</string>
+    <string name="am">"AM"</string>
     <string name="animator_duration_scale_title">Escala de duração da animação</string>
     <string name="anniversary_status">Aniversário</string>
     <string name="anniversary_status_content_description">"É o aniversário de %1$s"</string>
+    <string name="app_clips_save_add_to_note">Adicionar à nota</string>
+    <string name="app_icon_text">Ícone do app</string>
     <string name="apn_settings_not_available">"As configurações do Nome do ponto de acesso não estão disponíveis para este usuário"</string>
     <string name="app_accessed_mic">%1$s acessou seu microfone</string>
     <string name="app_info">Info. do app</string>
     <string name="app_label">UI do Sistema</string>
+    <string name="aqi_format">IQA %s</string>
+    <string name="aqi_format_desc">Índice de qualidade do ar: %s</string>
+    <string name="assistant_attention_content_description">Atenção do assistente ativada</string>
     <string name="app_name">Tela de bloqueio</string>
     <string name="app_process_limit_title">Limite do proc. 2º plano</string>
     <string name="appops_camera">Este app está usando a câmera.</string>
@@ -729,8 +735,8 @@ Toque para reajustar"</string>
     <string name="cell_data_off">Desativado</string>
     <string name="cell_data_off_content_description">Dados móveis desativados</string>
     <string name="change_theme_reboot">Para alterar o tema será necessário reiniciar</string>
-    <string name="character_counter_content_description">Inseridos %1$d caracteres de %2$d</string>
-    <string name="character_counter_overflowed_content_description">O limite de caracteres foi excedido em %1$d de %2$d</string>
+    <string name="character_counter_content_description">Caracteres inseridos %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="charge_length_format">%1$s atrás</string>
     <string name="chip_text">Texto do chip</string>
@@ -3428,7 +3434,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="a11y_action_pip_move_down">Mover para baixo</string>
     <string name="a11y_action_pip_move_left">Mova para a esquerda</string>
     <string name="a11y_action_pip_move_right">Mover para a direita</string>
-    <string name="a11y_action_pip_move_up">Subir</string>
+    <string name="a11y_action_pip_move_up">Mover para cima</string>
     <string name="a11y_pip_menu_entered">Menu Picture-In-Picture.</string>
     <string name="abbrev_month_day_no_year">d MMM</string>
     <string name="accessibility_allow_diagonal_scrolling">Permitir rolagem diagonal</string>

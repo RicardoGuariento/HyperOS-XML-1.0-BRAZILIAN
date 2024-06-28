@@ -128,7 +128,7 @@ Certifique-se de que o firmware do seu alto-falante esteja atualizado."</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_24h_suffix">%1$s horas</string>
     <string name="material_hour_selection">Selecione a hora</string>
-    <string name="material_hour_suffix">"%1$s"</string>
+    <string name="material_hour_suffix">"%1$s horas"</string>
     <string name="material_minute_selection">Selecione os minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Fim do intervalo</string>
@@ -168,10 +168,10 @@ Certifique-se de que o firmware do seu alto-falante esteja atualizado."</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -247,7 +247,7 @@ Certifique-se de que o firmware do seu alto-falante esteja atualizado."</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
-    <string name="mtrl_picker_text_input_day_abbr">"d"</string>
+    <string name="mtrl_picker_text_input_day_abbr">"dia"</string>
     <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
     <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_today_description">Hoje %1$s</string>
@@ -277,7 +277,7 @@ Certifique-se de que o firmware do seu alto-falante esteja atualizado."</string>
     <string name="searchview_clear_text_content_description">Limpar texto</string>
     <string name="searchview_navigation_content_description">Voltar</string>
     <string name="send">Enviar</string>
-    <string name="side_sheet_accessibility_pane_title">Página Lateral</string>
+    <string name="side_sheet_accessibility_pane_title">Página lateral</string>
     <string name="snapdragon_sound_notification_content">Este dispositivo suporta a tecnologia Qualcomm® Snapdragon Sound™</string>
     <string name="snapdragon_sound_notification_title">"Bluetooth"</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
@@ -317,7 +317,7 @@ Certifique-se de que o firmware do seu alto-falante esteja atualizado."</string>
     <string name="switch_audio_device_hfp_toast_hint">Selecione a saída de áudio \"Padrão\" para começar novamente a reproduzir áudio no dispositivo conectado.</string>
     <string name="switch_audio_device_phone">Este dispositivo</string>
     <string name="switch_audio_device_phone_summary">Reproduz o áudio no dispositivo</string>
-    <string name="switch_audio_device_switch_hint">Você pode desativar as notificações sobre dispositivos conectados em Configurações &gt; Bluetooth &gt; Configurações adicionais.</string>
+    <string name="switch_audio_device_switch_hint">Você pode desativar as notificações sobre dispositivos conectados em Configurações > Bluetooth > Configurações adicionais.</string>
     <string name="switch_audio_dialog_title">Selecione a saída de áudio</string>
     <string name="switch_audio_notification_content">"Saída de áudio atual: "</string>
     <string name="switch_audio_notification_title">Conectividade do dispositivo</string>
@@ -364,9 +364,9 @@ Certifique-se de que o firmware do seu alto-falante esteja atualizado."</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="title_settings_dialog">Permissões necessárias</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
