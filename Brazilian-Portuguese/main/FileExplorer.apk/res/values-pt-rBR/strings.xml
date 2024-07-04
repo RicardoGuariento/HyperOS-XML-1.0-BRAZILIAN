@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="access_limit">Restrições de acesso</string>
-    <string name="access_tips">Não é possível acessar os itens. Tente usar a framework do Acesso de armazenamento do Android.</string>
+    <string name="access_tips">"Não é possível acessar os itens. Tente usar a framework do Acesso de armazenamento do Android."</string>
     <string name="action_cache_to_local">Baixar para o dispositivo</string>
     <string name="action_mode_deselect_all">Desmarcar todos</string>
     <string name="action_mode_select_all">Selecionar todos</string>
@@ -75,9 +75,9 @@
     <string name="call_notification_incoming_text">Chamada recebida</string>
     <string name="call_notification_ongoing_text">Chamada em andamento</string>
     <string name="call_notification_screening_text">Triagem de uma chamada recebida</string>
-    <string name="can_not_send_with_too_many">Não é possível enviar tantos arquivos de uma só vez</string>
+    <string name="can_not_send_with_too_many">"Não é possível enviar tantos arquivos de uma só vez"</string>
     <string name="cancel">Cancelar</string>
-    <string name="cancel_error">Não foi possível remover. Tente novamente.</string>
+    <string name="cancel_error">"Não foi possível remover. Tente novamente."</string>
     <string name="cancel_mi_drive">Cancelar os serviços do Mi Drive</string>
     <string name="cancel_mi_drive_alert_description" formatted="false">Limpe todos os itens do Mi Drive para poder cancelar os serviços. Siga estas etapas para limpar itens:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na página inicial do Mi Drive, pressione e segure um item para fazer o botão \"Selecionar tudo\" aparecer. Use este botão para selecionar até 200 arquivos por vez e excluí-los.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Depois disso, limpe seus itens excluídos recentemente.</string>
     <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Observe que os itens excluídos recentemente não podem ser recuperados após a exclusão."</string>
@@ -92,7 +92,7 @@
     <string name="cancel_operation">Cancelar operação</string>
     <string name="cancel_success">Arquivos movidos para %s com sucesso</string>
     <string name="cancelled_by_user">Operação cancelada</string>
-    <string name="cannot_send">Não é possível enviar arquivos do armazenamento externo</string>
+    <string name="cannot_send">"Não é possível enviar arquivos do armazenamento externo"</string>
     <string name="category">Categorias</string>
     <string name="category_all">Todos arquivos</string>
     <string name="category_apk">"APKs"</string>
@@ -121,10 +121,10 @@
     <string name="category_type_other">Outros</string>
     <string name="category_video">Vídeos</string>
     <string name="category_zip">Arquivos</string>
-    <string name="cdd_message">Devido às restrições do Android 11, você não poderá visualizar arquivos gerados em apps de terceiros no Arquivos</string>
+    <string name="cdd_message">"Devido às restrições do Android 11, você não poderá visualizar arquivos gerados em apps de terceiros no Arquivos"</string>
     <string name="cdd_title">Atenção!</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="chip_text">Texto do chip</string>
     <string name="clean_hint">Toque para liberar espaço</string>
     <string name="clean_hint_pad">Limpe o lixo para liberar espaço de armazenamento</string>
@@ -177,7 +177,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="data_consume_dialog_title">Usar dados móveis?</string>
     <string name="data_consume_dialog_upload_title">Carregar usando dados móveis</string>
     <string name="data_consumption_cancel">Sair</string>
-    <string name="data_consumption_checkbox_hint">Não mostrar novamente</string>
+    <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
     <string name="data_consumption_confirm">"OK"</string>
     <string name="data_consumption_message">Este app precisa de uma conexão com a internet através de Wi-Fi para funcionar normalmente</string>
     <string name="data_consumption_title">Conectar na internet</string>
@@ -185,10 +185,11 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="decompress_cancel">Cancelar</string>
     <string name="decompress_confirm">Extrair</string>
-    <string name="decompress_corrupt">Não foi possível descompactar os arquivos. O pacote está corrompido</string>
-    <string name="decompress_destination_error">Não é possível extrair arquivos para este caminho</string>
-    <string name="decompress_encrypted_rar_not_supported">Arquivos .RAR criptografados não são suportados.</string>
-    <string name="decompress_fail">Não foi possível extrair</string>
+    <string name="decompress_corrupt">"Não foi possível descompactar os arquivos. O pacote está corrompido"</string>
+    <string name="decompress_destination_error"">Não é possível extrair arquivos para este caminho"</string>
+    <string name="decompress_encrypted_rar_not_supported">"Arquivos .RAR criptografados não são suportados."</string>
+    <string name="decompress_fail">"Não foi possível extrair"</string>
+    <string name="decompress_fail_contains_special_characters">"Não é possível compactar. Os nomes dos arquivos compactados não podem conter caracteres especiais."</string>
     <string name="decompress_input_password">Insira a senha</string>
     <string name="decompress_password_error">A senha que inseriu está incorreta</string>
     <string name="decompress_success">Extração concluída</string>
@@ -196,7 +197,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="decompress_to">Extrair arquivos para…</string>
     <string name="decompress_to_here">Extrair aqui</string>
     <string name="decrypt">Remover</string>
-    <string name="decrypt_error">Não foi possível remover</string>
+    <string name="decrypt_error">"Não foi possível remover"</string>
     <string name="decrypt_to">Descriptografar e salvar em…</string>
     <string name="decrypting">Removendo…</string>
     <string name="delete_dialog_button">Excluir</string>
@@ -236,7 +237,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="doc_wps">"WPS"</string>
     <string name="doc_xls">"XLS"</string>
     <string name="downloading">Baixando…</string>
-    <string name="drag_not_support_with_dir">Não é possível reorganizar ou enviar pastas</string>
+    <string name="drag_not_support_with_dir">"Não é possível reorganizar ou enviar pastas"</string>
     <string name="early_morning">"AM"</string>
     <string name="edit_quick_category">Editar</string>
     <string name="enable_sd_card">Insira o cartão SD</string>
@@ -292,7 +293,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="file_info_size">"Tamanho: "</string>
     <string name="file_loading">Aguarde…</string>
     <string name="file_name_existed">O nome do arquivo já está em uso.</string>
-    <string name="file_name_invalid">"Os nomes dos arquivos não podem conter os seguintes caracteres: /\\:*?&lt;&gt;"</string>
+    <string name="file_name_invalid">"Os nomes dos arquivos não podem conter os seguintes caracteres: /\\:*?&lt;>"</string>
     <string name="file_not_exist">O arquivo não existe</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -440,7 +441,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="mi_share">Compartilhamento Mi</string>
     <string name="midnight">"AM"</string>
     <string name="midrive_display_related">Exibir</string>
-    <string name="midrive_get_cloudvideo_file">Só um segundo…</string>
+    <string name="midrive_get_cloudvideo_file">Aguarde…</string>
     <string name="midrive_hide_recent_cloud_files">"Não exibir os arquivos do Mi Drive em Recentes"</string>
     <string name="midrive_not_found">"Não foi possível acessar este item"</string>
     <string name="midrive_overseas_unavailable">Este recurso está disponível apenas no continente Chinês.</string>
@@ -645,6 +646,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="operation_decompressing">Extraindo…</string>
     <string name="operation_del_fav">Removendo dos favoritos…</string>
     <string name="operation_delete">Excluir</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM é uma pasta da Galeria. Se você excluir esta pasta, todos os itens nela contidos também serão excluídos permanentemente da Galeria. Excluir esta pasta mesmo assim?</string>
     <string name="operation_delete_confirm_message">Exclusão de arquivos</string>
     <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta serão excluídos.
 "</string>
@@ -989,9 +991,9 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="tip">Atenção!</string>
     <string name="tips_add_to_widget">Você pode adicionar até %d arquivos a este widget. Se você adicionar mais arquivos, os adicionados anteriormente serão substituídos.</string>
     <string name="title_app_tags">"Apps"</string>

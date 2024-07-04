@@ -65,11 +65,11 @@
     <string name="action_update_phone">Alterar o número de telefone</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activate_email_notice">Certifique-se de ativar a sua conta dentro de 24 horas</string>
-    <string name="activity_not_found_notice">Não é possível encontrar o app</string>
+    <string name="activity_not_found_notice">"Não é possível encontrar o app"</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
-    <string name="app_empty">Não foi possível encontrar apps.</string>
+    <string name="app_empty">"Não foi possível encontrar apps."</string>
     <string name="app_label">"Feedback"</string>
     <string name="app_name">"Feedback"</string>
     <string name="app_search">Pesquisar apps</string>
@@ -77,7 +77,9 @@
     <string name="back">Voltar</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
     <string name="btn_send">Enviar</string>
-    <string name="bugreport_dialog_not_show_again">Não mostrar novamente</string>
+    <string name="bugreport_dialog_informed_consent_content">"Detectamos um erro relacionado à senha da Tela de bloqueio. Você pode enviar os registros do seu dispositivo para nos ajudar a localizar e resolver o problema. As informações de registro serão enviadas anonimamente, serão usadas apenas para solução de problemas e serão excluídas assim que a solução for concluída."</string>
+    <string name="bugreport_dialog_informed_consent_title">Consentimento informado</string>
+    <string name="bugreport_dialog_not_show_again">"Não mostrar novamente"</string>
     <string name="bugreport_dialog_submit_content">"&lt;Data>Você está salvando logs de software neste dispositivo agora. Os logs podem conter informações pessoais e os seus dados de localização. Não compartilhe os seus logs com mais ninguém se não quiser que estas informações sejam expostas. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
     <string name="bugreport_dump_complete_notification_summary">Toque para ver.</string>
     <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>
@@ -118,18 +120,18 @@
     <string name="catch_full_log_item_title_wifi_china">"Wi-Fi"</string>
     <string name="catch_full_log_notification_content">Toque para voltar aos logs</string>
     <string name="catch_full_log_notification_title">Gerando log…</string>
-    <string name="catch_full_log_privacy_content_audio">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações sobre áudios no seu dispositivo, incluindo um histórico de reproduções e de gravações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
-    <string name="catch_full_log_privacy_content_audio_pad">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações sobre áudios no seu dispositivo, incluindo um histórico de reproduções e de gravações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
-    <string name="catch_full_log_privacy_content_bt">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de uso de dispositivos Bluetooth (incluindo histórico de chamadas, mensagens, arquivos transferidos, etc.). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você estará concordando que iremos coletar os dados acima durante a geração dos logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
+    <string name="catch_full_log_privacy_content_audio">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações sobre áudios no seu dispositivo, incluindo um histórico de reproduções e de gravações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
+    <string name="catch_full_log_privacy_content_audio_pad">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações sobre áudios no seu dispositivo, incluindo um histórico de reproduções e de gravações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
+    <string name="catch_full_log_privacy_content_bt">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de uso de dispositivos Bluetooth (incluindo histórico de chamadas, mensagens, arquivos transferidos, etc.). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você estará concordando que iremos coletar os dados acima durante a geração dos logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
     <string name="catch_full_log_privacy_content_camera">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de uso da câmera (incluindo frequência da CPU, chamada do sistema, uso de memória, etc.). Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
     <string name="catch_full_log_privacy_content_charge">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de carregamento. Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
-    <string name="catch_full_log_privacy_content_gps">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais e informações de localização. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
-    <string name="catch_full_log_privacy_content_sensor">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações coletadas pelos sensores do seu dispositivo (incluindo o sensor de luz ambiente, barômetro, pedômetro, magnetômetro, etc). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
-    <string name="catch_full_log_privacy_content_sensor_pad">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações coletadas pelos sensores do seu dispositivo (incluindo o sensor de luz ambiente, barômetro, pedômetro, magnetômetro, etc). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
-    <string name="catch_full_log_privacy_content_signal">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas mensagens, histórico de chamadas, informações de rede e dados de comunicações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você estará concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
+    <string name="catch_full_log_privacy_content_gps">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais e informações de localização. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
+    <string name="catch_full_log_privacy_content_sensor">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações coletadas pelos sensores do seu dispositivo (incluindo o sensor de luz ambiente, barômetro, pedômetro, magnetômetro, etc). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
+    <string name="catch_full_log_privacy_content_sensor_pad">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações coletadas pelos sensores do seu dispositivo (incluindo o sensor de luz ambiente, barômetro, pedômetro, magnetômetro, etc). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
+    <string name="catch_full_log_privacy_content_signal">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas mensagens, histórico de chamadas, informações de rede e dados de comunicações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você estará concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
     <string name="catch_full_log_privacy_content_trace">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter estatísticas de uso do app (incluindo frequência da CPU, chamada do sistema, uso de memória, etc.). Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
-    <string name="catch_full_log_privacy_content_wifi">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais, informações de localização, assim como endereços MAC ou IP do seu dispositivo. Se você estiver conectado a uma rede Wi-Fi sem segurança, também poderemos acessar parte dos seus dados de comunicação. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
-    <string name="catch_full_log_privacy_content_wifi_china">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais, informações de localização, assim como endereços MAC ou IP do seu dispositivo. Se você estiver conectado a uma rede Wi-Fi sem segurança, também poderemos acessar parte dos seus dados de comunicação. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, em seguida, enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
+    <string name="catch_full_log_privacy_content_wifi">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais, informações de localização, assim como endereços MAC ou IP do seu dispositivo. Se você estiver conectado a uma rede Wi-Fi sem segurança, também poderemos acessar parte dos seus dados de comunicação. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
+    <string name="catch_full_log_privacy_content_wifi_china">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais, informações de localização, assim como endereços MAC ou IP do seu dispositivo. Se você estiver conectado a uma rede Wi-Fi sem segurança, também poderemos acessar parte dos seus dados de comunicação. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, em seguida, enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
     <string name="catch_full_log_start_dump_hprof">Gerar logs de lentidão</string>
     <string name="catch_full_log_submit_directly">Enviar</string>
     <string name="change_activate_email">Alterar o endereço de e-mail</string>
@@ -151,14 +153,14 @@
     <string name="cta_dialog_content">Este app precisa se conectar à internet para funcionar corretamente.</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
     <string name="cta_message">&lt;Data>Para poder funcionar normalmente, o Feedback precisa se conectar à internet. Este app também pode solicitar permissão para acessar sua localização. Leia e concorde com nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de continuar.&lt;/Data></string>
-    <string name="cta_not_show_again">Não mostrar novamente</string>
+    <string name="cta_not_show_again">"Não mostrar novamente"</string>
     <string name="customer_service_apply">Solicitar suporte ao cliente</string>
     <string name="customer_service_complain">Reportar suporte ao cliente</string>
     <string name="customer_service_station">Local de serviços</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="description">Descreva o problema</string>
-    <string name="diagnosis_log_send_failed">Não foi possível enviar os logs. Tente novamente.</string>
+    <string name="diagnosis_log_send_failed">"Não foi possível enviar os logs. Tente novamente."</string>
     <string name="diagnosis_log_sent_format">"Os logs foram enviados com sucesso.
 Conta/ID: %s
 Envie este código ao supervisor."</string>
@@ -207,7 +209,7 @@ Envie este código ao supervisor."</string>
     <string name="expand_button_title">Avançado</string>
     <string name="facebook_login_btn_content_description">Entre com o Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
-    <string name="failed_to_fetch_fql">Não foi possível obter informações das Perguntas frequentes, verifique sua conexão de rede</string>
+    <string name="failed_to_fetch_fql">"Não foi possível obter informações das Perguntas frequentes, verifique sua conexão de rede."</string>
     <string name="feedback_account_inconsistent_login_hint">Parece que você trocou de conta. Entre na sua Conta Mi usada anteriormente.</string>
     <string name="feedback_account_login_hint">Primeiro faça login na sua Conta Mi</string>
     <string name="feedback_answer_detail_feedback_resolved">Sim</string>
@@ -216,7 +218,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_answer_detail_feedback_unresolved">Não</string>
     <string name="feedback_answer_detail_relative_question">Isto pode ser relevante</string>
     <string name="feedback_answer_detail_submit_dialog_confirm">Enviar</string>
-    <string name="feedback_answer_detail_submit_dialog_content">Você pode descrever o problema que encontrou e tentaremos resolvê-lo. Enviar feedback?</string>
+    <string name="feedback_answer_detail_submit_dialog_content">"Você pode descrever o problema que encontrou e tentaremos resolvê-lo. Enviar feedback?"</string>
     <string name="feedback_answer_detail_submit_dialog_title">Enviar feedback?</string>
     <string name="feedback_bug_status_change_notification_desc">Problema de %1$s - \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Selecionar problema</string>
@@ -225,7 +227,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_choose_occurrence_time">Hora</string>
     <string name="feedback_choose_reproductivity">Reprodutividade</string>
     <string name="feedback_choose_third_app_name">Selecionar nome do app</string>
-    <string name="feedback_collect_log_failed">Não foi possível obter os logs</string>
+    <string name="feedback_collect_log_failed">"Não foi possível obter os logs"</string>
     <string name="feedback_contact_info_hint">Número de telefone/E-mail</string>
     <string name="feedback_continue">Enviar feedback</string>
     <string name="feedback_delete_images">Excluir imagens</string>
@@ -235,10 +237,10 @@ Envie este código ao supervisor."</string>
 %2$d. Após quais ações executadas o problema aconteceu?
 %3$d. Forneça informações adicionais que possam nos ajudar a corrigir o problema."</string>
     <string name="feedback_description_hint_suggestion">Diga-nos como gostaria que melhorássemos o HyperOS.</string>
-    <string name="feedback_description_suggest_hint">Gostaria de adicionar uma nova função () porque eu preciso de ().</string>
+    <string name="feedback_description_suggest_hint">"Gostaria de adicionar uma nova função () porque eu preciso de ()."</string>
     <string name="feedback_detail_copy_toast">Copiado para a área de transferência</string>
     <string name="feedback_detail_feedback_attach">Anexos</string>
-    <string name="feedback_detail_feedback_attach_upload_failed">Não foi possível fazer o upload</string>
+    <string name="feedback_detail_feedback_attach_upload_failed">"Não foi possível fazer o upload"</string>
     <string name="feedback_detail_feedback_attach_uploading">Fazendo o upload…</string>
     <string name="feedback_detail_feedback_category">Categoria</string>
     <string name="feedback_detail_feedback_id">ID do relatório: %d</string>
@@ -253,59 +255,66 @@ Envie este código ao supervisor."</string>
     <string name="feedback_detail_waiting">Gerando…</string>
     <string name="feedback_edit_popup_window_related_title">Isto pode ser relevante</string>
     <string name="feedback_empty_report_list">Nenhum relatório ainda</string>
+    <string name="feedback_evaluation_btn_content">Avaliar</string>
+    <string name="feedback_evaluation_expired_hint">"Não é mais possível avaliar este item"</string>
+    <string name="feedback_evaluation_hint_dialog_content">Seu feedback nos ajuda a melhorar nossos produtos e serviços.</string>
+    <string name="feedback_evaluation_hint_dialog_title">Esse problema foi resolvido?</string>
+    <string name="feedback_evaluation_invitation_content">Avalie sua experiência para nos ajudar a melhorar o processamento de feedback no futuro.</string>
+    <string name="feedback_evaluation_success_dialog_content">Obrigado pelo seu feedback!</string>
+    <string name="feedback_evaluation_success_dialog_title">Avaliado com sucesso</string>
     <string name="feedback_guess">Nosso palpite:</string>
-    <string name="feedback_history_remind_login_desc">Faça o login com sua Conta Mi para ver os detalhes e progresso de seus relatórios</string>
+    <string name="feedback_history_remind_login_desc">"Faça o login com sua Conta Mi para ver os detalhes e progresso de seus relatórios"</string>
     <string name="feedback_id">"ID: %d"</string>
     <string name="feedback_jira_key">Chave JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">Criando um Jira…</string>
-    <string name="feedback_package_log_failed">Não foi possível compactar os logs</string>
+    <string name="feedback_package_log_failed">"Não foi possível compactar os logs"</string>
     <string name="feedback_remind_login_btn">Fazer login</string>
     <string name="feedback_report_remind_login_desc">Faça o login com sua Conta Mi para que nossos engenheiros possam entrar em contato com você.</string>
-    <string name="feedback_report_remind_login_desc2">Você poderá ainda ver o progresso de seus relatórios de erro em \"Meus feedback\".</string>
+    <string name="feedback_report_remind_login_desc2">"Você poderá ainda ver o progresso de seus relatórios de erro em \"Meus feedback\"."</string>
     <string name="feedback_reproductivity_everytime">Sempre</string>
     <string name="feedback_reproductivity_occasionally">Ocasionalmente</string>
     <string name="feedback_reproductivity_often">Frequentemente</string>
     <string name="feedback_reproductivity_once">Uma vez</string>
     <string name="feedback_select_images">Adicione uma imagem ou um vídeo curto</string>
     <string name="feedback_select_modem_log">Adicionar logs do modem</string>
-    <string name="feedback_select_modem_log_not_select_desc">\"Adicionar logs do modem\" não selecionado</string>
+    <string name="feedback_select_modem_log_not_select_desc">"\"Adicionar logs do modem\" não selecionado"</string>
     <string name="feedback_select_modem_log_select_desc">\"Adicionar logs do modem\" selecionado</string>
     <string name="feedback_select_problem">Problemas</string>
-    <string name="feedback_select_problem_not_select_desc">\"Problemas\" não selecionado</string>
+    <string name="feedback_select_problem_not_select_desc">"\"Problemas\" não selecionado"</string>
     <string name="feedback_select_problem_select_desc">\"Problemas\" selecionado</string>
     <string name="feedback_select_suggestion">Sugestões</string>
-    <string name="feedback_select_suggestion_not_select_desc">\"Sugestões\" não selecionado</string>
+    <string name="feedback_select_suggestion_not_select_desc">"\"Sugestões\" não selecionado"</string>
     <string name="feedback_select_suggestion_select_desc">\"Sugestões\" selecionado</string>
     <string name="feedback_select_upload_log">Adicionar logs</string>
-    <string name="feedback_select_upload_log_not_select_desc">\"Adicionar logs\" não selecionado</string>
+    <string name="feedback_select_upload_log_not_select_desc">"\"Adicionar logs\" não selecionado"</string>
     <string name="feedback_select_upload_log_select_desc">\"Adicionar logs\" selecionado</string>
     <string name="feedback_status_answered">Respondido</string>
-    <string name="feedback_status_change_notification_title">O progresso de seu relatório foi atalizado</string>
-    <string name="feedback_status_collect_log_failed">Não foi possível obter os logs</string>
-    <string name="feedback_status_commit_failed_title">Não foi possível enviar o relatório</string>
+    <string name="feedback_status_change_notification_title">"O progresso de seu relatório foi atalizado"</string>
+    <string name="feedback_status_collect_log_failed">"Não foi possível obter os logs"</string>
+    <string name="feedback_status_commit_failed_title">"Não foi possível enviar o relatório"</string>
     <string name="feedback_status_commit_in_queue_title">Aguardando…</string>
     <string name="feedback_status_commit_succ_title">Enviado</string>
     <string name="feedback_status_commit_uploading_title">Enviando…</string>
     <string name="feedback_status_forum_reply">Responder</string>
-    <string name="feedback_status_get_and_save_bbs_info_failed">Não foi possível obter a URL do anexo</string>
+    <string name="feedback_status_get_and_save_bbs_info_failed">"Não foi possível obter a URL do anexo"</string>
     <string name="feedback_status_jira_comment">Adicionar comentário</string>
     <string name="feedback_status_more">Detalhes</string>
     <string name="feedback_status_processing">Processando…</string>
     <string name="feedback_status_recorded">Feedback recebido</string>
     <string name="feedback_status_replyed">Respondido</string>
     <string name="feedback_status_reresolved">Resolvido</string>
-    <string name="feedback_status_save_log_info_failed">Não foi possível alterar a URL do anexo</string>
+    <string name="feedback_status_save_log_info_failed">"Não foi possível alterar a URL do anexo"</string>
     <string name="feedback_status_submit_attachment">Anexo enviado com sucesso</string>
-    <string name="feedback_status_submit_bbs_failed">Não foi possível enviar o conteúdo do feedback</string>
-    <string name="feedback_status_submit_feedback_failed">Não foi possível enviar o feedback</string>
+    <string name="feedback_status_submit_bbs_failed">"Não foi possível enviar o conteúdo do feedback"</string>
+    <string name="feedback_status_submit_feedback_failed">"Não foi possível enviar o feedback"</string>
     <string name="feedback_status_supplement">Descreva seu problema com detalhes</string>
     <string name="feedback_status_supplement_more">Adicionar comentário</string>
-    <string name="feedback_status_upload_log_failed">Não foi possível enviar os anexos</string>
+    <string name="feedback_status_upload_log_failed">"Não foi possível enviar os anexos"</string>
     <string name="feedback_submit_failed_notification_desc">Ver detalhes</string>
     <string name="feedback_submit_failed_notification_retry">Enviar novamente</string>
-    <string name="feedback_submit_failed_notification_title">Não foi possível enviar o relatório</string>
+    <string name="feedback_submit_failed_notification_title">"Não foi possível enviar o relatório"</string>
     <string name="feedback_submit_hint">Reporte bugs sempre que os encontrar para nos ajudar a resolvê-los rapidamente.</string>
-    <string name="feedback_submit_hint1">Nós iremos notificá-lo de qualquer progresso em seu relatório</string>
+    <string name="feedback_submit_hint1">"Nós iremos notificá-lo de qualquer progresso em seu relatório"</string>
     <string name="feedback_submit_hint2">Vá para \"Meus feedback\" para ver mais detalhes</string>
     <string name="feedback_submit_hint_gone">Mensagem fechada</string>
     <string name="feedback_submit_succ">Enviado com sucesso</string>
@@ -363,7 +372,7 @@ Envie este código ao supervisor."</string>
     <string name="get_ph_ticket">Obter código</string>
     <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi com um número de telefone. Não é possível adicionar mais contas.</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Por favor, aguarde 24 horas e tente novamente.</string>
-    <string name="google_login_btn_content_description">Entrar com conta do Google</string>
+    <string name="google_login_btn_content_description">Entrar com o Google</string>
     <string name="goon_feedback_main">Continuar</string>
     <string name="goto_sign_up">Criar conta</string>
     <string name="header_help">Ajuda</string>
@@ -372,8 +381,8 @@ Envie este código ao supervisor."</string>
     <string name="i_know">"OK"</string>
     <string name="icon_add_description">Adicione um atalho na Tela inicial</string>
     <string name="icon_remove_confirm">Remover</string>
-    <string name="icon_remove_description_content">\"Serviços e feedback\" é um app do sistema. Você ainda poderá usá-lo nas Configurações depois de remover o atalho da Tela inicial.</string>
-    <string name="icon_remove_description_title">Remover \"Serviços e feedback\" da Tela inicial?</string>
+    <string name="icon_remove_description_content">Serviços e feedback é um app do sistema. Você ainda poderá usá-lo nas Configurações depois de remover o atalho da Tela inicial.</string>
+    <string name="icon_remove_description_title">Remover Serviços e feedback da Tela inicial?</string>
     <string name="identity">Identificação</string>
     <string name="inconsistent_pwd">As senhas não conferem</string>
     <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
@@ -383,7 +392,7 @@ Envie este código ao supervisor."</string>
     <string name="issue_search">Pesquisar</string>
     <string name="jump_full_log_dialog_cancel">Cancelar</string>
     <string name="jump_full_log_dialog_confirm">Gerar</string>
-    <string name="jump_full_log_dialog_content">Os logs ajudam a localizar e corrigir o problema que você está prestes a reportar com mais rapidez. Gere os logs e anexe-os ao seu feedback.</string>
+    <string name="jump_full_log_dialog_content">"Os logs ajudam a localizar e corrigir o problema que você está prestes a reportar com mais rapidez. Gere os logs e anexe-os ao seu feedback."</string>
     <string name="jump_full_log_dialog_title">Gerar logs</string>
     <string name="just_a_second">Aguarde…</string>
     <string name="kr_authorization_agree">Aceitar</string>
@@ -392,7 +401,7 @@ Envie este código ao supervisor."</string>
     <string name="kr_authorization_exit">Sair</string>
     <string name="kr_authorization_function">Enviar feedbacks, gerar logs, ver perguntas frequentes</string>
     <string name="kr_authorization_log_protocol">Protocolo de Logs (opcional)</string>
-    <string name="kr_authorization_log_protocol_desc">Para melhorar os serviços fornecidos para você, vamos fazer o upload de estatísticas de uso e logs do sistema para nossos servidores. Estes itens podem conter informações pessoais, assim como informações sobre o seu dispositivo e redes acessadas. Usaremos as informações para nos ajudar a localizar e analisar problemas no sistema.</string>
+    <string name="kr_authorization_log_protocol_desc">"Para melhorar os serviços fornecidos para você, vamos fazer o upload de estatísticas de uso e logs do sistema para nossos servidores. Estes itens podem conter informações pessoais, assim como informações sobre o seu dispositivo e redes acessadas. Usaremos as informações para nos ajudar a localizar e analisar problemas no sistema."</string>
     <string name="kr_authorization_phone">Telefone</string>
     <string name="kr_authorization_phone_desc">Para acessar o modelo do dispositivo, IMEI e ID do dispositivo para localizar e corrigir problemas</string>
     <string name="kr_authorization_phone_desc_pad">Para acessar o modelo do dispositivo, IMEI e ID do dispositivo para localizar e corrigir problemas</string>
@@ -406,7 +415,7 @@ Envie este código ao supervisor."</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_apps">Carregando lista…</string>
-    <string name="login_by_local_phone_long_text">Faça seu login agora</string>
+    <string name="login_by_local_phone_long_text">Fazer login agora</string>
     <string name="login_by_local_phone_short_text">Fazer login</string>
     <string name="login_other">Outra Conta Mi</string>
     <string name="login_out">Sair</string>
@@ -420,8 +429,8 @@ Envie este código ao supervisor."</string>
     <string name="mi_service_back">Voltar</string>
     <string name="mi_service_dialog_cancel">Sair</string>
     <string name="mi_service_dialog_confirm">Abrir</string>
-    <string name="mi_service_dialog_content">Todos os recursos do feedback foram movidos para o novo app \"Serviços e feedback\". O app Feedback será removido da sua Tela inicial. Toque em \"Abrir\" para experimentar o \"Serviços e feedback\".</string>
-    <string name="mi_service_dialog_title">Introduzindo \"Serviços e feedback\"</string>
+    <string name="mi_service_dialog_content">Todos os recursos do feedback foram movidos para o novo app Serviços e feedback. O app Feedback será removido da sua Tela inicial. Toque em \"Abrir\" para experimentar o Serviços e feedback.</string>
+    <string name="mi_service_dialog_title">Introduzindo Serviços e feedback</string>
     <string name="midnight">"AM"</string>
     <string name="mishop_login_other">Outra conta</string>
     <string name="miui_feedback_answer_detail_community">Você pode encontrar respostas para suas perguntas na Comunidade Xiaomi</string>
@@ -466,17 +475,17 @@ Envie este código ao supervisor."</string>
     <string name="miui_feedback_edit_reproductivity_once">Uma vez</string>
     <string name="miui_feedback_edit_select_images">Adicione uma imagem ou vídeo curto</string>
     <string name="miui_feedback_edit_select_modem_log">Adicionar logs do modem</string>
-    <string name="miui_feedback_edit_select_modem_log_not_select_desc">Não selecionei \"Adicionar logs do modem\"</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">"Não selecionei \"Adicionar logs do modem\""</string>
     <string name="miui_feedback_edit_select_modem_log_select_desc">Selecionado \"Adicionar logs do modem\"</string>
     <string name="miui_feedback_edit_select_original_images">Adicione imagem original ou vídeo curto</string>
     <string name="miui_feedback_edit_select_problem">Problemas</string>
-    <string name="miui_feedback_edit_select_problem_not_select_desc">Não selecionei \"Problemas\"</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">"Não selecionei \"Problemas\""</string>
     <string name="miui_feedback_edit_select_problem_select_desc">Selecionado \"Problemas\"</string>
     <string name="miui_feedback_edit_select_suggestion">Sugestões</string>
-    <string name="miui_feedback_edit_select_suggestion_not_select_desc">Não selecionei \"Sugestões\"</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">"Não selecionei \"Sugestões\""</string>
     <string name="miui_feedback_edit_select_suggestion_select_desc">Selecionado \"Sugestões\"</string>
     <string name="miui_feedback_edit_select_upload_log">Adicionar logs</string>
-    <string name="miui_feedback_edit_select_upload_log_not_select_desc">Não selecionei \"Adicionar logs\"</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">"Não selecionei \"Adicionar logs\""</string>
     <string name="miui_feedback_edit_select_upload_log_select_desc">Selecionado \"Adicionar logs\"</string>
     <string name="miui_feedback_edit_storage_permission_name">Acessar o armazenamento do dispositivo</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Não aceitar"</string>
@@ -501,6 +510,9 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_item_catch_full_log">"Logs"</string>
     <string name="miui_feedback_main_item_customer_service">Serviços de pós-venda</string>
     <string name="miui_feedback_main_item_feedback_list">Meus feedback</string>
+    <string name="miui_feedback_main_item_official_progress">Progresso do reparo</string>
+    <string name="miui_feedback_main_item_official_progress_hint">Atualize o progresso do reparo regularmente na Xiaomi Community</string>
+    <string name="miui_feedback_main_item_use_guide">Guia do usuario</string>
     <string name="miui_feedback_main_menu_view_privacy">Política de Privacidade</string>
     <string name="miui_feedback_main_menu_view_withdraw_consent">Retirada do consentimento</string>
     <string name="miui_feedback_main_search_footer">"Estas não são as perguntas que você quer fazer?"</string>
@@ -514,6 +526,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_title">Feedback</string>
     <string name="miui_feedback_main_withdraw">Retirar</string>
     <string name="miui_feedback_main_withdraw_consent_hint">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %1$s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como %2$s fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços de %3$s. Retirar o consentimento agora?"</string>
+    <string name="miui_feedback_note_install_xiaomi_community">Instale o Xiaomi Community para poder usar este recurso.</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -537,15 +550,15 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="mobile_data_note_dialog_cancel">Aguardar por Wi-Fi</string>
     <string name="mobile_data_note_dialog_cancel_china">Aguardando Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Fazer upload</string>
-    <string name="mobile_data_note_dialog_content">Parece que você está conectado a uma rede paga. O upload dos logs poderá gerar cobranças adicionais.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">Parece que você está conectado a uma rede paga. O envio dos logs usará %s MB de dados móveis.</string>
+    <string name="mobile_data_note_dialog_content">"Parece que você está conectado a uma rede paga. O upload dos logs poderá gerar cobranças adicionais."</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">"Parece que você está conectado a uma rede paga. O envio dos logs usará %s MB de dados móveis."</string>
     <string name="mobile_data_note_dialog_title">Aviso sobre o uso de dados</string>
     <string name="modem_tool_log_dumping_desc">Toque no ícone para parar</string>
     <string name="modem_tool_log_dumping_title">Capturando logs do modem</string>
@@ -608,14 +621,44 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
+    <string name="net_daig_network_repair">Reparo de rede</string>
+    <string name="net_diag_cancel">Cancelar</string>
+    <string name="net_diag_continue">Continuar</string>
+    <string name="net_diag_dialog_msg">Testar sua rede ajudará você a detectar problemas e melhorar sua conexão.</string>
+    <string name="net_diag_dialog_no">Não</string>
+    <string name="net_diag_dialog_title">Testar rede agora?</string>
+    <string name="net_diag_dialog_yes">Sim</string>
+    <string name="net_diag_entry_link_quality">Qualidade da conexão</string>
+    <string name="net_diag_entry_network_connectivity">Conectividade de rede</string>
+    <string name="net_diag_entry_network_dns">Configuração de DNS</string>
+    <string name="net_diag_entry_network_latency">Atraso de rede</string>
+    <string name="net_diag_entry_network_parameters">Configurações de rede</string>
+    <string name="net_diag_entry_network_protocol">Protocolo de rede</string>
+    <string name="net_diag_entry_network_rssi">Qualidade do sinal</string>
+    <string name="net_diag_entry_router_topology">Roteamento de rede</string>
+    <string name="net_diag_fix_guide_window_msg">Ocorreu um erro de rede. Toque para solucionar problemas.</string>
+    <string name="net_diag_fixing">Reparando rede. Isso pode levar um minuto.</string>
+    <string name="net_diag_header_internet">"Internet"</string>
+    <string name="net_diag_header_router">Roteador</string>
+    <string name="net_diag_header_this_device">Este dispositivo</string>
+    <string name="net_diag_repair_msg">Durante este processo, o Wi-Fi será desconectado e conectado novamente. Reparar agora?</string>
+    <string name="net_diag_repair_msg_china">Durante este processo, o Wi-Fi será desconectado e conectado novamente. Reparar agora?</string>
+    <string name="net_diag_repair_static_ip_msg">As configurações de rede podem ser redefinidas durante este processo. Reparar agora?</string>
+    <string name="net_diag_repair_title">Reparar rede?</string>
+    <string name="net_diag_title">Testar rede</string>
+    <string name="net_diag_toast_cellular_data">Para testar a rede, desligue primeiro os dados móveis.</string>
+    <string name="net_diag_toast_other_networks">Para testar a rede, conecte-se ao Wi-Fi e desconecte-se de outras redes primeiro.</string>
+    <string name="net_diag_toast_other_networks_china">Para testar a rede, conecte-se ao Wi-Fi e desconecte-se de outras redes primeiro.</string>
+    <string name="net_diag_toast_wifi_disconnected">Para testar a rede, conecte-se primeiro ao Wi-Fi.</string>
+    <string name="net_diag_toast_wifi_disconnected_china">Para testar a rede, conecte-se primeiro ao Wi-Fi.</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="net_error_info">Nenhuma conexão de rede, toque aqui para acessar as Configurações</string>
-    <string name="network_err">Não é possível conectar-se à rede.</string>
+    <string name="network_err">"Não é possível conectar-se à rede."</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
     <string name="network_unavailable_dialog_button_ok">"OK"</string>
     <string name="network_unavailable_dialog_content">Seu relatório será enviado quando houver uma conexão de dados.</string>
-    <string name="network_unavailable_dialog_title">Não é possível conectar-se à rede</string>
+    <string name="network_unavailable_dialog_title">"Não é possível conectar-se à rede"</string>
     <string name="nick_name">Apelido</string>
     <string name="night">"PM"</string>
     <string name="no_account">Não conectado</string>
@@ -648,7 +691,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="passport_dialog_doing_register">Criando conta…</string>
     <string name="passport_dialog_is_my_account">Sim</string>
     <string name="passport_dialog_is_your_mi_account">Esta é a sua Conta Mi?</string>
-    <string name="passport_dialog_loading">Só um segundo…</string>
+    <string name="passport_dialog_loading">Aguarde…</string>
     <string name="passport_dialog_nick_name_prefix">Apelido: %s</string>
     <string name="passport_dialog_phone_number_prefix">Número de telefone: %s</string>
     <string name="passport_dialog_register_other">"Não, vou criar um"</string>
@@ -768,7 +811,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="passport_wrong_voice">O código inserido está incorreto</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="permission_agree">Aceitar</string>
-    <string name="permission_china_version_msg">&lt;Data>Antes de usar \"Serviços e feedback\", você deve ler e concordar com nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a>. Este app também precisa se conectar à internet para funcionar normalmente.&lt;/Data></string>
+    <string name="permission_china_version_msg">&lt;Data>Antes de usar Serviços e feedback, você deve ler e concordar com nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a>. Este app também precisa se conectar à internet para funcionar normalmente.&lt;/Data></string>
     <string name="permission_complete">Concluído</string>
     <string name="permission_contacts_info">Acessar informações da conta</string>
     <string name="permission_contacts_introduce">Para fazer login usando a Conta Mi</string>
@@ -782,7 +825,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
     <string name="permission_main_purpose">Exibindo demonstrações de recursos HyperOS, enviando comentários e solicitando serviços pós-venda.</string>
     <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
-    <string name="permission_region_version_msg">&lt;Data>Antes de usar \"Serviços e feedback\", você deve ler e concordar com nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
+    <string name="permission_region_version_msg">&lt;Data>Antes de usar Serviços e feedback, você deve ler e concordar com nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Selecionar todos</string>
     <string name="permission_storage">Armazenamento</string>
     <string name="permission_storage_introduce">Para salvar itens no seu dispositivo</string>
@@ -823,7 +866,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="register_by_local_phone_long_text">Criar conta</string>
     <string name="register_by_local_phone_short_text">Criar conta</string>
     <string name="related_question_answer_details">Problema relacionado</string>
-    <string name="reply_failed">Não foi possível responder</string>
+    <string name="reply_failed">"Não foi possível responder"</string>
     <string name="reply_option_log_hint">Opcional</string>
     <string name="reply_select_log_hint">Selecionar log</string>
     <string name="reply_successful">Respondido com sucesso</string>
@@ -836,13 +879,13 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="request_error_unknown">Ocorreu um erro de sistema. Volte e tente novamente.</string>
     <string name="request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
     <string name="resend_active_email">Reenviar</string>
-    <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
+    <string name="resend_email_reach_limit_message">"Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail."</string>
     <string name="resend_email_reach_limit_title">Muitas tentativas</string>
     <string name="resend_email_success">Enviado com sucesso</string>
     <string name="restart_action">Reiniciar</string>
     <string name="restart_phone_bind_message">O SMS pode demorar um pouco para ser recebido. Reiniciar mesmo assim?</string>
     <string name="restart_phone_bind_title">Alterar telefone de recuperação</string>
-    <string name="same_new_and_old_pwd">Não pode ser a mesma senha que a atual</string>
+    <string name="same_new_and_old_pwd">"Não pode ser a mesma senha que a atual"</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -892,17 +935,17 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="stop_full_log_dialog_confirm">Enviar</string>
     <string name="stop_full_log_dialog_content">Parece que os logs estão sendo gerados agora. Parar de gerá-los e enviar os que estão prontos?</string>
     <string name="stop_full_log_dialog_title">Gerando logs…</string>
-    <string name="submit_dialog_cancel">Não aceitar</string>
+    <string name="submit_dialog_cancel">"Não aceitar"</string>
     <string name="submit_dialog_confirm">Aceitar</string>
     <string name="submit_dialog_content">"&lt;Data>Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de enviar seu feedback. Os problemas que você reportar, juntamente com os itens que você anexar (incluindo os logs que podem conter informações pessoais, bem como informações sobre seu dispositivo e a rede) serão enviados aos servidores do HyperOS. Isto nos ajudará a localizar e corrigir os problemas que você reportar. Se você reportar problemas relacionados a vários dispositivos, os logs dos outros dispositivos onde a sua Conta Mi é usada também serão enviados.&lt;/Data>"</string>
     <string name="submit_dialog_content_global">"&lt;Data>O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
     <string name="submit_dialog_content_global_with_contactinfo">"&lt;Data>O seu feedback, junto com anexos (caso existam), logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar), número de telefone ou e-mail serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
-    <string name="submit_dialog_not_show_again">Não mostrar novamente</string>
+    <string name="submit_dialog_not_show_again">"Não mostrar novamente"</string>
     <string name="submit_dialog_title">Enviar relatório</string>
-    <string name="submit_feedback_info_failed">Não foi possível enviar o relatório</string>
+    <string name="submit_feedback_info_failed">"Não foi possível enviar o relatório"</string>
     <string name="suggest_upload_log_dialog_cancel">Não, obrigado</string>
     <string name="suggest_upload_log_dialog_confirm">Enviar</string>
-    <string name="suggest_upload_log_dialog_content">Para ajudar nossos engenheiros a localizar e resolver o problema que você encontrou o mais rápido possível, recomendamos que você envie os logs relacionados. Os logs são usados apenas para analisar problemas e não serão usados para outros fins.</string>
+    <string name="suggest_upload_log_dialog_content">"Para ajudar nossos engenheiros a localizar e resolver o problema que você encontrou o mais rápido possível, recomendamos que você envie os logs relacionados. Os logs são usados apenas para analisar problemas e não serão usados para outros fins."</string>
     <string name="suggest_upload_log_dialog_title">Enviar logs relacionados</string>
     <string name="suggestion_description">Adicione a descrição aqui</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -915,7 +958,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="tab_title_my_reports">Meus feedback</string>
     <string name="tab_title_preferences">Configurações</string>
     <string name="tab_title_report">"Feedback"</string>
-    <string name="temporary_not_available">Este recurso ainda não está disponível</string>
+    <string name="temporary_not_available">"Este recurso ainda não está disponível"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>
@@ -962,9 +1005,9 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="ticket_hint">Código de verificação</string>
     <string name="ticket_invalid">O código inserido está incorreto</string>
     <string name="ticket_sign_in">Fazer login com SMS</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="title_answer_feedback_main">Encontramos respostas!</string>
     <string name="title_catch_full_log">"Logs"</string>
     <string name="title_customer_service">Atendimento ao cliente</string>
@@ -977,25 +1020,25 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="title_user_guide">Guia do usuário</string>
     <string name="toast_app_tag_required">Selecione o problema primeiro</string>
     <string name="toast_catch_full_log_catching">Você só pode gerar um log por vez.</string>
-    <string name="toast_catch_full_log_open_failed">Não foi possível iniciar a gravação do log.</string>
+    <string name="toast_catch_full_log_open_failed">"Não foi possível iniciar a gravação do log."</string>
     <string name="toast_description_required">Descreva o problema primeiro</string>
     <string name="toast_feedback_collect_store">Coletando logs…</string>
-    <string name="toast_feedback_network_unavailable">Não é possível conectar-se à rede</string>
+    <string name="toast_feedback_network_unavailable">"Não é possível conectar-se à rede"</string>
     <string name="toast_feedback_submitted">O relatório foi enviado</string>
     <string name="toast_feedback_submitting">Enviando…</string>
-    <string name="toast_file_format_not_support">Este formato de arquivo não é suportado. Tente selecionar um arquivo diferente.</string>
-    <string name="toast_log_not_exists">O log solicitado foi excluído ou não existe</string>
+    <string name="toast_file_format_not_support">"Este formato de arquivo não é suportado. Tente selecionar um arquivo diferente."</string>
+    <string name="toast_log_not_exists">"O log solicitado foi excluído ou não existe"</string>
     <string name="toast_min_description_count">A sua descrição deve ser mais longa</string>
     <string name="toast_module_required">Selecionar itens</string>
-    <string name="toast_network_unavailable">Não foi possível enviar. Não é possível conectar-se à rede.</string>
+    <string name="toast_network_unavailable">"Não foi possível enviar. Não é possível conectar-se à rede."</string>
     <string name="toast_pending_log_collection">Ainda coletando logs…</string>
     <string name="toast_pic_not_exists">A imagem em cache foi excluída</string>
-    <string name="toast_post_deleted">Este tópico não existe, foi excluído ou editado.</string>
+    <string name="toast_post_deleted">"Este tópico não existe, foi excluído ou editado."</string>
     <string name="toast_problem_class_required">Selecionar categoria</string>
     <string name="toast_report_copied_to_clipboard">Relatório copiado para a área de transferência</string>
-    <string name="toast_report_sent_failed">Não é possível enviar o relatório</string>
+    <string name="toast_report_sent_failed">"Não é possível enviar o relatório"</string>
     <string name="toast_report_sent_succeed">O relatório foi enviado</string>
-    <string name="toast_screenshot_too_large">Não é possível enviar imagens ou vídeos maiores do que %d MB.</string>
+    <string name="toast_screenshot_too_large">"Não é possível enviar imagens ou vídeos maiores do que %d MB."</string>
     <string name="toast_third_packagename_required">Informar o nome do app</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
@@ -1014,16 +1057,18 @@ Tamanho: %2$s"</string>
     <string name="update_email_address_dialog_title">Atualizar e-mail de recuperação</string>
     <string name="update_phone_notice">Alterar configurações de segurança</string>
     <string name="upload_error_log">Enviar logs</string>
-    <string name="upload_log_failed">Não foi possível enviar os logs</string>
-    <string name="user_agreement_hint_3rd_app">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e Condições dos serviços de verificação China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e Condições dos serviços de verificação da Conta eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e Condições dos serviços de verificação China Unicom&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_default">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi.&lt;/Data></string>
+    <string name="upload_log_failed">"Não foi possível enviar os logs"</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e Condições dos serviços de verificação China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e Condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e Condições dos serviços de verificação China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a> O primeiro login criará automaticamente um Conta Mi"</Data></string>
     <string name="user_agreement_hint_first_login">Nós criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez.</string>
-    <string name="user_agreement_hint_with_mobile">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_telecom">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_unicom">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação China Unicom&lt;/a>.&lt;/Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação China Unicom&lt;/a>."</Data></string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>

@@ -83,19 +83,19 @@
     <string name="i_get_it">Entendi</string>
     <string name="icon_add_description">Adicione um atalho na Tela inicial</string>
     <string name="icon_remove_confirm">Remover</string>
-    <string name="icon_remove_description_content">\"Serviços e feedback\" é um app do sistema. Você ainda poderá usá-lo através das Configurações após remover o atalho da Tela inicial.</string>
-    <string name="icon_remove_description_title">Remover \"Serviços e feedback\" da Tela inicial?</string>
+    <string name="icon_remove_description_content">"Serviços e feedback é um app do sistema. Você ainda poderá usá-lo através das Configurações após remover o atalho da Tela inicial."</string>
+    <string name="icon_remove_description_title">Remover Serviços e feedback da Tela inicial?</string>
     <string name="mi_service_app_name">Serviços e feedback</string>
     <string name="mi_service_back">Voltar</string>
     <string name="midnight">"AM"</string>
     <string name="miservice_channel_boot_name">"boot"</string>
     <string name="miservice_channel_guide_name">guia</string>
-    <string name="miservice_channel_update_notification_info">O \"Serviços e feedback\" está solicitando dados online…</string>
+    <string name="miservice_channel_update_notification_info">O Serviços e feedback está solicitando dados online…</string>
     <string name="miservice_notification_boot_content">Saiba mais sobre o que o HyperOS pode fazer</string>
     <string name="miservice_notification_huanji_content">Transfira-os usando o Mi Mover</string>
     <string name="miservice_notification_huanji_title">Tem arquivos importantes no seu telefone antigo?</string>
     <string name="miservice_notification_open_feedback_content">Todos os recursos do feedback foram movidos para um novo app</string>
-    <string name="miservice_notification_open_feedback_title">Introdução ao \"Serviços e feedback\"</string>
+    <string name="miservice_notification_open_feedback_title">Introdução ao Serviços e feedback</string>
     <string name="miservice_notification_scan_content">Use o Scanner para traduzir palavras e frases</string>
     <string name="miservice_notification_scan_title">Traduza rapidamente</string>
     <string name="miui_feedback_answer_detail_community">Você pode encontrar respostas para as suas perguntas na Xiaomi Community</string>
@@ -190,7 +190,7 @@ E-mail: service.jp@xiaomi.com"</string>
  <string name="miui_feedback_main_withdraw">Retirar</string>
     <string name="miui_feedback_main_withdraw_consent_hint">"Se você continuar, retirará seu consentimento com a Política de Privacidade de %1$s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como %2$s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %3$s. Retirar consentimento agora?"</string>
     <string name="miui_guide_accessibility_image_desc">Imagem</string>
-    <string name="miui_guide_clear_db_service">O \"Serviços e feedback\" está limpando o cache de idioma…</string>
+    <string name="miui_guide_clear_db_service">O Serviços e feedback está limpando o cache de idioma…</string>
     <string name="miui_guide_footer_desc">O Guia do iniciante foi desenvolvido para lhe ajudar a aprender mais sobre seu dispositivo e o HyperOS. Algumas imagens e vídeos no guia foram criados apenas para fins de referência e podem diferir do produto final. Os recursos descritos neste guia podem variar de acordo com o modelo do seu dispositivo, versão do OS e ambiente de uso.</string>
     <string name="miui_guide_item_complete">Concluído</string>
     <string name="miui_guide_item_new">Novo</string>
@@ -278,10 +278,10 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -327,7 +327,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="permission_agree">Aceitar</string>
-    <string name="permission_china_version_msg">&lt;Data>Antes de usar o \"Serviços e feedback\", você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>. Este app também precisa de uma conexão com a internet para funcionar normalmente.&lt;/Data></string>
+    <string name="permission_china_version_msg">&lt;Data>Antes de usar o Serviços e feedback, você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>. Este app também precisa de uma conexão com a internet para funcionar normalmente.&lt;/Data></string>
     <string name="permission_complete">Concluído</string>
     <string name="permission_contacts_info">Acessar informações da conta</string>
     <string name="permission_contacts_introduce">Para fazer login usando a Conta Mi</string>
@@ -341,7 +341,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
     <string name="permission_main_purpose">Exibir demonstrações de recursos do HyperOS, enviar feedback e solicitar serviços de pós-venda.</string>
     <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
-    <string name="permission_region_version_msg">&lt;Data>Antes de usar o \"Serviços e feedback\", você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
+    <string name="permission_region_version_msg">&lt;Data>Antes de usar o Serviços e feedback, você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Selecionar todos</string>
     <string name="permission_storage">Armazenamento</string>
     <string name="permission_storage_introduce">Para salvar itens no seu dispositivo</string>
@@ -447,9 +447,9 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="title_settings_dialog">Permissões necessárias</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>

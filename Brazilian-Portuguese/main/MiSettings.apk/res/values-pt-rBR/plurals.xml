@@ -65,8 +65,8 @@
         <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="steady_on_screen_notification_summary">
-        <item quantity="other">Você usou seu dispositivo por %d minutos sem interrupções</item>
-        <item quantity="one">Você usou seu dispositivo por %d minuto sem interrupções</item>
+        <item quantity="other">"Você usou seu dispositivo por %d minutos sem interrupções"</item>
+        <item quantity="one">"Você usou seu dispositivo por %d minuto sem interrupções"</item>
     </plurals>
     <plurals name="steady_on_screen_rest_time">
         <item quantity="other">Descanse por %d minutos</item>

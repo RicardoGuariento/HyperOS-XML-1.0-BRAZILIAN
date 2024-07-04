@@ -145,7 +145,7 @@
     <string name="copy">Copiar</string>
     <string name="crazy_mode">Modo ultra</string>
     <string name="create">Criar</string>
-    <string name="create_failed">Não foi possível criar</string>
+    <string name="create_failed">"Não foi possível criar"</string>
     <string name="create_shortcut">Atalho na Tela inicial</string>
     <string name="created">Criado</string>
     <string name="created_successfully">Criado com sucesso</string>
@@ -241,9 +241,9 @@ não são geradas no Segundo espaço"</string>
     <string name="exo_track_selection_title_text">Texto</string>
     <string name="exo_track_selection_title_video">Vídeo</string>
     <string name="exo_track_stereo">Estéreo</string>
-    <string name="exo_track_surround">Sistema surround</string>
-    <string name="exo_track_surround_5_point_1">Sistema surround 5.1</string>
-    <string name="exo_track_surround_7_point_1">Sistema surround 7.1</string>
+    <string name="exo_track_surround">Som surround</string>
+    <string name="exo_track_surround_5_point_1">Som surround 5.1</string>
+    <string name="exo_track_surround_7_point_1">Som surround 7.1</string>
     <string name="exo_track_unknown">Desconhecido</string>
     <string name="expand_button_title">Avançado</string>
     <string name="first_unlock_time">"Primeiro desbloqueio: "</string>
@@ -412,7 +412,7 @@ não são geradas no Segundo espaço"</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcartodos</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
@@ -433,10 +433,10 @@ não são geradas no Segundo espaço"</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="mix_match_random">Aleatório</string>
     <string name="mix_match_submit">Aplicar</string>
     <string name="mix_match_type_bird">Pássaro</string>
@@ -508,7 +508,7 @@ não são geradas no Segundo espaço"</string>
     <string name="no_sound_summary">Nenhum</string>
     <string name="noon">"PM"</string>
     <string name="normal_mode">"Regular"</string>
-    <string name="normal_mode_summary">Não reduzir oscilação em ambientes com pouca luz</string>
+    <string name="normal_mode_summary">"Não reduzir oscilação em ambientes com pouca luz"</string>
     <string name="normal_mode_summary_new">Permite a cintilação em ambientes com pouca luz</string>
     <string name="north_white_rhinoceros">Rinoceronte-branco do norte</string>
     <string name="norway_lemmings">Lemingue Norueguês</string>
@@ -545,7 +545,7 @@ não são geradas no Segundo espaço"</string>
     <string name="primary_color_region_summary">Identifica a gama de cores automaticamente através da calibração de cores</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="puffin">Papagaio-do-mar atlântico</string>
-    <string name="random_play_sound_alert">Você ouvirá os sons de animais desta região quando receber notificações</string>
+    <string name="random_play_sound_alert">"Você ouvirá os sons de animais desta região quando receber notificações"</string>
     <string name="red_billed_hornbill">Calau-de-bico-vermelho</string>
     <string name="red_billed_tropicbird">Rabo-de-palha-de-bico-vermelho</string>
     <string name="red_fox">Raposa-vermelha</string>
@@ -649,7 +649,7 @@ não são geradas no Segundo espaço"</string>
     <string name="steady_on_screen_setting">Limite de tempo para sessões sem interrupção</string>
     <string name="steady_on_screen_summary">Limite de tempo para sessões sem interrupção</string>
     <string name="stop_app_timer">Desativar Tempo de tela</string>
-    <string name="stop_app_timer_fail">Não foi possível desativar o Tempo de tela</string>
+    <string name="stop_app_timer_fail">"Não foi possível desativar o Tempo de tela"</string>
     <string name="stop_app_timer_success">Tempo de tela desativado com sucesso</string>
     <string name="stop_app_timer_tip">Todos os dados e permissões do Tempo de tela, incluindo configurações individuais, bem como os itens armazenados localmente e sincronizados com a nuvem, serão excluídos quando você desativar este recurso.</string>
     <string name="stop_summary">Todas as estatísticas de Tempo de tela e seus dados serão excluídos quando você desativar este recurso</string>
@@ -702,7 +702,7 @@ não são geradas no Segundo espaço"</string>
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
-    <string name="thememanager_not_found">Não foi possível abrir o app Temas. Certifique-se de que ele está instalado no seu dispositivo.</string>
+    <string name="thememanager_not_found">"Não foi possível abrir o app Temas. Certifique-se de que ele está instalado no seu dispositivo."</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
@@ -712,7 +712,7 @@ não são geradas no Segundo espaço"</string>
     <string name="time_over_today">"Não há mais tempo restante
 para hoje"</string>
     <string name="time_over_today_use">"Sessões de hoje: "</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>
     <string name="title_activity_easy_mode">Modo simples</string>
@@ -746,18 +746,18 @@ para hoje"</string>
     <string name="usage_app_desktop_widget_limit">%s restante(s)</string>
     <string name="usage_app_get_it">Entendi</string>
     <string name="usage_app_holiday_limit">Dias de folga</string>
-    <string name="usage_app_limit_alter_summary">Parece que este limite de tempo é menor do que o tempo em que você está usando este app hoje. Definir limite mesmo assim?</string>
+    <string name="usage_app_limit_alter_summary">"Parece que este limite de tempo é menor do que o tempo em que você está usando este app hoje. Definir limite mesmo assim?"</string>
     <string name="usage_app_limit_alter_title">Verifique o limite de tempo de tela</string>
     <string name="usage_app_limit_prelong">Estender tempo</string>
     <string name="usage_app_limit_reach_summay">%s restante(s)</string>
     <string name="usage_app_limit_reach_summay_new">Toque para adicionar %d min</string>
     <string name="usage_app_limit_reach_title">%s está atingindo seu limite de tela</string>
     <string name="usage_app_limit_reach_title_new" formatted="false">Tempo de tela restante para %1s: %2s</string>
-    <string name="usage_app_limit_summary">Os apps selecionados não estarão disponíveis quando o limite for atingido</string>
+    <string name="usage_app_limit_summary">"Os apps selecionados não estarão disponíveis quando o limite for atingido"</string>
     <string name="usage_app_limit_title">Limitar tempo de tela</string>
     <string name="usage_app_other_settings">Configurações adicionais</string>
-    <string name="usage_app_over_content">Você já usou este app por %s hoje.</string>
-    <string name="usage_app_over_summary">Você já atingiu seu limite. Tempo esgotado!</string>
+    <string name="usage_app_over_content">"Você já usou este app por %s hoje."</string>
+    <string name="usage_app_over_summary">"Você já atingiu seu limite. Tempo esgotado!"</string>
     <string name="usage_app_set_limit_time">Definir limite</string>
     <string name="usage_app_stop_desc">Todos os dados e permissões de tempo de uso, incluindo configurações individuais, bem como os itens relacionados armazenados localmente, serão excluídos depois que você desativar este recurso.</string>
     <string name="usage_app_system_app_summary">Não é possível limitar o tempo de tela para apps do sistema</string>
@@ -778,23 +778,23 @@ Os dados coletados serão armazenados apenas localmente neste dispositivo.
     <string name="usage_device_limit_app_prolong_time1">Adicionar 20 minutos</string>
     <string name="usage_device_limit_app_prolong_time2">Adicionar 40 minutos</string>
     <string name="usage_device_limit_app_prolong_time3">Adicionar 60 minutos</string>
-    <string name="usage_device_limit_app_prolong_time4">Não limitar hoje</string>
+    <string name="usage_device_limit_app_prolong_time4">"Não limitar hoje"</string>
     <string name="usage_device_limit_app_prolong_time5">Adicionar tempo uma vez</string>
     <string name="usage_device_limit_forbidden_period">O uso é restrito entre %1$s e %2$s</string>
-    <string name="usage_device_limit_notifation_summary_start">Você atingirá seu limite em %1$s</string>
+    <string name="usage_device_limit_notifation_summary_start">"Você atingirá seu limite em %1$s"</string>
     <string name="usage_device_limit_notifation_title">Tempo restante hoje</string>
     <string name="usage_device_limit_start_forbidden_period">O uso será restrito entre %1$s e %2$s (%3$s restantes)</string>
-    <string name="usage_device_limit_time_over">Você atingiu o limite de hoje (%1$s)</string>
+    <string name="usage_device_limit_time_over">"Você atingiu o limite de hoje (%1$s)"</string>
     <string name="usage_exit">Sair</string>
     <string name="usage_focus_focus_premission_main_summary">Este app precisa acessar suas informações de conta para gravar suas estatísticas de uso do Modo foco.</string>
-    <string name="usage_focus_focus_premission_second_summary">Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, as suas funcionalidades básicas ainda estarão disponíveis para você. Você sempre poderá restringir permissões ou revogar sua autorização nas Configurações.</string>
+    <string name="usage_focus_focus_premission_second_summary">"Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, as suas funcionalidades básicas ainda estarão disponíveis para você. Você sempre poderá restringir permissões ou revogar sua autorização nas Configurações."</string>
     <string name="usage_focus_new_summary">Torne-se mais atento e focado</string>
     <string name="usage_focus_save_success">Salvo na Galeria com sucesso</string>
     <string name="usage_focus_summary_level1">Dedicar alguns minutos para permanecer focado é fácil.</string>
     <string name="usage_focus_summary_level2">O foco pode se tornar uma rotina gratificante.</string>
     <string name="usage_focus_summary_level3">Fique calmo, evite perturbações.</string>
     <string name="usage_focus_summary_level4">Manter-se focado irá ajudar você a descobrir uma versão melhor de si mesmo.</string>
-    <string name="usage_focus_summary_level5">Você percorreu um longo caminho. Não se esqueça de seguir em frente.</string>
+    <string name="usage_focus_summary_level5">"Você percorreu um longo caminho. Não se esqueça de seguir em frente."</string>
     <string name="usage_focus_title_level1">Comece com pouco</string>
     <string name="usage_focus_title_level2">Construa seus hábitos</string>
     <string name="usage_focus_title_level3">Erga-se acima do banal</string>
@@ -812,8 +812,8 @@ Este app também precisa de uma conexão com a internet e requer as seguintes pe
 Para funcionar normalmente, este app precisa coletar informações de tempo de tela: o número de vezes que você desbloqueia seu dispositivo, nomes de apps, e duração do uso de apps são necessários para gerar estatísticas de tempo de tela.
 Este app também precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:"</string>
     <string name="usage_home_premission_second_summary">Para funcionar normalmente, este app precisa coletar suas informações pessoais. Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Caso não concorde em conceder tais permissões ou compartilhar e fazer o upload das suas informações pessoais, você não poderá usar este app. Você pode revogar sua autorização em Tempo de tela > Configurações > Desativar Tempo de tela.</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Antes de usar este app, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>.&lt;/Data>"</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Caso não concorde em conceder tais permissões ou compartilhar e fazer o upload das suas informações pessoais, você não poderá usar este app. Você pode revogar sua autorização em Tempo de tela > Configurações > Desativar Tempo de tela."</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Antes de usar este app, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>."</Data></string>
     <string name="usage_home_premission_second_summary_new">Nós protegeremos suas informações pessoais de acordo com leis, regulamentos e políticas de privacidade relevantes. Se você não concorda em conceder tais permissões ou compartilhar e fazer o upload de suas informações pessoais, você não poderá usar este app. Você pode revogar sua autorização em Tempo de tela > Configurações > Desativar Tempo de tela. Caso tenha outras dúvidas sobre privacidade, você pode entrar em contato conosco em privacy@xiaomi.com.</string>
     <string name="usage_new_category_limit_summary">Definir limites de uso diário para todos os apps desta categoria</string>
     <string name="usage_new_category_limit_title">Restringir o uso para esta categoria</string>
@@ -838,7 +838,7 @@ Este app também precisa de uma conexão com a internet e requer as seguintes pe
     <string name="usage_new_home_name">Nome</string>
     <string name="usage_new_home_show_more_data_summary">É possível limitar o tempo de tela para apps individuais</string>
     <string name="usage_new_home_show_more_data_title">Ver mais estatísticas</string>
-    <string name="usage_new_home_sys_no_limit_summary">Não é possível limitar o tempo de tela para apps do sistema</string>
+    <string name="usage_new_home_sys_no_limit_summary">"Não é possível limitar o tempo de tela para apps do sistema"</string>
     <string name="usage_new_home_unlock_equals_text">Mesmo de ontem</string>
     <string name="usage_new_home_unused">Sem uso</string>
     <string name="usage_new_home_update">Alterar</string>
@@ -861,19 +861,19 @@ Este app também precisa de uma conexão com a internet e requer as seguintes pe
     <string name="usage_optional_title">Permissões opcionais</string>
     <string name="usage_permisison_agree_desc_o">Para fornecer as estatísticas de Tempo de tela para você, este app precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista dos seus apps juntamente com a duração do seu uso.</string>
     <string name="usage_permisison_agree_desc_p">Para fornecer estatísticas de Tempo de tela e do Modo foco para você, este app precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista de apps juntamente com a duração do seu uso, o número de vezes que a sua tela é ligada, e as configurações do Modo foco.</string>
-    <string name="usage_permission_double_link" formatted="false">"&lt;Data>Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>.&lt;/Data>"</string>
+    <string name="usage_permission_double_link" formatted="false"><Data>"Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>."</Data></string>
     <string name="usage_permission_main_desc">"Bem-vindo ao Tempo de tela!
 Este app precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:"</string>
     <string name="usage_permission_title">Atenção!</string>
-    <string name="usage_reach_device_limit">Tempo esgotado! Você atingiu seu limite.</string>
-    <string name="usage_reach_device_limit_warning_text">Você atingiu seu limite de tempo de tela para hoje</string>
+    <string name="usage_reach_device_limit">"Tempo esgotado! Você atingiu seu limite."</string>
+    <string name="usage_reach_device_limit_warning_text">"Você atingiu seu limite de tempo de tela para hoje"</string>
     <string name="usage_refresh">Tentar novamente</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
     <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">Ocorreu um erro desconhecido</string>
     <string name="usage_request_timeout_summary">Pedido expirado</string>
     <string name="usage_runtime_per_des_summary">Para salvar suas estatísticas de Tempo de tela</string>
-    <string name="usage_runtime_per_des_title">Adicionar e excluir arquivos no armazenamento interno do dispositivo</string>
+    <string name="usage_runtime_per_des_title">"Adicionar e excluir arquivos no armazenamento interno do dispositivo"</string>
     <string name="usage_runtime_summary">Estas permissões são exigidas para que os serviços e recursos básicos do app fiquem disponíveis.</string>
     <string name="usage_runtime_title">Permissões obrigatórias</string>
     <string name="usage_special_feature">Recursos especiais</string>
@@ -908,17 +908,17 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usage_state_focus_call">Chamada de emergência</string>
     <string name="usage_state_focus_level1">Estrela em ascensão</string>
     <string name="usage_state_focus_level_summary">Nível atual: %s</string>
-    <string name="usage_state_focus_mode_experience_warning_message">O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
-    <string name="usage_state_focus_mode_experience_warning_message_pad">O Modo foco só permite que você use a Câmera. Você não poderá desativar o Modo foco antecipadamente.</string>
-    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
+    <string name="usage_state_focus_mode_experience_warning_message">"O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente."</string>
+    <string name="usage_state_focus_mode_experience_warning_message_pad">"O Modo foco só permite que você use a Câmera. Você não poderá desativar o Modo foco antecipadamente."</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente."</string>
     <string name="usage_state_focus_mode_summary">Restringir todos os recursos exceto chamadas de emergência e Câmera</string>
     <string name="usage_state_focus_mode_summary1">Um bom começo já é a metade do progresso</string>
     <string name="usage_state_focus_mode_summary2">Permaneça focado</string>
     <string name="usage_state_focus_mode_summary3">É preciso esforço para ficar concentrado</string>
     <string name="usage_state_focus_mode_title">Modo foco</string>
-    <string name="usage_state_focus_mode_warning_message">O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
-    <string name="usage_state_focus_mode_warning_message_pad">O Modo foco só permite que você use a Câmera. Você não poderá desativar o Modo foco antecipadamente.</string>
-    <string name="usage_state_focus_mode_warning_message_sim_pad">O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
+    <string name="usage_state_focus_mode_warning_message">"O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente."</string>
+    <string name="usage_state_focus_mode_warning_message_pad">"O Modo foco só permite que você use a Câmera. Você não poderá desativar o Modo foco antecipadamente."</string>
+    <string name="usage_state_focus_mode_warning_message_sim_pad">"O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente."</string>
     <string name="usage_state_focus_mode_warning_title">Atenção!</string>
     <string name="usage_state_focus_success">Desafio concluído</string>
     <string name="usage_state_focus_take_photo">Câmera</string>
@@ -946,7 +946,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usage_state_rest_day">Finais de semana</string>
     <string name="usage_state_running_days">Sequência (dias)</string>
     <string name="usage_state_saturday">Sáb</string>
-    <string name="usage_state_set_invalid_time_toast">Não é possível definir limites de tempo menores que 1 minuto</string>
+    <string name="usage_state_set_invalid_time_toast">"Não é possível definir limites de tempo menores que 1 minuto"</string>
     <string name="usage_state_share">Compartilhar</string>
     <string name="usage_state_show_app">"Apps"</string>
     <string name="usage_state_show_category">Categorias</string>
@@ -961,7 +961,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usage_state_tuesday">Ter</string>
     <string name="usage_state_turn_on">Ativar</string>
     <string name="usage_state_unlock_mourth_day">Desbloqueado em %s</string>
-    <string name="usage_state_unusage">Não usado hoje</string>
+    <string name="usage_state_unusage">"Não usado hoje"</string>
     <string name="usage_state_usage_time">Tempo de tela</string>
     <string name="usage_state_usage_time_remind">Alerta de tempo de tela</string>
     <string name="usage_state_usage_time_weekday_title">Dias úteis</string>
@@ -1015,10 +1015,10 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usagestats_app_category_miui_undefined">Outros</string>
     <string name="usagestats_app_category_miui_video_etc">Música e vídeo</string>
     <string name="usagestats_device_notification_des">Limite de tempo de tela hoje: %s</string>
-    <string name="usagestats_device_notification_des_over">Você já atingiu o seu limite de tempo de tela para hoje.</string>
-    <string name="usagestats_device_notification_des_reset">Limite de hoje: %1$s | %2$s restante</string>
+    <string name="usagestats_device_notification_des_over">"Você já atingiu o seu limite de tempo de tela para hoje."</string>
+    <string name="usagestats_device_notification_des_reset">"Limite de hoje: %1$s | %2$s restante"</string>
     <string name="usagestats_device_notification_title">Alerta de tempo de tela</string>
-    <string name="usagestats_device_timeout_des">Você já usou o seu dispositivo por %1$d h e %2$d min hoje. Descanse um pouco!</string>
+    <string name="usagestats_device_timeout_des">"Você já usou o seu dispositivo por %1$d h e %2$d min hoje. Descanse um pouco!"</string>
     <string name="usagestats_device_timeout_negative">Lembrar em 1 hora</string>
     <string name="usagestats_device_timeout_positive">Entendido</string>
     <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>

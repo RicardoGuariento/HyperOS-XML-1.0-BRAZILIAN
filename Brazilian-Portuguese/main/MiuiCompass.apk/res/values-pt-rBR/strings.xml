@@ -36,19 +36,19 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Altitude</string>
     <string name="altitude_uncalibrate_cancel">Cancelar</string>
-    <string name="altitude_uncalibrate_msg">Não é possível calibrar a altitude com precisão sem o GPS ou uma conexão de dados móveis.</string>
+    <string name="altitude_uncalibrate_msg">"Não é possível calibrar a altitude com precisão sem o GPS ou uma conexão de dados móveis."</string>
     <string name="altitude_uncalibrate_refresh">Tentar novamente</string>
     <string name="altitude_uncalibrate_tip">Dados não calibrados</string>
     <string name="altitude_unit">m</string>
     <string name="am">"AM"</string>
     <string name="angle">%.0f</string>
-    <string name="app_description_content">A Bússola é um app do sistema. Você não poderá usá-la para verificar direções, coordenadas, pressão atmosférica, e a altitude atual após desinstalá-la.</string>
+    <string name="app_description_content">"A Bússola é um app do sistema. Você não poderá usá-la para verificar direções, coordenadas, pressão atmosférica, e a altitude atual após desinstalá-la."</string>
     <string name="app_description_title">Desinstalar a Bússola?</string>
     <string name="app_label">Bússola</string>
     <string name="app_name">Bússola</string>
     <string name="calibrate_failed">Não foi possível calibrar a altitude</string>
-    <string name="calibrate_failed_no_location">Não foi possível calibrar. Ocorreu um erro de localização.</string>
-    <string name="calibrate_failed_timeout">Não foi possível calibrar. Ocorreu um erro no servidor.</string>
+    <string name="calibrate_failed_no_location">"Não foi possível calibrar. Ocorreu um erro de localização."</string>
+    <string name="calibrate_failed_timeout">"Não foi possível calibrar. Ocorreu um erro no servidor."</string>
     <string name="calibrate_new_tip">Incline o dispositivo para deslizar a bola ao redor do círculo</string>
     <string name="calibrate_rotate_again">Tentar novamente</string>
     <string name="calibrate_rotate_more_again">Interferência magnética detectada. Vá para uma área aberta antes de calibrar.</string>
@@ -69,7 +69,7 @@
     <string name="dialog_body_no_network">Conecte-se ao Wi-Fi ou ative os dados móveis.</string>
     <string name="dialog_body_no_network_china">Conecte-se ao Wi-Fi ou ative os dados móveis.</string>
     <string name="dialog_calibrat_altitude">Calibrando…</string>
-    <string name="dialog_title_no_network">Não foi possível conectar-se à rede</string>
+    <string name="dialog_title_no_network">"Não foi possível conectar-se à rede"</string>
     <string name="direction_east">"L"</string>
     <string name="direction_north">"N"</string>
     <string name="direction_north_east">"NE"</string>
@@ -78,7 +78,7 @@
     <string name="direction_south_east">"SE"</string>
     <string name="direction_south_west">"SO"</string>
     <string name="direction_west">"O"</string>
-    <string name="do_not_show_next_time">Não mostrar novamente</string>
+    <string name="do_not_show_next_time">"Não mostrar novamente"</string>
     <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -86,7 +86,7 @@
     <string name="error_camera_unavailable_title">Câmera indisponível</string>
     <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
-    <string name="first_using_dialog_message">A Bússola precisa usar a conexão de rede de seu dispositivo, câmera e serviços de localização para funcionar normalmente.</string>
+    <string name="first_using_dialog_message">"A Bússola precisa usar a conexão de rede de seu dispositivo, câmera e serviços de localização para funcionar normalmente."</string>
     <string name="first_using_dialog_message_no_camera">A Bússola precisa se conectar à internet e acessar as informações de localização para funcionar normalmente. Aceitar?</string>
     <string name="first_using_dialog_title">Permissão de acesso</string>
     <string name="fmt_date_day">dd</string>
@@ -134,7 +134,7 @@
     <string name="invisible_mode_dialog_message">"Não é possível usar a câmera agora. Desative o Modo anônimo nas Configurações para pode usar a câmera."</string>
     <string name="invisible_mode_dialog_negative">Cancelar</string>
     <string name="invisible_mode_dialog_positive">Configurações</string>
-    <string name="invisible_mode_dialog_title">"Modo anônimo ativado"</string>
+    <string name="invisible_mode_dialog_title">"Você está anônimo"</string>
     <string name="keywords_search_compass">Bússola;Calibrar bússola;Pressão;Altitude;Latitude;Longitude;Verificar longitude;Verificar latitude;HyperOS Bússola;App Bússola;App HyperOS Bússola;Onde está a Bússola;Baixe a Bússola;Pressão atmosférica;Verifique a altitude;Qual é a altitude</string>
     <string name="latitude">"LAT"</string>
     <string name="live_action">Visualização ao vivo</string>
@@ -175,10 +175,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="mobiledata_alert_dialog_message">Conectar-se à internet para calibrar a altitude?</string>
     <string name="mobiledata_alert_dialog_title">Aviso sobre o uso de dados</string>
     <string name="monday">Segunda</string>
@@ -223,7 +223,7 @@
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="network_dialog_message">A Bússola precisa conectar-se à internet para acessar dados de altitude mais precisos. Permitir?</string>
-    <string name="network_dialog_negative">Não permitir</string>
+    <string name="network_dialog_negative">"Não permitir"</string>
     <string name="network_dialog_positive">Permitir</string>
     <string name="network_dialog_title">Permissões necessárias</string>
     <string name="new_cta_app_purpose">Ver direções e coordenadas</string>
@@ -253,7 +253,7 @@
     <string name="pressure_format">%.1fhPa</string>
     <string name="pressure_title">Pressão</string>
     <string name="pressure_unit">"hPa"</string>
-    <string name="remove_icon_description_content">Bússola é um app do sistema. Você não poderá usá-la para verificar a direção, coordenadas, pressão atmosférica e altitude atual após remover o atalho da Tela inicial.</string>
+    <string name="remove_icon_description_content">"Bússola é um app do sistema. Você não poderá usá-la para verificar a direção, coordenadas, pressão atmosférica e altitude atual após remover o atalho da Tela inicial."</string>
     <string name="remove_icon_description_title">Remover a \"Bússola\" da Tela inicial?</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -331,9 +331,9 @@
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="time_picker_label_hour">"H"</string>
+    <string name="time_picker_label_minute">"M"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>

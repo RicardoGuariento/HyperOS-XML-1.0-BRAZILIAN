@@ -46,8 +46,8 @@
         <item quantity="one">Feito check-in em %1$s dia em seguida</item>
     </plurals>
     <plurals name="clockin_new_chip">
-        <item quantity="other">Você conseguiu &lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; pontos</item>
-        <item quantity="one">Você conseguiu &lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; ponto</item>
+        <item quantity="other">Você conseguiu &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> pontos</item>
+        <item quantity="one">Você conseguiu &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> ponto</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d dias atrás</item>
@@ -165,8 +165,8 @@
         <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Colete &lt;font color=#"fc7050">&lt;b>%d&lt;/b>&lt;/font> joias para participar do sorteio.</item>
-        <item quantity="one">Colete &lt;font color=#"fc7050">&lt;b>%d&lt;/b>&lt;/font> joia para participar do sorteio.</item>
+        <item quantity="other">Colete &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> joias para participar do sorteio.</item>
+        <item quantity="one">Colete &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> joia para participar do sorteio.</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novas notificações</item>
@@ -201,20 +201,20 @@
         <item quantity="one">%1$s comentário</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">" • &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; dias"</item>
-        <item quantity="one">" • &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; dia"</item>
+        <item quantity="other">" • &lt;font color=#fc7050>%1$d&lt;/font> dias"</item>
+        <item quantity="one">" • &lt;font color=#fc7050>%1$d&lt;/font> dia"</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">" • Você tem &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidores!"</item>
-        <item quantity="one">" • Você tem &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidor!"</item>
+        <item quantity="other">" • Você tem &lt;font color=#fc7050>%1$s&lt;/font> seguidores!"</item>
+        <item quantity="one">" • Você tem &lt;font color=#fc7050>%1$s&lt;/font> seguidor!"</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">" • Você fez upload de &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeos. "</item>
-        <item quantity="one">" • Você fez upload de &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeo. "</item>
+        <item quantity="other">" • Você fez upload de &lt;font color=#fc7050>%1$s&lt;/font> vídeos. "</item>
+        <item quantity="one">" • Você fez upload de &lt;font color=#fc7050>%1$s&lt;/font> vídeo. "</item>
     </plurals>
     <plurals name="original_user_play_2">
-        <item quantity="other">Você fez &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; pessoas felizes!</item>
-        <item quantity="one">Você fez &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; pessoa feliz!</item>
+        <item quantity="other">Você fez &lt;font color=#fc7050>%1$s&lt;/font> pessoas felizes!</item>
+        <item quantity="one">Você fez &lt;font color=#fc7050>%1$s&lt;/font> pessoa feliz!</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">Encontrados %1$s vídeos novos</item>

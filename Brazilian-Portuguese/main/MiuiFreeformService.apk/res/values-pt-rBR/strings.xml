@@ -233,6 +233,8 @@ depois arraste para mover"</string>
     <string name="how_to_open_freeform">Abrindo notificações em uma janela flutuante</string>
     <string name="how_to_slide_up_to_close">Fechar a janela flutuante</string>
     <string name="how_to_slide_up_to_close_summary">Deslize para cima a partir da barra de ação de uma janela flutuante</string>
+    <string name="how_to_split_screen_combination">Combinação de Tela dividida</string>
+    <string name="how_to_split_screen_combination_summary_pad">Crie atalhos para combinações de Tela dividida usando os apps da dock</string>
     <string name="how_to_use_freeform">Como usar as janelas flutuantes</string>
     <string name="midnight">"AM"</string>
     <string name="miui_bubbles_notification">Conversas em bolhas</string>
@@ -263,10 +265,10 @@ depois arraste para mover"</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Isso é tudo por enquanto"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -402,7 +404,7 @@ depois arraste para mover"</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>
     <string name="today">Hoje</string>

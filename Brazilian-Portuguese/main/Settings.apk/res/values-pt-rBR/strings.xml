@@ -3759,7 +3759,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_clock_open_message">O Relógio duplo será exibido na Tela de bloqueio, Tela inicial.</string>
     <string name="dual_setting_simcard1">"SIM 1"</string>
     <string name="dual_setting_simcard2">"SIM 2"</string>
-    <string name="dual_wifi">Acelerar velocidade com Wi-Fi Dual Band</string>
+    <string name="dual_wifi">Acelerar velocidade com Wi-Fi dual band</string>
     <string name="dual_wifi_acceleration">Acelerando velocidade</string>
     <string name="dual_wifi_auto_disable">Parar aceleração de velocidade automaticamente</string>
     <string name="dual_wifi_auto_disable_summary">Desconecta da rede Wi-Fi auxiliar quando a tela for desligada para economizar energia</string>
@@ -3774,7 +3774,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_wifi_summary">Aumenta a velocidade do Wi-Fi conectando-se a uma rede auxiliar</string>
     <string name="dual_wifi_switching_not_remind">Não mostrar novamente</string>
     <string name="dual_wifi_switching_prompt">Alternando entre redes</string>
-    <string name="dual_wifi_switching_summary">A Aceleração de velocidade com Wi-Fi Dual band precisa usar duas bandas de Wi-Fi diferentes (2.5GHz e 5GHz). Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
+    <string name="dual_wifi_switching_summary">A Aceleração de rede com Wi-Fi dual band precisa usar duas bandas de Wi-Fi diferentes (2.5GHz e 5GHz). Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
     <string name="dump_log">Obter logs relacionados com o problema</string>
     <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log %s na versão Beta do sistema. Use-o com cautela.
 Você pode ver os logs gerados no app Arquivos."</string>
@@ -6720,7 +6720,7 @@ Alternar para %1$s não cancelará o serviço da operadora %2$s."</string>
     <string name="mobile_network_tap_to_activate">Toque para ativar a %1$s</string>
     <string name="mobile_network_use_sim_off">Desativado</string>
     <string name="mobile_network_use_sim_on">Use o SIM</string>
-    <string name="mobile_no_provisioning_url">%1$s não tem um website de aprovisionamento conhecido</string>
+    <string name="mobile_no_provisioning_url">%1$s não tem um site de aprovisionamento conhecido</string>
     <string name="mobile_unknown_sim_operator">Operadora do SIM desconhecida</string>
     <string name="mock_location_app">Selecionar app de local fictício</string>
     <string name="mock_location_app_not_set">Nenhum app de local fictício definido</string>
@@ -9891,7 +9891,7 @@ Retirar o consentimento para %s agora?"</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Um erro do servidor ocorreu. Espere um minuto ou dois e tente novamente.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">"Não podia retirar o consentimento"</string>
     <string name="sound_assist_key_summary">Ajuste o som de apps individuais enquanto vários apps reproduzem áudio simultaneamente</string>
-    <string name="sound_assist_key_title">Ajuste o som da mídia em vários apps</string>
+    <string name="sound_assist_key_title">Ajustar som de mídia em vários apps</string>
     <string name="sound_assist_summary">Personalize suas configurações de som</string>
     <string name="sound_assist_title">Assistente de som</string>
     <string name="sound_category_call_ringtone_vibrate_title">Sons de toque e notificações</string>
@@ -9963,7 +9963,7 @@ Para obter mais informações sobre este certificado, entre em contato com seu a
 Para obter mais informações sobre esses certificados, entre em contato com seu administrador.} }"</string>
     <string name="ssl_ca_cert_settings_button">{count, plural, =1 {Verificar certificado} other {Verificar certificados} }</string>
     <string name="ssl_ca_cert_warning">A rede pode ser monitorada</string>
-    <string name="ssl_ca_cert_warning_message">"Sua atividade na rede, incluindo e-mails, apps e websites seguros, pode ser monitorada por terceiros.
+    <string name="ssl_ca_cert_warning_message">"Sua atividade na rede, incluindo e-mails, apps e sites seguros, pode ser monitorada por terceiros.
 
 Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="stable_build">Estável</string>
@@ -11740,7 +11740,7 @@ Veja a política de privacidade da sua operadora para obter detalhes."</string>
     <string name="wifi_ap_choose_6G">"6 GHz"</string>
     <string name="wifi_ap_choose_auto">Automático</string>
     <string name="wifi_ap_choose_dual">Ambos</string>
-    <string name="wifi_ap_choose_vendor_dual_band">"Dual Band"</string>
+    <string name="wifi_ap_choose_vendor_dual_band">"Dual band"</string>
     <string name="wifi_ap_hidden_ssid">Ocultar o SSID</string>
     <string name="wifi_ap_prefer_5G">Banda 5 GHz preferencial</string>
     <string name="wifi_ap_prefer_6G">Banda 6.0 GHz preferencial</string>
@@ -12124,7 +12124,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_protection_tip">A Xiaomi protegerá seus dados pessoais de pedidos de sondagem por Wi-Fi provenientes de endereços MAC aleatórios e sniffers de sondagem Wi-Fi quando seu dispositivo estiver pesquisando por redes Wi-Fi.</string>
     <string name="wifi_quick_toggle_summary">Ativar Wi-Fi</string>
     <string name="wifi_quick_toggle_title">"Wi-Fi"</string>
-    <string name="wifi_region_summary">Requer que o Wi-Fi seja reiniciado para entrar em vigor.</string>
+    <string name="wifi_region_summary">Requer que o Wi-Fi seja reiniciado para entrar em vigor</string>
     <string name="wifi_region_title">Região do Wi-Fi</string>
     <string name="wifi_remembered">Salva</string>
     <string name="wifi_remembered_disabled_auto_connect">Salvo. Não conectará automaticamente.</string>

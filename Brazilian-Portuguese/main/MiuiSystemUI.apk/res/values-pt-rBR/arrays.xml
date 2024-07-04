@@ -34,7 +34,7 @@
     <string-array name="battery_options">
         <item>Sempre mostrar porcentagem</item>
         <item>Mostrar porcentagem ao carregar (padrão)</item>
-        <item>Não mostrar esse ícone</item>
+        <item>"Não mostrar esse ícone"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -133,7 +133,7 @@
     <string-array name="clock_options">
         <item>Mostrar horas, minutos e segundos</item>
         <item>Mostrar horas e minutos (padrão)</item>
-        <item>Não mostrar este ícone</item>
+        <item>"Não mostrar este ícone"</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Cores aprimoradas</item>
@@ -290,6 +290,11 @@
         <item>Desativado</item>
         <item>Ativado</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Indisponível</item>
+        <item>Desativado</item>
+        <item>Ativado</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>Indisponível</item>
         <item>Desativado</item>
@@ -305,7 +310,17 @@
         <item>Desativado</item>
         <item>Ativado</item>
     </string-array>
+    <string-array name="tile_states_dream">
+        <item>Indisponível</item>
+        <item>Desativado</item>
+        <item>Ativado</item>
+    </string-array>
     <string-array name="tile_states_flashlight">
+        <item>Indisponível</item>
+        <item>Desativado</item>
+        <item>Ativado</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
         <item>Indisponível</item>
         <item>Desativado</item>
         <item>Ativado</item>
@@ -336,6 +351,16 @@
         <item>Ativado</item>
     </string-array>
     <string-array name="tile_states_night">
+        <item>Indisponível</item>
+        <item>Desativado</item>
+        <item>Ativado</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Indisponível</item>
+        <item>Desativado</item>
+        <item>Ativado</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
         <item>Indisponível</item>
         <item>Desativado</item>
         <item>Ativado</item>
@@ -379,6 +404,12 @@
         <item>Indisponível</item>
         <item>Desativado</item>
         <item>Ativado</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mover para a esquerda</item>
+        <item>Mover para baixo</item>
+        <item>Mover para a direita</item>
+        <item>Mover para cima</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desativado</item>
@@ -442,7 +473,7 @@
         <item>Evitando temporariamente uma conexão ruim</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
-        <item/>
+        <item></item>
         <item>Procurando…</item>
         <item>Conectando…</item>
         <item>Autenticando…</item>
