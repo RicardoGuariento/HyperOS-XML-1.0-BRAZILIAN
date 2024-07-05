@@ -64,6 +64,62 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="pcl_add_account_ignore_with_seconds">
+        <item quantity="other">Agora não (%d s)</item>
+        <item quantity="one">Agora não (%d s)</item>
+    </plurals>
+    <plurals name="pcl_install_check_count_down">
+        <item quantity="other">Contagem regressiva: %d segs</item>
+        <item quantity="one">Contagem regressiva: %d seg</item>
+    </plurals>
+    <plurals name="pcl_mixed_recording_incorrect_too_short">
+        <item quantity="other">Insira pelo menos %d caracteres</item>
+        <item quantity="one">Insira pelo menos %d caractere</item>
+    </plurals>
+    <plurals name="pcl_number_locked">
+        <item quantity="other">%d apps bloqueados</item>
+        <item quantity="one">%d app bloqueado</item>
+    </plurals>
+    <plurals name="pcl_number_to_lock">
+        <item quantity="other">%d apps não bloqueados</item>
+        <item quantity="one">%d app não bloqueado</item>
+    </plurals>
+    <plurals name="pcl_numeric_recording_incorrect_too_short">
+        <item quantity="other">Insira pelo menos %d dígitos</item>
+        <item quantity="one">Insira pelo menos %d dígito</item>
+    </plurals>
+    <plurals name="pcl_passport_re_get_verify_code_with_seconds">
+        <item quantity="other">Reenviar (%d s)</item>
+        <item quantity="one">Reenviar (%d s)</item>
+    </plurals>
+    <plurals name="pcl_privacy_policy_revoke_button_with_seconds">
+        <item quantity="other">Retirar (%d s)</item>
+        <item quantity="one">Retirar (%d s)</item>
+    </plurals>
+    <plurals name="pcl_recording_incorrect_too_short">
+        <item quantity="other">Conecte pelo menos %d pontos</item>
+        <item quantity="one">Conecte pelo menos %d ponto</item>
+    </plurals>
+    <plurals name="pcl_recording_intro_header_new">
+        <item quantity="other">Conecte pelo menos %s pontos</item>
+        <item quantity="one">Conecte pelo menos %s ponto</item>
+    </plurals>
+    <plurals name="pcl_set_unlock_pin_summary_new">
+        <item quantity="other">Insira %s dígitos</item>
+        <item quantity="one">Insira %s dígito</item>
+    </plurals>
+    <plurals name="pcl_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Aguarde %d segundos e tente novamente.</item>
+        <item quantity="one">Aguarde %d segundo e tente novamente.</item>
+    </plurals>
+    <plurals name="pcl_unbind_email_confirm_with_seconds">
+        <item quantity="other">Excluir (%d s)</item>
+        <item quantity="one">Excluir (%d s)</item>
+    </plurals>
+    <plurals name="pcl_unlock_pattern_summary_new">
+        <item quantity="other">Conecte pelo menos %s pontos</item>
+        <item quantity="one">Conecte pelo menos %s ponto</item>
+    </plurals>
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">"Você usou seu dispositivo por %d minutos sem interrupções"</item>
         <item quantity="one">"Você usou seu dispositivo por %d minuto sem interrupções"</item>

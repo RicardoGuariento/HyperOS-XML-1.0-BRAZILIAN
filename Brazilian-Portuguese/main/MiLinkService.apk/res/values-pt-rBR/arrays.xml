@@ -41,7 +41,17 @@
     <string-array name="settings_search_relay_network">
         <item>Assistência de rede</item>
         <item>Interconectividade/Sincronização de chamadas</item>
-        <item>Assistência de rede, tethering, compartilhamento de hotspot</item>
+        <item>Assistência de rede, tethering, compartilhamento de hotspot, tethering sem fio</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Tethering sem fio</item>
+        <item>Interconectividade/Tethering sem fio</item>
+        <item>Assistência de rede, tethering, compartilhamento de hotspot, tethering sem fio</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Sincronização de rede</item>
+        <item>Interconectividade/Sincronização de rede</item>
+        <item>Assistência de rede, tethering, compartilhamento de hotspot, sincronização de rede</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Tela inicial+</item>
