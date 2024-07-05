@@ -543,7 +543,7 @@ não são geradas no Segundo espaço"</string>
     <string name="pcl_bind_email">Adicionar e-mail</string>
     <string name="pcl_bind_email_button_back">Voltar</string>
     <string name="pcl_bind_email_button_ok">"OK"</string>
-    <string name="pcl_bind_email_dialog_title">Adicionar seu e-mail</string>
+    <string name="pcl_bind_email_dialog_title">Adicione seu e-mail</string>
     <string name="pcl_bind_email_success">E-mail adicionado com sucesso</string>
     <string name="pcl_binde_email_message">"Você poderá redefinir sua senha do Controle dos pais por e-mail. Caso opte por não adicionar seu e-mail e esqueça sua senha, você só poderá redefinir sua senha após realizar uma redefinição de fábrica."</string>
     <string name="pcl_cancel">Cancelar</string>
@@ -559,7 +559,7 @@ não são geradas no Segundo espaço"</string>
     <string name="pcl_delete_input">Excluir</string>
     <string name="pcl_email_address_error_empty_vcode">Digite o endereço de e-mail</string>
     <string name="pcl_email_address_input_hint">Digite o endereço de e-mail</string>
-    <string name="pcl_forget_password"><u>Esqueceu a senha</u></string>
+    <string name="pcl_forget_password"><u>Esqueci a senha</u></string>
     <string name="pcl_forget_password_bind_email_ok">"OK"</string>
     <string name="pcl_forget_password_dialog_summary">"E-mail: "</string>
     <string name="pcl_forget_password_dialog_title">Verifique seu endereço de e-mail</string>
@@ -622,14 +622,14 @@ Retirar o consentimento agora?"</string>
     <string name="pcl_set_pwd_title">Configurar senha do Controle dos pais</string>
     <string name="pcl_settings">Configurações</string>
     <string name="pcl_settings_fun_pwd_set">Configurações de senha</string>
-    <string name="pcl_switch_control_summary">Verifique a senha para acessar apps gerenciados</string>
+    <string name="pcl_switch_control_summary">Verifique a senha para acessar os apps gerenciados</string>
     <string name="pcl_system_application">Apps do sistema</string>
     <string name="pcl_third_application">Apps instalados</string>
     <string name="pcl_too_many_failed_confirmation_attempts_header">Muitas tentativas sem sucesso</string>
     <string name="pcl_unbind_email">Remover e-mail</string>
     <string name="pcl_unbind_email_button_back">Voltar</string>
     <string name="pcl_unbind_email_confirm">Remover</string>
-    <string name="pcl_unbind_email_message">"Se remover seu e-mail agora e esquecer sua senha, você só poderá redefinir a senha após realizar uma redefinição de fábrica."</string>
+    <string name="pcl_unbind_email_message">"Se remover seu e-mail agora e esquecer sua senha, você só poderá redefinir sua senha após realizar uma redefinição de fábrica."</string>
     <string name="pcl_unlock_password_summary">Combine diferentes caracteres</string>
     <string name="pcl_unlock_password_title">Senha</string>
     <string name="pcl_unlock_pattern_title">Padrão</string>

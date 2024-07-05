@@ -1516,9 +1516,9 @@ para ^2"</string>
     <string name="bind_xiaomi_account_dialog_summery">Você está prestes a adicionar a Conta Mi %s. Caso você esqueça sua senha, você poderá usar esta conta para redefiní-la.</string>
     <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
     <string name="biometric_settings_add_biometrics_in_split_mode_ok">"OK"</string>
-    <string name="biometric_settings_add_face_in_split_mode_message">Saia da tela dividida para configurar o Desbloqueio facial</string>
+    <string name="biometric_settings_add_face_in_split_mode_message">Saia da Tela dividida para configurar o Desbloqueio facial</string>
     <string name="biometric_settings_add_face_in_split_mode_title">Não é possível configurar o Desbloqueio facial</string>
-    <string name="biometric_settings_add_fingerprint_in_split_mode_message">Saia da tela dividida para configurar o desbloqueio por impressão digital</string>
+    <string name="biometric_settings_add_fingerprint_in_split_mode_message">Saia da Tela dividida para configurar o desbloqueio por impressão digital</string>
     <string name="biometric_settings_add_fingerprint_in_split_mode_title">Não é possível configurar a impressão digital</string>
     <string name="biometric_settings_category_use_face_fingerprint">Use rosto ou impressão digital para</string>
     <string name="biometric_settings_category_ways_to_unlock">Maneiras de desbloquear</string>
@@ -2229,7 +2229,7 @@ Você pode desativar este recurso em Configurações > Bluetooth > Dispositivos 
     <string name="bt_aac_pre_title">"AAC"</string>
     <string name="bt_absVolume_open_dialog_summary">Devido a problemas de compatibilidade, alguns dispositivos Bluetooth podem ter um nível de volume anormal, o que pode ser solucionado ao desativar este recurso.</string>
     <string name="bt_absVolume_open_dialog_title">Atenção!</string>
-    <string name="bt_absVolume_pre_title">Mantenha o volume consistente</string>
+    <string name="bt_absVolume_pre_title">Manter o volume consistente</string>
     <string name="bt_absVolume_summary">Mantém o volume dos dispositivos Bluetooth e do telefone estritamente consistente. Você pode ativar e desativar este recurso quando a mídia não estiver tocando em 2º plano.</string>
     <string name="bt_always_show_icon">Sempre mostrar o ícone da barra de status</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">O aptX Adaptive fornecerá reprodução de alta qualidade e diminuirá a latência de áudio para jogos e vídeos, aumentando o consumo de energia. A reprodução pode ser interrompida devido a limitações de hardware Bluetooth e interferência ambiental.</string>
@@ -4569,8 +4569,8 @@ Esse recurso funciona apenas quando a navegação do sistema está definida para
     <string name="freeform_vedio_description">"• Pressione e segure, e então puxe para baixo uma notificação para abri-la em uma janela flutuante.
 • Toque em \"Janelas flutuantes\" nos Recentes para selecionar apps."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
-• Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">• Arraste um app da barra lateral para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida</string>
+• Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a Tela dividida."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">• Arraste um app da barra lateral para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a Tela dividida</string>
     <string name="freeform_vedio_description_pad">Arraste itens para fora do dock para abrir janelas flutuantes</string>
     <string name="frequently_fragment_delete">Remover</string>
     <string name="frequently_fragment_tempty">Itens usados frequentemente serão listados aqui</string>
@@ -4790,7 +4790,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="handle_ota_finish_fw">Atualizado com sucesso</string>
     <string name="handle_ota_update_failed">"Não foi possível atualizar"</string>
     <string name="handle_ota_update_title">Atualizações de firmware</string>
-    <string name="handle_ota_updating_firmware">Só um segundo…</string>
+    <string name="handle_ota_updating_firmware">Aguarde…</string>
     <string name="handle_ota_updating_tip">Atualizando em segundo plano…</string>
     <string name="handy_mode">Modo para uma só mão</string>
     <string name="handy_mode_enable">Modo para uma só mão</string>
@@ -5090,7 +5090,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="inputdebuglog_select_level_show">Nível %d</string>
     <string name="inputdebuglog_select_level_summary">Selecione o nível</string>
     <string name="insert_sim_card_and_try_again">Insira seu cartão SIM e tente novamente.</string>
-    <string name="install_all_warning">Seu dispositivo e seus dados pessoais estão mais vulneráveis a ataques de apps desconhecidos. Ao instalar apps dessa fonte, você concorda que é responsável por qualquer dano causado ao seu telefone ou pela perda de dados que possa resultar do uso desses apps.</string>
+    <string name="install_all_warning">Seu dispositivo e seus dados pessoais estão mais vulneráveis a ataques de apps desconhecidos. Ao instalar apps dessa fonte, você concorda que é responsável por qualquer dano causado ao seu dispositivo ou pela perda de dados que possa resultar do uso desses apps.</string>
     <string name="install_applications">Fontes desconhecidas</string>
     <string name="install_applications_title">Permitir todas as origens</string>
     <string name="install_no_market_app_summary">Permitir instalação de apps de fontes desconhecidas</string>
@@ -5217,7 +5217,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="keyboard_shortcuts_helper_summary">Exibir lista de atalhos</string>
     <string name="keyboard_skin_follow_system_enable">Mude para o Modo escuro junto com o sistema</string>
     <string name="keyguard_advance_setting_title">Configurações avançadas</string>
-    <string name="keyguard_multi_window_tip">"Não é possível mostrar esta página em tela dividida. Você pode voltar para a versão em tela cheia."</string>
+    <string name="keyguard_multi_window_tip">"Não é possível mostrar esta página em Tela dividida. Você pode voltar para a versão em tela cheia."</string>
     <string name="keyguard_notification_status_title">Quando receber uma notificação com a tela desligada</string>
     <string name="keyguard_security_setting_others">Outros</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
@@ -8125,7 +8125,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, configurações e registros de chamadas</string>
     <string name="privacy_mode_enable_title">Modo convidado</string>
     <string name="privacy_notes">Notas</string>
-    <string name="privacy_password">Senha de Proteção de Privacidade</string>
+    <string name="privacy_password">Senha de proteção de privacidade</string>
     <string name="privacy_password_add_account">Adicionar</string>
     <string name="privacy_password_add_account_info">Adicione uma Conta Mi para redefinir sua senha caso a esqueça</string>
     <string name="privacy_password_add_account_setting">Conta e privacidade</string>
@@ -8133,7 +8133,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_password_bind_account_immediate">Adicionar</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Confirmar senha do Segundo espaço</string>
     <string name="privacy_password_confirm_use_finger">Desbloquear com impressão digital</string>
-    <string name="privacy_password_enter_privacy">Digite a senha de proteção de privacidade</string>
+    <string name="privacy_password_enter_privacy">Digite a Senha de proteção de privacidade</string>
     <string name="privacy_password_exit_account_info">A conta será removida automaticamente quando você sair dela</string>
     <string name="privacy_password_fingerprint_confirm_failed">Não foi possível verificar a impressão digital</string>
     <string name="privacy_password_fingerprint_confirm_succes">Impressão digital verificada</string>
@@ -9947,7 +9947,7 @@ Retirar o consentimento para %s agora?"</string>
     <string name="spellchecker_switch_title">Ativar corretor ortográfico</string>
     <string name="spellcheckers_settings_for_work_title">Corretor ortográfico para o trabalho</string>
     <string name="spellcheckers_settings_title">Corretor ortográfico</string>
-    <string name="split_operation_guide_title">Como usar a tela dividida</string>
+    <string name="split_operation_guide_title">Como usar a Tela dividida</string>
     <string name="split_screen">Abrir Tela dividida</string>
     <string name="ssid_label">"SSID:"</string>
     <string name="ssl_ca_cert_dialog_title">{count, plural, =1 {Confiar ou remover certificado} other {Confiar ou remover certificados} }</string>
@@ -10685,8 +10685,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="theme_customization_device_default">Padrão do dispositivo</string>
     <string name="theme_settings_title">Temas</string>
     <string name="thememanager_not_found">Não foi possível abrir o Temas. Certifique-se de que o app está instalado.</string>
-    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Deslize horizontalmente na tela interna com três dedos para abrir a tela dividida</string>
-    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Deslize horizontalmente com três dedos para abrir a tela dividida</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Deslize horizontalmente na tela interna com três dedos para abrir a Tela dividida</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Deslize horizontalmente com três dedos para abrir a Tela dividida</string>
     <string name="three_gesture_down">Deslizar 3 dedos para baixo</string>
     <string name="three_gesture_horizontal">Deslize horizontalmente com %d dedos</string>
     <string name="three_gesture_long_press">Pressione e segure com %d dedos</string>
@@ -12445,7 +12445,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="wizard_back_adoptable">Formate de outra maneira</string>
     <string name="wizard_finish">Concluir</string>
     <string name="wizard_next">Próxima</string>
-    <string name="wlan_scanner_unresizeble">Não é possível mostrar as configurações do Wi-Fi no modo de tela dividida</string>
+    <string name="wlan_scanner_unresizeble">Não é possível mostrar as configurações do Wi-Fi no modo de Tela dividida</string>
     <string name="wlan_switch_tips">Alternar redes Wi-Fi</string>
     <string name="wlan_switch_tips_message">Ao alternar entre as redes Wi-Fi auxiliar e principal, seu dispositivo será temporariamente desconectado do Wi-Fi auxiliar. Alternar mesmo assim?</string>
     <string name="words_title">Texto</string>

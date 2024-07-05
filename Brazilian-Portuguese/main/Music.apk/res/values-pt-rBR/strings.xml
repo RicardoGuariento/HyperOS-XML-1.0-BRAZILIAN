@@ -104,7 +104,7 @@
 
 2 Junte-se a uma família premium, você pode participar de atividades familiares com outros membros da família e receber grandes presentes.
 
-3 famílias Premium receberão suporte oficial.Cada família tem tópicos diferentes, incluindo futebol, jogos, música e assim por diante.
+3 Famílias premium receberão suporte oficial.Cada família tem tópicos diferentes, incluindo futebol, jogos, música e assim por diante.
 
 4 Escolha a família na qual você está interessado para se juntar e brinque com eles agora!"</string>
     <string name="activity_not_found_notice">"Não é possível encontrar o app"</string>
@@ -327,7 +327,7 @@ Depois de optar por limpar permanentemente todos os dados, você será desconect
     <string name="back">Voltar</string>
     <string name="back_confirm">Toque novamente para sair</string>
     <string name="backpack_frame">Frame</string>
-    <string name="bag">Backpack</string>
+    <string name="bag">Mochila</string>
     <string name="balance_insufficient">Saldo de moedas insuficiente</string>
     <string name="balance_not_enough">Saldo insuficiente</string>
     <string name="ban_mic">MC</string>
@@ -481,9 +481,9 @@ Depois de optar por limpar permanentemente todos os dados, você será desconect
     <string name="device_connected">Conectado</string>
     <string name="device_not_connected">Não conectado</string>
     <string name="diagnosis_log_send_failed">"Não foi possível enviar logs. Tente novamente."</string>
-    <string name="diagnosis_log_sent_format">"Sent logs successfully.
-ID:%s
-Send this code to the supervisor."</string>
+    <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
+ID: %s
+Envie este código para o supervisor."</string>
     <string name="dialog_cannot_resume">"Download interrompido. Ele não pode ser retomado."</string>
     <string name="dialog_clear_history">Limpar a lista de músicas reproduzidas recentemente?</string>
     <string name="dialog_confirm_delete_checkbox_message">Excluir também o arquivo local</string>
@@ -992,7 +992,7 @@ Send this code to the supervisor."</string>
     <string name="low_sound_quality">Baixa</string>
     <string name="lrc_search_failed">"Não foi possível encontrar a letra da música"</string>
     <string name="lrc_searching">Procurando…</string>
-    <string name="ludo_play_time">Times %1$d</string>
+    <string name="ludo_play_time">Vezes %1$d</string>
     <string name="ludo_tab_guide">Confira nossas novas salas de música</string>
     <string name="lyric_ai_apply_fail">"Não foi possível usar. Tente novamente."</string>
     <string name="lyric_ai_button_text">Letras IA</string>
@@ -1189,7 +1189,7 @@ Send this code to the supervisor."</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
-    <string name="mtrl_picker_text_input_day_abbr">"d"</string>
+    <string name="mtrl_picker_text_input_day_abbr">"dia"</string>
     <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
     <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
@@ -1280,8 +1280,8 @@ Send this code to the supervisor."</string>
     <string name="offline_opt_in_title">"Abra o anúncio quando estiver online novamente."</string>
     <string name="ok">"OK"</string>
     <string name="one_day_vip">%d dia VIP</string>
-    <string name="one_hour_vip">%d horas VIP</string>
-    <string name="one_minute_vip">%d minutos VIP</string>
+    <string name="one_hour_vip">%d hora VIP</string>
+    <string name="one_minute_vip">%d minuto VIP</string>
     <string name="online_apk_acquired">%d%% carregado</string>
     <string name="online_apk_acquiring">Carregando… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Não foi possível baixar devido ao espaço de armazenamento ser insuficiente."</string>
@@ -1891,7 +1891,7 @@ Seja feliz"</string>
     <string name="thursday_shortest">Qui</string>
     <string name="ticket_summary">Compre ingressos para shows, concertos, peças e outros eventos.</string>
     <string name="ticket_title">Mostrar ingressos</string>
-    <string name="time_picker_dialog_title">Define a hora</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>
     <string name="time_to_upgrade">Uma atualização está disponível</string>

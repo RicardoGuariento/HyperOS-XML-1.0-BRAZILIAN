@@ -993,7 +993,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="battery_low_percent_format_save_mode_closed">Há menos de %s de bateria restante. Não se esqueça de carregar seu dispositivo.</string>
     <string name="battery_low_percent_format_save_mode_closed_new_version">Bateria está fraca. Carregue seu dispositivo agora.</string>
     <string name="battery_low_percent_format_save_mode_open">Há menos de %1$s de bateria restante. Ative a Economia de bateria para adicionar %2$s de tempo extra.</string>
-    <string name="battery_low_percent_format_save_mode_open_new_version">Ative a Economia de bateria para adicionar mais %s, de duração.</string>
+    <string name="battery_low_percent_format_save_mode_open_new_version">Ative a Economia de bateria para adicionar mais %s de duração.</string>
     <string name="battery_low_title">A bateria está acabando</string>
     <string name="battery_low_title_power_save">Economia de bateria</string>
     <string name="battery_statistics_activity_title">Estatísticas de uso da bateria</string>
@@ -3132,7 +3132,7 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="menu_show_work_profile_text">Exibir apps do Espaço de trabalho</string>
     <string name="menu_sms">Enviar mensagem</string>
     <string name="menu_summary_antispam">Bloqueie SMS e chamadas</string>
-    <string name="menu_summary_antispam_calls">Bloquear chamadas de spam</string>
+    <string name="menu_summary_antispam_calls">Bloqueie chamadas de spam</string>
     <string name="menu_summary_antivirus">Procure vírus no seu dispositivo</string>
     <string name="menu_summary_app_manager">Gerencie configurações do app</string>
     <string name="menu_summary_garbage_cleanup">Nenhum lixo encontrado</string>
@@ -4009,7 +4009,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_battery_level">%s de bateria</string>
     <string name="power_center_battery_level_general">"Normal"</string>
     <string name="power_center_battery_software">"Software %s"</string>
-    <string name="power_center_battery_status">Uso de bateria</string>
+    <string name="power_center_battery_status">Uso da bateria</string>
     <string name="power_center_battery_temperature">Temperatura</string>
     <string name="power_center_battery_used_time">Na bateria</string>
     <string name="power_center_batteryrank_all">Todo o consumo de bateria</string>
@@ -4764,7 +4764,7 @@ Retirar consentimento agora?"</string>
     <string name="reject_all">Restringir tudo</string>
     <string name="reject_countdown">Recusar (%d)</string>
     <string name="reject_usb_install">A instalação via USB dos seguintes apps foi negada</string>
-    <string name="release_meminfo">Liberado %dMB</string>
+    <string name="release_meminfo">Liberado %d MB</string>
     <string name="release_memory">Limpar cache</string>
     <string name="reminder_click_to_close_tips">Você pode ativar e desativar avisos de uso de dados em Segurança > Uso de dados > Configurações.</string>
     <string name="reminder_once_month">Uma vez por mês</string>
@@ -6517,7 +6517,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="pc_charged_auto_close_title">Desligar quando carregado</string>
     <string name="pc_current_power_mode">Modo atual</string>
     <string name="pc_have_no_battery_issue">Sem problemas</string>
-    <string name="pc_hide_more_power_rank_apps">Esconder</string>
+    <string name="pc_hide_more_power_rank_apps">Ocultar</string>
     <string name="pc_more_battery_feature">Recursos adicionais</string>
     <string name="pc_more_power_rank_apps">Mais apps</string>
     <string name="pc_night_charge_protect_summary">Ajusta a duração do carregamento automaticamente para retardar o envelhecimento da bateria</string>

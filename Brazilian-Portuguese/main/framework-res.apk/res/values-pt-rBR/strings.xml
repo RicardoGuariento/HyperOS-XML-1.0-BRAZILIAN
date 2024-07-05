@@ -177,13 +177,13 @@
 
 Recursos atuais:
 %1$s
-Você pode alterar os recursos selecionados em Configurações &gt; Acessibilidade."</string>
+Você pode alterar os recursos selecionados em Configurações > Acessibilidade."</string>
     <string name="accessibility_shortcut_multiple_service_warning_title">Ativar atalho para recursos de acessibilidade?</string>
     <string name="accessibility_shortcut_off">Não ativar</string>
     <string name="accessibility_shortcut_on">Ativar</string>
     <string name="accessibility_shortcut_single_service_warning">"Manter as duas teclas de volume pressionadas por alguns segundos ativa %1$s, um recurso de acessibilidade. Isso pode mudar o funcionamento do seu dispositivo.
 
-Você pode alterar este atalho para outro recurso em Configurações &gt; Acessibilidade."</string>
+Você pode alterar este atalho para outro recurso em Configurações > Acessibilidade."</string>
     <string name="accessibility_shortcut_single_service_warning_title">Ativar atalho %1$s?</string>
     <string name="accessibility_shortcut_spoken_feedback">Solte as teclas de volume. Para ativar %1$s, pressione e segure ambas as teclas de volume novamente por 3 segundos.</string>
     <string name="accessibility_shortcut_toogle_warning">Quando o atalho estiver ativado, pressione os dois botões de volume por três segundos para iniciar um recurso de acessibilidade.</string>
@@ -316,10 +316,10 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="autofill_save_never">Nunca</string>
     <string name="autofill_save_no">Não, obrigado</string>
     <string name="autofill_save_notnow">Agora não</string>
-    <string name="autofill_save_title">Salvar em &lt;b&gt;%1$s&lt;/b&gt;?</string>
-    <string name="autofill_save_title_with_2types">Salvar %1$s e %2$s em &lt;b&gt;%3$s&lt;/b&gt;?</string>
-    <string name="autofill_save_title_with_3types">Salvar %1$s, %2$s e %3$s em &lt;b&gt;%4$s&lt;/b&gt;?</string>
-    <string name="autofill_save_title_with_type">Salvar %1$s em &lt;b&gt;%2$s&lt;/b&gt;?</string>
+    <string name="autofill_save_title">Salvar em <b>%1$s</b>?</string>
+    <string name="autofill_save_title_with_2types">Salvar %1$s e %2$s em <b>%3$s</b>?</string>
+    <string name="autofill_save_title_with_3types">Salvar %1$s, %2$s e %3$s em <b>%4$s</b>?</string>
+    <string name="autofill_save_title_with_type">Salvar %1$s em <b>%2$s</b>?</string>
     <string name="autofill_save_type_address">endereço</string>
     <string name="autofill_save_type_credit_card">cartão de crédito</string>
     <string name="autofill_save_type_debit_card">cartão de débito</string>
@@ -343,8 +343,8 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="badPin">O PIN antigo digitado está incorreto.</string>
     <string name="badPuk">O PUK digitado está incorreto.</string>
     <string name="battery_saver_charged_notification_summary">O dispositivo tem carga suficiente. Recursos não mais restritos.</string>
-    <string name="battery_saver_description">"A Economia de bateria ativa o tema escuro e limita ou desativa a atividade em segundo plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
-    <string name="battery_saver_description_with_learn_more">"A Economia de bateria ativa o tema escuro e limita ou desativa a atividade em segundo plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
+    <string name="battery_saver_description">"A Economia de bateria ativa o Tema escuro e limita ou desativa a atividade em segundo plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
+    <string name="battery_saver_description_with_learn_more">"A Economia de bateria ativa o Tema escuro e limita ou desativa a atividade em segundo plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
     <string name="battery_saver_notification_channel_name">Economia de bateria</string>
     <string name="battery_saver_off_notification_title">\"Economia de bateria\" desativada</string>
     <string name="beforeOneMonthDurationPast">Antes de 1 mês atrás</string>
@@ -413,7 +413,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="chooser_all_apps_button_label">Lista de apps</string>
     <string name="chooser_no_direct_share_targets">Não há sugestões de pessoas para compartilhar</string>
     <string name="chooser_wallpaper">Alterar plano de fundo</string>
-    <string name="clearDefaultHintMsg">Padrão claro em Configurações do sistema &gt; Apps &gt; Baixado.</string>
+    <string name="clearDefaultHintMsg">Padrão claro em Configurações do sistema > Apps > Baixado.</string>
     <string name="close_button_text">Fechar</string>
     <string name="color_correction_feature_name">Correção de cor</string>
     <string name="color_inversion_feature_name">Inversão de cores</string>
@@ -1864,7 +1864,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="save_password_never">Nunca</string>
     <string name="save_password_notnow">Agora não</string>
     <string name="save_password_remember">Lembrar</string>
-    <string name="screen_compat_mode_hint">Reativar isso em Configurações do sistema &gt; Apps &gt; Baixados.</string>
+    <string name="screen_compat_mode_hint">Reativar isso em Configurações do sistema > Apps > Baixados.</string>
     <string name="screen_compat_mode_scale">Escala</string>
     <string name="screen_compat_mode_show">Mostrar sempre</string>
     <string name="screen_lock">Bloquear tela</string>
@@ -1953,7 +1953,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="skip_button_label">Pular</string>
     <string name="slice_more_content">Mais %1$d</string>
     <string name="slices_permission_request">%1$s quer mostrar partes do app %2$s</string>
-    <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; envia uma grande quantidade de mensagens SMS. Quer permitir que este app continue enviando mensagens?</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b> envia uma grande quantidade de mensagens SMS. Quer permitir que este app continue enviando mensagens?</string>
     <string name="sms_control_no">Negar</string>
     <string name="sms_control_title">Enviando mensagens SMS</string>
     <string name="sms_control_yes">Permitir</string>
@@ -1961,11 +1961,11 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="sms_short_code_confirm_allow">Enviar</string>
     <string name="sms_short_code_confirm_always_allow">Sempre permitir</string>
     <string name="sms_short_code_confirm_deny">Cancelar</string>
-    <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; quer enviar uma mensagem para &lt;b&gt;%2$s&lt;/b&gt;.</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> quer enviar uma mensagem para &lt;b>%2$s&lt;/b>.</string>
     <string name="sms_short_code_confirm_never_allow">Nunca permitir</string>
     <string name="sms_short_code_details">Isso <b>pode resultar em cobranças</b> na conta de seu dispositivo móvel.</string>
     <string name="sms_short_code_remember_choice">Lembrar minha escolha</string>
-    <string name="sms_short_code_remember_undo_instruction">P/ alterar: Configurações &gt; Apps</string>
+    <string name="sms_short_code_remember_undo_instruction">P/ alterar: Configurações > Apps</string>
     <string name="smv_application">O app %1$s, processo %2$s, violou a política StrictMode imposta automaticamente.</string>
     <string name="smv_process">O processo %1$s violou a política StrictMode imposta automaticamente.</string>
     <string name="splash_screen_view_branding_description">Imagem de marca do app</string>
@@ -2048,7 +2048,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="unsupported_compile_sdk_show">Mostrar sempre</string>
     <string name="unsupported_display_size_message">O app %1$s não é compatível com a configuração atual de tamanho de exibição e pode se comportar de forma inesperada.</string>
     <string name="unsupported_display_size_show">Mostrar sempre</string>
-    <string name="untitled">&lt;Sem título&gt;</string>
+    <string name="untitled">&lt;Sem título></string>
     <string name="upload_file">Escolher arquivo</string>
     <string name="usb_accessory_notification_title">Acessório USB conectado</string>
     <string name="usb_cd_installer_notification_title">Conectado como um instalador</string>

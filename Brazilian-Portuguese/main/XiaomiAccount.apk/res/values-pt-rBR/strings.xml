@@ -633,7 +633,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_bad_authentication">Nome de usuário ou senha inválidos</string>
     <string name="passport_btn_change_account">Mudar de conta</string>
     <string name="passport_can_not_receive_verification_code">"Não é possível receber o código de verificação?"</string>
-    <string name="passport_can_not_recevie_verify_code">"Não recebi um código?"</string>
+    <string name="passport_can_not_recevie_verify_code">"Não recebeu o código?"</string>
     <string name="passport_change_account"><u>Mudar de conta</u></string>
     <string name="passport_change_password">Alterar a senha</string>
     <string name="passport_change_phone_number">Alterar número de telefone</string>
@@ -682,10 +682,10 @@ Envie este código para o supervisor."</string>
     <string name="passport_error_no_password_user">"Você ainda não definiu a senha. Faça login com SMS."</string>
     <string name="passport_error_phone">Número de telefone inválido</string>
     <string name="passport_error_server">Erro no servidor</string>
-    <string name="passport_error_sim_not_ready">"Can't find SIM card"</string>
-    <string name="passport_error_sms_limit">Too many verification codes have been sent to this number. Try again later.</string>
-    <string name="passport_error_ssl_hand_shake">"Couldn't connect to server"</string>
-    <string name="passport_error_ticket_invalid">This code is incorrect</string>
+    <string name="passport_error_sim_not_ready">Não é possível encontrar o cartão SIM</string>
+    <string name="passport_error_sms_limit">Muitos códigos de verificação foram enviados para este número. Tente mais tarde.</string>
+    <string name="passport_error_ssl_hand_shake">Não foi possível conectar-se ao servidor</string>
+    <string name="passport_error_ticket_invalid">Este código está incorreto</string>
     <string name="passport_error_timeout_network_error">O pedido excedeu o tempo limite</string>
     <string name="passport_error_token_expired">Código expirado. Tente novamente.</string>
     <string name="passport_error_unknow_error">Ocorreu um erro</string>

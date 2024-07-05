@@ -19,7 +19,7 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d min</item>
+        <item quantity="other">Em %d mins</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -86,7 +86,7 @@
     </plurals>
     <plurals name="local_longpress_speed_chenge_tip">
         <item quantity="other">Reproduzindo na velocidade %sX. Solte para reproduzir na velocidade normal.</item>
-        <item quantity="one">Reproduzindo na velocidade %sX. Solte para reproduzir na velocidade normal</item>
+        <item quantity="one">Reproduzindo na velocidade %sX. Solte para reproduzir na velocidade normal.</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d pastas</item>
@@ -185,8 +185,8 @@
         <item quantity="one">Excluir permanentemente %s arquivo agora?</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
-        <item quantity="other">Tamanho do arquivo: %.2fKB</item>
-        <item quantity="one">Tamanho do arquivo: %.2fKB</item>
+        <item quantity="other">Tamanho do arquivo: %.2f KB</item>
+        <item quantity="one">Tamanho do arquivo: %.2f KB</item>
     </plurals>
     <plurals name="plus_search_result_title">
         <item quantity="other">%2$s resultados para \"%1$s\"</item>
