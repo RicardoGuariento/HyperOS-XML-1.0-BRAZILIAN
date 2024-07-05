@@ -89,7 +89,7 @@ Faça login na sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="camera_associate_disconnecting">Desconectando da câmera do dispositivo</string>
     <string name="camera_associate_failed">"Não foi possível conectar à câmera"</string>
     <string name="camera_associate_success">Câmera conectada</string>
-    <string name="camera_choose_device">Selecionar dispositivo</string>
+    <string name="camera_choose_device">Trocar câmeras</string>
     <string name="camera_connecting">"%s deseja usar a câmera deste dispositivo"</string>
     <string name="camera_disassociate">Desconectado da câmera</string>
     <string name="camera_notify_string">Notificação de câmera</string>
@@ -101,6 +101,12 @@ Faça login na sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="car_air_con_switch_close">Desligue o AC do carro</string>
     <string name="car_air_con_switch_open">Ligue o AC do carro</string>
     <string name="car_air_con_unuse">–-</string>
+    <string name="car_camera_associate_connecting">Conectando à câmera VE</string>
+    <string name="car_camera_associate_disconnecting">Desconectando da câmera VE</string>
+    <string name="car_camera_device_name">%1$s câmera de visão frontal</string>
+    <string name="car_camera_unavailable_dialog_message">"O Modo de baixo consumo ou Modo de privacidade está ativado. Não é possível visualizar a imagem da câmera frontal do veículo no seu dispositivo móvel no momento."</string>
+    <string name="car_camera_unavailable_dialog_positive_button">Entendi</string>
+    <string name="car_camera_unavailable_dialog_title">"Não é possível usar a câmera"</string>
     <string name="car_card_air_control_backseat_air">Bancos traseiros</string>
     <string name="car_card_air_temperature_minus">Diminuir a temperatura AC</string>
     <string name="car_card_air_temperature_plus">Aumentar a temperatura AC</string>
@@ -134,6 +140,8 @@ Faça login na sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="chip_text">Texto do chip</string>
     <string name="circulate_audio_group_title">Tocando…</string>
     <string name="circulate_back_button_content_description">Voltar</string>
+    <string name="circulate_car_card_use_camera">Usar câmera VE</string>
+    <string name="circulate_car_card_using_camera">Usando câmera VE</string>
     <string name="circulate_card_disconnect">Desconectar</string>
     <string name="circulate_card_loading_title_audio_stereo">Sistema estéreo</string>
     <string name="circulate_card_loading_title_band">Banda</string>
@@ -455,6 +463,7 @@ seus dispositivos?"</string>
     <string name="device_permission_authorize_dialog_message">Assim que esta permissão for concedida, este dispositivo poderá usar %s para tirar fotos e gravar vídeos.</string>
     <string name="device_permission_authorize_dialog_title">Conceda permissões de câmera em %s</string>
     <string name="device_permission_dialog_message">Abra as Configurações > Interconectividade > Interconectividade e permissões em %s e conceda as permissões de câmera primeiro.</string>
+    <string name="device_permission_dialog_message_car">Você pode permitir o acesso à câmera em Configurações > Sistema > Gerenciar apps > Permissões especiais > Interconectividade em %s.</string>
     <string name="device_permission_dialog_positive_button">Entendi</string>
     <string name="device_permission_dialog_title">Conceda permissões a %s</string>
     <string name="device_type_name_pad">"Tablet"</string>
