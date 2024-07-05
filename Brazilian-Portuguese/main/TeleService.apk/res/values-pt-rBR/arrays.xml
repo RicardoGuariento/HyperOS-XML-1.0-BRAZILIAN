@@ -139,10 +139,6 @@
         <item>Systrace (Gráficos)</item>
         <item>Pilha de chamadas em glGetError</item>
     </string-array>
-        <item>Nunca usar verificação de HDCP</item>
-        <item>Usar verificação de HDCP para conteúdo de DRM</item>
-        <item>Sempre usar verificação HDCP</item>
-    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nunca verificar</item>
         <item>Verificar apenas conteúdo DRM</item>
