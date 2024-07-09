@@ -94,7 +94,7 @@
     <string name="action_menu_text_speed_test">Teste de rede</string>
     <string name="action_menu_text_video">Vídeo</string>
     <string name="action_menu_text_video_download">Baixar vídeos</string>
-    <string name="action_menu_text_web_mode">Modo Desktop</string>
+    <string name="action_menu_text_web_mode">Modo desktop</string>
     <string name="action_menu_toolbox">Ferramentas</string>
     <string name="action_menu_useful_page">Adicionar atalho</string>
     <string name="action_menu_useful_page_added">Adicionado à Página inicial</string>
@@ -133,7 +133,7 @@
     <string name="add_shortcut">Adicionar atalho</string>
     <string name="add_shortcut_success">Atalho adicionado com sucesso</string>
     <string name="add_to_bookmark">Favoritos</string>
-    <string name="add_to_desktop">Adicionar na página inicial</string>
+    <string name="add_to_desktop">Adicionar na Página inicial</string>
     <string name="add_to_quicklink">Página inicial</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="added_to_bookmarks">Adicionado aos favoritos</string>
@@ -154,7 +154,7 @@
     <string name="app_category_tag_editor_recommendation">"Escolhas dos editores</string>
     <string name="app_category_tag_free">Grátis</string>
     <string name="app_category_tag_hot">"Popular"</string>
-    <string name="app_id">Firebase App ID (toque para exportar)</string>
+    <string name="app_id">Firebase App ID (Clique para exportar)</string>
     <string name="app_name">ConvenientBanner</string>
     <string name="app_name_bluetooth">"Bluetooth"</string>
     <string name="app_name_camera">Câmera</string>
@@ -192,7 +192,7 @@
     <string name="autologin_bar_text">Fazer login como</string>
     <string name="avatar">Imagem de perfil</string>
     <string name="back_description">Voltar</string>
-    <string name="back_home">Voltar para a página inicial</string>
+    <string name="back_home">Voltar para a Página inicial</string>
     <string name="batch_download">"Download"</string>
     <string name="batch_download_tip">Parece que vários itens estão sendo baixados ao mesmo tempo. Bloquear estes downloads?</string>
     <string name="billing_unavailable_message">"- Verifique se você está conectado à Play Store.
@@ -249,9 +249,9 @@ Desative o seletor para parar a sincronização."</string>
     <string name="branch_search_guide_privacy">Este recurso é fornecido por Branch Metrics Inc. Nós compartilharemos sua localização, pesquisas e ID do Google Ads com ela. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> deles antes de continuar.</string>
     <string name="branch_search_in_browser">Pesquisar \"%1$s\" no Navegador</string>
     <string name="branch_setting">Configurações</string>
-    <string name="branch_short_message">Messaging</string>
+    <string name="branch_short_message">Mensagens</string>
     <string name="branch_shortcuts">Atalhos</string>
-    <string name="branch_show_more">More</string>
+    <string name="branch_show_more">Mais</string>
     <string name="branch_terms_condition">Termos e condições</string>
     <string name="branch_trending_google_news">Notícias do Google</string>
     <string name="branch_trending_youtube_news">"YouTube"</string>
@@ -645,7 +645,7 @@ Envie este código para o supervisor."</string>
     <string name="download_dialog_title_video">Vídeo</string>
     <string name="download_error_io">"Não foi possível baixar."</string>
     <string name="download_error_network">"Não foi possível baixar. A conexão de rede foi interrompida."</string>
-    <string name="download_error_url_invalid">'Não foi possível baixar. URL inválida."</string>
+    <string name="download_error_url_invalid">"Não foi possível baixar. URL inválida."</string>
     <string name="download_exist">Este arquivo já está na sua fila de download</string>
     <string name="download_fail_dir">"Não foi possível baixar. O destino não existe."</string>
     <string name="download_failed">"Não foi possível concluir o download"</string>
@@ -693,7 +693,7 @@ Envie este código para o supervisor."</string>
     <string name="download_permission_name_hint">Download %s</string>
     <string name="download_phone_tip">Telefone</string>
     <string name="download_privacy_head_text">Puxe para baixo para ver os arquivos ocultos</string>
-    <string name="download_retry_after_network_available">vNão é possível conectar-se à rede"</string>
+    <string name="download_retry_after_network_available">"Não é possível conectar-se à rede"</string>
     <string name="download_retry_download">Repetir</string>
     <string name="download_router_tip">Baixar no Mi Router</string>
     <string name="download_save_dialog_title">Salvar</string>
@@ -752,7 +752,7 @@ Envie este código para o supervisor."</string>
     <string name="evening">"PM"</string>
     <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
     <string name="exit">Sair</string>
-    <string name="exit_browser_warning">Sair do Navegador agora?</string>
+    <string name="exit_browser_warning">Sair do Navegador Mi agora?</string>
     <string name="exit_clear_dialog_always">Lembrar minha escolha</string>
     <string name="exit_clear_dialog_btn_cancel">Sair</string>
     <string name="exit_clear_dialog_btn_ok">Limpar e sair</string>
@@ -963,7 +963,7 @@ Envie este código para o supervisor."</string>
     <string name="game_center_recommend_title">Recomendado para você</string>
     <string name="game_news_flow_download_bar_download">Baixar</string>
     <string name="game_news_flow_download_bar_play">Reproduzir</string>
-    <string name="game_play">Play</string>
+    <string name="game_play">Jogar</string>
     <string name="game_played">Recente</string>
     <string name="garbage_cleaning">Limpar</string>
     <string name="garbage_details">Detalhes</string>
@@ -1042,7 +1042,7 @@ Envie este código para o supervisor."</string>
     <string name="homepage_more_cards">Mais serviços</string>
     <string name="homepage_more_sites">Mais sites</string>
     <string name="homepage_search_hint">Pesquisar</string>
-    <string name="homepage_setting">Configurações da página inicial</string>
+    <string name="homepage_setting">Configurações da Página inicial</string>
     <string name="homepage_tab_tips_chatgpt">Confira nossa nova pesquisa de IA</string>
     <string name="homepage_top_card_menu">Topo</string>
     <string name="hot_games">Populares</string>
@@ -1069,13 +1069,13 @@ Envie este código para o supervisor."</string>
 • Seu empregador ou instituição de ensino
 • Seu provedor de serviços de internet"</string>
     <string name="incognito_title">Você está anônimo</string>
-    <string name="income_expenses">Transactions</string>
+    <string name="income_expenses">Transações</string>
     <string name="inconsistent_pwd">As senhas não conferem</string>
     <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
     <string name="input_new_pwd">Insira a nova senha</string>
     <string name="ins_login_tips">Faça o login para baixar vídeos do Instagram</string>
     <string name="ins_register_btn">Criar conta usando um e-mail ou número de telefone</string>
-    <string name="instance_id">ID da instância do Firebase (toque para exportar)</string>
+    <string name="instance_id">ID da instância do Firebase (Clique para exportar)</string>
     <string name="intercept_panel_ads_img_category_text">Anúncios bloqueados</string>
     <string name="intercept_panel_download_img_category_text">Downloads protegidos</string>
     <string name="intercept_panel_empty_content">O histórico de comportamento do site aparecerá aqui</string>
@@ -1348,9 +1348,9 @@ Envie este código para o supervisor."</string>
     <string name="more_videos">Mais vídeos</string>
     <string name="morning">"AM"</string>
     <string name="most_visited_sites">Mais visitados</string>
-    <string name="most_visited_sites_switch">Mostrar os sites mais visitados na página inicial</string>
+    <string name="most_visited_sites_switch">Mostrar os sites mais visitados na Página inicial</string>
     <string name="move_bookmark">Mover</string>
-    <string name="msg_token">Token de mensagem do Firebase (toque para exportar)</string>
+    <string name="msg_token">Token de mensagem do Firebase (Clique para exportar)</string>
     <string name="msn_ad_identification">Anúncio</string>
     <string name="msn_privacy">Declaração de Privacidade da Microsoft</string>
     <string name="msn_privacy_content">Para o feed de conteúdo fornecido pelo Microsoft Notícias</string>
@@ -1681,7 +1681,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="nf_set_follow_channel_as_default">Mostrar \"%s\" na inicialização</string>
     <string name="nf_submit">Enviar</string>
     <string name="nick_name">Apelido</string>
-    <string name="nickname">Nickname</string>
+    <string name="nickname">Apelido</string>
     <string name="night">"PM"</string>
     <string name="night_mode">Modo noturno</string>
     <string name="no">Não</string>
@@ -1735,7 +1735,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="notifications">Notificações</string>
     <string name="novel_continue_read_popup">Ler</string>
     <string name="novel_tab_popup">Veja seus livros mais recentes aqui</string>
-    <string name="novel_tab_popup_ok">OK</string>
+    <string name="novel_tab_popup_ok">"OK"</string>
     <string name="offline_notification_text">Toque para abrir o anúncio</string>
     <string name="offline_notification_title">Ver o anúncio que você salvou quando estava offline</string>
     <string name="offline_opt_in_confirm">"OK"</string>
@@ -1968,7 +1968,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="pref_content_block_popups">Bloquear pop-ups</string>
     <string name="pref_content_cloud_speedup">Carregar conteúdo mais rápido usando servidores proxy</string>
     <string name="pref_content_fontsize_setting">Configurações da fonte</string>
-    <string name="pref_content_homepage">Definir página inicial</string>
+    <string name="pref_content_homepage">Definir Página inicial</string>
     <string name="pref_content_javascript">Ativar JavaScript</string>
     <string name="pref_content_night_read_mode">Modo noturno</string>
     <string name="pref_content_search_engine">Motor de busca na barra de endereços</string>
@@ -2158,7 +2158,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="pull_to_refresh_release_label">Solte para recomendar e atualizar</string>
     <string name="purchase">Entrada</string>
     <string name="push">Notificações push</string>
-    <string name="pwa_app_name">Web apps</string>
+    <string name="pwa_app_name">Apps da web</string>
     <string name="pwa_hint_added_success">Adicionado com sucesso</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Ler código QR</string>
@@ -2236,13 +2236,13 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="refreshing">Atualizando…</string>
     <string name="refuse_open">Agora não</string>
     <string name="refuse_permissions_request">Restringir</string>
-    <string name="regid">RegId (Toque para exportar)</string>
+    <string name="regid">RegId (Clique para exportar)</string>
     <string name="reject_all_label">Rejeitar tudo</string>
     <string name="release_to_refresh">Solte para atualizar</string>
     <string name="relevant_recommendations">Recomendado</string>
     <string name="remember_my_choice">Lembrar minha escolha</string>
     <string name="remember_passwords_confirm_message">Desativar esta função pode afetar a usabilidade.</string>
-    <string name="remote_config">Configuração remota (toque para exportar)</string>
+    <string name="remote_config">Configuração remota (Clique para exportar)</string>
     <string name="remove_bookmark">Excluir favorito</string>
     <string name="remove_bookmark_group">Excluir grupo</string>
     <string name="remove_from_bookmarks">Remover dos favoritos</string>
@@ -2267,7 +2267,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="restart_action">Reiniciar</string>
     <string name="restart_phone_bind_message">O SMS pode demorar um pouco para ser recebido. Reiniciar mesmo assim?</string>
     <string name="restart_phone_bind_title">Alterar telefone de recuperação</string>
-    <string name="return_to_homepage">Voltar à página inicial</string>
+    <string name="return_to_homepage">Voltar à Página inicial</string>
     <string name="risk_continue">Continuar</string>
     <string name="risk_detail">Detalhes</string>
     <string name="risk_malicious_url">Este site pode apresentar riscos de segurança.</string>
@@ -2357,7 +2357,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="search_trending_new">Novo</string>
     <string name="search_trending_title">Tendências</string>
     <string name="search_tupian">Imagem</string>
-    <string name="search_using_traceless_mode">Modo incógnito</string>
+    <string name="search_using_traceless_mode">Modo anônimo</string>
     <string name="search_with_browser">Pesquise com o Navegador Mi</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
@@ -2398,15 +2398,15 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="set_success">Alterado com sucesso</string>
     <string name="setting">Configurações</string>
     <string name="setting_app_language">Idioma do Navegador</string>
-    <string name="setting_contact_information">Information from contacts</string>
+    <string name="setting_contact_information">Informações de contatos</string>
     <string name="setting_feed_language">Idioma do Feed de conteúdo</string>
-    <string name="setting_installed_apps">Installed apps</string>
-    <string name="setting_mobile_phone_settings">Device settings</string>
+    <string name="setting_installed_apps">Apps instalados</string>
+    <string name="setting_mobile_phone_settings">Configurações do dispositivo</string>
     <string name="setting_privacy_password">Configure o padrão de desbloqueio</string>
     <string name="shake_get_more">Agite para saber mais</string>
-    <string name="setting_sms_content">SMS content</string>
+    <string name="setting_sms_content">Conteúdo SMS</string>
     <string name="setting_swipe_up">Deslizar para cima na Tela inicial</string>
-    <string name="settings">Settings</string>
+    <string name="settings">Configurações</string>
     <string name="share_image_text">Veja o que eu compartilhei! @Navegador Mi</string>
     <string name="share_page_text">Veja o que eu compartilhei: %1$s @Navegador Mi | %2$s</string>
     <string name="share_slide_video_text">Veja o que eu compartilhei: %1$s</string>
@@ -2428,7 +2428,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="sign_in_to" formatted="false">Fazer login em %s1 \"%s2\"</string>
     <string name="sign_message">http://%s precisa do seu nome de usuário e senha.</string>
     <string name="sign_out">Sair</string>
-    <string name="simple_page_toast">Você pode mudar para o padrão em Configurações > Configurações da página inicial</string>
+    <string name="simple_page_toast">Você pode mudar para o padrão em Configurações > Configurações da Página inicial</string>
     <string name="site_content_has_update">Conteúdo da página atualizado</string>
     <string name="skip">Pular</string>
     <string name="skip_ad">Pular</string>
@@ -2524,7 +2524,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="suggest_access_btn_open">Abrir</string>
     <string name="suggest_access_btn_play">Reproduzir</string>
     <string name="suggest_access_btn_view">Ver</string>
-    <string name="suggest_access_item_app_size">%.2fMB</string>
+    <string name="suggest_access_item_app_size">%.2f MB</string>
     <string name="suggest_access_item_app_update">Atualização: %s</string>
     <string name="suggest_access_music">Música</string>
     <string name="suggest_item_delete_text">Excluir</string>
@@ -2633,7 +2633,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="tip_sync_switch_off">Sincronização desativada. Você pode ativá-la em \"Minha conta\".</string>
     <string name="title_app_tags">"Apps"</string>
     <string name="title_bar_loading">Carregando…</string>
-    <string name="title_command_mode">Modo comando</string>
+    <string name="title_command_mode">Modo de comando</string>
     <string name="title_expire_video">Prestes a expirar</string>
     <string name="title_recent">Recentes</string>
     <string name="title_select_volume">Selecionar pasta</string>
@@ -2862,7 +2862,7 @@ Você pode cancelar a sua participação em qualquer momento em Configurações 
     <string name="user_guide_turn_off_feature">Para desativar esse recurso, toque &lt;font color=#0a84ff>&lt;u>aqui&lt;/u>&lt;/font>.</string>
     <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
     <string name="username">Usuário</string>
-    <string name="uuid">UUID (Toque para exportar)</string>
+    <string name="uuid">UUID (Clique para exportar)</string>
     <string name="v5_deselect_all">Desmarcar todos</string>
     <string name="v5_edit_mode_title_empty">Selecionar itens</string>
     <string name="v5_select_all">Selecionar todos</string>
@@ -3102,7 +3102,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_tips">Toque aqui para revisitar uma página</string>
     <string name="web_tag_title">Miniaturas de páginas da web</string>
     <string name="web_video_accelerate">Velocidade</string>
-    <string name="web_video_download">Download</string>
+    <string name="web_video_download">Baixar</string>
     <string name="web_video_download_no_access">Permissões necessárias para baixar itens</string>
     <string name="web_video_enable_long_click_toast">Reproduzindo na velocidade %dX</string>
     <string name="web_video_float_drag_msg">Arraste para ajustar o tamanho</string>

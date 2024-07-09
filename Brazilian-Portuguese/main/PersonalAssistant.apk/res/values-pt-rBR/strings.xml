@@ -836,7 +836,6 @@ Adicione widgets para começar."</string>
     <string name="pa_travel_item_source_prefix">Origem:</string>
     <string name="pa_travel_list_empty_title">Nenhuma viagem nos últimos %d dias</string>
     <string name="pa_travel_list_error_title">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
-
     <string name="pa_travel_near_travel_tip">Próximas %d horas</string>
     <string name="pa_travel_notification_action_boarding_pass">Cartão de embarque</string>
     <string name="pa_travel_notification_action_go_check_in">Check-in</string>
@@ -888,7 +887,7 @@ Adicione widgets para começar."</string>
     <string name="pa_travel_train_empty_check_point">Sem informações do portão</string>
     <string name="pa_travel_train_seat_number">Assento</string>
     <string name="pa_travel_train_tip_cancel">Trem cancelado. Faça um novo plano de viagem.</string>
-    <string name="pa_travel_train_unauthorized_ai_tip">Permitir acesso à localização para obter atualizações oportunas</string>
+    <string name="pa_travel_train_unauthorized_ai_tip">Permita acesso à localização para obter atualizações oportunas</string>
     <string name="pa_travel_train_unauthorized_tip">Pareie uma conta de serviço para receber atualizações oportunas do status do trem</string>
     <string name="pa_travel_unbind_dialog_message">"Se você desemparelhar este serviço, não receberá atualizações oportunas sobre o status dos trens e voos. Desemparelhar mesmo assim?"</string>
     <string name="pa_travel_unbind_dialog_positive">Desemparelhar</string>

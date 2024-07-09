@@ -491,7 +491,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="favorite_cancel_success">Removido dos favoritos com sucesso</string>
     <string name="favorite_fail">Não foi possível adicionar aos favoritos. Tente novamente.</string>
     <string name="favorite_success">Adicionado aos favoritos com sucesso</string>
-    <string name="fcm_2_args">Primeiro: %1$s e segundo %2$s</string>
+    <string name="fcm_2_args">Primeiro: %1$s segundo: %2$s</string>
     <string name="fcm_fallback_notification_channel_label">Diversos</string>
     <string name="fcm_no_args">String sem argumentos</string>
     <string name="fcm_push_title">Vídeos populares</string>
@@ -1204,7 +1204,7 @@ Usaremos essa permissão apenas para encontrar os vídeos que você procura e n�
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
-    <string name="mtrl_picker_text_input_day_abbr">"d"</string>
+    <string name="mtrl_picker_text_input_day_abbr">"dia"</string>
     <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
     <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
@@ -1225,7 +1225,7 @@ Usaremos essa permissão apenas para encontrar os vídeos que você procura e n�
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_failed">Não foi possível conectar-se à rede</string>
     <string name="network_timeout_info">Não foi possível conectar-se à rede. Tente novamente.</string>
-    <string name="neverthink_player_loading">Carregando vídeo do Neverthink …</string>
+    <string name="neverthink_player_loading">Carregando vídeo do Neverthink…</string>
     <string name="new_channel_tip">Dê uma olhada nos novos canais!</string>
     <string name="newyearfestival_go_to_draw_prizes">Ir aos sorteios</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Assista a vídeos para entrar no sorteio</string>
@@ -1282,9 +1282,9 @@ Usaremos essa permissão apenas para encontrar os vídeos que você procura e n�
     <string name="on_tip_firework_recommend">Você receberá recomendações personalizadas de conteúdos do Firework</string>
     <string name="online_play_hint">Por exemplo: http://www.example.com/video.mp4</string>
     <string name="online_play_start_loading_tip">Aguarde…</string>
-    <string name="online_play_start_ready_loading_tip_b">Carregando %.2fB/s</string>
-    <string name="online_play_start_ready_loading_tip_kb">Carregando %.2fKB/s</string>
-    <string name="online_play_start_ready_loading_tip_mb">Carregando %.2fMB/s</string>
+    <string name="online_play_start_ready_loading_tip_b">Carregando %.2f B/s</string>
+    <string name="online_play_start_ready_loading_tip_kb">Carregando %.2f KB/s</string>
+    <string name="online_play_start_ready_loading_tip_mb">Carregando %.2f MB/s</string>
     <string name="online_play_title">Inserir URL</string>
     <string name="open_settings">Vá para as Configurações</string>
     <string name="order_recently_subscribe">Inscrições recentes</string>
@@ -2022,7 +2022,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="toast_incentive_redeem_fail_prize_expired_2005">Esta recompensa está indisponível</string>
     <string name="toast_incentive_redeem_fail_prize_expired_error">Não foi possível resgatar. Aguarde alguns minutos e tente novamente.</string>
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Esta recompensa está indisponível no momento. Tente novamente mais tarde.</string>
-    <string name="toast_m3u8_download_path_tip">Não é possível alterar o local de download para conteúdo no formato m3u8</string>
+    <string name="toast_m3u8_download_path_tip">Não é possível alterar o local de download para conteúdo no formato M3U8</string>
     <string name="toast_no_data">Este item não está disponível agora. Volte mais tarde.</string>
     <string name="toast_play_error_tip">Não é possível reproduzir este arquivo</string>
     <string name="toast_share_failed">Não foi possível compartilhar. Aguarde alguns minutos e tente novamente.</string>
@@ -2276,8 +2276,8 @@ Aumentar a segurança da sua conta."</string>
     <string name="welcome_tip_title">Bem-vindo ao Mi Vídeo</string>
     <string name="widget_add_dialog_button_add">Adicionar</string>
     <string name="widget_add_dialog_button_cancel">Cancelar</string>
-    <string name="widget_add_dialog_desc_local">Com este widget, você pode reproduzir arquivos de áudio e vídeo armazenados no seu dispositivo com um toque na tela inicial. Adicionar agora?</string>
-    <string name="widget_add_dialog_desc_online">"Com este widget, você pode assistir aos vídeos populares da atualidade com um toque na tela inicial. Adicionar agora?"</string>
+    <string name="widget_add_dialog_desc_local">Com este widget, você pode reproduzir arquivos de áudio e vídeo armazenados no seu dispositivo com um toque na Tela inicial. Adicionar agora?</string>
+    <string name="widget_add_dialog_desc_online">"Com este widget, você pode assistir aos vídeos populares da atualidade com um toque na Tela inicial. Adicionar agora?"</string>
     <string name="widget_add_dialog_title">Adicionar widget</string>
     <string name="widget_local_video">Vídeos locais</string>
     <string name="widget_local_video_click">Toque para assistir a vídeos armazenados em seu dispositivo</string>
