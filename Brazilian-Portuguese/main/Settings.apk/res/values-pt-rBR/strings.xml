@@ -535,9 +535,9 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="adb_device_fingerprint_title_format">Impressão digital do dispositivo: %1$s</string>
     <string name="adb_device_forget">Esquecer</string>
     <string name="adb_keys_warning_message">Revogar o acesso à depuração USB para todos os computadores autorizados?</string>
-    <string name="adb_pair_method_code_summary">Parear novos dispositivos através do código de seis dígitos</string>
+    <string name="adb_pair_method_code_summary">Pareie novos dispositivos através do código de seis dígitos</string>
     <string name="adb_pair_method_code_title">Parear dispositivo com um código de pareamento</string>
-    <string name="adb_pair_method_qrcode_summary">Parear novos dispositivos usando um leitor de códigos QR</string>
+    <string name="adb_pair_method_qrcode_summary">Pareie novos dispositivos usando um leitor de códigos QR</string>
     <string name="adb_pair_method_qrcode_title">Parear dispositivo com um código QR</string>
     <string name="adb_paired_devices_title">Dispositivos pareados</string>
     <string name="adb_pairing_device_dialog_failed_msg">Certifique-se de que o dispositivo está conectado à mesma rede.</string>
@@ -555,9 +555,9 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="adb_wireless_ip_addr_preference_title">Endereço IP e porta</string>
     <string name="adb_wireless_list_empty_off">Para ver e usar os dispositivos disponíveis, ative a depuração Wi-Fi</string>
     <string name="adb_wireless_no_network_msg">Conecte-se a uma rede Wi-Fi</string>
-    <string name="adb_wireless_qrcode_pairing_description">Parear o dispositivo através do Wi-Fi ao digitalizar um código QR</string>
+    <string name="adb_wireless_qrcode_pairing_description">Pareie o dispositivo através do Wi-Fi ao digitalizar um código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Digitalizar código QR</string>
-    <string name="adb_wireless_qrcode_summary">Parear o dispositivo através do Wi-Fi ao digitalizar um código QR</string>
+    <string name="adb_wireless_qrcode_summary">Pareie o dispositivo através do Wi-Fi ao digitalizar um código QR</string>
     <string name="adb_wireless_settings">Depuração Wi-Fi</string>
     <string name="adb_wireless_verifying_qrcode_text">Pareando dispositivo…</string>
     <string name="adbwifi_warning_message">A depuração Wi-Fi serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro</string>
