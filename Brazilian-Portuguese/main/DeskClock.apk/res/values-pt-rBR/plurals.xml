@@ -104,6 +104,10 @@
         <item quantity="other">%1$s horas</item>
         <item quantity="one">%1$s hora</item>
     </plurals>
+    <plurals name="sleep_duration_hour_new">
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
+    </plurals>
     <plurals name="sleep_duration_min">
         <item quantity="other">%1$s minutos</item>
         <item quantity="one">%1$s minuto</item>
@@ -111,6 +115,10 @@
     <plurals name="sleep_duration_min_avg">
         <item quantity="other">%1$s minutos</item>
         <item quantity="one">%1$s minuto</item>
+    </plurals>
+    <plurals name="sleep_duration_min_new">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Intervalo de soneca alterado para %d minutos</item>
@@ -168,8 +176,16 @@
         <item quantity="other">+ %s horas</item>
         <item quantity="one">+ %s hora</item>
     </plurals>
+    <plurals name="worldcolock_timezone_gap_fast_new">
+        <item quantity="other">+ %1$d horas</item>
+        <item quantity="one">+ %1$d hora</item>
+    </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
         <item quantity="other">- %s horas</item>
         <item quantity="one">- %s hora</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow_new">
+        <item quantity="other">- %1$d horas</item>
+        <item quantity="one">- %1$d hora</item>
     </plurals>
 </resources>

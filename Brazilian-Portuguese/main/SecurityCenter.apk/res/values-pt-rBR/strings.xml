@@ -791,6 +791,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="apps_list_header_title_sms_access">Restringir acesso a códigos de verificação</string>
     <string name="ask_create_shortcut">Criar um atalho na Tela inicial?</string>
     <string name="audio_optimization_summary">Aprimora o áudio e reduz o ruído ambiente em conversas</string>
+    <string name="audio_optimization_summary_new">Otimize a qualidade do som dos fones de ouvido durante os jogos e reduza o ruído durante as chamadas</string>
     <string name="audio_optimization_title">Áudio aprimorado</string>
     <string name="auto_atsk_condition_battery_level_text_down">Quando a bateria atingir %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Quando a bateria estiver a %s</string>
@@ -1351,10 +1352,16 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
     <string name="create_gamebooster_destop">Atalho na Tela inicial criado com sucesso</string>
     <string name="create_shortcut">Criar um atalho na Tela inicial para o Game Turbo</string>
+    <string name="cs_close_vt_camera_first_tips">"Não é possível usar esse recurso ao usar a câmera entre dispositivos"</string>
     <string name="cs_color_sense">Temperatura de cor</string>
+    <string name="cs_conversation_record_using">Gravando</string>
     <string name="cs_func_toast_headset">Desconecte seu fone de ouvido para poder usar este recurso</string>
     <string name="cs_func_toast_light">Mude para a câmera frontal para poder usar este recurso</string>
     <string name="cs_func_toast_pickup">Mude para uma chamada de vídeo para poder usar este recurso</string>
+    <string name="cs_func_unavailable_tips">Use este recurso durante chamadas</string>
+    <string name="cs_light_enhance_physical_options">Temperatura de cor</string>
+    <string name="cs_light_enhance_physical_title">Brilho</string>
+    <string name="cs_open_camera_first_tips">Abra a Câmera para usar este recurso</string>
     <string name="cs_pickup_denoise_desc">Reduz o ruído do áudio recebido ao usar alto-falantes ou fones de ouvidos</string>
     <string name="cs_pickup_denoise_title">Redução de ruído</string>
     <string name="cs_pickup_multi_desc">Captação de áudio de %d grau</string>
@@ -1368,12 +1375,19 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_pickup_vioce_print_unsupport_tips">Grave a impressão de voz antes de selecionar "Participante único"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Desconecte os dispositivos externos e tente novamente</string>
     <string name="cs_pickup_voice_print_desc">Capte o som apenas de uma pessoa</string>
+    <string name="cs_privacy_camera_global_settings_title">Privacidade de chamada</string>
     <string name="cs_screen_translation_title">Tradução de tela</string>
     <string name="cs_simultaneous_interpretation_title">Interpretar</string>
     <string name="cs_title_pickup">Redução de ruído</string>
     <string name="cs_title_smart_subtitle">Transcrição da legenda</string>
     <string name="cs_title_ultraclear">Modo Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Experimente a interpretação simultânea e outras ferramentas de chamadas em conferências na nova Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Experimente uma variedade de recursos de chamadas em conferência na nova Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_phone_guide_case_1">Experimente a interpretação simultânea e outros recursos na nova Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_phone_guide_case_2">Experimente uma variedade de recursos na nova Caixa de ferramentas de chamada</string>
     <string name="cs_voice_print">Gravar impressão de voz</string>
+    <string name="cs_vt_camera_toast_case1">Abra a câmera no app atual</string>
+    <string name="cs_vt_camera_toast_case2">Sem dispositivo compatível por perto</string>
     <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Central de alerta, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada.</string>
     <string name="cta_agree_desc">Para poder usar os nossos serviços, permita que este app conecte-se à internet e conceda as permissões listadas acima.</string>
     <string name="cta_close_dialog_cancel">Cancelar</string>
@@ -1820,6 +1834,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
     <string name="ew_monitor_exit_title">Atenção!</string>
     <string name="ew_monitor_have_been">"Tenho orgulho de ser um "</string>
     <string name="ew_monitor_info_title">Como funciona?</string>
+    <string name="ew_monitor_join">Junte-se ao programa de monitoramento de terremotos</string>
     <string name="ew_monitor_join_number">Número de voluntários</string>
     <string name="ew_monitor_join_path">Junte-se ao programa usando um dispositivo Xiaomi: Segurança > Aviso de terremoto > Voluntário de monitoramento de terremoto.</string>
     <string name="ew_monitor_my_content">Meu dispositivo móvel faz parte da rede de alerta precoce de terremoto. Depois que seus sensores detectarem ondas sísmicas, os dados serão analisados pelo algoritmo de IA e avisos antecipados serão emitidos para as pessoas nas áreas afetadas.</string>
@@ -2122,7 +2137,7 @@ monitoramento de terremotos"</string>
     <string name="free_time_traffic_title">Insira o limite de dados fora do pico</string>
     <string name="free_traffic_settings">Limite de dados fora do pico</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
-• Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida."</string>
+• Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a Tela dividida."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -2323,6 +2338,8 @@ monitoramento de terremotos"</string>
     <string name="gb_audition_play_instruction">Use fones de ouvido para um melhor efeito</string>
     <string name="gb_award_noti_message">Ative as atualizações de plano de fundo do Game for Peace no Game Turbo para obter recompensas</string>
     <string name="gb_award_noti_title">As recompensas do Game for Peace chegaram!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Não é possível alternar para o Modo balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Não é possível alternar para o Modo balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança. &lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
     <string name="gb_bar_high">Alta</string>
     <string name="gb_bar_low">Baixa</string>
     <string name="gb_bar_mid">Média</string>
@@ -2456,7 +2473,7 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_ngtb_gpu">"GPU"</string>
     <string name="gb_not_support_on_device">Este app não pode ser usado na tela externa</string>
     <string name="gb_operat_frequently">Não tão rápido!</string>
-    <string name="gb_performace_guide_disable_desc"><Data>Não é possível alternar para o Modo balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir o Segurança&lt;/a>"</Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Não é possível alternar para o Modo balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
     <string name="gb_performace_switch_toast">Mudou para o Modo desempenho. Seu dispositivo pode esquentar e consumir mais energia.</string>
     <string name="gb_performace_tips_button">Mudar</string>
     <string name="gb_performace_tips_title">Mude para o Modo desempenho para uma melhor experiência</string>
@@ -2485,6 +2502,8 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_predownload_receive_tips">Ative as atualizações em segundo plano para obter recompensas</string>
     <string name="gb_predownload_receiving">Recebendo…</string>
     <string name="gb_predownload_title">Atualizações em segundo plano</string>
+    <string name="gb_setting_dock_toast">Os recursos do assistente da câmera frontal estão disponíveis na Caixa de ferramentas de chamada agora</string>
+    <string name="gb_setting_dock_toast_2">Os recursos do assistente da câmera frontal estão disponíveis na Caixa de ferramentas de chamada agora</string>
     <string name="gb_shortcut_pref_title">Atalho na Tela inicial</string>
     <string name="gb_shoulder_guide_message1">Mova [L] para qualquer posição funcional para usá-lo através dos botões pop-up</string>
     <string name="gb_shoulder_guide_message2">A ação [1] é ativada pressionando o botão. A ação [2] é ativada soltando o botão.</string>
@@ -2549,6 +2568,8 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_turbo_wonder_subtitle">Grave os momentos-chave</string>
     <string name="gb_vision_enhance">Visuais aprimorados</string>
     <string name="gb_vision_enhance_desc">Melhore a qualidade e o desempenho da imagem</string>
+    <string name="gb_vision_enhance_frme_insertion_new_tips">"Taxa de quadros aprimorada
+%dFPS"</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Taxa de quadros inteligente
 %dFPS"</string>
     <string name="gb_vision_enhance_smart_frame_enhance">Melhorar a taxa de quadros</string>
@@ -2621,12 +2642,24 @@ das suas sessões de jogos"</string>
     <string name="gd_app_edit_title_new">Edite os atalhos da barra lateral</string>
     <string name="gd_setting_conversation">Ferramentas de conferência</string>
     <string name="gd_setting_conversation_desc">Fornece uma variedade de recursos para uso em chamadas de áudio e vídeo em tela cheia</string>
+    <string name="gd_setting_dock_activity_title">Caixa de ferramentas lateral</string>
+    <string name="gd_setting_dock_call_summary">Recursos para chamadas de voz e vídeo (ex.: Brilho da luz de preenchimento)</string>
+    <string name="gd_setting_dock_call_title">Caixa de ferramentas de chamada</string>
+    <string name="gd_setting_dock_game_summary">Melhore a exibição e o desempenho durante os jogos</string>
+    <string name="gd_setting_dock_game_summary_new">Melhore a exibição e o desempenho durante os jogos</string>
+    <string name="gd_setting_dock_summary">Abra outros apps em janelas flutuantes enquanto usa um app em tela cheia</string>
+    <string name="gd_setting_dock_title">Barra lateral</string>
+    <string name="gd_setting_dock_video_summary">Use efeitos como Dolby Atmos enquanto assiste vídeos</string>
+    <string name="gd_setting_dock_video_summary_new">Use ferramentas e efeitos enquanto assiste vídeos</string>
+    <string name="gd_setting_group_custom_conversation_apps">Grave impressão de voz para chamadas</string>
     <string name="gd_setting_desc_action1">Abrir janela flutuante</string>
     <string name="gd_setting_desc_action2">Use um atalho</string>
     <string name="gd_setting_group_custom_gtb_apps">Jogos</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Gerenciar jogos</string>
     <string name="gd_setting_group_custom_line_location">Posição da caixa de ferramentas</string>
     <string name="gd_setting_group_custom_settings">Personalização</string>
     <string name="gd_setting_group_custom_vtb_apps">Apps de vídeo</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Gerenciar apps de vídeo</string>
     <string name="gd_setting_group_smart_tool_box">Barra inteligente</string>
     <string name="gd_setting_group_title_switch">Cenários</string>
     <string name="gd_setting_gtb">Exibir enquanto joga</string>
@@ -2644,17 +2677,23 @@ das suas sessões de jogos"</string>
     <string name="gd_sidebar_edit_btn_expand">Mais</string>
     <string name="gd_sidebar_edit_quick_title">Atalhos</string>
     <string name="gd_sidebar_long_press_tips">Pressione e segure o indicador para movê-lo enquanto segura o dispositivo verticalmente</string>
-    <string name="gd_splite_screen_tips">"A tela dividida não suporta janelas flutuantes"</string>
+    <string name="gd_splite_screen_tips">"A Tela dividida não suporta janelas flutuantes"</string>
     <string name="gdpr_msg"><Data>Para poder detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre seu dispositivo. Leia e concorde com nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> antes de usar nossos serviços. Caso você não concorde com a coleta destas informações, você ainda poderá usar o app, mas alguns recursos não estarão disponíveis.</Data></string>
     <string name="get_detail_by_click">Toque para ver detalhes</string>
     <string name="get_phone_num_fail">Número de telefone desconhecido</string>
     <string name="get_sys_info">Obtendo informações…</string>
     <string name="gigabyteShort">"GB"</string>
+    <string name="global_dock_guide_desc_pad">Pressione e segure o indicador para mover a janela</string>
     <string name="global_dock_guide_desc_with_split_screen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
-• Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida.
+• Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a Tela dividida.
+• Pressione e segure o indicador para mover a janela."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
+• Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a Tela dividida.
 • Pressione e segure o indicador para mover a janela."</string>
     <string name="global_dock_guide_desc_without_split_screen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 • Pressione e segure o indicador para mover a janela."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Deslize para abrir a barra lateral e toque em um app para abri-lo em uma janela flutuante.
+Pressione e segure o indicador para mover a janela."</string>
     <string name="global_satisfaction_notification_button">Avalie</string>
     <string name="global_satisfaction_notification_channel">Pesquisa de satisfação do usuário</string>
     <string name="global_satisfaction_notification_subhead">Nos conte sua experiência</string>
@@ -3729,6 +3768,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_fast_charge_switch_summary_new">Lembre-se de aumentar a velocidade de carregamento quando o carregador fornecido estiver conectado e a bateria ficar abaixo do nível definido</string>
     <string name="pc_fast_charge_switch_title">Aumente a velocidade de carregamento</string>
     <string name="pc_fast_charge_switch_toast_message">As alterações serão aplicadas no próximo carregamento do dispositivo</string>
+    <string name="pc_fast_charge_temp_remider">"Ligue para regular a velocidade de carregamento automaticamente. Este recurso funciona apenas com os carregadores fornecidos pela Xiaomi. Seu dispositivo pode esquentar durante o carregamento."</string>
     <string name="pc_fast_charge_title">Aumente a velocidade de carregamento</string>
     <string name="pc_going_to_exit_extreme_mode">Saindo do Modo hibernação</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Seu dispositivo está carregando. O Modo hibernação está desativado.</string>
@@ -3800,6 +3840,16 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_search_keywords_capacity">Capacidade da bateria</string>
     <string name="pc_search_keywords_property">Desempenho</string>
     <string name="pc_settings_title">Bateria</string>
+    <string name="pc_smart_charge_button_summary">Para prolongar a vida útil da bateria, o sistema aprenderá como você carrega o dispositivo e interromperá o carregamento quando o nível da bateria atingir %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Seu dispositivo esquentou. O carregamento será interrompido quando o nível da bateria atingir %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navegando… O carregamento será interrompido quando o nível da bateria atingir %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">O carregamento irá parar em %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">"Para prolongar a vida útil da bateria, a bateria deste dispositivo não ultrapassará o nível atual enquanto estiver conectado ao carro."</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Não mostrar novamente"</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Proteção da bateria</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">"Para prolongar a vida útil da bateria, a bateria deste dispositivo não ultrapassará o nível atual enquanto estiver conectado ao carro."</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Proteção da bateria</string>
+    <string name="pc_smart_charge_title">Carregamento inteligente</string>
     <string name="pc_smart_discharge_checkbox_summary">"Ao usar os recursos de navegação, o carregamento será interrompido automaticamente em uma porcentagem especificada. A Economia de bateria será desativada."</string>
     <string name="pc_smart_discharge_checkbox_title">Desconexão automática de carregamento</string>
     <string name="pc_smart_discharge_drop_down_title">Configurações de desconexão automática</string>
@@ -3811,6 +3861,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_statistics_battery_use_summary">%s desde o último carregamento</string>
     <string name="pc_statistics_battery_use_title">Uso de bateria</string>
     <string name="pc_temperature_too_high">Dispositivo superaquecido</string>
+    <string name="pc_this_time_charge_full">Carregar totalmente desta vez</string>
+    <string name="pc_this_time_charge_full_work">Quase carregado</string>
+    <string name="pc_timely_charging_summary">A bateria está abaixo de %1$s. Se o dispositivo superaquecer enquanto a bateria estiver fraca, isso poderá danificar a bateria.</string>
+    <string name="pc_timely_charging_title">Carregue seu dispositivo</string>
     <string name="pc_to_phone_install">Instalação de %s via USB bloqueada</string>
     <string name="pc_wait_device_cools_down">Aguarde até que seu dispositivo esfrie para poder usar esse recurso.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Coloque-o no carregador sem fio</string>
@@ -3826,6 +3880,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="perfermance_optimization_summary">Evita o superaquecimento e problemas relacionados ao hardware</string>
     <string name="perfermance_optimization_title">Otimização de desempenho</string>
     <string name="perm_intercept_content">Conceder a este app a seguinte permissão: %1s?</string>
+    <string name="performance_frame_enhance_super_display_tips">"A taxa de quadros aprimorada e a super resolução não funcionam ao mesmo tempo. Ativar um irá desativar o outro."</string>
     <string name="performance_frame_insert_super_display_tips">"A taxa de quadros inteligente e a super resolução não podem funcionar ao mesmo tempo. Ativar um irá desativar o outro."</string>
     <string name="perm_intercept_notification_title">Permitir que o app %1s use notificações permitirá que ele execute as seguintes ações:</string>
     <string name="perm_intercept_privacy_content">Estas ações podem expor os seus dados pessoais. Conceder a permissão (%1s) mesmo assim?</string>
@@ -4510,6 +4565,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_empty_location">Nenhum app acessou a localização hoje</string>
     <string name="privacy_empty_record">Nenhuma gravação de áudio hoje</string>
     <string name="privacy_empty_storage">Nenhum app acessou o armazenamento hoje</string>
+    <string name="privacy_extra_provision_positive_btn">Concordar</string>
+    <string name="privacy_extra_provision_title">Serviços de extensão</string>
     <string name="privacy_flares_behavior_recent">Status do app</string>
     <string name="privacy_flares_capsule_current">%1s | Agora</string>
     <string name="privacy_flares_capsule_recent">%1s | Recentemente</string>
@@ -4593,6 +4650,7 @@ Enquanto calibra, o HyperOS irá enviar uma mensagem de texto para receber os mo
     <string name="privacy_provision_summary">A proteção da privacidade é um compromisso por trás do design dos nossos produtos</string>
     <string name="privacy_provision_text">Estamos empenhados em respeitar e proteger a sua privacidade. Priorizando a investigação e desenvolvimento no campo da segurança da informação, a Xiaomi trabalha constantemente na melhoria dos métodos, práticas e soluções técnicas que protegem seus dados. Também compartilhamos nossas mais recentes conquistas com nossos parceiros, a fim de garantir sua privacidade em todos os âmbitos.</string>
     <string name="privacy_provision_title">Privacidade</string>
+    <string name="privacy_provison_no_network">Conecte-se à rede primeiro.</string>
     <string name="privacy_recommend_category">Personalização</string>
     <string name="privacy_recommend_summary">Receba recomendações de conteúdo personalizado</string>
     <string name="privacy_recommend_title">Recomendações personalizadas</string>
@@ -4876,6 +4934,13 @@ Retirar consentimento agora?"</string>
     <string name="sd_format_summary">Apaga todos os dados no cartão SD (incluindo músicas e fotos)</string>
     <string name="sd_insert_summary">Insira o cartão SD para montá-lo</string>
     <string name="sd_mount">Montar cartão SD</string>
+    <string name="search_keyword_apply">"App"</string>
+    <string name="search_keyword_applybar">App dock</string>
+    <string name="search_keyword_call">Chamada</string>
+    <string name="search_keyword_sidebar">Barra lateral</string>
+    <string name="search_keyword_tool">Ferramentas</string>
+    <string name="search_keyword_tools">Caixa de ferramentas</string>
+    <string name="search_keyword_voice">Voz</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_result_text">Não foi possível encontrar nenhum app</string>
     <string name="section_clear_acc_item_title">%s. Se ainda não houver espaço suficiente, tente usar a Limpeza.</string>
@@ -5833,6 +5898,8 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="toast_cleaner_cloudscan">A limpeza usará as definições online</string>
     <string name="toast_dark_mode_fixed">Corrigido com sucesso. Saia desta página para aplicar as alterações.</string>
     <string name="toast_flow_notification">Notificações de uso de dados ativadas</string>
+    <string name="toast_gamembox_unenable_pad">Ative o Game Turbo em Segurança primeiro</string>
+    <string name="toast_gamembox_unenable_phone">Ative o Game Turbo em Segurança primeiro</string>
     <string name="toast_garbage_lib">Atualização automática ativada para Limpeza</string>
     <string name="toast_keyword_blank">Você precisa inserir uma palavra-chave</string>
     <string name="toast_keyword_exist">Palavra-chave adicionada</string>
@@ -6175,7 +6242,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="warningcenter_disaster_detail_title">Detalhes</string>
     <string name="warningcenter_disaster_guide_title">Orientações de segurança</string>
     <string name="warningcenter_disaster_icon_title">Aviso de demonstração</string>
-    <string name="warningcenter_disaster_info">"Publicado por CMA's Warning Center"</string>
+    <string name="warningcenter_disaster_info">"Receba avisos de desastres para se manter seguro e minimizar riscos"</string>
     <string name="warningcenter_disaster_info_title">Sobre os alertas</string>
     <string name="warningcenter_disaster_level_1">Nível I (Extremamente severo)</string>
     <string name="warningcenter_disaster_level_2">Nível II (Severo)</string>
@@ -6209,6 +6276,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="warningcenter_disaster_recent">Alertas recentes</string>
     <string name="warningcenter_disaster_search_hint">Tipo de alerta/região/agência emissora</string>
     <string name="warningcenter_disaster_search_keywords">Alertas de clima</string>
+    <string name="warningcenter_disaster_service_area">Escopo do serviço</string>
     <string name="warningcenter_disaster_title">Alertas de desastre</string>
     <string name="warningcenter_disaster_type_all">Todos os tipos</string>
     <string name="warningcenter_disaster_type_cancel">Cancelado</string>
@@ -6566,6 +6634,8 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="permission_legacy_storage">Acesse fotos, vídeos, áudio e arquivos</string>
     <string name="permission_precise_location">Localização precisa</string>
     <string name="permission_precise_location_sumary">Quando esse recurso estiver desativado, os apps só poderão acessar sua localização aproximada</string>
+    <string name="permission_risk_app_for_desc">Este app pode representar riscos de segurança. Conceder permissões mesmo assim?</string>
+    <string name="permission_risk_app_for_title">Riscos detectados</string>
     <string name="permission_share_uid">Localização precisa</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Acessou as informações do seu treino</string>
     <string name="permission_usage_allow_autostart_once">%1$s | Foi iniciado automaticamente</string>
@@ -6644,6 +6714,9 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="permission_usage_virtual_contacts_once">%1$s | Retornou um contato vazio</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Retornou um status de chamada vazio</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Retornou um SMS vazio</string>
+    <string name="permission_warning_for_cancel">Cancelar</string>
+    <string name="permission_warning_for_ensure">Conceder</string>
+    <string name="permission_warning_for_risk">Se você decidir conceder as permissões, mensagens em branco serão devolvidas ao app para proteger sua privacidade.</string>
     <string name="phone_number_protect">Tornar o número de telefone privado</string>
     <string name="power_center_super_wireless_charge_enter_noti_summary">A velocidade do ventilador do carregador sem fio aumentou e a velocidade de carregamento está mais rápida</string>
     <string name="power_center_super_wireless_charge_enter_noti_title">Modo de carregamento sem fio ultrarrápido</string>
@@ -6731,7 +6804,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="sim_lock_done_disable">Seu cartão SIM não está protegido</string>
     <string name="sim_lock_done_enable">Seu cartão SIM está protegido</string>
     <string name="sim_lock_done_title">Segurança do SIM</string>
-    <string name="sim_lock_enable_done_message">Seu cartão SIM agora está associado a este dispositivo. O PIN do SIM será verificado automaticamente. Você ainda terá que inserir o PIN manualmente quando estiver usando este cartão SIM em outros dispositivos.</string>
+    <string name="sim_lock_enable_done_message">Seu cartão SIM está associado a este dispositivo. Você terá que verificar seu PIN ao usar o cartão SIM ou inseri-lo em outro dispositivo.</string>
     <string name="sim_lock_guide_button">Configurações</string>
     <string name="sim_lock_guide_message">Associe o seu cartão SIM a este dispositivo para torná-lo menos vulnerável a riscos de segurança</string>
     <string name="sim_lock_guide_title">Proteja o seu cartão SIM</string>
@@ -6891,7 +6964,15 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="wakepath_delete_all_tips">"Se você continuar, terá que conceder permissão a cada app para abrir outros apps. Continuar de qualquer maneira?"</string>
     <string name="wakepath_delete_app_start_all">"Se continuar, você terá que conceder permissão a %s novamente para abrir qualquer outro app. Continuar de qualquer maneira?"</string>
     <string name="wakepath_delete_app_start_other_app">"Se continuar, você terá que conceder permissão a %1$s novamente para abrir %2$s. Continuar de qualquer maneira?"</string>
+    <string name="wakepath_manager_allow_list">Permitido</string>
+    <string name="wakepath_manager_allow_start">Permitido</string>
+    <string name="wakepath_manager_checkbox_desc">Permita que %1$s inicie outros app</string>
+    <string name="wakepath_manager_checkbox_title">Permitir início da cadeia</string>
+    <string name="wakepath_manager_empty_list">Nenhum app pode ser iniciado</string>
+    <string name="wakepath_manager_reject_list">Restrito</string>
+    <string name="wakepath_manager_reject_toast">Pesquise \"Gerenciar início da cadeia\" nas Configurações para permitir que este app inicie outros apps</string>
     <string name="wakepath_manager_title">Gerenciar início da cadeia</string>
+    <string name="warningcenter_accurate_area_title">Área afetada</string>
     <string name="warningcenter_disaster_area_tips">• Atualmente, apenas as áreas "Tianjin", "Taishan City" e "Lin'an City" estão atualmente disponíveis.</string>
     <string name="warningcenter_disaster_baoxue">Nevasca</string>
     <string name="warningcenter_disaster_baoyu">Tempestade</string>

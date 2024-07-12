@@ -35,8 +35,11 @@
     <string name="ai_mode_auto">Automático</string>
     <string name="ai_mode_manual">Manualmente</string>
     <string name="ai_mode_subtitles">Legendas</string>
+    <string name="align_satellite_model_call">Ligar</string>
     <string name="align_satellite_model_exit">Sair</string>
+    <string name="align_satellite_model_mms">Mensagem</string>
     <string name="align_satellite_model_use">Iniciar</string>
+    <string name="align_satellite_model_use_exp">Terminar</string>
     <string name="am">"AM"</string>
     <string name="antifraud_center">Plataforma de alerta antifraude</string>
     <string name="antifraud_center_incoming_prompt">"Não perca nenhuma ligação da plataforma oficial de alerta antifraude"</string>
@@ -97,6 +100,7 @@
     <string name="call_progress_info_user_busy">A outra pessoa está ocupada agora. Por favor, ligue de volta mais tarde</string>
     <string name="call_progress_info_user_call_rejected">Seu número está fora de serviço</string>
     <string name="call_record_wait_label">Aguardando</string>
+    <string name="call_recording">Gravação de chamada em andamento</string>
     <string name="call_recording_deny_permission_msg">"Não é possível gravar. Conceda as permissões nas Configurações primeiro."</string>
     <string name="call_recording_error_low_storage">Não há espaço suficiente no armazenamento.</string>
     <string name="call_recording_error_privacy">"Não é possível gravar enquanto você está no Modo convidado"</string>
@@ -198,6 +202,10 @@
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">"PM"</string>
+    <string name="flip_expand_conference_call_text">Desdobre para gerenciar a chamada em conferência</string>
+    <string name="flip_expand_suport_videocall_text">Desdobre para exibir opções de videochamada</string>
+    <string name="flip_expand_switch_call_text">Desdobre para mudar para a chamada multicanal</string>
+    <string name="flip_video_incoming_call_label">Videochamada</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -419,9 +427,18 @@ Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
     <string name="satellite_dialog_button">Janela flutuante</string>
     <string name="satellite_dialog_cancel">Cancelar</string>
     <string name="satellite_guide_azimuth">Mova até que o ícone do satélite esteja na área azul</string>
+    <string name="satellite_dialog_cancel_exp">Cancelar</string>
+    <string name="satellite_get_gps_timeout">"Não é possível obter informações de localização. Fique em uma área aberta e evite objetos que bloqueiem o sinal."</string>
+    <string name="satellite_guide_azimuth">Mova-se até que o satélite esteja na área de varredura</string>
+    <string name="satellite_guide_azimuth_floating">Entre na área de varredura</string>
+    <string name="satellite_guide_azimuth_in">O satélite está na área de varredura</string>
+    <string name="satellite_guide_azimuth_in_floating">O satélite está na área de varredura</string>
+    <string name="satellite_guide_azimuth_leave">O satélite saiu da área de varredura</string>
+    <string name="satellite_guide_azimuth_leave_floating">Está ficando mais longe</string>
     <string name="satellite_guide_down">"Incline seu dispositivo para baixo
 até colocar a bola na área azul"</string>
-    <string name="satellite_guide_elevation">Mova até que o ícone do satélite esteja no círculo azul</string>
+    <string name="satellite_guide_elevation">Incline seu dispositivo para mover o círculo azul para o satélite e fique parado</string>
+    <string name="satellite_guide_elevation_floating">Coloque o círculo no satélite</string>
     <string name="satellite_guide_found">Satélite encontrado</string>
     <string name="satellite_guide_left">"Incline seu dispositivo para a esquerda
 para colocar o ícone do satélite na área azul"</string>
@@ -429,17 +446,39 @@ para colocar o ícone do satélite na área azul"</string>
 para colocar o ícone do satélite na área azul"</string>
     <string name="satellite_guide_searching">Procurando por satélite…</string>
     <string name="satellite_guide_searching_floating">Procurando…</string>
+    <string name="satellite_guide_searching_fold">"Procurando por satélite… Não desdobre o dispositivo."</string>
+    <string name="satellite_guide_searching_unfold">"Procurando por satélite… Não dobre o dispositivo."</string>
+    <string name="satellite_guide_signal">Para um sinal melhor, mova seu dispositivo ligeiramente para cima e para baixo.</string>
     <string name="satellite_guide_up">"Incline seu dispositivo para cima
 até colocar a bola na área azul"</string>
-    <string name="satellite_incall_tip">O alto-falante está ligado</string>
-    <string name="satellite_satellite_accessory">"Estou usando acessórios de aprimoramento de sinal do Tiantong Satellite"</string>
+    <string name="satellite_incall_tip">Não é possível usar o fone de ouvido ao usar comunicações via satélite</string>
+    <string name="satellite_knew">Entendi</string>
+    <string name="satellite_latitude_longitude">"Localização atual: "</string>
+    <string name="satellite_location_deny_permission_msg">Permitir acesso à localização para ativar as comunicações do satélite Tiantong</string>
+    <string name="satellite_satellite_accessory">"Estou usando um amplificador de sinal de satélite"</string>
+    <string name="satellite_satellite_service_redirection">Ativar</string>
+    <string name="satellite_satellite_service_tip">"Parece que você não ativou o serviço de conexão direta via satélite. Tente procurar por satélites após a ativação."</string>
     <string name="satellite_service_provider">Serviço fornecido pela China Telecom</string>
+    <string name="satellite_service_reject_cause_imei">"O IMEI do dispositivo não está registrado"</string>
+    <string name="satellite_service_reject_cause_not_enable_International_roaming">Ative o roaming internacional</string>
+    <string name="satellite_service_reject_cause_not_order_tiantong">Ative os serviços do satélite Tiantong</string>
+    <string name="satellite_service_reject_cause_not_use_ctc">Insira um cartão SIM da China Telecom</string>
+    <string name="satellite_signal_boost_setting_dialog">Uma vez instalado e ativado, o amplificador de sinal mudará ligeiramente o ângulo desta unidade em relação ao satélite, melhorando a força e a estabilidade do sinal das comunicações por satélite em condições de céu nublado e encoberto.</string>
+    <string name="satellite_signal_boost_setting_dialog_title">Instale e comece a usar o amplificador de sinal de satélite</string>
     <string name="satellite_state">"Não mova seu dispositivo"</string>
     <string name="satellite_state_auto_exit">Sair (%ds)</string>
-    <string name="satellite_state_connected">"Conectado ao satélite. Não mova seu dispositivo."</string>
+    <string name="satellite_state_connected">"Conectado ao satélite
+Mantenha o dispositivo nesta posição."</string>
+    <string name="satellite_state_connected_exp">Satélite localizado com sucesso</string>
+    <string name="satellite_state_connected_exp_floating">Satélite localizado com sucesso</string>
     <string name="satellite_state_connected_floating">"Não mova seu dispositivo"</string>
-    <string name="satellite_state_connecting">Conectando… (%ds)</string>
+    <string name="satellite_state_connecting">Conectando ao satélite (%ds)</string>
+    <string name="satellite_state_connecting_floating">Conectando… (%ds)</string>
+    <string name="satellite_state_gps_noti_content">Usando suas informações de localização…</string>
+    <string name="satellite_state_gps_noti_title">Comunicações por satélite</string>
+    <string name="satellite_state_occlusion_prompt">Evite edifícios ou árvores que possam bloquear o sinal</string>
     <string name="satellite_state_retry">Continue tentando</string>
+    <string name="satellite_state_voice_reg_fail_exit">Sair</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

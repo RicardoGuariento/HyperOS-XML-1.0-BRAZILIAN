@@ -31,7 +31,7 @@
     <string name="afternoon">"PM"</string>
     <string name="agree_desc">Conceda as permissões obrigatórias listadas acima.</string>
     <string name="am">"AM"</string>
-    <string name="app_name">Compartilhamento Mi</string>
+    <string name="app_name">Compartilhamento Xiaomi</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
     <string name="blackshark">Black Shark</string>
@@ -101,7 +101,7 @@
     <string name="error_p2p_create_group_failure_china">"Não foi possível conectar. Reconecte-se ao Wi-Fi nos dois dispositivos e tente novamente."</string>
     <string name="error_p2p_recv_connect_timeout">"Não foi possível conectar. Reconecte-se ao Wi-Fi em ambos os dispositivos e tente novamente."</string>
     <string name="error_p2p_recv_connect_timeout_china">"Não foi possível conectar. Reconecte-se ao Wi-Fi em ambos os dispositivos e tente novamente."</string>
-    <string name="error_permission_denied">Para poder usar este recurso, conceda ao Compartilhamento Mi todas as permissões requeridas nas Configurações.</string>
+    <string name="error_permission_denied">Para poder usar este recurso, conceda ao Compartilhamento Xiaomi todas as permissões requeridas nas Configurações.</string>
     <string name="error_receive_file_cannot_read">"Não foi possível receber o arquivo"</string>
     <string name="error_receive_file_changed">"Não é possível receber. O arquivo foi alterado."</string>
     <string name="error_receive_file_file_opened">"Não foi possível receber este item. Parece que ele está sendo usado no momento."</string>
@@ -120,8 +120,8 @@
     <string name="error_send_file_service_disabled">Envio de transferência cancelada</string>
     <string name="error_send_transfer_error">"Não foi possível enviar itens. Aguarde um ou dois minutos e tente novamente."</string>
     <string name="error_send_transfer_pc_error">Tempo esgotado para a transferência. Atualize o Xiaomi PC Manager para a versão mais recente e tente novamente.</string>
-    <string name="error_slave_wifi_in_use">"O Compartilhamento Mi não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente."</string>
-    <string name="error_slave_wifi_in_use_china">"O Compartilhamento Mi não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente."</string>
+    <string name="error_slave_wifi_in_use">"O Compartilhamento Xiaomi não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente."</string>
+    <string name="error_slave_wifi_in_use_china">"O Compartilhamento Xiaomi não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente."</string>
     <string name="error_timeout">Tempo limite da sessão. Aguarde um momento tente novamente.</string>
     <string name="error_user_refuse">"Não é possível enviar. A transferência foi rejeitada."</string>
     <string name="error_wifi_display_in_use">"Não é possível enviar arquivos para outros dispositivos durante uma transmissão"</string>
@@ -183,17 +183,21 @@
     <string name="go_to_settings">Configurações</string>
     <string name="guide_summary_1">A outra pessoa pode tocar no seletor na Área de notificações</string>
     <string name="guide_summary_2">"Selecione o dispositivo que você deseja enviar os arquivos e toque no seu ícone"</string>
-    <string name="guide_title_1">Ative o Compartilhamento Mi nos dois dispositivos</string>
+    <string name="guide_title_1">Ative o Compartilhamento Xiaomi nos dois dispositivos</string>
     <string name="guide_title_2">Selecione o dispositivo para compartilhar</string>
     <string name="help">"Não encontrou os dispositivos?"</string>
-    <string name="help_content">"Caso não encontre o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi."</string>
+    <string name="help_content">"Caso não encontre o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Xiaomi."</string>
     <string name="hide">Ocultar</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Entendi</string>
+    <string name="international_privacy_dialog_agree">Concordo</string>
+    <string name="international_privacy_dialog_content">"Enquanto você usa este app, precisamos coletar as informações necessárias para poder conectar-se a dispositivos e transferir arquivos. Se você optar por não fornecer essas informações, talvez não possamos fornecer os serviços correspondentes ou responder às suas perguntas. Você pode enviar uma solicitação para retirar seu consentimento a qualquer momento em Privacidade > Retirada do consentimento."</string>
+    <string name="international_privacy_dialog_disagree">"Não concordo"</string>
+    <string name="international_privacy_dialog_title">Compartilhamento Xiaomi</string>
     <string name="lenovo">"Lenovo"</string>
     <string name="lenovo_phone">"Lenovo"</string>
-    <string name="location_enabled">O Compartilhamento Mi ativou os serviços de localização para encontrar dispositivos próximos</string>
+    <string name="location_enabled">O Compartilhamento Xiaomi ativou os serviços de localização para encontrar dispositivos próximos</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_permission_manager_and_use_guide_title">Detalhes das permissões</string>
@@ -210,7 +214,7 @@
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Compartilhamento Mi</string>
+    <string name="mi_drop">Compartilhamento Xiaomi</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Mi Pad 5</string>
     <string name="mi_pad_5_pro">Mi Pad 5 Pro</string>
@@ -218,14 +222,14 @@
     <string name="mi_share_turbo_mode">Transferência turbo</string>
     <string name="midnight">"AM"</string>
     <string name="mini_pc_xiaomi_device_model_name">Mini PC Xiaomi</string>
-    <string name="mishare_folder_in_file_explorer">Arquivos > Compartilhamento Mi</string>
-    <string name="mishare_service_channel_desc">Notificações sobre processos do Compartilhamento Mi</string>
-    <string name="mishare_settings_summary_international">"O Compartilhamento Mi permite que você envie itens sem fio para outros dispositivos próximos.
+    <string name="mishare_folder_in_file_explorer">Arquivos > Compartilhamento Xiaomi</string>
+    <string name="mishare_service_channel_desc">Notificações sobre processos do Compartilhamento Xiaomi</string>
+    <string name="mishare_settings_summary_international">"O Compartilhamento Xiaomi permite que você envie itens sem fio para outros dispositivos próximos.
 Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartphones. Você pode conferir a lista de dispositivos suportados no site oficial de qualquer marca selecionada."</string>
-    <string name="mishare_state_protection">Ativar o Compartilhamento Mi automaticamente</string>
-    <string name="mishare_state_protection_summary">Ativa o Compartilhamento Mi automaticamente quando o Bluetooth ou o Wi-Fi forem reativados</string>
-    <string name="mishare_state_protection_summary_china">Ativa o Compartilhamento Mi automaticamente quando o Bluetooth ou o Wi-Fi forem reativados</string>
-    <string name="mishare_transefer_channel_desc">Notificações sobre itens enviados e recebidos pelo Compartilhamento Mi</string>
+    <string name="mishare_state_protection">Ativar o Compartilhamento Xiaomi automaticamente</string>
+    <string name="mishare_state_protection_summary">Ativa o Compartilhamento Xiaomi automaticamente quando o Bluetooth ou o Wi-Fi forem reativados</string>
+    <string name="mishare_state_protection_summary_china">Ativa o Compartilhamento Xiaomi automaticamente quando o Bluetooth ou o Wi-Fi forem reativados</string>
+    <string name="mishare_transefer_channel_desc">Notificações sobre itens enviados e recebidos pelo Compartilhamento Xiaomi</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -299,8 +303,8 @@ Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartp
     <string name="nfc_check_the_touch_device">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conectividade > Dispositivos conectados e tente novamente.</string>
     <string name="nfc_check_the_touch_device_china">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conectividade > Dispositivos conectados e tente novamente.</string>
     <string name="nfc_connect_fail">"Não foi possível conectar. Espere um ou dois minutos e tente novamente."</string>
-    <string name="nfc_connect_fail_lyra_secure">"Você pode ativar o Compartilhamento Mi no centro de controle do seu dispositivo."</string>
-    <string name="nfc_connect_fail_lyra_secure_title">Compartilhamento Mi está desativado</string>
+    <string name="nfc_connect_fail_lyra_secure">"Você pode ativar o Compartilhamento Xiaomi no centro de controle do seu dispositivo."</string>
+    <string name="nfc_connect_fail_lyra_secure_title">Compartilhamento Xiaomi está desativado</string>
     <string name="nfc_connect_fail_pad">"Não foi possível conectar"</string>
     <string name="nfc_connecting">Conectando…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Para conectar os dispositivos, primeiro ative o Wi-Fi e o Bluetooth neste dispositivo. Ativar agora?</string>
@@ -327,15 +331,15 @@ Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartp
     <string name="pc_device_model_name">Computador</string>
     <string name="pc_redmi_device_model_name">Notebook Redmi</string>
     <string name="pc_xiaomi_device_model_name">Notebook Xiaomi</string>
-    <string name="permission_apply_purpose">Permita que o Compartilhamento Mi descubra e se conecte a dispositivos próximos para poder transferir arquivos.</string>
-    <string name="permission_denied_hint">Conceda as permissões requeridas para poder usar o Compartilhamento Mi</string>
+    <string name="permission_apply_purpose">Permita que o Compartilhamento Xiaomi descubra e se conecte a dispositivos próximos para poder transferir arquivos.</string>
+    <string name="permission_denied_hint">Conceda as permissões requeridas para poder usar o Compartilhamento Xiaomi</string>
     <string name="permission_related">Permissões</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_authorize">Autorização</string>
-    <string name="purpose">"Bem-vindo ao Compartilhamento Mi! Você pode usar este app para enviar arquivos entre dispositivos. Protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas relevantes.
-Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permissões, bem como permitir que ele colete as informações pessoais necessárias:"</string>
-    <string name="purpose_v12">Bem-vindo ao Compartilhamento Mi! Você pode usar este app para enviar arquivos entre dispositivos.</string>
+    <string name="purpose">"Bem-vindo ao Compartilhamento Xiaomi! Você pode usar este app para enviar arquivos entre dispositivos. Protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas relevantes.
+Antes de usar o Compartilhamento Xiaomi, você precisa conceder as seguintes permissões, bem como permitir que ele colete as informações pessoais necessárias:"</string>
+    <string name="purpose_v12">Bem-vindo ao Compartilhamento Xiaomi! Você pode usar este app para enviar arquivos entre dispositivos.</string>
     <string name="queue_full">Finalize as transferências em andamento antes de adicionar novas.</string>
     <string name="realme">Realme</string>
     <string name="realme_phone">Realme</string>
@@ -441,7 +445,7 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="stop_scan">PARAR VERIFICAÇÃO</string>
     <string name="sub_title_mishare_switch">Este recurso será desativado automaticamente após %d minutos</string>
     <string name="sub_title_turbo_mode">Transferências super rápidas entre telefones e tablets Xiaomi. A rede será desconectada durante a transferência.</string>
-    <string name="sub_title_withdraw_privacy_policy_consent">Retirar o consentimento à Política de Privacidade também desativará o Compartilhamento Mi</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">Retirar o consentimento à Política de Privacidade também desativará o Compartilhamento Xiaomi</string>
     <string name="success_receive_much_file_from_pc">Recebido mais de 200 arquivos de %1$s. Toque para visualizar.</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -500,22 +504,22 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="time_picker_label_minute">"M"</string>
     <string name="tips_p2p_support_use5g">Para melhores resultados, use uma rede Wi-Fi de 5 GHz.</string>
     <string name="tips_p2p_support_use5g_china">Para melhores resultados, use uma rede Wi-Fi de 5 GHz.</string>
-    <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
+    <string name="tips_prompt_enable_midrop">Compartilhamento Xiaomi</string>
     <string name="to_feedback">Reportar</string>
-    <string name="toast_auto_close_in_minutes">O Compartilhamento Mi será desativado automaticamente após %d minutos</string>
+    <string name="toast_auto_close_in_minutes">O Compartilhamento Xiaomi será desativado automaticamente após %d minutos</string>
     <string name="toast_transfering">Transferindo itens. Tente mais tarde.</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="transfer_intercept_to_remote">"Não foi possível enviar: %1$s"</string>
-    <string name="transfer_to_pc_summary">"A versão mais recente do software AIoT instalado em Notebooks Mi é compatível com Compartilhamento Mi. Você pode verificar a lista de modelos de notebook compatíveis no site do HyperOS. Se o seu notebook estiver na lista, mas o AIoT não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o AIoT."</string>
-    <string name="transfer_to_pc_summary_new"><Data>"A versão mais recente do MIUI+ instalada em Notebooks Mi é compatível com o Compartilhamento Mi. Você pode verificar a lista de modelos de laptop suportados no site MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu notebook estiver na lista, mas o MIUI+ não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o MIUI+."</Data></string>
-    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager agora suporta Compartilhamento Mi! Você pode encontrar uma lista de modelos de computadores compatíveis &lt;a href=%1$s>aqui&lt;/a>.</Data></string>
+    <string name="transfer_to_pc_summary">"A versão mais recente do software AIoT instalado em Notebooks Mi é compatível com o Compartilhamento Xiaomi. Você pode verificar a lista de modelos de notebook compatíveis no site do HyperOS. Se o seu notebook estiver na lista, mas o AIoT não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o AIoT."</string>
+    <string name="transfer_to_pc_summary_new"><Data>"A versão mais recente do MIUI+ instalada em Notebooks Mi é compatível com o Compartilhamento Xiaomi. Você pode verificar a lista de modelos de laptop suportados no site MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu notebook estiver na lista, mas o MIUI+ não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o MIUI+."</Data></string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager agora suporta o Compartilhamento Xiaomi! Você pode encontrar uma lista de modelos de computadores compatíveis &lt;a href=%1$s>aqui&lt;/a>.</Data></string>
     <string name="transfer_to_pc_title">Enviar arquivos a computadores</string>
-    <string name="transfer_to_phone_summary">"Ative o Compartilhamento Mi usando o atalho na Área de notificações. Depois disso, você poderá ver os dispositivos próximos quando começar a compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando."</string>
-    <string name="transfer_to_phone_summary_new">Ative o Compartilhamento Mi no centro de controle para poder enviar e receber itens com facilidade. Depois de ativá-lo, você pode compartilhar itens com dispositivos próximos por %d minutos antes que ele seja desativado automaticamente.</string>
+    <string name="transfer_to_phone_summary">"Ative o Compartilhamento Xiaomi usando o atalho na Área de notificações. Depois disso, você poderá ver os dispositivos próximos quando começar a compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando."</string>
+    <string name="transfer_to_phone_summary_new">Ative o Compartilhamento Xiaomi no centro de controle para poder enviar e receber itens com facilidade. Depois de ativá-lo, você pode compartilhar itens com dispositivos próximos por %d minutos antes que ele seja desativado automaticamente.</string>
     <string name="transfer_to_phone_title">Enviar arquivos a telefones</string>
-    <string name="transfer_to_summary">"Ative o Compartilhamento Mi usando o atalho na Área de notificações. Depois disso, você poderá ver os dispositivos próximos quando começar a compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando."</string>
-    <string name="transfer_to_summary_new">Ative o Compartilhamento Mi no centro de controle para poder enviar e receber itens com facilidade. Depois de ativá-lo, você pode compartilhar itens com dispositivos próximos por %d minutos antes que ele seja desativado automaticamente.</string>
+    <string name="transfer_to_summary">"Ative o Compartilhamento Xiaomi usando o atalho na Área de notificações. Depois disso, você poderá ver os dispositivos próximos quando começar a compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando."</string>
+    <string name="transfer_to_summary_new">Ative o Compartilhamento Xiaomi no centro de controle para poder enviar e receber itens com facilidade. Depois de ativá-lo, você pode compartilhar itens com dispositivos próximos por %d minutos antes que ele seja desativado automaticamente.</string>
     <string name="transfer_to_title">Envie arquivos para dispositivos móveis</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
@@ -524,8 +528,8 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="unrecognized_manufacture">Desconhecido</string>
     <string name="unrecognized_model">Dispositivo desconhecido</string>
     <string name="user_instructions">Atenção!</string>
-    <string name="uwb_guide_summary_1">"Caso não consiga encontrar o dispositivo de destino, peça à outra pessoa para ativar o Compartilhamento Mi no centro de controle."</string>
-    <string name="uwb_guide_title_1">Peça à outra pessoa para ativar o Compartilhamento Mi</string>
+    <string name="uwb_guide_summary_1">"Caso não consiga encontrar o dispositivo de destino, peça à outra pessoa para ativar o Compartilhamento Xiaomi no centro de controle."</string>
+    <string name="uwb_guide_title_1">Peça à outra pessoa para ativar o Compartilhamento Xiaomi</string>
     <string name="uwb_guide_title_2">Encontre o dispositivo de destino mais rápido com o Compartilhamento</string>
     <string name="uwb_setting_guide">Saiba mais</string>
     <string name="uwb_setting_guide_summary">O Compartilhamento usa a tecnologia UWB para reconhecer dispositivos sem fio. Assim que o dispositivo for reconhecido, seu ícone aparecerá em primeiro plano.</string>
@@ -547,7 +551,7 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="wifi_is_not_enabled">Ative o Wi-Fi primeiro</string>
     <string name="wifi_is_not_enabled_china">Ative o Wi-Fi primeiro</string>
     <string name="withdraw">Retirar</string>
-    <string name="withdraw_consent_message">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Compartilhamento Mi. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como a Compartilhamento Mi fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços do Compartilhamento Mi."</string>
+    <string name="withdraw_consent_message">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Compartilhamento Xiaomi. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Compartilhamento Xiaomi fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços do Compartilhamento Xiaomi."</string>
     <string name="withdraw_consent_title">Retirada do consentimento</string>
     <string name="withdraw_with_time">Retirar (%1$ds)</string>
     <string name="xiaomi">Mi</string>
