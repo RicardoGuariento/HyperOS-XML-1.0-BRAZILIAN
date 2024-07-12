@@ -2643,7 +2643,7 @@ das suas sessões de jogos"</string>
     <string name="gd_setting_conversation">Ferramentas de conferência</string>
     <string name="gd_setting_conversation_desc">Fornece uma variedade de recursos para uso em chamadas de áudio e vídeo em tela cheia</string>
     <string name="gd_setting_dock_activity_title">Caixa de ferramentas lateral</string>
-    <string name="gd_setting_dock_call_summary">Recursos para chamadas de voz e vídeo (ex.: Brilho da luz de preenchimento)</string>
+    <string name="gd_setting_dock_call_summary">Recursos para chamadas de voz e vídeo (ex.: Luz de preenchimento)</string>
     <string name="gd_setting_dock_call_title">Caixa de ferramentas de chamada</string>
     <string name="gd_setting_dock_game_summary">Melhore a exibição e o desempenho durante os jogos</string>
     <string name="gd_setting_dock_game_summary_new">Melhore a exibição e o desempenho durante os jogos</string>
@@ -3840,9 +3840,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_search_keywords_capacity">Capacidade da bateria</string>
     <string name="pc_search_keywords_property">Desempenho</string>
     <string name="pc_settings_title">Bateria</string>
-    <string name="pc_smart_charge_button_summary">Para prolongar a vida útil da bateria, o sistema aprenderá como você carrega o dispositivo e interromperá o carregamento quando o nível da bateria atingir %1$s</string>
-    <string name="pc_smart_charge_notify_summary_high_temp">Seu dispositivo esquentou. O carregamento será interrompido quando o nível da bateria atingir %1$s</string>
-    <string name="pc_smart_charge_notify_summary_navagition">Navegando… O carregamento será interrompido quando o nível da bateria atingir %1$s</string>
+    <string name="pc_smart_charge_button_summary">Para prolongar a vida útil da bateria, o sistema aprenderá como você carrega o dispositivo e interromperá o carregamento quando o nível da bateria atingir %1$s.</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Seu dispositivo esquentou. O carregamento será interrompido quando o nível da bateria atingir %1$s.</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navegando… O carregamento será interrompido quando o nível da bateria atingir %1$s.</string>
     <string name="pc_smart_charge_notify_summary_night_charge">O carregamento irá parar em %s</string>
     <string name="pc_smart_charge_pogo_project_dialog_content">"Para prolongar a vida útil da bateria, a bateria deste dispositivo não ultrapassará o nível atual enquanto estiver conectado ao carro."</string>
     <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Não mostrar novamente"</string>
@@ -6634,7 +6634,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="permission_legacy_storage">Acesse fotos, vídeos, áudio e arquivos</string>
     <string name="permission_precise_location">Localização precisa</string>
     <string name="permission_precise_location_sumary">Quando esse recurso estiver desativado, os apps só poderão acessar sua localização aproximada</string>
-    <string name="permission_risk_app_for_desc">Este app pode representar riscos de segurança. Conceder permissões mesmo assim?</string>
+    <string name="permission_risk_app_for_desc">Este app pode representar riscos de segurança. Conceder as permissões mesmo assim?</string>
     <string name="permission_risk_app_for_title">Riscos detectados</string>
     <string name="permission_share_uid">Localização precisa</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Acessou as informações do seu treino</string>
