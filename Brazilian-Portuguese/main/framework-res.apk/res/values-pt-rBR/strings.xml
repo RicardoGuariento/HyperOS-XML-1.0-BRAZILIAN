@@ -196,6 +196,7 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="accessibility_system_action_dpad_right_label">Dpad Direita</string>
     <string name="accessibility_system_action_dpad_up_label">Dpad Cima</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Atalho de acessibilidade</string>
+    <string name="accessibility_system_action_headset_hook_label">Suporte para fone de ouvido</string>
     <string name="accessibility_system_action_home_label">Início</string>
     <string name="accessibility_system_action_lock_screen_label">Bloquear tela</string>
     <string name="accessibility_system_action_notifications_label">Notificações</string>
@@ -290,6 +291,8 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="app_suspended_unsuspend_message">Retomar app</string>
     <string name="app_upgrading_toast">%1$s está fazendo upgrade…</string>
     <string name="as_app_forced_to_restricted_bucket">%1$s foi colocado no intervalo \"RESTRITO\"</string>
+    <string name="auto_data_switch_content">Você pode alterar isso a qualquer momento nas Configurações</string>
+    <string name="auto_data_switch_title">Dados alterados para %s</string>
     <string name="autofill">Preenchimento automático</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
@@ -414,10 +417,18 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="chooser_no_direct_share_targets">Não há sugestões de pessoas para compartilhar</string>
     <string name="chooser_wallpaper">Alterar plano de fundo</string>
     <string name="clearDefaultHintMsg">Padrão claro em Configurações do sistema > Apps > Baixado.</string>
+    <string name="clone_profile_label_badge">Clonar %1$s</string>
     <string name="close_button_text">Fechar</string>
     <string name="color_correction_feature_name">Correção de cor</string>
     <string name="color_inversion_feature_name">Inversão de cores</string>
     <string name="common_name">Nome comum:</string>
+    <string name="concurrent_display_notification_active_content">%1$s está usando ambos os displays para mostrar conteúdo</string>
+    <string name="concurrent_display_notification_active_title">A Tela dupla está ativada</string>
+    <string name="concurrent_display_notification_name">Tela dupla</string>
+    <string name="concurrent_display_notification_power_save_content">A Tela dupla não está disponível porque a Economia de bateria está ativada. Você pode desligar isso nas Configurações.</string>
+    <string name="concurrent_display_notification_power_save_title">A Tela dupla não está disponível</string>
+    <string name="concurrent_display_notification_thermal_content">A Tela dupla não está disponível porque seu dispositivo está esquentando muito</string>
+    <string name="concurrent_display_notification_thermal_title">O dispositivo está muito quente</string>
     <string name="condition_provider_service_binding_label">Provedor de condições</string>
     <string name="conference_call">Teleconferência</string>
     <string name="confirm_battery_saver">"OK"</string>
@@ -440,6 +451,12 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
 usando %s"</string>
     <string name="crossSimFormat_spn">%s</string>
     <string name="crossSimFormat_spn_cross_sim_calling">%s Backup de chamada</string>
+    <string name="csd_dose_reached_warning">"Continuar ouvindo em volume alto?
+
+O volume do fone de ouvido ficou alto por mais tempo do que o recomendado, o que pode prejudicar sua audição."</string>
+    <string name="csd_momentary_exposure_warning">"Som alto detectado
+
+O volume do fone de ouvido está mais alto do que o recomendado, o que pode prejudicar sua audição."</string>
     <string name="cut">Recortar</string>
     <string name="data_saver_description">Para ajudar a reduzir o uso de dados, a Economia de dados impede que alguns apps enviem ou recebam dados em segundo plano. Um app que você esteja usando no momento pode acessar dados, mas com menos frequência. Isso pode fazer com que imagens não sejam exibidas até que você toque nelas.</string>
     <string name="data_saver_enable_button">Ativar</string>
@@ -488,11 +505,14 @@ usando %s"</string>
     <string name="demo_restarting_message">Redefinindo dispositivo…</string>
     <string name="demo_starting_message">Iniciando demonstração…</string>
     <string name="deny">Negar</string>
+    <string name="deprecated_abi_message">"Este app não é compatível com a versão mais recente do Android. Verifique se há atualizações ou entre em contato com o desenvolvedor do app."</string>
     <string name="deprecated_target_sdk_app_store">Procurar atualizações</string>
     <string name="deprecated_target_sdk_message">"Este app foi desenvolvido para uma versão mais antiga do Android. Pode não funcionar corretamente e não inclui as mais recentes proteções de segurança e privacidade. Verifique se há atualizações ou entre em contato com o desenvolvedor do app."</string>
     <string name="description_target_unlock_tablet">Deslize para desbloquear.</string>
     <string name="device_ownership_relinquished">O administrador renunciou ao dispositivo para uso pessoal</string>
     <string name="device_policy_manager_service">Serviço do gerenciador de políticas de dispositivos</string>
+    <string name="device_state_notification_settings_button">Ir as Configurações</string>
+    <string name="device_state_notification_turn_off_button">Desativar</string>
     <string name="device_storage_monitor_notification_channel">Armazenamento do dispositivo</string>
     <string name="dial_number_using">"Discar número
 usando %s"</string>
@@ -504,6 +524,8 @@ usando %s"</string>
     <string name="display_manager_overlay_display_name">Sobreposição nº %1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, seguro</string>
     <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
+    <string name="display_rotation_camera_compat_toast_after_rotation">Gire para ver melhor</string>
+    <string name="display_rotation_camera_compat_toast_in_multi_window">Abra %s em tela cheia para melhor visualização</string>
     <string name="dlg_ok">"OK"</string>
     <string name="done_accessibility_shortcut_menu_button">Concluído</string>
     <string name="done_label">Concluído</string>
@@ -679,6 +701,7 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="fingerprint_acquired_immobile">Mude a posição do seu dedo ligeiramente a cada vez</string>
     <string name="fingerprint_acquired_insufficient">Não é possível reconhecer a impressão digital. Tente novamente.</string>
     <string name="fingerprint_acquired_partial">Pressione firmemente o sensor</string>
+    <string name="fingerprint_acquired_power_press">Pressão no botão Liga/Desliga detectado</string>
     <string name="fingerprint_acquired_too_bright">Muito brilhante</string>
     <string name="fingerprint_acquired_too_fast">Pressione firmemente o sensor</string>
     <string name="fingerprint_acquired_too_slow">O movimento do dedo está muito lento. Tente novamente.</string>
@@ -695,6 +718,7 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="fingerprint_error_no_fingerprints">Nenhuma impressão digital registrada.</string>
     <string name="fingerprint_error_no_space">Não é possível configurar a impressão digital</string>
     <string name="fingerprint_error_not_match">Impressão digital não reconhecida</string>
+    <string name="fingerprint_error_power_pressed">Botão Liga/Desliga pressionado</string>
     <string name="fingerprint_error_security_update_required">Sensor desativado temporariamente.</string>
     <string name="fingerprint_error_timeout">A configuração da impressão digital expirou. Tente novamente.</string>
     <string name="fingerprint_error_unable_to_process">Não é possível processar a impressão digital. Tente novamente.</string>
@@ -783,6 +807,7 @@ Tente tocar levemente enquanto configura sua impressão digital."</string>
     <string name="harmful_app_warning_open_anyway">ABRIR MESMO ASSIM</string>
     <string name="harmful_app_warning_title">App nocivo detectado</string>
     <string name="harmful_app_warning_uninstall">DESINSTALAR</string>
+    <string name="hearing_aids_feature_name">Aparelhos auditivos</string>
     <string name="heavy_weight_notification">%1$s em execução</string>
     <string name="heavy_weight_notification_detail">Toque para voltar ao jogo</string>
     <string name="heavy_weight_switcher_text">Para ter um melhor desempenho, apenas um desses jogos pode ser aberto por vez.</string>
@@ -856,6 +881,13 @@ Você quer mesmo sair desta página?"</string>
     <string name="js_dialog_before_unload_title">Confirmar navegação</string>
     <string name="js_dialog_title">A página em \"%s\" diz:</string>
     <string name="js_dialog_title_default">JavaScript</string>
+    <string name="keyboard_layout_notification_more_than_three_selected_message">Layout do teclado definido como %1$s, %2$s, %3$s… Toque para alterar.</string>
+    <string name="keyboard_layout_notification_multiple_selected_message">Toque para ver os teclados</string>
+    <string name="keyboard_layout_notification_multiple_selected_title">Teclados físicos configurados</string>
+    <string name="keyboard_layout_notification_one_selected_message">Layout do teclado definido como %s. Toque para alterar.</string>
+    <string name="keyboard_layout_notification_selected_title">%s configurado</string>
+    <string name="keyboard_layout_notification_three_selected_message">Layout do teclado definido como %1$s, %2$s, %3$s. Toque para alterar.</string>
+    <string name="keyboard_layout_notification_two_selected_message">Layout do teclado definido como %1$s, %2$s. Toque para alterar.</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Cancelar</string>
     <string name="keyboardview_keycode_delete">Excluir</string>
@@ -937,8 +969,10 @@ Tente novamente em %2$d segundos."</string>
     <string name="kg_wrong_pattern">Padrão incorreto</string>
     <string name="kg_wrong_pin">PIN incorreto</string>
     <string name="kilobyteShort">KB</string>
+    <string name="language_picker_regions_section_suggested">Sugeridos</string>
     <string name="language_picker_section_all">Todos os idiomas</string>
     <string name="language_picker_section_suggested">Sugeridos</string>
+    <string name="language_picker_section_suggested_bilingual">Idiomas sugeridos</string>
     <string name="language_selection_title">Adicionar um idioma</string>
     <string name="last_month">Mês passado</string>
     <string name="last_num_days">{ count, plural, =1 {Último dia #} other {# últimos dias} }</string>
@@ -1042,6 +1076,7 @@ Se você não permitir que este app acesse todos os registros do dispositivo, el
     <string name="low_internal_storage_view_text_no_boot">Não há armazenamento suficiente para o sistema. Certifique-se de ter 250 MB de espaço livre e reinicie.</string>
     <string name="low_internal_storage_view_title">Pouco espaço de armazenamento</string>
     <string name="low_memory">O armazenamento do dispositivo está cheio. Exclua alguns arquivos para liberar espaço.</string>
+    <string name="managed_profile_app_label">Alternar para o trabalho %1$s</string>
     <string name="managed_profile_label">Alternar para o perfil de trabalho</string>
     <string name="managed_profile_label_badge">Trabalho: %1$s</string>
     <string name="managed_profile_label_badge_2">Segundo %1$s de trabalho</string>
@@ -1149,7 +1184,7 @@ Se você não permitir que este app acesse todos os registros do dispositivo, el
     <string name="menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="menu_delete_shortcut_label">excluir</string>
     <string name="menu_enter_shortcut_label">enter</string>
-    <string name="menu_function_shortcut_label">Function+</string>
+    <string name="menu_function_shortcut_label">Função+</string>
     <string name="menu_meta_shortcut_label">Meta+</string>
     <string name="menu_shift_shortcut_label">Shift+</string>
     <string name="menu_space_shortcut_label">espaço</string>
@@ -1186,7 +1221,7 @@ Se você não permitir que este app acesse todos os registros do dispositivo, el
     <string name="miniresolver_use_work_browser">Use o navegador de trabalho</string>
     <string name="minute">min.</string>
     <string name="minute_picker_description">Controle deslizante circular dos minutos</string>
-    <string name="minutes">min.</string>
+    <string name="minutes">mins.</string>
     <string name="mismatchPin">Os PINs digitados não correspondem.</string>
     <string name="mmcc_authentication_reject">Chip não autorizado para voz</string>
     <string name="mmcc_authentication_reject_msim_template">SIM %d não permitido</string>
@@ -1198,6 +1233,7 @@ Se você não permitir que este app acesse todos os registros do dispositivo, el
     <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d não aprovisionado</string>
     <string name="mmiComplete">MMI concluído.</string>
     <string name="mmiError">Problema de conexão ou código MMI inválido.</string>
+    <string name="mmiErrorNotSupported">Recurso não suportado.</string>
     <string name="mmiErrorWhileRoaming">Não é possível alterar as configurações de encaminhamento de chamada do seu dispositivo em roaming.</string>
     <string name="mmiFdnError">A operação é limitada somente a números de discagem fixa.</string>
     <string name="mobile_no_internet">A rede móvel não tem acesso à internet</string>
@@ -1379,9 +1415,12 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_changeWifiMulticastState">Permite que o app receba pacotes enviados para todos os dispositivos em uma rede Wi-Fi usando endereços de difusão seletiva, e não apenas o dispositivo. Consome mais energia do que o modo não multicast.</string>
     <string name="permdesc_changeWifiState">Permite que o app conecte e desconecte dos pontos de acesso Wi-Fi e faça alterações nas configurações do dispositivo para redes Wi-Fi.</string>
     <string name="permdesc_changeWimaxState">Permite que o app conecte e desconecte o dispositivo de redes WiMAX.</string>
+    <string name="permdesc_companionProfileWatch">Permite que um app complementar gerencie relógios.</string>
     <string name="permdesc_connection_manager">Permite que o app gerencie conexões de telecomunicações.</string>
     <string name="permdesc_control_incall_experience">Permite ao app fornecer uma experiência de usuário em chamada.</string>
     <string name="permdesc_createNetworkSockets">Permite que o app crie soquetes de rede e utilize protocolos de rede personalizados. O navegador e outros apps fornecem meios de enviar dados para a internet, e por isso esta permissão não é necessária para enviar os dados.</string>
+    <string name="permdesc_deliverCompanionMessages">Permite que um app complementar envie mensagens complementares para outros dispositivos.</string>
+    <string name="permdesc_detectScreenCapture">Este app será notificado quando uma captura de tela for feita enquanto o app estiver em uso.</string>
     <string name="permdesc_disableKeyguard">Permite que o app desative o bloqueio de teclas e qualquer segurança por senha associada. Por exemplo, o dispositivo desativa o bloqueio de telas ao receber uma chamada e o reativa quando a chamada é finalizada.</string>
     <string name="permdesc_enableCarMode">Permite que o app ative o modo Carro.</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Isenta o app de restrições para gravar áudio.</string>
@@ -1405,6 +1444,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_getPackageSize">Permite que o app recupere o código, os dados e os tamanhos de cache</string>
     <string name="permdesc_getTasks">Permite que o app obtenha informações sobre tarefas em execução atuais e recentes. Pode permitir que o app descubra informações sobre os apps usados ​​no dispositivo.</string>
     <string name="permdesc_handoverStatus">Permite que este app receba informações sobre as atuais transferências do Android Beam</string>
+    <string name="permdesc_hideOverlayWindows">Este app pode solicitar que o sistema oculte a exibição de sobreposições originadas de apps sobre ele.</string>
     <string name="permdesc_highSamplingRateSensors">Permite que o app faça a amostragem de dados do sensor a uma taxa superior a 200Hz</string>
     <string name="permdesc_imagesWrite">Permite que o app modifique sua coleção de fotos.</string>
     <string name="permdesc_install_shortcut">Permite que o app adicione atalhos da Tela inicial sem a intervenção do usuário.</string>
@@ -1421,6 +1461,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_modifyNetworkAccounting">Permite que o app modifique como o uso da rede é contabilizado em relação aos apps. Não deve ser usado em apps normais.</string>
     <string name="permdesc_nearby_wifi_devices">Permite que o app anuncie, conecte e determine a posição relativa de dispositivos Wi‑Fi próximos</string>
     <string name="permdesc_nfc">Permite que o app se comunique com leitores, cartões e etiqueta NFC (comunicação a curta distância).</string>
+    <string name="permdesc_observeCompanionDevicePresence">Permite que um app complementar observe a presença de dispositivos complementares quando os dispositivos estão próximos ou distantes.</string>
     <string name="permdesc_persistentActivity">Permite que o app torne partes de si mesmo persistentes na memória. Pode limitar a memória disponível para outros apps, deixando o dispositivo mais lento.</string>
     <string name="permdesc_postNotification">Permite que o app mostre notificações</string>
     <string name="permdesc_preferredPaymentInfo">Permite que o app acesse as informações preferidas de serviço de pagamento por NFC, como auxílios registrados ou destinos de trajetos.</string>
@@ -1469,6 +1510,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_setWallpaper">Permite que o app defina o plano de fundo do sistema.</string>
     <string name="permdesc_setWallpaperHints">Permite que o app defina as dicas de tamanho do plano de fundo do sistema.</string>
     <string name="permdesc_sim_communication">Permite que o app envie comandos ao chip. Isso é muito perigoso.</string>
+    <string name="permdesc_startForegroundServicesFromBackground">Permite que um app complementar inicie serviços em primeiro plano em segundo plano.</string>
     <string name="permdesc_startReviewPermissionDecisions">Permite que o titular inicie a tela para revisar as decisões de permissão. Nunca deve ser necessário para apps normais.</string>
     <string name="permdesc_startViewAppFeatures">Permite que o titular comece a visualizar as informações de recursos de um app.</string>
     <string name="permdesc_startViewPermissionUsage">Permite que o sistema inicie o uso de permissão para um app. Não deve ser necessário para apps comuns.</string>
@@ -1478,7 +1520,9 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_systemAlertWindow">Este app pode se sobrepor visualmente a outros apps ou a outras partes da tela. Isso pode interferir no uso normal do app e alterar a forma como os outros apps são exibidos.</string>
     <string name="permdesc_systemCamera">Esse app do sistema ou com privilégios pode tirar fotos e gravar vídeos a qualquer momento usando a câmera do sistema. É necessário que o app tenha também a permissão android.permission.CAMERA</string>
     <string name="permdesc_transmitIr">Permite que o app use o transmissor infravermelho do dispositivo.</string>
+    <string name="permdesc_turnScreenOn">Permite que o app ligue a tela.</string>
     <string name="permdesc_uninstall_shortcut">Permite que o app remova atalhos da Tela inicial sem a intervenção do usuário.</string>
+    <string name="permdesc_updatePackagesWithoutUserAction">Permite que o titular atualize o app instalado anteriormente sem ação do usuário</string>
     <string name="permdesc_useBiometric">Permite que o app use hardware de biometria para autenticação</string>
     <string name="permdesc_useDataInBackground">Este app pode usar dados em segundo plano, o que pode aumentar o uso de dados.</string>
     <string name="permdesc_useFaceAuthentication">Permite que o app use o hardware de desbloqueio facial para autenticação</string>
@@ -1576,9 +1620,12 @@ para a conta %s."</string>
     <string name="permlab_changeWifiMulticastState">Permitir recebimento de multicast Wi-Fi</string>
     <string name="permlab_changeWifiState">Conectar e desconectar do Wi-Fi</string>
     <string name="permlab_changeWimaxState">Alterar estado do WiMAX</string>
+    <string name="permlab_companionProfileWatch">Permissão do perfil Relógio complementar para gerenciar relógios</string>
     <string name="permlab_connection_manager">Gerenciar conexões de telecomunicações</string>
     <string name="permlab_control_incall_experience">Fornecer uma experiência de usuário em chamada</string>
     <string name="permlab_createNetworkSockets">Ter acesso total à rede</string>
+    <string name="permlab_deliverCompanionMessages">Entregar mensagens complementares</string>
+    <string name="permlab_detectScreenCapture">Detectar capturas de tela de janelas de apps</string>
     <string name="permlab_disableKeyguard">Desativar o bloqueio de tela</string>
     <string name="permlab_enableCarMode">Ativar o modo carro</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">Isento de restrições de gravação de áudio</string>
@@ -1618,6 +1665,7 @@ para a conta %s."</string>
     <string name="permlab_modifyNetworkAccounting">Modificar contagem de uso da rede</string>
     <string name="permlab_nearby_wifi_devices">Interagir com dispositivos Wi‑Fi próximos</string>
     <string name="permlab_nfc">Controlar a comunicação a curta distância</string>
+    <string name="permlab_observeCompanionDevicePresence">Observar a presença do dispositivo complementar</string>
     <string name="permlab_persistentActivity">Sempre executar o app</string>
     <string name="permlab_postNotification">Mostrar notificações</string>
     <string name="permlab_preferredPaymentInfo">Informações preferidas de serviço de pagamento por NFC</string>
@@ -1666,6 +1714,7 @@ para a conta %s."</string>
     <string name="permlab_setWallpaper">Definir plano de fundo</string>
     <string name="permlab_setWallpaperHints">Ajustar tamanho do plano de fundo</string>
     <string name="permlab_sim_communication">Enviar comandos para o chip</string>
+    <string name="permlab_startForegroundServicesFromBackground">Iniciar serviços em primeiro plano a partir do segundo plano</string>
     <string name="permlab_startReviewPermissionDecisions">Começar a ver decisões de permissão</string>
     <string name="permlab_startViewAppFeatures">Começar a ver os recursos do app</string>
     <string name="permlab_startViewPermissionUsage">Iniciar uso da permissão para visualização</string>
@@ -1675,11 +1724,14 @@ para a conta %s."</string>
     <string name="permlab_systemAlertWindow">Este app pode se sobrepor visualmente a outros apps</string>
     <string name="permlab_systemCamera">Permitir que um app ou serviço acesse câmeras do sistema para tirar fotos e gravar vídeos</string>
     <string name="permlab_transmitIr">Transmitir infravermelhos</string>
+    <string name="permlab_turnScreenOn">ligar a tela</string>
     <string name="permlab_uninstall_shortcut">Desinstalar atalhos</string>
+    <string name="permlab_updatePackagesWithoutUserAction">Atualizar app sem ação do usuário</string>
     <string name="permlab_useBiometric">Usar hardware de biometria</string>
     <string name="permlab_useDataInBackground">Usar dados em segundo plano</string>
     <string name="permlab_useFaceAuthentication">Usar hardware de desbloqueio facial</string>
     <string name="permlab_useFingerprint">Usar hardware de impressão digital</string>
+    <string name="permlab_use_exact_alarm">Programar alarmes ou lembretes de eventos</string>
     <string name="permlab_use_sip">Fazer/receber chamadas SIP</string>
     <string name="permlab_uwb_ranging">Determinar a posição relativa entre dispositivos próximos de banda ultralarga</string>
     <string name="permlab_vibrate">Controlar vibração</string>
@@ -1779,6 +1831,7 @@ para a conta %s."</string>
     <string name="redo">Refazer</string>
     <string name="reduce_bright_colors_feature_name">Ultra escuro</string>
     <string name="region_picker_section_all">Todas as regiões</string>
+    <string name="region_picker_section_suggested_bilingual">Regiões sugeridas</string>
     <string name="relationTypeAssistant">Assistente</string>
     <string name="relationTypeBrother">Irmão</string>
     <string name="relationTypeChild">Filho(a)</string>
@@ -2085,15 +2138,19 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="usb_tether_notification_title">Ancoragem USB ativada</string>
     <string name="usb_unsupported_audio_accessory_message">O dispositivo conectado não é compatível com este telefone. Toque para saber mais.</string>
     <string name="usb_unsupported_audio_accessory_title">Acessório de áudio analógico detectado</string>
+    <string name="usb_uvc_notification_title">Dispositivo conectado como webcam</string>
     <string name="use_a_different_app">Usar outro app</string>
     <string name="user_creation_account_exists">Permitir que o app %1$s crie um novo usuário com %2$s (já existe um usuário com essa conta)?</string>
     <string name="user_creation_adding">Permitir que o app %1$s crie um novo usuário com %2$s?</string>
     <string name="user_logging_out_message">Desconectando %1$s…</string>
+    <string name="user_owner_app_label">Deslize até o pessoal %1$s</string>
     <string name="user_owner_label">Deslize até o perfil pessoal</string>
     <string name="user_switched">Usuário atual %1$s.</string>
     <string name="user_switching_message">Alternando para %1$s…</string>
     <string name="validity_period">Validade:</string>
     <string name="vdm_camera_access_denied">Não é possível acessar a câmera do dispositivo em %1$s</string>
+    <string name="vdm_pip_blocked">Não é possível visualizar picture-in-picture durante a transmissão</string>
+    <string name="vdm_secure_window">Isso não pode ser acessado durante a transmissão. Experimente no seu dispositivo.</string>
     <string name="view_and_control_notification_content">%s pode visualizar e controlar sua tela. Toque para revisar.</string>
     <string name="view_and_control_notification_title">Verifique as configurações de acesso</string>
     <string name="volume_alarm">Volume do alarme</string>
@@ -2131,13 +2188,14 @@ Quer fechá-la?"</string>
     <string name="week">semana</string>
     <string name="weeks">semanas</string>
     <string name="wfcRegErrorTitle">Não foi possível configurar a chamada no Wi-Fi</string>
-    <string name="wfcSpnFormat_spn_vowifi">VoWifi de %s</string>
+    <string name="wfcSpnFormat_spn_vowifi">VoWiFi de %s</string>
     <string name="wfcSpnFormat_spn_wifi">Wi-Fi de %s</string>
     <string name="wfcSpnFormat_spn_wifi_calling">Chamada no Wi-Fi de %s</string>
     <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">Chamada no Wi-Fi de %s</string>
     <string name="wfcSpnFormat_spn_wlan_call">Chamada por Wi-Fi de %s</string>
-    <string name="wfcSpnFormat_vowifi">"VoWifi"</string>
+    <string name="wfcSpnFormat_vowifi">"VoWiFi"</string>
     <string name="wfcSpnFormat_wifi">"Wi-Fi"</string>
+    <string name="wfcSpnFormat_wifi_call">Chamada Wi-Fi</string>
     <string name="wfcSpnFormat_wifi_calling">Chamada no Wi-Fi</string>
     <string name="wfcSpnFormat_wifi_calling_bar_spn">Chamada no Wi-Fi | %s</string>
     <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Chamada no Wi-Fi</string>
@@ -2187,6 +2245,9 @@ Quer fechá-la?"</string>
     <string name="work_profile_deleted_description_dpm_wipe">Seu perfil de trabalho não está mais disponível neste dispositivo</string>
     <string name="work_profile_deleted_details">O app para administrador do perfil de trabalho não foi encontrado ou está corrompido. Consequentemente, seu perfil de trabalho e os dados relacionados foram excluídos. Entre em contato com seu administrador para receber assistência.</string>
     <string name="work_profile_deleted_reason_maximum_password_failure">Muitas tentativas de senha</string>
+    <string name="work_profile_telephony_paused_text">"Você pausou os apps de trabalho. Você não receberá chamadas ou mensagens de texto."</string>
+    <string name="work_profile_telephony_paused_title">Chamadas e mensagens estão desativadas</string>
+    <string name="work_profile_telephony_paused_turn_on_button">Retomar apps de trabalho</string>
     <string name="write_fail_reason_cancelled">Cancelado</string>
     <string name="write_fail_reason_cannot_write">Erro ao gravar o conteúdo</string>
     <string name="year">ano</string>
@@ -2208,11 +2269,11 @@ Quer fechá-la?"</string>
     <string name="zen_mode_duration_minutes_summary_short">{count, plural, =1 {Por 1 min (até {formattedTime})} other {Por # min (até {formattedTime})} }</string>
     <string name="zen_mode_feature_name">Não perturbe</string>
     <string name="zen_mode_forever">Até você desativar</string>
-    <string name="zen_mode_forever_dnd">Até que você desative \"Não perturbe\"</string>
+    <string name="zen_mode_forever_dnd">Até que você desative o Não perturbe</string>
     <string name="zen_mode_until">Até às %1$s</string>
     <string name="zen_mode_until_next_day">Até às %1$s</string>
     <string name="zen_upgrade_notification_content">Toque para verificar o que está bloqueado.</string>
-    <string name="zen_upgrade_notification_title">O modo \"Não perturbe\" foi alterado</string>
+    <string name="zen_upgrade_notification_title">O modo Não perturbe foi alterado</string>
     <string name="zen_upgrade_notification_visd_content">Toque para saber mais e fazer alterações.</string>
     <string name="zen_upgrade_notification_visd_title">Novo: o modo Não perturbe está ocultando as notificações</string>
 </resources>

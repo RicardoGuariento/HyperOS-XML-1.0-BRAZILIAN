@@ -717,7 +717,7 @@ Envie este código para o supervisor."</string>
     <string name="edit_bookmark">Editar favorito</string>
     <string name="edit_bookmark_tips">Adicionado aos favoritos com sucesso. &lt;font color=\"#247BFF\">Editar&lt;/font></string>
     <string name="edit_quicklink">Editar</string>
-    <string name="edit_website">Edit URL</string>
+    <string name="edit_website">Editar URL</string>
     <string name="empty_app_name">Outro app</string>
     <string name="empty_bookmark">Vazio</string>
     <string name="empty_books">Esta pasta está vazia</string>
@@ -1158,7 +1158,7 @@ Envie este código para o supervisor."</string>
     <string name="login_failed_toast">"Não foi possível fazer o login, atualize e tente novamente."</string>
     <string name="login_or_register">ou</string>
     <string name="long_press_edit">Pressione e segure para editar</string>
-    <string name="low_memory_toast">"Não é possível usar o Navegador devido à memória estar baixa"</string>
+    <string name="low_memory_toast">"Não é possível usar o Navegador Mi devido à memória estar baixa"</string>
     <string name="make_private">Ocultar</string>
     <string name="make_private_msg_1">Ocultar este arquivo?</string>
     <string name="make_private_msg_2">Ocultar estes arquivos?</string>
@@ -1578,7 +1578,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Recarregue após se conectar à internet</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">Entre em contato com o seu administrador de sistema.</string>
     <string name="mw_miuichromium_error_page_suggestion_correct_url">"Verifique o endereço inserido e tente novamente usando a URL correta."</string>
-    <string name="mw_miuichromium_error_page_suggestion_grant_permission">Recarregue após permitir que o Navegador acesse a internet.</string>
+    <string name="mw_miuichromium_error_page_suggestion_grant_permission">Recarregue após permitir que o Navegador Mi acesse a internet.</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Tente o seguinte:</string>
     <string name="mw_miuichromium_error_page_title">Ocorreu um erro</string>
     <string name="mw_miuichromium_error_page_unknown_error">Ops, algo deu errado</string>
@@ -1705,7 +1705,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="no_updates_available">A versão atual está atualizada</string>
     <string name="noon">"PM"</string>
     <string name="not_add">Agora não</string>
-    <string name="not_allowed_open">"Não é possível usar o Navegador em fluxo OOB"</string>
+    <string name="not_allowed_open">"Não é possível usar o Navegador Mi em fluxo OOB"</string>
     <string name="not_remind">"Não perguntar novamente"</string>
     <string name="not_remind_again">Lembrar minha escolha</string>
     <string name="not_set">Não definido</string>
@@ -1953,7 +1953,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="pref_auto_update_under_wifi">Atualizar usando Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">Alterar para motor de busca frequente</string>
     <string name="pref_check_security_url_summary">"Enviar URL do site para servidores da Mi para verificar sua segurança"</string>
-    <string name="pref_check_security_url_summary_international">Permita que o Navegador acesse a URL de sites que você acessa para receber recomendações mais relevantes.</string>
+    <string name="pref_check_security_url_summary_international">Permita que o Navegador Mi acesse a URL de sites que você acessa para receber recomendações mais relevantes.</string>
     <string name="pref_check_security_url_title">Verificar segurança da URL</string>
     <string name="pref_check_security_url_title_international">Obter a URL</string>
     <string name="pref_clear_adblock_statistics">Limpar histórico do bloqueador de anúncios</string>
@@ -2056,8 +2056,8 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="pref_set_default_browser_no_keep_it">Manter o Navegador Mi</string>
     <string name="pref_set_default_browser_no_thanks">Não, obrigado</string>
     <string name="pref_set_default_browser_set">Sim</string>
-    <string name="pref_set_default_browser_set_another">O Navegador Mi torna a navegação web rápida, conveniente e segura. Trocar de navegadores mesmo assim?</string>
-    <string name="pref_set_default_browser_sure_to_clear">Trocando de navegadores?</string>
+    <string name="pref_set_default_browser_set_another">O Navegador Mi torna a navegação web rápida, conveniente e segura. Trocar de navegador mesmo assim?</string>
+    <string name="pref_set_default_browser_sure_to_clear">Trocando de navegador?</string>
     <string name="pref_set_default_browser_switch">Trocar</string>
     <string name="pref_set_default_browser_tab">Toque em \"Navegador\"</string>
     <string name="pref_set_default_browser_toast">Navegador padrão definido com sucesso</string>
@@ -2125,7 +2125,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="privacy_disagree">"Não concordo"</string>
     <string name="privacy_improve_performance">Programa de Experiência do Usuário</string>
     <string name="privacy_improve_performance_desc">Permitir que a Xiaomi colete e analise os dados do usuário para melhorar nossos produtos e serviços</string>
-    <string name="privacy_message">Antes de usar o Navegador, você precisa aceitar o nosso &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
+    <string name="privacy_message">Antes de usar o Navegador Mi, você precisa aceitar o nosso &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_first">O Navegador Mi precisa coletar informações pessoais necessárias pra fornecer os seus serviços básicos. Você pode saber mais sobre como lidamos com as informações coletadas em nossa &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font>. Você sempre pode retirar o seu consentimento à Política de Privacidade do Navegador Mi em Configurações > Privacidade e segurança. Leia e aceite o nosso &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font> antes de usar o Navegador Mi.</string>
     <string name="privacy_message_main_tips_second">Para poder pesquisar por apps neste dispositivo e saber quais apps estão instalados, o Navegador Mi precisa acessar as informações de instalação dos apps, que não serão salvas localmente ou enviadas de qualquer forma.</string>
     <string name="privacy_message_welcome">Bem-vindo ao Navegador Mi! Nosso app fornece os seguintes serviços:</string>
@@ -2397,7 +2397,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="set_default_browser_set">Definir</string>
     <string name="set_success">Alterado com sucesso</string>
     <string name="setting">Configurações</string>
-    <string name="setting_app_language">Idioma do Navegador</string>
+    <string name="setting_app_language">Idioma do Navegador Mi</string>
     <string name="setting_contact_information">Informações de contatos</string>
     <string name="setting_feed_language">Idioma do Feed de conteúdo</string>
     <string name="setting_installed_apps">Apps instalados</string>

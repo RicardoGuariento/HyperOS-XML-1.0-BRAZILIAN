@@ -266,8 +266,8 @@ Toque duas vezes para ver os detalhes."</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s selecionado.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s selecionado.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s selecionado.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Adicionar este item à Tela inicial.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Adicionar este item ao Assistente.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Adicionar este item à Tela inicial</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Adicionar este item ao Assistente</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Editar</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Widget selecionado. Arraste para adicionar este item à Tela inicial.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Widget selecionado. Arraste para adicionar este item ao Assistente.</string>
@@ -337,11 +337,11 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_express_inquiry">Verifique a ordem</string>
     <string name="pa_express_inquiry_frequently_used_logistics">"Popular"</string>
     <string name="pa_express_inquiry_no_history">Nada aqui ainda</string>
-    <string name="pa_express_install_scan_toast">Instalar o scanner para poder usar esse recurso.</string>
+    <string name="pa_express_install_scan_toast">Instale o Scanner para poder usar esse recurso</string>
     <string name="pa_express_item_menu_delete">Excluir</string>
     <string name="pa_express_item_menu_edit">Editar</string>
     <string name="pa_express_item_menu_signed">Entregue</string>
-    <string name="pa_express_main_select">Selecione.</string>
+    <string name="pa_express_main_select">Selecione</string>
     <string name="pa_express_manual_query_hint">Insira o número do pedido para pesquisar</string>
     <string name="pa_express_manual_select_company">Selecione</string>
     <string name="pa_express_manual_select_company_toast">Selecione o serviço de correio</string>
@@ -366,7 +366,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_express_setting_number_already_add">Este número de telefone já foi adicionado. Tente um diferente.</string>
     <string name="pa_express_setting_number_title">Adicionar número de telefone</string>
     <string name="pa_express_setting_request_failed">"Não foi possível enviar solicitação. Erro de código: %s."</string>
-    <string name="pa_express_setting_service_unavailable">Ocorreu um erro, espere um minuto ou dois e tente novamente.</string>
+    <string name="pa_express_setting_service_unavailable">Ocorreu um erro, aguarde um tempo e tente novamente.</string>
     <string name="pa_express_setting_subscribe_phone_failed">"Não foi possível adicionar número de telefone"</string>
     <string name="pa_express_setting_subscribe_phone_success">Número de telefone adicionado</string>
     <string name="pa_express_setting_verification_code_failed">"Não foi possível enviar SMS"</string>
@@ -460,7 +460,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_lite_setting_service_timetable">Horário de aula</string>
     <string name="pa_lite_setting_service_timetable_summary">Veja as próximas classes</string>
     <string name="pa_lite_setting_service_weather">Clima</string>
-    <string name="pa_lite_setting_service_weather_summary">Ver informações do tempo.</string>
+    <string name="pa_lite_setting_service_weather_summary">Ver informações do tempo</string>
     <string name="pa_login_before_use">Entre primeiro</string>
     <string name="pa_login_dialog_negative">Não, obrigado</string>
     <string name="pa_login_dialog_positive">Entrar</string>
@@ -500,8 +500,8 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_picker_detail_bottom_download_app_and_add_widget">Instalar app</string>
     <string name="pa_picker_detail_bottom_update_app_and_add_widget">Atualizar app</string>
     <string name="pa_picker_detail_bt_loading">Aguarde…</string>
-    <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Abra o Assistente para adicionar widgets de lá.</string>
-    <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Use o Assistente.</string>
+    <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Abra o Assistente para adicionar widgets de lá</string>
+    <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Use o Assistente</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Cancelar</string>
     <string name="pa_picker_detail_download_app_dialog_confirm">"OK"</string>
     <string name="pa_picker_detail_download_app_dialog_message_install_prefix">Instalar</string>
@@ -604,7 +604,7 @@ Adicione widgets para começar."</string>
     <string name="pa_read_storage_permission_description">Para exibir o plano de fundo da Tela inicial como plano de fundo do app</string>
     <string name="pa_recommend_add_btn">Iniciar</string>
     <string name="pa_recommend_add_msg">Adicionar</string>
-    <string name="pa_recommend_card">Recomendações.</string>
+    <string name="pa_recommend_card">Recomendações</string>
     <string name="pa_recommend_card_add_des">Adicione este widget ao Assistente</string>
     <string name="pa_recommend_card_image_content_des">Este é um widget. Abra nossa loja de widgets para saber mais.</string>
     <string name="pa_recommend_card_image_text_null_des">Sem dados</string>
@@ -643,12 +643,12 @@ Adicione widgets para começar."</string>
     <string name="pa_setting_privacy_logout_dialog_title">Cancelar serviços do Assistente</string>
     <string name="pa_setting_privacy_logout_summary">Cancelar serviços do Assistente</string>
     <string name="pa_setting_privacy_perm_desc">Detalhes de permissões</string>
-    <string name="pa_setting_privacy_perm_granted">Garantida</string>
-    <string name="pa_setting_privacy_perm_install_app">Acessar a lista de apps instalados no dispositivo</string>
+    <string name="pa_setting_privacy_perm_granted">Permitido</string>
+    <string name="pa_setting_privacy_perm_install_app">Obter informações sobre apps instalados</string>
     <string name="pa_setting_privacy_perm_install_app_desc">Para fornecer sugestões de apps</string>
     <string name="pa_setting_privacy_perm_location">Acesso à localização</string>
     <string name="pa_setting_privacy_perm_location_desc">Para calcular sua classificação regional da tabela de classificação das Super pistas</string>
-    <string name="pa_setting_privacy_perm_not_granted">Não garantido</string>
+    <string name="pa_setting_privacy_perm_not_granted">Não permitido</string>
     <string name="pa_setting_privacy_perm_storage">Acessar armazenamento</string>
     <string name="pa_setting_privacy_policy">Política de Privacidade</string>
     <string name="pa_setting_privacy_policy_update_again_message">"Você não será capaz de continuar usando nossos serviços a menos que concorde com a nova versão: %s. Concordar com a política de privacidade atualizada agora?"</string>
@@ -658,14 +658,14 @@ Adicione widgets para começar."</string>
     <string name="pa_setting_privacy_policy_update_link">Política de Privacidade</string>
     <string name="pa_setting_privacy_policy_update_message" formatted="false">"A Política de Privacidade do Assistente foi atualizada:
 %s Leia e concorde com a nova versão do %s antes de continuar."</string>
-    <string name="pa_setting_privacy_policy_update_title">Política de privacidade atualizada</string>
+    <string name="pa_setting_privacy_policy_update_title">Política de Privacidade atualizada</string>
     <string name="pa_setting_privacy_revoke_cta">Retirada de consentimento</string>
     <string name="pa_setting_privacy_revoke_cta_message">"Se você continuar, retirará seu consentimento para a Política de Privacidade do Assistente. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, de acordo com as leis e regulamentos aplicáveis, a menos que seja necessário de outra forma. Como o Assistente fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será mantida como se recusando a aceitar os serviços do Assistente. Retirar o consentimento agora?"</string>
     <string name="pa_setting_privacy_revoke_cta_negative">Você pode retirar o consentimento em dez segundos</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Retirar</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Retirar (%d s)</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Retirar o consentimento para a Política de Privacidade do Assistente</string>
-    <string name="pa_setting_privacy_revoke_error_message">Um erro do servidor ocorreu. Espere um minuto ou dois e tente novamente.</string>
+    <string name="pa_setting_privacy_revoke_error_message">Um erro do servidor ocorreu. Aguarde um tempo e tente novamente.</string>
     <string name="pa_setting_privacy_revoke_error_title">"Não podia retirar o consentimento"</string>
     <string name="pa_setting_privacy_revoke_no_net_message">Seu dispositivo precisa se conectar à rede para você para poder retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="pa_setting_privacy_revoke_no_net_title">"Não foi possível conectar-se à rede"</string>
@@ -706,7 +706,7 @@ Adicione widgets para começar."</string>
     <string name="pa_shopping_widget_np_privacy_bottom_text">Conceder</string>
     <string name="pa_shopping_widget_title">"Shopping"</string>
     <string name="pa_shortcut_accessibility_description">"Assistente fornece atalhos para apps terceirizados selecionados. Esses atalhos não funcionam se você desativar o recurso."</string>
-    <string name="pa_shortcut_accessibility_service">Assistente.</string>
+    <string name="pa_shortcut_accessibility_service">Assistente</string>
     <string name="pa_shortcut_add_limit">Você pode adicionar a %1$d atalhos</string>
     <string name="pa_shortcut_apps">"Apps"</string>
     <string name="pa_shortcut_desc_add_button">Adicionar %1$s à Tela inicial</string>
@@ -732,7 +732,7 @@ Adicione widgets para começar."</string>
     <string name="pa_sports_action_review">Replay</string>
     <string name="pa_sports_add_followed">Adicionar equipes</string>
     <string name="pa_sports_add_shown">Adicionar a mostrar</string>
-    <string name="pa_sports_all_club">Equipes.</string>
+    <string name="pa_sports_all_club">Equipes</string>
     <string name="pa_sports_all_league">Eventos</string>
     <string name="pa_sports_all_match">Ver tudo</string>
     <string name="pa_sports_all_title">Adicionar equipes e eventos</string>
@@ -744,9 +744,9 @@ Adicione widgets para começar."</string>
     <string name="pa_sports_fav_add">Adicionar</string>
     <string name="pa_sports_fav_cancel_club">Esconda esta equipe?</string>
     <string name="pa_sports_fav_cancel_league">Ocultar esses eventos?</string>
-    <string name="pa_sports_fav_club">Minhas equipes.</string>
+    <string name="pa_sports_fav_club">Minhas equipes</string>
     <string name="pa_sports_fav_league">Meus eventos</string>
-    <string name="pa_sports_fav_title">Minhas equipes.</string>
+    <string name="pa_sports_fav_title">Minhas equipes</string>
     <string name="pa_sports_followed">Seguindo</string>
     <string name="pa_sports_jump_error">"Não foi possível abrir a página devido a um erro."</string>
     <string name="pa_sports_league_detail_download_douyu">Baixar Douyu para ver</string>
@@ -760,7 +760,7 @@ Adicione widgets para começar."</string>
     <string name="pa_sports_shown">Mostrando</string>
     <string name="pa_sports_title">Esportes</string>
     <string name="pa_sports_unstalled_tip_douyu">Instale o Douyu primeiro</string>
-    <string name="pa_sports_unstalled_tip_hupu">Instale o HUPU primeiro.</string>
+    <string name="pa_sports_unstalled_tip_hupu">Instale o HUPU primeiro</string>
     <string name="pa_sports_widget_empty_basketball">Basquetebol</string>
     <string name="pa_sports_widget_empty_football">Futebol americano</string>
     <string name="pa_sports_widget_empty_game">Honra dos reis</string>
@@ -786,7 +786,7 @@ Adicione widgets para começar."</string>
     <string name="pa_stock_follow_limit_alert">Você pode adicionar a %1$d Empresas</string>
     <string name="pa_stock_follow_list_label">Minhas empresas</string>
     <string name="pa_stock_green_grow">Verde - para cima, vermelho - para baixo</string>
-    <string name="pa_stock_hszs">Aguarda tarde.</string>
+    <string name="pa_stock_hszs">Hang Seng</string>
     <string name="pa_stock_init_toast">Inicializando widgets…</string>
     <string name="pa_stock_label_stock">Ações</string>
     <string name="pa_stock_load_data_failure">"Não foi possível carregar informações"</string>
@@ -812,7 +812,7 @@ Adicione widgets para começar."</string>
     <string name="pa_travel_bind_account_negative">Agora não</string>
     <string name="pa_travel_bind_account_positive">"OK"</string>
     <string name="pa_travel_bind_account_tip">Combine contas de serviços de terceiros para receber atualizações oportunas sobre seus trens e voos</string>
-    <string name="pa_travel_delete_dialog_message">Esta ação é permanente.</string>
+    <string name="pa_travel_delete_dialog_message">Esta ação é permanente</string>
     <string name="pa_travel_delete_dialog_negative">Cancelar</string>
     <string name="pa_travel_delete_dialog_positive">Excluir</string>
     <string name="pa_travel_delete_dialog_title">Excluir esta viagem?</string>

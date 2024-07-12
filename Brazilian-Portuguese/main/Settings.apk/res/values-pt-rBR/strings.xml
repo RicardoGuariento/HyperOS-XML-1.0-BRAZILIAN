@@ -2250,7 +2250,7 @@ Você pode desativar este recurso em Configurações > Bluetooth > Dispositivos 
     <string name="bt_half_close_switch_summary">Se você desligar o Bluetooth, ele será ligado novamente automaticamente no dia seguinte e seus dispositivos serão reconectados</string>
     <string name="bt_half_close_switch_title">Sempre mantenha o Bluetooth ligado</string>
     <string name="bt_hci_snoop_log">Registro de Bluetooth HCI</string>
-    <string name="bt_hci_snoop_log_filter_map_title">MAPA de filtragem de log de espionagem Bluetooth HCI</string>
+    <string name="bt_hci_snoop_log_filter_map_title">Filtragem de log de espionagem Bluetooth HCI MAP</string>
     <string name="bt_hci_snoop_log_filter_pbap_title">Filtragem de log de espionagem Bluetooth HCI PBAP</string>
     <string name="bt_hci_snoop_log_filter_summary">Defina o modo de filtragem (Desative e ative o Bluetooth para que as alterações tenham efeito).</string>
     <string name="bt_hci_snoop_log_filtered_mode_disabled_summary">Defina o modo de registro de espionagem Bluetooth HCI como Ativado Filtrado para alterar esta opção</string>
@@ -7739,7 +7739,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="permission_settings_summary">Gerenciar permissões relacionadas a localização, armazenamento, telefone, mensagens e contatos.</string>
     <string name="permission_settings_title">Permissões de apps</string>
     <string name="permissions_label">Permissões</string>
-    <string name="permissions_usage_summary">Exibe quais apps recentemente usavam permissões</string>
+    <string name="permissions_usage_summary">Exibe quais apps usaram permissões recentemente</string>
     <string name="permissions_usage_title">Painel de privacidade</string>
     <string name="permit_draw_overlay">Permitir sobreposição a outros apps</string>
     <string name="permit_full_screen_intent">Permitir notificações em tela cheia deste app</string>

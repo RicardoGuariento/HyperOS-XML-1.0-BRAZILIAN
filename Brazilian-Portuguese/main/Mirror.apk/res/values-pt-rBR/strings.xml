@@ -56,8 +56,8 @@
     <string name="circulate_cta_agree">Aceitar</string>
     <string name="circulate_cta_all_purpose">A Tela inicial+ faz parte dos Serviços de Interconectividade Xiaomi. Ela permite visualizar e interagir com as telas iniciais de outros dispositivos conectados. Para poder funcionar normalmente, este serviço precisa estar conectado à internet e requer as seguintes permissões:</string>
     <string name="circulate_cta_app_name">"Xiaomi Smart Hub"</string>
-    <string name="circulate_cta_desc_phone">Bem-vindo ao Xiaomi Smart Hub! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução multimídia entre dispositivos, usar Mi Smart Play, MIUI+ e transferência de apps. Este app precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:</string>
-    <string name="circulate_cta_desc_phone_miui15_14">Bem-vindo à Interconectividade Xiaomi! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução de multimídia entre dispositivos, usar Mi Smart Play, recursos de interconectividade de dispositivos e transferência de apps. Este app precisa se conectar à internet e requer as seguintes permissões para funcionar normalmente:</string>
+    <string name="circulate_cta_desc_phone">Bem-vindo ao Xiaomi Smart Hub! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução multimídia entre dispositivos, usar o Xiaomi Smart Play, MIUI+ e transferência de apps. Este app precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:</string>
+    <string name="circulate_cta_desc_phone_miui15_14">Bem-vindo à Interconectividade Xiaomi! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução de multimídia entre dispositivos, usar o Xiaomi Smart Play, recursos de interconectividade de dispositivos e transferência de apps. Este app precisa se conectar à internet e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="circulate_cta_exit">"Discordo"</string>
     <string name="circulate_cta_new_app_name">Tela inicial+</string>
     <string name="circulate_cta_premission_bluetooth">Para conectar dispositivos e transferir dados entre eles via Bluetooth</string>
@@ -89,6 +89,7 @@
     <string name="desktop_switch_is_closed">A Tela inicial+ está desativada</string>
     <string name="device_busy">Dispositivo está ocupado. Espere um ou dois minutos e tente novamente.</string>
     <string name="device_max_screen_count_toast">Este dispositivo só suporta a abertura de duas janelas ao mesmo tempo</string>
+    <string name="device_screen_fold_switch_tip">Execute esta ação na tela interna</string>
     <string name="display_max_screen_count_toast">Você pode abrir até 3 janelas nesta versão</string>
     <string name="display_not_support_secondary_toast">"Não é possível abrir este app em uma nova janela"</string>
     <string name="download_aborted">"Não foi possível baixar devido à interrupção da conexão"</string>
@@ -165,6 +166,9 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fold_photograph_prompt_dialog_ok">"OK"</string>
+    <string name="fold_photograph_prompt_message">Use a Câmera na tela interna</string>
+    <string name="fold_photograph_prompt_notification_title">Use a câmera entre dispositivos no Notas</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -412,7 +416,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="pad_settings_feature_intro">Sobre esse recurso</string>
     <string name="pad_settings_handoff_app_summary">Continue as tarefas no mesmo app no outro dispositivo</string>
     <string name="pad_settings_handoff_app_title">"Apps"</string>
-    <string name="pad_settings_handoff_category_title">Aprenda a usar a handoff</string>
+    <string name="pad_settings_handoff_category_title">Aprenda a usar a transferência</string>
     <string name="pad_settings_handoff_clipboard_summary">Copie em um dispositivo e cole perfeitamente para o outro</string>
     <string name="pad_settings_handoff_clipboard_title">Prancheta</string>
     <string name="pad_settings_handoff_device_title">Dispositivo conectado</string>
@@ -711,6 +715,10 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
+    <string name="upgrade_car_not_tip">"Não mostrar novamente"</string>
+    <string name="upgrade_car_ok">Entendi</string>
+    <string name="upgrade_car_version_msg">"Para poder usar este recurso, atualize o sistema do seu VE para a versão 1.2.1 ou posterior em Configurações > Sistema > Versão do sistema."</string>
+    <string name="upgrade_car_version_title">"Atualize o sistema do seu VE"</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="verbose_mode">Modo detalhado</string>

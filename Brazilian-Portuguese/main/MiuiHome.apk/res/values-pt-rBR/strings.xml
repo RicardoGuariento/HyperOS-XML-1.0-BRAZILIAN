@@ -322,7 +322,7 @@
     <string name="edit_mode_dual_app">Criar dual app</string>
     <string name="edit_mode_group">Agrupar</string>
     <string name="edit_mode_group_error_cant_delete_system_apps">Não é possível desinstalar apps do sistema</string>
-    <string name="edit_mode_group_error_full">Não há espaço suficiente</string>
+    <string name="edit_mode_group_error_full">Espaço insuficiente</string>
     <string name="edit_mode_group_error_in_folder">Feche a pasta antes de agrupar os itens</string>
     <string name="edit_mode_group_error_nothing_be_selected">Selecione um app primeiro</string>
     <string name="edit_mode_group_error_one_folder">Não é possível duplicar uma pasta com os ícones selecionados</string>
@@ -392,7 +392,7 @@
     <string name="fold_pair_install_shortcut_long_click">Pressione e segure para adicionar à Tela inicial</string>
     <string name="fold_pair_installed_shortcut_launcher">Este atalho já existe</string>
     <string name="folder_name">Pasta</string>
-    <string name="folder_not_edit_icon_tip">Para editar, primeiro mova o app para fora da pasta</string>
+    <string name="folder_not_edit_icon_tip">Para editar, primeiro mova o app para fora da pasta.</string>
     <string name="folder_picker_big_2x2_9_text">"XXL"</string>
     <string name="folder_picker_big_text">Ampliado</string>
     <string name="folder_picker_default_text">"Regular"</string>
@@ -411,11 +411,11 @@
     <string name="free_style_edit_tab_free_component">Objetos</string>
     <string name="free_style_edit_tab_shortcut">Atalhos</string>
     <string name="free_style_edit_tab_widget">"Widgets"</string>
-    <string name="free_style_enter_tip">Para ver o Espaço Mi, deslize para baixo com dois dedos a partir do topo da tela</string>
-    <string name="free_style_exit_tip">Para retornar à Tela inicial, deslize para cima da parte interior da tela com dois dedos</string>
+    <string name="free_style_enter_tip">Para ver o Espaço Mi, deslize para baixo com dois dedos a partir do topo da tela.</string>
+    <string name="free_style_exit_tip">Para retornar à Tela inicial, deslize para cima da parte interior da tela com dois dedos.</string>
     <string name="free_style_londing_text">Aguarde…</string>
     <string name="free_style_title">Espaço Mi</string>
-    <string name="free_style_unavailable_message">O Espaço Mi não é mais suportado nesta versão. Você pode continuar usando este tema, no entanto.</string>
+    <string name="free_style_unavailable_message">O Espaço Mi não é mais suportado nesta versão. Você ainda pode continuar usando este tema.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -471,6 +471,7 @@
     <string name="guide_tips_editing_mode">Pressione e segure para pegar um widget</string>
     <string name="hide_apps_title">Ocultar ícones dos apps</string>
     <string name="home_gesture_content_center">Centro de conteúdo</string>
+    <string name="home_gesture_content_center_settings">Configurações do Centro de conteúdo</string>
     <string name="home_gesture_global_search">Pesquisar</string>
     <string name="home_gesture_global_shelf">Localizador de apps</string>
     <string name="home_gesture_no_action">Nenhum</string>

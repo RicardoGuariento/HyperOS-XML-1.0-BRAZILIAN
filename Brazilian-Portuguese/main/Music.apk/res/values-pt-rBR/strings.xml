@@ -541,8 +541,8 @@ Envie este código para o supervisor."</string>
     <string name="download_apk_desktop_pause">Pausado</string>
     <string name="download_apk_desktop_pending">Pendente</string>
     <string name="download_apk_desktop_running">Baixando</string>
-    <string name="download_auto_after_favorite_no_vip_summary">Baixar músicas favoritas automaticamente (exceto conteúdo pago)</string>
-    <string name="download_auto_after_favorite_summary">Baixar músicas favoritas automaticamente</string>
+    <string name="download_auto_after_favorite_no_vip_summary">Baixe músicas favoritas automaticamente (exceto conteúdo pago)</string>
+    <string name="download_auto_after_favorite_summary">Baixe músicas favoritas automaticamente</string>
     <string name="download_auto_after_favorite_title">Baixar favoritas</string>
     <string name="download_auto_cancel">Baixar favoritas desativado</string>
     <string name="download_auto_message">"Músicas marcadas como favoritas serão baixadas automaticamente quando você estiver conectado a uma rede Wi-Fi. Você pode alterar esta opção nas Configurações."</string>
@@ -600,8 +600,8 @@ Envie este código para o supervisor."</string>
     <string name="download_traffic_dialog_title_serious">Dados móveis acabando</string>
     <string name="download_unknown_title">(Sem título)</string>
     <string name="download_wait_connect">Aguardando conexão</string>
-    <string name="download_while_playing_no_vip_summary">Baixar músicas do streaming automaticamente (exceto conteúdo pago)</string>
-    <string name="download_while_playing_summary">Baixar músicas do streaming automaticamente</string>
+    <string name="download_while_playing_no_vip_summary">Baixe músicas de streaming automaticamente (exceto conteúdo pago)</string>
+    <string name="download_while_playing_summary">Baixe músicas de streaming automaticamente</string>
     <string name="download_while_playing_title">Baixar durante o streaming</string>
     <string name="downloaded">Baixado</string>
     <string name="downloaded_empty">Vazio</string>
@@ -862,7 +862,7 @@ Envie este código para o supervisor."</string>
     <string name="impunity_declaration_negative_text">Sair</string>
     <string name="impunity_declaration_positive_text">Concordar</string>
     <string name="impunity_declaration_settings">Mostrar Termos de Serviço</string>
-    <string name="impunity_declaration_summary">Mostrar Termos de Serviço sempre que o app de Música for aberto</string>
+    <string name="impunity_declaration_summary">Mostre os Termos de Serviço sempre que o app Música for aberto</string>
     <string name="impunity_declaration_title">Termos de Serviço</string>
     <string name="in_searching_please_wait">Procurando…</string>
     <string name="individuation_card_login_button">Fazer login</string>
@@ -1160,7 +1160,7 @@ Envie este código para o supervisor."</string>
     <string name="more_add_song_list">Adicionar músicas na fila</string>
     <string name="more_milink_and_bluetooth">Mi Link e Bluetooth</string>
     <string name="more_settings">Configurações avançadas</string>
-    <string name="more_settings_summary">Timer de desativação, filtro de arquivos e mais</string>
+    <string name="more_settings_summary">Timer de desativação, filtro de arquivos e mais.</string>
     <string name="more_share">Compartilhar</string>
     <string name="more_splendid_contents">Mais</string>
     <string name="morning">"AM"</string>
@@ -1559,7 +1559,7 @@ Envie este código para o supervisor."</string>
     <string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
     <string name="preset_music_playlist">Playlist Música</string>
     <string name="priority_storage">Usar um cartão SD externo</string>
-    <string name="priority_storage_summary">Baixar automaticamente para o cartão SD externo quando disponível</string>
+    <string name="priority_storage_summary">Baixa automaticamente para o cartão SD externo quando disponível</string>
     <string name="privacy_authorize_network_error">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="privacy_authorize_revoke_failed">Não foi possível revogar a autorização</string>
     <string name="privacy_authorize_revoke_success">Autorização revogada com sucesso</string>
