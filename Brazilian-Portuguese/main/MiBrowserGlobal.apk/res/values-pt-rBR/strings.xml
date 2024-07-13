@@ -1420,11 +1420,14 @@ Envie este código para o supervisor."</string>
     <string name="mw_accessibility_date_picker_year">Ano</string>
     <string name="mw_accessibility_datetime_picker_date">Data</string>
     <string name="mw_accessibility_datetime_picker_time">Hora</string>
+    <string name="mw_accessibility_list_menu_button">%1$s opções</string>
     <string name="mw_accessibility_time_picker_ampm">"AM/PM"</string>
     <string name="mw_accessibility_time_picker_hour">Hora</string>
     <string name="mw_accessibility_time_picker_milli">Milissegundo</string>
     <string name="mw_accessibility_time_picker_minute">Minuto</string>
     <string name="mw_accessibility_time_picker_second">Segundo</string>
+    <string name="mw_accessibility_toolbar_btn_menu">Personalize e controle o Google Chrome</string>
+    <string name="mw_actionbar_manage_apps">Gerenciar apps</string>
     <string name="mw_actionbar_share">Compartilhar</string>
     <string name="mw_actionbar_textselection_title">Seleione o texto</string>
     <string name="mw_actionbar_web_search">Pesquisa web</string>
@@ -1487,6 +1490,7 @@ Envie este código para o supervisor."</string>
     <string name="mw_elided_url_text_view_url_truncated">URL truncado</string>
     <string name="mw_find_next">Localizar próximo</string>
     <string name="mw_find_previous">Localizar anterior</string>
+    <string name="mw_image_copied">Imagem copiada</string>
     <string name="mw_js_dialog_before_unload">"%s
 
 Tem certeza de que deseja navegar para fora desta página?"</string>
@@ -2539,6 +2543,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="survey_feedback_general">"OK"</string>
+    <string name="swipe_exit_browser_toast">Deslize novamente para sair do Navegador Mi</string>
     <string name="switchText">SIM</string>
     <string name="switch_proxy_dialog_msg">Hijacking de rede detectado. Use o app de Segurança do sistema ou reporte este problema para sua operadora.</string>
     <string name="switch_proxy_dialog_title">Hijacking de rede</string>

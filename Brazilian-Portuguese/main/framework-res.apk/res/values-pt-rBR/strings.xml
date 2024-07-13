@@ -422,12 +422,12 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="color_correction_feature_name">Correção de cor</string>
     <string name="color_inversion_feature_name">Inversão de cores</string>
     <string name="common_name">Nome comum:</string>
-    <string name="concurrent_display_notification_active_content">%1$s está usando ambos os displays para mostrar conteúdo</string>
+    <string name="concurrent_display_notification_active_content">%1$s está usando ambas as telas para mostrar conteúdo</string>
     <string name="concurrent_display_notification_active_title">A Tela dupla está ativada</string>
     <string name="concurrent_display_notification_name">Tela dupla</string>
     <string name="concurrent_display_notification_power_save_content">A Tela dupla não está disponível porque a Economia de bateria está ativada. Você pode desligar isso nas Configurações.</string>
     <string name="concurrent_display_notification_power_save_title">A Tela dupla não está disponível</string>
-    <string name="concurrent_display_notification_thermal_content">A Tela dupla não está disponível porque seu dispositivo está esquentando muito</string>
+    <string name="concurrent_display_notification_thermal_content">A Tela dupla não está disponível porque seu dispositivo está muito quente</string>
     <string name="concurrent_display_notification_thermal_title">O dispositivo está muito quente</string>
     <string name="condition_provider_service_binding_label">Provedor de condições</string>
     <string name="conference_call">Teleconferência</string>
@@ -1724,7 +1724,7 @@ para a conta %s."</string>
     <string name="permlab_systemAlertWindow">Este app pode se sobrepor visualmente a outros apps</string>
     <string name="permlab_systemCamera">Permitir que um app ou serviço acesse câmeras do sistema para tirar fotos e gravar vídeos</string>
     <string name="permlab_transmitIr">Transmitir infravermelhos</string>
-    <string name="permlab_turnScreenOn">ligar a tela</string>
+    <string name="permlab_turnScreenOn">Ligar a tela</string>
     <string name="permlab_uninstall_shortcut">Desinstalar atalhos</string>
     <string name="permlab_updatePackagesWithoutUserAction">Atualizar app sem ação do usuário</string>
     <string name="permlab_useBiometric">Usar hardware de biometria</string>
@@ -2149,7 +2149,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="user_switching_message">Alternando para %1$s…</string>
     <string name="validity_period">Validade:</string>
     <string name="vdm_camera_access_denied">Não é possível acessar a câmera do dispositivo em %1$s</string>
-    <string name="vdm_pip_blocked">Não é possível visualizar picture-in-picture durante a transmissão</string>
+    <string name="vdm_pip_blocked">Não é possível visualizar Pip durante a transmissão</string>
     <string name="vdm_secure_window">Isso não pode ser acessado durante a transmissão. Experimente no seu dispositivo.</string>
     <string name="view_and_control_notification_content">%s pode visualizar e controlar sua tela. Toque para revisar.</string>
     <string name="view_and_control_notification_title">Verifique as configurações de acesso</string>

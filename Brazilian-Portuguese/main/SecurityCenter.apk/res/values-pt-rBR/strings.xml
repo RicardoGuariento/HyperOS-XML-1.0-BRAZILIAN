@@ -1353,13 +1353,13 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="create_gamebooster_destop">Atalho na Tela inicial criado com sucesso</string>
     <string name="create_shortcut">Criar um atalho na Tela inicial para o Game Turbo</string>
     <string name="cs_close_vt_camera_first_tips">"Não é possível usar esse recurso ao usar a câmera entre dispositivos"</string>
-    <string name="cs_color_sense">Temperatura de cor</string>
+    <string name="cs_color_sense">Temperatura da cor</string>
     <string name="cs_conversation_record_using">Gravando</string>
     <string name="cs_func_toast_headset">Desconecte seu fone de ouvido para poder usar este recurso</string>
     <string name="cs_func_toast_light">Mude para a câmera frontal para poder usar este recurso</string>
     <string name="cs_func_toast_pickup">Mude para uma chamada de vídeo para poder usar este recurso</string>
     <string name="cs_func_unavailable_tips">Use este recurso durante chamadas</string>
-    <string name="cs_light_enhance_physical_options">Temperatura de cor</string>
+    <string name="cs_light_enhance_physical_options">Temperatura da cor</string>
     <string name="cs_light_enhance_physical_title">Brilho</string>
     <string name="cs_open_camera_first_tips">Abra a Câmera para usar este recurso</string>
     <string name="cs_pickup_denoise_desc">Reduz o ruído do áudio recebido ao usar alto-falantes ou fones de ouvidos</string>
@@ -3840,9 +3840,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_search_keywords_capacity">Capacidade da bateria</string>
     <string name="pc_search_keywords_property">Desempenho</string>
     <string name="pc_settings_title">Bateria</string>
-    <string name="pc_smart_charge_button_summary">Para prolongar a vida útil da bateria, o sistema aprenderá como você carrega o dispositivo e interromperá o carregamento quando o nível da bateria atingir %1$s.</string>
-    <string name="pc_smart_charge_notify_summary_high_temp">Seu dispositivo esquentou. O carregamento será interrompido quando o nível da bateria atingir %1$s.</string>
-    <string name="pc_smart_charge_notify_summary_navagition">Navegando… O carregamento será interrompido quando o nível da bateria atingir %1$s.</string>
+    <string name="pc_smart_charge_button_summary">Para prolongar a vida útil da bateria, o sistema aprenderá como você carrega o dispositivo e interromperá o carregamento quando o nível da bateria atingir %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Seu dispositivo esquentou. O carregamento será interrompido quando o nível da bateria atingir %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navegando… O carregamento será interrompido quando o nível da bateria atingir %1$s</string>
     <string name="pc_smart_charge_notify_summary_night_charge">O carregamento irá parar em %s</string>
     <string name="pc_smart_charge_pogo_project_dialog_content">"Para prolongar a vida útil da bateria, a bateria deste dispositivo não ultrapassará o nível atual enquanto estiver conectado ao carro."</string>
     <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Não mostrar novamente"</string>
@@ -4935,7 +4935,7 @@ Retirar consentimento agora?"</string>
     <string name="sd_insert_summary">Insira o cartão SD para montá-lo</string>
     <string name="sd_mount">Montar cartão SD</string>
     <string name="search_keyword_apply">"App"</string>
-    <string name="search_keyword_applybar">App dock</string>
+    <string name="search_keyword_applybar">"App dock"</string>
     <string name="search_keyword_call">Chamada</string>
     <string name="search_keyword_sidebar">Barra lateral</string>
     <string name="search_keyword_tool">Ferramentas</string>
