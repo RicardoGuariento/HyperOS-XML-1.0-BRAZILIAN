@@ -4880,8 +4880,8 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="headset_find_voice_warning">Aviso de volume alto</string>
     <string name="headset_head_tracking_desc">Ajuste o som imersivo com base no movimento de sua cabeça</string>
     <string name="headset_head_tracking_title">Rastreie o movimento da cabeça</string>
-    <string name="headset_notification_switch_summary">Mostrar status no widget da Área de notificação quando os fones de ouvido estiverem conectados</string>
-    <string name="headset_notification_switch_title">Widget da Área de notificação</string>
+    <string name="headset_notification_switch_summary">Mostre o status no widget na Área de notificações quando os fones de ouvido estiverem conectados</string>
+    <string name="headset_notification_switch_title">Widget na Área de notificações</string>
     <string name="headset_remove_message">Desparear dispositivo?</string>
     <string name="headset_remove_message_indicate">%1$s serão despareados de todos os dispositivos associados a esta conta Mi.</string>
     <string name="headset_sbc">"SBC"</string>
@@ -5002,7 +5002,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="importance_min">Mínima</string>
     <string name="importance_title">Importância</string>
     <string name="important_bubble">Mostrar conversas prioritárias em balões</string>
-    <string name="important_conversation_behavior_summary">Conversas prioritárias são mostradas no topo da área de notificações. Você também pode configurá-las para que sejam mostradas como bolhas e interrompam o modo \"Não perturbe\".</string>
+    <string name="important_conversation_behavior_summary">Conversas prioritárias são mostradas no topo da Área de notificações. Você também pode configurá-las para que sejam mostradas como bolhas e interrompam o modo \"Não perturbe\".</string>
     <string name="important_conversations">Conversas com prioridade</string>
     <string name="important_conversations_summary">Aparecer na parte superior da seção de conversa</string>
     <string name="important_conversations_summary_bubbles">Mostrar no topo da seção de conversas e aparecer como bolhas flutuantes</string>
@@ -6345,7 +6345,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_audio_quality_summary">Seleciona o codec de áudio Bluetooth</string>
     <string name="miheadset_audio_sound_quality">Qualidade de áudio</string>
     <string name="miheadset_audio_sound_quality_summary">Seleciona o codec de áudio Bluetooth</string>
-    <string name="miheadset_auto_ack_mode">Atender chamadas automaticamente quando estiver usando os fones de ouvido</string>
+    <string name="miheadset_auto_ack_mode">Atenda chamadas automaticamente quando estiver usando os fones de ouvido</string>
     <string name="miheadset_auto_ack_mode_summary">Atenda chamadas automaticamente</string>
     <string name="miheadset_auto_answer_call">Atender chamadas automaticamente</string>
     <string name="miheadset_auto_upgrade_reminder">Desative as atualizações automáticas e verifique se há atualizações novamente</string>
@@ -6416,8 +6416,8 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_head_tracking_summary">Experimente uma sensação aprimorada de espaço e direção para áudio e vídeo suportados</string>
     <string name="miheadset_high_quality">Alta qualidade</string>
     <string name="miheadset_ignore">Desparear</string>
-    <string name="miheadset_in_ear_check">Deteção no ouvido</string>
-    <string name="miheadset_in_ear_check_summary">Pausar o áudio quando os fones de ouvido forem retirados e retomar automaticamente quando eles forem recolocados</string>
+    <string name="miheadset_in_ear_check">Deteção de ouvido</string>
+    <string name="miheadset_in_ear_check_summary">Pause o áudio quando os fones de ouvido forem retirados e retome automaticamente quando eles forem recolocados</string>
     <string name="miheadset_key_config_ANC_list_title">Controle de ruído</string>
     <string name="miheadset_key_config_call_ai">Assistente de voz</string>
     <string name="miheadset_key_config_close">Desativado</string>
@@ -6455,8 +6455,8 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_multi_connect_mode_summary">Conecte-se a vários dispositivos ao mesmo tempo</string>
     <string name="miheadset_network_not_available">Verifique suas configurações de rede e tente novamente</string>
     <string name="miheadset_next">Próximo</string>
-    <string name="miheadset_notification_summary">Mostra o widget da Área de notificação quando os fones de ouvido estiverem conectados</string>
-    <string name="miheadset_notification_title">Mostrar na Área de notificação</string>
+    <string name="miheadset_notification_summary">Mostra o widget da Área de notificações quando os fones de ouvido estiverem conectados</string>
+    <string name="miheadset_notification_title">Mostrar na Área de notificações</string>
     <string name="miheadset_offhook">Rejeitar chamada</string>
     <string name="miheadset_ok_device">"OK"</string>
     <string name="miheadset_openAnc">Cancelamento de ruído</string>
@@ -7321,7 +7321,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_channel_summary_default">Pode tocar ou vibrar com base nas configurações do dispositivo</string>
     <string name="notification_channel_summary_high">Quando o dispositivo estiver desbloqueado, mostrar notificações em um banner no topo da tela</string>
     <string name="notification_channel_summary_low">Sem som ou vibração</string>
-    <string name="notification_channel_summary_min">Na área de notificações, recolher notificações para uma única linha</string>
+    <string name="notification_channel_summary_min">Na Área de notificações, recolher notificações para uma única linha</string>
     <string name="notification_channel_summary_priority">Aparece na parte superior de uma seção de conversa, em forma de balão, mostrando a foto do perfil na Tela de bloqueio</string>
     <string name="notification_channel_title">Categoria da notificação</string>
     <string name="notification_channels">Categorias</string>
