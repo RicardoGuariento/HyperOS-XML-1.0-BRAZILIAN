@@ -794,7 +794,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="continue_back_up_gp_msg">Para terminar de ativar o backup, abra o Google Fotos.</string>
     <string name="continue_back_up_gp_title">Abrir o Google Fotos</string>
     <string name="continue_feedback">Feedback adicional</string>
-    <string name="continue_migration_msg">Algumas de suas fotos e vídeos foram transferidos para o Google Fotos. Retome a transferência agora para não perder nada importante quando a sincronização com o MiCloud não estiver mais disponível.</string>
+    <string name="continue_migration_msg">Algumas de suas fotos e vídeos foram transferidos para o Google Fotos. Retome a transferência agora para não perder nada importante quando a sincronização com a MiCloud não estiver mais disponível.</string>
     <string name="continue_migration_ok">Retomar</string>
     <string name="continue_migration_title">Retomar a transferência</string>
     <string name="copy">Copiar</string>
@@ -1478,7 +1478,7 @@ estão disponíveis"</string>
     <string name="image_invalid_path">Caminho inválido</string>
     <string name="image_not_found">"Não foi possível encontrar a imagem"</string>
     <string name="image_quota_fulfiled">Muitas imagens. Exclua algumas imagens e tente novamente.</string>
-    <string name="image_selection_summary">O HyperOS analisará fotos similares e marcará as melhores capturas para você. Desative este recurso para remover marcações das fotos.</string>
+    <string name="image_selection_summary">A Galeria analisará fotos similares e marcará as melhores capturas para você. Desative este recurso para remover marcações das fotos.</string>
     <string name="image_selection_title">Selecionar a melhor foto</string>
     <string name="image_with_time">Foto tirada em %s</string>
     <string name="image_with_time_and_location">Foto tirada em %1$s. Localização: %2$s.</string>
@@ -1768,7 +1768,7 @@ para personalizar a Galeria"</string>
     <string name="migrate_gp_bottom_msg_li_1">Adicione à sua biblioteca do Google Fotos</string>
     <string name="migrate_gp_btn_migrate">Mover para o Google Fotos</string>
     <string name="migrate_gp_btn_no">Agora não</string>
-    <string name="migrate_gp_msg">"Suas fotos e vídeos não serão mais sincronizados com o MiCloud. Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na MiCloud serão excluídos permanentemente.
+    <string name="migrate_gp_msg">"Suas fotos e vídeos não serão mais sincronizados com a MiCloud. Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na MiCloud serão excluídos permanentemente.
 %2$s"</string>
     <string name="migrate_gp_msg_link">Ver detalhes</string>
     <string name="migrate_gp_title">A sincronização com a nuvem não está mais disponível</string>
@@ -3079,7 +3079,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="slim_description_dialog_detail">Comprima as fotos e deixe cópias menores de alta qualidade neste dispositivo, mantendo os arquivos originais na nuvem.</string>
     <string name="slim_description_dialog_ok">Entendi</string>
     <string name="slim_description_dialog_slim_after">Depois: %d KB</string>
-    <string name="slim_description_dialog_slim_before">Antes: %.2fMB</string>
+    <string name="slim_description_dialog_slim_before">Antes: %.2f MB</string>
     <string name="slim_dialog_empty_message">"Não foi possível encontrar itens para otimizar."</string>
     <string name="slim_dialog_empty_positive">Entendi</string>
     <string name="slim_dialog_empty_title">Atenção!</string>
@@ -3204,7 +3204,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="stop_migration_ok">Parar</string>
     <string name="stop_migration_title">Parar a transferência agora?</string>
     <string name="stop_use_secret_cancel">Agora não</string>
-    <string name="stop_use_secret_msg">"Suas fotos e vídeos não são mais sincronizados com o MiCloud. Você não poderá usar seu álbum particular, pois ele depende da criptografia na nuvem.
+    <string name="stop_use_secret_msg">"Suas fotos e vídeos não são mais sincronizados com a MiCloud. Você não poderá usar seu álbum particular, pois ele depende da criptografia na nuvem.
 Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na MiCloud serão excluídos permanentemente.
 %2$s"</string>
     <string name="stop_use_secret_ok">Transferir itens</string>

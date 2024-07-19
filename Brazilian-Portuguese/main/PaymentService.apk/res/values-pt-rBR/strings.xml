@@ -72,7 +72,7 @@
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
     <string name="change_activate_email">Alterar endereço de e-mail</string>
     <string name="change_password">Alterar senha</string>
-    <string name="character_counter_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+    <string name="character_counter_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="choose_to_signin">Sim</string>
     <string name="choose_to_signup">Não, criarei uma</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
@@ -807,7 +807,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação de conta eSurfing&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_with_unicom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
     <string name="passport_user_avatar_update_title">Alterar foto do perfil</string>
-    <string name="passport_user_avatar_uploading">Só um segundo…</string>
+    <string name="passport_user_avatar_uploading">Aguarde…</string>
     <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
     <string name="passport_user_id_intro">Digite a senha para %1$s</string>
     <string name="passport_user_name_phone_number">Número de telefone</string>

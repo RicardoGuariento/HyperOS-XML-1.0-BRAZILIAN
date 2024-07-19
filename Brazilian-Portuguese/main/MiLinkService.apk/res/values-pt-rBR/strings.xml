@@ -679,15 +679,15 @@ Se os dois dispositivos não puderem ser conectados à mesma rede, ative o Mirac
     <string name="help_page_text_13_summary_1">"Não é possível conectar a um dispositivo externo"</string>
     <string name="help_page_text_13_summary_2">Interrupções de rede durante a transmissão</string>
     <string name="help_page_text_14">"%1$d. Se você quiser usar um dispositivo Xiaomi, mas não consegue encontrá-lo na lista de dispositivos disponíveis, tente o seguinte:
-Conecte seu dispositivo móvel e o monitor externo (por exemplo, sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do seu dispositivo móvel. Se não houver nenhuma rede disponível ou se você não puder conectar ambos os dispositivos à mesma rede, verifique se os recursos de transmissão no seu monitor externo estão atualizados, ative o Bluetooth no seu dispositivo móvel e no monitor externo e ative o Miracast na sua TV. 
+Conecte seu dispositivo móvel e o monitor externo (ex.: sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do seu dispositivo móvel. Se não houver nenhuma rede disponível ou se você não puder conectar ambos os dispositivos à mesma rede, verifique se os recursos de transmissão no seu monitor externo estão atualizados, ative o Bluetooth no seu dispositivo móvel e no monitor externo e ative o Miracast na sua TV. 
 %2$d. Se você está transmitindo em um dispositivo Xiaomi pela primeira vez, você precisa completar a verificação.
 %3$d. Se você quiser usar um dispositivo não-Xiaomi, mas não consegue encontrá-lo na lista de dispositivos disponíveis, tente o seguinte:
-Conecte o seu dispositivo móvel e o monitor externo (por exemplo, sua TV) para a mesma rede Wi-Fi, ou ligue o monitor externo ao hotspot do seu dispositivo móvel. Se isso não ajudar, instale o app HappyCast na sua TV e siga as instruções."</string>
+Conecte o seu dispositivo móvel e o monitor externo (ex.: sua TV) para a mesma rede Wi-Fi, ou ligue o monitor externo ao hotspot do seu dispositivo móvel. Se isso não ajudar, instale o app HappyCast na sua TV e siga as instruções."</string>
     <string name="help_page_text_14_global">"%1$d. Se você quiser usar um dispositivo Xiaomi, mas não consegue encontrá-lo na lista de dispositivos disponíveis, tente o seguinte:
-Conecte seu dispositivo móvel e o monitor externo (por exemplo, sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do dispositivo móvel. Se não houver nenhuma rede disponível ou se você não puder conectar ambos os dispositivos à mesma rede, verifique se os recursos de transmissão no seu monitor externo estão atualizados, ative o Bluetooth no seu dispositivo móvel e no monitor externo e ative o Miracast na sua TV.
+Conecte seu dispositivo móvel e o monitor externo (ex.: sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do dispositivo móvel. Se não houver nenhuma rede disponível ou se você não puder conectar ambos os dispositivos à mesma rede, verifique se os recursos de transmissão no seu monitor externo estão atualizados, ative o Bluetooth no seu dispositivo móvel e no monitor externo e ative o Miracast na sua TV.
 %2$d. Se você estiver transmitindo em um dispositivo Xiaomi pela primeira vez, é necessário concluir a verificação.
 %3$d. Se você quiser usar um dispositivo não Xiaomi, mas não conseguir encontrá-lo na lista de dispositivos disponíveis, tente o seguinte:
-Conecte seu dispositivo móvel e o monitor externo (por exemplo, sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do dispositivo móvel."</string>
+Conecte seu dispositivo móvel e o monitor externo (ex.: sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do dispositivo móvel."</string>
     <string name="help_page_text_15">Funcionalidade Miracast em diferentes dispositivos</string>
     <string name="help_page_text_16">Mi TV/Mi Projetor</string>
     <string name="help_page_text_17">"Você pode projetar itens do seu dispositivo Mi na maioria dos modelos de Mi TV com recursos Bluetooth sem ativar o Miracast manualmente.
@@ -1107,7 +1107,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="quick_settings">Configurações</string>
     <string name="quick_settings_close_tips">Ativado com sucesso. Desligue a qualquer momento em Configurações > Notificações e barra de status.</string>
     <string name="quick_settings_device_dialog_check_box">"Não mostre novamente"</string>
-    <string name="quick_settings_device_dialog_message">"Se você ativar esse recurso, poderá descobrir TVs, alto-falantes e carros próximos no Centro de controle. Ligar agora?"</string>
+    <string name="quick_settings_device_dialog_message">"Se você ativar esse recurso, poderá descobrir TVs, alto-falantes e carros próximos no centro de controle. Ligar agora?"</string>
     <string name="quick_settings_device_dialog_positive">Ligar</string>
     <string name="quick_settings_device_dialog_title">Descubra dispositivos próximos</string>
     <string name="quick_settings_notification_control_center">Notificações e barra de status</string>

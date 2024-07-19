@@ -282,9 +282,8 @@ Seleção"</string>
     <string name="category_personal">Pessoal</string>
     <string name="category_work">Trabalho</string>
     <string name="cell_data_off_content_description">Dados móveis desativados</string>
-    <string name="character_counter_content_description">Caracteres digitados %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
-    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="charge_length_format">%1$s atrás</string>
     <string name="chip_text">Texto do chip</string>
     <string name="choose_profile">Escolha o perfil</string>
@@ -384,7 +383,7 @@ Seleção"</string>
     <string name="emergency_contacts_title">Contatos de emergência</string>
     <string name="emergency_info_footer">"Adicionar informações médicas e contatos de emergência pode ajudar os primeiros respondedores em uma emergência.
 
-Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar seus contatos tocando em seus nomes, sem desbloquear seu dispositivo."</string>
+Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar seus contatos tocando em seus nomes, sem desbloquear seu dispositivo."</string>
     <string name="enable_adb">Depuração USB.</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB está conectado</string>
     <string name="enable_adb_wireless">Depuração sem fio</string>

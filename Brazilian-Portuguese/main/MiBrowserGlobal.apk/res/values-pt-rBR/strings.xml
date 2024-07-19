@@ -278,7 +278,7 @@ Desative o seletor para parar a sincronização."</string>
     <string name="browser_wallpaper_my">Meus planos de fundos</string>
     <string name="browser_wallpaper_preview">Pré-visualizar</string>
     <string name="browser_wallpaper_sub">Obtenha recomendações de planos de fundos especiais e com tema natalino</string>
-    <string name="browser_wallpaper_subtitle">Personalize o Navegador Mi com lindos papéis de parede.</string>
+    <string name="browser_wallpaper_subtitle">Personalize o Navegador Mi com lindos planos de fundos.</string>
     <string name="browser_wallpaper_system_default">Padrão</string>
     <string name="browser_wallpaper_title">Planos de fundos</string>
     <string name="browser_wallpaper_toast">Desative o botão Promoções para poder trocar os planos de fundos</string>
@@ -1788,7 +1788,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="passport_empty_password">A senha não pode estar em branco</string>
     <string name="passport_empty_user_name">O usuário não pode estar em branco</string>
     <string name="passport_error_auth_fail">Sessão expirada. Faça o login novamente.</string>
-    <string name="passport_error_device_id">Não é possível obter a ID do dispositivo</string>
+    <string name="passport_error_device_id">Não é possível obter o ID do dispositivo</string>
     <string name="passport_error_email">O endereço de e-mail inserido é inválido</string>
     <string name="passport_error_empty_captcha_code">Insira o captcha</string>
     <string name="passport_error_empty_email">Insira seu endereço de e-mail</string>
@@ -2033,10 +2033,10 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="pref_privacy_enable_geolocation_summary">Permitir que o navegador solicite acesso à sua localização</string>
     <string name="pref_privacy_formdata_title">Dados de formulário</string>
     <string name="pref_privacy_location_title">Acesso à localização</string>
-    <string name="pref_privacy_performance_id_instead_by_random_id">"Substituiremos sua ID de Performance com uma nova gerada aleatoriamente."</string>
+    <string name="pref_privacy_performance_id_instead_by_random_id">"Substituiremos seu ID de Performance com uma nova gerada aleatoriamente."</string>
     <string name="pref_privacy_performance_id_is">"ID de Performance atual: "</string>
-    <string name="pref_privacy_performance_id_reset">Redefina sua ID de Performance</string>
-    <string name="pref_privacy_performance_id_will_reset">A ID de Performance será redefinida</string>
+    <string name="pref_privacy_performance_id_reset">Redefina seu ID de Performance</string>
+    <string name="pref_privacy_performance_id_will_reset">O ID de Performance será redefinido</string>
     <string name="pref_privacy_security_title">Privacidade e segurança</string>
     <string name="pref_rate_app">Classificar</string>
     <string name="pref_save_bandwidth_mode_title">Reduzir o uso de dados</string>
@@ -2114,7 +2114,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="preference_title_autocomplete_search">Autocompletar pesquisas e URLs</string>
     <string name="privacy_accept">Concordar e continuar</string>
     <string name="privacy_agreement">Contrato do Usuário</string>
-    <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta ação requer o envio da sua ID de Performance, que não pode ser feita no Modo anônimo. Saia do Modo anônimo e tente novamente."</string>
+    <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta ação requer o envio da seu ID de Performance, que não pode ser feita no Modo anônimo. Saia do Modo anônimo e tente novamente."</string>
     <string name="privacy_authorize_network_error">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="privacy_authorize_revoke">Revogar</string>
     <string name="privacy_authorize_revoke_dialog_msg">Após revogar a autorização, o Navegador Mi não coletará mais dados, e todos os dados relacionados serão excluídos dos servidores. Isto pode tornar o Navegador Mi virtualmente inutilizável. Revogar a autorização mesmo assim?</string>
@@ -3024,7 +3024,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_app_center_history_more">Mais</string>
     <string name="web_app_center_try">Tentar</string>
     <string name="web_enhance_dialog_cancel">Cancelar</string>
-    <string name="web_enhance_dialog_confirm">OK</string>
+    <string name="web_enhance_dialog_confirm">"OK"</string>
     <string name="web_enhance_dialog_msg">Comece a bloquear anúncios em %s agora?</string>
     <string name="web_enhance_dialog_title">Bloquear anúncios</string>
     <string name="web_intercept_ad_empty_record_hint">Se você ainda vir anúncios, pressione e segure-os para adicionar uma tag de anúncio.</string>

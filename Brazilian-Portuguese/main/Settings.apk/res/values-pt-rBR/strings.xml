@@ -3796,7 +3796,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="edge_mode_screenshot_summary">Dois toques em ambas as bordas para tirar uma captura de tela</string>
     <string name="edge_mode_state_summary">A área em torno das bordas curvas não responderão ao toque</string>
     <string name="edge_mode_state_title">Ignorar toques acidentais nas bordas</string>
-    <string name="edge_to_edge_navigation_summary">Para ir para a tela inicial, deslize da parte de baixo da tela para cima. Para alternar entre apps, deslize de baixo para cima, mantenha a tela pressionada e depois solte. Para voltar, deslize de um dos lados da tela para o outro.</string>
+    <string name="edge_to_edge_navigation_summary">Para ir para a Tela inicial, deslize da parte de baixo da tela para cima. Para alternar entre apps, deslize de baixo para cima, mantenha a tela pressionada e depois solte. Para voltar, deslize de um dos lados da tela para o outro.</string>
     <string name="edge_to_edge_navigation_title">Navegação por gestos</string>
     <string name="edit_rule">Editar regras</string>
     <string name="edit_rules">Editar</string>
@@ -4634,7 +4634,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="gesture_settings_title">Atalhos para os gestos</string>
     <string name="gesture_summary_go_back">Deslize da esquerda ou da direita com três dedos</string>
     <string name="gesture_summary_go_home">Deslize para cima com três dedos em qualquer lugar do touchpad</string>
-    <string name="gesture_summary_notifications">Deslize para baixo com três dedos na tela inicial</string>
+    <string name="gesture_summary_notifications">Deslize para baixo com três dedos na Tela inicial</string>
     <string name="gesture_summary_recent_apps">Deslize para cima com três dedos, segure e solte</string>
     <string name="gesture_summary_switch_apps">Deslize para a esquerda ou para a direita com quatro dedos</string>
     <string name="gesture_supported_title">Gestos disponíveis</string>
@@ -4794,8 +4794,8 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="handle_ota_updating_tip">Atualizando em segundo plano…</string>
     <string name="handy_mode">Modo para uma só mão</string>
     <string name="handy_mode_enable">Modo para uma só mão</string>
-    <string name="handy_mode_hint">O Modo para uma mão só está disponível na tela externa</string>
-    <string name="handy_mode_no_touch_assistant">"O Modo para uma mão só funcionará se você estiver usando botões para navegação do sistema. Você pode alternar entre gestos e botões na seção \"Navegação do sistema\" nas Configurações."</string>
+    <string name="handy_mode_hint">O Modo para uma só mão só está disponível na tela externa</string>
+    <string name="handy_mode_no_touch_assistant">"O Modo para uma só mão só funcionará se você estiver usando botões para navegação do sistema. Você pode alternar entre gestos e botões na seção \"Navegação do sistema\" nas Configurações."</string>
     <string name="handy_mode_size">Tamanho da tela</string>
     <string name="handy_mode_tips">Ative o Modo para uma só mão deslizando para a esquerda ou direita a partir do centro do painel de navegação.</string>
     <string name="handy_mode_tips_full_screen">Ative o Modo para uma só mão deslizando para baixo a partir do indicador de tela cheia. Este recurso não funcionará se o indicador estiver oculto.</string>
@@ -6427,11 +6427,11 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_key_config_next_music">Próxima música</string>
     <string name="miheadset_key_config_noise_control">Controle de ruído</string>
     <string name="miheadset_key_config_noise_control_summary">Pressione e segure para alternar entre dois modos de controle de ruído selecionados</string>
-    <string name="miheadset_key_config_noise_summary">Bloquear sons externos</string>
+    <string name="miheadset_key_config_noise_summary">Bloqueia sons externos</string>
     <string name="miheadset_key_config_none">Nenhum</string>
     <string name="miheadset_key_config_press_left">Pressione e segure o fone de ouvido esquerdo</string>
     <string name="miheadset_key_config_press_right">Pressione e segure o fone de ouvido direito</string>
-    <string name="miheadset_key_config_trans_summary">Permitir sons externos</string>
+    <string name="miheadset_key_config_trans_summary">Permita sons externos</string>
     <string name="miheadset_key_config_triple_left">Três toques no fone de ouvido esquerdo</string>
     <string name="miheadset_key_config_triple_right">Três toques no fone de ouvido direito</string>
     <string name="miheadset_key_config_volume_down">Volume -</string>
@@ -6623,12 +6623,12 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_tof_screen_on_close_switch_dialog_msg">Ative \"%s\" para poder usar esse recurso normalmente. Você pode ativar esse recurso em Configurações.</string>
     <string name="miui_tof_screen_on_close_switch_dialog_positive">Configurações</string>
     <string name="miui_tof_screen_on_close_switch_dialog_title">Ative \"%s\"</string>
-    <string name="miui_tof_screen_on_close_tip_dialog_msg">\"%1$s\" está ativado. Para evitar que seu dispositivo exiba imediatamente a tela inicial ou o conteúdo do app ao reconhecer seu rosto, recomendamos manter \"%2$s\" ativado também.</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_msg">\"%1$s\" está ativado. Para evitar que seu dispositivo exiba imediatamente a Tela inicial ou o conteúdo do app ao reconhecer seu rosto, recomendamos manter \"%2$s\" ativado também.</string>
     <string name="miui_tof_screen_on_close_tip_dialog_negative">Desligar</string>
     <string name="miui_tof_screen_on_close_tip_dialog_positive">Continuar</string>
     <string name="miui_tof_screen_on_close_tip_dialog_title">Aviso de privacidade</string>
     <string name="miui_tof_screen_on_msg">Quando o dispositivo detecta uma pessoa próxima a ele, a tela liga, tenta reconhecer um rosto e desbloqueia se for bem-sucedido</string>
-    <string name="miui_tof_screen_on_open_dialog_msg">Ative \"%s\" para evitar que seu dispositivo exiba imediatamente a tela inicial ou o conteúdo do app ao reconhecer seu rosto.</string>
+    <string name="miui_tof_screen_on_open_dialog_msg">Ative \"%s\" para evitar que seu dispositivo exiba imediatamente a Tela inicial ou o conteúdo do app ao reconhecer seu rosto.</string>
     <string name="miui_tof_screen_on_open_dialog_title">Ative \"%s\"</string>
     <string name="miui_tof_screen_on_success_toast">\"Reconhecer rosto quando próximo do dispositivo\" está ativado. Para sua privacidade, ative também a opção "Permanecer na tela de bloqueio após desbloquear".</string>
     <string name="miui_tof_screen_on_title">Reconhecer rosto quando estiver perto do dispositivo</string>
@@ -8593,7 +8593,7 @@ Essa configuração afeta todos os usuários do dispositivo."</string>
     <string name="screen_dark_mode_select_time_error_summary">A hora de início e de término não podem ser as mesmas</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Alguns apps podem ser exibidos incorretamente no Modo escuro. Você pode restringir o uso do Modo escuro para apps individuais aqui.</string>
     <string name="screen_dark_mode_smart_dark_title">Modo escuro global</string>
-    <string name="screen_dark_mode_time_summary">Seu dispositivo mudará para o modo escuro próximo ao horário programado quando você desligar a tela</string>
+    <string name="screen_dark_mode_time_summary">Seu dispositivo mudará para o Modo escuro próximo ao horário programado quando você desligar a tela</string>
     <string name="screen_dark_mode_time_title">Modo escuro automático</string>
     <string name="screen_effect">Esquema de cores</string>
     <string name="screen_effect_adapt_color_summary">Ajuste as cores com base na iluminação atual</string>
@@ -11935,7 +11935,7 @@ Veja a política de privacidade da sua operadora para obter detalhes."</string>
     <string name="wifi_eap_identity">Identidade</string>
     <string name="wifi_eap_method">Método EAP</string>
     <string name="wifi_eap_min_tls_ver">Versão mínima do TLS</string>
-    <string name="wifi_eap_ocsp">Status de certificado on-line</string>
+    <string name="wifi_eap_ocsp">Status de certificado online</string>
     <string name="wifi_eap_options_advanced">Opções avançadas</string>
     <string name="wifi_eap_options_simple">Opções simples</string>
     <string name="wifi_eap_sim_simcard">Selecionar SIM</string>

@@ -116,7 +116,7 @@
     <string name="apply_success_not_support_aod">"Não é possível combinar a Tela ambiente com temas neste dispositivo. Os componentes restantes deste tema forma aplicados com sucesso."</string>
     <string name="apply_theme_with_ringtones">Usar toques do tema</string>
     <string name="apply_wallpaper_after_three_theme">"No momento, você está usando um tema de terceiros. Se você alterar o plano de fundo da Tela de bloqueio, isso pode fazer com que o estilo do relógio da Tela de bloqueio seja restaurado para o padrão. Aplicar agora?"</string>
-    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio, e a Tela sempre ativa será restaurada para a configuração anterior. Aplicar agora?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio, e a Tela ambiente será restaurada para a configuração anterior. Aplicar agora?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio. Aplicar agora?"</string>
     <string name="apply_warning_get_device_dialog_message">Para poder usar o conteúdo baixado, permita que este recurso acesse o ID do seu dispositivo primeiro. Você pode conceder essa permissão em Configurações > Privacidade.</string>
     <string name="apply_warning_tip_get_device_status">Primeiro permita que este app acesse o ID do seu dispositivo em Perfil > Configurações.</string>
@@ -148,7 +148,7 @@
     <string name="both_all_apply_success">Plano de fundo aplicado</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="browse_mode">Modo online</string>
-    <string name="browse_mode_desc">"Permita que este app se conecte à internet, acesse conteúdo on-line e use itens do seu dispositivo (ex.: fotos, áudio e vídeos). Nenhuma de suas informações pessoais será coletada."</string>
+    <string name="browse_mode_desc">"Permita que este app se conecte à internet, acesse conteúdo online e use itens do seu dispositivo (ex.: fotos, áudio e vídeos). Nenhuma de suas informações pessoais será coletada."</string>
     <string name="browser_local_resource">Recursos locais</string>
     <string name="can_not_apply">Não é possível aplicar</string>
     <string name="can_not_apply_error">"Este formato de vídeo não é suportado"</string>
@@ -162,7 +162,7 @@
     <string name="change_host_hint">Alterar host</string>
     <string name="change_wallpaper">Plano de fundo</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="check_has_new_version">Uma atualização está disponível</string>
     <string name="chip_text">Texto do chip</string>
     <string name="classification_more_understand_you">Selecione sua categoria favorita</string>
@@ -277,7 +277,7 @@
     <string name="detail_reward_custom_amount">Montante personalizado</string>
     <string name="detail_reward_duplicate_order_error">Muitas tentativas. Aguarde alguns minutos e tente novamente.</string>
     <string name="detail_reward_exceed_limit">A recompensa pode ser de até 200 CNY</string>
-    <string name="detail_reward_know_it">OK</string>
+    <string name="detail_reward_know_it">"OK"</string>
     <string name="detail_reward_limited_to_200">A recompensa pode ter até 200 Mi Coins</string>
     <string name="detail_reward_loading_failed">"Não foi possível carregar as informações. Tente novamente."</string>
     <string name="detail_reward_no_one">Sem recompensas ainda. Dê a primeira!</string>
@@ -376,7 +376,7 @@
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="extreme_mode_dialog_message">Este recurso não está disponível no Modo extremo. Desative o Modo extremo para poder usá-lo.</string>
-    <string name="extreme_mode_dialog_ok">OK</string>
+    <string name="extreme_mode_dialog_ok">"OK"</string>
     <string name="extreme_mode_dialog_title">Alerta</string>
     <string name="fail_to_add_account">"Não é possível adicionar a conta"</string>
     <string name="favorite_list">Favoritos</string>
@@ -815,7 +815,7 @@ dd 'de' MMM"</string>
     <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Este toque será aplicado para ambos os cartões SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Toque do telefone aplicado nos dois cartões SIM.</string>
-    <string name="multi_sim_ringtone_settings_dialog_ok">OK</string>
+    <string name="multi_sim_ringtone_settings_dialog_ok">"OK"</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">"Não mostrar novamente"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidade</string>
     <string name="multiwindow_no_support">"Esta ação não é compatível com a Tela dividida"</string>
@@ -1628,7 +1628,7 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos."</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="uid_change_dialog_message">"Você excluiu atualizações. Reinicie o dispositivo para conseguir usar temas."</string>
-    <string name="uid_change_dialog_ok">OK</string>
+    <string name="uid_change_dialog_ok">"OK"</string>
     <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
     <string name="ultraviolet_rays_abbreviation">IUV</string>
     <string name="unable_connect_network">"Não foi possível conectar-se à rede"</string>

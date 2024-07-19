@@ -451,7 +451,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="as_unimportant">Não importante</string>
     <string name="aspect_cancel">Cancelar</string>
     <string name="aspect_message">Este app será executado novamente no Modo Tela cheia. Caso encontre algum problema, você pode desativar o Modo Tela cheia para este app em Configurações > Tela infinita > Modo Tela cheia.</string>
-    <string name="aspect_ok">OK</string>
+    <string name="aspect_ok">"OK"</string>
     <string name="aspect_title">Modo Tela cheia</string>
     <string name="audio_effect_custom">Configurar</string>
     <string name="audio_effect_info">Otimizar áudio</string>
@@ -735,9 +735,8 @@ Toque para reajustar"</string>
     <string name="cell_data_off">Desativado</string>
     <string name="cell_data_off_content_description">Dados móveis desativados</string>
     <string name="change_theme_reboot">Para alterar o tema será necessário reiniciar</string>
-    <string name="character_counter_content_description">Caracteres inseridos %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="charge_length_format">%1$s atrás</string>
     <string name="chip_text">Texto do chip</string>
     <string name="chooseUsbActivity">Escolha um app para o dispositivo USB</string>
@@ -1492,7 +1491,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="lb_playback_controls_high_quality_enable">Ativar alta qualidade</string>
     <string name="lb_playback_controls_more_actions">Mais ações</string>
     <string name="lb_playback_controls_pause">Pausar</string>
-    <string name="lb_playback_controls_picture_in_picture">Entrar no modo Picture-In-Picture</string>
+    <string name="lb_playback_controls_picture_in_picture">Entrar no modo Picture-in-Picture</string>
     <string name="lb_playback_controls_play">Reproduzir</string>
     <string name="lb_playback_controls_repeat_all">Repetir tudo</string>
     <string name="lb_playback_controls_repeat_none">Repetir nenhum</string>
@@ -2121,7 +2120,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="pip_menu_title">"Menu"</string>
     <string name="pip_move">Mover</string>
     <string name="pip_notification_message">"Caso não deseje que o %s use este recurso, toque para abrir as configurações e desative."</string>
-    <string name="pip_notification_title">%s está no modo (PiP) Picture-In-Picture</string>
+    <string name="pip_notification_title">%s está no modo (PiP) Picture-in-Picture</string>
     <string name="pip_notification_unknown_title">(Programa sem título)</string>
     <string name="pip_pause">Pausar</string>
     <string name="pip_phone_close">Fechar</string>
@@ -2171,7 +2170,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
 • Impedir interrupção em tela cheia 
 • Impedir visualização 
 • Impedir sons e vibrações 
-• Ocultar da tela de bloqueio e barra de status 
+• Ocultar da Tela de bloqueio e barra de status 
 • Mostrar no final da lista de notificações 
 
 "<b>Nível 0</b>" 
@@ -2200,7 +2199,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="priority_mode_dream_overlay_content_description">Modo prioritário ativado</string>
     <string name="priority_onboarding_appear_as_bubble_text">Aparece como uma bolha flutuante no topo dos apps</string>
     <string name="priority_onboarding_behavior">Conversas com prioridade irão:</string>
-    <string name="priority_onboarding_done_button_title">OK</string>
+    <string name="priority_onboarding_done_button_title">"OK"</string>
     <string name="priority_onboarding_ignores_dnd_text">Interromper Não Perturbe</string>
     <string name="priority_onboarding_settings_button_title">Configurações</string>
     <string name="priority_onboarding_show_at_top_text">Mostrar no topo da seção de conversas</string>
@@ -3496,10 +3495,10 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="controls_favorite_back_to_editing">Voltar para edição</string>
     <string name="controls_favorite_rearrange_button">Reorganizar</string>
     <string name="controls_media_button_connecting">Conectando</string>
-    <string name="controls_media_button_next">Faixa seguinte</string>
+    <string name="controls_media_button_next">Próxima música</string>
     <string name="controls_media_button_pause">Pausa</string>
     <string name="controls_media_button_play">Jogar</string>
-    <string name="controls_media_button_prev">Faixa anterior</string>
+    <string name="controls_media_button_prev">Música anterior</string>
     <string name="controls_media_empty_title">%1$s está em execução</string>
     <string name="controls_media_seekbar_description">%1$s de %2$s</string>
     <string name="controls_media_smartspace_rec_header">Para você</string>
@@ -3540,8 +3539,8 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="drag_shadow_split_right_open">Tela dividida (direita)</string>
     <string name="drag_shadow_split_top_open">Tela dividida (superior)</string>
     <string name="drag_shadow_split_unsupported">"Tela dividida não é suportada"</string>
-    <string name="drag_shadow_split_unsupported_app">"%s não suporta tela dividida"</string>
-    <string name="drag_split_not_supported">Esta notificação não suporta arrastar para tela dividida</string>
+    <string name="drag_shadow_split_unsupported_app">"%s não suporta Tela dividida"</string>
+    <string name="drag_split_not_supported">Esta notificação não suporta arrastar para Tela dividida</string>
     <string name="dream_overlay_status_bar_alarm_set">Alarme definido</string>
     <string name="dream_overlay_status_bar_assistant_attention_indicator">O assistente está ouvindo</string>
     <string name="dream_overlay_status_bar_camera_mic_off">Câmera e microfone estão desligados</string>
@@ -3591,7 +3590,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="group_system_access_all_apps_search">Acesse a lista de todos os apps e pesquise (ou seja, Pesquisa/Lançador)</string>
     <string name="group_system_access_google_assistant">Acesse o Google Assistente</string>
     <string name="group_system_access_home_screen">Acesse a Tela inicial</string>
-    <string name="group_system_access_notification_shade">Acesse a aba de notificações</string>
+    <string name="group_system_access_notification_shade">Acesse a Área de notificações</string>
     <string name="group_system_access_system_app_shortcuts">Lista de acesso de atalhos de sistema/apps</string>
     <string name="group_system_access_system_settings">Acesse as configurações do sistema</string>
     <string name="group_system_cycle_back">Percorrer apps recentes (voltar)</string>
@@ -3667,7 +3666,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="letterbox_education_dialog_title">Veja e faça mais</string>
     <string name="letterbox_education_got_it">Entendi</string>
     <string name="letterbox_education_reposition_text">Toque duas vezes fora de um app para reposicioná-lo</string>
-    <string name="letterbox_education_split_screen_text">Arraste outro app para tela dividida</string>
+    <string name="letterbox_education_split_screen_text">Arraste outro app para Tela dividida</string>
     <string name="letterbox_reachability_reposition_text">"Toque duas vezes para mover este app"</string>
     <string name="letterbox_restart_cancel">Cancelar</string>
     <string name="letterbox_restart_dialog_checkbox_title">Não mostre novamente</string>

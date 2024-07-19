@@ -100,11 +100,11 @@
     <string name="content_description_start">Iniciar</string>
     <string name="content_introduction">O Centro de conteúdo agrega conteúdo e serviços de vários canais. Aqui você pode ler artigos, assistir a vídeos, ver itens diários em destaque e receber recomendações de conteúdo.</string>
     <string name="continue_to_enable_accessibility">Continue segurando dois dedos na tela para ativar a acessibilidade.</string>
-    <string name="cookies_content_one">"Quando você toca nas imagens e histórias no Carrossel de planos de fundo, abriremos suas versões completas em seu navegador. A Taboola, nosso provedor de conteúdo terceirizado confiável, pode recomendar conteúdo adicional e anúncios personalizados de acordo com seus interesses. Se você concordar em ativar este recurso, a Taboola colocará cookies no seu dispositivo através do navegador, conforme descrito na &lt;a href =%1$s>Política de Cookies&lt;/a>. Se você recusar o uso de cookies, os itens do Carrossel de planos de fundo continuarão a aparecer na tela de bloqueio e histórias completas serão abertas no navegador, mas recomendações adicionais não serão selecionadas especificamente para você. Você pode alterar suas preferências a qualquer momento nas Configurações."</string>
+    <string name="cookies_content_one">"Quando você toca nas imagens e histórias no Carrossel de planos de fundo, abriremos suas versões completas em seu navegador. A Taboola, nosso provedor de conteúdo terceirizado confiável, pode recomendar conteúdo adicional e anúncios personalizados de acordo com seus interesses. Se você concordar em ativar este recurso, a Taboola colocará cookies no seu dispositivo através do navegador, conforme descrito na &lt;a href =%1$s>Política de Cookies&lt;/a>. Se você recusar o uso de cookies, os itens do Carrossel de planos de fundo continuarão a aparecer na Tela de bloqueio e histórias completas serão abertas no navegador, mas recomendações adicionais não serão selecionadas especificamente para você. Você pode alterar suas preferências a qualquer momento nas Configurações."</string>
     <string name="cookies_content_two">"Decida se deseja que nossos provedores de conteúdo terceirizados de confiança usem cookies para personalizar recomendações de conteúdo e anúncios com base em seus interesses."</string>
     <string name="cookies_title">Conteúdo personalizado e cookies</string>
     <string name="copy">Copiar</string>
-    <string name="create_shortcut">Atalho para tela inicial</string>
+    <string name="create_shortcut">Atalho para Tela inicial</string>
     <string name="data_traffic_enable_dialog_title">"Caso não esteja conectado ao Wi-Fi agora, seu dispositivo usará os dados móveis. O uso de dados móveis pode gerar cobranças adicionais da operadora."</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -403,8 +403,8 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="other_settings_ad_enable_summary">Personalizar anúncios com base em seus interesses</string>
     <string name="other_settings_alarm_assistance">Localzação de emergência</string>
     <string name="other_settings_alarm_assistance_privacy">Política de Privacidade</string>
-    <string name="other_settings_alarm_assistance_summary">"Você pode enviar suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga para os números 110, 120, 119 ou 122. Leia e concorde com nosso &lt;a href=\"%1$s\">Contrato de Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</string>
-    <string name="other_settings_alarm_assistance_user">Contrato de Usuário</string>
+    <string name="other_settings_alarm_assistance_summary">"Você pode enviar suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga para os números 110, 120, 119 ou 122. Leia e concorde com nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</string>
+    <string name="other_settings_alarm_assistance_user">Contrato do Usuário</string>
     <string name="other_settings_auto_update">Atualizar automaticamente</string>
     <string name="other_settings_auto_update_summary">O HyperOS selecionará o melhor horário para baixar e instalar as atualizações. Seu dispositivo será reiniciado automaticamente para aplicar as mudanças.</string>
     <string name="other_settings_auto_update_summary_v1">Permita que o HyperOS selecione o melhor momento para baixar e instalar atualizações. Seu dispositivo será reinicializado automaticamente para aplicar as alterações.</string>
@@ -610,7 +610,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="select_font_modele_tips">Você sempre pode selecionar uma nova fonte em Temas</string>
     <string name="send">Enviar</string>
     <string name="service_agreement">"Eu li e aceito os termos e condições."</string>
-    <string name="service_company_adjust_content">Contrato de usuário de serviços de rede Xunlei</string>
+    <string name="service_company_adjust_content">Contrato do Usuário de serviços de rede Xunlei</string>
     <string name="service_fast_pairing_policy"><Data>Leia e concorde com a &lt;a href=%1$s>Política de privacidade do Mi Link&lt;/a > antes de continuar.</Data></string>
     <string name="service_interconnection_communication">Serviços de comunicação da internet da Xiaomi</string>
     <string name="service_location_share_policy"><Data>Leia e concorde com a &lt;a href=%1$s>Declaração de privacidade dos serviços de localização&lt;/a > antes de continuar.</Data></string>
@@ -717,7 +717,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="terms_of_use">Termos e condições</string>
     <string name="terms_of_use_ble_htmlViewer">Fornecedor de Localização, Visualizador de HTML</string>
     <string name="terms_of_use_label">"Leia nosso Contrato do Usuário e a Política de Privacidade para entender quais informações nós coletamos, como as usamos e quais são as opções disponíveis para você.
-Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade antes de usar o HyperOS.
+Você precisa aceitar nosso Contrato do Usuário e a Política de Privacidade antes de usar o HyperOS.
 %s e componentes da Conta Mi vão se conectar à internet e obterão a sua localização."</string>
     <string name="terms_of_use_label_MSA">"MSA"</string>
     <string name="terms_of_use_label_Mistore">Loja Mi</string>

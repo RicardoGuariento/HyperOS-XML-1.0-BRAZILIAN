@@ -197,7 +197,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="dialog_tip_upgrade_title">Atualizar Mi Mover</string>
     <string name="dialog_version_summary_tip">"O que há de novo:"</string>
     <string name="dialog_version_title_tip">Uma atualização está disponível</string>
-    <string name="dialog_wechat_data_transfer_fail_button">OK</string>
+    <string name="dialog_wechat_data_transfer_fail_button">"OK"</string>
     <string name="dialog_wechat_data_transfer_fail_message">"Não foi possível transferir os dados do app WeChat e o histórico de bate-papo devido a restrições do app. Experimente o recurso de backup no app.
 Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar."</string>
     <string name="dialog_wechat_data_transfer_fail_title">"Não foi possível transferir dados do app WeChat"</string>
@@ -704,13 +704,13 @@ Libere pelo menos %s."</string>
     <string name="scan_soft_ap_label">Conecte-se ao novo dispositivo</string>
     <string name="scanner_bottom_tip">Selecione apenas itens importantes para agilizar a transferência.</string>
     <string name="scanner_not_support_data_transfer_tip">"Não é possível transferir dados do app (incluindo o histórico de bate-papo do WeChat e QQ) de dispositivos não Xiaomi."</string>
-    <string name="scanner_permission_alert_cancel">OK</string>
+    <string name="scanner_permission_alert_cancel">"OK"</string>
     <string name="scanner_permission_alert_ok">Configurações</string>
     <string name="scanner_quit_alert_btn_negative">Sair</string>
     <string name="scanner_quit_alert_btn_positive">Não sair</string>
     <string name="scanner_quit_alert_message">"Você precisará conectar os dois dispositivos novamente se sair do Mi Mover agora. Sair mesmo assim?"</string>
     <string name="scanner_quit_alert_title">Sair agora?</string>
-    <string name="scanner_send_dialog_btn">OK</string>
+    <string name="scanner_send_dialog_btn">"OK"</string>
     <string name="scanner_send_dialog_message">"Não desative o Wi-Fi ou alterne entre redes durante a transferência."</string>
     <string name="scanner_size_selected">Selecionado: %s</string>
     <string name="scanner_subtitle_prd">Leia atentamente as informações a seguir antes de verificar cada item e iniciar o processo de transferência.</string>

@@ -195,13 +195,13 @@
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="click_to_open_ad">Toque para saber mais</string>
-    <string name="click_to_open_pip">Toque para alternar para picture-in-picture</string>
+    <string name="click_to_open_pip">Toque para alternar para Picture-in-Picture</string>
     <string name="click_to_play_video_push_context">Toque para reproduzir o vídeo</string>
     <string name="click_to_reload_more">Toque para carregar mais</string>
     <string name="click_to_retry">Tentar novamente</string>
     <string name="close">Fechar</string>
     <string name="close_notify_panel_tips">O mini reprodutor será exibido na Área de notificações quando a reprodução em segundo plano estiver ativa</string>
-    <string name="cloud_auto_pip_play_switch">Usar picture-in-picture automaticamente</string>
+    <string name="cloud_auto_pip_play_switch">Usar Picture-in-Picture automaticamente</string>
     <string name="cloud_online_player">Reprodutor</string>
     <string name="cloud_online_switch">Recomendações personalizadas</string>
     <string name="cloud_online_switch_close_time">Você pode ativar a recomendação de conteúdo personalizado em %s</string>
@@ -613,7 +613,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="galleryplus_network_not_wifi">Usar os dados móveis para o streaming de vídeos pode gerar tarifas adicionais com a operadora</string>
     <string name="galleryplus_next_step">Próximo</string>
     <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gerencie arquivos %$s Adicione legendas %$s Transmita vídeos %$s</string>
-    <string name="galleryplus_notification_linkvideo_subtitle1_new">Use o Picture-in-picture, reprodução em segundo plano, zoom, transmissão e mais %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1_new">Use o Picture-in-Picture, reprodução em segundo plano, zoom, transmissão e mais %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Proteja seus vídeos privados com uma senha %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2_new">Proteja vídeos privados com senha e gerencie seus arquivos %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle3">Baixe vídeos do TikTok, Instagram e Twitter %$s</string>
@@ -639,7 +639,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="galleryplus_permission_content2">"Para poder usar este recurso, vá em Configurações > Apps > Gerenciar apps > Mi Vídeo > Permissões do app e permita que o Mi Vídeo faça o seguinte:
 
 1. Acesse o armazenamento
-2. Acesse a ID do dispositivo"</string>
+2. Acesse o ID do dispositivo"</string>
     <string name="galleryplus_permission_content_opt">O Mi Vídeo precisa de permissões para funcionar normalmente. Limpe todos os dados do app nas Configurações e abra-o novamente.</string>
     <string name="galleryplus_permission_content_opt2">"O Mi Vídeo precisa de permissões para funcionar normalmente. Limpe todos os dados do app nas configurações e abra-o novamente.
 Esta operação não afetará as fotos da sua galeria."</string>
@@ -1403,7 +1403,7 @@ Atualize o Mi Vídeo para a versão mais recente primeiro."</string>
     <string name="passport_empty_password">A senha não pode estar em branco</string>
     <string name="passport_empty_user_name">O usuário não pode estar em branco</string>
     <string name="passport_error_auth_fail">Sessão expirada. Faça o login novamente.</string>
-    <string name="passport_error_device_id">Não é possível obter a ID do dispositivo</string>
+    <string name="passport_error_device_id">Não é possível obter o ID do dispositivo</string>
     <string name="passport_error_email">O endereço de e-mail inserido é inválido</string>
     <string name="passport_error_empty_captcha_code">Insira o captcha</string>
     <string name="passport_error_empty_email">Insira seu endereço de e-mail</string>
@@ -1498,7 +1498,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="phone_number">Número de telefone</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="pip">"PiP"</string>
-    <string name="pip_not_supported_toast">Atualize o HyperOS para poder usar picture-in-picture.</string>
+    <string name="pip_not_supported_toast">Atualize o HyperOS para poder usar Picture-in-Picture.</string>
     <string name="play_at_normal_speed">Reproduzindo na velocidade 1X</string>
     <string name="play_at_speed">Reproduzindo na velocidade %.1fX</string>
     <string name="play_list_detial_add">Adicionar vídeos</string>
@@ -1648,7 +1648,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="pm">"PM"</string>
     <string name="popup_click_for_download_video">Baixar vídeo</string>
     <string name="popup_pip_activate_button">Configurações</string>
-    <string name="popup_pip_not_activated">Permita que o Mi Vídeo use o picture-in-picture primeiro.</string>
+    <string name="popup_pip_not_activated">Permita que o Mi Vídeo use o Picture-in-Picture primeiro.</string>
     <string name="popup_window_home_tip">Baixar vídeos online</string>
     <string name="popup_window_small_tag_tip">Toque em uma tag para ver todos os vídeos dessa categoria</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>

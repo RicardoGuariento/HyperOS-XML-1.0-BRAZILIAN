@@ -439,7 +439,7 @@
     <string name="contact_edit_title_insert">Salvar em %s</string>
     <string name="contact_edit_title_readonly">Contato somente leitura</string>
     <string name="contact_editor_prompt_multiple_accounts">Salvar contato em</string>
-    <string name="contact_editor_prompt_zero_accounts">Armazenar no telefone ou em uma nova conta on-line</string>
+    <string name="contact_editor_prompt_zero_accounts">Armazenar no telefone ou em uma nova conta online</string>
     <string name="contact_import_methods_dialog_bluetooth">"Bluetooth"</string>
     <string name="contact_import_methods_dialog_mi_mover">Importar usando o Mi Mover</string>
     <string name="contact_import_methods_dialog_title">Selecionar método de importação</string>
@@ -1028,7 +1028,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="passport_dialog_register_other">"Não, vou criar uma"</string>
     <string name="passport_doing_query_account">Verificando informações da conta…</string>
     <string name="passport_error_auth_fail">Sessão expirada, faça o login novamente mais tarde</string>
-    <string name="passport_error_device_id">Não é possível obter a id do dispositivo</string>
+    <string name="passport_error_device_id">Não é possível obter o ID do dispositivo</string>
     <string name="passport_error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
     <string name="passport_error_empty_password">Digite sua senha</string>
     <string name="passport_error_empty_phone_num">Digite o número do telefone</string>
@@ -1124,15 +1124,15 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="passport_to_verify_code_login">Fazer login por SMS</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_default"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
     <string name="passport_user_avatar_update_title">Alterar foto do perfil</string>
     <string name="passport_user_avatar_uploading">Aguarde…</string>
     <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
@@ -1587,7 +1587,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="unknown_contact_name">Contato desconhecido</string>
     <string name="unknown_details_add_to_contact">Existente</string>
     <string name="unknown_details_new_contact">Novo</string>
-    <string name="unshow_qr_code_in_narrow_screen_split">"Não é possível mostrar códigos QR ao usar a tela dividida"</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">"Não é possível mostrar códigos QR ao usar a Tela dividida"</string>
     <string name="update_sim_contact_photo_toast">"Não é possível definir uma foto de perfil para contatos no SIM"</string>
     <string name="upgrade_in_progress">A lista de contatos está sendo atualizada.</string>
     <string name="upgrade_out_of_memory">"Os contatos estão sendo atualizados no momento. 

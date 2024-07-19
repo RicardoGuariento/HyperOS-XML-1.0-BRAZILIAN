@@ -306,7 +306,7 @@
     <string name="deepclean_cache_summary_empty">Tudo em ordem, não é necessário limpar</string>
     <string name="deepclean_empty">Tudo em ordem</string>
     <string name="deepclean_install_info_desc2">Exclua apps para liberar espaço</string>
-    <string name="deepclean_large_content">Excluir arquivos maiores do que 10MB</string>
+    <string name="deepclean_large_content">Excluir arquivos maiores do que 10 MB</string>
     <string name="deepclean_large_summary_empty">Tudo em ordem, não há arquivos para excluir</string>
     <string name="deepclean_list_item_from_app">Play Store</string>
     <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
@@ -778,12 +778,12 @@
     <string name="notification_whatsapp_clean_size">O cache do WhatsApp atingiu %s</string>
     <string name="notify_when">Receber notificação quando o lixo atingir 100 MB</string>
     <string name="offline_notification_text">Toque para abrir o anúncio</string>
-    <string name="offline_notification_title">Ver o anúncio que você salvou quando estava off-line</string>
+    <string name="offline_notification_title">Ver o anúncio que você salvou quando estava offline</string>
     <string name="offline_opt_in_confirm">"OK"</string>
-    <string name="offline_opt_in_confirmation">"Você receberá uma notificação com o link quando estiver on-line novamente"</string>
+    <string name="offline_opt_in_confirmation">"Você receberá uma notificação com o link quando estiver online novamente"</string>
     <string name="offline_opt_in_decline">Não, obrigado</string>
     <string name="offline_opt_in_message">"Enviaremos uma notificação com um link para o site do anunciante."</string>
-    <string name="offline_opt_in_title">"Abra o anúncio quando estiver on-line novamente."</string>
+    <string name="offline_opt_in_title">"Abra o anúncio quando estiver online novamente."</string>
     <string name="ok">"OK"</string>
     <string name="one_tap_clean_GB">"%s GB"</string>
     <string name="one_tap_clean_M">"%d MB"</string>

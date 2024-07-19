@@ -516,7 +516,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="launch_noapp_dialog_cancel">Cancelar</string>
     <string name="launch_noapp_dialog_install">Instalar</string>
     <string name="launch_noapp_dialog_replace">Configurações</string>
-    <string name="launch_notification_center">Área de notificação</string>
+    <string name="launch_notification_center">Área de notificações</string>
     <string name="launch_recents">Abrir Recentes</string>
     <string name="launch_voice_assistant">Iniciar assistente de voz</string>
     <string name="list_empty_text">Vazio</string>
@@ -857,7 +857,7 @@ Separe e proteja seus dados."</string>
     <string name="show_noti_from_owner">Notificações do outro Espaço</string>
     <string name="show_noti_from_owner_detail">Receber notificações no espaço atual quando elas chegarem em outro espaço</string>
     <string name="show_noti_quick_switch_icon">Atalho na Área de notificações</string>
-    <string name="show_noti_quick_switch_icon_detail">Mostrar um atalho para trocar de espaços na Área de notificação</string>
+    <string name="show_noti_quick_switch_icon_detail">Mostrar um atalho para trocar de espaços na Área de notificações</string>
     <string name="show_private_content">Mostrar itens privados</string>
     <string name="show_private_msg">Mostrar mensagens pessoais</string>
     <string name="show_private_msg_summary">Mostrar mensagens pessoais no Segundo espaço</string>
@@ -949,7 +949,7 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="stylus_ota_check_failed_info">"Não foi possível verificar a versão do firmware. Anexe sua caneta novamente."</string>
     <string name="stylus_ota_check_update">Verificar atualizações</string>
     <string name="stylus_ota_completed">Atualizado com sucesso</string>
-    <string name="stylus_ota_completed_tip">Firmware atualizado com sucesso. Anexe a caneta para emparelhar.</string>
+    <string name="stylus_ota_completed_tip">Firmware atualizado com sucesso. Anexe a caneta para parear.</string>
     <string name="stylus_ota_current_firmware_version">Versão do firmware</string>
     <string name="stylus_ota_demands">"Mantenha o Bluetooth ativado durante a atualização. Certifique-se de que a bateria não fique abaixo de %1$s."</string>
     <string name="stylus_ota_download_failed">"Não foi possível baixar o firmware"</string>
@@ -1101,7 +1101,7 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="touchpad_go_home_summary">Deslize para cima com três dedos</string>
     <string name="touchpad_launch_controller_center">Centro de controle aberto</string>
     <string name="touchpad_launch_controller_center_summary">Deslize para baixo com dois dedos no canto superior direito do trackpad</string>
-    <string name="touchpad_launch_notification">Abra a Área de notificação</string>
+    <string name="touchpad_launch_notification">Abra a Área de notificações</string>
     <string name="touchpad_launch_notification_summary">Deslize para baixo com dois dedos a partir do canto superior esquerdo do trackpad</string>
     <string name="touchpad_quick_switch">Alternar entre apps</string>
     <string name="touchpad_quick_switch_summary">Deslize para a esquerda ou para a direita com três dedos</string>

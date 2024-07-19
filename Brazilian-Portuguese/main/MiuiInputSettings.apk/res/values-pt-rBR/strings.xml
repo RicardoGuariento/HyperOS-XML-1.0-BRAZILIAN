@@ -73,7 +73,7 @@
     <string name="camera_key_action_toggle_title">Acionar atalho</string>
     <string name="change_brightness">Ajustar o brilho</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="chip_text">Texto do chip</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
@@ -241,7 +241,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="ks_dialog_reset_text_system">Restaurar as preferências padrão de atalho do sistema?</string>
     <string name="ks_dialog_title">Abrir %s</string>
     <string name="ks_launch_control_center">Centro de controle</string>
-    <string name="ks_launch_notification_center">Área de notificação</string>
+    <string name="ks_launch_notification_center">Área de notificações</string>
     <string name="ks_launch_recents_tasks">Abrir recentes</string>
     <string name="ks_lock_screen">Tela de bloqueio</string>
     <string name="ks_regional_screen_shot">Captura de tela (parcial)</string>
@@ -266,7 +266,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="launch_noapp_dialog_cancel">Cancelar</string>
     <string name="launch_noapp_dialog_install">Instalar</string>
     <string name="launch_noapp_dialog_replace">Configurações</string>
-    <string name="launch_notification_center">Abrir a Área de notificação</string>
+    <string name="launch_notification_center">Abrir a Área de notificações</string>
     <string name="launch_recents">Abrir recentes</string>
     <string name="launch_smarthome">"Xiaomi Magic Control"</string>
     <string name="launch_voice_assistant">Abrir o Controle de voz</string>
@@ -587,7 +587,7 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="touchpad_go_home_summary">Deslize para cima com três dedos</string>
     <string name="touchpad_launch_controller_center">Centro de controle aberto</string>
     <string name="touchpad_launch_controller_center_summary">Deslize para baixo com dois dedos no canto superior direito do trackpad</string>
-    <string name="touchpad_launch_notification">Abra a Área de notificação</string>
+    <string name="touchpad_launch_notification">Abra a Área de notificações</string>
     <string name="touchpad_launch_notification_summary">Deslize para baixo com dois dedos a partir do canto superior esquerdo do trackpad</string>
     <string name="touchpad_quick_switch">Alternar entre apps</string>
     <string name="touchpad_quick_switch_summary">Deslize para a esquerda ou para a direita com três dedos</string>
