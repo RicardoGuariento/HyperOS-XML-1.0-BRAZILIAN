@@ -85,6 +85,7 @@
     <string name="app_install_safe_check">Verifique os apps antes da instalação</string>
     <string name="app_installing_not_allow">"Você não permitiu %1$s para instalar apps. Você pode alterar isso nas Configurações."</string>
     <string name="app_installing_not_allow_1">"Você não permitiu %1$s para instalar apps. "</string>
+    <string name="app_installing_not_allow_2">A instalação foi bloqueada. Pesquise \"Instalar apps desconhecidos\" nas Configurações para alterar suas preferências.</string>
     <string name="app_installing_toast">Aguarde até que todas as instalações em andamento sejam concluídas e tente novamente</string>
     <string name="app_name">Instalador de pacotes</string>
     <string name="app_name_unknown">Desconhecido</string>
@@ -458,7 +459,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="install_source_dialog_safe_title_des">Seu dispositivo e suas informações pessoais ficam mais vulneráveis a ataques de apps desconhecidos. Ao instalar este app, você entende e assume a responsabilidade por todos os riscos e consequências relacionados.</string>
     <string name="install_source_dialog_tip">Este app foi sinalizado como malicioso pelos usuários e pelo GetApps e não está mais disponível para download. Outros apps fornecidos pela mesma fonte ou desenvolvedor também podem ser maliciosos.</string>
     <string name="install_source_no_credible">Fonte não confiável</string>
-    <string name="install_unknow_source">Instale apps desconhecidos</string>
+    <string name="install_unknow_source">Instalar apps desconhecidos</string>
     <string name="install_version">Versão: %1$s</string>
     <string name="install_version_replace">Versão: %1$s -> %2$s</string>
     <string name="install_warning_dialog_unregistered3_desc">"O desenvolvedor não forneceu a listagem deste app às autoridades reguladoras. Talvez você não consiga entrar em contato com o desenvolvedor caso seus interesses sejam violados. Saiba mais"</string>
@@ -1162,8 +1163,8 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="secure_mode_new_function_1">Oculte o ID do dispositivo e impedir o rastreamento</string>
     <string name="secure_mode_new_function_2">"Armazene as informações de cada app de forma independente"</string>
     <string name="secure_mode_new_function_3">Evite a instalação enganosa e forçada de apps</string>
-    <string name="secure_mode_new_function_4">Evite o iniciamento acidental de aplicativos</string>
-    <string name="secure_mode_new_title">Comprehensive protection against unreviewed apps</string>
+    <string name="secure_mode_new_function_4">Evite o iniciamento acidental de apps</string>
+    <string name="secure_mode_new_title">Proteção abrangente contra apps não revisados</string>
     <string name="secure_mode_open_app_verify_des">"Autorize a instalação de apps que não foram verificados pelo GetApps"</string>
     <string name="secure_mode_security_verify">Autorização de segurança</string>
     <string name="security_settings_desc">Permitir que este app:</string>
