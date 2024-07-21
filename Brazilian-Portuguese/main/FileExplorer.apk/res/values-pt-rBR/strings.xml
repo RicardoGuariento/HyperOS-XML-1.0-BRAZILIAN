@@ -438,7 +438,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="menu_set_wallpaper">Definir como plano de fundo</string>
     <string name="message_request_manage_external_storage_perm">O Arquivos precisa de permissão para acessar e assim gerenciar os arquivos em seu dispositivo. Você pode conceder essa permissão nas Configurações.</string>
     <string name="mi_router_label">Roteador</string>
-    <string name="mi_share">Compartilhamento Xiaomi</string>
+    <string name="mi_share">"Xiaomi Share"</string>
     <string name="midnight">"AM"</string>
     <string name="midrive_display_related">Exibir</string>
     <string name="midrive_get_cloudvideo_file">Aguarde…</string>
@@ -451,7 +451,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="midrop_msg_1">Conectar Mi Drop nos outros dispositivos</string>
     <string name="midrop_msg_2">Quando Mi Drop estiver ativado, pode pesquisar dispositivos próximos e enviar arquivos</string>
     <string name="midrop_send_files">Escolher arquivos para enviar</string>
-    <string name="mirror_can_not_drag_mask">Arraste para usar o Compartilhamento Xiaomi</string>
+    <string name="mirror_can_not_drag_mask">Arraste para usar o Xiaomi Share</string>
     <string name="mirror_can_not_drag_mask_new">Arraste itens para %s</string>
     <string name="mirror_new_name">Criar pasta (%s)</string>
     <string name="mirror_new_name_first">Criar pasta</string>
@@ -461,7 +461,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="mirror_paste_no_file">"Este arquivo não existe"</string>
     <string name="mirror_progress_copy">Copiando…</string>
     <string name="mirror_side_bar_tab_app_name">"Apps"</string>
-    <string name="mirror_side_bar_tab_mine_name">Compartilhamento Xiaomi</string>
+    <string name="mirror_side_bar_tab_mine_name">"Xiaomi Share"</string>
     <string name="mirror_side_bar_tab_phone_name">Armazenamento do celular</string>
     <string name="mirror_side_bar_tab_recent_name">Recentes</string>
     <string name="mirror_side_bar_tab_tranfer_name">"Downloads"</string>
@@ -833,7 +833,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="save_file_to_mishare">Salvo na pasta do Compartilhamento Xiaomi</string>
+    <string name="save_file_to_mishare">Salvo na pasta do Xiaomi Share</string>
     <string name="search_app">Apps e pastas</string>
     <string name="search_app_more">Mais</string>
     <string name="search_category">Pesquisar por categoria</string>
@@ -1012,7 +1012,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="transfer">Downloads e Envios</string>
     <string name="transfer_done">Arquivos movidos com sucesso</string>
     <string name="transfer_private_data">Movendo arquivos privados do cartão SD…</string>
-    <string name="transfer_summary">Envios via Compartilhamento Xiaomi</string>
+    <string name="transfer_summary">Envios via Xiaomi Share</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
