@@ -1511,7 +1511,7 @@ estão disponíveis"</string>
     <string name="invite_tip">"Compartilhar fotos do seu bebê"</string>
     <string name="invite_user_activity_title">Compartilhar</string>
     <string name="invite_user_exist_toast">Esta pessoa já foi convidada</string>
-    <string name="invite_user_fail_toast">Um erro ocorreu. Aguarde um tempo e tente novamente.</string>
+    <string name="invite_user_fail_toast">Um erro ocorreu. Aguarde um momento e tente novamente.</string>
     <string name="invite_user_has_joined">Este álbum já foi compartilhado com esta pessoa</string>
     <string name="invite_user_info_top_hint_text">Confirmar conta</string>
     <string name="invite_user_now">Convidar</string>
@@ -2143,7 +2143,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_activity_not_found_notice">"Não consigo encontrar o app"</string>
     <string name="passport_agree">Concordar</string>
     <string name="passport_area_code_title">Código do país</string>
-    <string name="passport_attention">Atenção</string>
+    <string name="passport_attention">Atenção!</string>
     <string name="passport_auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="passport_back">Voltar</string>
     <string name="passport_bad_authentication">Usuário ou senha incorretos</string>
@@ -2194,7 +2194,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
     <string name="passport_facebook_login_btn_content_description">Faça login com o Facebook</string>
-    <string name="passport_frequency_try_later">Muitas tentativas. Espere um ou dois minutos e tente novamente.</string>
+    <string name="passport_frequency_try_later">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="passport_get_login_type_next">Próximo</string>
     <string name="passport_header_back">Voltar</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
@@ -2259,7 +2259,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_skip_query_account">Pular</string>
     <string name="passport_sns_access_token_expired_warning">Sessão expirada. Faça login novamente para reconectar esta conta.</string>
     <string name="passport_sns_bind_limit">Muitas tentativas. Experimente outras maneiras de fazer login.</string>
-    <string name="passport_system_error">O sistema está ocupado. Espere um ou dois minutos e tente novamente.</string>
+    <string name="passport_system_error">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="passport_talkback_image_captcha">Código de verificação de imagem</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação de imagem</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
@@ -2270,15 +2270,15 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_to_verify_code_login">Faça login por SMS</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi. &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi. &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação de conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi. &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação de conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
     <string name="passport_user_avatar_update_title">Alterar foto do perfil</string>
     <string name="passport_user_avatar_uploading">Aguarde…</string>
     <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
@@ -2964,7 +2964,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_album_family_invite_sharer">Convidar pessoas</string>
     <string name="share_album_family_invite_sms">SMS</string>
     <string name="share_album_family_invite_title">Compartilhar</string>
-    <string name="share_album_family_invite_toomuch_tip">Muitos pedidos. Espere um ou dois minutos e tente novamente.</string>
+    <string name="share_album_family_invite_toomuch_tip">Muitos pedidos. Aguarde um momento e tente novamente.</string>
     <string name="share_album_family_invite_waiting">Esperando</string>
     <string name="share_album_family_invite_wechat">WeChat</string>
     <string name="share_album_family_manage">Compartilhamento familiar</string>
@@ -2988,7 +2988,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_album_home_share_to_home">Casa inteligente</string>
     <string name="share_album_home_switch_family">Trocar</string>
     <string name="share_album_home_text_tip">Este álbum será compartilhado com seu grupo familiar. Também será reproduzido como uma apresentação de slides nas telas disponíveis para os membros do seu grupo familiar.</string>
-    <string name="share_album_invite_send_failed">"Não foi possível enviar o convite. Espere um ou dois minutos e tente novamente."</string>
+    <string name="share_album_invite_send_failed">"Não foi possível enviar o convite. Aguarde um momento e tente novamente."</string>
     <string name="share_album_invite_send_success">Convite enviado com sucesso</string>
     <string name="share_album_manage">Gerenciar itens compartilhados</string>
     <string name="share_album_needs_auto_upload_tip">"Não é possível desativar a sincronização com a nuvem para álbuns compartilhados"</string>
@@ -3556,7 +3556,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="transfer_status_banner_msg_preparing">Preparando a transferência %1$s</string>
     <string name="transfer_status_banner_msg_processing">"Transferindo fotos e vídeos %1$s
 (%2$d/%3$d)"</string>
-    <string name="transfer_status_banner_msg_unbinding">Removendo conta agora. Aguarde um ou dois minutos e reinicie a transferência %1$s</string>
+    <string name="transfer_status_banner_msg_unbinding">Removendo conta agora. Aguarde um momento e reinicie a transferência %1$s</string>
     <string name="trash_bin">Itens excluídos</string>
     <string name="trash_bin_key_word">Fotos excluídas</string>
     <string name="trash_bin_summary">Navegue entre fotos salvas que foram excluídas recentemente</string>

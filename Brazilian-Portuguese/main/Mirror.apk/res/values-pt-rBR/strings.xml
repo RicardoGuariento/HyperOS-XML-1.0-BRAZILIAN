@@ -87,7 +87,7 @@
     <string name="default_boss_terminal_name">"Notebook Mi"</string>
     <string name="default_error_msg">Erro desconhecido</string>
     <string name="desktop_switch_is_closed">A Tela inicial+ está desativada</string>
-    <string name="device_busy">Dispositivo está ocupado. Espere um ou dois minutos e tente novamente.</string>
+    <string name="device_busy">Dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="device_max_screen_count_toast">Este dispositivo só suporta a abertura de duas janelas ao mesmo tempo</string>
     <string name="device_screen_fold_switch_tip">Execute esta ação na tela interna</string>
     <string name="display_max_screen_count_toast">Você pode abrir até 3 janelas nesta versão</string>
@@ -594,8 +594,8 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="share_pc_abort_dialog_ok">Entendi</string>
     <string name="share_pc_abort_dialog_title">A conexão foi interrompida</string>
     <string name="share_pc_file_transfer_finish">Transferido com sucesso</string>
-    <string name="share_pc_file_transfer_part_failed">"Não foi possível transferir alguns arquivos. Espere um ou dois minutos e tente novamente."</string>
-    <string name="share_pc_file_transfer_try_later">Espere um ou dois minutos e tente novamente.</string>
+    <string name="share_pc_file_transfer_part_failed">"Não foi possível transferir alguns arquivos. Aguarde um momento e tente novamente."</string>
+    <string name="share_pc_file_transfer_try_later">Aguarde um momento e tente novamente.</string>
     <string name="share_pc_folder_error_dialog_message">"Arrastar pastas para transferi-las não é suportado no momento."</string>
     <string name="share_pc_folder_error_dialog_ok">Entendi</string>
     <string name="share_pc_folder_error_dialog_title">"Não foi possível transferir"</string>

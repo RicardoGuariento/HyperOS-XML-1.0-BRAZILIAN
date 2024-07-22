@@ -417,7 +417,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="install_confirm_dialog_negative_button">Cancelar</string>
     <string name="install_confirm_dialog_positive_button">Instalar</string>
     <string name="install_confirm_dialog_title">Atenção!</string>
-    <string name="install_confirm_question">Deseja instalar esta aplicação? Terá acesso a:</string>
+    <string name="install_confirm_question">Deseja instalar este app? Terá acesso a:</string>
     <string name="install_confirm_question_des_10">"Se você assume os riscos e deseja prosseguir com a instalação, autorize a instalação em Segurança > Gerenciar apps > Permissões > Apps com possíveis riscos. Se você não conseguir encontrar \"Apps com possíveis riscos\", atualize o app Segurança e tente novamente."</string>
     <string name="install_confirm_question_des_10_tablet">"Se você assume os riscos e deseja prosseguir com a instalação, autorize a instalação em Segurança > Gerenciar apps > Permissões > Apps com possíveis riscos. Se você não conseguir encontrar \"Apps com possíveis riscos\", atualize o app Segurança e tente novamente."</string>
     <string name="install_confirm_question_no_perms">Deseja instalar este app? Não requer permissões especiais.</string>
@@ -832,7 +832,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
     <string name="passport_facebook_login_btn_content_description">Entrar com o Facebook</string>
-    <string name="passport_frequency_try_later">Muitas tentativas. Espere um ou dois minutos e tente novamente.</string>
+    <string name="passport_frequency_try_later">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="passport_get_login_type_next">Próximo</string>
     <string name="passport_header_back">Voltar</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
@@ -897,7 +897,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="passport_skip_query_account">Pular</string>
     <string name="passport_sns_access_token_expired_warning">Sessão expirada. Faça login novamente para reconectar esta conta.</string>
     <string name="passport_sns_bind_limit">Muitas tentativas. Experimente outras maneiras de fazer login.</string>
-    <string name="passport_system_error">O sistema está ocupado. Espere um ou dois minutos e tente novamente.</string>
+    <string name="passport_system_error">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="passport_talkback_image_captcha">Código de verificação de imagem</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação de imagem</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
@@ -908,15 +908,15 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="passport_to_verify_code_login">Faça login por SMS</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi. &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi. &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação de conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi. &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação de conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>"Li e concordo com o &lt;a href=%1$s>Acordo do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
     <string name="passport_user_avatar_update_title">Alterar foto do perfil</string>
     <string name="passport_user_avatar_uploading">Aguarde…</string>
     <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>

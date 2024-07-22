@@ -118,7 +118,7 @@
     <string name="error_send_file_no_enough_space">"Não é possível enviar. Não há espaço de armazenamento suficiente no outro dispositivo"</string>
     <string name="error_send_file_not_found">"Não foi possível encontrar o arquivo. Tente novamente."</string>
     <string name="error_send_file_service_disabled">Envio de transferência cancelada</string>
-    <string name="error_send_transfer_error">"Não foi possível enviar itens. Aguarde um ou dois minutos e tente novamente."</string>
+    <string name="error_send_transfer_error">"Não foi possível enviar itens. Aguarde um momento e tente novamente."</string>
     <string name="error_send_transfer_pc_error">Tempo esgotado para a transferência. Atualize o Xiaomi PC Manager para a versão mais recente e tente novamente.</string>
     <string name="error_slave_wifi_in_use">"O Xiaomi Share não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente."</string>
     <string name="error_slave_wifi_in_use_china">"O Xiaomi Share não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente."</string>
@@ -302,7 +302,7 @@ Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartp
     <string name="nearby_share">Compartilhar nas proximidades</string>
     <string name="nfc_check_the_touch_device">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conectividade > Dispositivos conectados e tente novamente.</string>
     <string name="nfc_check_the_touch_device_china">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conectividade > Dispositivos conectados e tente novamente.</string>
-    <string name="nfc_connect_fail">"Não foi possível conectar. Espere um ou dois minutos e tente novamente."</string>
+    <string name="nfc_connect_fail">"Não foi possível conectar. Aguarde um momento e tente novamente."</string>
     <string name="nfc_connect_fail_lyra_secure">"Você pode ativar o Xiaomi Share no centro de controle do seu dispositivo."</string>
     <string name="nfc_connect_fail_lyra_secure_title">Xiaomi Share está desativado</string>
     <string name="nfc_connect_fail_pad">"Não foi possível conectar"</string>

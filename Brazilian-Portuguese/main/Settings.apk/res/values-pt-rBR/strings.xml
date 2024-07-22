@@ -794,13 +794,13 @@ Widget: %2$s
     <string name="apn_password">Senha</string>
     <string name="apn_ppp_number">Número de telefone APN PPP</string>
     <string name="apn_protocol">Protocolo APN</string>
-    <string name="apn_roaming_protocol">Protocolo de roaming do APN</string>
+    <string name="apn_roaming_protocol">Protocolo de roaming da APN</string>
     <string name="apn_save">Salvar alterações?</string>
-    <string name="apn_save_msg">Salvar alterações ao APN?</string>
+    <string name="apn_save_msg">Salvar alterações à APN?</string>
     <string name="apn_server">Servidor</string>
     <string name="apn_settings">"APNs"</string>
     <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
-    <string name="apn_type">Tipo de APN</string>
+    <string name="apn_type">Tipo da APN</string>
     <string name="apn_user">Nome de usuário</string>
     <string name="app_and_notification_dashboard_summary">Apps recentes, apps padrão</string>
     <string name="app_and_notification_dashboard_title">Apps e notificações</string>
@@ -961,7 +961,7 @@ Alterar as configurações agora?"</string>
     <string name="assist_footer">Os Assistentes podem ajudar com base nas informações da tela que você vê no momento. Alguns apps são compatíveis com a tela de início e com serviços de entrada de texto por voz para fornecer assistência integrada.</string>
     <string name="assist_gesture_title">Assistente de gestos</string>
     <string name="assistance_category_title">Acessibilidade</string>
-    <string name="assistant_add_fail">"Não posso ouvir agora. Espere um ou dois minutos e tente novamente."</string>
+    <string name="assistant_add_fail">"Não posso ouvir agora. Aguarde um momento e tente novamente."</string>
     <string name="assistant_corner_gesture_summary">Deslize de um canto inferior para iniciar o Assistente.</string>
     <string name="assistant_corner_gesture_title">Deslize para abrir o Assistente</string>
     <string name="assistant_gesture_category_title">Assistente digital</string>
@@ -2436,7 +2436,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="cancel_download_buton_text">Cancelar</string>
     <string name="cancel_lock_screen_dialog_button_label">Cancelar</string>
     <string name="cancel_refresh_group">Cancelar atualização</string>
-    <string name="cannot_change_apn_toast">Esse APN não pode ser alterado.</string>
+    <string name="cannot_change_apn_toast">Essa APN não pode ser alterada.</string>
     <string name="cant_sync_dialog_message">A sincronização para o item está desativada no momento. Para alterar essa configuração, ative os dados de segundo plano e a sincronização automática temporariamente.</string>
     <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
     <string name="capabilities_list_title">%1$s precisa:</string>
@@ -2475,8 +2475,8 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="carrier_and_update_now_text">Atualizado pela ^1 agora mesmo</string>
     <string name="carrier_and_update_text">Atualizado pela ^1 há ^2</string>
     <string name="carrier_enabled">Ativar/Desativar APN</string>
-    <string name="carrier_enabled_summaryOff">APN desativado</string>
-    <string name="carrier_enabled_summaryOn">APN ativado</string>
+    <string name="carrier_enabled_summaryOff">APN desativada</string>
+    <string name="carrier_enabled_summaryOn">APN ativada</string>
     <string name="carrier_network_change_mode">Mudança de rede da operadora</string>
     <string name="carrier_provisioning">Informações de aprovisionamento da operadora</string>
     <string name="carrier_settings_euicc">Operadora</string>
@@ -4033,8 +4033,8 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="erasing_sim">Apagando SIM…</string>
     <string name="error_a11y_label">Erro: inválido</string>
     <string name="error_adding_apn_type">A operadora não permite adicionar APNs do tipo %s.</string>
-    <string name="error_apn_empty">O APN não pode estar vazio.</string>
-    <string name="error_apn_not_allowed">"Este APN não é permitido neste dispositivo. Tente outro."</string>
+    <string name="error_apn_empty">A APN não pode estar vazia.</string>
+    <string name="error_apn_not_allowed">"Esta APN não é permitida neste dispositivo. Tente outro."</string>
     <string name="error_apn_restrict_string">O campo da APN não pode conter %1$s</string>
     <string name="error_capturing_system_heap_dump_message">Não foi possível capturar o despejo de heap do sistema</string>
     <string name="error_icon_content_description">Erro</string>
@@ -4466,7 +4466,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="for_diagnosis_usage_only">Use esta informação apenas para diagnóstico.</string>
     <string name="forbidden_network">(proibida)</string>
     <string name="forbidden_set_unlock_password_msg">Atualmente em Modo de manutenção, a senha não pode ser definida ou alterada.</string>
-    <string name="forbidden_switch_apn_string">As configurações selecionadas para o APN não correspondem com o tipo de rede atual</string>
+    <string name="forbidden_switch_apn_string">As configurações selecionadas para a APN não correspondem com o tipo de rede atual</string>
     <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
     <string name="force_allow_on_external_summary">Qualifica apps para gravação em armazenamento externo, independentemente de valores de manifestos.</string>
     <string name="force_bold_text">Texto em negrito</string>
@@ -5529,7 +5529,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="load_networks_progress">Pesquisando…</string>
     <string name="load_error">"Não foi possível carregar"</string>
     <string name="load_esim_info">Obtendo informações do eSIM…</string>
-    <string name="load_esim_info_error">"Não foi possível carregar as informações do eSIM. Espere um ou dois minutos e tente novamente."</string>
+    <string name="load_esim_info_error">"Não foi possível carregar as informações do eSIM. Aguarde um momento e tente novamente."</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_injected_setting_summary">Aguarde…</string>
     <string name="loading_notification_apps">Carregando apps…</string>
@@ -6270,7 +6270,7 @@ Não poderá reverter esta ação."</string>
     <string name="menu_hide_system">Ocultar sistema</string>
     <string name="menu_item_notification_power_text">Otimização da bateria</string>
     <string name="menu_key">"Menu"</string>
-    <string name="menu_new">Novo APN</string>
+    <string name="menu_new">Nova APN</string>
     <string name="menu_new_display_open">Abrir em uma nova janela</string>
     <string name="menu_pc_open">Abrir com um programa de computador</string>
     <string name="menu_proc_stats_duration">Duração</string>
@@ -6539,7 +6539,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_lab_gesture_desc">Use gestos ao invés dos botões para navegação</string>
     <string name="miui_lab_gesture_title">Gestos em Tela cheia</string>
     <string name="miui_lab_install_drive_mode_error">Não foi possível instalar. Tente novamente.</string>
-    <string name="miui_lab_install_drive_mode_summary">O Modo carro é um app de sistema. A instalação não requer uma conexão com a internet.</string>
+    <string name="miui_lab_install_drive_mode_summary">O Modo carro é um app do sistema. A instalação não requer uma conexão com a internet.</string>
     <string name="miui_lab_install_drive_mode_title">Instalar Modo carro</string>
     <string name="miui_lab_settings">"Lab"</string>
     <string name="miui_lab_slogan">Aprenda. Explore. Descubra.</string>
@@ -8398,7 +8398,7 @@ Você não perderá os dados dos apps."</string>
     <string name="reset_dashboard_summary">A rede, os apps ou o dispositivo podem ser redefinidos</string>
     <string name="reset_dashboard_summary_onlyApps">Os apps podem ser redefinidos</string>
     <string name="reset_dashboard_title">Redefinir opções</string>
-    <string name="reset_default_apn_failed">Falha ao redefinir apn padrão</string>
+    <string name="reset_default_apn_failed">Falha ao redefinir APN padrão</string>
     <string name="reset_esim_desc">Para baixar de chips substitutos, entre em contato com a operadora. Isso não cancelará nenhum plano de serviços móveis.</string>
     <string name="reset_esim_error_msg">"Os eSIMs não podem ser excluídos devido a um erro.
 
@@ -8447,7 +8447,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="resolution_sub_title">O sistema pode encerrar os apps em execução em segundo plano enquanto muda de resolução</string>
     <string name="resolver_settings_label">Ordenar</string>
     <string name="restore_default_apn">Restaurando as configurações APN padrão.</string>
-    <string name="restore_default_apn_completed">Redefinição das configurações padrão do APN concluída.</string>
+    <string name="restore_default_apn_completed">Redefinição das configurações padrão da APN concluída.</string>
     <string name="restore_device_id_content">As recomendações personalizadas serão redefinidas</string>
     <string name="restore_device_id_title">Redefinir ID do dispositivo</string>
     <string name="restore_dialog_content">Redefinir o ID do dispositivo atual também redefinirá as personalizações recomendadas. Redefinir agora?</string>
@@ -11405,7 +11405,7 @@ Toque no + para adicionar palavras."</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="valid_net_access">Ver credenciais de acesso à rede</string>
     <string name="valid_net_ok">"OK"</string>
-    <string name="valid_net_result_fail">"Não foi possível obter informações. Espere um ou dois minutos e tente novamente."</string>
+    <string name="valid_net_result_fail">"Não foi possível obter informações. Aguarde um momento e tente novamente."</string>
     <string name="valid_net_result_title">Resultado</string>
     <string name="var_font_switch_dialog_summary">Você precisa reiniciar seu dispositivo para alterar essa configuração.</string>
     <string name="var_font_switch_dialog_title">Reiniciar dispositivo?</string>

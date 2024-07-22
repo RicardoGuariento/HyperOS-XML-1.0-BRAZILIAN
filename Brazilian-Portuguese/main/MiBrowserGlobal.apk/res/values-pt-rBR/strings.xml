@@ -440,21 +440,21 @@ Desative o seletor para parar a sincronização."</string>
     <string name="common_business_web_error_page_reload">Recarregar</string>
     <string name="common_business_web_error_page_tip">Algo deu errado. Tente recarregar a página.</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
-    <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_text">"%1$s só funciona com o Google Play Services ativado."</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">"%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo."</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
     <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo."</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
-    <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_google_play_services_update_text">"%1$s só funciona com uma versão atualizada do Google Play Services."</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
-    <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="common_google_play_services_updating_text">"%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento."</string>
     <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
-    <string name="common_open_on_phone">Abrir no smartphone</string>
+    <string name="common_open_on_phone">Abrir no dispositivo</string>
     <string name="common_signin_button_text">Fazer login</string>
     <string name="common_signin_button_text_long">Fazer login com o Google</string>
     <string name="common_use_phrase_bottom_bar_text_next">Avançar</string>
@@ -1457,23 +1457,23 @@ Envie este código para o supervisor."</string>
     <string name="mw_color_picker_value">Valor</string>
     <string name="mw_copied">Copiado</string>
     <string name="mw_common_google_play_services_enable_button">Ativar</string>
-    <string name="mw_common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
+    <string name="mw_common_google_play_services_enable_text">"%1$s só funciona com o Google Play Services ativado."</string>
     <string name="mw_common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="mw_common_google_play_services_install_button">Instalar</string>
-    <string name="mw_common_google_play_services_install_text">%1$s não pode ser executado sem o Google Play Services, que está ausente em seu dispositivo.</string>
+    <string name="mw_common_google_play_services_install_text">"%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo."</string>
     <string name="mw_common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="mw_common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="mw_common_google_play_services_notification_ticker">Erro do Google Play Services</string>
     <string name="mw_common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="mw_common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="mw_common_google_play_services_unsupported_text">"%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo."</string>
     <string name="mw_common_google_play_services_update_button">Atualizar</string>
-    <string name="mw_common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="mw_common_google_play_services_update_text">"%1$s só funciona com uma versão atualizada do Google Play Services."</string>
     <string name="mw_common_google_play_services_update_title">Atualizar o Google Play Services</string>
-    <string name="mw_common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="mw_common_google_play_services_updating_text">"%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento."</string>
     <string name="mw_common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
-    <string name="mw_common_open_on_phone">Abrir no smartphone</string>
+    <string name="mw_common_open_on_phone">Abrir no dispositivo</string>
     <string name="mw_common_signin_button_text">Fazer login</string>
-    <string name="mw_common_signin_button_text_long">Faça login no Google</string>
+    <string name="mw_common_signin_button_text_long">Fazer login com o Google</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">"Não foi possível copiar para a área de transferência"</string>
     <string name="mw_data_traffic_prompt_change">"Usar a sua conexão de dados móveis para assistir vídeos aumentará o seu consumo de dados. Caso você exceda o seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais."</string>
@@ -1783,7 +1783,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Verificando a senha…</string>
     <string name="passport_close">Fechar</string>
-    <string name="passport_delete_account">Fazer logout</string>
+    <string name="passport_delete_account">Sair</string>
     <string name="passport_email">Endereço de e-mail</string>
     <string name="passport_empty_password">A senha não pode estar em branco</string>
     <string name="passport_empty_user_name">O usuário não pode estar em branco</string>
@@ -1848,8 +1848,8 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
     <string name="passport_unknow_host_network_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
-    <string name="passport_user_agreement_link">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>Eu li e aceito os seguintes documentos: o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Xiaomi."</Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>Li e aceito os seguintes documentos: o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">Insira a senha para %1$s</string>
     <string name="passport_v_code_error">Código de verificação incorreto</string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>

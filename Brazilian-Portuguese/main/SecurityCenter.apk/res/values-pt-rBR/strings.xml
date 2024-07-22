@@ -1048,7 +1048,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="behavior_widget_read_write_external_storage">Arquivos acessados</string>
     <string name="best_booster_status">A velocidade dos jogos é a melhor disponível no momento.</string>
     <string name="bg_network_exception_title">Conexão em 2º plano restrita</string>
-    <string name="bh_buy_order_fail_tips_text">Um erro ocorreu. Aguarde um ou dois minutos e tente novamente.</string>
+    <string name="bh_buy_order_fail_tips_text">Um erro ocorreu. Aguarde um momento e tente novamente.</string>
     <string name="bh_charge_for_more">Mais</string>
     <string name="bh_charge_record">Histórico de compra</string>
     <string name="bh_charge_traffic">Comprar pacote de internet</string>
@@ -1112,7 +1112,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="bill_traffic_reminder_instruction_text">Os métodos de cobrança e os padrões de cálculo de dados de diferentes operadoras podem variar. Atrasos no faturamento também podem ocorrer. As estatísticas de uso fornecidas aqui são apenas para sua referência.</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Adicionar</string>
-    <string name="bind_xiaomi_account_dialog_summery">Você está prestes a adicionar a Conta Mi %s. Caso você esqueça sua senha, você poderá usar esta conta para redefini-la. A conta será removida automaticamente caso você faça o logout.</string>
+    <string name="bind_xiaomi_account_dialog_summery">Você está prestes a adicionar a Conta Mi %s. Caso você esqueça sua senha, você poderá usar esta conta para redefini-la. A conta será removida automaticamente caso você saia dela.</string>
     <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
     <string name="bind_xiaomi_account_summary">Use sua Conta Mi para redefinir sua senha</string>
     <string name="bind_xiaomi_account_title">Adicionar Conta Mi</string>
@@ -3038,10 +3038,10 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="main_button_usage_adjusting_bill">Alterando…</string>
     <string name="main_button_usage_package_setting">Definir limite de uso de dados móveis</string>
     <string name="main_daily_card_guide_dialog_ok">Definir</string>
-    <string name="main_daily_card_guide_dialog_summary">Você pode escolher entre planos diários, mensais ou ilimitados. Definir o tipo de plano de dados agora?</string>
+    <string name="main_daily_card_guide_dialog_summary">Você pode escolher entre planos diários, mensais ou ilimitados. Definir tipo de plano de dados agora?</string>
     <string name="main_daily_card_guide_dialog_summary_new">Há suporte para planos de dados diários, mensais e ilimitados. Definir tipo de plano de dados agora?</string>
     <string name="main_daily_card_guide_dialog_title">Definir tipo de plano de dados</string>
-    <string name="main_daily_card_guide_dialog_title_new">>Definir tipo de plano de dados</string>
+    <string name="main_daily_card_guide_dialog_title_new">Definir tipo de plano de dados</string>
     <string name="main_daily_package">Plano de dados diário</string>
     <string name="main_indicator_title">Ativação</string>
     <string name="main_leisure_remained">Dados restantes</string>
@@ -5384,8 +5384,8 @@ Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</
     <string name="storage_fbo_number_tip">Processado em %1$s</string>
     <string name="storage_fbo_tools">Otimização de armazenamento</string>
     <string name="storage_file_delete_tip">Excluir itens selecionados permanentemente? Alguns deles podem ser carregados novamente quando necessário.</string>
-    <string name="storage_file_dialog_delete_title">Deletar itens</string>
-    <string name="storage_file_list_btn">Deletar %1$s</string>
+    <string name="storage_file_dialog_delete_title">Excluir itens</string>
+    <string name="storage_file_list_btn">Excluir %1$s</string>
     <string name="storage_file_list_from">De %s</string>
     <string name="storage_fob_date_format">dd/MM</string>
     <string name="storage_format_failure">Não foi possível formatar o %1$s</string>
@@ -5570,7 +5570,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_permission_declare_privacy_no_permission">Este app precisa conectar-se à internet e coletar os dados pessoais necessários para poder funcionar normalmente.</string>
     <string name="system_permission_declare_privacy_policy"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="system_permission_declare_revoke_system">Você pode sair deste app.</string>
-    <string name="system_permission_declare_revoke_uninstallable">Você pode fazer logout, desinstalar este app ou revogar a sua autorização em Segurança > Gerenciar apps > Permissões > Permissões.</string>
+    <string name="system_permission_declare_revoke_uninstallable">Você pode sair, desinstalar este app ou revogar a sua autorização em Segurança > Gerenciar apps > Permissões > Permissões.</string>
     <string name="system_permission_declare_title">Atenção!</string>
     <string name="system_permission_declare_use_network">Conectar-se à rede</string>
     <string name="system_permission_declare_use_network_no_permission">Conecte-se à rede</string>
@@ -6242,7 +6242,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="warningcenter_disaster_detail_title">Detalhes</string>
     <string name="warningcenter_disaster_guide_title">Orientações de segurança</string>
     <string name="warningcenter_disaster_icon_title">Aviso de demonstração</string>
-    <string name="warningcenter_disaster_info">"Receba avisos de desastres para se manter seguro e minimizar riscos"</string>
+    <string name="warningcenter_disaster_info">"Publicado por CMA's Warning Center"</string>
     <string name="warningcenter_disaster_info_title">Sobre os alertas</string>
     <string name="warningcenter_disaster_level_1">Nível I (Extremamente severo)</string>
     <string name="warningcenter_disaster_level_2">Nível II (Severo)</string>
@@ -6404,7 +6404,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="applock_guide_placeholder">000</string>
     <string name="auto_start_cancel">Cancelar</string>
     <string name="auto_start_close">Restringir</string>
-    <string name="auto_start_hint">Atenção</string>
+    <string name="auto_start_hint">Atenção!</string>
     <string name="auto_start_hint_desc">"%1$s não poderá receber mensagens em tempo real se você desativar a inicialização automática. Desligar mesmo assim?"</string>
     <string name="battery_and_property_important_notify">Notificações importantes sobre bateria</string>
     <string name="battery_and_property_ordinary_notify">Notificações regulares de bateria</string>

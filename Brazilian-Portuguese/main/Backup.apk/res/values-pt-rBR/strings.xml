@@ -559,11 +559,11 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_pc_backup_restore_link">Dispositivo móvel</string>
     <string name="new_pc_backup_restore_link_pad">Dispositivo móvel</string>
     <string name="new_pc_backup_summary1">Selecione os itens e toque em \"Fazer backup\".</string>
-    <string name="new_pc_backup_summary2">Conecte o seu smartphone ao computador usando um cabo USB.</string>
-    <string name="new_pc_backup_summary2_pad">Conecte o seu smartphone ao computador usando um cabo USB.</string>
+    <string name="new_pc_backup_summary2">Conecte o seu dispositivo ao computador usando um cabo USB.</string>
+    <string name="new_pc_backup_summary2_pad">Conecte o seu dispositivo ao computador usando um cabo USB.</string>
     <string name="new_pc_backup_summary4">Observação: você também pode copiar fotos e vídeos em DCIM.</string>
-    <string name="new_pc_restore_content1">%d. Conecte o seu smartphone ao computador usando um cabo USB.</string>
-    <string name="new_pc_restore_content1_pad">%d. Conecte o seu smartphone ao computador usando um cabo USB.</string>
+    <string name="new_pc_restore_content1">%d. Conecte o seu dispositivo ao computador usando um cabo USB.</string>
+    <string name="new_pc_restore_content1_pad">%d. Conecte o seu dispositivo ao computador usando um cabo USB.</string>
     <string name="new_pc_restore_content2">%d. Copie o backup do seu computador para a pasta \"AllBackup\" em: Armazenamento/MIUI/backup/AllBackup.</string>
     <string name="new_pc_restore_content2_pad">%d. Copie o backup do seu computador para a pasta \"AllBackup\" em: Armazenamento/MIUI/backup/AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Abra \"%2$s\" e selecione os itens para restaurar.</string>
@@ -962,7 +962,7 @@ para baixar e instalar o Mi Mover."</string>
     <string name="trans_intro_desc_5">O espaço de armazenamento nos dispositivos antigos é usado para criar os pacotes de transferência. Certifique-se de que você tem no mínimo 500 MB - 1 GB de armazenamento disponível no seu dispositivo antigo antes de iniciar uma transferência.</string>
     <string name="trans_intro_desc_6">Existem vários fatores que podem causar isso: problemas de versão de compatibilidade entre o sistema e apps, problemas de rede, problemas de compatibilidade específicos de um dispositivo, etc.</string>
     <string name="trans_intro_desc_7">Alguns perfis de apps (ex.: e-banking, etc) são associados ao dispositivo que foram instalados inicialmente. Tente limpar os dados do app ou reinstalá-lo no novo dispositivo.</string>
-    <string name="trans_intro_desc_8">"Os dados do WeChat e seu histórico podem não ser transferidos completamente usando o Mi Mover. Acesse as configurações do WeChat e faça o logout da sua conta para aumentar as chances de uma transferência completa."</string>
+    <string name="trans_intro_desc_8">"Os dados do WeChat e seu histórico podem não ser transferidos completamente usando o Mi Mover. Acesse as configurações do WeChat e saia da sua conta para aumentar as chances de uma transferência completa."</string>
     <string name="trans_intro_desc_9_method_1_dec">Vá até a Tela inicial > Ferramentas > Feedback.</string>
     <string name="trans_intro_desc_9_method_1_title">1. Compartilhe seu feedback usando o app \"Feedback\".</string>
     <string name="trans_intro_desc_9_method_2_dec">Envie seu feedback para miui-mover@xiaomi.com.</string>

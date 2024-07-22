@@ -77,7 +77,7 @@ seus dispositivos?"</string>
 Faça login na sua Conta Mi em Configurações > Conta Mi para sincronizar as permissões."</string>
     <string name="auth_phone_model">"Esta página não pode ser visualizada neste dispositivo."</string>
     <string name="auth_show_to_test_user">Esta página está disponível apenas para testadores Beta.</string>
-    <string name="ball_hint_connect_fail">"Não foi possível realizar esta ação. Espere um ou dois minutos e tente novamente."</string>
+    <string name="ball_hint_connect_fail">"Não foi possível realizar esta ação. Aguarde um momento e tente novamente."</string>
     <string name="ball_hint_text_loading">Aguarde…</string>
     <string name="ball_hint_text_success">Conectado com sucesso</string>
     <string name="bottomsheet_action_collapse">Recolher a folha inferior</string>
@@ -349,7 +349,7 @@ seus dispositivos?"</string>
     <string name="circulate_to_mijia">Dispositivos domésticos inteligentes</string>
     <string name="circulate_tv_app_opening">Estreando na TV…</string>
     <string name="circulate_tv_capturing">Fazendo captura de tela…</string>
-    <string name="circulate_tv_is_authing_tip">Verificando dispositivos agora. Espere um ou dois minutos e tente novamente.</string>
+    <string name="circulate_tv_is_authing_tip">Verificando dispositivos agora. Aguarde um momento e tente novamente.</string>
     <string name="circulate_tv_name">Xiaomi TV</string>
     <string name="circulate_tv_power_alter_text">"Você configurou sua TV para desligar ou desligar sua tela. Controles remotos e TVs ficarão indisponíveis após a TV ser desligada."</string>
     <string name="circulate_tv_power_alter_title">Atenção!</string>
@@ -371,21 +371,21 @@ seus dispositivos?"</string>
     <string name="close_invisible_mode_dialog_ok">Configurações</string>
     <string name="close_invisible_mode_dialog_title">"Você está anônimo"</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
-    <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_text">"%1$s só funciona com o Google Play Services ativado."</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">"%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo."</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
     <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo."</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
-    <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_google_play_services_update_text">"%1$s só funciona com uma versão atualizada do Google Play Services."</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
-    <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="common_google_play_services_updating_text">"%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento."</string>
     <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
-    <string name="common_open_on_phone">Abrir no smartphone</string>
+    <string name="common_open_on_phone">Abrir no dispositivo</string>
     <string name="common_signin_button_text">Fazer login</string>
     <string name="common_signin_button_text_long">Fazer login com o Google</string>
     <string name="close_slave_wifi_hint">Desconecte de redes Wi-Fi auxiliares antes de transmitir</string>
@@ -423,7 +423,7 @@ seus dispositivos?"</string>
     <string name="connect_settings_summary_share_launcher_phone">Permita que tablets e computadores próximos visualizem e interajam com a Tela inicial deste dispositivo</string>
     <string name="connect_settings_summary_share_notification_pad">Receba notificações de dispositivos próximos conectados à sua Conta Mi</string>
     <string name="connect_settings_summary_share_notification_phone">Mostre notificações em tablets próximos ou computadores em uso quando este dispositivo estiver bloqueado</string>
-    <string name="connect_settings_user_agreement">Acordo do Usuário</string>
+    <string name="connect_settings_user_agreement">Contrato do Usuário</string>
     <string name="connect_settings_withdraw_consent">Retirada do consentimento</string>
     <string name="connection_failed">"Não foi possível conectar a câmera"</string>
     <string name="console_guide_btn_got_it">Entendi</string>
@@ -527,7 +527,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="err_toast_msg_not_support">"Esta ação não é suportada"</string>
     <string name="err_toast_msg_not_support_audio_protocol">"Não é possível transferir a reprodução de áudio para este dispositivo"</string>
     <string name="err_toast_msg_not_support_video_protocol">"Este dispositivo não suporta MIUI+"</string>
-    <string name="err_toast_msg_retry_later">"Não foi possível realizar esta ação. Espere um ou dois minutos e tente novamente."</string>
+    <string name="err_toast_msg_retry_later">"Não foi possível realizar esta ação. Aguarde um momento e tente novamente."</string>
     <string name="err_toast_msg_try_switch_network">Conecte seu dispositivo móvel e computador à mesma rede Wi-Fi</string>
     <string name="err_toast_msg_upgrade_pc_version">Atualize o MIUI+ no seu computador para poder usar este recurso</string>
     <string name="error_a11y_label">Erro: inválido</string>
@@ -1083,11 +1083,11 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="privacy_setting_show_lelink_law">Ver a Declaração Legal do HappyCast</string>
     <string name="privacy_setting_show_lelink_policy">Veja a Política de Privacidade do HappyCast</string>
     <string name="privacy_setting_show_policy">Ver Política de Privacidade</string>
-    <string name="privacy_setting_show_user_agreement">Ver Acordo do Usuário</string>
+    <string name="privacy_setting_show_user_agreement">Ver Contrato do Usuário</string>
     <string name="privacy_text_1"><Data>"Bem-vindo à Transmissão! A Transmissão permite projetar itens da tela do seu dispositivo para um monitor externo maior.
 Nós protegeremos as suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Alguns recursos são fornecidos pelo provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e aceite a &lt;a href=%2$s>Declaração Legal do HappyCast&lt;/a> e a &lt;a href=%1$s>Política de Privacidade do HappyCast&lt;/a>.
 Para poder funcionar normalmente, este app precisa se conectar à internet e das seguintes permissões para coletar suas informações pessoais:"</Data></string>
-    <string name="privacy_text_2"><Data>"Se você optar por não conceder estas permissões ou compartilhar e fazer o upload das suas informações pessoais, você não conseguirá usar este app. Você pode escolher entre desinstalar este app, fazer logout ou restringir as permissões nas Configurações nestes casos.
+    <string name="privacy_text_2"><Data>"Se você optar por não conceder estas permissões ou compartilhar e fazer o upload das suas informações pessoais, você não conseguirá usar este app. Você pode escolher entre desinstalar este app, sair ou restringir as permissões nas Configurações nestes casos.
 Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
     <string name="privacy_text_pemission">"　　• Acessar e salvar imagens no seu dispositivo para projetar estes itens em monitores externos
 　　• Gravar chamadas e áudio para transmiti-las em dispositivos externos

@@ -178,12 +178,12 @@
     <string name="exception_delete_file_null">"Não foi possível excluir. Exclua os itens desta pasta primeiro."</string>
     <string name="exception_download_contain_folder">"Não é possível baixar pastas"</string>
     <string name="exception_file_no_exist">"Este arquivo não existe"</string>
-    <string name="exception_get_index_cache_error">"Não foi possível carregar. Aguarde um ou dois minutos e tente novamente."</string>
+    <string name="exception_get_index_cache_error">"Não foi possível carregar. Aguarde um momento e tente novamente."</string>
     <string name="exception_move_file_exist">"O item que você está movendo já está na pasta de destino."</string>
     <string name="exception_move_sub_path">"Não é possível mover itens dentro da mesma pasta"</string>
     <string name="exception_net_not_available">"Não foi possível conectar à rede"</string>
     <string name="exception_not_support_modify_for_overseas_user">"Este recurso não está disponível fora do continente Chinês"</string>
-    <string name="exception_param_error">Ocorreu um erro. Aguarde um ou dois minutos e tente novamente.</string>
+    <string name="exception_param_error">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
     <string name="exception_rename_conflict">"Não foi possível renomear. Um item com este nome já existe."</string>
     <string name="exception_rename_illegal_char">"Os nomes de arquivos não podem conter caracteres especiais"</string>
     <string name="exception_share_file">"Não foi possível carregar. Espere um pouco e tente novamente."</string>
@@ -454,7 +454,7 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="private_empty_sub_desc">Tente mover os arquivos aqui ou envie-os diretamente.</string>
     <string name="private_folder_name">Arquivos privados</string>
     <string name="ptp_ai_recommend_empty_page">Não há PDFs gerados automaticamente aqui</string>
-    <string name="query_quota_exception">Ocorreu um erro no servidor. Aguarde um ou dois minutos e tente novamente.</string>
+    <string name="query_quota_exception">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="query_quota_searching">Aguarde…</string>
     <string name="recent_file">Recentes</string>
     <string name="recent_jump_to_privacy_fail_notice">Este arquivo é privado. Volte para a página inicial e puxe para visualizar.</string>

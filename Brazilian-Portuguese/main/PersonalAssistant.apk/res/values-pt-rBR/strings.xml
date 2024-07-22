@@ -366,7 +366,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_express_setting_number_already_add">Este número de telefone já foi adicionado. Tente um diferente.</string>
     <string name="pa_express_setting_number_title">Adicionar número de telefone</string>
     <string name="pa_express_setting_request_failed">"Não foi possível enviar solicitação. Erro de código: %s."</string>
-    <string name="pa_express_setting_service_unavailable">Ocorreu um erro. Aguarde um tempo e tente novamente.</string>
+    <string name="pa_express_setting_service_unavailable">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
     <string name="pa_express_setting_subscribe_phone_failed">"Não foi possível adicionar número de telefone"</string>
     <string name="pa_express_setting_subscribe_phone_success">Número de telefone adicionado</string>
     <string name="pa_express_setting_verification_code_failed">"Não foi possível enviar SMS"</string>
@@ -665,7 +665,7 @@ Adicione widgets para começar."</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Retirar</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Retirar (%d s)</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Retirar o consentimento para a Política de Privacidade do Assistente</string>
-    <string name="pa_setting_privacy_revoke_error_message">Um erro do servidor ocorreu. Aguarde um tempo e tente novamente.</string>
+    <string name="pa_setting_privacy_revoke_error_message">Um erro do servidor ocorreu. Aguarde um momento e tente novamente.</string>
     <string name="pa_setting_privacy_revoke_error_title">"Não podia retirar o consentimento"</string>
     <string name="pa_setting_privacy_revoke_no_net_message">Seu dispositivo precisa se conectar à rede para você para poder retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="pa_setting_privacy_revoke_no_net_title">"Não foi possível conectar-se à rede"</string>
@@ -916,7 +916,7 @@ Adicione widgets para começar."</string>
     <string name="pa_widget_need_download_version">Versão %1$s</string>
     <string name="pa_world_cup_widget_authority_tip">Conceda permissões para visualizar informações sobre os jogos da Copa do Mundo FIFA.</string>
     <string name="pa_world_cup_widget_authorize">Conceder</string>
-    <string name="pa_world_cup_widget_operation_fail_toast">"Não foi possível concluir a ação. Espere um ou dois minutos e tente novamente."</string>
+    <string name="pa_world_cup_widget_operation_fail_toast">"Não foi possível concluir a ação. Aguarde um momento e tente novamente."</string>
     <string name="pa_world_cup_widget_request_error_tip">Ocorreu um erro de rede</string>
     <string name="pa_world_cup_widget_request_retry">Tente novamente</string>
     <string name="pa_world_cup_widget_reserve_success_toast">"Você receberá um lembrete antes do início da partida"</string>

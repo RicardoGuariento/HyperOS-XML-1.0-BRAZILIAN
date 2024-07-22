@@ -422,7 +422,7 @@ Envie este código ao supervisor."</string>
     <string name="login_register_by_local_phone_long_text">Criar conta</string>
     <string name="login_with_sns">Outras maneiras de fazer login</string>
     <string name="logo_title">"Feedback"</string>
-    <string name="logout_account">Sair da conta</string>
+    <string name="logout_account">Sair</string>
     <string name="menu_copy">Copiar</string>
     <string name="message_label">Mensagem</string>
     <string name="mi_service_app_name">Serviços e feedback</string>
@@ -792,8 +792,8 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
     <string name="passport_unknow_host_network_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
-    <string name="passport_user_agreement_link">&lt;Data>Eu li e aceito o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>Eu li e aceito os seguintes documentos: o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>Li e aceito o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>Li e aceito os seguintes documentos: o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
     <string name="passport_user_id_intro">Insira a senha para %1$s</string>
     <string name="passport_user_password_hint">Senha</string>
@@ -1086,7 +1086,7 @@ Tamanho: %2$s"</string>
     <string name="withdraw">Retirar</string>
     <string name="withdraw_consent">Retirada de consentimento</string>
     <string name="withdraw_consent_failed">"Não foi possível retirar o consentimento"</string>
-    <string name="withdraw_consent_failed_hint">Ocorreu um erro no servidor. Espere um ou dois minutos e tente novamente.</string>
+    <string name="withdraw_consent_failed_hint">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="withdraw_consent_failed_hint_connect_net">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="withdraw_consent_hint">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %1$s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como %2$s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %3$s. Retirar consentimento agora?"</string>
     <string name="withdrawing">Retirando consentimento…</string>

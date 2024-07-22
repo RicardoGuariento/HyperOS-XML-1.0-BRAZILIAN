@@ -122,7 +122,7 @@
     <string name="disagreement_donnot_use_application">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por não usar este app em tais casos."</string>
     <string name="disagreement_donnot_use_product">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este produto. Você pode optar por não usar este produto em tais casos."</string>
     <string name="disagreement_donnot_use_service">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço. Você pode optar por não usar este serviço em tais casos."</string>
-    <string name="disagreement_exit_app">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por fazer logout ou restringir permissões nas Configurações em tais casos."</string>
+    <string name="disagreement_exit_app">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por sair ou restringir permissões nas Configurações em tais casos."</string>
     <string name="disagreement_fast_pairing_abnormal">"Caso não concorde em conceder essas permissões, não poderá usar este app. Você pode ativar ou desativar esse serviço a qualquer momento em Configurações > Bluetooth > Configurações adicionais > Mi Link."</string>
     <string name="disagreement_function">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este recurso. Você pode optar por não usar este recurso em tais casos."</string>
     <string name="disagreement_location_service">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço."</string>
@@ -133,7 +133,7 @@
     <string name="disagreement_service_not_working_properly_with_media_storage">"Se você optar por não conceder essas permissões, o serviço não funcionará normalmente."</string>
     <string name="disagreement_terminate_bluetooth">"Se você não quiser conceder essas permissões, não poderá usar o Bluetooth. Você pode ativar e desativar o Bluetooth e adicionar dispositivos Bluetooth nas Configurações."</string>
     <string name="disagreement_terminate_miuidaemon">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço. Você pode escolher não usar este serviço ou restringir as permissões nas Configurações nesses casos. Observe que usaremos as permissões apenas quando você começar a transferir dados de seu dispositivo quando a tela estiver danificada."</string>
-    <string name="disagreement_terminate_service">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por desinstalar, fazer logout ou restringir permissões nas Configurações em tais casos."</string>
+    <string name="disagreement_terminate_service">"Caso não concorde em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por desinstalar, sair ou restringir permissões nas Configurações em tais casos."</string>
     <string name="download_introduction">Downloads é um app fornecido pela Xunlei usado para downloads e gerenciamento de conteúdo baixado (incluindo conteúdo da App Store, vídeos, atualizações do sistema, temas e conteúdo do navegador) para usuários de dispositivos Xiaomi.</string>
     <string name="early_morning">"AM"</string>
     <string name="enable_accessibility_canceled">Acessibilidade cancelada.</string>
@@ -247,7 +247,7 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="interconnection_service_summary_china_fragment37">Ativar e desativar o Wi-Fi</string>
     <string name="interconnection_service_summary_china_fragment38">Para descobrir dispositivos próximos e transferir itens via Wi-Fi</string>
     <string name="interconnection_service_summary_china_fragment39">Acessar fotos, vídeos e áudio armazenados no dispositivo</string>
-    <string name="interconnection_service_summary_china_fragment4">>Para descobrir dispositivos próximos para conectar via Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment4">Para descobrir dispositivos próximos para conectar via Bluetooth</string>
     <string name="interconnection_service_summary_china_fragment40">Para enviar e receber conteúdo transferido</string>
     <string name="interconnection_service_summary_china_fragment41">Acessar a área de transferência</string>
     <string name="interconnection_service_summary_china_fragment42">Para permitir que apps acessem conteúdo copiado</string>
