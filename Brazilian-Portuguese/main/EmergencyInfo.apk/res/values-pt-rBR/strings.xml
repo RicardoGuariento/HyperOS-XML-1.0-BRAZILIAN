@@ -254,7 +254,11 @@ Seleção"</string>
     <string name="bluetooth_talkback_input_peripheral">Entrada periférica</string>
     <string name="bluetooth_talkback_phone">Telefone</string>
     <string name="bminus">"B-"</string>
+    <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
+    <string name="bottomsheet_action_expand">Expandir a página inferior</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="bottomsheet_drag_handle_clicked">Arraste a alça com um toque duplo</string>
+    <string name="bottomsheet_drag_handle_content_description">Arrastar alça</string>
     <string name="bplus">"B+"</string>
     <string name="bt_hci_snoop_log">Ativar log de snoop bluetooth hci</string>
     <string name="bt_hci_snoop_log_summary">Capture pacotes Bluetooth (Alterne o Bluetooth após alterar esta configuração)</string>
@@ -475,7 +479,7 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="keywords_alarms_and_reminders">horário, alarme, lembrete, relógio</string>
     <string name="launch_defaults_none">Nenhum padrão definido</string>
     <string name="launch_defaults_some">Alguns padrões definidos</string>
-    <string name="loading_injected_setting_summary">Carregando</string>
+    <string name="loading_injected_setting_summary">Carregando…</string>
     <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para backups completos de desktop</string>
     <string name="local_backup_password_summary_none">Backups completos de desktop não estão protegidos atualmente</string>
     <string name="local_backup_password_title">Senha de backup de desktop</string>
@@ -506,6 +510,7 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="media_output_status_try_after_ad">Tente novamente após o anúncio</string>
     <string name="media_output_status_unauthorized">Dispositivo não aprovado para tocar</string>
     <string name="media_output_status_unknown_error">Não é possível tocar neste dispositivo</string>
+    <string name="media_transfer_default_device_name">Dispositivo conectado</string>
     <string name="media_transfer_dock_speaker_device_name">Alto-falante de base</string>
     <string name="media_transfer_external_device_name">Dispositivo externo</string>
     <string name="media_transfer_this_device_name">Este telefone</string>
@@ -592,8 +597,8 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="not_default_data_content_description">Não definido para usar dados</string>
     <string name="not_grant_admin">Não, não faça deles administradores</string>
     <string name="not_set">Não definido</string>
-    <string name="o_negative">O negativo</string>
-    <string name="o_positive">O positivo</string>
+    <string name="o_negative">O-</string>
+    <string name="o_positive">O+</string>
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
     <string name="oem_unlock_enable_summary">Permite que o bootloader seja desbloqueado</string>
     <string name="ok">"OK"</string>
@@ -739,7 +744,7 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="tethering_settings_not_available">Configurações de ancoragem não estão disponíveis para este usuário</string>
     <string name="time_unit_just_now">Agora mesmo</string>
     <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivo</string>
-    <string name="track_frame_time">Perfil da rendição de Hwui.</string>
+    <string name="track_frame_time">Renderização de perfil HWUI</string>
     <string name="transcode_default">Suponha que os apps suportem formatos modernos</string>
     <string name="transcode_disable_cache">Desativar o cache de transcodificação</string>
     <string name="transcode_enable_all">Ativar transcodificação</string>

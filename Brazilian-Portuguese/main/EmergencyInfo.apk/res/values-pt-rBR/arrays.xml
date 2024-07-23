@@ -11,7 +11,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite padrão</item>
-        <item>Sem processos de fundo</item>
+        <item>Sem processos em segundo plano</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
         <item>No máximo 3 processos</item>
@@ -137,7 +137,7 @@
     </string-array>
     <string-array name="color_mode_names">
         <item>Vibrante (padrão)</item>
-        <item>natural</item>
+        <item>Natural</item>
         <item>Padrão</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
@@ -237,7 +237,7 @@
         <item>Este é um exemplo de síntese de voz em coreano.</item>
     </string-array>
     <string-array name="udfps_accessibility_touch_hints">
-        <item>Mova para a esquerda</item>
+        <item>Mover para a esquerda</item>
         <item>Mover para baixo</item>
         <item>Mover para a direita</item>
         <item>Mover para cima</item>
