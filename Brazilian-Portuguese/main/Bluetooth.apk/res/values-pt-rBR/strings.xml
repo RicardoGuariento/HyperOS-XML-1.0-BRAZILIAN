@@ -262,6 +262,8 @@
     <string name="not_exist_file">Sem arquivo</string>
     <string name="not_exist_file_desc">"O arquivo não existe. 
 "</string>
+    <string name="noti_caption_success">{count, plural, =1 {# com sucesso, %1$s} other {# com sucesso, %1$s} }</string>
+    <string name="noti_caption_unsuccessful">{count, plural, =1 {# com falha.} other {# com falha.} }</string>
     <string name="notice_Auracast_audio_share_disconnected">Não compartilha mais áudio devido à conexão interrompida</string>
     <string name="notice_audio_share_disconnected">O áudio não está mais sendo compartilhado devido à interrupção da conexão</string>
     <string name="notification_received">Bluetooth: Recebido %1$s</string>
