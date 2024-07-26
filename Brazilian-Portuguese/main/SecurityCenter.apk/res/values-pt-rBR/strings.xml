@@ -515,8 +515,8 @@
     <string name="app_manager_copy_pkg_to_clip">Copiado para a área de transferência</string>
     <string name="app_manager_data_size">Dados do usuário</string>
     <string name="app_manager_default_cleared">Limpo</string>
-    <string name="app_manager_default_close_summary">Nenhum padrão definido</string>
-    <string name="app_manager_default_open_summary">Você optou por iniciar este app por padrão para algumas ações</string>
+    <string name="app_manager_default_close_summary">Nenhum padrão definido.</string>
+    <string name="app_manager_default_open_summary">Você optou por iniciar este app por padrão para algumas ações.</string>
     <string name="app_manager_default_open_title">Limpar padrões</string>
     <string name="app_manager_defaults_setting">Apps padrão</string>
     <string name="app_manager_details_electric_title">Bateria</string>
@@ -1505,12 +1505,12 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_change_package_type_title">Alterando tipo do plano de dados</string>
     <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que o HyperOS os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações > Apps.</string>
     <string name="dialog_msg_auto_start_declare_global">Alguns apps podem indicar incorretamente que o HyperOS os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps nas Configurações.</string>
-    <string name="dialog_msg_create_icon_content">Adicionar um atalho da tela inicial agora?</string>
+    <string name="dialog_msg_create_icon_content">Adicionar um atalho da Tela inicial agora?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">"Não mostrar novamente"</string>
     <string name="dialog_msg_delete_icon_content">A Segurança permite que você limpe a lixeira do seu dispositivo, encontre e neutralize vírus, economize bateria, gerencie permissões e muito mais.</string>
     <string name="dialog_msg_delete_icon_content_pad">A Segurança permite que você limpe o lixo do seu dispositivo, encontre e neutralize vírus, economize bateria, gerencie permissões e muito mais.</string>
     <string name="dialog_msg_delete_icon_content_phone">A Segurança permite que você limpe o lixo do seu dispositivo, encontre e neutralize vírus, economize bateria, gerencie permissões e muito mais.</string>
-    <string name="dialog_msg_delete_icon_title">Remover este atalho da tela inicial?</string>
+    <string name="dialog_msg_delete_icon_title">Remover este atalho da Tela inicial?</string>
     <string name="dialog_msg_delete_icon_title_pad">Remover o atalho \"Segurança\" da Tela inicial?</string>
     <string name="dialog_msg_delete_icon_title_phone">Remover o atalho \"Segurança\" da Tela inicial?</string>
     <string name="dialog_msg_install_manager_content">Instalar Segurança novamente?</string>
@@ -4708,7 +4708,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_risk_result_protection">Proteção de privacidade</string>
     <string name="privacy_risk_result_screen_fuzzy">Desfocar prévias de apps</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Desfocar prévias de apps sensíveis que são exibidos nos Recentes</string>
-    <string name="privacy_risk_result_screen_shield_msg">Os apps que contêm informações pessoais confidenciais serão exibidos em Recentes com suas visualizações mascaradas</string>
+    <string name="privacy_risk_result_screen_shield_msg">Os apps que contêm informações pessoais confidenciais serão exibidos nos Recentes com suas visualizações mascaradas</string>
     <string name="privacy_risk_result_set_btn">Configurar</string>
     <string name="privacy_risk_result_success_empty_msg">Tudo parece bem!</string>
     <string name="privacy_risk_result_success_msg">Todos os problemas foram corrigidos!</string>
@@ -4760,7 +4760,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_thumbnail_blur_title">Desfocar prévias de apps</string>
     <string name="privacy_thumbnail_blur_top_tip">Selecione os apps que terão suas prévias desfocadas nos Recentes</string>
     <string name="privacy_thumbnail_shield_title">Máscara de visualização</string>
-    <string name="privacy_thumbnail_shield_top_tip">Mascarar visualizações para apps exibidos em Recentes</string>
+    <string name="privacy_thumbnail_shield_top_tip">Mascarar visualizações para apps exibidos nos Recentes</string>
     <string name="privacy_type_open">Ativado</string>
     <string name="privacy_update_dialog_content_1">A Política de Privacidade de %s foi atualizada:</string>
     <string name="privacy_update_dialog_content_2"><Data>Leia e concorde com a nova versão da &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
@@ -5110,7 +5110,7 @@ Retirar consentimento agora?"</string>
     <string name="sp_unshelf_dialog_continue_pay">Pagar</string>
     <string name="sp_unshelf_dialog_title">Riscos detectados</string>
     <string name="sp_website_scan_summary">Navegação segura na web</string>
-    <string name="sp_website_scan_title">Verifique sites</string>
+    <string name="sp_website_scan_title">Verificar sites</string>
     <string name="special_number_group">Bloquear números reportados</string>
     <string name="special_perm_above_msg">Permite que apps exibam itens sobre outros apps</string>
     <string name="special_perm_above_title">Mostrar itens sobre outros apps</string>

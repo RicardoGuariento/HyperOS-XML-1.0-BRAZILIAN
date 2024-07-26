@@ -57,7 +57,7 @@
     <string name="backup_failed_reason_app_usage_denied">Conceda as permissões necessárias para fazer backup de itens</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para salvar este backup. Faça o upgrade do seu plano ou libere espaço no armazenamento da nuvem.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Espaço de armazenamento insuficiente. Libere armazenamento primeiro.</string>
-    <string name="backup_failed_reason_get_installed_apps_denied">Conceda as permissões necessárias em Configurações para fazer backup de itens</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Conceda as permissões necessárias nas Configurações para fazer backup de itens</string>
     <string name="backup_failed_reason_network_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="backup_finished_notification_content">Backup efetuado para apps da Tela inicial, configurações do sistema, etc.</string>
     <string name="backup_now">Fazer backup agora</string>
@@ -229,7 +229,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_cloud_space_not_enough">Este backup requer %1$s de espaço de armazenamento na MiCloud. Atualize seu plano de armazenamento para fazer backup de itens</string>
     <string name="dialog_content_cancel_backup">Os dados já carregados serão perdidos caso cancele o backup. Cancelar?</string>
     <string name="dialog_content_cancel_restore">Os dados já restaurados serão retidos caso pare de restaurar. Parar de restaurar?</string>
-    <string name="dialog_get_installed_apps_consent_message">Para poder fazer backup automaticamente, conceda permissão a este app em Configurações para acessar a lista de apps instalados em seu dispositivo e selecione \"Sempre permitir\".</string>
+    <string name="dialog_get_installed_apps_consent_message">Para poder fazer backup automaticamente, conceda permissão a este app nas Configurações para acessar a lista de apps instalados em seu dispositivo e selecione \"Sempre permitir\".</string>
     <string name="dialog_get_installed_apps_consent_title">Permissões necessárias</string>
     <string name="dialog_msg_overwrite_backup">O backup local é diferente do existente na MiCloud. Caso continue, o backup atual substituirá o anterior.</string>
     <string name="dialog_msg_restore_require_wlan">A restauração de backups requer uma conexão Wi-Fi.</string>
@@ -331,7 +331,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="managespace_delete_backup">Excluir</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Fechar</string>
     <string name="manual_request_notification_permission_dialog_positive_button">Configurações</string>
-    <string name="manual_request_permissions_dialog_description">"Caso não conceda as permissões para \"%s\", não receberá notificações oportunas sobre backups malsucedidos e outras ações importantes. Você pode conceder essa permissão em Configurações."</string>
+    <string name="manual_request_permissions_dialog_description">"Caso não conceda as permissões para \"%s\", não receberá notificações oportunas sobre backups malsucedidos e outras ações importantes. Você pode conceder essa permissão nas Configurações."</string>
     <string name="manual_request_permissions_dialog_title">Permissões necessárias</string>
     <string name="menu_item_managespace">Gerenciar espaço</string>
     <string name="menu_item_sort">Ordenar por</string>
@@ -526,7 +526,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="session_backup_apk_text">Fazendo backup do layout da Tela inicial e das configurações do sistema…</string>
     <string name="session_ending_backup_text">Quase pronto…</string>
     <string name="session_ending_restore_text">Quase pronto…</string>
-    <string name="session_failed_app_usage_denied_detail">Este app precisa de permissão para acessar as estatísticas de uso do app. Você pode conceder essa permissão em Configurações.</string>
+    <string name="session_failed_app_usage_denied_detail">Este app precisa de permissão para acessar as estatísticas de uso do app. Você pode conceder essa permissão nas Configurações.</string>
     <string name="session_failed_app_usage_denied_title">Permissões necessárias</string>
     <string name="session_failed_cloud_no_space_detail">Este backup precisa de pelo menos %s de armazenamento em nuvem.</string>
     <string name="session_failed_cloud_no_space_title">Armazenamento em nuvem insuficiente. Atualize seu espaço de armazenamento e tente novamente.</string>
@@ -534,7 +534,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="session_failed_disk_no_space_restore_detail">Pelo menos %s é necessário para restaurar itens.</string>
     <string name="session_failed_disk_no_space_title">Armazenamento interno insuficiente. Limpe o armazenamento e tente novamente.</string>
     <string name="session_failed_dist_no_space_btn_text">Limpar armazenamento</string>
-    <string name="session_failed_get_installed_apps_denied_detail">Para poder fazer backup automaticamente, conceda permissão a este app em Configurações para acessar a lista de apps instalados em seu dispositivo e selecione \"Sempre permitir\".</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Para poder fazer backup automaticamente, conceda permissão a este app nas Configurações para acessar a lista de apps instalados em seu dispositivo e selecione \"Sempre permitir\".</string>
     <string name="session_failed_get_installed_apps_denied_title">Permissões necessárias</string>
     <string name="session_failed_no_server_response_title">"Não foi possível conectar ao servidor."</string>
     <string name="session_failed_override_detail">O backup local é diferente do da MiCloud. Se você continuar, o backup atual substituirá o anterior. Substituir agora?</string>

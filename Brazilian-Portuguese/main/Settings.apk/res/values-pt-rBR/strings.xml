@@ -96,7 +96,7 @@
 1. Vá para as configurações de acessibilidade
 2. Selecione um recurso e toque no atalho
 3. Escolha o botão para acessar o recurso"</string>
-    <string name="accessibility_button_fade_summary">Desaparece após alguns segundos, então é mais fácil ver sua tela</string>
+    <string name="accessibility_button_fade_summary">Desaparece após alguns segundos, então é mais fácil ver sua tela.</string>
     <string name="accessibility_button_fade_title">Desaparecer quando não estiver em uso</string>
     <string name="accessibility_button_gesture_about_title">Sobre o botão de acessibilidade e gesto</string>
     <string name="accessibility_button_gesture_description"><b>Para começar</b>"
@@ -851,7 +851,7 @@ Alterar as configurações agora?"</string>
     <string name="app_launch_supported_links_add">Adicionar</string>
     <string name="app_launch_supported_links_subtext">Abrir em %s</string>
     <string name="app_launch_supported_links_title">{count, plural, =1 {link suportado: #} other {links suportados: #} }</string>
-    <string name="app_launch_top_intro_message">Permitir links da web abrir neste app</string>
+    <string name="app_launch_top_intro_message">Permita que links da web sejam abertos neste app</string>
     <string name="app_launch_verified_links_info_description">Mostrar lista de links verificados</string>
     <string name="app_launch_verified_links_message">{count, plural, =1 {Este link foi verificado e abre automaticamente neste app.} other {Esses links são verificados e abrem automaticamente neste app.} }</string>
     <string name="app_launch_verified_links_title">{count, plural, =1 {link verificado: #} other {links verificados: #} }</string>
@@ -1058,8 +1058,8 @@ Alterar as configurações agora?"</string>
     <string name="auto_dual_clock_aod_summary">Mostrar Relógio duplo quando a hora atual for diferente da do relógio secundário</string>
     <string name="auto_dual_clock_summary">Mostrar Relógio duplo quando a hora atual for diferente da do relógio secundário</string>
     <string name="auto_dual_clock_title">Relógio duplo</string>
-    <string name="auto_launch_disable_text">Nenhum padrão definido</string>
-    <string name="auto_launch_enable_text">Você decidiu lançar este app por padrão para algumas ações</string>
+    <string name="auto_launch_disable_text">Nenhum padrão definido.</string>
+    <string name="auto_launch_enable_text">Você optou por iniciar este app por padrão para algumas ações.</string>
     <string name="auto_launch_label">Abrir por padrão</string>
     <string name="auto_launch_label_generic">Padrões</string>
     <string name="auto_pin_confirm_opt_in_security_message">Confirmar seu PIN tocando em Enter é mais seguro do que usar a confirmação automática</string>
@@ -1834,7 +1834,7 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_title">Reiniciar o Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Use protocolos Bluetooth P2P de alta velocidade para transferências</string>
     <string name="bluetooth_enable_page_scan">Ativar página de verificação do Bluetooth</string>
-    <string name="bluetooth_enable_page_scan_summary">Ative/desative página de verificação para testar o Bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">Ative/desative a página de verificação para testar o Bluetooth</string>
     <string name="bluetooth_enable_pts_test">Ativar teste PTS bluetooth</string>
     <string name="bluetooth_enable_pts_test_summary">Desativa/Ativa o teste PTS Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Digite o código de pareamento e pressione \"Return\" ou \"Enter\"</string>
@@ -2174,7 +2174,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bootloader_device_bind_server_token_expired_1">Não foi possível verificar. Tente adicionar sua conta novamente.</string>
     <string name="bootloader_device_bind_server_token_expired_2">Não foi possível verificar. Faça login em sua conta e comece novamente.</string>
     <string name="bootloader_device_bind_sim_invalid">O cartão SIM não é válido. Substitua-o e tente novamente.</string>
-    <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir a sua segurança e suas informações pessoais não são divulgadas a terceiros. Se você precisa acessar o modo Fastboot para atualizar seu dispositivo, desbloqueie-o primeiro.</string>
+    <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir a sua segurança e suas informações pessoais não são divulgadas a terceiros. Se você precisa acessar o Modo Fastboot para atualizar seu dispositivo, desbloqueie-o primeiro.</string>
     <string name="bootloader_locked_answer_1_warning">Lembre-se: Você não poderá usar o \"Encontrar dispositivo\" depois que o telefone for desbloqueado.</string>
     <string name="bootloader_locked_answer_2">"1. Certifique-se de que já inseriu um cartão SIM no seu dispositivo.
 2. Desative o Wi-Fi e ative os dados móveis. Certifique-se de que seu dispositivo tem uma conexão com a internet usando dados móveis.
@@ -3027,7 +3027,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="dark_mode_display_enable_summary">Mude para uma interface com pouca luz que exibe principalmente superfícies escuras</string>
     <string name="dark_mode_font_background_title">Ajustar texto e fundos automaticamente</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">Entendi</string>
-    <string name="dark_mode_power_save_alert_dialog_message">"Se você desativar a otimização do sistema e ativar a Economia de bateria, o Modo escuro será ativado automaticamente. Para desativar o Modo escuro, desative a Economia de bateria ou ative a otimização do sistema em Configurações &gt; Opções do desenvolvedor &gt; Ativar otimização do sistema."</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Se você desativar a otimização do sistema e ativar a Economia de bateria, o Modo escuro será ativado automaticamente. Para desativar o Modo escuro, desative a Economia de bateria ou ative a otimização do sistema em Configurações > Opções do desenvolvedor > Ativar otimização do sistema."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Modo escuro</string>
     <string name="dark_mode_settings">Opções do Modo escuro</string>
     <string name="dark_mode_time_settings">Alternar para o Modo escuro</string>
@@ -3871,7 +3871,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_notes_role_summary">Ative integrações de sistemas de anotações por meio da função Notes. Se a função Notes já estiver ativada, não faz nada.</string>
     <string name="enable_notes_role_title">Forçar a ativação da função do Notes</string>
     <string name="enable_opengl_traces_title">Ativar rastreamento OpenGL</string>
-    <string name="enable_preferred_network_type_summary">Visualize e defina seu tipo de rede em Configurações &gt; Cartões SIM e redes móveis &gt; Cartão SIM</string>
+    <string name="enable_preferred_network_type_summary">Visualize e defina seu tipo de rede em Configurações > Cartões SIM e redes móveis > Cartão SIM</string>
     <string name="enable_preferred_network_type_title">Mostrar menu de tipo de rede preferido</string>
     <string name="enable_quick_setting">Mostrar em \"Configurações rápidas\"</string>
     <string name="enable_quick_start">Ativar o início rápido</string>
@@ -8711,7 +8711,7 @@ Para usar a fixação de apps: \u0009
 1. Ative a fixação de apps \u0009
 2. Abra a opção \"Visão geral\" \u0009
 3. Na parte superior da tela, toque no ícone do app e depois em \"Fixar\""</string>
-    <string name="screen_pinning_summary">Os apps fixados permanecerão em Recentes até que você os desafixar</string>
+    <string name="screen_pinning_summary">Os apps fixados permanecerão nos Recentes até que você os desafixar</string>
     <string name="screen_pinning_switch_off_text">Desativado</string>
     <string name="screen_pinning_switch_on_text">Ativado</string>
     <string name="screen_pinning_title">Permitir fixação de apps</string>
@@ -11076,7 +11076,7 @@ Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as i
     <string name="usage_access">Acesso ao uso</string>
     <string name="usage_access_description">O acesso ao uso permite que um app monitore que outros apps você está usando e com que frequência, bem como sua operadora, as configurações de idioma e outros detalhes.</string>
     <string name="usage_access_title">Apps com acesso ao uso</string>
-    <string name="usage_app_get_it">Entendido</string>
+    <string name="usage_app_get_it">Entendi</string>
     <string name="usage_app_limit_alter_summary">Parece que o limite de tempo é menor do que o tempo que você está usando este app hoje. Definir o limite mesmo assim?</string>
     <string name="usage_app_limit_alter_title">Verifique o limite de tempo da tela</string>
     <string name="usage_app_limit_prelong">Estender tempo</string>
@@ -11662,7 +11662,7 @@ Durante uma chamada de voz, não é possível usar a internet, e alguns apps pod
     <string name="wapi_yes">Sim</string>
     <string name="warm_color">Quente</string>
     <string name="warning_button_text">Aviso</string>
-    <string name="web_action_enable_summary">Abre links em apps, mesmo que eles não estejam instalados</string>
+    <string name="web_action_enable_summary">Abre links em apps, mesmo que eles não estejam instalados.</string>
     <string name="web_action_enable_title">Apps instantâneos</string>
     <string name="web_action_section_title">Apps instantâneos</string>
     <string name="webview_disabled_for_user">(desativado para o usuário %s)</string>
@@ -12466,7 +12466,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="work_profile_usage_access_warning">A desativação do acesso ao uso deste app não impede que o administrador rastreie o uso de dados dos apps no seu perfil de trabalho.</string>
     <string name="work_ringtone_title">Toque do telefone de trabalho</string>
     <string name="work_sim_title">SIM de trabalho</string>
-    <string name="work_sound_permission_dialog_button_text_known">Entendido</string>
+    <string name="work_sound_permission_dialog_button_text_known">Entendi</string>
     <string name="work_sound_permission_dialog_message">Você não pode usar Temas no Modo empresarial. Contate o seu supervisor para obter acesso.</string>
     <string name="work_sound_permission_dialog_title">Restrições do Modo empresarial</string>
     <string name="work_sound_same_as_personal">Igual ao do perfil pessoal</string>

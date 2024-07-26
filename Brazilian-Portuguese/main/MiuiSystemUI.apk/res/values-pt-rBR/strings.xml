@@ -740,7 +740,7 @@ Toque para reajustar"</string>
     <string name="charge_length_format">%1$s atrás</string>
     <string name="chip_text">Texto do chip</string>
     <string name="chooseUsbActivity">Escolha um app para o dispositivo USB</string>
-    <string name="choose_clock_dual_clock_hint_text">Não é possível alterar o formato quando o relógio duplo está ativado</string>
+    <string name="choose_clock_dual_clock_hint_text">Não é possível alterar o formato quando o Relógio duplo está ativado</string>
     <string name="choose_clock_panel_title">Layout da Tela de bloqueio</string>
     <string name="choose_clock_third_theme_hint_text">Tela de bloqueio do tema atual aplicado</string>
     <string name="choose_clock_title_left_top">Alinhado à esquerda</string>
@@ -778,7 +778,7 @@ Toque para reajustar"</string>
     <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
     <string name="connected_via_passpoint">Conectado via %1$s</string>
     <string name="content_description_menu_button">"Menu"</string>
-    <string name="control_center_notification_switch_guide">Deslize parar alternar entre o centro de controle e a área de notificações</string>
+    <string name="control_center_notification_switch_guide">Deslize parar alternar entre o centro de controle e a Área de notificações</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de tela,vibrar</string>
     <string name="controls_added_tooltip">Segure o botão de energia para ver os novos controles</string>
     <string name="controls_confirmation_confirming">Confirmando…</string>
@@ -1121,7 +1121,7 @@ Digite seu PIN para desbloquear."</string>
     <string name="fs_gesture_final_over">Estou pronto</string>
     <string name="fs_gesture_final_restart">Mais uma vez</string>
     <string name="fs_gesture_final_see_more">Veja mais demonstrações em Configurações > Tela inicial > Navegação do sistema</string>
-    <string name="fs_gesture_final_summary">Você pode voltar a usar os botões em Configurações &gt; Tela cheia</string>
+    <string name="fs_gesture_final_summary">Você pode voltar a usar os botões em Configurações > Tela cheia</string>
     <string name="fs_gesture_final_title">Você está pronto para começar!</string>
     <string name="fs_gesture_finish">Ótimo!</string>
     <string name="fs_gesture_left_back_ready_summary">Deslize para a direita a partir da borda</string>
@@ -1570,7 +1570,7 @@ captura de tela estendida"</string>
     <string name="long_screenshot_stop">Concluído</string>
     <string name="long_screenshot_top_msg">Criando a captura de tela…</string>
     <string name="long_screenshot_top_msg_manual">Corte a captura de tela e toque no botão para finalizar</string>
-    <string name="low_temperature_button_ok">Entendido</string>
+    <string name="low_temperature_button_ok">Entendi</string>
     <string name="low_temperature_warning_message">A temperatura está muito baixa. Seu dispositivo pode desligar a qualquer momento. Certifique-se de salvar qualquer alteração importante.</string>
     <string name="low_temperature_warning_title">Alerta de temperatura baixa</string>
     <string name="magnification_controls_title">Controles da janela de ampliação</string>
@@ -1641,7 +1641,7 @@ captura de tela estendida"</string>
     <string name="miui_clock_city_name_local">"Local"</string>
     <string name="miui_clock_city_name_second">Segundo relógio</string>
     <string name="miui_guide_dialog_button_negative_text">Configurações</string>
-    <string name="miui_guide_dialog_button_positive_text">Entendido</string>
+    <string name="miui_guide_dialog_button_positive_text">Entendi</string>
     <string name="miui_guide_dialog_message">Sons de mídia (música, vídeos, etc.) ainda serão reproduzidos no Modo silencioso. Você pode alterar isto nas Configurações.</string>
     <string name="miui_keyboard_shortcut_click">Pressione</string>
     <string name="miui_keyboard_shortcut_double_click">Pressione duas vezes</string>
@@ -3401,7 +3401,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wireless_charge_stop">Carregamento sem fios interrompido</string>
     <string name="wireless_charging_connected_message">Não é possível usar o carregamento reverso sem fios quando seu dispositivo está carregando sem fios.</string>
     <string name="wireless_charging_low_battery_level_message">Não é possível usar o carregamento reverso sem fios quando a bateria está com menos de 30% de carga.</string>
-    <string name="wireless_charging_ok">Entendido</string>
+    <string name="wireless_charging_ok">Entendi</string>
     <string name="wireless_charging_saver_cancel">Desativar</string>
     <string name="wireless_charging_saver_message">A Economia de bateria está ativada agora. Manter o carregamento reverso sem fios disponível?</string>
     <string name="wireless_charging_saver_ok">Manter</string>
@@ -3437,7 +3437,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="a11y_pip_menu_entered">Menu Picture-in-Picture.</string>
     <string name="abbrev_month_day_no_year">d MMM</string>
     <string name="accessibility_allow_diagonal_scrolling">Permitir rolagem diagonal</string>
-    <string name="accessibility_desc_qs_notification_shade">Configurações rápidas e aba de notificação.</string>
+    <string name="accessibility_desc_qs_notification_shade">Configurações rápidas e Área de notificações.</string>
     <string name="accessibility_floating_button_action_remove_menu">Remover</string>
     <string name="accessibility_floating_button_undo">Desfazer</string>
     <string name="accessibility_floating_button_undo_message_label_text">%s atalho removido</string>
@@ -3520,7 +3520,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="csd_lowered_title">Volume reduzido para um nível mais seguro</string>
     <string name="csd_system_lowered_text">O volume do fone de ouvido está alto há mais tempo do que o recomendado</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">Entendi</string>
-    <string name="dark_mode_power_save_alert_dialog_message">"Se você desativar a otimização do sistema e ativar a Economia de bateria, o Modo escuro será ativado automaticamente. Para desativar o Modo escuro, desative a Economia de bateria ou ative a otimização do sistema em Configurações &gt; Opções do desenvolvedor &gt; Ativar otimização do sistema."</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Se você desativar a otimização do sistema e ativar a Economia de bateria, o Modo escuro será ativado automaticamente. Para desativar o Modo escuro, desative a Economia de bateria ou ative a otimização do sistema em Configurações > Opções do desenvolvedor > Ativar otimização do sistema."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Modo escuro</string>
     <string name="default_user_icon_description">Ícone de usuário padrão</string>
     <string name="desktop_text">Modo de área de trabalho</string>
@@ -3647,7 +3647,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="keyboard_shortcut_search_list_hint">Atalhos de pesquisa</string>
     <string name="keyboard_shortcut_search_list_no_result">Nenhum atalho encontrado</string>
     <string name="keyboard_shortcut_search_list_title">Atalhos</string>
-    <string name="keyguard_editor_super_save_mode_toast">"Não é possível editar a Tela de bloqueio quando o Ultra economia de bateria está ativado"</string>
+    <string name="keyguard_editor_super_save_mode_toast">"Não é possível editar a Tela de bloqueio quando a Ultra economia de bateria está ativada"</string>
     <string name="keyguard_enter_password">Digite a senha</string>
     <string name="keyguard_enter_pattern">Desenhar padrão</string>
     <string name="keyguard_enter_pin">Entrar no pino</string>
@@ -3669,7 +3669,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="letterbox_education_split_screen_text">Arraste outro app para Tela dividida</string>
     <string name="letterbox_reachability_reposition_text">"Toque duas vezes para mover este app"</string>
     <string name="letterbox_restart_cancel">Cancelar</string>
-    <string name="letterbox_restart_dialog_checkbox_title">Não mostre novamente</string>
+    <string name="letterbox_restart_dialog_checkbox_title">Não mostrar novamente</string>
     <string name="letterbox_restart_dialog_description">Você pode reiniciar o app para que fique melhor na tela, mas poderá perder seu progresso ou quaisquer alterações não salvas.</string>
     <string name="letterbox_restart_dialog_title">Reiniciar para ver melhor?</string>
     <string name="letterbox_restart_restart">Reiniciar</string>
@@ -3767,8 +3767,8 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="sensor_privacy_camera_unblocked_toast_content">Câmera disponível</string>
     <string name="sensor_privacy_dialog_open_settings">Abrir configurações</string>
     <string name="sensor_privacy_htt_blocked_dialog_content">Para usar o botão do microfone, ative o acesso ao microfone nas Configurações.</string>
-    <string name="sensor_privacy_mic_blocked_no_exception_dialog_content">O acesso ao microfone está desativado para todos os apps e serviços. Você pode ativar o acesso ao microfone em Configurações &gt; Privacidade &gt; Microfone.</string>
-    <string name="sensor_privacy_mic_blocked_with_exception_dialog_content">O acesso ao microfone está desativado para todos os apps e serviços. Você pode alterar isso em Configurações &gt; Privacidade &gt; Microfone.</string>
+    <string name="sensor_privacy_mic_blocked_no_exception_dialog_content">O acesso ao microfone está desativado para todos os apps e serviços. Você pode ativar o acesso ao microfone em Configurações > Privacidade > Microfone.</string>
+    <string name="sensor_privacy_mic_blocked_with_exception_dialog_content">O acesso ao microfone está desativado para todos os apps e serviços. Você pode alterar isso em Configurações > Privacidade > Microfone.</string>
     <string name="sensor_privacy_mic_camera_unblocked_toast_content">Microfone e câmera disponíveis</string>
     <string name="sensor_privacy_mic_turned_off_dialog_title">Microfone desligado</string>
     <string name="sensor_privacy_mic_turned_on_dialog_title">Microfone ligado</string>
@@ -3780,7 +3780,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="sensor_privacy_start_use_mic_blocked_dialog_title">O microfone está bloqueado</string>
     <string name="sensor_privacy_start_use_mic_camera_blocked_dialog_content">Para desbloqueá-los, mova o botão de privacidade do seu dispositivo para a posição desbloqueado para permitir o acesso. Consulte o manual do dispositivo para localizar o botão de privacidade no seu dispositivo.</string>
     <string name="sensor_privacy_start_use_mic_camera_blocked_dialog_title">O microfone e a câmera estão bloqueados</string>
-    <string name="set_default_notes_app_toast_content">Defina o app de notas padrão em Configurações</string>
+    <string name="set_default_notes_app_toast_content">Defina o app de notas padrão nas Configurações</string>
     <string name="sim_lock_bouncer_hint_msg">O cartão SIM está bloqueado. Substitua-o ou digite a senha para desbloquear.</string>
     <string name="thermal_protection_warning">"Seu dispositivo está superaquecido. Não é possível usar esse recurso agora."</string>
     <string name="to_switch_networks_disconnect_ethernet">Para mudar de rede, desconecte a Ethernet</string>
