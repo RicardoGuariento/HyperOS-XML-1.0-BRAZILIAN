@@ -545,7 +545,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de pareamento Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Parear com o dispositivo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">Falha ao parear com o dispositivo. O código QR não é válido, ou o dispositivo não está conectado à mesma rede.</string>
-    <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro.</string>
+    <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu dispositivo sem notificação e ler dados de registro.</string>
     <string name="adb_warning_title">Permitir a depuração USB?</string>
     <string name="adb_wireless_connection_failed_message">Certifique-se de que o %1$s está conectado à rede correta</string>
     <string name="adb_wireless_connection_failed_title">A conexão falhou</string>
@@ -560,7 +560,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="adb_wireless_qrcode_summary">Pareie o dispositivo através do Wi-Fi ao digitalizar um código QR</string>
     <string name="adb_wireless_settings">Depuração Wi-Fi</string>
     <string name="adb_wireless_verifying_qrcode_text">Pareando dispositivo…</string>
-    <string name="adbwifi_warning_message">A depuração Wi-Fi serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro</string>
+    <string name="adbwifi_warning_message">A depuração Wi-Fi serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu dispositivo sem notificação e ler dados de registro.</string>
     <string name="adbwifi_warning_title">Permitir depuração Wi-Fi?</string>
     <string name="add">Adicionar</string>
     <string name="add_a_language">Adicionar um idioma</string>
@@ -1969,7 +1969,7 @@ Você não se conectou a %2$s antes."</string>
     <string name="bluetooth_pin_values_hint_16_digits">São necessários 16 dígitos</string>
     <string name="bluetooth_plugins_check_summary">Conecte-se à rede para verificar se há atualizações</string>
     <string name="bluetooth_plugins_check_summary_new">Uma atualização está disponível</string>
-    <string name="bluetooth_plugins_check_title">Atualizar plug-in Bluetooth</string>
+    <string name="bluetooth_plugins_check_title">Atualizar plugin Bluetooth</string>
     <string name="bluetooth_pref_summary">Permite que seu dispositivo se comunique com dispositivos Bluetooth nas proximidades</string>
     <string name="bluetooth_preference_connected_devices">Dispositivos conectados</string>
     <string name="bluetooth_preference_device_settings">Configurações do aparelho</string>
@@ -4671,7 +4671,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="google_title">"Google"</string>
     <string name="got_it">Entendi</string>
     <string name="gps_description">Vários sistemas de navegação por satélite (GPS, BeiDou, GLONASS, Galileo) são suportados</string>
-    <string name="gps_description_global">Os aparelhos Xiaomi são compatíveis com múltiplos sistemas de navegação, incluindo GPS, NavIC, BeiDou, GLONASS e Galileo.</string>
+    <string name="gps_description_global">Os dispositivos Xiaomi são compatíveis com múltiplos sistemas de navegação, incluindo GPS, NavIC, BeiDou, GLONASS e Galileo.</string>
     <string name="grant_admin">Sim, torne-os administradores</string>
     <string name="graphics_driver_all_apps_preference_title">Ativar para todos os apps</string>
     <string name="graphics_driver_app_preference_default">Padrão</string>
@@ -9119,7 +9119,7 @@ Para usar a fixação de apps: \u0009
     <string name="security_settings_biometrics_title">Rosto e Desbloqueio de impressão digital</string>
     <string name="security_settings_biometrics_types_category">Maneiras de desbloquear</string>
     <string name="security_settings_face_enroll_consent_introduction_title">Permitir desbloquear rosto</string>
-    <string name="security_settings_face_enroll_dialog_ok">"Ok"</string>
+    <string name="security_settings_face_enroll_dialog_ok">"OK"</string>
     <string name="security_settings_face_enroll_done">Concluído</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_message">Se a Accessibility Face desbloquear estiver desativada, algumas etapas de configuração podem não funcionar corretamente com talkback.</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Volte</string>
@@ -12532,7 +12532,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_category_exceptions">Alarmes e outras interrupções</string>
     <string name="zen_category_people">Pessoas</string>
     <string name="zen_category_schedule">Programações</string>
-    <string name="zen_custom_settings_dialog_ok">"Ok"</string>
+    <string name="zen_custom_settings_dialog_ok">"OK"</string>
     <string name="zen_custom_settings_dialog_review_schedule">Revisar programação</string>
     <string name="zen_custom_settings_dialog_title">Configurações personalizadas</string>
     <string name="zen_custom_settings_duration_header">Duração</string>

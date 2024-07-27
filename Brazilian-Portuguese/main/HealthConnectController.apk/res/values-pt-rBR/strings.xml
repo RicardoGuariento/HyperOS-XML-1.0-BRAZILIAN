@@ -240,7 +240,7 @@
     <string name="denied_apps_banner_message_two_apps">A plataforma Conexão e saúde removeu as permissões dos apps %1$s e %2$s</string>
     <string name="denied_apps_banner_title">Permissões de apps removidas</string>
     <string name="denied_apps_dialog_got_it_button">Entendi</string>
-    <string name="denied_apps_dialog_message">"Se um app for suspenso ou removido do Google Play, o Conexão e saúde vai remover automaticamente as permissões dele.
+    <string name="denied_apps_dialog_message">"Se um app for suspenso ou removido do Google Play, o Conexão e saúde vai remover automaticamente as permissões dele.
 
 Isso significa que o app não vai poder mais acessar seus dados armazenados no Conexão e saúde. Se esse app tiver gravado dados anteriormente, ele vai aparecer na lista de apps inativos."</string>
     <string name="denied_apps_dialog_title">Por que a plataforma Conexão e saúde remove as permissões de apps</string>
@@ -594,7 +594,7 @@ Clique em "Retomar" para reabrir o app e continuar transferindo seus dados e per
     <string name="percent_long">{value, plural, =1 {1 por cento} other {# por cento}}</string>
     <string name="period_day">Dia %1$d de %2$d do período</string>
     <string name="permdesc_readCaloriesBurned">Permite que o app leia as calorias queimadas</string>
-    <string name="permgroupdesc_health">acesse seus dados de saúde</string>
+    <string name="permgroupdesc_health">Acesse seus dados de saúde</string>
     <string name="permgrouplab_health">Conexão e saúde</string>
     <string name="permission_types_title">Seus dados</string>
     <string name="permissions_and_data_header">Permissões e dados</string>
@@ -635,7 +635,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="range_never">Never</string>
     <string name="range_off">Desativado</string>
     <string name="read_data_access_label">Ler: %s</string>
-    <string name="read_permission_category">Permitir “%1$s” to read</string>
+    <string name="read_permission_category">Permitir que "%1$s" leia</string>
     <string name="recent_access_header">Acesso recente</string>
     <string name="recent_access_screen_description">Veja quais apps acessaram seus dados nas últimas 24 horas</string>
     <string name="repetitions">{count, plural, =1 {1 repetição} other {# repetições}}</string>
@@ -647,7 +647,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="request_permissions_dont_allow">Não permitir</string>
     <string name="request_permissions_header_desc">Escolha dados que você quer que esse app leia ou grave no Conexão e saúde</string>
     <string name="request_permissions_header_time_frame_desc">Se o app tiver acesso à leitura, vai poder ler novos dados e dados dos últimos 30 dias.</string>
-    <string name="request_permissions_header_title">APermitir que o app %1$s acesse o Conexão e saúde?</string>
+    <string name="request_permissions_header_title">Permitir que o app %1$s acesse o Conexão e saúde?</string>
     <string name="request_permissions_privacy_policy">Política de Privacidade</string>
     <string name="request_permissions_rationale">Descubra como o %1$s processa seus dados na %2$s do desenvolvedor</string>
     <string name="request_route_disclaimer_notice">O app poderá ler dados de seu local anterior no trajeto</string>
@@ -673,7 +673,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="resume_migration_banner_description">Toque para continuar integrando o Conexão e saúde ao sistema Android. Para manter seus dados, complete isso dentro de %1$s</string>
     <string name="resume_migration_banner_description_fallback">Toque para continuar integrando o Conexão e saúde ao sistema Android.</string>
     <string name="resume_migration_banner_title">Retomar integração</string>
-    <string name="resume_migration_notification_content">Para manter seus dados, complete isso dentro de %1$s</string>
+    <string name="resume_migration_notification_content">Para manter seus dados, complete isso dentro de %1$s.</string>
     <string name="resume_migration_notification_title">Retomar integração do Conexão e saúde</string>
     <string name="riboflavin">Riboflavina</string>
     <string name="rock_climbing">Escalada</string>
@@ -695,7 +695,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="search_menu_title">Pesquisar</string>
     <string name="see_all_categories">Ver todas as categorias</string>
     <string name="see_all_compatible_apps">Veja todos os apps compatíveis</string>
-    <string name="see_all_compatible_apps_description">Encontre apps na Google Play</string>
+    <string name="see_all_compatible_apps_description">Encontre apps na Google Play</string>
     <string name="select_all_apps_title">Todos os apps</string>
     <string name="selenium">Selênio</string>
     <string name="send_feedback">Enviar feedback</string>
@@ -808,10 +808,10 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="time_range">%1$s - %2$s</string>
     <string name="time_range_all">Excluir todos os dados</string>
     <string name="time_range_long">%1$s a %2$s</string>
-    <string name="time_range_message_all">Esta ação exclui permanentemente todos os dados adicionados ao Conexão e saúde no período escolhido</string>
-    <string name="time_range_message_app_data">Esta ação exclui permanentemente os dados do %s adicionados ao Conexão e saúde no período escolhido</string>
-    <string name="time_range_message_category">Esta ação exclui permanentemente os dados de %s adicionados ao Conexão e saúde no período escolhido</string>
-    <string name="time_range_message_data_type">Esta ação exclui permanentemente os dados de %s adicionados ao Conexão e saúde no período escolhido</string>
+    <string name="time_range_message_all">Esta ação exclui permanentemente todos os dados adicionados ao Conexão e saúde no período escolhido</string>
+    <string name="time_range_message_app_data">Esta ação exclui permanentemente os dados do %s adicionados ao Conexão e saúde no período escolhido</string>
+    <string name="time_range_message_category">Esta ação exclui permanentemente os dados de %s adicionados ao Conexão e saúde no período escolhido</string>
+    <string name="time_range_message_data_type">Esta ação exclui permanentemente os dados de %s adicionados ao Conexão e saúde no período escolhido</string>
     <string name="time_range_next_button">Próxima</string>
     <string name="time_range_one_day">Excluir últimas 24 horas</string>
     <string name="time_range_one_month">Excluir últimos 30 dias</string>
@@ -884,7 +884,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="wheelchair_pushes_uppercase_label">Impulsos de cadeira de rodas</string>
     <string name="wheelchair_pushes_write_content_description">Grave dados de impulsos na cadeira de rodas</string>
     <string name="workout">Treino</string>
-    <string name="write_data_access_label">Gravação: %s</string>
+    <string name="write_data_access_label">Escrever: %s</string>
     <string name="write_permission_category">Permitir que "%1$s" escreva</string>
     <string name="yesterday_header">Ontem</string>
     <string name="yoga">Ioga</string>

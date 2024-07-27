@@ -77,7 +77,7 @@
     <string name="back">Voltar</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
     <string name="btn_send">Enviar</string>
-    <string name="bugreport_dialog_informed_consent_content">"Detectamos um erro relacionado à senha da Tela de bloqueio. Você pode enviar os registros do seu dispositivo para nos ajudar a localizar e resolver o problema. As informações de registro serão enviadas anonimamente, serão usadas apenas para solução de problemas e serão excluídas assim que a solução for concluída."</string>
+    <string name="bugreport_dialog_informed_consent_content">"Detectamos um erro relacionado à senha da Tela de bloqueio. Você pode enviar os logs do seu dispositivo para nos ajudar a localizar e resolver o problema. As informações de log serão enviadas anonimamente, serão usadas apenas para solução de problemas e serão excluídas assim que a solução for concluída."</string>
     <string name="bugreport_dialog_informed_consent_title">Consentimento informado</string>
     <string name="bugreport_dialog_not_show_again">"Não mostrar novamente"</string>
     <string name="bugreport_dialog_submit_content">"&lt;Data>Você está salvando logs de software neste dispositivo agora. Os logs podem conter informações pessoais e os seus dados de localização. Não compartilhe os seus logs com mais ninguém se não quiser que estas informações sejam expostas. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
@@ -94,7 +94,7 @@
     <string name="catch_full_log_add_original_photo">Adicionar imagem original ou vídeo curto</string>
     <string name="catch_full_log_add_photo">Adicionar foto</string>
     <string name="catch_full_log_add_photo_dialog_content">Se o problema que você está reportando é relacionado com a qualidade de imagens da câmera, adicione uma foto de exemplo original (sem cortes) para nos ajudar a localizar o problema. Adicionar foto agora?</string>
-    <string name="catch_full_log_category">Tipos de registro</string>
+    <string name="catch_full_log_category">Tipos de log</string>
     <string name="catch_full_log_dialog_confirm_text">Ir à Tela inicial</string>
     <string name="catch_full_log_dialog_content">Isto pode afetar o desempenho geral do seu dispositivo. Caso não consiga reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
     <string name="catch_full_log_dialog_content_pad">Isto pode afetar o desempenho geral do seu dispositivo. Caso não consiga reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
