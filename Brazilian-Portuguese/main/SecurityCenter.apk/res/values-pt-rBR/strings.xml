@@ -255,7 +255,7 @@
     <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Quando você está executando uma verificação de segurança, o modelo do seu dispositivo e resultados da verificação serão enviados para os servidores da %1$s e usados de acordo com os &lt;a href=\"%2$s\">termos e condições&lt;/a> correspondentes.&lt;br/>&lt;br/>Leia e aceite os termos e condições da %3$s antes de executar verificações de segurança.&lt;br/>&lt;br/> Se você não aceitar em enviar os dados para os servidores da %4$s, você ainda poderá usar as definições de vírus armazenadas localmente no seu dispositivo."</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
     <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
-    <string name="antivirus_privacy_dialog_title_kddi">Termos e condições</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Termos e Condições</string>
     <string name="antivirus_riskapp_title">Possíveis riscos</string>
     <string name="antivirus_sec_network_unavailable">O app Segurança não pode atualizar porque você restringiu o seu acesso à internet. Permitir que o app conecte-se à internet?</string>
     <string name="antivirus_sms_check">Verifique os links em Mensagens</string>
@@ -404,7 +404,7 @@
     <string name="app_behavior_recognition_single">Este app acessou as informações de suas atividades</string>
     <string name="app_behavior_record_cancel">Cancelar</string>
     <string name="app_behavior_record_close">Desativar</string>
-    <string name="app_behavior_record_close_title">Pare de gravar</string>
+    <string name="app_behavior_record_close_title">Parar de gravar</string>
     <string name="app_behavior_record_hide_system">Ocultar apps do sistema</string>
     <string name="app_behavior_record_open">Ativar</string>
     <string name="app_behavior_record_open_content_text">Os registros de comportamento do app mostram o que os apps fazem e ajudam a evitar riscos de segurança.</string>
@@ -1943,7 +1943,7 @@ monitoramento de terremotos"</string>
     <string name="exo_download_notification_channel_name">"Downloads"</string>
     <string name="exo_download_paused">Downloads pausados</string>
     <string name="exo_download_paused_for_network">Downloads aguardando rede</string>
-    <string name="exo_download_paused_for_wifi">Downloads aguardando WiFi</string>
+    <string name="exo_download_paused_for_wifi">Downloads aguardando Wi-Fi</string>
     <string name="exo_download_removing">Removendo downloads</string>
     <string name="exo_track_mono">"Mono"</string>
     <string name="exo_track_role_alternate">Alternar</string>
@@ -2151,7 +2151,7 @@ monitoramento de terremotos"</string>
     <string name="function_auto_reject_detail_new">"Sobre este recurso:
 %1$d. Enquanto você estiver jogando, todas as chamadas recebidas para o cartão SIM sem serviço de dados móveis serão rejeitadas automaticamente.
 %2$d. Você verá notificações sobre chamadas perdidas e a outra pessoa ouvirá uma mensagem de áudio informando que você está ocupado no momento.
-%3$d. Esse recurso é suportado apenas por operadoras de celular no Continente Chinês.."</string>
+%3$d. Esse recurso é suportado apenas por operadoras de celular no Continente Chinês."</string>
     <string name="function_auto_reject_title">Rejeitar chamadas VoLTE para cartões SIM sem serviço de dados</string>
     <string name="function_close">Desativado</string>
     <string name="function_gwsd_detail">"Sobre este recurso:
@@ -2167,7 +2167,7 @@ monitoramento de terremotos"</string>
     <string name="function_oncall_not_close_network_detail">"Sobre este recurso: 
 %1$d. Este recurso permite que você fique online durante as sessões de jogo sem ser interrompido por chamadas recebidas quando este dispositivo estiver conectado a redes 5G específicas.
 %2$d. Se nenhum dos seus cartões SIM estiver conectado a uma rede 5G, as chamadas recebidas serão rejeitadas automaticamente pelo seu cartão SIM principal.
-%3$d. Este recurso é suportado apenas no continente Chinês.
+%3$d. Este recurso é suportado apenas no Continente Chinês.
 %4$d. Este recurso só funciona em redes 5G-SA."</string>
     <string name="function_shield_auto_bright">Desativar brilho automático</string>
     <string name="function_shield_eye_shield">Desativar Modo leitura</string>
@@ -2817,7 +2817,7 @@ Pressione e segure o indicador para mover a janela."</string>
     <string name="gtb_setting_item_title_brightness">Reduzir o brilho da tela automaticamente</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">Bloquear SIM secundário</string>
     <string name="gtb_setting_item_title_smart_5g">Otimização de rede 5G</string>
-    <string name="gtb_setting_item_title_smart_wlan_speed">Acelerar velocidade do Mi WiFi</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Acelerar velocidade do Mi Wi-Fi</string>
     <string name="gtb_spring_festival_back_game">Voltar ao jogo</string>
     <string name="gtb_spring_festival_egg_obtain_fail">Não foi possível conectar-se à rede</string>
     <string name="gtb_spring_festival_goto_gameturbo">Visualizar</string>
@@ -4559,7 +4559,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_dialog_open">Ativar</string>
     <string name="privacy_dialog_positive_button_text">Aceitar</string>
     <string name="privacy_dialog_revoking">Retirando o consentimento…</string>
-    <string name="privacy_dialog_title">Termos e condições</string>
+    <string name="privacy_dialog_title">Termos e Condições</string>
     <string name="privacy_empty_call">Nenhum app acessou o histórico de chamadas hoje</string>
     <string name="privacy_empty_contact">Nenhum app acessou os contatos hoje</string>
     <string name="privacy_empty_location">Nenhum app acessou a localização hoje</string>

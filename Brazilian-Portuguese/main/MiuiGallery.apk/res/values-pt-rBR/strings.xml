@@ -988,7 +988,7 @@ Envie este código para o supervisor."</string>
     <string name="error_install_sdcard_not_available">"Não foi possível carregar o plugin devido a um erro no cartão SD."</string>
     <string name="error_install_storage_not_enough">Libere espaço no seu dispositivo para carregar o plugin.</string>
     <string name="error_internal_sdcard_write_tip">Ocorreu um erro. Reinicie o seu dispositivo e tente novamente.</string>
-    <string name="error_invalid_bind_address">O endereço de email inserido é inválido.</string>
+    <string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
     <string name="error_invalid_link">URL inválida</string>
     <string name="error_link_has_expired">A URL expirou</string>
     <string name="error_network_restrict_action">Ver detalhes</string>
@@ -2575,11 +2575,11 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="privacy_permission_storage_detail">Para armazenar fotos e vídeos</string>
     <string name="privacy_reject_map_detail_new"><Data>"Sua retirada de consentimento para a &lt;a href=\"%1$s\">Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria&lt;/a> será considerada como recusa em aceitar serviços de mapa da Galeria. Você ainda poderá usar outros recursos da Galeria normalmente. Retirar o consentimento?"</Data></string>
     <string name="privacy_rejected">Retirada de consentimento</string>
-    <string name="privacy_rejected_map">Retirar o consentimento para a política de privacidade do mapa da galeria</string>
-    <string name="privacy_rejected_map_detail">"Sua retirada de consentimento para a política de privacidade do mapa da galeria será realizada como se recusando a aceitar seus serviços. Outros recursos básicos e serviços da galeria não serão afetados. Retirar mesmo assim?"</string>
-    <string name="privacy_rejected_map_new">Retirada do consentimento para Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria</string>
+    <string name="privacy_rejected_map">Retirar o consentimento para a Política de Privacidade do Mapa da Galeria</string>
+    <string name="privacy_rejected_map_detail">"Sua retirada de consentimento para a Política de Privacidade do Mapa da Galeria será realizada como se recusando a aceitar seus serviços. Outros recursos básicos e serviços da galeria não serão afetados. Retirar mesmo assim?"</string>
+    <string name="privacy_rejected_map_new">Retirada de consentimento para a Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria</string>
     <string name="privacy_rejected_pos_btn">Retirar</string>
-    <string name="privacy_share_album_confirm">Termos e condições</string>
+    <string name="privacy_share_album_confirm">Termos e Condições</string>
     <string name="privacy_share_album_confirm_detail">Álbuns compartilhados são alimentados pela MiCloud. Antes de usar este recurso, leia e concorde com o nosso &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Contrato do Usuário&lt;/a>&lt;/font> e a nossa &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
     <string name="private_entry_lock_state_activated_text">Solte para abrir a pasta privada</string>
     <string name="private_entry_lock_state_enterd_text">Puxe para baixo para abrir a pasta privada</string>

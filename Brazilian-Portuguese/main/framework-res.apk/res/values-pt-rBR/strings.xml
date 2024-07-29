@@ -1422,7 +1422,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_deliverCompanionMessages">Permite que um app complementar envie mensagens complementares para outros dispositivos.</string>
     <string name="permdesc_detectScreenCapture">Este app será notificado quando uma captura de tela for feita enquanto o app estiver em uso.</string>
     <string name="permdesc_disableKeyguard">Permite que o app desative o bloqueio de teclas e qualquer segurança por senha associada. Por exemplo, o dispositivo desativa o bloqueio de telas ao receber uma chamada e o reativa quando a chamada é finalizada.</string>
-    <string name="permdesc_enableCarMode">Permite que o app ative o modo Carro.</string>
+    <string name="permdesc_enableCarMode">Permite que o app ative o Modo carro.</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Isenta o app de restrições para gravar áudio.</string>
     <string name="permdesc_expandStatusBar">Permite que o app expanda ou recolha a barra de status.</string>
     <string name="permdesc_foregroundService">Permite que o app use os serviços em primeiro plano.</string>
@@ -1482,7 +1482,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_readPhoneState">Permite que o app acesse os recursos de telefonia do dispositivo. Esta permissão autoriza o app a determinar o número de telefone e IDs de dispositivo, quando uma chamada está ativa, e o número remoto conectado a uma chamada.</string>
     <string name="permdesc_readSms">Este app pode ler todas as mensagens SMS (de texto) armazenadas no seu dispositivo.</string>
     <string name="permdesc_readSyncSettings">Permite que o app leia as configurações de sincronização de uma conta. Por exemplo, pode determinar se o app pessoal está sincronizado com uma conta.</string>
-    <string name="permdesc_readSyncStats">Permite que o app acesse as estatísticas de sincronização de uma conta, incluindo a história dos eventos de sincronização e a quantidade de dados sincronizados.</string>
+    <string name="permdesc_readSyncStats">Permite que o app acesse as estatísticas de sincronização de uma conta, incluindo o histórico de eventos de sincronização e a quantidade de dados sincronizados.</string>
     <string name="permdesc_readVisualUserSelect">Permite que o app leia arquivos de imagem e vídeo selecionados no armazenamento compartilhado.</string>
     <string name="permdesc_receiveBootCompleted">Permite que o app inicie-se logo que o sistema concluir a inicialização. Isso pode tornar a inicialização do dispositivo mais lenta e permitir que o app deixe o dispositivo mais lento por estar sempre em execução.</string>
     <string name="permdesc_receiveMms">Permite que o app receba e processe mensagens MMS. Isso significa que o app pode monitorar ou excluir as mensagens enviadas para o dispositivo sem mostrá-las para você.</string>
@@ -1627,7 +1627,7 @@ para a conta %s."</string>
     <string name="permlab_deliverCompanionMessages">Entregar mensagens complementares</string>
     <string name="permlab_detectScreenCapture">Detectar capturas de tela de janelas de apps</string>
     <string name="permlab_disableKeyguard">Desativar o bloqueio de tela</string>
-    <string name="permlab_enableCarMode">Ativar o modo carro</string>
+    <string name="permlab_enableCarMode">Ativar o Modo carro</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">Isento de restrições de gravação de áudio</string>
     <string name="permlab_expandStatusBar">Expandir/recolher barra de status</string>
     <string name="permlab_foregroundService">Executar serviço em primeiro plano</string>

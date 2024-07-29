@@ -54,7 +54,7 @@
     <string name="HIPS_Perm_PhoneID_Desc_Q">Acesse o número do telefone e status do dispositivo</string>
     <string name="HIPS_Perm_ROOT">Obter acesso root</string>
     <string name="HIPS_Perm_ROOT_Desc">Obtenha acesso root</string>
-    <string name="HIPS_Perm_Read_Call_Log">Ler o histórico de chamadas</string>
+    <string name="HIPS_Perm_Read_Call_Log">Ler histórico de chamadas</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Leia o histórico de chamadas</string>
     <string name="HIPS_Perm_Read_Contact">Ler seus contatos</string>
     <string name="HIPS_Perm_Read_Contact_Desc">Leia seus contatos</string>
@@ -370,7 +370,7 @@
     <string name="permdesc_call_phone">Permitir que %1$s faça chamadas?</string>
     <string name="permdesc_camera">Permitir que %1$s tire fotos e grave vídeos?</string>
     <string name="permdesc_get_account">Permitir que %1$s acesse todas as contas armazenadas neste dispositivo?</string>
-    <string name="permdesc_get_installed_apps">Permitir que \"%1$s\" acesse informações sobre apps instalados?</string>
+    <string name="permdesc_get_installed_apps">Permitir que %1$s acesse informações sobre apps instalados?</string>
     <string name="permdesc_isolate_storage">Permitir que %1$s acesse fotos, vídeos e áudio armazenados neste dispositivo?</string>
     <string name="permdesc_location">Permitir que %1$s acesse informações de localização?</string>
     <string name="permdesc_location_background">Permitir que %1$s acesse informações de localização em segundo plano?</string>

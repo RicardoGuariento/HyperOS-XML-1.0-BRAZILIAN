@@ -2797,8 +2797,8 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="connected_devices_create">Adicionar</string>
     <string name="connected_devices_dashboard_android_auto_no_driving_mode_summary">"Bluetooth, Android Auto, NFC"</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_no_driving_mode">"Bluetooth, Android Auto"</string>
-    <string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, modo carro</string>
-    <string name="connected_devices_dashboard_android_auto_summary">Bluetooth, Android Auto, modo carro, NFC</string>
+    <string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, Modo carro</string>
+    <string name="connected_devices_dashboard_android_auto_summary">Bluetooth, Android Auto, Modo carro, NFC</string>
     <string name="connected_devices_dashboard_default_summary">Bluetooth, emparelhamento</string>
     <string name="connected_devices_dashboard_no_driving_mode_no_nfc_summary">"Bluetooth"</string>
     <string name="connected_devices_dashboard_no_driving_mode_summary">"Bluetooth, NFC"</string>
@@ -4883,7 +4883,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="headset_notification_switch_summary">Mostre o status no widget na Área de notificações quando os fones de ouvido estiverem conectados</string>
     <string name="headset_notification_switch_title">Widget na Área de notificações</string>
     <string name="headset_remove_message">Desparear dispositivo?</string>
-    <string name="headset_remove_message_indicate">%1$s serão despareados de todos os dispositivos associados a esta conta Mi.</string>
+    <string name="headset_remove_message_indicate">%1$s serão despareados de todos os dispositivos associados a esta Conta Mi.</string>
     <string name="headset_sbc">"SBC"</string>
     <string name="headset_settings_title">Efeitos sonoros</string>
     <string name="headset_silent_upgrade_switch_summary">Atualiza o firmware dos fones de ouvido automaticamente quando todas as condições necessárias forem atendidas</string>
@@ -9875,9 +9875,9 @@ Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_dialog_title">Termos e Condições</string>
     <string name="sos_privacy_policy">Política de Privacidade</string>
     <string name="sos_privacy_policy_change_endtitle">Leia e concorde com a nova versão do %s antes de continuar.</string>
-    <string name="sos_privacy_policy_change_message_reject">"Você não poderá continuar usando o SOS de emergência, a menos que concorde com a nova versão de sua política de privacidade. Concordar com a atualização %s agora?"</string>
-    <string name="sos_privacy_policy_change_subtitle">A política de privacidade SOS de emergência foi atualizada:</string>
-    <string name="sos_privacy_policy_change_title">Política de privacidade atualizada</string>
+    <string name="sos_privacy_policy_change_message_reject">"Você não poderá continuar usando o SOS de emergência, a menos que concorde com a nova versão de sua Política de Privacidade. Concordar com a atualização %s agora?"</string>
+    <string name="sos_privacy_policy_change_subtitle">A Política de Privacidade SOS de emergência foi atualizada:</string>
+    <string name="sos_privacy_policy_change_title">Política de Privacidade atualizada</string>
     <string name="sos_privacy_policy_change_title_reject">"Não é possível usar o app"</string>
     <string name="sos_privacy_policy_no_net_button">Entendi</string>
     <string name="sos_privacy_policy_no_net_message">Seu dispositivo precisa se conectar à rede para você ser capaz de retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
@@ -11686,7 +11686,7 @@ As chamadas de emergência são possíveis apenas em áreas com cobertura de cel
     <string name="wfc_disclaimer_emergency_limitation_title_text">Chamadas de emergência</string>
     <string name="wfc_disclaimer_location_desc_text">"Sua operadora pode coletar sua localização quando você usa este serviço para chamadas de emergência.
 
-Veja a política de privacidade da sua operadora para obter detalhes."</string>
+Veja a Política de Privacidade da sua operadora para obter detalhes."</string>
     <string name="wfc_disclaimer_location_title_text">Local</string>
     <string name="wfc_disclaimer_title_text">Informações importantes</string>
     <string name="wfd_available_devices">Dispositivos disponíveis</string>
@@ -12433,7 +12433,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Antigo</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Desconhecido</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Não limitada</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WiFi não se conecta automaticamente por agora</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi não se conecta automaticamente por agora</string>
     <string name="window_animation_scale_title">Escala de animação da janela</string>
     <string name="window_blurs">Permitir desfoques de nível de janela</string>
     <string name="winscope_trace_quick_settings_title">Rastreamento do Winscope</string>

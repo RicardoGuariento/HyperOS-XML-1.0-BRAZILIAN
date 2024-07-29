@@ -149,7 +149,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem telefone ou mídia) a %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectado (sem telefone ou mídia), %1$s%2$s de bateria</string>
     <string name="bluetooth_connected_no_map">Conectado (sem acesso a mensagens) a %1$s</string>
-    <string name="bluetooth_connecting">Conectando...</string>
+    <string name="bluetooth_connecting">Conectando…</string>
     <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
     <string name="bluetooth_disable_absolute_volume_summary">Desativa o recurso Bluetooth de volume absoluto em caso de problemas com o volume em dispositivos remotos, como volume excessivamente alto ou falta de controle</string>
     <string name="bluetooth_disconnected">Desconectado</string>
@@ -737,7 +737,7 @@ Taxa de amostra"</string>
     <string name="tts_reset_speech_pitch_title">Redefinir o tom de voz</string>
     <string name="tts_settings">Configurações da conversão de texto em voz</string>
     <string name="tts_settings_title">Conversão de texto em voz</string>
-    <string name="tts_status_checking">Verificando...</string>
+    <string name="tts_status_checking">Verificando…</string>
     <string name="tts_status_not_supported">%1$s não é suportado</string>
     <string name="tts_status_ok">%1$s é totalmente suportado</string>
     <string name="tts_status_requires_network">%1$s requer conexão de rede</string>

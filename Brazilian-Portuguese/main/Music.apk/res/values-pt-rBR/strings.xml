@@ -43,11 +43,11 @@
     <string name="accept_failure">Falha ao aceitar convite~</string>
     <string name="access_denied_info">Muitas tentativas. Aguarde um pouco e tente novamente.</string>
     <string name="account_and_cloud">Conta</string>
-    <string name="account_bind_secure_email_title">Adicionar email de recuperação</string>
+    <string name="account_bind_secure_email_title">Adicionar e-mail de recuperação</string>
     <string name="account_bind_secure_phone_title">Adicionar número de recuperação</string>
     <string name="account_blocked_by_user_tips">Você foi bloqueado pela outra parte e não pode realizar o seguinte comportamento</string>
     <string name="account_crop_user_avatar">Cortar foto</string>
-    <string name="account_empty_user_name">Digite o nome de usuário da sua conta Mi</string>
+    <string name="account_empty_user_name">Digite o nome de usuário da sua Conta Mi</string>
     <string name="account_error_all_space_user_name">"O nome de usuário não pode conter apenas caracteres de espaço"</string>
     <string name="account_error_invalid_user_name">"Nome não pode conter &lt;, >, ou /"</string>
     <string name="account_error_longer_user_name">"O nome não pode ter mais de 20 caracteres"</string>
@@ -57,9 +57,9 @@
     <string name="account_invalid_user_avatar">Esta foto é inválida. Experimente um diferente.</string>
     <string name="account_limit_update_birthday">"Não é possível atualizar a data de nascimento agora"</string>
     <string name="account_logout">Sair</string>
-    <string name="account_no_set">None</string>
-    <string name="account_none_bind_info">None</string>
-    <string name="account_none_user_name">None</string>
+    <string name="account_no_set">Nenhum</string>
+    <string name="account_none_bind_info">Nenhum</string>
+    <string name="account_none_user_name">Nenhum</string>
     <string name="account_secure_info_pref_title">Informações da conta</string>
     <string name="account_security_info_pref_title">Informações de segurança</string>
     <string name="account_user_avatar">Foto de perfil</string>
@@ -68,9 +68,9 @@
     <string name="account_user_base_info">Informações básicas</string>
     <string name="account_user_birthday">Aniversário</string>
     <string name="account_user_details">Informações pessoais</string>
-    <string name="account_user_email">Email de recuperação</string>
+    <string name="account_user_email">E-mail de recuperação</string>
     <string name="account_user_gender">Gênero</string>
-    <string name="account_user_id">ID da conta Mi</string>
+    <string name="account_user_id">ID da Conta Mi</string>
     <string name="account_user_name">Apelido</string>
     <string name="account_user_name_dialog_title">Insira o apelido</string>
     <string name="account_user_other_info">Detalhes</string>
@@ -673,7 +673,7 @@ Envie este código para o supervisor."</string>
     <string name="exo_download_notification_channel_name">"Downloads"</string>
     <string name="exo_download_paused">Downloads pausados</string>
     <string name="exo_download_paused_for_network">Downloads aguardando rede</string>
-    <string name="exo_download_paused_for_wifi">Downloads aguardando WiFi</string>
+    <string name="exo_download_paused_for_wifi">Downloads aguardando Wi-Fi</string>
     <string name="exo_download_removing">Removendo downloads</string>
     <string name="exo_media_action_repeat_all_description">Repetir tudo</string>
     <string name="exo_media_action_repeat_off_description">Não repetir</string>
@@ -1376,7 +1376,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_error_empty_password">Digite sua senha</string>
     <string name="passport_error_empty_pwd">"A senha não pode ficar vazia"</string>
     <string name="passport_error_empty_user_id">Digite seu nome de usuário</string>
-    <string name="passport_error_invalid_bind_address">O endereço de email inserido é inválido.</string>
+    <string name="passport_error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
     <string name="passport_error_length_limit">O texto que você digitou é muito longo</string>
     <string name="passport_error_network">"Não é possível conectar-se à rede"</string>
     <string name="passport_error_no_password_user">"Você ainda não definiu a senha. Faça login com SMS."</string>
@@ -1573,7 +1573,7 @@ Se você não aceitar em usar os serviços acima mencionados, você não poderá
 • Um reprodutor de áudio local
 • Serviços de streaming online"</string>
     <string name="privacy_request_subtitle_offline">Bem-vindo ao Música! Este app fornece um reprodutor local para arquivos de áudio.</string>
-    <string name="privacy_request_title">Termos e condições</string>
+    <string name="privacy_request_title">Termos e Condições</string>
     <string name="pro_member">Membro PRO</string>
     <string name="project_device">"Mi Phone"</string>
     <string name="prompt_grant_write_settings_permission">Permita a alteração das configurações de sistema</string>
