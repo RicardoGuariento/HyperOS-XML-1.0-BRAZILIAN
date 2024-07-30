@@ -323,7 +323,7 @@ Leia e concorde com a nova versão de %2$s antes de continuar."</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_detail_chart_view_max_temperature_text">Alta</string>
     <string name="hourly_forecast_detail_chart_view_min_temperature_text">Baixa</string>
-    <string name="hourly_forecast_detail_current_day_max_min_temperature_text">Alta %1$s° | Baixo %2$s°</string>
+    <string name="hourly_forecast_detail_current_day_max_min_temperature_text">Alta %1$s° | Baixa %2$s°</string>
     <string name="hourly_forecast_title_24_hours_desc">Previsão de 24 horas</string>
     <string name="hourly_forecast_title_hourly_desc">Previsão horária</string>
     <string name="incognito_mode_dialog_confirm_text">Desativar</string>
@@ -557,8 +557,8 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="search_weather_keywords">Temperatura;Previsão do tempo;Tempo;Qualidade do ar;Grau de poluição;Umidade</string>
     <string name="select_show_city">Selecione a localização</string>
     <string name="send">Enviar</string>
-    <string name="set_degree_centigrade">°C</string>
-    <string name="set_fahrenheit">°F</string>
+    <string name="set_degree_centigrade">℃</string>
+    <string name="set_fahrenheit">℉</string>
     <string name="setting_about_permission">Permissões</string>
     <string name="setting_allowed">Permitido</string>
     <string name="setting_confirm_to_revoke_permission_msg">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Clima. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Clima fornece os seus serviços com base na recolha das informações pessoais necessárias, a retirada do seu consentimento será considerada como uma recusa em aceitar os serviços do Clima. Retirar o consentimento?"</string>

@@ -412,7 +412,7 @@
     <string name="airplane_mode">Modo avião</string>
     <string name="alarm_template">às %1$s</string>
     <string name="alarm_template_far">%1$s</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e programe ações urgentes. Isso permite que o app seja executado em segundo plano, o que pode consumir mais bateria.
+    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e programe ações urgentes. Isso permite que o app seja executado em 2º plano, o que pode consumir mais bateria.
 
 Se esta permissão estiver desativada, alarmes existentes e eventos baseados em tempo programados por este app não funcionarão."</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
@@ -491,8 +491,8 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="battery_info_status_unknown">Desconhecido</string>
     <string name="battery_low_button_not_open_power_save">Agora não</string>
     <string name="battery_low_button_open_power_save">Ativar</string>
-    <string name="battery_low_description">Você ainda tem %s de bateria. A Economia de bateria ativa o Modo escuro, restringe atividades em segundo plano e atrasa notificações.</string>
-    <string name="battery_low_intro">A Economia de bateria ativa o Modo escuro, restringe atividades em segundo plano e atrasa notificações.</string>
+    <string name="battery_low_description">Você ainda tem %s de bateria. A Economia de bateria ativa o Modo escuro, restringe atividades em 2º plano e atrasa notificações.</string>
+    <string name="battery_low_intro">A Economia de bateria ativa o Modo escuro, restringe atividades em 2º plano e atrasa notificações.</string>
     <string name="battery_low_percent_format">%s restante</string>
     <string name="battery_low_percent_format_hybrid">%1$s restante, cerca de %2$s restantes com base no seu uso</string>
     <string name="battery_low_percent_format_hybrid_short">%1$s restante, cerca de %2$s restantes</string>
@@ -847,7 +847,7 @@ Toque para reajustar"</string>
     <string name="data_connection_no_internet">Sem internet</string>
     <string name="data_connection_roaming">"Roaming"</string>
     <string name="data_saver">Economia de dados</string>
-    <string name="data_saver_description">Para ajudar a reduzir o uso de dados, a Economia de dados impede que alguns apps enviem ou recebam dados em segundo plano. Um app que você estiver usando pode acessar os dados, mas com menos frequência. Isso significa, por exemplo, que imagens não aparecerão até que você toque nelas.</string>
+    <string name="data_saver_description">Para ajudar a reduzir o uso de dados, a Economia de dados impede que alguns apps enviem ou recebam dados em 2º plano. Um app que você estiver usando pode acessar os dados, mas com menos frequência. Isso significa, por exemplo, que imagens não aparecerão até que você toque nelas.</string>
     <string name="data_saver_enable_button">Ativar</string>
     <string name="data_saver_enable_title">Ativar a Economia de dados?</string>
     <string name="data_usage_disabled_dialog">"O limite de dados que você configurou foi atingido. Você não está mais usando dados móveis.
@@ -1356,7 +1356,7 @@ prioridades"</string>
     <string name="keyguard_charging_info_last_charged_time_text">Última carga</string>
     <string name="keyguard_charging_info_tip_text1">Mantenha o dispositivo com pelo menos 10% de carga para estender a vida útil da bateria.</string>
     <string name="keyguard_charging_info_tip_text2">Não carregue o dispositivo em excesso. Várias cargas curtas são melhores do que uma carga durante a noite toda.</string>
-    <string name="keyguard_charging_info_tip_text3">Evite carregar seu dispositivo quando a temperatura do ambiente for inferior a 0°C.</string>
+    <string name="keyguard_charging_info_tip_text3">Evite carregar seu dispositivo quando a temperatura ambiente for inferior a 0℃.</string>
     <string name="keyguard_charging_info_tip_text4">Não use seu dispositivo constantemente quando estiver carregando para evitar o superaquecimento.</string>
     <string name="keyguard_charging_info_tip_text5">Leva mais tempo para as baterias carregarem quando estão mais quentes que o normal.</string>
     <string name="keyguard_charging_info_tip_text6">Desligue a tela e deixe de usar o dispositivo para resfriá-lo.</string>

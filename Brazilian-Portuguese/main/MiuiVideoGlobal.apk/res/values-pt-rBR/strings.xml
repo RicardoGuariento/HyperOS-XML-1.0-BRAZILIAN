@@ -144,7 +144,7 @@
     <string name="cast_ad_label">Anúncio</string>
     <string name="cast_casting_to_device">Transmitindo para %1$s</string>
     <string name="cast_closed_captions">"Closed captions"</string>
-    <string name="cast_closed_captions_unavailable">Closed captions indisponíveis</string>
+    <string name="cast_closed_captions_unavailable">Closed captions indisponível</string>
     <string name="cast_connecting_to_device">Conectando a %1$s</string>
     <string name="cast_disconnect">Desconectar</string>
     <string name="cast_expanded_controller_ad_image_description">Imagem exibida enquanto o receptor estiver reproduzindo um anúncio</string>
@@ -200,7 +200,7 @@
     <string name="click_to_reload_more">Toque para carregar mais</string>
     <string name="click_to_retry">Tentar novamente</string>
     <string name="close">Fechar</string>
-    <string name="close_notify_panel_tips">O mini reprodutor será exibido na Área de notificações quando a reprodução em segundo plano estiver ativa</string>
+    <string name="close_notify_panel_tips">O mini reprodutor será exibido na Área de notificações quando a Reprodução em segundo plano estiver ativa</string>
     <string name="cloud_auto_pip_play_switch">Usar Picture-in-Picture automaticamente</string>
     <string name="cloud_online_player">Reprodutor</string>
     <string name="cloud_online_switch">Recomendações personalizadas</string>
@@ -754,7 +754,7 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="incentive_exchange_successful">Resgatado com sucesso</string>
     <string name="incentive_exchange_tip">Estes pontos só estão disponíveis hoje</string>
     <string name="incentive_login_for_claim">Faça o login em sua Conta Google para resgatar pontos</string>
-    <string name="incentive_login_success_for_already_claimd">Signed in successfully. Points claimed.</string>
+    <string name="incentive_login_success_for_already_claimd">Login realizado com sucesso. Pontos reivindicados.</string>
     <string name="incentive_login_tip">Faça login para ganhar pontos e receber recompensas</string>
     <string name="incentive_my_points">Meus pontos</string>
     <string name="incentive_offline">"Lamentamos informar que estamos descontinuando nosso recurso de tarefas. Você pode resgatar suas moedas existentes até 31 de julho de 2023."</string>
@@ -1289,7 +1289,7 @@ Usaremos essa permissão apenas para encontrar os vídeos que você procura e n�
     <string name="open_settings">Vá para as Configurações</string>
     <string name="order_recently_subscribe">Inscrições recentes</string>
     <string name="order_recently_updated">Atualizados recentemente</string>
-    <string name="out_of_memory_background_playback_is_suspended">Pausa na reprodução em segundo plano devido à memória insuficiente</string>
+    <string name="out_of_memory_background_playback_is_suspended">Pausa na reprodução em 2º plano devido à memória insuficiente</string>
     <string name="ovp_alert_dialog_download_install_task">Baixando o plugin HD…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Armazenando…</string>
     <string name="ovp_category">Categorias</string>

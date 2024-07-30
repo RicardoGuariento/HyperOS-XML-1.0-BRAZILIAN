@@ -346,8 +346,8 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="badPin">O PIN antigo digitado está incorreto.</string>
     <string name="badPuk">O PUK digitado está incorreto.</string>
     <string name="battery_saver_charged_notification_summary">O dispositivo tem carga suficiente. Recursos não mais restritos.</string>
-    <string name="battery_saver_description">"A Economia de bateria ativa o Tema escuro e limita ou desativa a atividade em segundo plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
-    <string name="battery_saver_description_with_learn_more">"A Economia de bateria ativa o Tema escuro e limita ou desativa a atividade em segundo plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
+    <string name="battery_saver_description">"A Economia de bateria ativa o Tema escuro e limita ou desativa a atividade em 2º plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
+    <string name="battery_saver_description_with_learn_more">"A Economia de bateria ativa o Tema escuro e limita ou desativa a atividade em 2º plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
     <string name="battery_saver_notification_channel_name">Economia de bateria</string>
     <string name="battery_saver_off_notification_title">\"Economia de bateria\" desativada</string>
     <string name="beforeOneMonthDurationPast">Antes de 1 mês atrás</string>
@@ -458,7 +458,7 @@ O volume do fone de ouvido ficou alto por mais tempo do que o recomendado, o que
 
 O volume do fone de ouvido está mais alto do que o recomendado, o que pode prejudicar sua audição."</string>
     <string name="cut">Recortar</string>
-    <string name="data_saver_description">Para ajudar a reduzir o uso de dados, a Economia de dados impede que alguns apps enviem ou recebam dados em segundo plano. Um app que você esteja usando no momento pode acessar dados, mas com menos frequência. Isso pode fazer com que imagens não sejam exibidas até que você toque nelas.</string>
+    <string name="data_saver_description">Para ajudar a reduzir o uso de dados, a Economia de dados impede que alguns apps enviem ou recebam dados em 2º plano. Um app que você esteja usando no momento pode acessar dados, mas com menos frequência. Isso pode fazer com que imagens não sejam exibidas até que você toque nelas.</string>
     <string name="data_saver_enable_button">Ativar</string>
     <string name="data_saver_enable_title">Ativar Economia de dados?</string>
     <string name="data_usage_limit_body">Uso de dados pausado pelo restante do seu ciclo</string>
@@ -1404,7 +1404,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_bluetooth_connect">Permite que o app se conecte a dispositivos Bluetooth pareados</string>
     <string name="permdesc_bluetooth_scan">Permite que o app descubra e pareie dispositivos Bluetooth próximos</string>
     <string name="permdesc_bodySensors">Permite que o app acesse os dados do sensor corporal, como frequência cardíaca, temperatura e porcentagem de oxigênio no sangue, enquanto o app está em uso.</string>
-    <string name="permdesc_bodySensors_background">Permite que o app acesse os dados do sensor corporal, como frequência cardíaca, temperatura e porcentagem de oxigênio no sangue, enquanto o app está em segundo plano.</string>
+    <string name="permdesc_bodySensors_background">Permite que o app acesse os dados do sensor corporal, como frequência cardíaca, temperatura e porcentagem de oxigênio no sangue, enquanto o app está em 2º plano.</string>
     <string name="permdesc_broadcastSticky">Permite que o app envie transmissões fixas, que permanecem depois que a transmissão termina. O uso excessivo pode deixar o dispositivo lento ou instável, fazendo com que ele use muita memória.</string>
     <string name="permdesc_callCompanionApp">Permite que o app veja e controle chamadas em andamento no dispositivo. Isso inclui informações como número e estado das chamadas.</string>
     <string name="permdesc_callPhone">Permite que o app ligue para números de dispositivo sem sua intervenção. Isso pode resultar em cobranças ou chamadas inesperadas. Esta opção não permite que o app ligue para números de emergência. Apps maliciosos podem gerar custos com chamadas feitas sem sua confirmação ou disque os códigos da operadora que fazem com que as chamadas recebidas sejam automaticamente encaminhadas para outro número.</string>
@@ -1449,7 +1449,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_imagesWrite">Permite que o app modifique sua coleção de fotos.</string>
     <string name="permdesc_install_shortcut">Permite que o app adicione atalhos da Tela inicial sem a intervenção do usuário.</string>
     <string name="permdesc_invokeCarrierSetup">Permite que o proprietário invoque o app de configuração fornecido pela operadora. Não deve ser necessário para apps comuns.</string>
-    <string name="permdesc_killBackgroundProcesses">Permite que o app encerre processos em segundo plano de outros apps. Pode ser que outros apps parem de funcionar.</string>
+    <string name="permdesc_killBackgroundProcesses">Permite que o app encerre processos em 2º plano de outros apps. Pode ser que outros apps parem de funcionar.</string>
     <string name="permdesc_manageFace">Permite que o app execute métodos para adicionar e excluir modelos de rosto para uso.</string>
     <string name="permdesc_manageFingerprint">Permite que o app execute métodos para adicionar e excluir modelos de impressão digital para uso.</string>
     <string name="permdesc_manageNetworkPolicy">Permite que o app gerencie políticas de rede e definia regras específicas para o app.</string>
@@ -1493,13 +1493,13 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_register_call_provider">Permite que o app registre novas conexões de telecomunicações.</string>
     <string name="permdesc_register_sim_subscription">Permite que o app registre novas conexões SIM de telecomunicações.</string>
     <string name="permdesc_removeDrmCertificates">Permite que o app remova certificados de DRM. Não deve ser necessário para apps comuns.</string>
-    <string name="permdesc_reorderTasks">Permite que o app mova tarefas para o primeiro e o segundo plano, sem sua intervenção.</string>
+    <string name="permdesc_reorderTasks">Permite que o app mova tarefas para o primeiro e o 2º plano, sem sua intervenção.</string>
     <string name="permdesc_requestDeletePackages">Permite que o app solicite a exclusão de pacotes.</string>
     <string name="permdesc_requestIgnoreBatteryOptimizations">Permite que o app peça permissão para ignorar as otimizações de bateria para esse app.</string>
     <string name="permdesc_requestInstallPackages">Permite que o app solicite a instalação de pacotes.</string>
     <string name="permdesc_requestPasswordComplexity">Permite que o app saiba o nível de complexidade do bloqueio de tela (alto, médio, baixo ou nenhum), que indica o intervalo possível de comprimento e o tipo de bloqueio de tela. O app também pode sugerir a atualização do bloqueio de tela até um certo nível, mas os usuários podem ignorar a sugestão. O bloqueio de tela não é armazenado em texto simples, então o app não tem acesso à senha exata.</string>
     <string name="permdesc_route_media_output">Permite que o app faça o roteamento de saída de mídia para outros dispositivos externos.</string>
-    <string name="permdesc_runInBackground">Este app pode ser executado em segundo plano, o que pode esgotar a bateria mais rapidamente.</string>
+    <string name="permdesc_runInBackground">Este app pode ser executado em 2º plano, o que pode esgotar a bateria mais rapidamente.</string>
     <string name="permdesc_schedule_exact_alarm">Este app pode agendar uma tarefa para acontecer em um horário desejado no futuro. Isso também significa que o app pode ser executado quando você não estiver usando o dispositivo ativamente.</string>
     <string name="permdesc_sdcardRead">Permite que o app leia o conteúdo do armaz. compartilhado.</string>
     <string name="permdesc_sdcardWrite">Permite que o app grave o conteúdo no armaz. compartilhado.</string>
@@ -1510,7 +1510,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_setWallpaper">Permite que o app defina o plano de fundo do sistema.</string>
     <string name="permdesc_setWallpaperHints">Permite que o app defina as dicas de tamanho do plano de fundo do sistema.</string>
     <string name="permdesc_sim_communication">Permite que o app envie comandos ao chip. Isso é muito perigoso.</string>
-    <string name="permdesc_startForegroundServicesFromBackground">Permite que um app complementar inicie serviços em primeiro plano em segundo plano.</string>
+    <string name="permdesc_startForegroundServicesFromBackground">Permite que um app complementar inicie serviços em primeiro plano em 2º plano.</string>
     <string name="permdesc_startReviewPermissionDecisions">Permite que o titular inicie a tela para revisar as decisões de permissão. Nunca deve ser necessário para apps normais.</string>
     <string name="permdesc_startViewAppFeatures">Permite que o titular comece a visualizar as informações de recursos de um app.</string>
     <string name="permdesc_startViewPermissionUsage">Permite que o sistema inicie o uso de permissão para um app. Não deve ser necessário para apps comuns.</string>
@@ -1524,7 +1524,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_uninstall_shortcut">Permite que o app remova atalhos da Tela inicial sem a intervenção do usuário.</string>
     <string name="permdesc_updatePackagesWithoutUserAction">Permite que o titular atualize o app instalado anteriormente sem ação do usuário</string>
     <string name="permdesc_useBiometric">Permite que o app use hardware de biometria para autenticação</string>
-    <string name="permdesc_useDataInBackground">Este app pode usar dados em segundo plano, o que pode aumentar o uso de dados.</string>
+    <string name="permdesc_useDataInBackground">Este app pode usar dados em 2º plano, o que pode aumentar o uso de dados.</string>
     <string name="permdesc_useFaceAuthentication">Permite que o app use o hardware de desbloqueio facial para autenticação</string>
     <string name="permdesc_useFingerprint">Permite que o app use hardware de impressão digital para autenticação.</string>
     <string name="permdesc_use_sip">Permite que o app faça e receba chamadas SIP.</string>
@@ -1608,8 +1608,8 @@ para a conta %s."</string>
     <string name="permlab_bluetooth_advertise">Anunciar para dispositivos Bluetooth próximos</string>
     <string name="permlab_bluetooth_connect">Conectar a dispositivos Bluetooth pareados</string>
     <string name="permlab_bluetooth_scan">Descobrir e parear dispositivos Bluetooth próximos</string>
-    <string name="permlab_bodySensors">Acesse dados do sensor corporal, como frequência cardíaca, durante o uso do app</string>
-    <string name="permlab_bodySensors_background">Acesse os dados do sensor corporal, como frequência cardíaca, enquanto estiver em segundo plano</string>
+    <string name="permlab_bodySensors">Acesse dados do sensor corporal, como frequência cardíaca, durante o uso do app.</string>
+    <string name="permlab_bodySensors_background">Acesse os dados do sensor corporal, como frequência cardíaca, enquanto estiver em 2º plano.</string>
     <string name="permlab_broadcastSticky">Enviar transmissão persistente</string>
     <string name="permlab_callCompanionApp">Ver e controlar chamadas através do sistema.</string>
     <string name="permlab_callPhone">Ligar diretamente para números de telefone</string>
@@ -1967,7 +1967,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="serviceEnabled">O serviço foi ativado.</string>
     <string name="serviceEnabledFor">O serviço foi ativado para:</string>
     <string name="serviceErased">Exclusão bem-sucedida.</string>
-    <string name="serviceNotProvisioned">O serviço não foi habilitado.</string>
+    <string name="serviceNotProvisioned">O serviço não foi ativado.</string>
     <string name="serviceRegistered">Registro bem-sucedido.</string>
     <string name="setup_autofill">Conf. preenchimento autom.</string>
     <string name="sha1_fingerprint">Impressão digital SHA-1</string>

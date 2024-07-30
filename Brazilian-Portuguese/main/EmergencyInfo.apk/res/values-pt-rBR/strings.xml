@@ -86,7 +86,7 @@
     <string name="adb_wireless_error">Erro</string>
     <string name="adb_wireless_ip_addr_preference_title">Endreço IP e porta</string>
     <string name="adb_wireless_list_empty_off">Para ver e usar dispositivos disponíveis, ative a depuração sem fio</string>
-    <string name="adb_wireless_no_network_msg">Por favor conecte-se a uma rede Wi-Fi</string>
+    <string name="adb_wireless_no_network_msg">Por favor, conecte-se a uma rede Wi-Fi.</string>
     <string name="adb_wireless_qrcode_pairing_description">Parear o dispositivo por Wi-Fi escaneando um código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Digitalizar código QR</string>
     <string name="adb_wireless_qrcode_summary">Parear o dispositivo por Wi-Fi escaneando um código QR</string>
@@ -102,7 +102,7 @@
     <string name="age">Idade: %1$d</string>
     <string name="alarm_template">em %1$s</string>
     <string name="alarm_template_far">em %1$s</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e agende ações sensíveis ao tempo. Isso permite que o app funcione em segundo plano, que pode usar mais bateria.
+    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e agende ações sensíveis ao tempo. Isso permite que o app funcione em 2º plano, que pode usar mais bateria.
 
 Se esta permissão estiver desligada, os alarmes existentes e eventos baseados em tempo agendados por este app não funcionarão."</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>

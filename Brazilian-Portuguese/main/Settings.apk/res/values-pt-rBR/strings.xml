@@ -1315,7 +1315,7 @@ Os backups são armazenados na MiCloud e podem ser acessados pela internet. Esse
     <string name="battery_info_status_unknown">Desconhecido</string>
     <string name="battery_info_technology_label">Tecnologia da bateria:</string>
     <string name="battery_info_temperature_label">Temperatura da bateria:</string>
-    <string name="battery_info_temperature_units">"°C"</string>
+    <string name="battery_info_temperature_units">"℃"</string>
     <string name="battery_info_uptime">Tempo desde a inicialização:</string>
     <string name="battery_info_voltage_label">Voltagem da bateria:</string>
     <string name="battery_info_voltage_units">"mV"</string>
@@ -2512,7 +2512,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="cellular_data_summary">Permitir uso de dados pela rede móvel</string>
     <string name="cellular_data_usage">Uso de dados móveis</string>
     <string name="cellular_network_title">Depuração de rede celular</string>
-    <string name="celsius_temperature_unit">Celsius (°C)</string>
+    <string name="celsius_temperature_unit">Celsius (℃)</string>
     <string name="cert_not_installed">Certificado não instalado</string>
     <string name="certificate_management_app">App de gerenciamento de certificados</string>
     <string name="certificate_management_app_description">Certificados verificarão quando você usar os apps e URLs abaixo</string>
@@ -4166,7 +4166,7 @@ Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais."</
     <string name="face_unlock_success_stay_screen_title">Ficar na Tela de bloqueio após desbloquear</string>
     <string name="face_unlock_title">É possível desbloquear seu dispositivo usando seu rosto. Por motivos de segurança, essa opção exige um bloqueio de tela alternativo.</string>
     <string name="factory_reset_summary">A formatação apagará todos os dados do armazenamento interno do seu dispositivo</string>
-    <string name="fahrenheit_temperature_unit">Fahrenheit (°F)</string>
+    <string name="fahrenheit_temperature_unit">Fahrenheit (℉)</string>
     <string name="failed_attempts_now_wiping_device">"Muitas tentativas incorretas. Os dados deste dispositivo serão excluídos."</string>
     <string name="failed_attempts_now_wiping_dialog_dismiss">Recusar</string>
     <string name="failed_attempts_now_wiping_profile">Muitas tentativas incorretas. Este perfil de trabalho e seus dados serão excluídos.</string>
@@ -5958,8 +5958,8 @@ Conecte pelo menos 4 pontos."</string>
     <string name="lockscreen_trivial_disabled_controls_summary">Para usar, primeiro ative \"Mostrar controles do dispositivo\"</string>
     <string name="login_account_dialog_message">Faça o login na sua Conta Mi e ative a sincronização com a nuvem.</string>
     <string name="login_account_dialog_title">Fazer login com a Conta Mi</string>
-    <string name="login_account_summary">Gerencie contas, serviços da nuvem, pagamentos e mais</string>
-    <string name="login_account_summary_temp">Gerencie contas, serviços da nuvem, e mais</string>
+    <string name="login_account_summary">Gerencie contas, serviços da nuvem, pagamentos e mais.</string>
+    <string name="login_account_summary_temp">Gerencie contas, serviços da nuvem, e mais.</string>
     <string name="login_action">Fazer login</string>
     <string name="long_background_tasks_footer_title">"Permitir que este app execute longas tarefas em segundo plano. Isso permite que o app execute tarefas que podem levar mais do que alguns minutos para serem concluídas, como downloads e uploads. Se essa permissão for negada, o sistema limitará o tempo que o app pode executar tais tarefas em segundo plano."</string>
     <string name="long_background_tasks_label">Tarefas longas em segundo plano</string>
@@ -6003,7 +6003,7 @@ Você está atualmente conectado às seguintes contas:
     <string name="main_clear_confirm_title">Apagar todos os dados?</string>
     <string name="main_clear_desc">Isso apagará todos os dados do seu telefone <b>armazenamento interno</b>", Incluindo:
 
-"<li>Sua conta do Google.</li>"
+"<li>Sua Conta do Google.</li>"
 "<li>Dados e configurações do sistema e do app</li>"
 "<li>Apps baixados.</li></string>
     <string name="main_clear_desc_also_erases_esim"><li>eSIMs</li></string>
@@ -7089,7 +7089,7 @@ Selecione seu sistema operacional:"</string>
     <string name="nfc_and_payment_settings_no_payment_installed_summary">Para usar, instale um app de pagamento</string>
     <string name="nfc_and_payment_settings_payment_off_nfc_off_summary">Indisponível porque o NFC está desativado</string>
     <string name="nfc_category_title">"NFC"</string>
-    <string name="nfc_default_payment_footer">Para fazer um pagamento usando um app de pagamento, coloque a parte de trás do seu dispositivo em um terminal de pagamento</string>
+    <string name="nfc_default_payment_footer">Para fazer um pagamento usando um app de pagamento, coloque a parte de trás do seu dispositivo em um terminal de pagamento.</string>
     <string name="nfc_default_payment_settings_title">App de pagamento padrão</string>
     <string name="nfc_default_payment_workapp_confirmation_message_1">o perfil de trabalho deve estar ativado.</string>
     <string name="nfc_default_payment_workapp_confirmation_message_2">você precisará inserir seu PIN, padrão ou senha de trabalho, se tiver um.</string>
@@ -7929,8 +7929,8 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="pre_install_app_weather">Clima</string>
     <string name="pre_install_application">Apps pré-instalados</string>
     <string name="pre_install_category_appname">Nome do app</string>
-    <string name="pre_install_category_question">problema comum</string>
-    <string name="pre_install_network_unavailable">Atualmente não conectado, por favor conecte primeiro</string>
+    <string name="pre_install_category_question">Problema comum</string>
+    <string name="pre_install_network_unavailable">Atualmente não conectado. Por favor, conecte primeiro.</string>
     <string name="pre_install_question_disable_summary">Para alguns apps do sistema, você pode desativar a extensão da peça do app nas configurações do app. Se você precisar restaurar essas extensões, poderá redo novamente nas configurações.</string>
     <string name="pre_install_question_disable_title">Como desativar recursos?</string>
     <string name="pre_install_question_query_summary">Você pode chegar às configurações - mais apps, selecione o app que deseja exibir, clique em "Detalhes de permissões de visualização" nas informações do app para visualizar as permissões necessárias necessárias. Você também pode pressionar o botão de menu na área de trabalho e, em seguida, insira rapidamente a página de informações do app e clique em Exibir detalhes de permissões. Você pode visualizar rapidamente todas as instalações de software e as informações de lista de permissões necessárias na página de inicialização de inicialização do usuário.</string>
@@ -8316,7 +8316,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="recommend_item_title">Acessórios</string>
     <string name="recommend_text_wakeup_xiaoai">Configurações</string>
     <string name="recommend_tip">Precisa de outras configurações?</string>
-    <string name="recommend_tip_wakeup_xiaoai">Para usar botões para interagir com a Mi IA é necessário desativar os gestos de tela cheia e ativar os botões de navegação</string>
+    <string name="recommend_tip_wakeup_xiaoai">Para usar botões para interagir com a Mi AI é necessário desativar os gestos de tela cheia e ativar os botões de navegação</string>
     <string name="recompute_size">Recalculando o tamanho…</string>
     <string name="reduce_bright_colors_about_title">Sobre o Ultra escuro</string>
     <string name="reduce_bright_colors_intensity_end_label">Mais brilhante</string>
@@ -11041,7 +11041,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_sound_effect_enable_title">Som ao desbloquear o dispositivo</string>
     <string name="unlock_type_category_title">Método de reconhecimento</string>
     <string name="unlogin_account_summary">Todos os serviços Mi em uma só conta.</string>
-    <string name="unlogin_account_title">Fazer login na Conta Mi</string>
+    <string name="unlogin_account_title">Faça login na Conta Mi</string>
     <string name="unmount_inform_text">O armazenamento USB será desconectado.</string>
     <string name="unmute_sound_title">Som ao desativar o Modo silencioso</string>
     <string name="unrestrict_max_aspect_ratio_title">Estes apps são otimizados para Tela cheia</string>
@@ -12494,7 +12494,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="xiaoai_global_shortcut">Geral</string>
     <string name="xiaoai_key_shortcut">Botões</string>
     <string name="xiaoai_other_shortcut">Outros métodos</string>
-    <string name="xiaoai_shortcut_settings_title">Ativar Mi IA utilizando botões e gestos</string>
+    <string name="xiaoai_shortcut_settings_title">Ativar Mi AI utilizando botões e gestos</string>
     <string name="xiaomi_account">Conta Mi</string>
     <string name="xiaomi_cloud_find_device">Encontrar dispositivo</string>
     <string name="xiaomi_cloud_service">"MiCloud"</string>
