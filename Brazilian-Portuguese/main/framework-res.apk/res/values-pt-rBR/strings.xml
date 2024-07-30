@@ -1493,7 +1493,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_register_call_provider">Permite que o app registre novas conexões de telecomunicações.</string>
     <string name="permdesc_register_sim_subscription">Permite que o app registre novas conexões SIM de telecomunicações.</string>
     <string name="permdesc_removeDrmCertificates">Permite que o app remova certificados de DRM. Não deve ser necessário para apps comuns.</string>
-    <string name="permdesc_reorderTasks">Permite que o app mova tarefas para o primeiro e o 2º plano, sem sua intervenção.</string>
+    <string name="permdesc_reorderTasks">Permite que o app mova tarefas para o primeiro e o segundo plano, sem sua intervenção.</string>
     <string name="permdesc_requestDeletePackages">Permite que o app solicite a exclusão de pacotes.</string>
     <string name="permdesc_requestIgnoreBatteryOptimizations">Permite que o app peça permissão para ignorar as otimizações de bateria para esse app.</string>
     <string name="permdesc_requestInstallPackages">Permite que o app solicite a instalação de pacotes.</string>
@@ -1510,7 +1510,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_setWallpaper">Permite que o app defina o plano de fundo do sistema.</string>
     <string name="permdesc_setWallpaperHints">Permite que o app defina as dicas de tamanho do plano de fundo do sistema.</string>
     <string name="permdesc_sim_communication">Permite que o app envie comandos ao chip. Isso é muito perigoso.</string>
-    <string name="permdesc_startForegroundServicesFromBackground">Permite que um app complementar inicie serviços em primeiro plano em 2º plano.</string>
+    <string name="permdesc_startForegroundServicesFromBackground">Permite que um app complementar inicie serviços em primeiro plano em segundo plano.</string>
     <string name="permdesc_startReviewPermissionDecisions">Permite que o titular inicie a tela para revisar as decisões de permissão. Nunca deve ser necessário para apps normais.</string>
     <string name="permdesc_startViewAppFeatures">Permite que o titular comece a visualizar as informações de recursos de um app.</string>
     <string name="permdesc_startViewPermissionUsage">Permite que o sistema inicie o uso de permissão para um app. Não deve ser necessário para apps comuns.</string>
