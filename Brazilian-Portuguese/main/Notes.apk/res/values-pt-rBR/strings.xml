@@ -230,7 +230,7 @@
     <string name="doodle_guide_dialog_confirm">"OK"</string>
     <string name="doodle_guide_dialog_skip">Pular</string>
     <string name="doodle_guide_dialog_title">Desenho</string>
-    <string name="doodle_guide_quick_shape_hint" formatted="false">Pressione e segure o desenho por %d-%d segundos para ajustar os traços automaticamente</string>
+    <string formatted="false" name="doodle_guide_quick_shape_hint">Pressione e segure o desenho por %d-%d segundos para ajustar os traços automaticamente</string>
     <string name="doodle_palette">Paleta de cores</string>
     <string name="doodle_save_progress_text">Salvando…</string>
     <string name="doodle_saving">Salvando…</string>

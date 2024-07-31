@@ -919,7 +919,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="weibo_login_btn_content_description">Faça login com o Weibo</string>
     <string name="weixin_login_btn_content_description">Faça login com o WeChat</string>
-    <string name="wifi_recommended_body" formatted="false">Usar sua conexão de dados móveis para baixar este arquivo (%s) poderá aumentar seu consumo de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente. Para aguardar uma conexão Wi-Fi para concluir o download deste arquivo, toque em %s.</string>
+    <string formatted="false" name="wifi_recommended_body">Usar sua conexão de dados móveis para baixar este arquivo (%s) poderá aumentar seu consumo de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente. Para aguardar uma conexão Wi-Fi para concluir o download deste arquivo, toque em %s.</string>
     <string name="wifi_recommended_title">Aviso sobre o uso de dados</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>

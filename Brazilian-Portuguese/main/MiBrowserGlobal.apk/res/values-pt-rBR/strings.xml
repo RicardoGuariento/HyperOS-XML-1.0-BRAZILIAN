@@ -1519,7 +1519,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="mw_miuichromium_error_page_btn_close">Fechar</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Recarregar</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Reportar problema</string>
-    <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Não foi possível conectar-se à rede devido ao sinal estar fraco ou uma configuração incorreta da rede. Verifique as suas %s1configurações de rede%s2 e tente novamente."</string>
+    <string formatted="false" name="mw_miuichromium_error_page_description_no_connection">"Não foi possível conectar-se à rede devido ao sinal estar fraco ou uma configuração incorreta da rede. Verifique as suas %s1configurações de rede%s2 e tente novamente."</string>
     <string name="mw_miuichromium_error_page_diagnose">Diagnósticos de rede</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Diagnósticos de rede</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"Não foi possível verificar o protocolo de rede"</string>
@@ -1574,9 +1574,9 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="mw_miuichromium_error_page_server_error">Muitos dispositivos estão tentando se conectar</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Verifique a configuração de apps de proxy instalados em seu dispositivo.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">Verifique sua conexão com a internet.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dados móveis) Redefina suas %s1configurações de APN%s2.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Dados móveis) Redefina suas %s1configurações de APN%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">"Verifique a URL inserida."</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verifique suas %s1configurações de proxy%s2.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Verifique suas %s1configurações de proxy%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Limpar cache.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Limpar cache e cookies (informação de conta será perdida).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Recarregue após se conectar à internet</string>
@@ -2429,7 +2429,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="sign_in_failed">Não foi possível fazer o login</string>
     <string name="sign_in_progress">Fazendo o login…</string>
     <string name="sign_in_title">Faça o login com sua Conta Mi</string>
-    <string name="sign_in_to" formatted="false">Fazer login em %s1 \"%s2\"</string>
+    <string formatted="false" name="sign_in_to">Fazer login em %s1 \"%s2\"</string>
     <string name="sign_message">http://%s precisa do seu nome de usuário e senha.</string>
     <string name="sign_out">Sair</string>
     <string name="simple_page_toast">Você pode mudar para o padrão em Configurações > Configurações da Página inicial</string>
@@ -2496,7 +2496,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="ssl_bad_clock_date_settings">Definir data</string>
     <string name="splash__access_dialog_agree">Concordar</string>
     <string name="splash__access_dialog_protect">Termos e Condições</string>
-    <string name="ssl_bad_clock_warning" formatted="false">"Uma conexão privada com %s1 não pode ser estabelecida porque a data e hora de seu dispositivo (%s2) estão incorretas."</string>
+    <string formatted="false" name="ssl_bad_clock_warning">"Uma conexão privada com %s1 não pode ser estabelecida porque a data e hora de seu dispositivo (%s2) estão incorretas."</string>
     <string name="ssl_bad_expired_warning">"Este canal é fornecido por %1$s. No entanto, a data e a hora definidas no seu dispositivo (%2$s) não permitem o estabelecimento de uma conexão segura com %1$s. Você pode definir a data e hora corretas ou tocar em \"Continuar\" se ainda quiser usar este canal."</string>
     <string name="ssl_bad_warning">"Este canal é fornecido por %1$s. No entanto, o Navegador Mi não pode verificar se este servidor pertence a %1$s porque o seu certificado é inválido ou foi revogado. Este problema pode ser causado por uma configuração incorreta ou uma conexão bloqueada. Toque em \"Continuar\" se você ainda deseja usar este canal."</string>
     <string name="ssl_certificate">Certificado de segurança</string>

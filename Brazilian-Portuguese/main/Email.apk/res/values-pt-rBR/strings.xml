@@ -1169,7 +1169,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="ntes_had_send">Mensagem enviada</string>
     <string name="ntes_had_send_to_content">Se você já enviou um SMS a partir do número de telefone associado, toque em \"Mensagem enviada\" para continuar.</string>
     <string name="ntes_login_auth_too_much">"Não é possível adicionar mais de 5 códigos de verificação. Faça login em sua caixa de entrada em um computador e exclua os códigos que você não está usando."</string>
-    <string name="ntes_login_error_message" formatted="false">"Não é possível obter informações da conta (Erro %s). %s."</string>
+    <string formatted="false" name="ntes_login_error_message">"Não é possível obter informações da conta (Erro %s). %s."</string>
     <string name="ntes_password_error_hint">"Caso ocorram erros ao inserir a senha, feche esta página e abra-a novamente."</string>
     <string name="ntes_phone_send">Enviar uma mensagem de texto a partir do número de telefone associado</string>
     <string name="ntes_send_to">Enviar para: %s</string>

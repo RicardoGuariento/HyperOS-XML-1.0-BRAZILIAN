@@ -147,9 +147,9 @@
     <string name="close_camera_failed">"Não foi possivel desligar a câmera…"</string>
     <string name="close_camera_requesting">Desativando câmera…</string>
     <string name="cloud_video_conference">Videoconferência na nuvem</string>
-    <string name="conference_call_description" formatted="false">%s, %s etc., total de %s</string>
+    <string formatted="false" name="conference_call_description">%s, %s etc., total de %s</string>
     <string name="conference_call_recorder_title">Chamada em conferência</string>
-    <string name="conference_call_single_description" formatted="false">%s etc., total de %s</string>
+    <string formatted="false" name="conference_call_single_description">%s etc., total de %s</string>
     <string name="conference_caller_info_name">"Chamada de conferência de %1$s"</string>
     <string name="conference_callers_exceeded">"Não é possível adicionar mais pessoas"</string>
     <string name="contacts_icon_label">Contatos</string>

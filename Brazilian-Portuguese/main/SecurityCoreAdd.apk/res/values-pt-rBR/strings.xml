@@ -159,7 +159,7 @@ para visualizá-las a qualquer momento"</string>
     <string name="create_work_space">Criar Espaço de trabalho</string>
     <string name="creating_app_icon">Criando ícone…</string>
     <string name="cta_declaration_agree_and_continue">Aceitar</string>
-    <string name="cta_declaration_message_format" formatted="false">Você precisa ler e aceitar nossa &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> antes de usar o Modo empresarial. Seu dispositivo precisa conectar-se à internet para ativar o Modo empresarial. Aceitar?</string>
+    <string formatted="false" name="cta_declaration_message_format">Você precisa ler e aceitar nossa &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> antes de usar o Modo empresarial. Seu dispositivo precisa conectar-se à internet para ativar o Modo empresarial. Aceitar?</string>
     <string name="cta_declaration_title">Termos e Condições</string>
     <string name="current_space">Espaço atual</string>
     <string name="custom_gesture_title">Gestos personalizados</string>
@@ -533,7 +533,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="long_press_menu_key">Pressionar e segurar o botão Menu</string>
     <string name="long_press_menu_key_when_lock">Pressionar e segurar o botão Menu na Tela de bloqueio</string>
     <string name="long_press_power_guide_know">Entendi</string>
-    <string name="long_press_power_guide_message" formatted="false">"Pressione e segure o botão [Liga/Desliga] por %s segundos para acionar o Google Assistente.
+    <string formatted="false" name="long_press_power_guide_message">"Pressione e segure o botão [Liga/Desliga] por %s segundos para acionar o Google Assistente.
 Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</string>
     <string name="long_press_power_guide_settings">Configurações</string>
     <string name="long_press_power_guide_title">Acordar com botão [Liga/Desliga]</string>

@@ -241,7 +241,7 @@ Toque duas vezes para começar."</string>
     <string name="pa_accessibility_picker_home_widget_replace">%s selecionado. Trocando widgets.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
 Toque duas vezes no botão abaixo dele para substituir por outro widget."</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Status da instalação: %3$s. O botão \"Alternar\" está abaixo. 
+    <string formatted="false" name="pa_accessibility_picker_home_widget_replace_card_content_desc_status">"%s. Status da instalação: %3$s. O botão \"Alternar\" está abaixo. 
 Pressione duas vezes para alternar."</string>
     <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, | Status da instalação: %3$s, 
 Toque duas vezes para ver os detalhes. 
@@ -271,8 +271,8 @@ Toque duas vezes para ver os detalhes."</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Editar</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Widget selecionado. Arraste para adicionar este item à Tela inicial.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Widget selecionado. Arraste para adicionar este item ao Assistente.</string>
-    <string name="pa_accessibility_picker_widget_group_all" formatted="false">Loja de widgets. Selecione para visualizar todos os widgets para %s. Toque duas vezes para ver todos os widgets para %s.</string>
-    <string name="pa_accessibility_picker_widget_group_item" formatted="false">Loja de widgets. %s Selecionado. Toque duas vezes para abrir a descrição do widget. O item contém %s widget.</string>
+    <string formatted="false" name="pa_accessibility_picker_widget_group_all">Loja de widgets. Selecione para visualizar todos os widgets para %s. Toque duas vezes para ver todos os widgets para %s.</string>
+    <string formatted="false" name="pa_accessibility_picker_widget_group_item">Loja de widgets. %s Selecionado. Toque duas vezes para abrir a descrição do widget. O item contém %s widget.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
@@ -656,7 +656,7 @@ Adicione widgets para começar."</string>
     <string name="pa_setting_privacy_policy_update_agree">Aceitar</string>
     <string name="pa_setting_privacy_policy_update_exit">Saída</string>
     <string name="pa_setting_privacy_policy_update_link">Política de Privacidade</string>
-    <string name="pa_setting_privacy_policy_update_message" formatted="false">"A Política de Privacidade do Assistente foi atualizada:
+    <string formatted="false" name="pa_setting_privacy_policy_update_message">"A Política de Privacidade do Assistente foi atualizada:
 %s Leia e concorde com a nova versão do %s antes de continuar."</string>
     <string name="pa_setting_privacy_policy_update_title">Política de Privacidade atualizada</string>
     <string name="pa_setting_privacy_revoke_cta">Retirada de consentimento</string>

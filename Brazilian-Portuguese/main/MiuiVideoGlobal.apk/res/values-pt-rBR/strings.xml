@@ -612,7 +612,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="galleryplus_network_error">Não foi possível conectar-se à rede</string>
     <string name="galleryplus_network_not_wifi">Usar os dados móveis para o streaming de vídeos pode gerar tarifas adicionais com a operadora</string>
     <string name="galleryplus_next_step">Próximo</string>
-    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gerencie arquivos %$s Adicione legendas %$s Transmita vídeos %$s</string>
+    <string formatted="false" name="galleryplus_notification_linkvideo_subtitle1">Gerencie arquivos %$s Adicione legendas %$s Transmita vídeos %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle1_new">Use o Picture-in-Picture, reprodução em segundo plano, zoom, transmissão e mais %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Proteja seus vídeos privados com uma senha %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2_new">Proteja vídeos privados com senha e gerencie seus arquivos %$s</string>
@@ -1832,8 +1832,8 @@ Aumentar a segurança da sua conta."</string>
     <string name="source">"Fonte: "</string>
     <string name="special_type_8k">IA 8K</string>
     <string name="special_type_log">"LOG"</string>
-    <string name="srl_component_falsify" formatted="false">"%s falsifica a área,
- Representa a altura [%.1fdp] de arrasto em tempo de execução,
+    <string formatted="false" name="srl_component_falsify">"%s falsifica a área,
+ Representa a altura [%.1fdp] de arrastar em tempo de execução.
  Não mostra nada."</string>
     <string name="srl_content_empty">A visualização do conteúdo em SmartRefreshLayout está vazia. Você se esqueceu de adicioná-lo no arquivo de layout xml?</string>
     <string name="srl_footer_failed">Erro de carregamento</string>
@@ -1988,7 +1988,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="tip_pop">&lt;Data>Conteúdos do Moments são fornecidos por Firework. Para melhorar sua experiência de visualização e receber mais recomendações de conteúdos relevantes, permita que o Firework colete, processe e use suas informações pessoais de acordo com a sua Política de Privacidade. Leia e aceite a &lt;a href=\"%1$s\">Política de Privacidade do Firework&lt;/a> antes de usar os seus serviços.&lt;/Data></string>
     <string name="tip_playlist_guide_hint_a">Veja vídeos de suas playlists do Google</string>
     <string name="tip_playlist_guide_hint_b">Reproduza vídeos de suas playlists do Google sem anúncios</string>
-    <string name="tip_storage_used_space" formatted="false">Usados %.2f GB/%.2f GB</string>
+    <string formatted="false" name="tip_storage_used_space">Usados %.2f GB/%.2f GB</string>
     <string name="tip_subscribe_guide_hint_a">Ver criadores de suas inscrições do Google</string>
     <string name="tip_subscribe_guide_hint_b">Assista a atualizações de canais do YouTube que você está inscrito sem anúncios</string>
     <string name="tip_tap_download_button">%d. Toque em \"Baixar\"</string>
@@ -1999,7 +1999,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="title_download_setting">Configurações de download</string>
     <string name="title_firework_recommend">Recomendações do Firework</string>
     <string name="title_history">Histórico</string>
-    <string name="title_mangotv_history_sub" formatted="false">%s (Episódio: %d)</string>
+    <string formatted="false" name="title_mangotv_history_sub">%s (Episódio: %d)</string>
     <string name="title_mangotv_subtitle_language">Idioma da legenda</string>
     <string name="title_publisher">Criadores</string>
     <string name="title_select_directory">Selecionar pasta</string>

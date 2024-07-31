@@ -33,7 +33,7 @@
     <string name="allowed">Permitido</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_format">%.1fm</string>
-    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
+    <string formatted="false" name="altitude_longitude_Degree_format">"%d°%d'%d\""</string>
     <string name="altitude_title">Altitude</string>
     <string name="altitude_uncalibrate_cancel">Cancelar</string>
     <string name="altitude_uncalibrate_msg">"Não é possível calibrar a altitude com precisão sem o GPS ou uma conexão de dados móveis."</string>

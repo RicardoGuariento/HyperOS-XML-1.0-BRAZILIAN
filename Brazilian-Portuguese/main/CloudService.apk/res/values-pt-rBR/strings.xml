@@ -747,7 +747,7 @@ Esta função criptografa e envia o ID do seu dispositivo para os servidores da 
     <string name="permission_status_allow">Permitido</string>
     <string name="permission_status_deny">Não permitido</string>
     <string name="permission_status_loading">Acessando o status do dispositivo…</string>
-    <string name="phone_guarantee_service_description" formatted="false">A proteção contra danos à tela e acidentes pode ser adquirida em %d dias após a ativação. A garantia estendida pode ser adquirida em %d dias após a ativação.</string>
+    <string formatted="false" name="phone_guarantee_service_description">A proteção contra danos à tela e acidentes pode ser adquirida em %d dias após a ativação. A garantia estendida pode ser adquirida em %d dias após a ativação.</string>
     <string name="phone_number_required_dspt_provision">"Este serviço requer o número do seu telefone. "</string>
     <string name="phone_guarantee_service_name">Garantia do dispositivo</string>
     <string name="picker_list_empty">Nenhum contato aqui</string>

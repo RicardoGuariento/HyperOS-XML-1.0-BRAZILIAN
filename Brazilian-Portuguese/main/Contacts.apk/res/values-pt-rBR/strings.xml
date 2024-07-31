@@ -1495,9 +1495,9 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="t9_search_empty_send_sms">Enviar mensagem</string>
     <string name="t9_search_empty_video_call">Videochamada</string>
     <string name="t9_search_guide_pinyin_title1">Insira números para encontrar contatos</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Digite %d e %d para pesquisar por \"Debbie Smith\"</string>
+    <string formatted="false" name="t9_search_guide_pinyin_title2">Digite %d e %d para pesquisar por \"Debbie Smith\"</string>
     <string name="t9_search_guide_zhuyin_title1">Insira números para encontrar contatos</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Digite %d e %d para pesquisar por \"Jeff Max\"</string>
+    <string formatted="false" name="t9_search_guide_zhuyin_title2">Digite %d e %d para pesquisar por \"Jeff Max\"</string>
     <string name="take_new_photo">Tirar uma nova foto</string>
     <string name="take_photo">Tirar foto</string>
     <string name="text_msim_balance">Usado hoje</string>

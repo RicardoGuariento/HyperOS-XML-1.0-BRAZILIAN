@@ -287,12 +287,12 @@ não são geradas no Segundo espaço"</string>
     <string name="focus_mode_timer_add_limit">Você pode adicionar até %d timers personalizados</string>
     <string name="focus_mode_timer_delete">Excluir</string>
     <string name="focus_mode_timer_exist">Essa sessão já existe</string>
-    <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minutos</string>
+    <string formatted="false" name="focus_mode_timer_pick_dialog_summary">%d a %d minutos</string>
     <string name="focus_mode_timer_pick_dialog_title">Insira a duração</string>
     <string name="focus_time_exception_tip">Parece que a hora do sistema foi alterada. Modo foco desativado.</string>
     <string name="follow_apps_settings">Com base nas configurações do app</string>
     <string name="follow_sim1">Aplicar configurações do SIM 1</string>
-    <string name="footer_max_fps" formatted="false">"
+    <string formatted="false" name="footer_max_fps">"
 %d. A taxa de atualização pode ser ajustada para até %s Hz para apps e jogos compatíveis."</string>
     <string name="force_rest">Usar intervalos de sessão</string>
     <string name="force_rest_summary">Faça pausas obrigatórias quando as sessões atingirem o limite definido</string>
@@ -865,7 +865,7 @@ para hoje"</string>
     <string name="usage_app_limit_reach_summay">%s restante(s)</string>
     <string name="usage_app_limit_reach_summay_new">Toque para adicionar %d min</string>
     <string name="usage_app_limit_reach_title">%s está atingindo seu limite de tela</string>
-    <string name="usage_app_limit_reach_title_new" formatted="false">Tempo de tela restante para %1s: %2s</string>
+    <string formatted="false" name="usage_app_limit_reach_title_new">Tempo de tela restante para %1s: %2s</string>
     <string name="usage_app_limit_summary">"Os apps selecionados não estarão disponíveis quando o limite for atingido"</string>
     <string name="usage_app_limit_title">Limitar tempo de tela</string>
     <string name="usage_app_other_settings">Configurações adicionais</string>
@@ -926,7 +926,7 @@ Para funcionar normalmente, este app precisa coletar informações de tempo de t
 Este app também precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:"</string>
     <string name="usage_home_premission_second_summary">Para funcionar normalmente, este app precisa coletar suas informações pessoais. Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">"Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Caso não concorde em conceder tais permissões ou compartilhar e fazer o upload das suas informações pessoais, você não poderá usar este app. Você pode revogar sua autorização em Tempo de tela > Configurações > Desativar Tempo de tela."</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Antes de usar este app, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>."</Data></string>
+    <string formatted="false" name="usage_home_premission_second_summary_double_link_suffix"><Data>"Antes de usar este app, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>."</Data></string>
     <string name="usage_home_premission_second_summary_new">Nós protegeremos suas informações pessoais de acordo com leis, regulamentos e políticas de privacidade relevantes. Se você não concorda em conceder tais permissões ou compartilhar e fazer o upload de suas informações pessoais, você não poderá usar este app. Você pode revogar sua autorização em Tempo de tela > Configurações > Desativar Tempo de tela. Caso tenha outras dúvidas sobre privacidade, você pode entrar em contato conosco em privacy@xiaomi.com.</string>
     <string name="usage_new_category_limit_summary">Definir limites de uso diário para todos os apps desta categoria</string>
     <string name="usage_new_category_limit_title">Restringir o uso para esta categoria</string>
@@ -974,7 +974,7 @@ Este app também precisa de uma conexão com a internet e requer as seguintes pe
     <string name="usage_optional_title">Permissões opcionais</string>
     <string name="usage_permisison_agree_desc_o">Para fornecer as estatísticas de Tempo de tela para você, este app precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista dos seus apps juntamente com a duração do seu uso.</string>
     <string name="usage_permisison_agree_desc_p">Para fornecer estatísticas de Tempo de tela e do Modo foco para você, este app precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista de apps juntamente com a duração do seu uso, o número de vezes que a sua tela é ligada, e as configurações do Modo foco.</string>
-    <string name="usage_permission_double_link" formatted="false"><Data>"Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>."</Data></string>
+    <string formatted="false" name="usage_permission_double_link"><Data>"Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>."</Data></string>
     <string name="usage_permission_main_desc">"Bem-vindo ao Tempo de tela!
 Este app precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:"</string>
     <string name="usage_permission_title">Atenção!</string>

@@ -8441,9 +8441,9 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="resetting_second_space_passwd">Redefinindo a senha do Segundo espaço</string>
     <string name="resident_timezone_summary">Relógio secundário</string>
     <string name="resolution_fhd">"FHD+"</string>
-    <string name="resolution_fhd_summary" formatted="false" >%d×%d (economiza bateria)</string>
+    <string formatted="false" name="resolution_fhd_summary" >%d×%d (economiza bateria)</string>
     <string name="resolution_qhd">"WQHD+"</string>
-    <string name="resolution_qhd_summary" formatted="false" >%d×%d (maior nitidez)</string>
+    <string formatted="false" name="resolution_qhd_summary" >%d×%d (maior nitidez)</string>
     <string name="resolution_sub_title">O sistema pode encerrar os apps em execução em segundo plano enquanto muda de resolução</string>
     <string name="resolver_settings_label">Ordenar</string>
     <string name="restore_default_apn">Restaurando as configurações APN padrão.</string>
@@ -10758,7 +10758,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="today">Hoje</string>
     <string name="tof_gesture_cue_tone_summary">Reproduza um som de confirmação sempre que sua palma for detectada</string>
     <string name="tof_gesture_cue_tone_title">Reproduzir som de confirmação</string>
-    <string name="tofgesture_description_summary" formatted="false">Quando o dispositivo estiver no modo paisagem, mantenha sua mão %d a %d cm afastada da câmera e faça gestos depois que o ícone de mão aparecer na parte superior da tela.</string>
+    <string formatted="false" name="tofgesture_description_summary">Quando o dispositivo estiver no modo paisagem, mantenha sua mão %d a %d cm afastada da câmera e faça gestos depois que o ícone de mão aparecer na parte superior da tela.</string>
     <string name="tofgesture_enable_title">Gestos sem contato (Beta)</string>
     <string name="tofgesture_settings">Gestos sem contato (Beta)</string>
     <string name="toggle_auto_speaker_preference_summary">O dispositivo irá alternar para o alto-falante quando o distanciar do ouvido durante as chamadas. Este recurso só funciona com o TalkBack ativado.</string>

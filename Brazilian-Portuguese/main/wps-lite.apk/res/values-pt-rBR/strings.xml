@@ -295,7 +295,7 @@
     <string name="public_search_hint">Por favor, insira o que você está procurando</string>
     <string name="public_searchnotfound">Nenhum resultado</string>
     <string name="public_secre_dialog_content_1">Para lhe fornecer nossos serviços e melhorar os nossos produtos, precisamos de permissão para acessar o armazenamento e para coletar as informações que descrevem como você usa nossos recursos.</string>
-    <string name="public_secre_dialog_content_2" formatted="false">&lt;Data>Nós protegeremos suas informações pessoais de acordo com o nosso &lt;a href=\"%s\">Contrato do Usuário&lt;/a > e a &lt;a href=\"%s\">Política de Privacidade&lt;/a >.&lt;/Data></string>
+    <string formatted="false" name="public_secre_dialog_content_2">&lt;Data>Nós protegeremos suas informações pessoais de acordo com o nosso &lt;a href=\"%s\">Contrato do Usuário&lt;/a > e a &lt;a href=\"%s\">Política de Privacidade&lt;/a >.&lt;/Data></string>
     <string name="public_secre_dialog_exit">Sair</string>
     <string name="public_secre_dialog_positive">Aceitar</string>
     <string name="public_secre_dialog_tips_agree">Caso aceite os termos e condições do nosso Contrato do Usuário e a Política de Privacidade, toque em \"Aceitar\" para começar a usar nossos serviços.</string>
@@ -385,12 +385,12 @@
     <string name="writer_page_break">Quebra de página</string>
     <string name="writer_page_setting_units"> cm</string>
     <string name="writer_page_setting_units_inch">polegada</string>
-    <string name="writer_paragraph_set_firstlineindent" formatted="false">Recuo da primeira linha: %.2f%2$s</string>
-    <string name="writer_paragraph_set_hangingindent" formatted="false">Recuo deslocado: %.2f%2$s</string>
-    <string name="writer_paragraph_set_leftindent" formatted="false">Recuo à esquerda: %.2f%2$s</string>
-    <string name="writer_paragraph_set_rightindent" formatted="false">Recuo à direita: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spaceafter" formatted="false">Espaço depois da linha: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spacebefore" formatted="false">Espaço antes da linha: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_firstlineindent">Recuo da primeira linha: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_hangingindent">Recuo deslocado: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_leftindent">Recuo à esquerda: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_rightindent">Recuo à direita: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spaceafter">Espaço depois da linha: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spacebefore">Espaço antes da linha: %.2f%2$s</string>
     <string name="writer_read_mode">Modo de visualização</string>
     <string name="writer_revision_edit_nottrack">"Esta operação não será marcada como uma revisão. Continuar mesmo assim?"</string>
     <string name="writer_revision_unsupportedRevisionSubDocument">"Não é possível editar esta revisão no momento"</string>

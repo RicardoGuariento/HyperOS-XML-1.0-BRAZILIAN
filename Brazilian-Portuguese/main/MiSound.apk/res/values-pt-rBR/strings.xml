@@ -397,7 +397,7 @@
     <string name="music_sound_num">Predef. personalizada %s</string>
     <string name="music_sound_sample">Predefinições do sistema</string>
     <string name="music_sure_to_delete_sound_msg">Excluir as predefinições selecionadas?</string>
-    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d anos de idade</string>
+    <string formatted="false" name="music_thirty_to_sixty_years">%d-%d anos de idade</string>
     <string name="music_title_dolby_control">"Dolby Digital Plus"</string>
     <string name="music_unsupport_effect_summary">"Fones de ouvido USB não são suportados"</string>
     <string name="music_upper_sixty_years">Mais de %d anos de idade</string>

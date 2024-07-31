@@ -1482,7 +1482,7 @@ os dados de sono"</string>
     <string name="sport_outdoor_running">Corrida</string>
     <string name="sport_pace_chart_last_km">Menos de 1 km</string>
     <string name="sport_pace_step_unit">SPM</string>
-    <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
+    <string formatted="false" name="sport_pace_time_format">"%d'%d\""</string>
     <string name="sport_pref_category_voice">Áudio</string>
     <string name="sport_pref_gps_voice_title">Comandos de voz do sinal GPS</string>
     <string name="sport_pref_voice_assist_summary">Ouça informações e sugestões durante os treinos</string>
@@ -1689,7 +1689,7 @@ os dados de sono"</string>
     <string name="tb_mens_unmark_success">Cancelado com sucesso</string>
     <string name="tb_month_dialog_go_today">Selecionado hoje</string>
     <string name="tb_month_dialog_select_date">Selecionado %1$s</string>
-    <string name="tb_month_dialog_select_date_with_snore" formatted="false">Selecionado %1$s, %s</string>
+    <string formatted="false" name="tb_month_dialog_select_date_with_snore">Selecionado %1$s, %s</string>
     <string name="tb_multiple_selecte_all">Selecionar todos</string>
     <string name="tb_not_add_list">Não adicionado</string>
     <string name="tb_pause_detection">Pausa</string>
@@ -1723,7 +1723,7 @@ os dados de sono"</string>
     <string name="tb_stand_day_ring">Hoje, %1$s foi acumulado para completar o tempo de ficar em pé, a meta é ficar em pé por 12 horas</string>
     <string name="tb_stand_wm_column_chart">%1$s-%2$s estatísticas do tempo de ficar em pé, arraste para a esquerda e direita para alterar o intervalo de tempo, clique na coluna para ver os detalhes</string>
     <string name="tb_stand_wm_column_click">%1$s，ficou em pé %2$d，%3$s</string>
-    <string name="tb_step_widget" formatted="false">Hoje. %1$s. Progresso: %2$d%</string>
+    <string formatted="false" name="tb_step_widget">Hoje. %1$s. Progresso: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Desmarcar todos</string>
     <string name="tb_user_account_signed">Conta Mi: %1$s.</string>
     <string name="tb_user_account_unsigned">Toque para entrar com a Conta Mi</string>

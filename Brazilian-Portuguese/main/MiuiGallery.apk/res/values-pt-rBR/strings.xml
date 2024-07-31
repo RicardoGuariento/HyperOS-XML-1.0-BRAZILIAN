@@ -131,7 +131,7 @@ Tente criar a imagem IA com fotos diferentes."</string>
     <string name="ai_create_image_fail_by_net">"Não foi possível criar a imagem IA. Nossos servidores estão muito ocupados agora. Tente novamente."</string>
     <string name="ai_create_image_photo_tip">As fotos serão excluídas de nossos servidores após a criação da imagem IA</string>
     <string name="ai_create_image_tip">As fotos serão excluídas de nossos servidores após a criação da imagem IA</string>
-    <string name="ai_create_remain_time" formatted="false">Tempo de espera: %1s %2s</string>
+    <string formatted="false" name="ai_create_remain_time">Tempo de espera: %1s %2s</string>
     <string name="ai_creating_image_tip">"Você receberá uma notificação quando sua imagem estiver pronta"</string>
     <string name="ai_creating_image_title">Criando imagem IA…</string>
     <string name="ai_creation_button">Criar retrato</string>
@@ -226,9 +226,9 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_recreate_image_dialog_msg">Você pode continuar enviando fotos ou selecionar novas.</string>
     <string name="ai_recreate_image_dialog_title">"As fotos de %s não foram enviadas"</string>
     <string name="ai_refuse_update_toast">Selecione novas fotos para poder atualizar esta imagem AI</string>
-    <string name="ai_select_people_sub_title" formatted="false">%1d–%2d melhores fotos serão selecionadas automaticamente</string>
+    <string formatted="false" name="ai_select_people_sub_title">%1d–%2d melhores fotos serão selecionadas automaticamente</string>
     <string name="ai_select_people_title">Selecione uma pessoa para criar sua imagem IA</string>
-    <string name="ai_select_photo_complete_description" formatted="false">"Selecione %1d–%2d fotos de rosto ou meio corpo.
+    <string formatted="false" name="ai_select_photo_complete_description">"Selecione %1d–%2d fotos de rosto ou meio corpo.
 As melhores fotos foram selecionadas automaticamente. Você pode adicionar mais fotos manualmente."</string>
     <string name="ai_select_photo_complete_toast">Melhores fotos filtradas automaticamente</string>
     <string name="ai_select_photo_count">Fotos selecionadas (%d)</string>
@@ -537,7 +537,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="btn_cancel_send">Cancelar esta transferência</string>
     <string name="btn_exit_send">Sair</string>
     <string name="btn_sure">Entendi</string>
-    <string name="burst_image_download_item_title" formatted="false">Baixar original (%s|%s)</string>
+    <string formatted="false" name="burst_image_download_item_title">Baixar original (%s|%s)</string>
     <string name="burst_photo_enter">Disparo</string>
     <string name="burst_photo_preview_thumbnail_content_description">Foto %d</string>
     <string name="burst_preview_title">Disparo contínuo</string>
@@ -3083,7 +3083,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="slim_dialog_empty_message">"Não foi possível encontrar itens para otimizar."</string>
     <string name="slim_dialog_empty_positive">Entendi</string>
     <string name="slim_dialog_empty_title">Atenção!</string>
-    <string name="slim_dialog_message" formatted="false">"Substitua fotos e vídeos originais por cópias de alta qualidade em %d dias após os itens serem criados. Os arquivos originais serão armazenados na nuvem. Você poderá liberar cerca de %s de armazenamento local."</string>
+    <string formatted="false" name="slim_dialog_message">"Substitua fotos e vídeos originais por cópias de alta qualidade em %d dias após os itens serem criados. Os arquivos originais serão armazenados na nuvem. Você poderá liberar cerca de %s de armazenamento local."</string>
     <string name="slim_dialog_positive">Otimize</string>
     <string name="slim_dialog_title">Otimize o armazenamento</string>
     <string name="slim_exit_dialog_positive">Parar</string>

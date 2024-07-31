@@ -417,7 +417,7 @@ Depois de optar por limpar permanentemente todos os dados, você será desconect
     <string name="columbus_reward_style_speed_confirm">Continuar</string>
     <string name="columbus_skip_ad">Pular</string>
     <string name="columbus_skip_ad_time">Pular (%d)</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
+    <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
     <string name="common_google_play_services_enable_text">"%1$s só funciona com o Google Play Services ativado."</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
@@ -1783,7 +1783,7 @@ Seja feliz"</string>
     <string name="sort_by_name">Nome</string>
     <string name="sort_by_time">Data</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Experimente usar o transição entre a reprodução das músicas</string>
-    <string name="srl_component_falsify" formatted="false">"%s falsifica área.
+    <string formatted="false" name="srl_component_falsify">"%s falsifica área.
  Representa a altura [%.1fdp] de arrastar em tempo de execução.
  Não mostra nada."</string>
     <string name="srl_content_empty">A visualização de conteúdo em SmartRefreshLayout está vazia. Você esqueceu de adicioná-lo no arquivo de layout xml?</string>
@@ -2147,10 +2147,9 @@ Seja feliz"</string>
     <string name="whitelist_entrance_desc">"Adicione manualmente arquivos que o Música não localiza automaticamente"</string>
     <string name="whitelist_entrance_text_1">"Não consigo encontrar uma música? "</string>
     <string name="whitelist_title">Exceções de arquivo</string>
-    <string name="wifi_required_body" formatted="false">"Conecte-se ao Wi-fi para completar este download de %s.
+    <string formatted="false" name="wifi_required_body">"Conecte-se ao Wi-fi para completar este download de %s.
 
 Toque em %s para iniciar este download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
-
     <string name="wifi_required_title">Você deve se conectar a uma rede Wi-Fi para baixar este arquivo</string>
     <string name="yesterday">Ontem</string>
     <string name="you_can_switch_mode_in_settings">Você pode alternar entre os modos nas Configurações</string>
