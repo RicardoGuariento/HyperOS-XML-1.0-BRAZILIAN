@@ -23,15 +23,15 @@
         <item quantity="one">em 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
+        <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="birthday_format">
-        <item quantity="other">(%1$d anos)</item>
-        <item quantity="one">(%1$d ano)</item>
+        <item quantity="other">" (%1$d anos)"</item>
+        <item quantity="one">" (%1$d ano)"</item>
     </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d vezes</item>
@@ -189,8 +189,8 @@
         <item quantity="one">Meta: %1$d hora</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
-        <item quantity="other">As configurações atuais não te garante %1$d horas de sono diário. Você precisa mais que isso.</item>
-        <item quantity="one">As configurações atuais não te garante %1$d hora de sono diário. Você precisa mais que isso.</item>
+        <item quantity="other">"As configurações atuais não te garante %1$d horas de sono diário. Você precisa mais que isso."</item>
+        <item quantity="one">"As configurações atuais não te garante %1$d hora de sono diário. Você precisa mais que isso."</item>
     </plurals>
     <plurals name="sport_tts_goal_consume">
         <item quantity="other">Mais %s calorias para queimar para você atingir sua meta</item>
@@ -269,8 +269,8 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Você não registra seu período há %1$d dias. Registre para obter previsões mais precisas.</item>
-        <item quantity="one">Você não registra seu período há %1$d dia. Registre para obter previsões mais precisas.</item>
+        <item quantity="other">"Você não registra seu período há %1$d dias. Registre para obter previsões mais precisas."</item>
+        <item quantity="one">"Você não registra seu período há %1$d dia. Registre para obter previsões mais precisas."</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
         <item quantity="other">Este período dura um total de %1$d dias</item>

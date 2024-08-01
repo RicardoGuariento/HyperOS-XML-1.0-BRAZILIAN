@@ -1299,7 +1299,7 @@ Envie este código para o supervisor."</string>
     <string name="online_apk_install_completed">Conteúdo online carregado com sucesso. Toque em %s para ver.</string>
     <string name="online_apk_install_error_no_enough_space">"Não foi possível instalar devido ao espaço de armazenamento ser insuficiente."</string>
     <string name="online_apk_install_error_with_reason">"Não foi possível instalar (Erro %d)"</string>
-    <string name="online_apk_install_failed_with_reason" formatted="false">"Não foi possível carregar o conteúdo online. Toque em %s para tentar novamente. Código do erro: %d."</string>
+    <string formatted="false" name="online_apk_install_failed_with_reason">"Não foi possível carregar o conteúdo online. Toque em %s para tentar novamente. Código do erro: %d."</string>
     <string name="online_apk_install_in_background">Carregando conteúdo online em segundo plano…</string>
     <string name="online_apk_install_network_change_paused">"Você está usando dados móveis. O carregamento dos itens foi pausado por enquanto. Toque em %s para ver."</string>
     <string name="online_apk_install_network_error">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
