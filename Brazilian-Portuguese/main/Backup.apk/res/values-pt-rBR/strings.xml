@@ -83,7 +83,7 @@
     <string name="backup_hint_pad">Mantenha seu dispositivo ligado</string>
     <string name="backup_is_running">Fazendo o backup do dispositivo</string>
     <string name="backup_new">Novo:</string>
-    <string name="backup_notice_content">"Seus backups não serão criptografados, o que significa que eles podem ser acessados ​​ou adulterados por apps de terceiros. Outros riscos de segurança também podem surgir. Certifique-se de armazenar os itens de backup em um ambiente bem protegido."</string>
+    <string name="backup_notice_content">"Seus backups não serão criptografados, o que significa que eles podem ser acessados ou adulterados por apps de terceiros. Outros riscos de segurança também podem surgir. Certifique-se de armazenar os itens de backup em um ambiente bem protegido."</string>
     <string name="backup_notice_title">Atenção!</string>
     <string name="backup_notification_title">\"Backup\" em progresso…</string>
     <string name="backup_progress">Fazendo backup…</string>
@@ -514,7 +514,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
-    <string name="mtrl_picker_text_input_day_abbr">"d"</string>
+    <string name="mtrl_picker_text_input_day_abbr">"dia"</string>
     <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
     <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
@@ -964,7 +964,7 @@ para baixar e instalar o Mi Mover."</string>
     <string name="trans_intro_desc_7">Alguns perfis de apps (ex.: e-banking, etc) são associados ao dispositivo que foram instalados inicialmente. Tente limpar os dados do app ou reinstalá-lo no novo dispositivo.</string>
     <string name="trans_intro_desc_8">"Os dados do WeChat e seu histórico podem não ser transferidos completamente usando o Mi Mover. Acesse as configurações do WeChat e saia da sua conta para aumentar as chances de uma transferência completa."</string>
     <string name="trans_intro_desc_9_method_1_dec">Vá até a Tela inicial > Ferramentas > Feedback.</string>
-    <string name="trans_intro_desc_9_method_1_title">1. Compartilhe seu feedback usando o app \"Feedback\".</string>
+    <string name="trans_intro_desc_9_method_1_title">1. Compartilhe seu feedback usando o app Feedback.</string>
     <string name="trans_intro_desc_9_method_2_dec">Envie seu feedback para miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_2_title">2. Nos envie um e-mail</string>
     <string name="trans_intro_desc_9_method_3_dec">Grupo do Mi Mover no QQ: 687338378</string>

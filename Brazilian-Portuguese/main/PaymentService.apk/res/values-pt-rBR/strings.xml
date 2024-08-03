@@ -431,7 +431,7 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_prepaid_card_info">Informações do cartão de recarga</string>
     <string name="mibi_phone">Telefone</string>
     <string name="mibi_phone_detail">Acesse o IMEI para garantir a segurança do pagamento</string>
-    <string name="mibi_prepaid_card_order_info">%1$s cartão de recarga: CNY %2$s</string>
+    <string name="mibi_prepaid_card_order_info">%1$s cartão de recarga: %2$s CNY</string>
     <string name="mibi_prepaid_carriers_picker_hint">Selecionar transportadora</string>
     <string name="mibi_prepaid_dialog_content">Qualquer perda causada pela discrepância entre o número do cartão, valor nominal, senha e as informações reais será de sua responsabilidade. Verifique novamente as informações fornecidas antes de prosseguir.</string>
     <string name="mibi_prepaid_dialog_title">Atenção!</string>
@@ -698,7 +698,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_activity_not_found_notice">"Não consigo encontrar o app"</string>
     <string name="passport_agree">Concordar</string>
     <string name="passport_activate_token_expired">O código de verificação expirou. Tente novamente.</string>
-    <string name="passport_area_code_title">Código do país</string>
+    <string name="passport_area_code_title">Código de área</string>
     <string name="passport_attention">Atenção!</string>
     <string name="passport_auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="passport_back">Voltar</string>
