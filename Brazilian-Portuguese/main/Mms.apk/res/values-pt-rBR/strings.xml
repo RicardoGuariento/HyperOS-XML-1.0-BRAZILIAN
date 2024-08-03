@@ -733,7 +733,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="need_download">Sincronizando…</string>
     <string name="net_sms_subscribed">Inscrito com sucesso</string>
     <string name="net_sms_unsubscribe">Desinscrito com sucesso</string>
-    <string name="network_error_description">Ocorreu um erro de rede. Aguarde alguns minutos e tente novamente.</string>
+    <string name="network_error_description">Ocorreu um erro de rede. Aguarde um momento e tente novamente.</string>
     <string name="networking_allow_continue">Permitir</string>
     <string name="networking_allow_desc">O Mi Mensagens precisa de uma conexão com a internet para funcionar normalmente. Para fornecer os serviços gratuitos de texto e voz, reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Mensagens precisa usar o app Páginas amarelas. Permitir que o app conecte-se à internet, obtenha suas informações de localização e leia seus contatos?</string>
     <string name="networking_allow_desc_without_mx">O Mi Mensagens precisa de uma conexão com a internet para funcionar normalmente. Para reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Mensagens precisa usar o app Páginas amarelas. Permitir que o app conecte-se à internet, obtenha suas informações de localização e leia seus contatos?</string>
@@ -1086,7 +1086,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_msg">Mensagens 5G</string>
     <string name="rcs_my_black_chatbot_title">Lista de bloqueio</string>
     <string name="rcs_not_online">Não é possível usar o Mensagens 5G. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="rcs_offline">Não conectado ao Mensagens 5G. Aguarde alguns minutos e tente novamente.</string>
+    <string name="rcs_offline">Não conectado ao Mensagens 5G. Aguarde um momento e tente novamente.</string>
     <string name="rcs_offline_hint">O Mensagens 5G está offline. Não é possível encaminhar esta mensagem.</string>
     <string name="rcs_pref_button_login">Fazer login</string>
     <string name="rcs_pref_button_logout">Sair</string>

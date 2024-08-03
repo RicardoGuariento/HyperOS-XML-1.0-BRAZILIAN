@@ -74,7 +74,7 @@ seus dispositivos?"</string>
     <string name="audio_record_des">Para transmitir áudio do seu dispositivo móvel para monitores externos</string>
     <string name="auth_check_loading">Aguarde…</string>
     <string name="auth_no_user">"Esta página está disponível apenas para testadores Beta.
-Faça login na sua Conta Mi em Configurações > Conta Mi para sincronizar as permissões."</string>
+Faça login em sua Conta Mi em Configurações > Conta Mi para sincronizar as permissões."</string>
     <string name="auth_phone_model">"Esta página não pode ser visualizada neste dispositivo."</string>
     <string name="auth_show_to_test_user">Esta página está disponível apenas para testadores Beta.</string>
     <string name="ball_hint_connect_fail">"Não foi possível realizar esta ação. Aguarde um momento e tente novamente."</string>
@@ -474,7 +474,7 @@ seus dispositivos?"</string>
     <string name="dialog_connect_fail">"Não foi possível conectar-se"</string>
     <string name="dialog_connect_retry">Toque para tentar novamente</string>
     <string name="dialog_connect_verify_perssion">Autorize a transmissão em sua TV primeiro</string>
-    <string name="dialog_connect_verify_perssion_fail">"Não foi possível autorizar a transmissão na sua TV. Aguarde alguns minutos e tente novamente."</string>
+    <string name="dialog_connect_verify_perssion_fail">"Não foi possível autorizar a transmissão na sua TV. Aguarde um momento e tente novamente."</string>
     <string name="dialog_connected">Conectado</string>
     <string name="dialog_connecting">Conectando…</string>
     <string name="dialog_location_permission_message">Este app precisa acessar sua localização para encontrar monitores externos nas proximidades. Selecione \"Permitir o tempo todo\" ao conceder essa permissão para evitar possíveis erros.</string>
@@ -755,7 +755,7 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="hm_new_habit_empty_title">Não há padrões aqui</string>
     <string name="hm_not_notify">"Não mostrar novamente"</string>
     <string name="hm_pause_habit">Pausar</string>
-    <string name="hm_please_login_mi_account">Faça login na sua Conta Mi para começar</string>
+    <string name="hm_please_login_mi_account">Faça login em sua Conta Mi para começar</string>
     <string name="hm_remember">Lembrar</string>
     <string name="hm_resume_habit">Retomar</string>
     <string name="hm_setstate_error">"Não foi possível concluir esta ação"</string>
@@ -771,7 +771,7 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="hm_time_yesterday">Ontem</string>
     <string name="hm_time_yesterday_executed">Usado em %s ontem</string>
     <string name="hm_time_yesterday_remembered">Lembrado em %s ontem</string>
-    <string name="hm_toast_log_in">Faça login na sua Conta Mi primeiro</string>
+    <string name="hm_toast_log_in">Faça login em sua Conta Mi primeiro</string>
     <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
     <string name="hyper_mind">HyperMind</string>
     <string name="hyper_mind_close_warning">Atenção!</string>
@@ -1322,7 +1322,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="upgrade_edit_mijia">Editar</string>
     <string name="upgrade_help_menu">Ajuda</string>
     <string name="upgrade_help_title">Ajuda com atualização</string>
-    <string name="upgrade_login_dialog_message">Faça login na sua Conta Mi para poder visualizar seus dispositivos conectados.</string>
+    <string name="upgrade_login_dialog_message">Faça login em sua Conta Mi para poder visualizar seus dispositivos conectados.</string>
     <string name="upgrade_login_dialog_sure">Entrar</string>
     <string name="upgrade_login_dialog_title">Faça login na Conta Mi</string>
     <string name="upgrade_no_devices">Nenhuma atualização disponível</string>

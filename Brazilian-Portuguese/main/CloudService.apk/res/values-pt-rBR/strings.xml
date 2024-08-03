@@ -538,7 +538,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_privacy_licence_privacy_policy">Política de Privacidade</string>
     <string name="micloud_privacy_progress_content">Concedendo autorização…</string>
     <string name="micloud_privacy_warning_button">Voltar</string>
-    <string name="micloud_privacy_warning_content">"Não é possível ativar os serviços da MiCloud. Aguarde alguns minutos e tente novamente."</string>
+    <string name="micloud_privacy_warning_content">"Não é possível ativar os serviços da MiCloud. Aguarde um momento e tente novamente."</string>
     <string name="micloud_privacy_warning_title">Atenção!</string>
     <string name="micloud_proceed">Continuar</string>
     <string name="micloud_request_permission_confirm">Entendi</string>
@@ -548,7 +548,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_request_permission_content_pad_without_sim_but_contact">Para poder sincronizar eventos da agenda, contatos, fotos, vídeos e outros itens, a MiCloud precisa de permissão para acessar a sua agenda, contatos, contas, fotos e vídeos.</string>
     <string name="micloud_request_permission_content_pad_without_sim_or_contact">Para poder sincronizar eventos da agenda, fotos, vídeos e outros itens, a MiCloud precisa de permissão para acessar a sua agenda, contas, fotos e vídeos.</string>
     <string name="micloud_request_permission_title">Permissões necessárias para a MiCloud</string>
-    <string name="micloud_request_sync_too_frequent">Muitos pedidos. Aguarde alguns minutos e tente novamente.</string>
+    <string name="micloud_request_sync_too_frequent">Muitos pedidos. Aguarde um momento e tente novamente.</string>
     <string name="micloud_setting_antispam_summary">Exceções e números de telefone bloqueados</string>
     <string name="micloud_setting_bluetooth_summary">Sincronizar informações dos dispositivo pareados com a MiCloud</string>
     <string name="micloud_setting_browser_summary">Favoritos, histórico e guias</string>
@@ -600,7 +600,7 @@ Verifique se você está usando a Conta Mi associada como sua conta do sistema H
     <string name="micloud_sync_result_cloud_storage_full">"Não é possível sincronizar. Espaço de armazenamento insuficiente na MiCloud."</string>
     <string name="micloud_sync_result_common_message">A sincronização foi interrompida. Tente novamente.</string>
     <string name="micloud_sync_result_cta_permission_error">Permita a conexão com a rede para sincronizar</string>
-    <string name="micloud_sync_result_get_sim_info_error">"Não foi possível obter as informações do cartão SIM. Aguarde alguns minutos e tente novamente."</string>
+    <string name="micloud_sync_result_get_sim_info_error">"Não foi possível obter as informações do cartão SIM. Aguarde um momento e tente novamente."</string>
     <string name="micloud_sync_result_internal_error">Erro interno</string>
     <string name="micloud_sync_result_io_exception">Erro de E/S</string>
     <string name="micloud_sync_result_parse_exception">Não foi possível processar os dados</string>
@@ -894,7 +894,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_error_code_error_and_msg">Erro %1$d (%2$s)</string>
     <string name="share_sdk_error_current_invitation_invalid">Convite expirado</string>
     <string name="share_sdk_error_current_sharing_invalid">Compartilhamento interrompido</string>
-    <string name="share_sdk_error_too_frequent">Muitos pedidos. Aguarde alguns minutos e tente novamente.</string>
+    <string name="share_sdk_error_too_frequent">Muitos pedidos. Aguarde um momento e tente novamente.</string>
     <string name="share_sdk_error_update_sharing">Selecione pelo menos 1 item</string>
     <string name="share_sdk_error_user_already_invited">"Você já convidou esta pessoa"</string>
     <string name="share_sdk_error_user_invalid">"Este usuário não existe"</string>
@@ -1011,7 +1011,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="sync_dspt">Sincronização</string>
     <string name="sync_dspt_entrance_provision">Sincronize suas fotos, notas e outros itens entre os seus dispositivos. Acesse os itens que você sincroniza de qualquer navegador em %s.</string>
     <string name="sync_dspt_entrance_provision_confirm_close">"Não usar"</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">Os apps de sistema precisam da MiCloud para fazer o backup das suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Os apps de sistema precisam da MiCloud para fazer o backup de suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_pad">Você pode usar a MiCloud para fazer backup de suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">Os apps de sistema precisam da MiCloud para fazer backup de suas fotos, mensagens, notas, entre outros. A MiCloud é gratuita e pronta para uso assim que configurada.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Usar a MiCloud</string>
@@ -1045,7 +1045,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="sync_sub_1_sms_1_intl_sms">1 SMS nacional e 1 SMS internacional podem ser requeridos para ativar este serviço. A sua operadora poderá cobrá-lo por estas mensagens.</string>
     <string name="sync_sub_2_intl_sms">2 SMS internacionais podem ser requeridas para ativar este serviço. A sua operadora poderá cobrá-lo por estas mensagens.</string>
     <string name="sync_sub_2_sms">2 mensagens SMS podem ser requeridas para ativar este serviço. A sua operadora poderá cobrá-lo por estas mensagens.</string>
-    <string name="system_busy_or_network_error">Ocorreu um erro. Aguarde alguns minutos e tente novamente.</string>
+    <string name="system_busy_or_network_error">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
     <string name="system_cta_retry_get_permission_btn_pad">Iniciar</string>
     <string name="system_cta_retry_get_permission_msg_pad">Permissões necessárias</string>
     <string name="talkback_hide_passcode">Ocultar senha</string>

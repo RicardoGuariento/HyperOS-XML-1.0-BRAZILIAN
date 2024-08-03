@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="access_denied_info">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="account_bind_secure_email_title">Adicionar e-mail de recuperação</string>
     <string name="account_bind_secure_phone_title">Adicionar número de telefone de recuperação</string>
     <string name="account_crop_user_avatar">Cortar foto</string>
@@ -63,12 +64,13 @@
     <string name="action_update_phone">Alterar o número de telefone</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activate_email_notice">Certifique-se de ativar a sua conta dentro de 24 horas</string>
-    <string name="activity_not_found_notice">Não é possível encontrar o app</string>
+    <string name="activity_not_found_notice">"Não é possível encontrar o app"</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
     <string name="app_name">Mi Créditos</string>
     <string name="auth_fail_warning">Sessão expirada. Faça o login novamente.</string>
+    <string name="back">Voltar</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
     <string name="change_activate_email">Alterar endereço de e-mail</string>
     <string name="change_password">Alterar senha</string>
@@ -77,6 +79,7 @@
     <string name="choose_to_signup">Não, criarei uma</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
+    <string name="close_country_code_content_description">Excluir código do país</string>
     <string name="collect_diagnosis_log">Coletar logs</string>
     <string name="confirm_activate_email">Verificado</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
@@ -84,10 +87,13 @@
     <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Mi %2$s em %1$s. Ele não será mais associado à Conta Mi %3$s se você continuar. Continuar?</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
-    <string name="diagnosis_log_send_failed">Não foi possível enviar os logs. Tente novamente.</string>
-    <string name="diagnosis_log_sent_format">"Registros enviados com sucesso.
+    <string name="diagnosis_log_send_failed">"Não foi possível enviar os logs. Tente novamente."</string>
+    <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
 ID: %s
 Envie este código para o supervisor."</string>
+    <string name="doing_login">Entrando…</string>
+    <string name="doing_query_account">Verificando informações da conta…</string>
+    <string name="doing_register">Criando conta…</string>
     <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -95,6 +101,7 @@ Envie este código para o supervisor."</string>
     <string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
     <string name="evening">"PM"</string>
     <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
+    <string name="facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
     <string name="find_psw">Esqueci a senha</string>
     <string name="fmt_date_day">dd</string>
@@ -139,10 +146,27 @@ Envie este código para o supervisor."</string>
     <string name="friday_shortest">Sex</string>
     <string name="get_back_pwd">Redefinindo a senha</string>
     <string name="get_ph_ticket">Obter código</string>
-    <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi com um número de telefone. Não é possível adicionar novas contas.</string>
+    <string name="get_phone_bind_exceed_limit">"Você pode associar até 3 Contas Mi com um número de telefone. Não é possível adicionar novas contas."</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
+    <string name="google_login_btn_content_description">Fazer login no Google</string>
     <string name="goto_sign_up">Criar conta</string>
+    <string name="header_help">Ajuda</string>
     <string name="hybrid_provider">Fornecido por %1$s</string>
+    <string name="i_know">"OK"</string>
+    <string name="identity">Identificação</string>
+    <string name="inconsistent_pwd">As senhas não conferem</string>
+    <string name="input_email_address_notice">"Nós usaremos este e-mail para verificar a sua conta"</string>
+    <string name="input_length_exceeds_limit">O texto que você digitou é muito longo</string>
+    <string name="input_new_pwd">Insira a nova senha</string>
+    <string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
+    <string name="just_a_second">Aguarde…</string>
+    <string name="loading">Aguarde…</string>
+    <string name="login_by_local_phone_long_text">Entrar agora</string>
+    <string name="login_by_local_phone_short_text">Entrar</string>
+    <string name="login_other">Outra Conta Mi</string>
+    <string name="login_register_by_local_phone_long_text">Criar conta</string>
+    <string name="login_with_sns">Outras maneiras de fazer login</string>
+    <string name="logout_account">Sair</string>
     <string name="mibi_account_disable_dialog_btn_negative">Cancelar</string>
     <string name="mibi_account_disable_dialog_btn_positive">Ativar</string>
     <string name="mibi_account_disable_dialog_msg">Para usar o Mi Créditos, você precisa fazer login em sua Conta Mi. Ative a Conta Mi em Configurações > Apps > Gerenciar apps.</string>
@@ -190,6 +214,8 @@ Envie este código para o supervisor."</string>
     <string name="mibi_button_pay">Confirmar</string>
     <string name="mibi_button_reget">Reenviar</string>
     <string name="mibi_button_retry">Tentar novamente</string>
+    <string name="mibi_camera">Câmera</string>
+    <string name="mibi_camera_detail">Para escanear códigos QR</string>
     <string name="mibi_camera_open_failed">Falha ao abrir a câmera</string>
     <string name="mibi_cancel">Cancelar</string>
     <string name="mibi_change_security_lock">Mais bloqueios de tela</string>
@@ -221,7 +247,7 @@ Envie este código para o supervisor."</string>
     <string name="mibi_detail_consume_name">Produto</string>
     <string name="mibi_detail_consume_order">ID do pagamento</string>
     <string name="mibi_detail_consume_time">Hora</string>
-    <string name="mibi_detail_consume_title">Ordem de consumo</string>
+    <string name="mibi_detail_consume_title">Registros de pagamento</string>
     <string name="mibi_detail_giftcard_activity">Promoção</string>
     <string name="mibi_detail_giftcard_expired_time">Data de validade</string>
     <string name="mibi_detail_giftcard_theme">Comprar temas</string>
@@ -233,7 +259,7 @@ Envie este código para o supervisor."</string>
     <string name="mibi_detail_recharge_method">Método</string>
     <string name="mibi_detail_recharge_order">Número do pedido de recarga.</string>
     <string name="mibi_detail_recharge_time">Hora</string>
-    <string name="mibi_detail_recharge_title">Pedido de recarga</string>
+    <string name="mibi_detail_recharge_title">Registros de recarga</string>
     <string name="mibi_direct_pay_novalid_method">Nenhuma forma de pagamento válida.</string>
     <string name="mibi_direct_payment_title">Informações do pedido</string>
     <string name="mibi_enter_failed">Falha ao abrir</string>
@@ -266,7 +292,7 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_error_user_id_mismatch_summary">Por favor, verifique e faça login novamente em sua conta.</string>
     <string name="mibi_error_web_summary">Erro no servidor</string>
     <string name="mibi_fee">%1$s Mi Créditos</string>
-    <string name="mibi_forget_password"><u>Esqueceu a senha</u></string>
+    <string name="mibi_forget_password"><u>Esqueci a senha</u></string>
     <string name="mibi_format_bill_date">d/M/yyyy</string>
     <string name="mibi_format_bill_time">dd-MM-yyyy HH:mm</string>
     <string name="mibi_format_date">dd/MMM, yyyy</string>
@@ -316,6 +342,7 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_incognito_mode_dialog_title">"Você está anônimo"</string>
     <string name="mibi_incognito_mode_dialog_to_close">Configurações</string>
     <string name="mibi_is_what">O que você pode comprar com Mi Créditos?</string>
+    <string name="mibi_kr_license_content">"Você está prestes a usar o serviço de pagamento fornecido pela Xiaomi Inc. Antes de começar a usar este serviço, você deve concordar com os seguintes termos:"</string>
     <string name="mibi_label_balance">Saldo</string>
     <string name="mibi_label_giftcard">Gift card</string>
     <string name="mibi_label_giftcard_with_num">Gift card (%1$s)</string>
@@ -323,6 +350,8 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_license_message_span">Contrato do Usuário do Mi Créditos</string>
     <string name="mibi_license_title">Termos e Condições</string>
     <string name="mibi_list_item_bottom_hint">"Você chegou ao final desta lista"</string>
+    <string name="mibi_location">Localização</string>
+    <string name="mibi_location_detail">Acesse informações de localização para garantir a segurança do pagamento</string>
     <string name="mibi_login">"Login"</string>
     <string name="mibi_memu_refresh">Atualizar</string>
     <string name="mibi_menu_feedback">"Feedback"</string>
@@ -381,7 +410,7 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_pay_grid_error_denomination">O valor deve estar entre %1$s e %2$s Mi Créditos.</string>
     <string name="mibi_pay_success_summary">"Você pagou %1$s Mi Créditos"</string>
     <string name="mibi_pay_success_with_recharge_summary">%1$s Mi Créditos recarregados, %2$s Mi Créditos pagos.</string>
-    <string name="mibi_payment_recharge_group_title">Escolha o método</string>
+    <string name="mibi_payment_recharge_group_title">Escolha o método de recarga</string>
     <string name="mibi_payment_success_title">Pagamento recebido</string>
     <string name="mibi_payment_with_login_title">Verificar Conta Mi</string>
     <string name="mibi_paymnet_failed_title">Falha na transação</string>
@@ -400,6 +429,8 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_prepaid_card_hint_input_card_num">Por favor, insira o número do cartão</string>
     <string name="mibi_prepaid_card_hint_input_pwd">Por favor, insira a senha</string>
     <string name="mibi_prepaid_card_info">Informações do cartão de recarga</string>
+    <string name="mibi_phone">Telefone</string>
+    <string name="mibi_phone_detail">Acesse o IMEI para garantir a segurança do pagamento</string>
     <string name="mibi_prepaid_card_order_info">%1$s cartão de recarga: CNY %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Selecionar transportadora</string>
     <string name="mibi_prepaid_dialog_content">Qualquer perda causada pela discrepância entre o número do cartão, valor nominal, senha e as informações reais será de sua responsabilidade. Verifique novamente as informações fornecidas antes de prosseguir.</string>
@@ -453,11 +484,11 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_progress_voucher_creating">Recarga do cartão Mi Créditos…</string>
     <string name="mibi_progress_warning_check_with_contact">"O pagamento ainda não chegou à sua conta. 
 Verificaremos novamente dentro de dois dias úteis.
-Centro de atendimento ao consumidor：400-100-3399"</string>
+Centro de atendimento ao consumidor: 400-100-3399"</string>
     <string name="mibi_progress_warning_waiting">"O pagamento ainda não chegou à sua conta."</string>
     <string name="mibi_prompt_info_button_hint">Atenção (%d)</string>
     <string name="mibi_prompt_info_button_text">"OK"</string>
-    <string name="mibi_prompt_info_for_first_use">"Mi Créditos não pode ser usado para comprar produtos de hardware em Mi.com"</string>
+    <string name="mibi_prompt_info_for_first_use"><Data>"&lt;font color=#ff7700>Mi Créditos não pode ser usado para comprar produtos de hardware em Mi.com&lt;/font>"</Data></string>
     <string name="mibi_prompt_info_title">Dicas</string>
     <string name="mibi_push_register_fail">Falha no push do registro.</string>
     <string name="mibi_push_register_success">Push registrado com sucesso.</string>
@@ -466,10 +497,10 @@ Centro de atendimento ao consumidor：400-100-3399"</string>
     <string name="mibi_push_set_alias_fail">Definir alias falha para %1$s.</string>
     <string name="mibi_push_set_alias_success">Definir alias \"%1$s\" com sucesso.</string>
     <string name="mibi_push_unset_alias_fail">Falha no alias não definido para %1$s.</string>
-    <string name="mibi_push_unset_alias_success">Alias ​​não definido \"%1$s\" foi bem-sucedido.</string>
+    <string name="mibi_push_unset_alias_success">Alias não definido \"%1$s\" foi bem-sucedido.</string>
     <string name="mibi_recharge_grid_error_denomination">O valor deve estar entre Mi Créditos %1$s e %2$s.</string>
     <string name="mibi_recharge_grid_item_more">Mais</string>
-    <string name="mibi_recharge_grid_mibi_picker_hint">Escolher quantidade (1 Mi Créditos = 1 RMB)</string>
+    <string name="mibi_recharge_grid_mibi_picker_hint">Escolher quantidade</string>
     <string name="mibi_recharge_grid_money_picker_hint">Selecionar valor</string>
     <string name="mibi_recharge_input_amount_hint">Por favor, insira o valor</string>
     <string name="mibi_recharge_label">Recarga</string>
@@ -480,7 +511,7 @@ Centro de atendimento ao consumidor：400-100-3399"</string>
     <string name="mibi_recharge_other_amount">Outra quantia</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d adicionou %2$s Mi Créditos à sua conta</string>
     <string name="mibi_recharge_push_notification_sub_title">Recarga concluída.</string>
-    <string name="mibi_recharge_value_money">Compre CNY %s em Mi Créditos</string>
+    <string name="mibi_recharge_value_money">Compre %s CNY em Mi Créditos</string>
     <string name="mibi_recharge_value_money_special_unit">Compre %1$s %2$s em Mi Créditos</string>
     <string name="mibi_recharge_warn_text">"Você não pode comprar bens físicos usando Mi Créditos."</string>
     <string name="mibi_return">Voltar</string>
@@ -501,7 +532,7 @@ Durante o processo de navegação, se desejar realizar negócios relacionados ao
     <string name="mibi_review_model_mibi_function">Gerenciamento de gift card, verificação de saldo de recarga Mi Créditos</string>
     <string name="mibi_review_model_mibi_introduction">"Mi Créditos é uma caixa registradora agregada para negócios virtuais dentro do grupo Xiaomi. Suporta métodos de pagamento como Alipay, WeChat e Mi Wallet. Também fornece cartões pré-pagos e produtos de marketing, como Mi Coin Card e MiCoin Gift Vouchers.
 
-Serviços prestados："</string>
+Serviços prestados: "</string>
     <string name="mibi_review_model_tips">O modo atual é apenas navegação, clique no botão para experimentar o serviço Mi Créditos.</string>
     <string name="mibi_review_model_title">Modo somente navegação</string>
     <string name="mibi_review_model_use_tips">Experimente o serviço Mi Créditos agora</string>
@@ -529,11 +560,13 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="mibi_setting_revoke_service">Cancelamento do serviço Mi Créditos</string>
     <string name="mibi_shurtcut_create_success">Colocado na Tela inicial</string>
     <string name="mibi_signing_pay_group_title">Selecionar método de pagamento</string>
-    <string name="mibi_signing_success_sub">Os pagamentos renováveis ​​serão feitos usando %1$s</string>
+    <string name="mibi_signing_success_sub">Os pagamentos renováveis serão feitos usando %1$s</string>
     <string name="mibi_signing_success_title">Selecionado com sucesso</string>
     <string name="mibi_sms_code_empty">Digite o código de verificação enviado para o seu telefone.</string>
     <string name="mibi_sms_code_error">Erro no código de verificação do celular. Por favor, obtenha outro.</string>
     <string name="mibi_sms_code_hint">Digite o código de verificação de 3 a 6 dígitos</string>
+    <string name="mibi_storage">Armazenamento</string>
+    <string name="mibi_storage_detail">Para salvar itens armazenados em cache de métodos de pagamento de terceiros</string>
     <string name="mibi_summary_bind_phone">Para garantir a segurança da sua conta, conclua o pagamento após vincular o celular.</string>
     <string name="mibi_summary_sms_code">Insira o código de verificação enviado para %1$s e finalize o pagamento</string>
     <string name="mibi_title_bind_phone">Vinculando celular.</string>
@@ -555,16 +588,8 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="mibi_voucher_password">Senha do Mi Coin Card</string>
     <string name="mibi_web_login_waiting">Por favor, aguarde…</string>
     <string name="mibi_web_sso_login_fail">Você precisa fazer login novamente</string>
-    <string name="i_know">"OK"</string>
-    <string name="identity">Identificação</string>
-    <string name="inconsistent_pwd">As senhas não conferem</string>
-    <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
-    <string name="input_new_pwd">Insira a nova senha</string>
-    <string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
-    <string name="just_a_second">Aguarde…</string>
-    <string name="loading">Aguarde…</string>
-    <string name="logout_account">Sair</string>
     <string name="midnight">"AM"</string>
+    <string name="mishop_login_other">Outra conta</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -633,6 +658,8 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
+    <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="network_timeout_info">"Não foi possível conectar-se à rede. Tente novamente."</string>
     <string name="nick_name">Apelido</string>
     <string name="night">"PM"</string>
     <string name="no_account">Não conectado</string>
@@ -640,7 +667,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="no_phone">Nenhum número de telefone</string>
     <string name="noon">"PM"</string>
     <string name="ok">"OK"</string>
-    <string name="open_settings">Ir para as Configurações</string>
+    <string name="open_settings">Configurações</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_crop_user_avatar">Cortar foto</string>
     <string name="passport_account_empty_user_name">Digite seu nome</string>
@@ -650,6 +677,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_account_error_shorter_user_name">O nome deve ter mais de %d caracteres</string>
     <string name="passport_account_error_user_name">Este apelido é inválido. Tente outro diferente.</string>
     <string name="passport_account_invalid_user_avatar">Esta foto é inválida. Tente uma diferente.</string>
+    <string name="passport_account_label">Conta Mi</string>
     <string name="passport_account_name">"Conta: %1$s "</string>
     <string name="passport_account_no_set">Nenhum</string>
     <string name="passport_account_none_bind_info">Nenhum</string>
@@ -669,14 +697,15 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_account_user_phone">Telefone de recuperação</string>
     <string name="passport_activity_not_found_notice">"Não consigo encontrar o app"</string>
     <string name="passport_agree">Concordar</string>
+    <string name="passport_activate_token_expired">O código de verificação expirou. Tente novamente.</string>
     <string name="passport_area_code_title">Código do país</string>
     <string name="passport_attention">Atenção!</string>
     <string name="passport_auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="passport_back">Voltar</string>
     <string name="passport_bad_authentication">Usuário ou senha incorretos</string>
-    <string name="passport_can_not_recevie_verify_code">"Não recebeu o código?"</string>
-    <string name="passport_change_password">Alterar a senha</string>
-    <string name="passport_check_security">Verificando problemas de segurança…</string>
+    <string name="passport_barcode_add_account_prompt">Para adicionar uma conta, leia o código QR novamente após fazer login.</string>
+    <string name="passport_can_not_receive_verification_code">"Não é possível receber o código de verificação?"</string>
+    <string name="passport_captcha_title">"Captcha"</string>
     <string name="passport_checking_account">Verificando senha…</string>
     <string name="passport_clear_input">Limpar conteúdo inserido</string>
     <string name="passport_copy_link">Copiar URL</string>
@@ -690,23 +719,28 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_dialog_nick_name_prefix">Apelido: %s</string>
     <string name="passport_dialog_phone_number_prefix">Número de telefone: %s</string>
     <string name="passport_dialog_register_other">"Não, vou criar uma"</string>
+    <string name="passport_close">Fechar</string>
+    <string name="passport_delete_account">Sair</string>
     <string name="passport_email">Endereço de e-mail</string>
     <string name="passport_empty_password">"A senha não pode ficar vazia"</string>
+    <string name="passport_empty_user_name">"O nome de usuário não pode ficar vazio"</string>
     <string name="passport_doing_query_account">Verificando informações da conta…</string>
     <string name="passport_error_auth_fail">Sessão expirada. Faça login novamente.</string>
     <string name="passport_error_device_id">"Não é possível obter o ID do dispositivo"</string>
     <string name="passport_error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
     <string name="passport_error_dynamic_token_error">O código de verificação está incorreto</string>
     <string name="passport_error_email">O endereço de e-mail inserido é inválido</string>
+    <string name="passport_error_empty_captcha_code">Insira o captcha</string>
     <string name="passport_error_empty_email">Digite seu endereço de e-mail</string>
+    <string name="passport_error_empty_phone_num">Digite o número de telefone</string>
     <string name="passport_error_empty_password">Digite sua senha</string>
     <string name="passport_error_empty_pwd">"A senha não pode ficar vazia"</string>
-    <string name="passport_error_empty_user_id">Digite seu nome de usuário</string>
-    <string name="passport_error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
-    <string name="passport_error_length_limit">O texto digitado é muito longo</string>
+    <string name="passport_error_empty_vcode">Digite o código de verificação</string>
+    <string name="passport_error_empty_voice_code">Insira o captcha</string>
+    <string name="passport_error_illegal_pwd">Senha inválida</string>
     <string name="passport_error_network">Não é possível conectar-se à rede</string>
     <string name="passport_error_no_password_user">Você não definiu uma senha ainda. Faça o login com SMS.</string>
-    <string name="passport_error_phone">Número de telefone inválido</string>
+    <string name="passport_error_phone_error">Número de telefone inválido</string>
     <string name="passport_error_server">Erro no servidor</string>
     <string name="passport_error_sms_limit">Muitos códigos de verificação foram enviados para este número. Tente mais tarde.</string>
     <string name="passport_error_ticket_invalid">Este código está incorreto</string>
@@ -715,25 +749,29 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_error_unknow_error">Ocorreu um erro</string>
     <string name="passport_error_unknow_host_network_error">"Não foi possível conectar à rede"</string>
     <string name="passport_error_unknow_network_error">Ocorreu um erro de rede</string>
-    <string name="passport_error_unknown">Não é possível fazer o login</string>
+    <string name="passport_error_unknown">Erro desconhecido</string>
+    <string name="passport_error_user_agreement_error">Concorde com os termos e condições primeiro</string>
     <string name="passport_error_user_agreement">Concorde primeiro com nosso Contrato do Usuário</string>
     <string name="passport_error_user_name">O nome de usuário que você digitou é inválido</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
-    <string name="passport_facebook_login_btn_content_description">Faça login com o Facebook</string>
+    <string name="passport_facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="passport_frequency_try_later">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="passport_get_login_type_next">Próximo</string>
     <string name="passport_header_back">Voltar</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
-    <string name="passport_google_login_btn_content_description">Faça login com o Google</string>
+    <string name="passport_google_login_btn_content_description">Fazer login com o Google</string>
     <string name="passport_help">Ajuda</string>
     <string name="passport_i_know">Entendi</string>
+    <string name="passport_forget_password"><u>Esqueci a senha</u></string>
+    <string name="passport_get_verify_code">Obter código</string>
+    <string name="passport_getting_verify_code">Aguarde…</string>
     <string name="passport_identification_expired">O código de verificação expirou. Recomeçar.</string>
     <string name="passport_input_captcha_hint">Digite o código</string>
     <string name="passport_input_email_address_notice">"Usaremos este e-mail para verificar sua conta"</string>
     <string name="passport_input_password_hint">Digite a senha</string>
-    <string name="passport_input_phone_number_hint">Digite o número de telefone</string>
-    <string name="passport_input_verify_code">Digite o código de verificação</string>
+    <string name="passport_input_phone_hint">Digite o número de telefone</string>
+    <string name="passport_input_vcode_hint">Digite o código de verificação</string>
     <string name="passport_input_voice_captcha_hint">Digite o código de verificação por voz</string>
     <string name="passport_input_voice_hint">Digite o código de voz</string>
     <string name="passport_login_by_local_phone_long_text">Entrar agora</string>
@@ -743,7 +781,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_login_with_sns">Outras maneiras de fazer login</string>
     <string name="passport_logout_account">Sair</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_mi_account_title">Faça login com a Conta Mi</string>
+    <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
     <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a no seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
@@ -757,7 +795,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_password_show">Mostrar senha</string>
     <string name="passport_phone_auto_login_register_with_local_number">Criar conta</string>
     <string name="passport_photo_picker_not_found">Nenhuma foto disponível.</string>
-    <string name="passport_qq_login_btn_content_description">Faça login com QQ</string>
+    <string name="passport_qq_login_btn_content_description">Fazer login com QQ</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
     <string name="passport_quick_login_title">Digite sua senha</string>
     <string name="passport_reging">Criando conta…</string>
@@ -787,6 +825,9 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_sns_access_token_expired_warning">Sessão expirada. Faça login novamente para reconectar esta conta.</string>
     <string name="passport_sns_bind_limit">Muitas tentativas. Experimente outras maneiras de fazer login.</string>
     <string name="passport_system_error">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
+    <string name="passport_sign_in">Entrar</string>
+    <string name="passport_sign_in_or_sign_up">Entrar/Criar conta</string>
+    <string name="passport_sms_phone_intro">Enviou código para %1$s</string>
     <string name="passport_talkback_image_captcha">Código de verificação de imagem</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação de imagem</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
@@ -813,9 +854,24 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_user_name_phone_number">Número de telefone</string>
     <string name="passport_user_password_hint">Senha</string>
     <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para o seu telefone de recuperação (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+    <string name="passport_timeout_network_error">A solicitação de rede expirou</string>
+    <string name="passport_trust_device">Este é um dispositivo confiável</string>
+    <string name="passport_trying_read_verify_code_sms">Obtendo código de verificação…</string>
+    <string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
+    <string name="passport_unknow_host_network_error">Verifique suas configurações de rede e tente novamente</string>
+    <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Li e aceito os seguintes documentos: o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_id_intro">Digite a senha para %1$s</string>
+    <string name="passport_v_code_error">O código de verificação está incorreto</string>
+    <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
+    <string name="passport_vcode_prompt_long">Digite o código de verificação</string>
+    <string name="passport_vcode_sms_send_prompt">Enviou código para %s</string>
+    <string name="passport_verification_failed">"Não foi possível verificar"</string>
+    <string name="passport_verify">Verificar</string>
     <string name="passport_wechat_not_install">Instale o WeChat primeiro</string>
-    <string name="passport_weibo_login_btn_content_description">Faça login com o Weibo</string>
-    <string name="passport_weixin_login_btn_content_description">Faça login com o WeChat</string>
+    <string name="passport_weibo_login_btn_content_description">Fazer login com o Weibo</string>
+    <string name="passport_weixin_login_btn_content_description">Fazer login com o WeChat</string>
     <string name="passport_wrong_captcha">O código que você digitou está incorreto</string>
     <string name="passport_wrong_phone_number_format">O formato do número de telefone inserido é inválido</string>
     <string name="passport_wrong_vcode">O código que você digitou está incorreto</string>
@@ -826,12 +882,26 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="phone_num_use_for">O número de telefone é usado para:</string>
     <string name="phone_number">Número de telefone</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
+    <string name="please_agree_protocal">Por favor, concorde com o protocolo</string>
     <string name="pm">"PM"</string>
+    <string name="progressbar_title">Verificando problemas de segurança…</string>
+    <string name="protocal_dialog_cancel">Cancelar</string>
+    <string name="protocal_dialog_confirm">Concordar</string>
+    <string name="protocal_dialog_title">Atenção!</string>
     <string name="psw_hint">Senha</string>
     <string name="psw_sign_in">Entrar usando a senha</string>
-    <string name="request_camera_permission_message">Este serviço precisa das permissões a seguir, cumpriremos rigorosamente as leis relevantes para proteger suas informações pessoais: &lt;br&gt;&lt;br&gt;&lt;b&gt; Acesso à Câmera: experimente serviços de gravação em tempo real para a escolha do avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Caso não concorde em conceder as permissões acima, essa função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a solicitação de permissão acima nas configurações do sistema para retirar seu consentimento.</string>
+    <string name="qq_login_btn_content_description">Fazer login com QQ</string>
+    <string name="register_by_local_phone_long_text">Criar conta</string>
+    <string name="register_by_local_phone_short_text">Criar conta</string>
+    <string name="request_agree">Permitir</string>
+    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concorda para conceder tais permissões, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir permissões ou revogar sua autorização nas Configurações"</string>
+    <string name="request_cancel">Cancelar</string>
+    <string name="request_error_invalid_token">"Não foi possível verificar"</string>
+    <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
+    <string name="request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
     <string name="resend_active_email">Reenviar</string>
-    <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
+    <string name="resend_email_reach_limit_message">"Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail."</string>
     <string name="resend_email_reach_limit_title">Muitas tentativas</string>
     <string name="resend_email_success">Enviado com sucesso</string>
     <string name="restart_action">Reiniciar</string>
@@ -843,6 +913,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
+    <string name="skip_query_account">Pular</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
     <string name="solar_term_clear_and_bright">Claro e brilhante</string>
@@ -882,7 +953,8 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="temporary_not_available">Este recurso ainda não está disponível</string>
+    <string name="system_error_info">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
+    <string name="temporary_not_available">"Este recurso ainda não está disponível"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>
@@ -937,13 +1009,27 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
+    <string name="unknown_error_info">Erro desconhecido</string>
     <string name="update_email_address_dialog_message">Você precisa verificar a sua identidade antes de atualizar o e-mail de recuperação.</string>
     <string name="update_email_address_dialog_title">Atualizar e-mail de recuperação</string>
     <string name="update_phone_notice">Alterar configurações de segurança</string>
     <string name="upload_error_log">Enviar logs</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a> O primeiro login criará automaticamente um Conta Mi"</Data></string>
+    <string name="user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."/Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
+    <string name="user_name_phone_number">Número de telefone</string>
     <string name="v_code_title">Inserir código de verificação</string>
     <string name="web_sso_login_fail">Você precisa entrar novamente</string>
     <string name="web_sso_login_message">Entrando…</string>
@@ -951,5 +1037,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
+    <string name="weibo_login_btn_content_description">Fazer login com o Weibo</string>
+    <string name="weixin_login_btn_content_description">Fazer login com o WeChat</string>
     <string name="yesterday">Ontem</string>
 </resources>

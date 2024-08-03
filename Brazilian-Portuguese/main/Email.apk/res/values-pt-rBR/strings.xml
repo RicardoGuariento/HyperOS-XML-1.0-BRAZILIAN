@@ -1215,7 +1215,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="outbox_alert_edit_resend">Editar e reenviar</string>
     <string name="outbox_alert_failed_edit_resend">Não foi possível enviar. Edite a mensagem e tente novamente.</string>
     <string name="outbox_alert_mailbox_not_found">Endereço de e-mail não encontrado</string>
-    <string name="outbox_alert_rw_io_error">Ocorreu um erro. Aguarde alguns minutos e tente novamente.</string>
+    <string name="outbox_alert_rw_io_error">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
     <string name="outbox_alert_select_operation">Escolha uma ação</string>
     <string name="outbox_alert_title_sent_failed">Não foi possível enviar o e-mail</string>
     <string name="outbox_no_mails">Vazio</string>
@@ -1455,8 +1455,8 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="sent_folder_selection_title">Selecionar pasta de itens enviados para %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Não foi possível validar o certificado do servidor
 \u0009 (Certifique-se de que a Sincronização automática está ativada nas Configurações)"</string>
-    <string name="ser_resp_err_map_landing_more_failure">"Não foi possível fazer o login várias vezes seguidas. Aguarde alguns minutos e tente novamente."</string>
-    <string name="ser_resp_err_map_landing_too_frequently">Muitas tentativas frequentes de login. Aguarde alguns minutos e tente novamente.</string>
+    <string name="ser_resp_err_map_landing_more_failure">"Não foi possível fazer o login várias vezes seguidas. Aguarde um momento e tente novamente."</string>
+    <string name="ser_resp_err_map_landing_too_frequently">Muitas tentativas frequentes de login. Aguarde um momento e tente novamente.</string>
     <string name="ser_resp_err_map_mailbox_locked">Esta conta de e-mail está bloqueada. Entre em contato com o provedor de serviços de e-mail para desbloqueá-lo primeiro.</string>
     <string name="ser_resp_err_map_mailbox_not_open">"Esta conta de e-mail não está ativa. Entre em contato com o provedor de serviços de e-mail para ativá-lo primeiro."</string>
     <string name="ser_resp_err_map_max_connections">Esta conta é acessada a partir de vários dispositivos. Remova esta conta de um dos dispositivos para poder acessá-la neste.</string>
@@ -1627,7 +1627,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="title_activity_about">Sobre</string>
     <string name="to">Para</string>
     <string name="to_heading">"Para: "</string>
-    <string name="toast_bar_fail_synchronization">"Não foi possível acessar o servidor. Aguarde alguns minutos e tente novamente."</string>
+    <string name="toast_bar_fail_synchronization">"Não foi possível acessar o servidor. Aguarde um momento e tente novamente."</string>
     <string name="toast_bar_insufficient_memory_space">"Não é possível receber e-mails. Não há espaço de armazenamento suficiente."</string>
     <string name="toast_bar_invalid_account">A informação da conta expirou. Toque para fazer o login novamente.</string>
     <string name="toast_bar_no_connection_network">"Você não possui uma conexão com a internet"</string>

@@ -2164,7 +2164,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bootloader_apply_title">Alerta importante</string>
     <string name="bootloader_device_bind_already">Adicionado com sucesso. A Conta Mi está vinculada a este dispositivo agora.</string>
     <string name="bootloader_device_bind_exceed_sim_limit">Não é possível adicionar mais contas a este cartão SIM.</string>
-    <string name="bootloader_device_bind_fail">Não foi possível verificar, aguarde alguns minutos e tente novamente</string>
+    <string name="bootloader_device_bind_fail">Não foi possível verificar. Aguarde um momento e tente novamente.</string>
     <string name="bootloader_device_bind_msg">Preparando-se para adicionar conta e dispositivo…</string>
     <string name="bootloader_device_bind_no_account">Faça o login em sua Conta Mi primeiro</string>
     <string name="bootloader_device_bind_no_data_network">Desative o Wi-Fi e adicione sua conta e dispositivo usando dados móveis.</string>
@@ -4176,7 +4176,7 @@ Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais."</
     <string name="failed_to_erase_text">Desative seu bloqueio de tela antes de inserir o código \"1217\".</string>
     <string name="failed_to_erase_title">Não é possível concluir esta ação</string>
     <string name="failed_to_open_app_settings_toast">Não foi possível abrir as configurações para %1$s</string>
-    <string name="failed_to_shut_down_find_device_content">"Não foi possível desativar o Encontrar dispositivo. Aguarde alguns minutos e tente novamente."</string>
+    <string name="failed_to_shut_down_find_device_content">"Não foi possível desativar o Encontrar dispositivo. Aguarde um momento e tente novamente."</string>
     <string name="failed_to_shut_down_find_device_title">Não foi possível desativar o Encontrar dispositivo</string>
     <string name="fallback_home_title">Aguarde…</string>
     <string name="fcc_equipment_id">ID do equipamento</string>
@@ -4519,7 +4519,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="free_wifi_connect_dialog_summary">%1$s é fornecida por %2$s e Xiaomi.</string>
     <string name="free_wifi_connect_dialog_title">Wi-Fi gratuita disponível</string>
     <string name="free_wifi_connect_fail">Não foi possível conectar-se à rede. Tente novamente.</string>
-    <string name="free_wifi_connect_fail2">Não foi possível fazer o login. Aguarde alguns minutos e tente novamente.</string>
+    <string name="free_wifi_connect_fail2">Não foi possível fazer o login. Aguarde um momento e tente novamente.</string>
     <string name="free_wifi_connect_summary">Fornecido por %1$s e Xiaomi. Toque para conectar-se.</string>
     <string name="free_wifi_connect_title">Wi-Fi disponível</string>
     <string name="free_wifi_connected">Conectado a uma rede Wi-Fi gratuita</string>
@@ -6913,7 +6913,7 @@ Selecione seu sistema operacional:"</string>
     <string name="multi_face_delete_message">Atenção!</string>
     <string name="multi_face_delete_show_message">Excluir dados faciais agora?</string>
     <string name="multi_face_input">Adicionar dados faciais</string>
-    <string name="multi_face_input_reach_upper_limit">Não foi possível adicionar dados faciais. Aguarde alguns minutos e tente novamente.</string>
+    <string name="multi_face_input_reach_upper_limit">Não foi possível adicionar dados faciais. Aguarde um momento e tente novamente.</string>
     <string name="multi_face_input_success_name_title">Nome</string>
     <string name="multi_face_list">Dados faciais</string>
     <string name="multi_face_name_prefix">"Rosto "</string>
@@ -7806,7 +7806,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="popup_gesture_title">Levante para abrir a câmera frontal</string>
     <string name="popup_led_summary">Mostrar animação quando a câmera frontal surgir e retrair</string>
     <string name="popup_led_title">Efeito visual</string>
-    <string name="popup_led_try_later">Aguarde alguns minutos e tente novamente</string>
+    <string name="popup_led_try_later">Aguarde um momento e tente novamente</string>
     <string name="popup_title">Efeitos da câmera frontal</string>
     <string name="popup_title_cangmen">Porta de cabine</string>
     <string name="popup_title_chilun">Roda de engrenagem</string>
@@ -9743,7 +9743,7 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="slider_tool_none_summary">Nenhum atalho de slider definido</string>
     <string name="slider_video_tool_summary">Puxe a tela para baixo para ver atalhos disponíveis quando estiver assistindo um vídeo</string>
     <string name="slider_video_tool_title">Atalhos de vídeo</string>
-    <string name="slider_vocie_click_too_often">Muito rápido! Aguarde alguns minutos e tente novamente.</string>
+    <string name="slider_vocie_click_too_often">Muito rápido! Aguarde um momento e tente novamente.</string>
     <string name="slider_vocie_online_close">Deslizar para cima</string>
     <string name="slider_vocie_online_default">Nenhum</string>
     <string name="slider_vocie_online_open">Deslizar para baixo</string>
@@ -12370,7 +12370,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="wifi_wps_connected">Conectado à rede Wi-Fi %s</string>
     <string name="wifi_wps_onstart_pbc">Pressione o botão \"Wi-Fi Protected Setup\" no seu roteador. Ele também pode ser designado como \"WPS\" ou conter este símbolo:</string>
     <string name="wifi_wps_onstart_pin">Insira o PIN %1$s no seu roteador Wi-Fi. A configuração pode levar até dois minutos para ser concluída.</string>
-    <string name="wifi_wps_overlap_error">Outra sessão Wi-Fi foi detectada. Aguarde alguns minutos e tente novamente.</string>
+    <string name="wifi_wps_overlap_error">Outra sessão Wi-Fi foi detectada. Aguarde um momento e tente novamente.</string>
     <string name="wifi_wps_setup_title">Configuração WPS</string>
     <string name="wificall_switch_summary">Use Wi-Fi para chamadas quando permitido pela operadora (apenas para teste)</string>
     <string name="wificall_switch_title">Faça chamadas usando Wi-Fi</string>

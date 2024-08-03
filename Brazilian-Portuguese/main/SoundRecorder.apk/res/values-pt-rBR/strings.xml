@@ -167,7 +167,7 @@ Envie este código para o supervisor."</string>
     <string name="expand_button_title">Avançado</string>
     <string name="export_to_note">Exportar</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
-    <string name="facebook_login_btn_content_description">Faça login com o Facebook</string>
+    <string name="facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="fm_record">Rádio</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -205,12 +205,12 @@ Envie este código para o supervisor."</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="for_diagnosis_usage_only">Os logs são usados ​​apenas para diagnóstico.</string>
+    <string name="for_diagnosis_usage_only">Os logs são usados apenas para diagnóstico.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
-    <string name="google_login_btn_content_description">Faça login no Google</string>
+    <string name="google_login_btn_content_description">Fazer login no Google</string>
     <string name="head_set_tip_dialog_msg">Desconecte seu fone de ouvido para gravar sons com predefinições específicas (ex.: músicas, voz).</string>
     <string name="head_set_tip_dialog_ok">Entendi</string>
     <string name="head_set_tip_dialog_title">Usar microfone interno</string>
@@ -271,7 +271,7 @@ Envie este código para o supervisor."</string>
     <string name="message_file_size_error">O gravador atingiu o tamanho máximo de arquivo suportado por %s</string>
     <string name="mi_account_msg">Faça o login com a Conta Mi para transcrever arquivos na nuvem e obter os primeiros 60 minutos gratuitamente.</string>
     <string name="mi_account_ok">Fazer login</string>
-    <string name="mi_account_title">Faça login na Conta Mi</string>
+    <string name="mi_account_title">Fazer login na Conta Mi</string>
     <string name="middle_bit_rate">"MP3, ~%1$d kbps, ~%2$d MB/h"</string>
     <string name="midnight">"AM"</string>
     <string name="mishop_login_other">Outra Conta</string>
@@ -540,7 +540,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_wrong_voice">O código inserido está incorreto</string>
     <string name="online_recognize_running">Transcrevendo…</string>
-    <string name="online_recognize_service_unavailable">O serviço não está disponível agora. Aguarde alguns minutos e tente novamente.</string>
+    <string name="online_recognize_service_unavailable">O serviço não está disponível agora. Aguarde um momento e tente novamente.</string>
     <string name="order_item_duration">Duração: %s</string>
     <string name="order_item_number">Número do pedido: %s</string>
     <string name="order_item_price">%s CNY</string>
@@ -595,7 +595,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="protocal_dialog_confirm">Concordar</string>
     <string name="protocal_dialog_title">Atenção!</string>
-    <string name="qq_login_btn_content_description">Faça login com QQ</string>
+    <string name="qq_login_btn_content_description">Fazer login com QQ</string>
     <string name="recognition_button_add_to_queue">Adicionar à fila</string>
     <string name="recognition_button_cancel">Agora não</string>
     <string name="recognition_button_start">Transcrever</string>
@@ -918,8 +918,8 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="weibo_login_btn_content_description">Faça login com o Weibo</string>
-    <string name="weixin_login_btn_content_description">Faça login com o WeChat</string>
+    <string name="weibo_login_btn_content_description">Fazer login com o Weibo</string>
+    <string name="weixin_login_btn_content_description">Fazer login com o WeChat</string>
     <string formatted="false" name="wifi_recommended_body">Usar sua conexão de dados móveis para baixar este arquivo (%s) poderá aumentar seu consumo de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente. Para aguardar uma conexão Wi-Fi para concluir o download deste arquivo, toque em %s.</string>
     <string name="wifi_recommended_title">Aviso sobre o uso de dados</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>

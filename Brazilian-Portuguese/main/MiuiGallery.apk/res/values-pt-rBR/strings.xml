@@ -1015,9 +1015,9 @@ Envie este código para o supervisor."</string>
     <string name="error_no_wifi_tip">"Não foi possível conectar-se ao Wi-Fi"</string>
     <string name="error_not_acceptable">A sincronização foi desativada.</string>
     <string name="error_not_synced_action">Sincronizar agora</string>
-    <string name="error_not_synced_msg">"As informações não estão sincronizadas. Aguarde alguns minutos e tente novamente."</string>
+    <string name="error_not_synced_msg">"As informações não estão sincronizadas. Aguarde um momento e tente novamente."</string>
     <string name="error_not_synced_tip">"As informações não estão sincronizadas."</string>
-    <string name="error_over_quota_tip">Muitas requisições. Aguarde alguns minutos e tente novamente.</string>
+    <string name="error_over_quota_tip">Muitas requisições. Aguarde um momento e tente novamente.</string>
     <string name="error_repeat_apply">Este álbum já foi compartilhado</string>
     <string name="error_share_not_support">"Esta função ainda não é suportada"</string>
     <string name="error_share_with_creator">Este álbum já foi compartilhado com você</string>
@@ -1376,7 +1376,7 @@ estão disponíveis"</string>
     <string name="global_phone">Meu telefone</string>
     <string name="global_trash_vip_info_text_login_medium_or_low_level">"Os itens excluídos dos quais foi feito backup podem permanecer na nuvem por até %1$s dias. Os itens dos quais não foi feito backup serão retidos por até %2$s dias."</string>
     <string name="google_banner_back_stop">Backup interrompido</string>
-    <string name="google_banner_back_stop_des">"Você está sem armazenamento da Conta do Google. Para retomar o backup das suas fotos, obtenha mais armazenamento ou libere espaço."</string>
+    <string name="google_banner_back_stop_des">"Você está sem armazenamento da Conta do Google. Para retomar o backup de suas fotos, obtenha mais armazenamento ou libere espaço."</string>
     <string name="google_banner_backup_des">Comece agora e mantenha suas fotos e vídeos seguros no Google Fotos.</string>
     <string name="google_banner_backup_left_btn_text">Agora não</string>
     <string name="google_banner_backup_right_btn_text">Ativar backup</string>
@@ -1596,7 +1596,7 @@ estão disponíveis"</string>
     <string name="macarons_download_dialog_title">Baixar plugin</string>
     <string name="macarons_download_dialog_without_wifi_confirm">Baixar</string>
     <string name="macarons_download_dialog_without_wifi_message">"Não foi possível conectar ao Wi-Fi. Você pode usar dados móveis para baixar o plugin de vinheta mágica."</string>
-    <string name="macarons_download_later">Aguarde alguns minutos e tente novamente</string>
+    <string name="macarons_download_later">Aguarde um momento e tente novamente</string>
     <string name="macarons_download_network_fail">"Não foi possível baixar o plugin. Verifique suas configurações de rede e tente novamente."</string>
     <string name="macarons_download_other_fail">"Não foi possível baixar devido a um erro"</string>
     <string name="macarons_download_sdscard_fail">"Não foi possível baixar. O cartão SD não está disponível."</string>
@@ -1964,7 +1964,7 @@ para personalizar a Galeria"</string>
     <string name="multi_view_tip_button_text">Entendi</string>
     <string name="multi_view_tip_sub_title">Afaste dois dedos ou mova-os um em direção ao outro para ajustar o tamanho dos itens exibidos.</string>
     <string name="multi_view_tip_title">Aumentar e diminuir o zoom</string>
-    <string name="multiwindow_not_support_camera">"A Câmera não pode ser usada no modo de múltiplas janelas"</string>
+    <string name="multiwindow_not_support_camera">"A câmera não pode ser usada no modo de múltiplas janelas"</string>
     <string name="must_pick_file">Selecione uma foto</string>
     <string name="my_family">Meu lar</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
@@ -2209,12 +2209,12 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_error_user_name">O nome de usuário que você digitou é inválido</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
-    <string name="passport_facebook_login_btn_content_description">Faça login com o Facebook</string>
+    <string name="passport_facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="passport_frequency_try_later">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="passport_get_login_type_next">Próximo</string>
     <string name="passport_header_back">Voltar</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
-    <string name="passport_google_login_btn_content_description">Faça login com o Google</string>
+    <string name="passport_google_login_btn_content_description">Fazer login com o Google</string>
     <string name="passport_help">Ajuda</string>
     <string name="passport_i_know">Entendi</string>
     <string name="passport_identification_expired">O código de verificação expirou. Recomeçar.</string>
@@ -2232,7 +2232,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_login_with_sns">Outras maneiras de fazer login</string>
     <string name="passport_logout_account">Sair</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_mi_account_title">Faça login com a Conta Mi</string>
+    <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
     <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a no seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
@@ -2246,7 +2246,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_password_show">Mostrar senha</string>
     <string name="passport_phone_auto_login_register_with_local_number">Criar conta</string>
     <string name="passport_photo_picker_not_found">Nenhuma foto disponível.</string>
-    <string name="passport_qq_login_btn_content_description">Faça login com QQ</string>
+    <string name="passport_qq_login_btn_content_description">Fazer login com QQ</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
     <string name="passport_quick_login_title">Digite sua senha</string>
     <string name="passport_reging">Criando conta…</string>
@@ -2303,8 +2303,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_user_password_hint">Senha</string>
     <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para o seu telefone de recuperação (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Instale o WeChat primeiro</string>
-    <string name="passport_weibo_login_btn_content_description">Faça login com o Weibo</string>
-    <string name="passport_weixin_login_btn_content_description">Faça login com o WeChat</string>
+    <string name="passport_weibo_login_btn_content_description">Fazer login com o Weibo</string>
+    <string name="passport_weixin_login_btn_content_description">Fazer login com o WeChat</string>
     <string name="passport_wrong_captcha">O código que você digitou está incorreto</string>
     <string name="passport_wrong_phone_number_format">O formato do número de telefone inserido é inválido</string>
     <string name="passport_wrong_vcode">O código que você digitou está incorreto</string>

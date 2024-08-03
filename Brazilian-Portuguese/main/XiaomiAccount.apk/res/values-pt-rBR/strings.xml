@@ -279,12 +279,12 @@ Envie este código para o supervisor."</string>
     <string name="find_device_access_denied">"Não é possível obter o status, acesso negado"</string>
     <string name="find_device_account_error">"Não é possível obter o status devido a um erro na conta"</string>
     <string name="find_device_activate_account">Ativar conta</string>
-    <string name="find_device_bad_response_error">Ocorreu um erro no servidor. Aguarde alguns minutos e tente novamente.</string>
+    <string name="find_device_bad_response_error">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="find_device_clear_data">Apagar dados</string>
     <string name="find_device_close">Desativado</string>
     <string name="find_device_error_password_not_confirmed">"Não é possível desativar o Encontrar dispositivo. Insira a senha da Conta Mi novamente."</string>
     <string name="find_device_error_password_recently_changed">"Você alterou sua senha nos últimos %d dias. Não é possível desativar o Encontrar dispositivo por motivos de segurança."</string>
-    <string name="find_device_interrupted">A ação foi interrompida, aguarde alguns minutos e tente novamente</string>
+    <string name="find_device_interrupted">A ação foi interrompida. Aguarde um momento e tente novamente.</string>
     <string name="find_device_io_error">"Não é possível conectar-se à rede"</string>
     <string name="find_device_location">Localizar</string>
     <string formatted="false" name="find_device_locked_account_email">%s, endereço de e-mail associado: %s</string>
@@ -292,17 +292,17 @@ Envie este código para o supervisor."</string>
     <string name="find_device_message">O dispositivo está bloqueado. Mensagem: %1$s. Ligue para %2$s.</string>
     <string name="find_device_null_credential_error">"Não é possível obter informações do dispositivo, entre em contato com o atendimento ao cliente Xiaomi"</string>
     <string name="find_device_open">Ativado</string>
-    <string name="find_device_operation_failed_error">Ocorreu um erro no servidor, aguarde alguns minutos e tente novamente</string>
+    <string name="find_device_operation_failed_error">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="find_device_operation_failed_error_unknown">Ocorreu um erro, tente novamente mais tarde</string>
     <string name="find_device_owner_phone">O dispositivo está bloqueado. Ligue %1$s.</string>
     <string name="find_device_play_sound">Tocar som</string>
     <string name="find_device_prompt_message">O dispositivo está bloqueado. Mensagem: %1$s.</string>
     <string name="find_device_remote_exception">Erro de RPC</string>
-    <string name="find_device_request_error">Ocorreu um erro no servidor, aguarde alguns minutos e tente novamente</string>
-    <string name="find_device_request_prepare_error">"Não é possível obter o status, tente novamente mais tarde"</string>
+    <string name="find_device_request_error">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
+    <string name="find_device_request_prepare_error">"Não é possível obter o status, tente novamente mais tarde."</string>
     <string name="find_device_set_lost_model">Modo perdido</string>
     <string name="find_device_title">Encontrar dispositivo</string>
-    <string name="find_device_unknown_error">"Não é possível obter o status do dispositivo. Aguarde alguns minutos e tente novamente."</string>
+    <string name="find_device_unknown_error">"Não é possível obter o status do dispositivo. Aguarde um momento e tente novamente."</string>
     <string name="find_equipment">Encontrar dispositivo</string>
     <string name="find_new_apk_version">Atualização disponível</string>
     <string name="fmt_date_day">dd</string>
@@ -740,7 +740,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_login_other_phone">Usar outra conta</string>
     <string name="passport_login_other_way">Outras formas de login</string>
     <string name="passport_login_register_by_local_phone_long_text">Criar uma conta</string>
-    <string name="passport_login_title">Faça login na sua Conta Mi</string>
+    <string name="passport_login_title">Faça login em sua Conta Mi</string>
     <string name="passport_login_using_other_ways">Outras formas de fazer login</string>
     <string name="passport_login_with_sns">Outras formas de fazer login</string>
     <string name="passport_logout_account">Sair</string>
@@ -767,7 +767,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_privacy_policy_required">Política de Privacidade (obrigatória)</string>
     <string name="passport_provision_input_email_register_prompt">Seus dados pessoais serão armazenados de acordo com as leis e regulamentos da região que você selecionar.</string>
     <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caracteres de pelo menos <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dos seguintes tipos: letras, números, símbolos.</string>
-    <string name="passport_qq_login_btn_content_description">Fazer login com o QQ</string>
+    <string name="passport_qq_login_btn_content_description">Fazer login com QQ</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
     <string name="passport_quick_login">Entrar</string>
     <string name="passport_quick_login_step2_title">Verificação em duas etapas</string>

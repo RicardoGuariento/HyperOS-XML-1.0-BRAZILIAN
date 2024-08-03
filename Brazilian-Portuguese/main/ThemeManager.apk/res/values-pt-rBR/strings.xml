@@ -155,7 +155,7 @@
     <string name="can_not_apply_pc_video">"O Modo PC não suporta planos de fundo animados"</string>
     <string name="can_not_apply_size_invalid">Este vídeo é muito grande</string>
     <string name="cancel_download">Download cancelado</string>
-    <string name="card_data_request_error">Ocorreu um erro. Aguarde alguns minutos e tente novamente.</string>
+    <string name="card_data_request_error">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
     <string name="card_loading">Aguarde…</string>
     <string name="card_no_network">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
     <string name="card_retry">Tentar novamente</string>
@@ -273,9 +273,9 @@
     <string name="detail_author_works">"Itens: "</string>
     <string name="detail_recommend_title">Recomendado</string>
     <string name="detail_reward_alert">Recompense designers talentosos por seu trabalho</string>
-    <string name="detail_reward_build_order_error">"Não foi possível criar o pedido. Aguarde alguns minutos e tente novamente."</string>
+    <string name="detail_reward_build_order_error">"Não foi possível criar o pedido. Aguarde um momento e tente novamente."</string>
     <string name="detail_reward_custom_amount">Montante personalizado</string>
-    <string name="detail_reward_duplicate_order_error">Muitas tentativas. Aguarde alguns minutos e tente novamente.</string>
+    <string name="detail_reward_duplicate_order_error">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="detail_reward_exceed_limit">A recompensa pode ser de até 200 CNY</string>
     <string name="detail_reward_know_it">"OK"</string>
     <string name="detail_reward_limited_to_200">A recompensa pode ter até 200 Mi Créditos</string>
@@ -283,7 +283,7 @@
     <string name="detail_reward_no_one">Sem recompensas ainda. Dê a primeira!</string>
     <string name="detail_reward_reached_upper_limit">Não foi possível recompensar hoje. Volte amanhã!"</string>
     <string name="detail_reward_resource_error">"Não foi possível recompensar devido a um erro"</string>
-    <string name="detail_reward_server_error">Ocorreu um erro de servidor. Aguarde alguns minutos e tente novamente.</string>
+    <string name="detail_reward_server_error">Ocorreu um erro de servidor. Aguarde um momento e tente novamente.</string>
     <string name="detail_reward_successed">Recompensado com sucesso</string>
     <string name="detail_reward_thanks_for_fans_support">Obrigado pelo seu suporte!</string>
     <string name="detail_reward_thanks_for_your_support">Obrigado pelo seu suporte!</string>
@@ -1046,7 +1046,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="repeat_exchange_dialog_positive_btn">Verificar</string>
     <string name="repeat_exchange_dialog_title">Repetir</string>
     <string name="request_time_out">A solicitação expirou. Tente novamente.</string>
-    <string name="resource_account_abnormal_state">Erro na conta. Aguarde alguns minutos e tente novamente.</string>
+    <string name="resource_account_abnormal_state">Erro na conta. Aguarde um momento e tente novamente.</string>
     <string name="resource_account_fail_to_add">"Não é possível adicionar a conta"</string>
     <string name="resource_account_login">Fazer login</string>
     <string name="resource_account_login_before_action">Fazer login em sua Conta Mi agora</string>
@@ -1537,7 +1537,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="theme_is_external_priority_storage_summary">O app Temas reiniciará imediatamente para aplicar a configuração.</string>
     <string name="theme_log_out">Sair</string>
     <string name="theme_multiple_button_title_customize">Personalizar</string>
-    <string name="theme_need_login_dialog_content">Faça login na sua Conta Mi para continuar.</string>
+    <string name="theme_need_login_dialog_content">Faça login em sua Conta Mi para continuar</string>
     <string name="theme_no">Não</string>
     <string name="theme_not_include_module_desc">"Este tema não possui o seguinte item: %s"</string>
     <string name="theme_on_the_phone_alert">"Não é possível reproduzir durante as chamadas"</string>
@@ -1569,7 +1569,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="time_picker_dialog_title">Defina a hora</string>
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>
-    <string name="tips_theme_gate_transfer_fail">"Não foi possível abrir esta página. Aguarde alguns minutos e tente novamente."</string>
+    <string name="tips_theme_gate_transfer_fail">"Não foi possível abrir esta página. Aguarde um momento e tente novamente."</string>
     <string name="title_component">Personalizar tema</string>
     <string name="title_my_audio_resource">Meus toques</string>
     <string name="title_my_miwallpaper_desktop_effects">Efeitos de tela</string>
@@ -1749,7 +1749,7 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos."</string>
     <string name="wallpaper_settings_no_history">Nenhum histórico</string>
     <string name="wallpaper_settings_pad_more_page_title">Mais planos de fundo</string>
     <string name="wallpaper_settings_page_title">Plano de fundo</string>
-    <string name="wallpaper_share_alert">Um erro ocorreu. Aguarde alguns minutos e tente novamente.</string>
+    <string name="wallpaper_share_alert">Um erro ocorreu. Aguarde um momento e tente novamente.</string>
     <string name="wallpaper_static">Estático</string>
     <string name="wallpaper_subject_version">MI</string>
     <string name="warning_miui_optimization_closed_dialog_agree">Configurações</string>

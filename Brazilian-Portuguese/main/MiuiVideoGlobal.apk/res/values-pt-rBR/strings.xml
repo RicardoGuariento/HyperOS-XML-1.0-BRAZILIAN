@@ -33,7 +33,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="access_denied_info">Muitas tentativas. Aguarde alguns minutos e tente novamente.</string>
+    <string name="access_denied_info">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="account_bind_secure_email_title">Adicionar e-mail de recuperação</string>
     <string name="account_bind_secure_phone_title">Adicionar número de telefone de recuperação</string>
     <string name="account_crop_user_avatar">Cortar foto</string>
@@ -290,7 +290,7 @@
     <string name="common_google_play_services_updating_text">"%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento."</string>
     <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
     <string name="common_open_on_phone">Abrir no dispositivo</string>
-    <string name="common_retry_late_hint">Aguarde alguns minutos e tente novamente</string>
+    <string name="common_retry_late_hint">Aguarde um momento e tente novamente</string>
     <string name="common_signin_button_text">Fazer login</string>
     <string name="common_signin_button_text_long">Fazer login com o Google</string>
     <string name="confirm_activate_email">Verificado</string>
@@ -1380,7 +1380,7 @@ Atualize o Mi Vídeo para a versão mais recente primeiro."</string>
     <string name="ovp_setting_version_info_title">Versão</string>
     <string name="ovp_start_error_msg">Não é possível reproduzir este vídeo</string>
     <string name="ovp_video_bad_network_condition">Não foi possível conectar-se à rede.</string>
-    <string name="ovp_video_create_video_error_info">Não foi possível inicializar o plugin. Aguarde alguns minutos e tente novamente.</string>
+    <string name="ovp_video_create_video_error_info">Não foi possível inicializar o plugin. Aguarde um momento e tente novamente.</string>
     <string name="ovp_video_invalid_cp_info">Não foi possível carregar as informações. Reinicie o app.</string>
     <string name="ovp_video_loading">Prestes a reproduzir %1$s…</string>
     <string name="ovp_video_plugin_installation">Instalando %1$s…</string>
@@ -1883,7 +1883,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="sync_favorites_limit_new">Você possui mais de %d vídeos em seus favoritos. Precisaremos excluir alguns dos vídeos antigos para continuar a sincronização.</string>
     <string name="sync_favorites_message">Sincronizar os favoritos deste dispositivo com a sua conta? Os itens que não estiverem mais disponíveis serão removidos.</string>
     <string name="sync_favorites_title">Sincronizar favoritos</string>
-    <string name="system_error_info">O sistema está ocupado. Aguarde alguns minutos e tente novamente.</string>
+    <string name="system_error_info">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="t_check_hide_file">Selecione itens para ocultar</string>
     <string name="t_check_unhide_file">Selecione itens para reexibir</string>
     <string name="t_downloading">Baixando:</string>
@@ -2015,17 +2015,17 @@ Aumentar a segurança da sua conta."</string>
     <string name="toast_bookmark_url_error">Insira uma URL válida</string>
     <string name="toast_fail_to_delete">Não foi possível excluir. Tente novamente.</string>
     <string name="toast_fail_to_rename">Não foi possível renomear. Tente novamente.</string>
-    <string name="toast_incentive_claim_fail_11">Não foi possível resgatar os pontos. Aguarde alguns minutos e tente novamente.</string>
+    <string name="toast_incentive_claim_fail_11">Não foi possível resgatar os pontos. Aguarde um momento e tente novamente.</string>
     <string name="toast_incentive_claim_out_of_limit_2004">Não é possível ganhar mais pontos hoje. Entre em contato caso tenha alguma dúvida.</string>
     <string name="toast_incentive_redeem_fail_not_enough_points_2003">Você não tem pontos suficientes</string>
     <string name="toast_incentive_redeem_fail_out_of_limit_2004">Não é possível resgatar esta recompensa novamente hoje</string>
     <string name="toast_incentive_redeem_fail_prize_expired_2005">Esta recompensa está indisponível</string>
-    <string name="toast_incentive_redeem_fail_prize_expired_error">Não foi possível resgatar. Aguarde alguns minutos e tente novamente.</string>
+    <string name="toast_incentive_redeem_fail_prize_expired_error">Não foi possível resgatar. Aguarde um momento e tente novamente.</string>
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Esta recompensa está indisponível no momento. Tente novamente mais tarde.</string>
     <string name="toast_m3u8_download_path_tip">Não é possível alterar o local de download para conteúdo no formato M3U8</string>
     <string name="toast_no_data">Este item não está disponível agora. Volte mais tarde.</string>
     <string name="toast_play_error_tip">Não é possível reproduzir este arquivo</string>
-    <string name="toast_share_failed">Não foi possível compartilhar. Aguarde alguns minutos e tente novamente.</string>
+    <string name="toast_share_failed">Não foi possível compartilhar. Aguarde um momento e tente novamente.</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tool_bar_notification_setting_sub_title">Mostrar a barra de ferramentas na Área de notificações</string>
