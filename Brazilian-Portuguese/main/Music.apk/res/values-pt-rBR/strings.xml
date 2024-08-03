@@ -128,6 +128,12 @@
     <string name="afternoon">"PM"</string>
     <string name="agreement_desc">Contrato do Usuário (obrigatório)</string>
     <string name="alaka_required">Você deve pagar por esta música para ouvi-la</string>
+    <string name="alarm_clock_album_modify_fail">"Não foi possível mudar"</string>
+    <string name="alarm_clock_audio_name">Clima matinal</string>
+    <string name="alarm_clock_audio_text_city">Hoje em %1$s, o tempo está: %2$s.</string>
+    <string name="alarm_clock_audio_text_date">Bom dia! Hoje é %1$s.</string>
+    <string name="alarm_clock_audio_text_temperature">Temperatura: %1$s</string>
+    <string name="alarm_clock_click_hint">"Toque para ouvir a previsão do tempo para hoje"</string>
     <string name="alarm_clock_recommend_desc">Acorde com uma música nova todos os dias</string>
     <string name="alarm_clock_recommend_switch">Alarme de música recomendado</string>
     <string name="alarm_clock_ringtones_successful">Alarme definido com sucesso</string>
@@ -1221,6 +1227,7 @@ Envie este código para o supervisor."</string>
     <string name="network_error_and_retry">"Não foi possível conectar. Toque para tentar novamente."</string>
     <string name="network_request_error">"Não é possível conectar-se à rede"</string>
     <string name="network_settings_error">"Não é possível conectar-se à rede"</string>
+    <string name="network_tip_title">Transmita um mundo de novas músicas</string>
     <string name="network_traffic">Uso de dados</string>
     <string name="next_time">Agora não</string>
     <string name="next_to_play">A seguir</string>
@@ -1682,6 +1689,7 @@ Seja feliz"</string>
     <string name="set_ringtones_failed">Não foi possível definir o toque do telefone</string>
     <string name="set_ringtones_successful">%s definida como toque do telefone</string>
     <string name="setting_feature_setting">Configurações de recursos</string>
+    <string name="setting_open">Ativar</string>
     <string name="settings">Configurações</string>
     <string name="settings_search_key_notification">Notificações de música;Música;Notificações;músicas</string>
     <string name="settings_search_path_advance">Configurar apps do sistema/Música/Serviço e configurações/Configurações avançadas</string>

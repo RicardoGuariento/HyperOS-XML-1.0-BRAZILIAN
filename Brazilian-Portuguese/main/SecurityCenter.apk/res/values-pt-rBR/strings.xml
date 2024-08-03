@@ -202,6 +202,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Quando a tela estiver desligada, o app funcionará em segundo plano sem interromper o processo de transmissão. Pressione o botão Liga/Desliga para ligar a tela novamente.</string>
     <string name="all_address_choose_hint">Todos os números nesta província</string>
     <string name="allow_all">Permitir todos</string>
+    <string name="allow_device_id_access">Selecionar apps que podem usar o ID do dispositivo</string>
     <string name="allow_onetime">Permitir uma vez</string>
     <string name="already_close_gamebooster">O Game Turbo está desativado</string>
     <string name="am">"AM"</string>
@@ -1355,6 +1356,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_close_vt_camera_first_tips">"Não é possível usar esse recurso ao usar a câmera entre dispositivos"</string>
     <string name="cs_color_sense">Temperatura da cor</string>
     <string name="cs_conversation_record_using">Gravando</string>
+    <string name="cs_func_toast_bluetooth_headset">Desconecte os fones de ouvido Bluetooth para poder usar este recurso</string>
     <string name="cs_func_toast_headset">Desconecte seu fone de ouvido para poder usar este recurso</string>
     <string name="cs_func_toast_light">Mude para a câmera frontal para poder usar este recurso</string>
     <string name="cs_func_toast_pickup">Mude para uma chamada de vídeo para poder usar este recurso</string>
@@ -1386,6 +1388,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_tool_box_phone_guide_case_1">Experimente a interpretação simultânea e outros recursos na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_phone_guide_case_2">Experimente uma variedade de recursos na Caixa de ferramentas de chamada</string>
     <string name="cs_voice_print">Gravar impressão de voz</string>
+    <string name="cs_voice_search">impressão de voz</string>
     <string name="cs_vt_camera_toast_case1">Abra a câmera no app atual</string>
     <string name="cs_vt_camera_toast_case2">Sem dispositivo compatível por perto</string>
     <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Central de alerta, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada.</string>
@@ -1489,12 +1492,28 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
     <string name="descx_quick_scan_preparation">Aguarde…</string>
     <string name="detail_app_button">Info. do app</string>
     <string name="details_subtitle">Detalhes de uso</string>
+    <string name="device_id">ID do dispositivo para recomendações personalizadas</string>
+    <string name="device_id_app_manager_dialog_continue">"Não parar"</string>
+    <string name="device_id_app_manager_dialog_message">Você permitiu que alguns apps rastreassem suas atividades. Você pode parar de rastrear agora.</string>
+    <string name="device_id_app_manager_dialog_stop">Parar</string>
+    <string name="device_id_app_manager_switch_sub_title">Quando esse recurso estiver desativado, todas as novas solicitações de rastreamento serão rejeitadas automaticamente.</string>
+    <string name="device_id_app_manager_switch_title">Permitir que apps solicitem rastreamento</string>
+    <string name="device_id_app_manager_tips">Os apps podem rastrear suas atividades em diferentes apps e sites usando identificadores de rastreamento para fornecer recomendações de anúncios personalizados e outros recursos</string>
+    <string name="device_id_app_manager_title">Gerenciar rastreamento de apps</string>
+    <string name="device_id_manager_tips">O sistema fornece identificadores de rastreamento redefiníveis (OAID) para apps em vez de identificadores de dispositivos para proteger sua privacidade</string>
+    <string name="device_id_manager_title">Gerenciar identificador de rastreamento</string>
+    <string name="device_id_reset">Redefinir identificador de rastreamento</string>
+    <string name="device_id_reset_msg">Após a redefinição, um novo identificador será associado a este dispositivo.</string>
+    <string name="device_id_str">Identificador de rastreamento atual: %s</string>
     <string name="dev_sign_notification_content">"Você está usando o Android 12 Beta. O feedback que você fornecer nos ajudará a identificar e corrigir problemas. Obrigado por participar neste programa!"</string>
     <string name="dev_sign_notification_title">"Android 12 Beta"</string>
     <string name="device_manager_apply_step_1">Ativar o administrador do dispositivo para este app?</string>
     <string name="device_manager_apply_step_2">"Ativar o administrador do dispositivo para este app pode causar a exposição dos seus dados pessoais.
 Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bloqueio pode ser redefinida."</string>
     <string name="device_manager_apply_step_3">Certifique-se de entender todos os possíveis riscos antes de continuar. Ativar o administrador do dispositivo para este app agora?</string>
+    <string name="device_oaid">Gerenciar ID virtual</string>
+    <string name="device_oaid_desc">Em vez do seu identificador único, o sistema fornecerá um identificador virtual (OAID) a apps instalados. Ele evita que os apps rastreiem o seu comportamento e preferências, e protege a sua privacidade.</string>
+    <string name="device_oaid_title">ID virtual</string>
     <string name="dialog_app_roaming_message">%1$s não pode usar os dados móveis em roaming. Quando você está em roaming de dados, somente apps adicionados na lista de exceções podem usar os dados móveis.</string>
     <string name="dialog_app_roaming_title">%1$s não pode usar o roaming de dados</string>
     <string name="dialog_btn_delete_icon">Remover</string>
@@ -3564,9 +3583,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="numeric_recording_intro_header">Inserir senha</string>
     <string name="numeric_retry_button_text">Cancelar</string>
     <string name="numeric_settings_help_how_to_record">Como configurar o PIN</string>
+    <string name="oaid_apps_summary">Permita ou restrinja o acesso a apps individualmente</string>
     <string name="oaid_apps_title">Gerenciar ID virtual</string>
     <string name="oaid_reset_content_tip">Se você desativar o ID virtual agora, alguns apps podem parar de funcionar corretamente, uma parte dos dados do app poderá ser perdida ou tornar-se inutilizável.</string>
     <string name="oaid_reset_final_tip">Desativar o ID virtual mesmo assim?</string>
+    <string name="oaid_string">"ID virtual atual:
+%1s"</string>
     <string name="oaid_tips_content">Os IDs virtuais (OAID) podem ser usadas para rastrear seu comportamento e personalizar anúncios para você. Você pode selecionar quais apps têm permissão para acessar seu ID virtual. Observe que se você restringir o acesso, as recomendações de anúncios podem se tornar irrelevantes ou os apps podem não funcionar normalmente.</string>
     <string name="offline_voice_input">Entrada de voz offline</string>
     <string name="offline_voice_input_detail">Você não precisará da internet para entrada de voz.</string>
@@ -4848,6 +4870,16 @@ Retirar consentimento agora?"</string>
     <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Mi. Não é possível restaurar ou redefinir a senha. Faça o backup de todos os itens importantes e restaure os dados de fábrica. Todos os dados serão excluídos permanentemente e o seu cartão SD será formatado durante a redefinição.</string>
     <string name="reset_data_dialog_ok">Redefinir dados</string>
     <string name="reset_data_title">Não é possível restaurar a senha</string>
+    <string name="restore_device_id_content">As recomendações personalizadas serão redefinidas</string>
+    <string name="restore_device_id_title">Redefinir ID do dispositivo</string>
+    <string name="restore_dialog_content">Redefinir o ID do dispositivo atual também redefinirá as personalizações recomendadas. Redefinir agora?</string>
+    <string name="restore_dialog_positive">Redefinir</string>
+    <string name="restore_dialog_title">Atenção!</string>
+    <string name="restore_oaid_content">Redefina seu ID virtual para limpar seus registros de preferências e comportamentos</string>
+    <string name="restore_oaid_dialog_content">Vários apps estão usando seu ID virtual. Se você redefini-la agora, uma parte dos dados do seu app pode ser perdida ou tornar-se inutilizável. Redefinir o ID virtual mesmo assim?</string>
+    <string name="restore_oaid_positive">Redefinir</string>
+    <string name="restore_oaid_positive_step">Redefinir (%1$d)</string>
+    <string name="restore_oaid_title">Redefinir ID virtual</string>
     <string name="result_autoscan_header">Monitoramento de pagamentos</string>
     <string name="result_autoscan_info">Monitorar automaticamente o ambiente de sistema quando apps de pagamento forem iniciados</string>
     <string name="result_sms_header">Riscos detectados em mensagens</string>
@@ -6632,6 +6664,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="permission_instruction_read_read_calendar">Esta permissão permite que os apps adicionem, excluam e editem eventos da agenda.</string>
     <string name="permission_instruction_receive_sms_mms">Esta permissão permite que os apps leiam todos os SMS e MMS. Essas mensagens podem conter senhas, detalhes de contas bancárias e outras informações pessoais.</string>
     <string name="permission_legacy_storage">Acesse fotos, vídeos, áudio e arquivos</string>
+    <string name="permission_oaid_desc">Permitir que %1$s monitore suas atividades em outros apps e sites?</string>
     <string name="permission_precise_location">Localização precisa</string>
     <string name="permission_precise_location_sumary">Quando esse recurso estiver desativado, os apps só poderão acessar sua localização aproximada</string>
     <string name="permission_risk_app_for_desc">Este app pode representar riscos de segurança. Conceder as permissões mesmo assim?</string>

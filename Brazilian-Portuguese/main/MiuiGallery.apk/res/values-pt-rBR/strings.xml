@@ -226,6 +226,8 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_recreate_image_dialog_msg">Você pode continuar enviando fotos ou selecionar novas.</string>
     <string name="ai_recreate_image_dialog_title">"As fotos de %s não foram enviadas"</string>
     <string name="ai_refuse_update_toast">Selecione novas fotos para poder atualizar esta imagem AI</string>
+    <string name="ai_search_picker_next_step">Próximo</string>
+    <string name="ai_search_picker_title">Selecione o segmento</string>
     <string formatted="false" name="ai_select_people_sub_title">%1d–%2d melhores fotos serão selecionadas automaticamente</string>
     <string name="ai_select_people_title">Selecione uma pessoa para criar sua imagem IA</string>
     <string formatted="false" name="ai_select_photo_complete_description">"Selecione %1d–%2d fotos de rosto ou meio corpo.
@@ -841,16 +843,21 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="delete_album_msg_format_cloud">Excluir %1$s %2$s da MiCloud e de todos os dispositivos sincronizados?</string>
     <string name="delete_album_msg_format_local">Excluir %1$s %2$s?</string>
     <string name="delete_album_success">Álbum excluído</string>
+    <string name="delete_all_photos">"Você está prestes a excluir todas as fotos deste dispositivo. Isso pode fazer com que você perca dados importantes. Excluir mesmo assim?"</string>
     <string name="delete_from_all_devices_and_cloud">de todos os dispositivos e da MiCloud</string>
     <string name="delete_from_cloud">Excluir da nuvem também</string>
     <string name="delete_from_this_album_and_cloud">deste álbum e da MiCloud</string>
     <string name="delete_in_album">Os itens selecionados serão excluídos da nuvem e de todos os dispositivos conectados e armazenados na lixeira da nuvem por %d caso você tenha um plano gratuito. Excluir mesmo assim?</string>
     <string name="delete_in_home_page">Os itens selecionados serão excluídos da nuvem e de todos os dispositivos conectados e armazenados na lixeira da nuvem por %d caso você tenha um plano gratuito. Excluir mesmo assim?</string>
     <string name="delete_in_process">Excluindo…</string>
+    <string name="delete_media_dialog_comment">Esses itens serão movidos primeiro para \"Itens excluídos\". A partir daí, você pode recuperá-los ou excluí-los permanentemente.</string>
     <string name="delete_media_for_cloud">Os itens selecionados serão removidos da nuvem e de todos os dispositivos sincronizados para os itens excluídos recentemente.</string>
+    <string name="delete_media_from_cloud">Os itens selecionados serão excluídos de todos os dispositivos e da nuvem. Excluir mesmo assim?</string>
     <string name="delete_origin">Excluir itens do álbum original</string>
     <string name="delete_other_shared_images">"Não é possível excluir fotos compartilhadas por outras pessoas"</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d excluído(s), %2$d mantido(s)</string>
+    <string name="delete_risk_alert_message">"Você selecionou um grande número de itens para excluir. Se você continuar, esses itens serão movidos para \"Itens excluídos\". Excluir itens agora?"</string>
+    <string name="delete_risk_alert_title">Atenção!</string>
     <string name="delete_third_party_photo">Excluir esta foto?</string>
     <string name="delete_third_party_video">Excluir este vídeo?</string>
     <string name="deny">Rejeitar</string>
@@ -1058,6 +1065,8 @@ Envie este código para o supervisor."</string>
     <string name="ext_sdcard_permission_request_title">Permita que a Galeria acesse o cartão SD</string>
     <string name="ext_sdcard_request_failed_button_text">"OK"</string>
     <string name="ext_sdcard_request_succeed_toast_text">"Você está pronto para começar!"</string>
+    <string name="external_delete_notification_content">Toque para ver os itens excluídos recentemente para garantir que nada importante seja perdido</string>
+    <string name="external_delete_notification_title">Itens excluídos da Galeria</string>
     <string name="face_album_empty">"Não existem fotos suficientes para reconhecer pessoas.
 Tire mais fotos de seus amigos!"</string>
     <string name="face_album_empty_syncing">Sincronizando dados, volte mais tarde</string>
@@ -1330,7 +1339,7 @@ estão disponíveis"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="foods_people_title">"Paraíso do paladar"</string>
+    <string name="foods_people_title">Muito tempo sem ver</string>
     <string name="foods_people_travel_title">Comendo %2$s com %1$s</string>
     <string name="foods_travel_title_one">Uma amostra de %1$s</string>
     <string name="foods_travel_title_three">"Comidas %1$s"</string>
@@ -1366,13 +1375,19 @@ estão disponíveis"</string>
     <string name="global_pc">Meu laptop</string>
     <string name="global_phone">Meu telefone</string>
     <string name="global_trash_vip_info_text_login_medium_or_low_level">"Os itens excluídos dos quais foi feito backup podem permanecer na nuvem por até %1$s dias. Os itens dos quais não foi feito backup serão retidos por até %2$s dias."</string>
+    <string name="google_banner_back_stop">Backup interrompido</string>
+    <string name="google_banner_back_stop_des">"Você está sem armazenamento da Conta do Google. Para retomar o backup das suas fotos, obtenha mais armazenamento ou libere espaço."</string>
     <string name="google_banner_backup_des">Comece agora e mantenha suas fotos e vídeos seguros no Google Fotos.</string>
     <string name="google_banner_backup_left_btn_text">Agora não</string>
     <string name="google_banner_backup_right_btn_text">Ativar backup</string>
     <string name="google_banner_backup_title">Faça backup de seus itens no Google Fotos</string>
     <string name="google_banner_upgrade_des">Você pode comprar mais armazenamento em nuvem para sua Conta do Google.</string>
+    <string name="google_banner_upgrade_left_btn_clean_space">Limpar espaço</string>
     <string name="google_banner_upgrade_left_btn_text">Ver detalhes</string>
+    <string name="google_banner_upgrade_right_btn_get_storage">Obter armazenamento</string>
     <string name="google_banner_upgrade_right_btn_text">Comprar armazenamento</string>
+    <string name="google_banner_upgrade_space_low_des">"Em breve você não poderá fazer backup de suas fotos e vídeos"</string>
+    <string name="google_banner_upgrade_space_low_title">Seu armazenamento está %s cheio</string>
     <string name="google_banner_upgrade_title">O armazenamento em nuvem está cheio</string>
     <string name="google_open_backup_error">"Não foi possível conectar ao Google Fotos"</string>
     <string name="google_secret_add_content">Para ver os itens que você tornou privados, deslize para baixo em \"Álbuns\"</string>
@@ -1949,6 +1964,7 @@ para personalizar a Galeria"</string>
     <string name="multi_view_tip_button_text">Entendi</string>
     <string name="multi_view_tip_sub_title">Afaste dois dedos ou mova-os um em direção ao outro para ajustar o tamanho dos itens exibidos.</string>
     <string name="multi_view_tip_title">Aumentar e diminuir o zoom</string>
+    <string name="multiwindow_not_support_camera">"A Câmera não pode ser usada no modo de múltiplas janelas"</string>
     <string name="must_pick_file">Selecione uma foto</string>
     <string name="my_family">Meu lar</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
@@ -3508,7 +3524,9 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="today_of_year_function_closed_btn_tip">Ativar</string>
     <string name="today_of_year_function_closed_tip">"Você ainda não ativou \"Neste dia\""</string>
     <string name="today_of_year_location_num">Localizações</string>
+    <string name="today_of_year_next_day">Próximo dia</string>
     <string name="today_of_year_photo_num">Fotos</string>
+    <string name="today_of_year_pre_day">Dia anterior</string>
     <string name="tomorrow">Amanhã</string>
     <string name="too_many_recipients">"Não é possível adicionar mais de %2$s destinatários (%1$s selecionados atualmente)."</string>
     <string name="tran_notification_complete_title">Transferência completa</string>
@@ -3705,10 +3723,10 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="video_editor_loading_warning_msg">Devido a um erro de codificação, alguns recursos e visualizações poderão estar indisponíveis durante o processo de edição. O vídeo final não será afetado.</string>
     <string name="video_editor_loading_warning_title">Erro de codificação</string>
     <string name="video_editor_more">Avançado</string>
-    <string name="video_editor_component_delete_btn_content_description">Remover vídeo %d</string>
+    <string name="video_editor_component_delete_btn_content_description">Remover segmento %d</string>
     <string name="video_editor_component_next_step">Próximo %1$d/%2$d</string>
     <string name="video_editor_component_next_step_enabled_content_description">Próximo</string>
-    <string name="video_editor_component_picked_imageview_content_description">Slot de vídeo adicionado %d</string>
+    <string name="video_editor_component_picked_imageview_content_description">Segmento adicionado ao slot %d</string>
     <string name="video_editor_not_support_8k_tips">"Não é possível editar vídeos em %dK"</string>
     <string name="video_editor_not_support_tips">Este formato de vídeo não é suportado</string>
     <string name="video_editor_ok">"OK"</string>

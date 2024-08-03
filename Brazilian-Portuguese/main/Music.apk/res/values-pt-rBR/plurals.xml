@@ -254,6 +254,14 @@ Nota: o arquivo também será excluído do dispositivo."</item>
         <item quantity="other">Transição entre músicas: %d segundos</item>
         <item quantity="one">Transição entre músicas: %d segundo</item>
     </plurals>
+    <plurals name="temp_range_c">
+        <item quantity="other">%1$d a %2$d graus Celsius</item>
+        <item quantity="one">%1$d a %2$d graus Celsius</item>
+    </plurals>
+    <plurals name="temp_range_f">
+        <item quantity="other">%1$d a %2$d graus Fahrenheit</item>
+        <item quantity="one">%1$d a %2$d graus Fahrenheit</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Vídeos</item>
         <item quantity="one">Vídeo</item>
