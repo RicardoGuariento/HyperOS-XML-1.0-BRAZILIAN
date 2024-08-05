@@ -2218,7 +2218,7 @@ monitoramento de terremotos"</string>
     <string name="game_manual_record_setting_setting">Configurações</string>
     <string name="game_manual_record_setting_title">Momentos principais</string>
     <string name="game_more_improve">Restringir atividades em segundo plano e velocidade de download para economizar banda e bateria para jogos</string>
-    <string name="game_performance_wild_mode">Modo desempenho</string>
+    <string name="game_performance_wild_mode">Wild Boost</string>
     <string name="game_performance_wild_mode_tips">"Ative para melhorar o desempenho do dispositivo
 (Seu dispositivo irá aquecer e consumir mais energia)"</string>
     <string name="game_setting">Configurações de jogo</string>
@@ -2357,8 +2357,8 @@ monitoramento de terremotos"</string>
     <string name="gb_audition_play_instruction">Use fones de ouvido para um melhor efeito</string>
     <string name="gb_award_noti_message">Ative as atualizações de plano de fundo do Game for Peace no Game Turbo para obter recompensas</string>
     <string name="gb_award_noti_title">As recompensas do Game for Peace chegaram!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Não é possível alternar para o Modo balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Não é possível alternar para o Modo balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança. &lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Não é possível alternar para o modo Balanceado no Game Turbo quando o Modo ultimate está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Não é possível alternar para o modo Balanceado no Game Turbo quando o Modo ultimate está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança. &lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
     <string name="gb_bar_high">Alta</string>
     <string name="gb_bar_low">Baixa</string>
     <string name="gb_bar_mid">Média</string>
@@ -2492,19 +2492,19 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_ngtb_gpu">"GPU"</string>
     <string name="gb_not_support_on_device">Este app não pode ser usado na tela externa</string>
     <string name="gb_operat_frequently">Não tão rápido!</string>
-    <string name="gb_performace_guide_disable_desc"><Data>Não é possível alternar para o Modo balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Não é possível alternar para o modo Balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
     <string name="gb_performace_switch_toast">Mudou para o Modo desempenho. Seu dispositivo pode esquentar e consumir mais energia.</string>
     <string name="gb_performace_tips_button">Mudar</string>
     <string name="gb_performace_tips_title">Mude para o Modo desempenho para uma melhor experiência</string>
-    <string name="gb_performance_balance">Modo balanceado</string>
-    <string name="gb_performance_balance_tips">"O Modo balanceado economiza energia
+    <string name="gb_performance_balance">Balanceado</string>
+    <string name="gb_performance_balance_tips">"O modo Balanceado economiza energia
 enquanto reduz a taxa de atualização e os limites de temperatura"</string>
     <string name="gb_performance_enhance">Alta performance</string>
     <string name="gb_performance_enhance_sub_title">Prioriza o desempenho em vez do consumo de bateria</string>
-    <string name="gb_performance_high">Modo desempenho</string>
+    <string name="gb_performance_high">Desempenho</string>
     <string name="gb_performance_mode">Modo jogo</string>
-    <string name="gb_performance_tips">"O Modo desempenho melhora o desempenho gráfico,
-mas também aumenta o consumo de energia e permite que seu dispositivo superaqueça"</string>
+    <string name="gb_performance_tips">"O modo Desempenho melhora o desempenho gráfico,
+mas também aumenta o consumo de energia e pode causar superaquecimento"</string>
     <string name="gb_predownload_check">Ver recompensas</string>
     <string name="gb_predownload_dialog_cancel">Não, obrigado</string>
     <string name="gb_predownload_dialog_checked">"Não exibir novamente"</string>
@@ -2814,7 +2814,7 @@ Pressione e segure o indicador para mover a janela."</string>
     <string name="gtb_guide_gtb_game_new">Novo</string>
     <string name="gtb_guide_gtb_line_new">Experimente o Modo performance no Game Turbo!</string>
     <string name="gtb_guide_gtb_line_new_global">Deslize para abrir o Game Turbo</string>
-    <string name="gtb_guide_gtb_line_wilde_mode">Experimente o Modo desempenho no Game Turbo para levar seu jogo para o próximo nível</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Experimente o Wild Boost no Game Turbo para levar seu jogo para o próximo nível</string>
     <string name="gtb_guide_gtb_line_xspace">Intensifique seu jogo com o novo Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Use outros apps enquanto você joga</string>
     <string name="gtb_guide_small_window_app_title">Janelas flutuantes</string>
@@ -4876,7 +4876,7 @@ Retirar consentimento agora?"</string>
     <string name="restore_dialog_positive">Redefinir</string>
     <string name="restore_dialog_title">Atenção!</string>
     <string name="restore_oaid_content">Redefina seu ID virtual para limpar seus registros de preferências e comportamentos</string>
-    <string name="restore_oaid_dialog_content">Vários apps estão usando seu ID virtual. Se você redefini-la agora, uma parte dos dados do seu app pode ser perdida ou tornar-se inutilizável. Redefinir o ID virtual mesmo assim?</string>
+    <string name="restore_oaid_dialog_content">Vários apps estão usando seu ID virtual. Se você redefinir agora, uma parte dos dados do seu app pode ser perdida ou tornar-se inutilizável. Redefinir o ID virtual mesmo assim?</string>
     <string name="restore_oaid_positive">Redefinir</string>
     <string name="restore_oaid_positive_step">Redefinir (%1$d)</string>
     <string name="restore_oaid_title">Redefinir ID virtual</string>
