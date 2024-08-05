@@ -2,7 +2,7 @@
 <resources>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
-    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>f
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
     <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
@@ -862,7 +862,6 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_user_agreement_link">"&lt;Data>Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data>"</string>
     <string name="passport_user_agreement_link_more">"&lt;Data>Li e aceito os seguintes documentos: o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_id_intro">Digite a senha para %1$s</string>
     <string name="passport_v_code_error">O código de verificação está incorreto</string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
     <string name="passport_vcode_prompt_long">Digite o código de verificação</string>
