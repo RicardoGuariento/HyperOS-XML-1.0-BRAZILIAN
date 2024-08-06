@@ -150,8 +150,8 @@ monitoramento de terremoto"</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="game_booster">"Game Turbo"</string>
-    <string name="gamebooster_confirm_dialog_negative_btn">"Não concordo"</string>
-    <string name="gamebooster_confirm_dialog_positive_btn">Concordar</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">"Não aceitar"</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Aceitar</string>
     <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a></Data></string>
     <string name="gamebooster_confirm_dialog_title">Concorde com nossa Política de Privacidade</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
@@ -252,12 +252,14 @@ monitoramento de terremoto"</string>
     <string name="gb_webwindow_schemedialog_title">Abrir Jogos agora?</string>
     <string name="gb_weixinpay_can_not_complete">"Não é possível concluir o pagamento. Instale para continuar."</string>
     <string name="gdpr_msg"><Data>"Para usar os recursos básicos do app Segurança, você deve concordar que a Xiaomi coletará, processará e usará seus dados pessoais, incluindo informações sobre as maneiras como você usa os recursos do app Segurança (ex.: estatísticas de uso de dados móveis, informações sobre malwares, bem como informações básicas sobre o seu dispositivo) e outros tipos de informações especificadas em nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a>."</Data></string>
+    <string name="global_satisfaction_network_error">"Não foi possível obter dados. Verifique suas configurações de rede e tente novamente."</string>
+    <string name="global_satisfactionnetwork_loading">Obtendo dados…</string>
     <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Booster Xunyou. Este serviço irá coletar o seu ID da Conta Mi para registrar a duração da sua adesão."</string>
-    <string name="gtb_dialog_privacy_speed_tips"><Data>"Eu li e concordei com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Eu li e concordei com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Game Booster Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Modificador de voz Xunyou Game. Este serviço coletará o ID da sua Conta Mi para registrar a duração da sua assinatura."</string>
-    <string name="gtb_dialog_privacy_voice_tips"><Data>"Eu li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Modificador de voz Xunyou Game."</Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Modificador de voz Xunyou Game."</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Modificador de voz Xunyou Game</string>
     <string name="hybrid_provider">Fornecido por %1$s</string>
     <string name="icon_content_description">Ícone de diálogo</string>
@@ -402,6 +404,9 @@ monitoramento de terremoto"</string>
     <string name="pc_extreme_mode_title">Modo hibernação</string>
     <string name="pc_going_to_exit_extreme_mode">Saindo do Modo hibernação</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Seu dispositivo está carregando. Modo hibernação está desativado.</string>
+    <string name="pc_satellite_auto_enter_super_power">Ativado a Ultra economia de bateria para garantir comunicações via satélite</string>
+    <string name="pc_satellite_superpower_dialog_subtitle">A bateria está muito fraca. As comunicações do satélite Tiantong serão desativadas junto com o Ultra economia de bateria. Desligar mesmo assim?</string>
+    <string name="pc_satellite_superpower_dialog_title">Comunicações do satélite Tiantong</string>
     <string name="pm">"PM"</string>
     <string name="pm_lable_name">Sobre o acesso root</string>
     <string name="power_center_battery_duration_screen_on">Tempo de tela restante</string>

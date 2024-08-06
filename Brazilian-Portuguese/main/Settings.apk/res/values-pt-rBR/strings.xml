@@ -616,7 +616,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="adjust_font_size_answer_cn">Tente ajustar o tamanho do texto e a espessura da fonte usando os controles deslizantes abaixo!</string>
     <string name="adjust_font_size_answer_global">Tente ajustar o tamanho do texto usando o controle deslizante abaixo!</string>
     <string name="adjust_ligth">Ajuste de brilho</string>
-    <string name="adjust_temperature_title">Temperatura de cor</string>
+    <string name="adjust_temperature_title">Temperatura da cor</string>
     <string name="admin_device_owner_message">O administrador pode monitorar e gerenciar apps e dados associados a este dispositivo, incluindo configurações, permissões, acesso corporativo, atividade de rede e informações de local do dispositivo.</string>
     <string name="admin_disabled_other_options">Outras opções estão desativadas pelo seu administrador</string>
     <string name="admin_financed_message">O administrador do seu dispositivo pode ser capaz de acessar dados associados a este dispositivo, gerenciar apps e alterar as configurações deste dispositivo.</string>
@@ -1002,8 +1002,8 @@ Alterar as configurações agora?"</string>
     <string name="auracast_add_source_conflict_broadcasting">Esta máquina está na transmissão, desligue a transmissão de áudio antes de ouvir a transmissão próxima</string>
     <string name="auracast_add_source_conflict_listening">Por favor, termine primeiro ouça a transmissão atual</string>
     <string name="auracast_scan_not_support">"Não conectado a fones de ouvido compatíveis. Não consigo encontrar transmissões próximas."</string>
-    <string name="auto_adjst_effect_summary">Ajusta a temperatura de cor de acordo com a luz ambiente automaticamente</string>
-    <string name="auto_adjust_effect_title">Ajustar a temperatura de cor automaticamente</string>
+    <string name="auto_adjst_effect_summary">Ajusta a temperatura da cor de acordo com a luz ambiente automaticamente</string>
+    <string name="auto_adjust_effect_title">Ajustar a temperatura da cor automaticamente</string>
     <string name="auto_anc_closed">Desativado</string>
     <string name="auto_anc_fifteen_recover">%d segundos</string>
     <string name="auto_anc_five_recover">%d segundos</string>
@@ -2371,13 +2371,13 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="call_manager_enable_summary">Permite que este serviço gerencie como as chamadas são feitas.</string>
     <string name="call_manager_enable_title">Ativar Gerenciador de chamadas</string>
     <string name="call_manager_title">Gerenciador de chamadas</string>
-    <string name="call_notification_answer_action">Responder</string>
+    <string name="call_notification_answer_action">Atender</string>
     <string name="call_notification_answer_video_action">Vídeo</string>
     <string name="call_notification_decline_action">Recusar</string>
     <string name="call_notification_hang_up_action">Desligar</string>
     <string name="call_notification_incoming_text">Chamada recebida</string>
     <string name="call_notification_ongoing_text">Chamada em andamento</string>
-    <string name="call_notification_screening_text">Triagem de uma chamada recebida</string>
+    <string name="call_notification_screening_text">Filtrando uma ligação recebida</string>
     <string name="call_records_name_1">Diorgenes Setubal</string>
     <string name="call_records_name_2">Gabriela Kircheiss</string>
     <string name="call_records_name_3">Ricardo Guariento</string>
@@ -8585,7 +8585,7 @@ Essa configuração afeta todos os usuários do dispositivo."</string>
     <string name="screen_cancel">Cancelar</string>
     <string name="screen_color_and_optimize">Cores e contraste</string>
     <string name="screen_color_and_optimize_disabled">Não é possível ajustar o esquema de cores e a temperatura das cores no Modo leitura</string>
-    <string name="screen_color_temperature">Temperatura de cor</string>
+    <string name="screen_color_temperature">Temperatura da cor</string>
     <string name="screen_color_temperature_and_saturation">Cores e saturação</string>
     <string name="screen_compatibility_label">Compatibilidade de tela</string>
     <string name="screen_compatibility_text">Talvez este app não seja desenvolvido para sua tela. É possível controlar o ajuste da tela aqui.</string>
@@ -10641,7 +10641,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tethering_help_button_text">Ajuda</string>
     <string name="tethering_interface_options">Ancoragem</string>
     <string name="tethering_settings_not_available">Altere as configurações de vínculo no Primeiro espaço</string>
-    <string name="texture_adjust_temperature_title">Temperatura de cor</string>
+    <string name="texture_adjust_temperature_title">Temperatura da cor</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>

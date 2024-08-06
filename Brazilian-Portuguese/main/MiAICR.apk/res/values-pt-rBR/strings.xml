@@ -129,7 +129,7 @@
     <string name="cognition_privacy_dialog_get_background_loc_permission_title">Permissões necessárias</string>
     <string name="cognition_privacy_dialog_get_mijia_cta_message">O Motor Mi IA precisa coletar informações sobre seus dispositivos domésticos inteligentes para aprender seus padrões. Faça login no Mi Home/Xiaomi Home para começar. Abrir o app agora?</string>
     <string name="cognition_privacy_dialog_get_mijia_cta_title">Faça login no Mi Home/Xiaomi Home</string>
-    <string name="cognition_privacy_dialog_get_mijia_data_message">"O Motor Mi IA precisa coletar informações sobre seus dispositivos domésticos inteligentes e cenas no Mi Home/Xiaomi Home para ajudá-lo a aprender e usar padrões. Confirme que você fez login no app com sua conta (%s) e toque em \"Concordo\" para permitir a coleta dessas informações."</string>
+    <string name="cognition_privacy_dialog_get_mijia_data_message">"O Motor Mi IA precisa coletar informações sobre seus dispositivos domésticos inteligentes e cenas no Mi Home/Xiaomi Home para ajudá-lo a aprender e usar padrões. Confirme que você fez login no app com sua conta (%s) e toque em \"Aceitar\" para permitir a coleta dessas informações."</string>
     <string name="cognition_privacy_dialog_get_mijia_data_title">Permissões necessárias</string>
     <string name="cognition_privacy_dialog_get_noti_permission_message">Esta é uma permissão necessária. Você pode conceder essa permissão nas Configurações.</string>
     <string name="cognition_privacy_dialog_get_noti_permission_title">Permitir que o Xiaomi HyperMind envie notificações</string>
@@ -139,8 +139,8 @@
     <string name="cognition_privacy_dialog_permission_desc_phone_state">Para aprender como você usa dispositivos domésticos inteligentes ao receber chamadas</string>
     <string name="cognition_privacy_dialog_permission_desc_surround_device">Para reconhecer se seus dispositivos domésticos inteligentes usados com frequência estão próximos</string>
     <string name="cognition_privacy_dialog_positive_button_mijia_text">Abrir</string>
-    <string name="cognition_privacy_dialog_positive_button_text">Concordo</string>
-    <string name="cognition_privacy_dialog_reject_button_text">"Não concordo"</string>
+    <string name="cognition_privacy_dialog_positive_button_text">Aceitar</string>
+    <string name="cognition_privacy_dialog_reject_button_text">"Não aceitar"</string>
     <string name="cognition_privacy_request">Autorização</string>
     <string name="cognition_privacy_revoke">Retirada do consentimento</string>
     <string name="cognition_privacy_revoke_and">Retirar seu consentimento desativará esse recurso</string>
