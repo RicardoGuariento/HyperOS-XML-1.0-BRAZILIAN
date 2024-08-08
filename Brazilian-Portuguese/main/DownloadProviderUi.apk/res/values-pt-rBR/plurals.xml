@@ -34,8 +34,8 @@
         <item quantity="one">Excluir %d download?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d downloads excluídos</item>
-        <item quantity="one">%1$d download excluído</item>
+        <item quantity="other">%d downloads excluídos</item>
+        <item quantity="one">%d download excluído</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d dias</item>
@@ -85,8 +85,8 @@
         <item quantity="one">Excluir este item?</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">%1$d itens</item>
-        <item quantity="one">%1$d item</item>
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
     </plurals>
     <plurals name="show_more">
         <item quantity="other">Mostrar mais %1$d</item>

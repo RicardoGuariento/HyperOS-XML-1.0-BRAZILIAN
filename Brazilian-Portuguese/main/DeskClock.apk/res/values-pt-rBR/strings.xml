@@ -609,7 +609,7 @@ mm"</string>
     <string name="sleep_analysis">Estatísticas</string>
     <string name="sleep_analysis_chart_date_format">"dd/MM"</string>
     <string name="sleep_date_provider_text">Os dados do sono são fornecidos pelo Mi Saúde</string>
-    <string name="sleep_date_provider_text_new">Os dados do sono são fornecidos pelo Mi Fitness</string>
+    <string name="sleep_date_provider_text_new">Os dados do sono são fornecidos pelo Mi Saúde</string>
     <string name="sleep_duration">"Duração do sono: "</string>
     <string name="sleep_duration_avg_text_diff">Duração média do sono (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Dormiu por %1$s %2$s</string>
@@ -624,7 +624,7 @@ mm"</string>
     <string name="sleep_record">Analise o sono</string>
     <string name="sleep_record_desc">Ative para começar a registrar seus dados de sono</string>
     <string name="sleep_record_desc_detailed">O recurso de análise de sono é fornecido pelo Mi Saúde. Uma vez ativado, o Mi Saúde registrará automaticamente o seu sono com base no seu uso do dispositivo, estatísticas de atividades e horários de dormir e acordar que você definiu, mostrando suas estatísticas na forma de gráficos. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente. Todos os dados relacionados serão armazenados localmente no seu dispositivo, o que permite que você os gerencie com facilidade.</string>
-    <string name="sleep_record_desc_detailed_new">A análise do sono é fornecido pelo recurso Sono do Mi Fitness. Se você ativar esse recurso, o Mi Fitness coletará e exibirá automaticamente os dados do seu sono com base no uso do dispositivo, na atividade e na hora de dormir e acordar que você definiu. Para analisar o sono com mais precisão, permita que o Mi Fitness inicie automaticamente.</string>
+    <string name="sleep_record_desc_detailed_new">A análise do sono é fornecido pelo recurso Sono do Mi Saúde. Se você ativar esse recurso, o Mi Saúde coletará e exibirá automaticamente os dados do seu sono com base no uso do dispositivo, na atividade e na hora de dormir e acordar que você definiu. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente.</string>
     <string name="sleep_record_no_data">As suas estatísticas aparecerão aqui após o Mi Saúde analisar dados suficientes</string>
     <string name="sleep_remind">Lembrete para dormir</string>
     <string name="sleep_time">Dormiu</string>
@@ -796,10 +796,10 @@ mm"</string>
     <string name="upcoming_alarm">Próximo alarme: %s</string>
     <string name="upcoming_alarm_hint">Pode desativá-lo com antecedência</string>
     <string name="upcoming_alarm_new">Próximo alarme: %s</string>
-    <string name="update_health_app">Atualizar Mi Fitness</string>
-    <string name="update_health_app_desc">O recurso de análise de sono é fornecido pelo Mi Fitness. Atualize o Mi Fitness para sua versão mais recente para poder acessar os recursos relacionados.</string>
-    <string name="update_health_app_desc_new">O recurso de análise do sono é fornecido pelo Mi Fitness. Atualize o Mi Fitness para sua versão mais recente para acessar os recursos relacionados.</string>
-    <string name="update_health_app_new">Atualizar Mi Fitness</string>
+    <string name="update_health_app">Atualizar Mi Saúde</string>
+    <string name="update_health_app_desc">O recurso de análise de sono é fornecido pelo Mi Saúde. Atualize o Mi Saúde para sua versão mais recente para poder acessar os recursos relacionados.</string>
+    <string name="update_health_app_desc_new">O recurso de análise do sono é fornecido pelo Mi Saúde. Atualize o Mi Saúde para sua versão mais recente para acessar os recursos relacionados.</string>
+    <string name="update_health_app_new">Atualizar Mi Saúde</string>
     <string name="update_it">Atualizar</string>
     <string name="update_notification_info">Atualizando os dados em segundo plano…</string>
     <string name="usage_start">Iniciar</string>

@@ -3831,6 +3831,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_low_battery_fast_charge_summary">Conecte o carregador fornecido para acelerar o carregamento quando a tela estiver desligada e a bateria estiver fraca. Lembre-se, este recurso pode fazer com que seu dispositivo aqueça.</string>
     <string name="pc_low_temp_charge_summary">Mantenha o carregador conectado e espere a bateria aquecer depois que a tela apagar para carregar normalmente</string>
     <string name="pc_low_temp_charge_title">Carregamento em baixa temperatura</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Limite o desempenho do dispositivo para prolongar a vida útil da bateria quando a temperatura ambiente estiver extremamente baixa</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Modo de resistência ao frio</string>
     <string name="pc_main_activity_back">Voltar</string>
     <string name="pc_main_battery_text_day">%1$s min adicionado, cerca de %2$s d restante(s)</string>
     <string name="pc_main_battery_text_day_hour">%1$s min adicionado, cerca de %2$s d e %3$s h restante(s)</string>
@@ -5542,6 +5544,9 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="superpower_dialog_button_ok">"OK"</string>
     <string name="superpower_dialog_massage">A Ultra economia de bateria restringe os recursos com grande consumo de energia e diminui o desempenho do dispositivo para manter as funcionalidades básicas (ex.: chamadas, SMS e conexão de rede) funcionando pelo máximo de tempo possível. Ativar a Ultra economia de energia?</string>
     <string name="superpower_dialog_title">Ultra economia de bateria</string>
+    <string name="superpower_notification_low_temp_btn_txt">Ativar</string>
+    <string name="superpower_notification_low_temp_summary">O Modo de resistência ao frio pode economizar mais bateria quando a Ultra economia de bateria estiver ativada e a temperatura ambiente estiver extremamente baixa</string>
+    <string name="superpower_notification_low_temp_title">Ativar a Ultra economia de bateria?</string>
     <string name="superpower_notification_new_title">Menos de %d%% de bateria restante</string>
     <string name="superpower_notification_new_title_new">Menos de %s de bateria restante</string>
     <string name="superpower_notification_summary">Carregue o seu dispositivo ou ative a Ultra economia de bateria</string>
@@ -5550,6 +5555,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="superpower_notification_title_new">Menos de %s de bateria</string>
     <string name="superpower_progress_content">Ativando a Ultra economia de bateria…</string>
     <string name="superpower_progress_left_time">%1$d h e %2$d min</string>
+    <string name="superpower_progress_low_temp_content">Ativando o Modo de resistência ao frio…</string>
     <string name="superpower_progress_switch_home">Alternando para o Modo escuro</string>
     <string name="superpower_progress_title">Tempo restante</string>
     <string name="superpower_progress_turndown_brightness">Reduzindo brilho da tela</string>
