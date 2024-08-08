@@ -6355,7 +6355,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_cancel_device">Cancelar</string>
     <string name="miheadset_checkUpdate">Procurar por atualizações</string>
     <string name="miheadset_closeAnc">Desativado</string>
-    <string name="miheadset_close_leaudio_first">Desative o Áudio LE em Configurações adicionais para poder usar esse recurso</string>
+    <string name="miheadset_close_leaudio_first">Desative o Áudio LE nas Configurações adicionais para poder usar esse recurso</string>
     <string name="miheadset_codec_sample_rate">Taxa de amostragem de áudio Bluetooth</string>
     <string name="miheadset_common_problem">Perguntas frequentes</string>
     <string name="miheadset_connectHeadsetForFw">Conecte os fones de ouvido para ver a versão do firmware</string>
@@ -6620,7 +6620,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_sos_statusbar_title">SOS de emergência ativado</string>
     <string name="miui_sos_unknow_contract">Contato desconhecido</string>
     <string name="miui_special_feature">Recursos especiais</string>
-    <string name="miui_tof_screen_on_close_switch_dialog_msg">Ative \"%s\" para poder usar esse recurso normalmente. Você pode ativar esse recurso em Configurações.</string>
+    <string name="miui_tof_screen_on_close_switch_dialog_msg">Ative \"%s\" para poder usar esse recurso normalmente. Você pode ativar esse recurso nas Configurações.</string>
     <string name="miui_tof_screen_on_close_switch_dialog_positive">Configurações</string>
     <string name="miui_tof_screen_on_close_switch_dialog_title">Ative \"%s\"</string>
     <string name="miui_tof_screen_on_close_tip_dialog_msg">\"%1$s\" está ativado. Para evitar que seu dispositivo exiba imediatamente a Tela inicial ou o conteúdo do app ao reconhecer seu rosto, recomendamos manter \"%2$s\" ativado também.</string>
@@ -6630,7 +6630,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_tof_screen_on_msg">Quando o dispositivo detecta uma pessoa próxima a ele, a tela liga, tenta reconhecer um rosto e desbloqueia se for bem-sucedido</string>
     <string name="miui_tof_screen_on_open_dialog_msg">Ative \"%s\" para evitar que seu dispositivo exiba imediatamente a Tela inicial ou o conteúdo do app ao reconhecer seu rosto.</string>
     <string name="miui_tof_screen_on_open_dialog_title">Ative \"%s\"</string>
-    <string name="miui_tof_screen_on_success_toast">\"Reconhecer rosto quando próximo do dispositivo\" está ativado. Para sua privacidade, ative também a opção "Permanecer na tela de bloqueio após desbloquear".</string>
+    <string name="miui_tof_screen_on_success_toast">\"Reconhecer rosto quando próximo do dispositivo\" está ativado. Para sua privacidade, ative também a opção "Ficar na Tela de bloqueio após desbloquear".</string>
     <string name="miui_tof_screen_on_title">Reconhecer rosto quando estiver perto do dispositivo</string>
     <string name="miui_touch_filtered_touchassistant_warning">A caixa de diálogo de permissões está coberta pelo Acesso rápido. Mova o Acesso rápido ou o desative.</string>
     <string name="miui_touch_filtered_warning">Se um app estiver bloqueando a caixa de permissões, arraste o item que está obstruindo-o ou feche o app.</string>
@@ -8703,7 +8703,7 @@ Essa configuração afeta todos os usuários do dispositivo."</string>
 • Abra outros apps
 
 Use este recurso com cuidado ao compartilhar este dispositivo com outras pessoas."</string>		
-    <string name="screen_pinning_guest_user_description">"Quando um app é fixado, ele pode abrir outros apps e os dados pessoais podem ser acessados.    
+    <string name="screen_pinning_guest_user_description">"Quando um app é fixado, ele pode abrir outros apps e os dados pessoais podem ser acessados.
 
 Se você quiser compartilhar seu dispositivo com alguém de forma segura, tente usar um usuário convidado. 
 
@@ -8932,7 +8932,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_manage_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
     <string name="search_manage_notification_access_title">Acesso a notificações;Notificações;Permissão de notificação</string>
     <string name="search_master_clear_title">Redefinir configurações de fábrica</string>
-    <string name="search_menu">Pesquisar em Configurações</string>
+    <string name="search_menu">Pesquisar nas Configurações</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_micloud">Sincronização;Mi Cloud;MiCloud;Sincronização com a nuvem;Sincronizar com a nuvem;Sincronizar com a MiCloud</string>
     <string name="search_music_audio_effect_optimize">Configurações de áudio;Configurações de som</string>
@@ -9157,7 +9157,7 @@ Após a exclusão, você precisará da sua impressão digital, PIN, padrão ou s
 
 Observação: não é possível usar seu rosto para desbloquear este dispositivo. Para mais informações, entre em contato com o administrador da organização."</string>
     <string name="security_settings_face_enroll_introduction_more">Mais</string>
-    <string name="security_settings_face_enroll_introduction_no_thanks">Não, obrigado.</string>
+    <string name="security_settings_face_enroll_introduction_no_thanks">Não, obrigado</string>
     <string name="security_settings_face_enroll_introduction_title">Desbloquear com seu rosto</string>
     <string name="security_settings_face_enroll_introduction_title_unlock_disabled">Usar seu rosto para autenticar</string>
     <string name="security_settings_face_enroll_must_re_enroll_subtitle">Melhorar a segurança e o desempenho</string>
@@ -9232,12 +9232,12 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Mais tarde</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">A configuração da impressão digital expirou</string>
     <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Algo deu errado. Você pode configurar sua impressão digital mais tarde.</string>
-    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message_setup">Algo deu errado. Você pode configurar sua impressão digital posteriormente em Configurações.</string>
+    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message_setup">Algo deu errado. Você pode configurar sua impressão digital posteriormente nas Configurações.</string>
     <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Você pode configurar sua impressão digital mais tarde.</string>
-    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message_setup">Você pode configurar sua impressão digital posteriormente em Configurações.</string>
+    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message_setup">Você pode configurar sua impressão digital posteriormente nas Configurações.</string>
     <string name="security_settings_fingerprint_enroll_error_unable_to_process_dialog_title">Não é possível concluir a configuração da impressão digital</string>
     <string name="security_settings_fingerprint_enroll_error_unable_to_process_message">Você pode tentar novamente agora ou configurar sua impressão digital mais tarde.</string>
-    <string name="security_settings_fingerprint_enroll_error_unable_to_process_message_setup">Você pode tentar novamente agora ou configurar sua impressão digital mais tarde em Configurações.</string>
+    <string name="security_settings_fingerprint_enroll_error_unable_to_process_message_setup">Você pode tentar novamente agora ou configurar sua impressão digital mais tarde nas Configurações.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustração mostrando a localização do sensor de impressão digital no dispositivo</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Ele fica na parte traseira do seu dispositivo. Use o dedo indicador.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Toque no sensor</string>
@@ -9301,7 +9301,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_1">Usando sua impressão digital para desbloquear seu dispositivo pode ser menos seguro do que um padrão ou pin forte</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">O Desbloqueio de impressão digital cria um modelo exclusivo da sua impressão digital para verificar se é você. Para criar este modelo de impressão digital durante a instalação, será obtido imagens da sua impressão digital de diferentes posições.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Quando você usa impressão de pixel, as imagens são usadas para atualizar seu modelo de impressão digital. Imagens usadas para criar seu modelo de impressão digital nunca são armazenadas, mas o modelo de impressão digital é armazenado com segurança no seu dispositivo e nunca sai do seu dispositivo. Todo o processamento ocorre firmemente no seu dispositivo.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Você pode excluir suas imagens e modelo de impressão digital ou desativar o Desbloqueio de impressão digital a qualquer momento em Configurações. As imagens e modelos de impressão digital são armazenados no dispositivo até que você os exclua.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Você pode excluir suas imagens e modelo de impressão digital ou desativar o Desbloqueio de impressão digital a qualquer momento nas Configurações. As imagens e modelos de impressão digital são armazenados no dispositivo até que você os exclua.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_5">Seu dispositivo pode ser desbloqueado quando você não deseja, como se alguém o segurasse perto de seu dedo.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6">Para obter melhores resultados, use um protetor de tela com certificação feita pelo Google. Com outros protetores de tela, sua impressão digital pode não funcionar.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">O Desbloqueio de impressão digital cria um modelo único da impressão digital do seu filho para verificá-lo. Para criar este modelo de impressão digital durante a configuração, será obtido imagens de suas impressões digitais de diferentes posições.</string>

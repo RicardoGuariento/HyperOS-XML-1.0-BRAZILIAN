@@ -614,7 +614,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
     <string name="gps_unauthorized">Permissões de GPS necessárias</string>
     <string name="gps_unopened">O GPS está desativado</string>
     <string name="group">Ciclos</string>
-    <string name="guide_data_cloud_sync_tip">Você pode desativar a sincronização em Configurações &gt; Conta Mi</string>
+    <string name="guide_data_cloud_sync_tip">Você pode desativar a sincronização em Configurações > Conta Mi</string>
     <string name="guide_exit">Sair do Mi Saúde</string>
     <string name="guide_exit_description">Não podemos prestar serviços a pessoas que ainda não completaram 14 anos. Certifique-se de usar este dispositivo com a permissão de seu responsável. Toque no botão abaixo para sair do app.</string>
     <string name="guide_exit_title">Você pode começar a usar o Mi Saúde após completar 14 anos.</string>
@@ -1583,7 +1583,7 @@ os dados de sono"</string>
     <string name="sync_is_off">Sincronização desativada</string>
     <string name="sync_set_network">Configurações de rede</string>
     <string name="sync_status">Status de sincronização</string>
-    <string name="sync_status_failure_retry">"Não foi possível sincronizar. Espere um ou dois minutos e tente novamente."</string>
+    <string name="sync_status_failure_retry">"Não foi possível sincronizar. Aguarde um momento e tente novamente."</string>
     <string name="sync_status_in_progress">Sincronizando…</string>
     <string name="sync_status_network_failure">"Não foi possível sincronizar. Conecte-se à rede e tente novamente."</string>
     <string name="sync_status_never_done">Não sincronizado</string>
@@ -1620,7 +1620,7 @@ os dados de sono"</string>
     <string name="tb_exercise_detail_pillar_cancel">Cancelar seleção</string>
     <string name="tb_exercise_detail_step_daily_no_data">Sem dados de contagem de passos. Meta: %1$d.</string>
     <string name="tb_exercise_detail_step_daily_no_goal">Total de passos: %1$d</string>
-    <string name="tb_exercise_detail_step_daily_normal">Total de passos: %1$d. Meta: %2$d. Completado %3$d porcento.</string>
+    <string name="tb_exercise_detail_step_daily_normal">Total de passos: %1$d. Meta: %2$d. Completado %3$d%.</string>
     <string name="tb_exercise_detail_step_no_goal_no_data">Sem dados de contagem de passos.</string>
     <string name="tb_exercise_detail_step_w_m_no_data">Sem dados de contagem de passos. Dias em que você atingiu a meta: %1$d.</string>
     <string name="tb_exercise_detail_step_w_m_no_goal">Média diária de contagem de passos: %1$d.</string>
@@ -1638,7 +1638,7 @@ os dados de sono"</string>
     <string name="tb_exercise_sport_sum">Relatório de exercício. %1$s. Toque para ver os detalhes.</string>
     <string name="tb_exercise_steps_no_data">Sem dados de contagem de passos. Metal atual: %1$d. Toque para ver os detalhes.</string>
     <string name="tb_exercise_steps_no_goal">Número de passos: %1$d. Toque para ver os detalhes.</string>
-    <string name="tb_exercise_steps_normal">Número de passos: %1$d. Metal atual: %2$d. Progresso: %3$d porcento.Toque para ver os detalhes.</string>
+    <string name="tb_exercise_steps_normal">Número de passos: %1$d. Metal atual: %2$d. Progresso: %3$d%. Toque para ver os detalhes.</string>
     <string name="tb_exit_detection">Sair</string>
     <string name="tb_gender_select_checked">Gênero selecionado: %1$s.</string>
     <string name="tb_gender_select_unchecked">Gênero %1$s, toque para selecionar</string>

@@ -263,9 +263,9 @@ Toque duas vezes para ver os detalhes."</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Loja de widgets. %s selecionado. Toque duas vezes para ver detalhes.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Loja de widgets. %s selecionado. Toque duas vezes para ver detalhes.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_third">Loja de widgets. %s selecionado. Toque duas vezes para ver detalhes.</string>
-    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s selecionado.</string>
-    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s selecionado.</string>
-    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s selecionado.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s selecionado</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s selecionado</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s selecionado</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Adicionar este item à Tela inicial</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Adicionar este item ao Assistente</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Editar</string>
@@ -608,7 +608,7 @@ Adicione widgets para começar."</string>
     <string name="pa_recommend_card_add_des">Adicione este widget ao Assistente</string>
     <string name="pa_recommend_card_image_content_des">Este é um widget. Abra nossa loja de widgets para saber mais.</string>
     <string name="pa_recommend_card_image_text_null_des">Sem dados</string>
-    <string name="pa_recommend_card_summary">Receber recomendações de widgets.</string>
+    <string name="pa_recommend_card_summary">Receber recomendações de widgets</string>
     <string name="pa_recommend_card_text_des">%s. Abra nossa loja de widget para saber mais.</string>
     <string name="pa_recommend_card_title">Recomendada</string>
     <string name="pa_recommend_no_network">Baixe o app primeiro</string>
@@ -792,8 +792,8 @@ Adicione widgets para começar."</string>
     <string name="pa_stock_load_data_failure">"Não foi possível carregar informações"</string>
     <string name="pa_stock_network_unavailable">"Não foi possível conectar-se à rede"</string>
     <string name="pa_stock_not_found_related_items">"Não foi possível encontrar resultados"</string>
-    <string name="pa_stock_nsdk">Nasdaq.</string>
-    <string name="pa_stock_red_grow">Vermelho, verde - para baixo</string>
+    <string name="pa_stock_nsdk">Nasdaq</string>
+    <string name="pa_stock_red_grow">Vermelho - para cima, verde - para baixo</string>
     <string name="pa_stock_search_failure">"Não foi possível encontrar resultados"</string>
     <string name="pa_stock_search_input_hint">Insira o nome do estoque ou o código</string>
     <string name="pa_stock_search_loading">Aguarde…</string>
