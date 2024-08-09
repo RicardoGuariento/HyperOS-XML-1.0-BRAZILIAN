@@ -164,7 +164,7 @@ Tente criar a imagem IA com fotos diferentes."</string>
     <string name="ai_enhance_bar_failed">"Não foi possível gerar a imagem HD"</string>
     <string name="ai_ensure_exit_select_message">"Você terá que selecionar as fotos novamente na próxima vez."</string>
     <string name="ai_ensure_exit_select_title">Sair agora?</string>
-    <string name="ai_entrance_description">Crie uma imagem de IA baseada em fotos de pessoas e gere seus retratos</string>
+    <string name="ai_entrance_description">Crie uma imagem IA baseada em fotos de pessoas e gere seus retratos</string>
     <string name="ai_entrance_title">Retrato IA</string>
     <string name="ai_exit">Sair</string>
     <string name="ai_filter_album_tag">Pessoas com fotos insuficientes foram filtradas</string>
@@ -190,7 +190,7 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_image_creation_over_limit_title">"Não é possível criar mais retratos"</string>
     <string name="ai_image_invalid">"Imagem IA de %s excluída com sucesso"</string>
     <string name="ai_image_invalid_in_update">"Atualizando a imagem IA de %s agora. Espere até que seja atualizado e tente novamente."</string>
-    <string name="ai_image_manager_empty_msg">"Não é possível visualizar fotos usadas para criar imagens de IA em versões mais antigas deste serviço em outro dispositivo"</string>
+    <string name="ai_image_manager_empty_msg">"Não é possível visualizar fotos usadas para criar imagens IA em versões mais antigas deste serviço em outro dispositivo"</string>
     <string name="ai_image_manager_empty_msg_net">Não há fotos aqui</string>
     <string name="ai_image_manager_re_create_tip">Adicione ou exclua fotos para atualizar sua imagem IA</string>
     <string name="ai_image_manager_title">Gerenciar imagem IA</string>
@@ -199,7 +199,7 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_image_over_limit_button_create">Continuar</string>
     <string name="ai_image_over_limit_title">"Não é possível criar imagem IA"</string>
     <string name="ai_image_over_limit_title_update">"Não é possível atualizar imagens IA agora"</string>
-    <string name="ai_image_privacy_message"><Data>"Bem-vindo aos Retratos IA!&lt;br/>Para poder fornecer serviços a você, precisamos coletar as informações pessoais necessárias:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Para criar retratos IA, você terá que fazer upload &lt;b>fotos de pessoas&lt;/b> aos nossos servidores. Coletaremos e processaremos as informações sobre suas &lt;b>faces&lt;/b> para gerar um modelo de IA.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Quando você carrega &lt;b>fotos de pessoas&lt;/b>, vamos sincronizar &lt;b>seus nomes e fotos de perfil&lt;/b> dos álbuns correspondentes e associar essas informações às imagens IA.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Quando você cria imagens IA com base em texto, coletaremos a &lt;b>descrição&lt;/b> que você fornece para gerar imagens.&lt;br/>Coletamos apenas informações pessoais necessárias para os recursos específicos dos produtos e serviços que você utiliza. Você pode saber como coletamos e processamos informações pessoais na &lt;a href=\"%4$s\">Política de Privacidade de Retratos IA&lt;/a>.&lt;br/>Leia e concorde com o &lt;a href=\"%5$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%6$s\">Política de Privacidade&lt;/a> do Retratos IA, antes de continuar."</Data></string>
+    <string name="ai_image_privacy_message"><Data>"Bem-vindo aos Retratos IA!&lt;br/>Para poder fornecer serviços a você, precisamos coletar as informações pessoais necessárias:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Para criar retratos IA, você terá que fazer upload &lt;b>fotos de pessoas&lt;/b> aos nossos servidores. Coletaremos e processaremos as informações sobre suas &lt;b>faces&lt;/b> para gerar um modelo IA.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Quando você carrega &lt;b>fotos de pessoas&lt;/b>, vamos sincronizar &lt;b>seus nomes e fotos de perfil&lt;/b> dos álbuns correspondentes e associar essas informações às imagens IA.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Quando você cria imagens IA com base em texto, coletaremos a &lt;b>descrição&lt;/b> que você fornece para gerar imagens.&lt;br/>Coletamos apenas informações pessoais necessárias para os recursos específicos dos produtos e serviços que você utiliza. Você pode saber como coletamos e processamos informações pessoais na &lt;a href=\"%4$s\">Política de Privacidade de Retratos IA&lt;/a>.&lt;br/>Leia e concorde com o &lt;a href=\"%5$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%6$s\">Política de Privacidade&lt;/a> do Retratos IA, antes de continuar."</Data></string>
     <string name="ai_input_name_hint">Insira o nome</string>
     <string name="ai_loading">Aguarde…</string>
     <string name="ai_multi_window_tip">"Esta página não pode ser visualizada em Tela dividida"</string>
@@ -211,7 +211,7 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_normal_theme_button">Criar</string>
     <string name="ai_photo_upload_fail">"Não foi possível fazer upload. Tente novamente."</string>
     <string name="ai_photos_upload_fail_tip">"As fotos de %s ainda não foram enviadas. Você pode continuar enviando fotos agora."</string>
-    <string name="ai_plugin_install_msg">Baixe o plugin para poder criar retratos de IA.</string>
+    <string name="ai_plugin_install_msg">Baixe o plugin para poder criar retratos IA.</string>
     <string name="ai_plugin_install_title">Baixe o plugin</string>
     <string name="ai_plugin_installing_tip">Baixando plugin…</string>
     <string name="ai_preview_failed_retry_button">Tente novamente</string>
@@ -1376,7 +1376,7 @@ estão disponíveis"</string>
     <string name="global_phone">Meu telefone</string>
     <string name="global_trash_vip_info_text_login_medium_or_low_level">"Os itens excluídos dos quais foi feito backup podem permanecer na nuvem por até %1$s dias. Os itens dos quais não foi feito backup serão retidos por até %2$s dias."</string>
     <string name="google_banner_back_stop">Backup interrompido</string>
-    <string name="google_banner_back_stop_des">"Você está sem armazenamento da Conta do Google. Para retomar o backup de suas fotos, obtenha mais armazenamento ou libere espaço."</string>
+    <string name="google_banner_back_stop_des">"Você está sem armazenamento na sua Conta do Google. Para retomar o backup de suas fotos, obtenha mais armazenamento ou libere espaço."</string>
     <string name="google_banner_backup_des">Comece agora e mantenha suas fotos e vídeos seguros no Google Fotos.</string>
     <string name="google_banner_backup_left_btn_text">Agora não</string>
     <string name="google_banner_backup_right_btn_text">Ativar backup</string>

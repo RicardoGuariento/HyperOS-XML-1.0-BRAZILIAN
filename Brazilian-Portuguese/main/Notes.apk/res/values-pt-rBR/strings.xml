@@ -30,12 +30,16 @@
     <string name="access_denied_info">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="access_photos_and_videos">Acesse fotos e vídeos</string>
     <string name="action_collapse">Ocultar</string>
+    <string name="action_copy">Copiar</string>
     <string name="action_expand">Mostrar mais</string>
+    <string name="action_insert">Inserir resumo</string>
     <string name="action_folder_description">Ver pastas</string>
     <string name="action_mode_cancel_folder_priority">Não mostrar pastas primeiro</string>
     <string name="action_mode_switcher_folder_priority">Mostrar pastas primeiro</string>
     <string name="action_mode_switcher_grid_description">Visualização em grade</string>
     <string name="action_mode_switcher_list_description">Visualização em lista</string>
+    <string name="action_replace">Substituir original</string>
+    <string name="action_retry">Regenerar</string>
     <string name="action_search_description">Pesquisar</string>
     <string name="action_settings_description">Configurações</string>
     <string name="action_to_link">Abrir URL</string>
@@ -46,12 +50,24 @@
     <string name="add_excerpt_summary">Adicionar à lista de resumo</string>
     <string name="add_pic_excerpt_summary">Adicionar resumo de imagem</string>
     <string name="add_text_excerpt_summary">Adicionar resumo de texto</string>
+    <string name="add_modifications">Sugestão: Adicionar \"%1$s\"</string>
     <string name="added_to_clipboard">Copiado com sucesso</string>
+    <string name="adopt">Usar</string>
     <string name="afternoon">"PM"</string>
     <string name="ai_chat_declare_double_link"><Data>Leia e concorde com nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="ai_chat_dlg_content">Para diversas fontes de informação em diferentes cenários (como links ou texto que aparecem em apps como navegadores, WeChat e Feishu), a função de coletar e resumir informações rapidamente, bem como gerá-las e apresentá-las automaticamente em uma entrada unificada para arquivamento, pode ser alcançado.</string>
     <string name="ai_createing_text">Geração de IA…</string>
     <string name="ai_watermark">Gerar por IA:</string>
+    <string name="ai_check">Revisão de IA</string>
+    <string name="ai_failed">"Não foi possível gerar. Tente novamente."</string>
+    <string name="ai_feature_disabled">Você violou os padrões da nossa comunidade diversas vezes. Este recurso não está mais disponível.</string>
+    <string name="ai_label">Recursos de IA</string>
+    <string name="ai_layout">Layout IA</string>
+    <string name="ai_result_warn">O conteúdo acima é gerado por IA. A precisão pode variar.</string>
+    <string name="ai_sensitive_content_warn">"Não é possível usar os Recursos de IA para conteúdo confidencial ou impróprio"</string>
+    <string name="ai_summary">Resumo de IA</string>
+    <string name="ai_translate">Tradução IA</string>
+    <string name="ai_watermark">O conteúdo gerado por IA é fornecido apenas para sua referência</string>
     <string name="alarm_bar_title">Lembrete</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
     <string name="alert_message_delete">Excluir %1$s?</string>
@@ -59,7 +75,7 @@
     <string name="alert_message_delete_note">Excluir esta nota?</string>
     <string name="alert_message_edit_anyway">Se você editar esta nota, uma parte de seu conteúdo pode ser perdida.</string>
     <string name="alert_message_edit_anyway_new">Esta nota contém conteúdo não suportado. Editá-lo pode causar alterações de formato ou perda de dados.</string>
-    <string name="alert_message_restore">Não foi possível abrir esta nota. Restaure-a para editar o seu conteúdo.</string>
+    <string name="alert_message_restore">"Não foi possível abrir esta nota. Restaure-a para editar o seu conteúdo."</string>
     <string name="alert_title_delete">Excluir nota</string>
     <string name="alert_title_edit_anyway">Nota com conteúdo não suportado</string>
     <string name="alert_title_hidden_note">Alerta de nota oculta recebido</string>
@@ -90,6 +106,7 @@
     <string name="audio_toast_file_invalid">Arquivo de áudio inválido</string>
     <string name="audio_toast_file_undownload">"O arquivo de áudio não foi baixado totalmente ou está faltando"</string>
     <string name="audio_toast_network_is_not_available">Não foi possível conectar-se à rede</string>
+    <string name="auto_detected">Detecção automática</string>
     <string name="blackboard_note">Quadro inteligente</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="brush_AirBrush">Aerógrafo</string>
@@ -154,6 +171,7 @@
     <string name="continuous_default_hint">Copiar texto, salvar imagens e capturas de tela como excertos</string>
     <string name="continuous_new_excerpt_title">Novo excerto</string>
     <string name="copy">Copiar</string>
+    <string name="copy_toast_text">Copiado com sucesso</string>
     <string name="cta_agree_desc">Permita que este app conecte-se à internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
     <string name="cta_confirm_cancel">"Não permitir"</string>
     <string name="cta_confirm_ok">Permitir</string>
@@ -252,6 +270,7 @@
     <string name="empty_folder_no_notes">Nenhuma nota aqui</string>
     <string name="enable_sync">Sincronizar</string>
     <string name="enable_sync_desc">Sincronizar suas notas com a sua Conta Mi (%1$s)?</string>
+    <string name="enter_content">Insira o conteúdo primeiro</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_contact_not_exist">"O contato não existe"</string>
@@ -348,6 +367,7 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="generating">Aguarde…</string>
     <string name="gesture_guide_cancel">Pular</string>
     <string name="gesture_guide_message">Você pode tocar, pressionar, segurar e arrastar itens para criar e reorganizar notas. Deseja aprender estes gestos agora?</string>
     <string name="gesture_guide_ok">Aprender</string>
@@ -394,6 +414,7 @@
     <string name="last_excerpt_unfinish_hint">O último excerto está incompleto</string>
     <string name="loading_text">Aguarde…</string>
     <string name="login_sync">Fazer login e sincronizar</string>
+    <string name="main_body">Texto completo</string>
     <string name="lunar_day">%1$s lunar</string>
     <string name="manage_folders">Gerenciar pastas</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
@@ -611,6 +632,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção diária</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
+    <string name="net_error">Ocorreu um erro de rede</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
     <string name="new_alert_title_delete">Excluir notas</string>
@@ -665,6 +687,8 @@
     <string name="option_menu_save_as">Salvar como</string>
     <string name="option_menu_save_as_pic">Salvar como imagem</string>
     <string name="option_menu_share">Compartilhar</string>
+    <string name="original_empty_content">Nenhum conteúdo na versão original</string>
+    <string name="original_text">"Original: \"%1$s\""</string>
     <string name="pad_collpase_navigation">Ocultar painel de navegação</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Usando a câmera…</string>
     <string name="pad_expand_navigation">Mostrar painel de navegação</string>
@@ -705,7 +729,9 @@
     <string name="pc_todo_fast_create_hint">Insira o texto e pressione \"Enter\" para adicionar uma tarefa não concluída</string>
     <string name="pc_todo_set_remind_time_hint">Definir hora</string>
     <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
-    <string name="permission_data_shared_desc">Declaração de compartilhamento de dados de terceiros da Notas</string>
+    <string name="permission_ai_desc_n">&lt;Data>Para fornecer os Serviços de IA do Notas, o Notas coletará o texto inserido para gerar resumos e otimizar o texto. Leia e concorde com a nossa &lt;a href=\"%1$s\">Política de Privacidade e Declaração de Compartilhamento de Dados de Terceiros&lt;/a> antes de continuar.&lt;/Data></string>
+    <string name="permission_ai_title">Serviços de IA do Notas</string>
+    <string name="permission_data_shared_desc">Declaração de Compartilhamento de Dados de Terceiros do Notas</string>
     <string name="permission_get_account_desc">Sincronizando notas com a nuvem</string>
     <string name="permission_intro_contact">Para marcar notas feitas durante chamadas</string>
     <string name="permission_intro_microphone">Para gravar notas de voz</string>
@@ -723,7 +749,7 @@
     <string name="permission_storage_desc_pad_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
     <string name="permission_storage_desc_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
     <string name="permission_xiaoai_desc"><Data>O Mi AI vai coletar suas gravações de voz e ID do dispositivo para transcrever áudios e criar notas por voz. Saiba mais na &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Mi AI.&lt;</Data></string>
-    <string name="permission_xiaoai_desc_n"><Data>Para fornecer serviços de voz para texto, o Notas precisa coletar conteúdo de áudio falado e o IMEI do seu dispositivo. Leia e concorde com a &lt;a href=\"%1$s\">Declaração de compartilhamento de dados de terceiros do Notas&lt;/a> antes de usar este recurso. Você pode aprender mais sobre os recursos relacionados lendo a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> do Mi AI.</Data></string>
+    <string name="permission_xiaoai_desc_n"><Data>Para fornecer serviços de voz para texto, o Notas precisa coletar conteúdo de áudio falado e o IMEI do seu dispositivo. Leia e concorde com a &lt;a href=\"%1$s\">Declaração de Compartilhamento de Dados de Terceiros do Notas&lt;/a> antes de usar este recurso. Você pode aprender mais sobre os recursos relacionados lendo a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> do Mi AI.</Data></string>
     <string name="permission_xiaoai_title">Fala para texto</string>
     <string name="permlab_accessNote">Acessar notas</string>
     <string name="pm">"PM"</string>
@@ -786,6 +812,8 @@
     <string name="repeat_mode_set_title">Repetir</string>
     <string name="repeat_mode_week">Semanalmente</string>
     <string name="repeat_mode_year">Anualmente</string>
+    <string name="retry">Tente novamente</string>
+    <string name="revoke_modifications">Desfazer</string>
     <string name="rich_text_bold_description">Negrito</string>
     <string name="rich_text_bulleted_list_description">Caixa de seleção</string>
     <string name="rich_text_center_description">Centralizado</string>
@@ -833,6 +861,7 @@
     <string name="select_up_limit_toast">Selecione até %d itens</string>
     <string name="send">Enviar</string>
     <string name="send_notifications_for_reminder">Para enviar lembretes</string>
+    <string name="sensitive_content_warn">"Não é possível criar um resumo de IA para conteúdo confidencial"</string>
     <string name="set_alarm_description">Definir alarme</string>
     <string name="setting_big_screen_layout_columns">Barra Lateral</string>
     <string name="setting_big_screen_layout_flat">Ladrilhos</string>
@@ -897,6 +926,9 @@
     <string name="sns_toast_over_limit">Enviado como imagem</string>
     <string name="splash_note">Caneta</string>
     <string name="stealth_mode_tip">Você está anônimo. Não é possível usar o microfone agora.</string>
+    <string name="suggested_delete">Sugestão: Excluir \"%1$s\"</string>
+    <string name="suggested_modifications">Sugestão: Alterar \"%1$s\" para \"%2$s\"</string>
+    <string name="summary">Resumo</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

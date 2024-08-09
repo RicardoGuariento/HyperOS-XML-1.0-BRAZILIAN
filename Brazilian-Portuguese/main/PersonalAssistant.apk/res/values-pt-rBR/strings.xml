@@ -880,7 +880,7 @@ Adicione widgets para começar."</string>
     <string name="pa_travel_title_travel_refuse_permission_message">"Retirar seu consentimento para o acesso do Assistente à sua localização por meio do Motor Mi IA? Você pode gerenciar outras permissões nas configurações de sugestões do Mi AI."</string>
     <string name="pa_travel_toast_bind_failed">"Não foi possível parear"</string>
     <string name="pa_travel_toast_bind_success">Pareado com sucesso</string>
-    <string name="pa_travel_toast_unbind_failed">"Não foi possível desemparelhar"</string>
+    <string name="pa_travel_toast_unbind_failed">"Não foi possível desparear"</string>
     <string name="pa_travel_toast_unbind_success">Desemparelhado com sucesso</string>
     <string name="pa_travel_toast_unknown_bind_state">"Não foi possível parear. Verifique suas configurações de rede e tente novamente."</string>
     <string name="pa_travel_train_check_point">Portão</string>
@@ -889,9 +889,9 @@ Adicione widgets para começar."</string>
     <string name="pa_travel_train_tip_cancel">Trem cancelado. Faça um novo plano de viagem.</string>
     <string name="pa_travel_train_unauthorized_ai_tip">Permita acesso à localização para obter atualizações oportunas</string>
     <string name="pa_travel_train_unauthorized_tip">Pareie uma conta de serviço para receber atualizações oportunas do status do trem</string>
-    <string name="pa_travel_unbind_dialog_message">"Se você desemparelhar este serviço, não receberá atualizações oportunas sobre o status dos trens e voos. Desemparelhar mesmo assim?"</string>
-    <string name="pa_travel_unbind_dialog_positive">Desemparelhar</string>
-    <string name="pa_travel_unbind_dialog_title">Desemparelhar serviço</string>
+    <string name="pa_travel_unbind_dialog_message">"Se você desparear este serviço, não receberá atualizações oportunas sobre o status dos trens e voos. Desparear mesmo assim?"</string>
+    <string name="pa_travel_unbind_dialog_positive">Desparear</string>
+    <string name="pa_travel_unbind_dialog_title">Desparear serviço</string>
     <string name="pa_vertical_center">Layout vertical. Centro alinhado.</string>
     <string name="pa_vertical_left">Layout vertical. Esquerda alinhada.</string>
     <string name="pa_vertical_right">Layout vertical. Direito alinhado.</string>

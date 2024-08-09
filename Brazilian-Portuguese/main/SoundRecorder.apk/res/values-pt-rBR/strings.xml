@@ -54,6 +54,9 @@
     <string name="account_user_name">Nome</string>
     <string name="account_user_name_dialog_title">Insira um nome de usuário</string>
     <string name="account_user_phone">Telefone de recuperação</string>
+    <string name="action_copy">Copiar</string>
+    <string name="action_notes">Salvar em Notas</string>
+    <string name="action_retry">Tente novamente</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
     <string name="activity_not_found_notice">"Não consigo encontrar o app"</string>
@@ -62,6 +65,8 @@
     <string name="add_remark_tip">Toque para adicionar comentário</string>
     <string name="afternoon">"PM"</string>
     <string name="agree_description">Permita que este app conecte-se à internet para poder usar todos os seus recursos.</string>
+    <string name="ai_summary">Resumo de IA</string>
+    <string name="ai_watermark">Este conteúdo é gerado por IA e fornecido apenas para sua referência.</string>
     <string name="alert_message_clear_records">Excluir gravações selecionadas?</string>
     <string name="alert_message_delete_local_record">Excluir esta gravação?</string>
     <string name="alert_message_delete_record">Excluir a gravação do seu dispositivo também excluirá esta gravação da MiCloud. Excluir agora?</string>
@@ -74,9 +79,17 @@
     <string name="app_record_preference_title">Gravações de apps</string>
     <string name="auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="back">Voltar</string>
+    <string name="back_playback_position">Retornar à posição atual</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="button_queue_for_wifi">Aguardar</string>
     <string name="button_start_now">Baixar</string>
+    <string name="call_notification_answer_action">Atender</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Recusar</string>
+    <string name="call_notification_hang_up_action">Desligar</string>
+    <string name="call_notification_incoming_text">Chamada recebida</string>
+    <string name="call_notification_ongoing_text">Chamada em andamento</string>
+    <string name="call_notification_screening_text">Filtrando uma ligação recebida</string>
     <string name="call_record">Chamadas gravadas</string>
     <string name="call_record_list_group_all">Todas</string>
     <string name="call_record_list_group_connected">Atendidas</string>
@@ -162,6 +175,7 @@ Envie este código para o supervisor."</string>
     <string name="error_remark_too_long">Seu comentário é muito longo</string>
     <string name="error_sdcard_access">"Não é possível acessar o cartão SD"</string>
     <string name="error_sdcard_unmounted">Insira o cartão SD agora</string>
+    <string name="error_tip">Ocorreu um erro de rede</string>
     <string name="evening">"PM"</string>
     <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
     <string name="expand_button_title">Avançado</string>
@@ -211,6 +225,14 @@ Envie este código para o supervisor."</string>
     <string name="friday_shortest">Sex</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="google_login_btn_content_description">Fazer login no Google</string>
+    <string name="guide_update_confirm_dialog_message">"Se você optar por não atualizar o Mi AI Translate, você não poderá acessar alguns recursos."</string>
+    <string name="guide_update_confirm_dialog_negative_button">Agora não</string>
+    <string name="guide_update_confirm_dialog_positive_button">Atualizar</string>
+    <string name="guide_update_confirm_dialog_title">Ignorar esta atualização?</string>
+    <string name="guide_update_dialog_message">Atualize o Mi AI Translate para obter acesso a recursos como transcrição de áudio, reconhecimento de falantes inteligente e muito mais. Atualizar agora?</string>
+    <string name="guide_update_dialog_negative_button">Agora não</string>
+    <string name="guide_update_dialog_positive_button">Atualizar</string>
+    <string name="guide_update_dialog_title">Atualizar Mi AI Translate</string>
     <string name="head_set_tip_dialog_msg">Desconecte seu fone de ouvido para gravar sons com predefinições específicas (ex.: músicas, voz).</string>
     <string name="head_set_tip_dialog_ok">Entendi</string>
     <string name="head_set_tip_dialog_title">Usar microfone interno</string>
@@ -237,6 +259,7 @@ Envie este código para o supervisor."</string>
     <string name="korea_permission_storage_desc">Para salvar gravações</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_more">Aguarde…</string>
+    <string name="loading_text">Resumindo…</string>
     <string name="login_by_local_phone_long_text">Fazer login agora</string>
     <string name="login_by_local_phone_short_text">Fazer login</string>
     <string name="login_other">Outra Conta Mi</string>
@@ -252,6 +275,7 @@ Envie este código para o supervisor."</string>
     <string name="low_bit_rate">"MP3, ~%1$d kbps, ~%2$d MB/h"</string>
     <string name="lyric_item_point_count">%1$d a %2$d</string>
     <string name="manage_external_storage">Acessar todos os arquivos</string>
+    <string name="mark_add_toast">Adicionado com sucesso</string>
     <string name="mark_point_list_title">Marcadores</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione o horário</string>
@@ -570,7 +594,14 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="play_speed">Velocidade: %1$.1fX</string>
     <string name="playback_delete_records">Excluir gravação</string>
+    <string name="playback_menu_hide_speaker">Ocultar nomes dos falantes</string>
+    <string name="playback_menu_rerecognize">Transcreva novamente</string>
+    <string name="playback_menu_share">Compartilhar</string>
+    <string name="playback_menu_show_speaker">Mostrar nomes dos falantes</string>
+    <string name="playback_menu_to_note">Salvar em Notas</string>
     <string name="playback_share_records">Compartilhar gravação</string>
+    <string name="playback_tabs_audio">Áudio</string>
+    <string name="playback_tabs_text">Texto</string>
     <string name="please_agree_protocal">Por favor, concorde com o protocolo</string>
     <string name="pm">"PM"</string>
     <string name="preference_clear_data">Limpar dados</string>
@@ -589,8 +620,13 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="preference_silent_mode">Silenciar toque durante gravação</string>
     <string name="preference_status_bar_indicator_prompt">Exibe um indicador azul na Tela de bloqueio quando estiver gravando</string>
     <string name="preference_tip_rename">Nomear gravações manualmente</string>
+    <string name="privacy_dialog_content">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Gravador. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como o Gravador fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços do Gravador. A retirada do consentimento não excluirá as gravações armazenadas no seu dispositivo. Retirar o consentimento agora?"</string>
+    <string name="privacy_dialog_negative_button">Retirar</string>
+    <string name="privacy_dialog_positive_button">Cancelar</string>
+    <string name="privacy_dialog_title">Retirada do consentimento</string>
     <string name="privacy_policy_title">Política de Privacidade</string>
     <string name="privacy_settings">Privacidade</string>
+    <string name="privacy_withdraw">Retirada do consentimento</string>
     <string name="progress">Barra de progresso de reprodução</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="protocal_dialog_confirm">Concordar</string>
@@ -616,6 +652,8 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="recognition_error_stopped">Transcrição parada</string>
     <string name="recognition_error_unknown">Ocorreu um erro desconhecido. Reporte-o para nós e tente novamente.</string>
     <string name="recognition_interrupt_current_dialog_body">"A transcrição pode levar algum tempo. Você receberá uma notificação quando esta tarefa for concluída. \"%s\" está sendo transcrito agora. Adicionar esta tarefa à fila de transcrições?"</string>
+    <string name="recognition_language_dialog_cancel">Cancelar</string>
+    <string name="recognition_language_dialog_title">Selecione o idioma de destino</string>
     <string name="recognition_notification_channel">Transcrevendo</string>
     <string name="recognition_notification_complete_success">\"%s\" transcrito com sucesso. Toque para ver.</string>
     <string name="recognition_notification_error">"Não foi possível transcrever \"%s\""</string>
@@ -628,6 +666,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="recognition_status_downloading">"Baixando "</string>
     <string name="recognition_status_init">"Preparando "</string>
     <string name="recognition_stop_current">Parar tarefa atual</string>
+    <string name="recognize_complete_toast">Transcrição concluída</string>
     <string name="recognize_choose_dialog_offline">Transcrever gratuitamente</string>
     <string name="recognize_choose_dialog_offline_desp">Transcreva gravações sem uma conexão com a internet</string>
     <string name="recognize_choose_dialog_online">Transcrever na nuvem</string>
@@ -638,6 +677,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="recognize_choose_dialog_service_intruction">Termos de Serviço</string>
     <string name="recognize_choose_dialog_title">Selecionar método de transcrição</string>
     <string name="recognize_extra_price_desp">(Oferta exclusiva para usuários Mi)</string>
+    <string name="recognizing_not_rename">"Não é possível renomear durante a gravação"</string>
     <string name="record">Gravar</string>
     <string name="record_back_pressed_hint">Para interromper a gravação, pressione Voltar novamente</string>
     <string name="record_download">Baixar da MiCloud</string>
@@ -705,6 +745,8 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="rename_duplicate">Outra gravação com o mesmo nome já existe.</string>
     <string name="rename_fail_tip">Não foi possível renomear. Já existe um item com este nome.</string>
     <string name="rename_no_more_tip">"Não mostrar novamente"</string>
+    <string name="rename_speaker_dialog_checkbox">Atualizar apenas na seção atual</string>
+    <string name="rename_speaker_dialog_title">Renomear falante</string>
     <string name="request_agree">Permitir</string>
     <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concorda para conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir permissões ou revogar sua autorização nas Configurações."</string>
     <string name="request_cancel">Cancelar</string>
@@ -712,11 +754,16 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
     <string name="request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
+    <string name="rerecognize_dialog_message">Nosso recurso de transcrição atualizado pode reconhecer automaticamente falantes e quebras de frases. Transcreva este item novamente para usar esses novos recursos.</string>
+    <string name="rerecognize_dialog_negative_button">Agora não</string>
+    <string name="rerecognize_dialog_positive_button">Transcrever</string>
+    <string name="rerecognize_dialog_title">Transcrever novamente?</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">"Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não esteja na pasta Spam da sua caixa de entrada."</string>
     <string name="resend_email_reach_limit_title">Muitas tentativas</string>
     <string name="resend_email_success">Enviado com sucesso</string>
     <string name="retry">Repetir</string>
+    <string name="retry_toast">Ocorreu um erro de rede. Tente novamente.</string>
     <string name="runtime_permission_ungranted">Não é possível usar o Gravador devido a permissões não concedidas</string>
     <string name="saf_permission_dialog_content">Devido às restrições do Android, o Gravador precisa de permissão para acessar as gravações feitas por outros apps. Permita que o Gravador acesse essas gravações para poder visualizá-las.</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Configurações</string>
@@ -786,6 +833,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="sound_recorder_settings">Configurações</string>
+    <string name="speaker">Falante</string>
     <string name="speech_recognition_complete">Transcrito</string>
     <string name="speech_recognition_running_tip">"Processando "</string>
     <string name="start">Continuar</string>
@@ -794,6 +842,15 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="status_bar_recording_pause">Gravação pausada</string>
     <string name="stop_status_focus_notification">Gravação concluída</string>
     <string name="storage_permission_dialog_title">Permissão de armazenamento necessária</string>
+    <string name="summary_content_need_deal">Tarefas</string>
+    <string name="summary_content_result_content">Conteúdo principal</string>
+    <string name="summary_content_theme">Tópico</string>
+    <string name="summary_copy">Copiado com sucesso</string>
+    <string name="summary_error_limit_tip">O uso deste recurso foi bloqueado</string>
+    <string name="summary_error_tip">"Não é possível resumir conteúdo sensível ou ofensivo"</string>
+    <string name="summary_information_tip">O conteúdo acima é gerado por IA e é fornecido apenas para sua referência.</string>
+    <string name="summary_size_max_tip">Muito conteúdo para resumir</string>
+    <string name="summary_size_min_tip">Pouco conteúdo para resumir</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -878,6 +935,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="toast_uninstall_fileexplorer">"O Arquivos não está instalado"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
+    <string name="translation_language">Selecione o idioma de destino</string>
     <string name="trash_box">Itens recentemente excluídos</string>
     <string name="trash_box_close_tip">Fechar alerta</string>
     <string name="trash_box_delete_all">Excluir todos os itens da lixeira permanentemente?</string>
@@ -890,6 +948,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="update_email_address_dialog_message">Você precisa verificar sua identidade antes de atualizar o e-mail de recuperação.</string>
     <string name="update_email_address_dialog_title">Atualizar e-mail de recuperação</string>
     <string name="usage_description">Transcrever áudio e sincronizar itens com a nuvem</string>
+    <string name="user_agreement">Contrato do Usuário</string>
     <string name="user_agreement_hint_3rd_app"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi. E o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi. E o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi. E o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação de conta eSurfing&lt;/a>."</Data></string>
