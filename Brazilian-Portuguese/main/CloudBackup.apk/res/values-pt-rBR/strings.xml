@@ -53,6 +53,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de dados WeChat. Atualize seu plano de armazenamento para fazer backup de itens.</string>
     <string name="backup_action_no_space_with_wechat_on_title">"Não foi possível fazer backup dos dados do WeChat"</string>
     <string name="backup_action_retry_now">Tente novamente</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">O backup na nuvem coletará a lista de apps instalados no seu dispositivo e armazenará essas informações em nossos servidores. Armazenamos esses dados para que você possa baixá-los e restaurá-los sempre que necessário. Se você concorda com a coleta dessas informações, toque em \"Permitir\" abaixo.</string>
     <string name="backup_failed_reason_app_data_error">"Não foi possível fazer backup dos dados do WeChat"</string>
     <string name="backup_failed_reason_app_usage_denied">Conceda as permissões necessárias para fazer backup de itens</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para salvar este backup. Faça o upgrade do seu plano ou libere espaço no armazenamento da nuvem.</string>
@@ -156,8 +157,8 @@ Observação: Os dados dos apps que estão instalados não serão salvos na MiCl
     <string name="cloud_backup_detail_manage">Gerenciar backups</string>
     <string name="cloud_backup_detail_no_time">Ainda não há backups</string>
     <string name="cloud_backup_detail_state">Backups automáticos</string>
-    <string name="cloud_backup_detail_state_summary">Crie backups na MiCloud automaticamente quando conectado por Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">O dispositivo deve estar conectado ao Wi-Fi, carregando e bloqueado</string>
+    <string name="cloud_backup_detail_state_summary">Requer conexão Wi-Fi, bateria de pelo menos %s e tela desligada.</string>
+    <string name="cloud_backup_detail_state_summary_china">Requer conexão Wi-Fi, bateria de pelo menos %s e tela desligada.</string>
     <string name="cloud_backup_detail_time">Último backup: %1$s</string>
     <string name="cloud_backup_detail_title">Fazer backup de itens</string>
     <string name="cloud_backup_get_installed_apps_summary">Para fazer backup e restaurar apps da Tela inicial</string>
@@ -493,8 +494,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="restore_header_title_backup_time">Tempo</string>
     <string name="restore_home_failed">Não foi possível restaurar a Tela inicial.</string>
     <string name="restore_home_screen_apps">Restaurar itens</string>
-    <string name="restore_home_screen_apps_options">"Opções de backup
-%s"</string>
+    <string name="restore_home_screen_apps_options">Restaurar dados</string>
     <string name="restore_init_description">Iniciar restauração</string>
     <string name="restore_network_pause">Pausado para economizar dados móveis. Toque para retomar.</string>
     <string name="restore_network_unconnect">%s (Aguardando conexão)</string>
