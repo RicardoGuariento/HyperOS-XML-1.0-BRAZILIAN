@@ -115,11 +115,11 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="allow_turn_screen_on">Permitir ligar a tela</string>
     <string name="allow_turn_screen_on_description">Permite que um app ligue a tela. Se concedido, o app poderá ligar a tela a qualquer momento sem sua intenção explícita.</string>
     <string name="aminus">"A-"</string>
-    <string name="animator_duration_scale_title">Escala de duração do animador</string>
+    <string name="animator_duration_scale_title">Escala de duração da animação</string>
     <string name="aplus">"A+"</string>
     <string name="apn_settings_not_available">Configurações do nome do ponto de acesso não estão disponíveis para este usuário</string>
     <string name="app_label">Informações de emergência</string>
-    <string name="app_process_limit_title">Limite de processo de fundo.</string>
+    <string name="app_process_limit_title">Limite de proc. em 2º plano</string>
     <string name="available_via_carrier">Disponível via %1$s</string>
     <string name="available_via_passpoint">Disponível via %1$s</string>
     <string name="avatar_picker_title">Escolha uma foto de perfil</string>
@@ -642,7 +642,7 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="power_remaining_only_more_than_subtext">Mais de %1$s restante</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_suggestion_battery_run_out">A bateria pode acabar %1$s</string>
-    <string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
+    <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="private_dns_broken">Servidor DNS privado não pode ser acessado</string>
     <string name="private_dns_mode_off">Desligado</string>
@@ -691,7 +691,7 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="settings_suggestion_title">Adicionar informações de emergência</string>
     <string name="settingslib_category_personal">Pessoal</string>
     <string name="settingslib_category_work">Trabalho</string>
-    <string name="settingslib_learn_more_text">Saber mais</string>
+    <string name="settingslib_learn_more_text">Saiba mais</string>
     <string name="shared_data_delete_failure_text">Houve um erro excluindo os dados compartilhados.</string>
     <string name="shared_data_no_accessors_dialog_text">Não há concessões adquiridas para esses dados compartilhados. Você gostaria de excluí-lo?</string>
     <string name="shared_data_no_blobs_text">Não há dados compartilhados para este usuário.</string>
@@ -1006,9 +1006,9 @@ O armazenamento de credenciais pode não ativar"</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Legado</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Desconhecido</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Não medido</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">O Wi-Fi não se conectará automaticamente por agora</string>
-    <string name="window_animation_scale_title">Escala de animação de janela</string>
-    <string name="window_blurs">Permitir desfoques no nível da janela</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">O Wi-Fi não se conecta automaticamente por agora</string>
+    <string name="window_animation_scale_title">Escala de animação da janela</string>
+    <string name="window_blurs">Permitir desfoques de janelas</string>
     <string name="yes">Sim</string>
     <string name="zen_alarm_warning">"Você não vai ouvir o seu próximo alarme %1$s"</string>
     <string name="zen_alarm_warning_indef">"Você não vai ouvir o seu próximo alarme %1$s a menos que você desative isso antes disso"</string>

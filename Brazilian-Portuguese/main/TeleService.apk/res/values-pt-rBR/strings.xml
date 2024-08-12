@@ -267,7 +267,7 @@ Deseja sair agora?} }"</string>
     <string name="apn_settings">Nomes dos pontos de acesso (APN)</string>
     <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
     <string name="app_name">Serviços do smartphone</string>
-    <string name="app_process_limit_title">Limite do proc. 2º plano</string>
+    <string name="app_process_limit_title">Limite de proc. em 2º plano</string>
     <string name="arrears_sim_summary">Recarregue o saldo do seu telefone para se manter conectado</string>
     <string name="arrears_sim_title">Saldo insuficiente</string>
     <string name="ask">Perguntar</string>
@@ -2743,7 +2743,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="transcode_notification">Mostrar notificações de transcodificação</string>
     <string name="transcode_settings_title">Configurações de transcodificação de mídia</string>
     <string name="transcode_user_control">Substituir padrões de transcodificação</string>
-    <string name="transition_animation_scale_title">Escala anim. de transição</string>
+    <string name="transition_animation_scale_title">Escala de animação de transição</string>
     <string name="transport_title">Tipo de transporte</string>
     <string name="trigger_carrier_provisioning">Acionar fornecimento da operadora</string>
     <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
@@ -3087,10 +3087,10 @@ O armazenamento de credenciais pode não estar ativo"</string>
     <string name="wifitrackerlib_wifi_remembered">Salvo</string>
     <string name="wifitrackerlib_wifi_security_none">Nenhum</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Não limitada</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi não se conecta automaticamente por agora</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">O Wi-Fi não se conecta automaticamente por agora</string>
     <string name="wild_prompt_str">Substituir caractere curinga por</string>
-    <string name="window_animation_scale_title">Escala de anim. da janela</string>
-    <string name="window_blurs">Permitir desfoques no nível da janela</string>
+    <string name="window_animation_scale_title">Escala de animação da janela</string>
+    <string name="window_blurs">Permitir desfoques de janelas</string>
     <string name="wrong_password">A senha inserida está incorreta</string>
     <string name="xcap_setting_summary">Restrição de chamadas, correio de voz e encaminhamento de chamadas e chamada em espera</string>
     <string name="xcap_setting_title">Configurações dos serviços de chamada</string>

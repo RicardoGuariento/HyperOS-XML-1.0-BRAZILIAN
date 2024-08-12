@@ -439,7 +439,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="aqi_format_desc">Índice de qualidade do ar: %s</string>
     <string name="assistant_attention_content_description">Atenção do assistente ativada</string>
     <string name="app_name">Tela de bloqueio</string>
-    <string name="app_process_limit_title">Limite do proc. 2º plano</string>
+    <string name="app_process_limit_title">Limite de proc. em 2º plano</string>
     <string name="appops_camera">Este app está usando a câmera.</string>
     <string name="appops_camera_mic">Este app está usando o microfone e a câmera.</string>
     <string name="appops_camera_mic_overlay">Este app está se sobrepondo a outros apps na tela e usando o microfone e a câmera.</string>
@@ -1511,7 +1511,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="lb_search_bar_hint_speech">Falar para pesquisar</string>
     <string name="lb_search_bar_hint_with_title">Pesquisar %1$s</string>
     <string name="lb_search_bar_hint_with_title_speech">Fale para pesquisar %1$s</string>
-    <string name="learn_more">Saber mais</string>
+    <string name="learn_more">Saiba mais</string>
     <string name="left_icon">Ícone do botão esquerdo</string>
     <string name="left_keycode">Código do botão esquerdo</string>
     <string name="left_nav_bar_button_type">Tipo de botão esquerdo extra</string>
@@ -3376,7 +3376,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Personal</string>
     <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Não limitada</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">O Wi-Fi não se conecta automaticamente por enquanto</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">O Wi-Fi não se conecta automaticamente por agora</string>
     <string name="wind_direction_0">Vento N</string>
     <string name="wind_direction_1">Vento NL</string>
     <string name="wind_direction_1_f">Vento NL</string>
@@ -3391,7 +3391,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wind_direction_7_f">Vento NO</string>
     <string name="wind_format">%1$s | Nível %2$s</string>
     <string name="window_animation_scale_title">Escala de animação da janela</string>
-    <string name="window_blurs">Permitir desfoques no nível da janela</string>
+    <string name="window_blurs">Permitir desfoques de janelas</string>
     <string name="wireless_change_to_ac_charging">Alterado para o carregamento sem fios</string>
     <string name="wireless_charge_current">Carregando</string>
     <string name="wireless_charge_dialog_cancel">Entendi</string>

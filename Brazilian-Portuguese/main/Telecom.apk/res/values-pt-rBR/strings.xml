@@ -124,7 +124,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="anti_fraud_notification_title">Aviso antifraude</string>
     <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
     <string name="app_name">Gerenciamento de chamadas</string>
-    <string name="app_process_limit_title">Limite do processamento em 2º plano</string>
+    <string name="app_process_limit_title">Limite de proc. em 2º plano</string>
     <string name="auto_connect_disable">A conexão automática está desativada</string>
     <string name="available_via_app">Disponível via %1$s</string>
     <string name="available_via_carrier">Disponível via %1$s</string>
@@ -1108,9 +1108,9 @@ O armazenamento de credenciais pode não estar ativo"</string>
     <string name="wifitrackerlib_wifi_remembered">Salvo</string>
     <string name="wifitrackerlib_wifi_security_none">Nenhum</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Não limitada</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi não se conecta automaticamente por agora</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">O Wi-Fi não se conecta automaticamente por agora</string>
     <string name="window_animation_scale_title">Escala de animação da janela</string>
-    <string name="window_blurs">Permitir desfoques no nível da janela</string>
+    <string name="window_blurs">Permitir desfoques de janelas</string>
     <string name="yesterday">Ontem</string>
     <string name="zen_alarm_warning">Você não ouvirá o próximo alarme %1$s</string>
     <string name="zen_alarm_warning_indef">Você não ouvirá o próximo alarme %1$s, a menos que desative essa opção antes desse horário</string>

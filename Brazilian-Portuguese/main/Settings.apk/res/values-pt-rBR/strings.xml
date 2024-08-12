@@ -11428,8 +11428,8 @@ Toque no + para adicionar palavras."</string>
     <string name="vibrate_when_ringing_title">Vibrar enquanto toca</string>
     <string name="video_calling_settings_title">Videochamadas pela operadora</string>
     <string name="video_tool_box_title">Ferramentas de vídeo</string>
-    <string name="view_face_privacy_policy"><Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/&gt;\"Declaração de privacidade de dados faciais e;#038; bloqueio de tela\"&lt;/a&gt; antes de continuar.</Data></string>
-    <string name="view_fingerprint_privacy_policy"><Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/&gt;\"Declaração de privacidade de impressões digitais e;#038; bloqueio de tela\"&lt;/a&gt; antes de continuar.</Data></string>
+    <string name="view_face_privacy_policy"><Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>\"Declaração de privacidade de dados faciais e;#038; bloqueio de tela\"&lt;/a> antes de continuar.</Data></string>
+    <string name="view_fingerprint_privacy_policy"><Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Declaração de privacidade de impressões digitais e;#038; bloqueio de tela\"&lt;/a> antes de continuar.</Data></string>
     <string name="view_saved_network">Selecione uma rede salva para ver</string>
     <string name="vip_list">Notificar sobre chamadas recebidas</string>
     <string name="vip_service_settings">Meus serviços</string>
@@ -12433,9 +12433,9 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Antigo</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Desconhecido</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Não limitada</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi não se conecta automaticamente por agora</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">O Wi-Fi não se conecta automaticamente por agora</string>
     <string name="window_animation_scale_title">Escala de animação da janela</string>
-    <string name="window_blurs">Permitir desfoques de nível de janela</string>
+    <string name="window_blurs">Permitir desfoques de janelas</string>
     <string name="winscope_trace_quick_settings_title">Rastreamento do Winscope</string>
     <string name="wireless_connected">Conectado</string>
     <string name="wireless_debugging_main_switch_title">Use depuração sem fio</string>

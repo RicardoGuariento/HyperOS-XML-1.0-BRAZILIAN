@@ -105,7 +105,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="animator_duration_scale_title">Escala de duração da animação</string>
     <string name="apn_settings_not_available">As configurações de nome de ponto de acesso não estão disponíveis para este usuário</string>
     <string name="app_name">"Bluetooth HyperOS"</string>
-    <string name="app_process_limit_title">Limite do proc. 2º plano</string>
+    <string name="app_process_limit_title">Limite de proc. em 2º plano</string>
     <string name="audio_relay_default_device_name">Alto-falante Mi AI</string>
     <string name="auto_connect_disable">A conexão automática está desativada</string>
     <string name="available_via_app">Disponível via %1$s</string>
@@ -1064,7 +1064,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="transcode_notification">Mostrar notificações de transcodificação</string>
     <string name="transcode_settings_title">Configurações de transcodificação de mídia</string>
     <string name="transcode_user_control">Substituir padrões de transcodificação</string>
-    <string name="transition_animation_scale_title">Escala da animação de transição</string>
+    <string name="transition_animation_scale_title">Escala de animação de transição</string>
     <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
     <string name="tts_default_lang_title">Idioma</string>
     <string name="tts_default_pitch_summary">Afeta o tom da voz sintetizada</string>
@@ -1317,9 +1317,9 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_wifi_security_owe">Aberto aprimorado</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Ponto de passagem</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Não limitada</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi não se conecta automaticamente por enquanto</string>
-    <string name="window_animation_scale_title">Escala de animação das janelas</string>
-    <string name="window_blurs">Permitir desfoques no nível da janela</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">O Wi-Fi não se conecta automaticamente por agora</string>
+    <string name="window_animation_scale_title">Escala de animação da janela</string>
+    <string name="window_blurs">Permitir desfoques de janelas</string>
     <string name="xiaomi_account_bt_sync_name">"Bluetooth"</string>
     <string name="yesterday">Ontem</string>
     <string name="zen_alarm_warning">Você não ouvirá o seu próximo alarme %1$s</string>
