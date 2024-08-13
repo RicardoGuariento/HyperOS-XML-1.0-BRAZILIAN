@@ -417,6 +417,7 @@ Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
     <string name="saf_permission_title">Permissões necessárias</string>
     <string name="saf_permission_use_this_folder">Usar esta pasta</string>
     <string name="satellite_call_failed">Sinal interrompido. Tente novamente.</string>
+    <string name="satellite_cancel">Cancelar</string>
     <string name="satellite_debug_antenna">Antena</string>
     <string name="satellite_debug_azimuth">"Azimute"</string>
     <string name="satellite_debug_compass">Bússola</string>
@@ -454,6 +455,7 @@ até colocar a bola na área azul"</string>
     <string name="satellite_knew">Entendi</string>
     <string name="satellite_latitude_longitude">"Localização atual: "</string>
     <string name="satellite_location_deny_permission_msg">Permitir acesso à localização para ativar as comunicações do satélite Tiantong</string>
+    <string name="satellite_ok">Usar</string>
     <string name="satellite_satellite_accessory">"Estou usando um amplificador de sinal de satélite"</string>
     <string name="satellite_satellite_service_redirection">Ativar</string>
     <string name="satellite_satellite_service_tip">"Parece que você não ativou o serviço de conexão direta via satélite. Tente procurar por satélites após a ativação."</string>
@@ -462,8 +464,8 @@ até colocar a bola na área azul"</string>
     <string name="satellite_service_reject_cause_not_enable_International_roaming">Ative o roaming internacional</string>
     <string name="satellite_service_reject_cause_not_order_tiantong">Ative os serviços do satélite Tiantong</string>
     <string name="satellite_service_reject_cause_not_use_ctc">Insira um cartão SIM da China Telecom</string>
-    <string name="satellite_signal_boost_setting_dialog">Uma vez instalado e ativado, o amplificador de sinal mudará ligeiramente o ângulo desta unidade em relação ao satélite, melhorando a força e a estabilidade do sinal das comunicações por satélite em condições de céu nublado e encoberto.</string>
-    <string name="satellite_signal_boost_setting_dialog_title">Instale e comece a usar o amplificador de sinal de satélite</string>
+    <string name="satellite_signal_boost_setting_dialog">"Selecione \"Usar\" se você já comprou e instalou o amplificador de sinal. Usar o amplificador corretamente pode melhorar a intensidade do sinal e garantir comunicações estáveis ​​por satélite, mesmo em tempo nublado. Para evitar qualquer interferência potencial com o sinal do satélite, não selecione esta opção se o amplificador ainda não tiver sido instalado."</string>
+    <string name="satellite_signal_boost_setting_dialog_title">Usar amplificador de sinal Tiantong</string>
     <string name="satellite_state">"Não mova seu dispositivo"</string>
     <string name="satellite_state_auto_exit">Sair (%ds)</string>
     <string name="satellite_state_connected">"Conectado ao satélite

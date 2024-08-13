@@ -323,6 +323,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="gesture_hint_swipe_up">Deslize para cima</string>
     <string name="gesture_hint_trigger">Reconhecendo o gesto…</string>
     <string name="gesture_settings_title">Atalhos de gestos</string>
+    <string name="global_stylus_native_summary">Escreva em qualquer campo de texto e converta sua caligrafia em texto (somente alguns métodos de entrada são suportados)</string>
     <string name="global_stylus_summary">Escreva em qualquer campo de texto e converta sua caligrafia em texto (somente inglês e chinês são suportados)</string>
     <string name="global_stylus_title">Escriba</string>
     <string name="global_stylus_title_beta">Escriba (Beta)</string>
@@ -333,10 +334,10 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="go_on_import">Continuar importando</string>
     <string name="go_to_sleep">Desligar a tela</string>
     <string name="google_assistant_guide_cancel">Cancelar</string>
-    <string name="google_assistant_guide_message">Você pode manter pressionado o botão [Liga/Desliga] por %s segundos para começar a falar com o Google Assistente. Definir este atalho agora?</string>
+    <string name="google_assistant_guide_message">Você pode manter pressionado o botão [Liga/Desliga] por %s segundos para começar a falar com o assistente digital. Definir este atalho agora?</string>
     <string name="google_assistant_guide_ok">Definir</string>
     <string name="google_assistant_guide_tip">• Pressione e segure o botão [Liga/Desliga] por %s segundos para abrir o menu de desligamento.</string>
-    <string name="google_assistant_guide_title">Google Assistente</string>
+    <string name="google_assistant_guide_title">Assistente digital</string>
     <string name="gpg_message">Criar dual apps para jogos requer o uso do Google Play Games. Criar um dual app para o Google Play Games?</string>
     <string name="gpg_title">Dual app para o Google Play Games</string>
     <string name="green_guard">Segurança familiar</string>
@@ -362,6 +363,7 @@ Mensagens aparecerão apenas no Segundo espaço."</string>
     <string name="guide_contact_suc_sub_title_desc">Apenas contatos e mensagens privadas serão exibidas no Segundo espaço</string>
     <string name="guide_contact_suc_title_desc">Configurado com sucesso</string>
     <string name="guide_contact_title_desc">Mostrar itens privados no Segundo espaço?</string>
+    <string name="guide_insert_blank_tip">Desenhe uma linha vertical para separar os caracteres. Repita para juntá-los.</string>
     <string name="guide_media_play_pause">Reproduzir e pausar vídeo e áudio</string>
     <string name="guide_media_process">Ajustar o progresso da reprodução</string>
     <string name="guide_media_volume">Ajustar o volume da mídia</string>
@@ -373,6 +375,11 @@ Entre no Segundo espaço a partir da Tela de bloqueio"</string>
     <string name="guide_setting_guide_title">Gerenciar Segundo espaço</string>
     <string name="guide_start_text">Dois espaços. Um dispositivo.</string>
     <string name="guide_swipe_up_down">Deslize para cima e para baixo</string>
+    <string name="handwriting_enable_dialog_cancel">Cancelar</string>
+    <string name="handwriting_enable_dialog_confirm">Configurações</string>
+    <string name="handwriting_enable_dialog_message">"O teclado atual não suporta \"Escriba\". Você pode alterar suas preferências nas Configurações."</string>
+    <string name="handwriting_enable_dialog_title">\"Escriba\" está desativado</string>
+    <string name="handwriting_enable_dialog_unprompt">"Não mostrar novamente"</string>
     <string name="has_created_second_space">"Você pode abrir o Segundo espaço agora.
 Dois espaços. Um dispositivo."</string>
     <string name="hidden_app">Segundo espaço</string>
@@ -393,6 +400,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="import_photo_suc">Fotos importadas</string>
     <string name="input_space_finger">Definir agora</string>
     <string name="input_space_password">Definir agora</string>
+    <string name="inputmethod_switch_automatic">O método de entrada será alterado automaticamente quando \"Escriba\" estiver ativado</string>
     <string name="instagram_send">Compartilhar no Instagram</string>
     <string name="install">Instalar</string>
     <string name="install_error">"Não foi possível instalar. Tente novamente."</string>
@@ -400,8 +408,8 @@ Você também pode baixá-los separadamente."</string>
     <string name="intelligence_suppression_title">Automático (recomendado)</string>
     <string name="invalid_qr_code">Código QR inválido</string>
     <string name="item_view_role_description">Aba</string>
-    <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [Liga/Desliga] por %ss para ativar o Google Assistente</string>
-    <string name="kddi_long_press_power_guide_assistant_title">Acionar o Google Assistente</string>
+    <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [Liga/Desliga] por %ss para ativar o assistente digital</string>
+    <string name="kddi_long_press_power_guide_assistant_title">Acionar o assistente digital</string>
     <string name="kddi_long_press_power_guide_know">Entendi</string>
     <string name="kddi_long_press_power_guide_settings">Configurações</string>
     <string name="kddi_long_press_power_guide_shutdown_message">Pressione simultaneamente os botões [Liga/Desliga] e volume para reiniciar ou desligar o dispositivo</string>
@@ -512,7 +520,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="launch_calculator">Calculadora</string>
     <string name="launch_camera">Iniciar câmera</string>
     <string name="launch_control_center">Centro de controle</string>
-    <string name="launch_google_search">Inicie o Google Assistente</string>
+    <string name="launch_google_search">Iniciar assistente digital</string>
     <string name="launch_noapp_dialog_cancel">Cancelar</string>
     <string name="launch_noapp_dialog_install">Instalar</string>
     <string name="launch_noapp_dialog_replace">Configurações</string>
@@ -533,12 +541,12 @@ Você também pode baixá-los separadamente."</string>
     <string name="long_press_menu_key">Pressionar e segurar o botão Menu</string>
     <string name="long_press_menu_key_when_lock">Pressionar e segurar o botão Menu na Tela de bloqueio</string>
     <string name="long_press_power_guide_know">Entendi</string>
-    <string formatted="false" name="long_press_power_guide_message">"Pressione e segure o botão [Liga/Desliga] por %s segundos para acionar o Google Assistente.
+    <string formatted="false" name="long_press_power_guide_message">"Pressione e segure o botão [Liga/Desliga] por %s segundos para acionar o assistente digital.
 Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</string>
     <string name="long_press_power_guide_settings">Configurações</string>
     <string name="long_press_power_guide_title">Acordar com botão [Liga/Desliga]</string>
     <string name="long_press_power_key">Pressionar e segurar o botão [Liga/Desliga]</string>
-    <string name="long_press_power_key_half_of_second">Pressione e segure o botão [Liga/Desliga] por 0.5s para acionar o Google Assistente</string>
+    <string name="long_press_power_key_half_of_second">Pressione e segure o botão [Liga/Desliga] por %ss para acionar o assistente digital</string>
     <string name="long_press_power_key_half_second">Pressione e segure o botão [Liga/Desliga] por %s seg</string>
     <string name="long_press_power_key_tips">&lt;Data>Pressionar e segurar o botão [Liga/Desliga] é &lt;font color=#999999>mais rápido e conveniente&lt;/font>&lt;/Data></string>
     <string name="long_press_volume_down">Pressionar e segurar [Volume -]</string>
@@ -730,7 +738,7 @@ Ou então você não será capaz de entrar no Segundo espaço a partir da Tela d
     <string name="power_key_how_power_force_off_detail">Pressione e segure o botão [Liga/Desliga] até o dispositivo reiniciar</string>
     <string name="power_key_how_power_off">Como abrir a tela de desligamento</string>
     <string name="power_key_how_power_off_detail">Pressione e segure o botão [Liga/Desliga] por 3s</string>
-    <string name="power_key_how_start">Como ativar o Google Assistente</string>
+    <string name="power_key_how_start">Como ativar o assistente digital</string>
     <string name="power_key_how_start_detail">Pressione e segure o botão [Liga/Desliga] por 0.5s. Solte para falar.</string>
     <string name="power_key_start_enjoy">Comece a usar o Google Assistente</string>
     <string name="power_key_start_guide">Ativando o Google Assistente usando o botão [Liga/Desliga] em dispositivos com tela infinita</string>
@@ -989,6 +997,7 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="support_current_inputmethod">Teclado atual</string>
     <string name="sure_to_use">Confirmar</string>
     <string name="switchDataSummary">Mover itens entre espaços</string>
     <string name="switch_apps_settings">Configurações de apps</string>
@@ -1182,6 +1191,7 @@ merece seu próprio app"</string>
     <string name="xspace_introduce">Recomendado</string>
     <string name="xspace_label">"Dual apps"</string>
     <string name="xspace_loading_msg">Carregando apps…</string>
+    <string name="xspace_manager_restrictions_add_user">Este recurso é restrito pelo administrador do dispositivo ou pela política corporativa</string>
     <string name="xspace_notification">Notificações de Dual apps</string>
     <string name="xspace_notification_button">Experimentar</string>
     <string name="xspace_notification_error">Faça login no Dual WeChat e tente novamente</string>
