@@ -639,7 +639,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_permission_use_group_sms_des">Enviar, receber e ler mensagens</string>
     <string name="app_permission_use_group_storage">Armazenamento</string>
     <string name="app_permission_use_group_storage_des">Acesse e salve itens no armazenamento</string>
-    <string name="app_permission_use_neccesary">Permissões requeridas</string>
+    <string name="app_permission_use_neccesary">Permissões necessárias</string>
     <string name="app_permission_use_no_neccesary">Permissões opcionais</string>
     <string name="app_permission_use_title">Permissões</string>
     <string name="app_predict_black_list_empty">Nenhum item aqui ainda</string>
@@ -3392,7 +3392,7 @@ Você pode desativar a opção \"Ajustar automaticamente estatísticas de uso de
     <string name="net_boostering">Acelerando velocidade da rede…</string>
     <string name="net_boosting">Otimizando velocidade…</string>
     <string name="net_delay_title">Atraso</string>
-    <string name="net_free_booster_new_user_tip">Obtenha um reforço de jogo grátis e concorra a um telefone Xiaomi!</string>
+    <string name="net_free_booster_new_user_tip">Obtenha um boost de jogo grátis e concorra a um dispositivo Xiaomi!</string>
     <string name="net_free_booster_new_user_title">Presente para novo usuário</string>
     <string name="net_overdue">Sessão encerrada</string>
     <string name="network_assistant_privacy">Para acompanhar o uso de dados pelo app, coletaremos informações como o nomes de pacotes, uso de dados móveis e Wi-Fi, uso de dados de pico e fora de pico e quando o Wi-Fi e os dados móveis estão ativados. Essas informações são armazenadas localmente em seu dispositivo.</string>
@@ -5599,9 +5599,9 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_permission_declare_meanwhile_double_link"><Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="system_permission_declare_meanwhile_user_agreement"><Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>.</Data></string>
-    <string name="system_permission_declare_no_say_no">Se você optar por não conceder as permissões requeridas ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar normalmente.</string>
+    <string name="system_permission_declare_no_say_no">Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar normalmente.</string>
     <string name="system_permission_declare_no_say_no_analytics">Se você não quiser conceder estas permissões, você pode cancelar sua inscrição em Configurações > Configurações adicionais > Privacidade > Programa de Experiência do Usuário.</string>
-    <string name="system_permission_declare_no_say_no_non_mandatory">Se você optar por não conceder as permissões requeridas ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar totalmente.</string>
+    <string name="system_permission_declare_no_say_no_non_mandatory">Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar totalmente.</string>
     <string name="system_permission_declare_optional">"Para fornecer serviços adicionais enquanto você usa o app, podemos precisar das seguintes permissões: %s. Você sempre pode ajustar suas preferências de permissão nas Configurações."</string>
     <string name="system_permission_declare_privacy_declare">"Este app precisa conectar-se à internet e requer as seguintes permissões para funcionar normalmente:"</string>
     <string name="system_permission_declare_privacy_no_network">Este app precisa das seguintes permissões para poder funcionar normalmente:</string>

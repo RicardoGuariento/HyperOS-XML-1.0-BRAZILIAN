@@ -41,6 +41,14 @@
         <item quantity="other">%1$s backups (%2$s)</item>
         <item quantity="one">%1$s backup (%2$s)</item>
     </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d dias desde o último backup | Novos dados: %2$s</item>
+        <item quantity="one">%1$d dia desde o último backup | Novos dados: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d dias desde o último backup</item>
+        <item quantity="one">%d dia desde o último backup</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>

@@ -101,7 +101,7 @@
     <string name="error_p2p_create_group_failure_china">"Não foi possível conectar. Reconecte-se ao Wi-Fi nos dois dispositivos e tente novamente."</string>
     <string name="error_p2p_recv_connect_timeout">"Não foi possível conectar. Reconecte-se ao Wi-Fi em ambos os dispositivos e tente novamente."</string>
     <string name="error_p2p_recv_connect_timeout_china">"Não foi possível conectar. Reconecte-se ao Wi-Fi em ambos os dispositivos e tente novamente."</string>
-    <string name="error_permission_denied">Para poder usar este recurso, conceda ao Xiaomi Share todas as permissões requeridas nas Configurações.</string>
+    <string name="error_permission_denied">Para poder usar este recurso, conceda ao Xiaomi Share todas as permissões necessárias nas Configurações.</string>
     <string name="error_receive_file_cannot_read">"Não foi possível receber o arquivo"</string>
     <string name="error_receive_file_changed">"Não é possível receber. O arquivo foi alterado."</string>
     <string name="error_receive_file_file_opened">"Não foi possível receber este item. Parece que ele está sendo usado no momento."</string>
@@ -332,7 +332,7 @@ Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartp
     <string name="pc_redmi_device_model_name">Notebook Redmi</string>
     <string name="pc_xiaomi_device_model_name">Notebook Xiaomi</string>
     <string name="permission_apply_purpose">Permita que o Xiaomi Share descubra e se conecte a dispositivos próximos para poder transferir arquivos.</string>
-    <string name="permission_denied_hint">Conceda as permissões requeridas para poder usar o Xiaomi Share</string>
+    <string name="permission_denied_hint">Conceda as permissões necessárias para poder usar o Xiaomi Share</string>
     <string name="permission_related">Permissões</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
