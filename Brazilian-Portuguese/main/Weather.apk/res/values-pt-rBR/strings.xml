@@ -500,13 +500,13 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="precipitation_degree_two">Leve</string>
     <string name="precipitation_forecast_desc">Toque para previsão</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
-    <string name="privacy_grant_failed">"Não foi possível conceder consentimento. Espere um pouco e tente novamente."</string>
+    <string name="privacy_grant_failed">"Não foi possível conceder consentimento. Aguarde um momento e tente novamente."</string>
     <string name="privacy_grant_or_revoke_settings">Retirada de consentimento</string>
     <string name="privacy_grant_success">Autorização concedida com sucesso</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_policy_msg"><Data>Este app possui os seguintes recursos:&lt;br/>• Informações de clima específicos da sua localização&lt;br/>• Previsões do tempo&lt;br/>• Alertas de clima&lt;br/>&lt;br/>O app Clima precisa coletar informações pessoais necessárias para lhe fornecer serviços básicos. Você pode saber mais sobre como tratamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e aceite nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar o app Clima. Você pode retirar o seu consentimento à Política de Privacidade do app Clima nas Configurações a qualquer momento.</Data></string>
     <string name="privacy_policy_msg_for_gp">&lt;Data>Este app possui os seguires recursos:&lt;br/>• informações do clima específicas à sua localização&lt;br/>• Previsão do tempo&lt;br/>• Alertas meteorológicos&lt;br/>&lt;br/>O app Clima precisa coletar informações pessoais necessárias, incluindo dados de localização, para que estes recursos sejam disponibilizados, até mesmo quando o app estiver fechado ou fora de uso. Para entender melhor como lidamos com as informações coletadas, consulte a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de utilizar o app. Você pode retirar o seu consentimento à Política de Privacidade do app Clima nas Configurações a qualquer momento.&lt;/Data></string>
-    <string name="privacy_revoke_failed">"Não foi possível retirar o consentimento. Espere um pouco e tente novamente."</string>
+    <string name="privacy_revoke_failed">"Não foi possível retirar o consentimento. Aguarde um momento e tente novamente."</string>
     <string name="privacy_revoke_success">Autorização revogada com sucesso</string>
     <string name="privacy_settings">Política de Privacidade</string>
     <string name="pull_fresh_updated">Atualizado com sucesso</string>
@@ -528,7 +528,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="realtime_temperature_no_data">Nenhum</string>
     <string name="realtime_wind_default_title">Vento</string>
     <string name="receive_net_mock_success">Simulação de rede com sucesso</string>
-    <string name="refresh_empty_data">"Não foi possível carregar os dados. Espere um pouco e tente novamente."</string>
+    <string name="refresh_empty_data">"Não foi possível carregar os dados. Aguarde um momento e tente novamente."</string>
     <string name="refresh_fail">"Não foi possível conectar-se à rede"</string>
     <string name="reminder_from_xiaomi_weather_app">Alertas do Clima</string>
     <string name="request_cta_connect_net">Permita que este app conecte-se à internet e conceda as permissões obrigatórias listadas acima.</string>
@@ -538,7 +538,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="request_permission_storage_dialog_content">Para compartilhar as informações de clima como imagem</string>
     <string name="retry">Tente novamente</string>
     <string name="revoke_fail">"Não é possível conectar-se à rede"</string>
-    <string name="revoke_permission_fail_msg">Ocorreu um erro no servidor. Espere um pouco e tente novamente.</string>
+    <string name="revoke_permission_fail_msg">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="revoke_permission_fail_next_msg">Seu dispositivo precisa estar conectado à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="revoke_permission_fail_next_title">"Não foi possível conectar-se à rede"</string>
     <string name="revoke_permission_fail_title">"Não foi possível retirar o consentimento"</string>

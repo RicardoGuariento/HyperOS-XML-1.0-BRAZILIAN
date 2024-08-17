@@ -275,7 +275,7 @@ Nenhum dispositivo Bluetooth encontrado."</string>
     <string name="cit_bluetooth_scanning_opening_bluetooth">Abrindo dispositivo Bluetooth…</string>
     <string name="cit_bottom_left_speaker_test">Teste do alto-falante inferior esquerdo</string>
     <string name="cit_bottom_right_speaker_test">Teste do alto-falante inferior direito</string>
-    <string name="cit_btn_security_test_summary">"1. Por favor, clique no botão e espere um pouco, preste atenção para verificar o status da rede
+    <string name="cit_btn_security_test_summary">"1. Por favor, clique no botão e aguarde um momento, preste atenção para verificar o status da rede
 2. Se Atualizado com sucesso aparecer, significa que o certificado Widevine foi atualizado com sucesso.
 3. Se a atualização do certificado falhou, significa que o certificado Widevine foi atualizado com falha.
 4. Esta ferramenta não é usada como teste regular.
@@ -1053,7 +1053,7 @@ Falha no teste!"</string>
     <string name="nfc_not_available">NFC indisponível</string>
     <string name="no_vibrator">Sem vibração</string>
     <string name="open_third_color_led">Abrir LED de três cores</string>
-    <string name="password_toggle_content_description">Exibir senha</string>
+    <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pass">Passou</string>
     <string name="phone_not_been_restarted">O dispositivo não foi reiniciado</string>
     <string name="picture">Foto</string>

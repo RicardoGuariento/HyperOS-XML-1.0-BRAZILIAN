@@ -8089,7 +8089,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_advanced_settings">Mais configurações de privacidade</string>
     <string name="privacy_advanced_settings_summary">Preenchimento automático, controles de atividade e muito mais</string>
     <string name="privacy_and_security">Privacidade e segurança</string>
-    <string name="privacy_authorize_cloud_msg">Para garantir a segurança da sua conta, faça o login em i.mi.com se você desejar revogar a autorização para os serviços MiCloud (incluindo sincronização e backups).</string>
+    <string name="privacy_authorize_cloud_msg">Para garantir a segurança da sua conta, faça o login em i.mi.com se você desejar revogar a autorização para os serviços da MiCloud (incluindo sincronização e backups).</string>
     <string name="privacy_authorize_dialog_agree">Aceitar</string>
     <string name="privacy_authorize_dialog_exit">Sair</string>
     <string name="privacy_authorize_dialog_message"><Data>Para usar os recursos básicos deste serviço, você precisa concordar que a Xiaomi coletará, processará e usará os seus dados pessoais. Consulte a nossa Política de Privacidade para entender como coletamos e processamos os dados pessoais. Selecionando \"Aceitar\" significa que você concorda com a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.</Data></string>
@@ -8561,6 +8561,8 @@ Essa configuração afeta todos os usuários do dispositivo."</string>
     <string name="safety_center_summary">Segurança do app, bloqueio do dispositivo, permissões</string>
     <string name="safety_center_title">Segurança e privacidade</string>
     <string name="sar">Informação de exposição RF</string>
+    <string name="satellite_call_assistant">Configurações de chamada</string>
+    <string name="satellite_network_title">Recursos de chamada via satélite</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_first_day_of_week">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -9836,6 +9838,11 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="sort_order_frequent_notification">Mais frequentes</string>
     <string name="sort_order_recent_notification">Mais recentes</string>
     <string name="sort_order_size">Classificar por tamanho</string>
+    <string name="sos_add_area_code_switch_summary">Adicione o código de área automaticamente para um número de telefone ao fazer uma chamada de emergência com as Comunicações do satélite Tiantong</string>
+    <string name="sos_add_area_code_switch_title">Adicionar código de área automaticamente</string>
+    <string name="sos_area_code_settings_hint">Inserir código de área</string>
+    <string name="sos_area_code_settings_summary">Defina manualmente o código de área para o número de telefone do seu contato de emergência</string>
+    <string name="sos_area_code_settings_title">Definir código de área</string>
     <string name="sos_phone_call_privacy_dialog_message">"Para ligar para seus contatos de emergência e reproduzir gravações de SOS, este app precisa das seguintes permissões:
 • Fazer chamadas
 Para fazer chamadas para seus contatos de emergência

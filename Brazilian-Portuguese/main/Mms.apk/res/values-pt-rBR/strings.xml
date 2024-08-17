@@ -924,7 +924,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="priority_label">"Prioridade: "</string>
     <string name="priority_low">Baixa</string>
     <string name="priority_normal">"Normal"</string>
-    <string name="privacy_dialog_error_service">Ocorreu um erro no servidor. Espere um pouco e tente novamente.</string>
+    <string name="privacy_dialog_error_service">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="privacy_dialog_text_policy_link">Política de Privacidade</string>
     <string formatted="false" name="privacy_dialog_tips_revoke">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como% s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %s. Retirar consentimento agora?"</string>
     <string formatted="false" name="privacy_dialog_tips_update">"%s A Política de Privacidade foi atualizada:

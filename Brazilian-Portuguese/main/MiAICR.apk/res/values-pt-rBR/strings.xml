@@ -548,7 +548,7 @@
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
     <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
     <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-o no seu navegador.</string>
+    <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
     <string name="passport_next">Próximo</string>
     <string name="passport_no_account">Não conectado</string>
@@ -568,16 +568,16 @@
     <string name="passport_register_restricted">Muitas contas foram associadas a este número. Experimente um diferente.</string>
     <string name="passport_relogin_notice">Você precisa fazer login novamente</string>
     <string name="passport_request_agree">Permitir</string>
-    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para configurar sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="passport_request_cancel">Cancelar</string>
     <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="passport_request_error_unknown">Ocorreu um erro de sistema. Volte e tente novamente.</string>
+    <string name="passport_request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
     <string name="passport_request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
     <string name="passport_resend_email_reach_limit_message">"Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não esteja na pasta Spam da sua caixa de entrada."</string>
     <string name="passport_resend_email_reach_limit_title">Muitas tentativas</string>
     <string name="passport_resend_ticket">Reenviar código</string>
-    <string name="passport_retry">Tente novamente</string>
+    <string name="passport_retry">Tentar novamente</string>
     <string name="passport_same_new_and_old_pwd">"Não pode ser igual à senha atual"</string>
     <string name="passport_send_sms_to">Código enviado para %1$s</string>
     <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
@@ -588,7 +588,7 @@
     <string name="passport_sns_access_token_expired_warning">Sessão expirada. Faça login novamente para reconectar esta conta.</string>
     <string name="passport_sns_bind_limit">Muitas tentativas. Experimente outras maneiras de fazer login.</string>
     <string name="passport_system_error">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
-    <string name="passport_talkback_image_captcha">Código de verificação de imagem</string>
+    <string name="passport_talkback_image_captcha">Código de verificação por imagem</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação por imagem</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
     <string name="passport_talkback_voice_captcha">Reproduzir código de verificação por voz</string>
