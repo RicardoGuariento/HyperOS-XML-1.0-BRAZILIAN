@@ -539,6 +539,9 @@ Para desativar este recurso, vá em Configurações > Som e vibração > Vídeo 
     <string name="incompatible_dialog_message">"Este tema ainda não é totalmente compatível com esta versão do OS. Alguns itens podem não funcionar corretamente."</string>
     <string name="incompatible_dialog_ok">"OK"</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
+    <string name="install_fail">Não foi possível instalar</string>
+    <string name="install_succ">Instalado com sucesso</string>
+    <string name="installing">Instalando…</string>
     <string name="install_clock">"Você ainda não instalou o Relógio. Baixar agora?"</string>
     <string name="install_failed">"Não é possível instalar"</string>
     <string name="install_gallery_content">"Você ainda não instalou a Galeria. Baixar agora?"</string>
@@ -698,7 +701,7 @@ dd 'de' MMM"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
-    <string name="miuix_appcompat_cloud_state_disabled">A sincronização com a nuvem está desativada</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Sincronização com a nuvem desativada</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizado com a nuvem</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
@@ -950,7 +953,7 @@ Todos os itens de personalização usados atualmente neste dispositivo. As prefe
     <string name="privacy_pad_fold_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada do Consentimento à Política de Privacidade do Plano de fundo e personalização\" antes de retirar o seu consentimento.</string>
     <string name="privacy_pad_fold_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade de Personalização. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Uma vez que o Personalização fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar serviços de Plano de fundo e personalização."</string>
     <string name="privacy_pad_fold_update_content">Política de Privacidade do Plano de fundo e personalização foi atualizada:</string>
-    <string name="privacy_pad_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do usuário e Política de privacidade. No entanto, os recursos e serviços básicos do Personalização ainda estão disponíveis para você.
+    <string name="privacy_pad_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do Usuário e Política de Privacidade. No entanto, os recursos e serviços básicos do Personalização ainda estão disponíveis para você.
 Sempre que você usar os itens armazenados neste dispositivo para personalização (ex.: configurá-los como planos de fundo ou toques), pediremos que você permita que este app acesse o armazenamento do dispositivo."</string>
     <string name="privacy_permission_management_description">Detalhes de permissões</string>
     <string name="privacy_permission_related_content">Permissões</string>

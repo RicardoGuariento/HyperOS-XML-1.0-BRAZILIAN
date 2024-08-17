@@ -158,8 +158,8 @@ Observação: Os dados dos apps que estão instalados não serão salvos na MiCl
     <string name="cloud_backup_detail_manage">Gerenciar backups</string>
     <string name="cloud_backup_detail_no_time">Ainda não há backups</string>
     <string name="cloud_backup_detail_state">Backups automáticos</string>
-    <string name="cloud_backup_detail_state_summary">Requer conexão Wi-Fi, bateria de pelo menos %s e tela desligada.</string>
-    <string name="cloud_backup_detail_state_summary_china">Requer conexão Wi-Fi, bateria de pelo menos %s e tela desligada.</string>
+    <string name="cloud_backup_detail_state_summary">Requer conexão Wi-Fi, bateria com no mínimo %s e a tela desligada.</string>
+    <string name="cloud_backup_detail_state_summary_china">Requer conexão Wi-Fi, bateria com no mínimo %s e a tela desligada.</string>
     <string name="cloud_backup_detail_time">Último backup: %1$s</string>
     <string name="cloud_backup_detail_title">Fazer backup de itens</string>
     <string name="cloud_backup_get_installed_apps_summary">Para fazer backup e restaurar apps da Tela inicial</string>
@@ -582,7 +582,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="session_starting_backup_text">Preparando-se para fazer backup. Isso levará entre %1$d-%2$d minutos.</string>
     <string name="session_starting_restore_text">Preparando para restaurar. Isso levará entre %1$d-%2$d minutos.</string>
     <string name="session_success_backup_data_size">Tamanho do backup: %s</string>
-    <string name="session_success_backup_finish_time">Backup concluído em %s</string>
+    <string name="session_success_backup_finish_time">Backup concluído às %s</string>
     <string name="session_success_restore_data_size">Tamanho total do arquivo: %s</string>
     <string name="session_success_restore_finish_time">Itens restaurados em %s</string>
     <string name="session_success_title_backup">Backup feito com sucesso</string>

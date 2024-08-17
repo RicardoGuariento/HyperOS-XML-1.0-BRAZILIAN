@@ -58,6 +58,7 @@
     <string name="app_description_title">Sobre o Scanner</string>
     <string name="app_details">"App:"</string>
     <string name="app_name">"Scanner"</string>
+    <string name="auracast_code_title_key">Ouvir à transmissão de %s</string>
     <string name="back">Voltar</string>
     <string name="barcode_into_rectangle">Centralize o código QR dentro da área</string>
     <string name="birthday">Aniversário:</string>
@@ -617,6 +618,7 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="picture_warning">Sem arquivos de mídia!</string>
     <string name="picture_webp_tag">"webp"</string>
     <string name="place_barcode_into_rectangle">Centralize o código QR dentro da área</string>
+    <string name="please_enable_bluetooth_retry">Ative o Bluetooth e tente novamente</string>
     <string name="plant_fail">"Não foi possível reconhecer"</string>
     <string name="plant_loading">Identificando…</string>
     <string name="plant_reg_fail_2">"Não foi possível reconhecer este objeto. O Scanner só pode identificar plantas."</string>
