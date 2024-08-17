@@ -315,7 +315,7 @@ Não altere ou renomeie os arquivos de backup."</string>
     <string name="guarded_mode_dialog_title">"Você está no Modo convidado"</string>
     <string name="guarded_mode_dialog_transfer_message">"Não é possível usar o Mi Mover no Modo convidado."</string>
     <string name="hide_password_description">Ocultar senha</string>
-    <string name="hsa_code_null">"O código de verificação não pode estar em branco"</string>
+    <string name="hsa_code_null">"O código de verificação não pode estar vazio"</string>
     <string name="hsa_input_hint">Insira o código de verificação</string>
     <string name="hsa_input_tip">Sua ID Apple usa a autenticação de dois fatores. Insira o código de verificação.</string>
     <string name="hsa_send_again">Enviar novamente</string>
@@ -630,7 +630,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="old_way">Você também pode gerar um código QR em seu novo dispositivo e digitalizá-lo usando o antigo.</string>
     <string name="page_loading">Aguarde…</string>
     <string name="password">Senha</string>
-    <string name="password_null">"A senha não pode estar em branco"</string>
+    <string name="password_null">"A senha não pode ficar vazia"</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pause">Pausar</string>
     <string name="perm_camera">Câmera</string>
@@ -1107,7 +1107,7 @@ Libere algum espaço ou transfira só itens importantes."</string>
     <string name="user_feedback">"Feedback"</string>
     <string name="user_know_button_text">Entendi</string>
     <string name="user_name">ID Apple ou e-mail</string>
-    <string name="user_name_null">"O usuário não pode estar em branco"</string>
+    <string name="user_name_null">"O usuário não pode ficar vazio"</string>
     <string name="user_notice_declaration_ignore">"Não mostrar novamente"</string>
     <string name="user_notice_message">Algumas funcionalidades requerem uma conexão com a internet para funcionarem normalmente.</string>
     <string name="user_notice_title">Atenção!</string>
