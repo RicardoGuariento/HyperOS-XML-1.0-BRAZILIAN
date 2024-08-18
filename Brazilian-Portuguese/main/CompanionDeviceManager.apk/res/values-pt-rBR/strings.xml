@@ -47,6 +47,8 @@
     <string name="helper_summary_nearby_device_streaming">%1$s está solicitando permissão em nome de %2$s para transmitir apps e outros recursos do sistema para dispositivos próximos</string>
     <string name="helper_title_app_streaming">Serviços entre dispositivos</string>
     <string name="helper_title_computer">Google Play Services</string>
+    <string name="permission_apps">Apps</string>
+    <string name="permission_apps_summary">Transmita os apps do seu dispositivo</string>
     <string name="permission_app_streaming">Apps</string>
     <string name="permission_app_streaming_summary">Transmita os apps do seu dispositivo</string>
     <string name="permission_calendar">Agenda</string>
@@ -86,4 +88,5 @@
     <string name="title_computer">Permitir que &lt;strong>%1$s&lt;/strong> acesse essas informações do seu dispositivo</string>
     <string name="title_nearby_device_streaming">Permitir que o dispositivo &lt;strong>%1$s&lt;/strong> execute esta ação?</string>
     <string name="vendor_header_button_description">Mais informações</string>
+    <string name="vendor_icon_description">Ícone do app</string>
 </resources>
