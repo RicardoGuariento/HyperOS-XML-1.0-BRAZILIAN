@@ -3439,7 +3439,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_oaid">Gerenciar ID virtual</string>
     <string name="device_oaid_desc">Em vez do seu identificador único, o sistema fornecerá um identificador virtual (OAID) a apps instalados. Ele evita que os apps rastreiem o seu comportamento e preferências, e protege a sua privacidade.</string>
     <string name="device_oaid_title">ID virtual</string>
-    <string name="device_of_someone">"%1$s's %2$s"</string>
+    <string name="device_of_someone">"%1$s de %2$s"</string>
     <string name="device_opcust_version">Versão do operador</string>
     <string name="device_picker">Escolha o dispositivo Bluetooth</string>
     <string name="device_rear_camera">Câmera</string>
@@ -9851,7 +9851,7 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="sort_order_frequent_notification">Mais frequentes</string>
     <string name="sort_order_recent_notification">Mais recentes</string>
     <string name="sort_order_size">Classificar por tamanho</string>
-    <string name="sos_add_area_code_switch_summary">Adicione o código de área automaticamente para um número de telefone ao fazer uma chamada de emergência com as Comunicações do satélite Tiantong</string>
+    <string name="sos_add_area_code_switch_summary">Adicione o código de área automaticamente para um número de telefone ao fazer uma chamada de emergência com as Comunicações do Tiantong Satellite</string>
     <string name="sos_add_area_code_switch_title">Adicionar código de área automaticamente</string>
     <string name="sos_area_code_settings_hint">Inserir código de área</string>
     <string name="sos_area_code_settings_summary">Defina manualmente o código de área para o número de telefone do seu contato de emergência</string>
