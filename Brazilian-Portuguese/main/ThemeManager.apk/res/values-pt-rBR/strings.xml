@@ -863,7 +863,7 @@ dd 'de' MMM"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Você não poderá realizar as seguintes ações depois de sair:
 Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">Sair da Personalização?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do com o plano de fundo e a personalização, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"Li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do com o plano de fundo e a personalização, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
     <string name="pad_fold_log_in_wallpaper">Faça login na Personalização</string>
     <string name="pad_fold_no_permission">Permissões de armazenamento necessárias</string>
     <string name="pad_fold_no_permission_detail">Para poder alterar as preferências de personalização e salvar itens baixados, permita que este recurso acesse o armazenamento primeiro.</string>
@@ -895,7 +895,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
 2. Adicionar comentários e likes, siguir outras pessoas e interagir com elas."</string>
     <string name="phone_exit_theme_warning_title">Fazer logout do Temas?</string>
     <string name="phone_log_in_theme">Fazer login no Temas</string>
-    <string name="phone_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do Temas, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>"Li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do Temas, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
     <string name="playing_ringtone">Tocando</string>
     <string name="pm">"PM"</string>
     <string name="pref_lockscreen_magazine_summary">Substitua o plano de fundo por apresentações de slides de imagens de várias categorias</string>
@@ -946,11 +946,11 @@ Todos os itens de personalização usados atualmente neste dispositivo. As prefe
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Leia e concorde com o \"Declaração de Cancelamento de Serviços de Personalização\" antes de cancelar nossos serviços.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Você está prestes a cancelar os serviços de Personalização"</string>
     <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Li e aceito a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração de Cancelamento de Serviços de Personalização&lt;/a>&lt;/font>\"."</Data></string>
-    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Li e aceito a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada do Consentimento à Política de Privacidade de Personalização&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Li e aceito a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada de Consentimento à Política de Privacidade de Personalização&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_pad_fold_revoke_agree_content_3">3. Todos os planos de fundo, fontes e toques baixados para este dispositivo.</string>
     <string name="privacy_pad_fold_revoke_agree_content_4">4. Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Declaração sobre a Retirada do Consentimento à Política de Privacidade do Plano de fundo e personalização</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada do Consentimento à Política de Privacidade do Plano de fundo e personalização\" antes de retirar o seu consentimento.</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Declaração sobre a Retirada de Consentimento à Política de Privacidade do Plano de fundo e personalização</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada de Consentimento à Política de Privacidade do Plano de fundo e personalização\" antes de retirar o seu consentimento.</string>
     <string name="privacy_pad_fold_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade de Personalização. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Uma vez que o Personalização fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar serviços de Plano de fundo e personalização."</string>
     <string name="privacy_pad_fold_update_content">Política de Privacidade do Plano de fundo e personalização foi atualizada:</string>
     <string name="privacy_pad_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do Usuário e Política de Privacidade. No entanto, os recursos e serviços básicos do Personalização ainda estão disponíveis para você.
@@ -982,15 +982,15 @@ Todos os itens de personalização usados ​​atualmente neste dispositivo. As
     <string name="privacy_phone_revoke_agree_content_3">3. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
     <string name="privacy_phone_revoke_agree_content_4">4. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.
-2. A retirada do consentimento à Política de Privacidade do Temas não afetará o uso normal de outros produtos Xiaomi.
-3. A retirada do consentimento é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que seu consentimento for retirado. Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada do consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):"</string>
+2. A retirada de consentimento à Política de Privacidade do Temas não afetará o uso normal de outros produtos Xiaomi.
+3. A retirada de consentimento é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que seu consentimento for retirado. Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada de consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):"</string>
     <string name="privacy_phone_revoke_agree_detail_content_2">"Todos os pedidos (incluindo pedidos pagos) feitos em dispositivos Xiaomi onde você usou sua Conta Mi. Você não poderá mais usar os itens que comprou.
 Todas as informações sobre suas curtidas, comentários, avaliações e seguidores gerados nos dispositivos Xiaomi onde você usou sua Conta Mi.
 Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.
 Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens em cache gerados neste dispositivo.
 Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas."</string>
     <string name="privacy_phone_revoke_agree_detail_content_3">"4. Após retirar o seu consentimento à Política de Privacidade do Temas, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. 
-5. A retirada do consentimento não implica isenção ou mitigação em relação às responsabilidades decorrentes de ações praticadas antes da retirada do consentimento."</string>
+5. A retirada de consentimento não implica isenção ou mitigação em relação às responsabilidades decorrentes de ações praticadas antes da retirada de consentimento."</string>
     <string name="privacy_phone_revoke_agree_detail_prompt">Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas</string>
     <string name="privacy_phone_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas\" antes de retirar seu consentimento.</string>
     <string name="privacy_phone_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Temas. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Temas fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços do Temas."</string>
@@ -1005,7 +1005,7 @@ Todos os itens de personalização usados ​​atualmente neste dispositivo. As
     <string name="privacy_revoke_agree_content_1">1. Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi onde você usou sua Conta Mi. Você não poderá mais usar os itens que comprou.</string>
     <string name="privacy_revoke_agree_content_2">2. Todas as informações sobre seus gostos, comentários, avaliações e seguidores gerados nos dispositivos Xiaomi onde você usou sua Conta Mi.</string>
     <string name="privacy_revoke_agree_content_5">5. Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas.</string>
-    <string name="privacy_revoke_agree_data_warning">Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada do consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):</string>
+    <string name="privacy_revoke_agree_data_warning">Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada de consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):</string>
     <string name="privacy_revoke_succeed">Retirou consentimento com sucesso</string>
     <string name="privacy_revoking_warning">Retirando consentimento…</string>
     <string name="privacy_select_mode">Selecionar modo</string>
@@ -1013,15 +1013,15 @@ Todos os itens de personalização usados ​​atualmente neste dispositivo. As
     <string name="privacy_settings">Privacidade</string>
     <string name="privacy_update_prompt_title">Política de Privacidade atualizada</string>
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.
-2. A retirada do consentimento com a Política de Privacidade do Plano de fundo e personalização não afetará o uso normal de outros produtos Xiaomi.
-3. A retirada do consentimento é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que seu consentimento for retirado. Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada do consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):"</string>
+2. A retirada de consentimento com a Política de Privacidade do Plano de fundo e personalização não afetará o uso normal de outros produtos Xiaomi.
+3. A retirada de consentimento é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que seu consentimento for retirado. Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada de consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):"</string>
     <string name="private_pad_fold_revoke_agree_detail_content_2">"Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi onde você usou sua Conta Mi. Você não poderá mais usar os itens que comprou.
 Todas as informações sobre suas curtidas, comentários, avaliações e seguidores gerados nos dispositivos Xiaomi onde você usou sua Conta Mi.
 Todos os planos de fundo, fontes e toques baixados para este dispositivo.
 Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.
 Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas."</string>
     <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Depois de retirar o seu consentimento com a Política de Privacidade do Personalização, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário.
-5. A retirada do consentimento não implica isenção ou mitigação no que diz respeito às responsabilidades decorrentes de ações realizadas antes da retirada do consentimento."</string>
+5. A retirada de consentimento não implica isenção ou mitigação no que diz respeito às responsabilidades decorrentes de ações realizadas antes da retirada de consentimento."</string>
     <string name="provision_default_theme_title">Padrão</string>
     <string name="provision_loading_tips">Aguarde…</string>
     <string name="provision_second_title">Selecione um dos vários temas padrão</string>
@@ -1033,7 +1033,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="pull_down_view_title">"O que há de novo"</string>
     <string name="purchased">Pedidos</string>
     <string name="rain_probability_desc">Possibilidade de chuva: %s</string>
-    <string name="read_and_agree_account_privacy"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi."</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>"Li e aceito o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi."</Data></string>
     <string name="recently_used">Usados recentemente</string>
     <string name="recommend_trigger">Recomendações personalizadas</string>
     <string name="recommend_trigger_summary">Ative para receber recomendações com base em suas preferências</string>
