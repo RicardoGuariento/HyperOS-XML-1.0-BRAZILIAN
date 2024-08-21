@@ -164,16 +164,16 @@
     <string name="mj_uwb_close_to_auth">Aproxime-se 2 metros para concluir a verificação segura.</string>
     <string name="mj_uwb_common_device_loading">Por favor, aguarde…</string>
     <string name="mj_uwb_confirm_aoa_device">Calibrar este dispositivo?</string>
-    <string name="mj_uwb_connect_fail">"Não foi possível conectar. Por favor, tente novamente mais tarde."</string>
+    <string name="mj_uwb_connect_fail">"Não foi possível conectar. Tente novamente mais tarde."</string>
     <string name="mj_uwb_connected">Conectado</string>
     <string name="mj_uwb_find_devices">Encontrar dispositivos</string>
     <string name="mj_uwb_ignore">Ignorar</string>
     <string name="mj_uwb_input_security_code_on_tv">Digite o código de verificação exibido na TV.</string>
     <string name="mj_uwb_install_help_info">"Por favor, conecte o Magic Control Bridge a uma TV conforme a imagem mostrada acima para garantir que a função funcione com sucesso.
 
-Conectando o cabo da TV: Uma extremidade se conecta à tomada da TV do Magic Control Bridge; outra extremidade USB à porta USB da TV.
+Conectando o cabo da TV: Uma extremidade se conecta à tomada da TV do Magic Control Bridge; a outra extremidade USB se conecta à porta USB da TV.
 
-Conectando o cabo de alimentação: Uma extremidade Tipo C se conecta ao soquete de alimentação do Magic Control Bridge; outra extremidade USB para um adaptador de energia para fornecer fonte de alimentação estável."</string>
+Conectando o cabo de alimentação: Uma extremidade Tipo C se conecta ao soquete de alimentação do Magic Control Bridge; a outra extremidade USB se conecta a um adaptador de energia para fornecer uma fonte de alimentação estável."</string>
     <string name="mj_uwb_install_help_title">Instruções do Magic Control Bridge com TV</string>
     <string name="mj_uwb_know_it">"OK"</string>
     <string name="mj_uwb_login_mitv_account">Faça login na Conta Mi para acessar mais funções.</string>
@@ -185,13 +185,13 @@ Conectando o cabo de alimentação: Uma extremidade Tipo C se conecta ao soquete
     <string name="mj_uwb_no_blemac_hash_popup_info">"Não foi possível controlar a TV agora. Escolha outra maneira de ligar a TV."</string>
     <string name="mj_uwb_no_blemac_popup_info">Este dispositivo não foi verificado e autorizado pela TV para controlá-lo. Verifique enquanto a TV está ligada e tente novamente.</string>
     <string name="mj_uwb_no_permit">Sem permissão</string>
-    <string name="mj_uwb_not_support_miracast">"Esta TV não suporta transmissão espelhada"</string>
-    <string name="mj_uwb_not_support_xiaoai">Esta TV não suporta Controle de voz Xiaomi AI</string>
+    <string name="mj_uwb_not_support_miracast">"Esta TV não suporta a transmissão espelhada"</string>
+    <string name="mj_uwb_not_support_xiaoai">Esta TV não suporta o Controle de voz Xiaomi AI</string>
     <string name="mj_uwb_ok_button">"OK"</string>
     <string name="mj_uwb_power_off_info_bottom">Método de instalação: Conecte uma extremidade do cabo de alimentação à interface de energia localizada na parte traseira do link digital e a outra extremidade ao adaptador ou placa de alimentação.</string>
     <string name="mj_uwb_power_off_info_top">Para garantir o uso normal da função Magic Control da TV, conecte o cabo de alimentação conforme mostrado na figura acima.</string>
     <string name="mj_uwb_power_off_tv">Cabo de alimentação não conectado</string>
-    <string name="mj_uwb_pre_check_aoa_img_info">A calibração está disponível apenas para o Xiaomi Magic Control Bridge atualmente.</string>
+    <string name="mj_uwb_pre_check_aoa_img_info">A calibração está disponível apenas para o Xiaomi Magic Control Bridge.</string>
     <string name="mj_uwb_pre_check_aoa_info">Calibre a precisão entre o telefone e o dispositivo UWB para encontrar um dispositivo com mais rapidez e precisão.</string>
     <string name="mj_uwb_record_permission_denied">Sem permissão para gravar áudio</string>
     <string name="mj_uwb_retry">Tente novamente</string>
@@ -394,10 +394,10 @@ Conectando o cabo de alimentação: Uma extremidade Tipo C se conecta ao soquete
 Toque em Iniciar e fique parado por 5 segundos."</string>
     <string name="uwb_ble_fail">O Bluetooth não está ativado, verifique as configurações do Bluetooth.</string>
     <string name="uwb_ble_success">Bluetooth ativado</string>
-    <string name="uwb_cancel_hint">Toque em Não ativado para fechar o portal da Tela de bloqueio, e o portal pode ser aberto nas configurações a qualquer momento.</string>
+    <string name="uwb_cancel_hint">Toque em Não ativado para fechar o portal da Tela de bloqueio. O portal pode ser aberto nas Configurações a qualquer momento.</string>
     <string name="uwb_check_device_at_the_right_distance">"Aponte para o dispositivo.
 Mantenha cerca de 2 metros de distância do dispositivo."</string>
-    <string name="uwb_check_setting">Verifique as configurações</string>
+    <string name="uwb_check_setting">Verificar as configurações</string>
     <string name="uwb_common_qs">Ajuda</string>
     <string name="uwb_common_questions">Ajuda</string>
     <string name="uwb_confirm">"OK"</string>
@@ -410,7 +410,7 @@ Fique parado por %d segundos."</string>
 Suba um pouco."</string>
     <string name="uwb_download_mijia">O Magic Control precisa instalar o app Smart Home, a versão do Smart Home é inferior, atualize o Smart Home primeiro.</string>
     <string name="uwb_exit">Sair</string>
-    <string name="uwb_fail_title">"Não foi possível ativar o Xiaomi Magic Control."</string>
+    <string name="uwb_fail_title">"Não foi possível ativar o Xiaomi Magic Control"</string>
     <string name="uwb_guide_cancel">Não ativado</string>
     <string name="uwb_guide_cancel_open">Não ativado</string>
     <string name="uwb_guide_confirm">Experimente agora</string>
@@ -428,7 +428,7 @@ Mova-se um pouco para trás."</string>
 Aproxime-se um pouco mais"</string>
     <string name="uwb_open_way">Método para ativar</string>
     <string name="uwb_other">Outro</string>
-    <string name="uwb_permission_agree_desc">Se você não concordar em solicitar as permissões necessárias acima, este serviço não funcionará normalmente. Após concordar em abrir, você também pode ir em Configurações > Permissões para cancelar a autorização a qualquer momento para encerrar o serviço.</string>
+    <string name="uwb_permission_agree_desc">Se você não concordar em solicitar as permissões necessárias acima, este serviço não funcionará normalmente. Após concordar, você também pode ir em Configurações > Permissões para cancelar a autorização a qualquer momento para encerrar o serviço.</string>
     <string name="uwb_permission_ble">Usado para encontrar dispositivos UWB próximos.</string>
     <string name="uwb_permission_camera">Usado para ajudar a apontar e conectar o dispositivo.</string>
     <string name="uwb_permission_message">Bem-vindo ao Mi Home Plus para usar o Xiaomi Magic Control. Basta apontar este telefone para um dispositivo inteligente compatível com Xiaomi Magic Control próximo para conectar e controlar sem fio o dispositivo inteligente.</string>
@@ -458,8 +458,8 @@ Mova um pouco para baixo."</string>
     <string name="what_device_uwb_supported_detail">"Você pode apontar um telefone Xiaomi com chip UWB para dispositivos inteligentes para controlá-los.
 
 Quais dispositivos suportam o Xiaomi Magic Control para conexão?
-1. TVs Xiaomi com tecnologia UWB, como Xiaomi TV Master 77\" OLED.
-2. TVs Xiaomi com Xiaomi Magic Control para conectar Tag. Por favor %s."</string>
+1. Xiaomi TVs com tecnologia UWB, como a Mi TV Master 77\" OLED.
+2. Xiaomi TVs com Xiaomi Magic Control para conectar tag. Por favor %s."</string>
     <string name="what_device_uwb_supported_detail_placeholder">Ver detalhes</string>
     <string name="yesterday">Ontem</string>
 </resources>
