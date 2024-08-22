@@ -52,7 +52,7 @@
     <string name="code_plugin_df_error">Módulo de recurso dinâmico não encontrado</string>
     <string name="code_serviceregister_error">Erro de registro do serviço do app</string>
     <string name="code_streammuch_error">Por favor, aguarde</string>
-    <string name="code_unknown_error">"Não foi possível concluir a ação. Tente novamente"</string>
+    <string name="code_unknown_error">"Não foi possível concluir a ação. Tente novamente."</string>
     <string name="code_whitelist_error">Verifique a lista de permissões</string>
     <string name="connected">Conectado</string>
     <string name="continue_press_enter_shutdown_menu">Continue pressionando e segurando para entrar na página para desligar.</string>
@@ -210,7 +210,7 @@ Conectando o cabo de alimentação: Uma extremidade Tipo C se conecta ao soquete
     <string name="mj_uwb_third_device_help_info">Desculpe, seu dispositivo não é compatível com o Magic Control Bridge. Clique em Perguntas frequentes para ver os dispositivos suportados.</string>
     <string name="mj_uwb_third_device_help_title">"O dispositivo não é compatível"</string>
     <string name="mj_uwb_third_tv_name">Outros dispositivos</string>
-    <string name="mj_uwb_try_to_scan">Tente digitalizar</string>
+    <string name="mj_uwb_try_to_scan">Tente escanear</string>
     <string name="mj_uwb_tv_history_network_error">Ops… Algo deu errado. Atualize e tente novamente.</string>
     <string name="mj_uwb_tv_history_refresh">Recarregar</string>
     <string name="mj_uwb_tv_item_progress">%d episódio</string>
@@ -220,7 +220,7 @@ Conectando o cabo de alimentação: Uma extremidade Tipo C se conecta ao soquete
     <string name="mj_uwb_tvcard_voicecontrol">Ouvindo…</string>
     <string name="mj_uwb_upgrade_tag_now">Atualizar agora</string>
     <string name="mj_uwb_uwb_loading_card">Carregando. Por favor, aguarde…</string>
-    <string name="mj_uwb_uwb_no_permission">O administrador deste dispositivo permite apenas que os membros desta conta inicial controlem este dispositivo. Entre na casa ou peça ao administrador para alterar as permissões do Magic Control para Todos.</string>
+    <string name="mj_uwb_uwb_no_permission">O administrador deste dispositivo permite apenas que os membros desta conta inicial controlem este dispositivo. Por favor, junte-se à casa ou peça ao administrador para alterar as permissões do Magic Control para Todos.</string>
     <string name="mj_uwb_uwb_restart">Iniciar de novo</string>
     <string name="mj_uwb_uwb_third_tv_tag_not_valid">O Magic Control Bridge foi conectado. Se você quiser usá-lo com cenas de TV, reinicie o Magic Control Bridge conectado e use-o novamente após reiniciar.</string>
     <string name="mj_uwb_uwb_third_tv_tag_not_valid_title">O Magic Control Bridge foi conectado</string>
@@ -385,7 +385,7 @@ Conectando o cabo de alimentação: Uma extremidade Tipo C se conecta ao soquete
     <string name="time_picker_label_minute">"M"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
-    <string name="try_to_bind">Prestes a pular associação</string>
+    <string name="try_to_bind">Prestes a pular a associação</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
@@ -417,15 +417,15 @@ Suba um pouco."</string>
     <string name="uwb_guide_hint">Ative o Xiaomi Magic Control para uma experiência de controle totalmente nova. Basta apontar este telefone para um dispositivo inteligente compatível com Xiaomi Magic Control próximo para conectar e controlar sem fio o dispositivo inteligente.</string>
     <string name="uwb_guide_title">Bem-vindo ao Xiaomi Magic Control</string>
     <string name="uwb_left_than_right_aoa">"Aponte para o dispositivo.
-Mova um pouco para a direita."</string>
+Mova-se um pouco para a direita."</string>
     <string name="uwb_less_than_right_distance">"Aponte para o dispositivo.
 Mova-se um pouco para trás."</string>
-    <string name="uwb_lock_sceen_entrance">"Entrada de atalho da Tela de bloqueio"</string>
+    <string name="uwb_lock_sceen_entrance">"Entrada do atalho na Tela de bloqueio"</string>
     <string name="uwb_mijia_low_version">O Magic Control precisa instalar o app Smart Home, a versão do Smart Home é inferior, atualize o Smart Home primeiro.</string>
     <string name="uwb_mijia_low_version_title">A versão do app Smart Home é baixa</string>
     <string name="uwb_mijia_not_installed_title">O app Smart Home não está instalado</string>
     <string name="uwb_more_than_right_distance">"Aponte para o dispositivo.
-Aproxime-se um pouco mais"</string>
+Aproxime-se um pouco mais."</string>
     <string name="uwb_open_way">Método para ativar</string>
     <string name="uwb_other">Outro</string>
     <string name="uwb_permission_agree_desc">Se você não concordar em solicitar as permissões necessárias acima, este serviço não funcionará normalmente. Após concordar, você também pode ir em Configurações > Permissões para cancelar a autorização a qualquer momento para encerrar o serviço.</string>
@@ -436,7 +436,7 @@ Aproxime-se um pouco mais"</string>
     <string name="uwb_power_title">Pressione e segure o botão [Liga/Desliga] para ativar o Xiaomi Magic Control</string>
     <string name="uwb_retry">Tente novamente</string>
     <string name="uwb_right_than_right_aoa">"Aponte para o dispositivo.
-Mova um pouco para a esquerda."</string>
+Mova-se um pouco para a esquerda."</string>
     <string name="uwb_scan_calibration">Calibrar precisão da detecção do dispositivo</string>
     <string name="uwb_scan_calibration_summary">Otimize a experiência de descoberta de dispositivos</string>
     <string name="uwb_scan_device">Distância detectável</string>
@@ -444,7 +444,7 @@ Mova um pouco para a esquerda."</string>
     <string name="uwb_setting_later">Não ativado</string>
     <string name="uwb_shortcut">Botão de atalho</string>
     <string name="uwb_up_than_right_aoa">"Aponte para o dispositivo.
-Mova um pouco para baixo."</string>
+Mova-se um pouco para baixo."</string>
     <string name="uwb_wifi_fail">"Não foi possível conectar-se à rede. Verifique a conexão de rede."</string>
     <string name="uwb_wifi_success">A conexão de rede está funcionando corretamente.</string>
     <string name="v7_preference_off">DESATIVADO</string>
