@@ -1399,7 +1399,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_bind_connection_service">Permite ao app interagir com os serviços de telefonia para fazer/receber chamadas.</string>
     <string name="permdesc_bind_incall_service">Permite que o app controle quando e como o usuário visualiza a chamada na tela.</string>
     <string name="permdesc_bluetooth">Permite que o app acesse a configuração do Bluetooth no dispositivo, além de fazer e aceitar conexões com dispositivos pareados.</string>
-    <string name="permdesc_bluetoothAdmin">Permite que o app configure o dispositivo Bluetooth local, descubra e emparelhe com dispositivos remotos.</string>
+    <string name="permdesc_bluetoothAdmin">Permite que o app configure o dispositivo Bluetooth local, descubra e pareie com dispositivos remotos.</string>
     <string name="permdesc_bluetooth_advertise">Permite que o app anuncie em dispositivos Bluetooth próximos</string>
     <string name="permdesc_bluetooth_connect">Permite que o app se conecte a dispositivos Bluetooth pareados</string>
     <string name="permdesc_bluetooth_scan">Permite que o app descubra e pareie dispositivos Bluetooth próximos</string>

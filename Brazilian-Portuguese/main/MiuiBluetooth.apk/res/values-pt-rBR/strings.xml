@@ -156,7 +156,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
     <string name="bluetooth_disable_absolute_volume_summary">Desativa o recurso de volume absoluto do Bluetooth em caso de problemas de volume com dispositivos remotos, como volume inaceitavelmente alto ou falta de controle.</string>
     <string name="bluetooth_disconnected">Despareado</string>
-    <string name="bluetooth_disconnecting">Desemparelhando…</string>
+    <string name="bluetooth_disconnecting">Despareando…</string>
     <string name="bluetooth_dun_profile_summary_connected">Conectado ao servidor DUN</string>
     <string name="bluetooth_dun_profile_summary_use_for">Usado para acesso à rede dial up</string>
     <string name="bluetooth_enable_gabeldorsche">Ativar Gabeldorsche</string>
@@ -976,7 +976,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="start_speech">Iniciar fala</string>
     <string name="status_unavailable">Indisponível</string>
     <string name="stop_speech">Parar fala</string>
-    <string name="stylus_firmware_failed_summary">Ative os serviços de localização e reinicie o Bluetooth. Depois, recoloque a caneta e tente novamente.</string>
+    <string name="stylus_firmware_failed_summary">Reencaixe a caneta, reinicie o Bluetooth, e tente novamente.</string>
     <string name="stylus_firmware_failed_title">"Não foi possível atualizar o firmware"</string>
     <string name="stylus_firmware_success_summary">Anexar a caneta para parear.</string>
     <string name="stylus_firmware_success_title">Firmware atualizado com sucesso</string>
@@ -1105,7 +1105,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="unbind_device_alert_cancel">Cancelar</string>
-    <string name="unbind_device_alert_content">Conexão perdida com %1$s. Para economizar bateria, desemparelhe este dispositivo agora.</string>
+    <string name="unbind_device_alert_content">Conexão perdida com %1$s. Para economizar bateria, despareie este dispositivo agora.</string>
     <string name="unbind_device_alert_ok">Desparear</string>
     <string name="unbind_device_alert_title">Desparear dispositivo</string>
     <string name="uninstall_all_deferred">Desinstalação adiada</string>

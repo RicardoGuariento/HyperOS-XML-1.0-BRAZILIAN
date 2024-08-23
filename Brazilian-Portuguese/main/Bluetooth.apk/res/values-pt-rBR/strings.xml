@@ -265,7 +265,7 @@
     <string name="noti_caption_success">{count, plural, =1 {# com sucesso, %1$s} other {# com sucesso, %1$s} }</string>
     <string name="noti_caption_unsuccessful">{count, plural, =1 {# com falha.} other {# com falha.} }</string>
     <string name="notice_Auracast_audio_share_disconnected">Não compartilha mais áudio devido à conexão interrompida</string>
-    <string name="notice_audio_share_disconnected">O áudio não está mais sendo compartilhado devido à interrupção da conexão</string>
+    <string name="notice_audio_share_disconnected">O áudio não está mais sendo compartilhado porque a conexão foi interrompida</string>
     <string name="notification_received">Bluetooth: Recebido %1$s</string>
     <string name="notification_received_fail">Bluetooth: Arquivo %1$s não foi recebido</string>
     <string name="notification_receiving">Bluetooth: Recebendo %1$s</string>
@@ -308,7 +308,7 @@
     <string name="size_mega_byte">"MB"</string>
     <string name="size_peta_byte">"PB"</string>
     <string name="size_tera_byte">"TB"</string>
-    <string name="snapdragon_sound_notification_content">Este dispositivo é compatível com a tecnologia Snapdragon Sound™.</string>
+    <string name="snapdragon_sound_notification_content">Este dispositivo é compatível com a tecnologia Snapdragon Sound™</string>
     <string name="snapdragon_sound_notification_title">"Bluetooth"</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
@@ -360,7 +360,7 @@
     <string name="switch_audio_device_hfp_toast_hint">Selecione a saída de áudio \"Padrão\" para começar novamente a reproduzir áudio no dispositivo conectado.</string>
     <string name="switch_audio_device_phone">Este dispositivo</string>
     <string name="switch_audio_device_phone_summary">Reproduz o áudio no dispositivo</string>
-    <string name="switch_audio_device_switch_hint">Você pode desativar notificações sobre dispositivos conectados em Configurações > Bluetooth > Configurações adicionais.</string>
+    <string name="switch_audio_device_switch_hint">Você pode desativar as notificações sobre dispositivos conectados em Configurações > Bluetooth > Configurações adicionais.</string>
     <string name="switch_audio_dialog_title">Selecione a saída de áudio</string>
     <string name="switch_audio_notification_content">"Saída de áudio atual: "</string>
     <string name="switch_audio_notification_title">Conectividade do dispositivo</string>

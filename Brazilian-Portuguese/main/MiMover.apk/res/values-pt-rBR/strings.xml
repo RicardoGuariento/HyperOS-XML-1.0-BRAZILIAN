@@ -5,7 +5,7 @@
     <string name="PRD_summary_4_china">Desativar ou trocar de rede Wi-Fi durante o processo de transferência pode causar falha no processo de transferência.</string>
     <string name="PRD_summary_5">Transferências em alta velocidade podem fazer com que seu dispositivo fique mais quente que o normal. Tenha certeza de que seu dispositivo esfriará quando a transferência terminar.</string>
     <string name="PRD_summary_6">"Álbuns, notas e arquivos privados não podem ser transferidos do dispositivo antigo. Remova-os das pastas privadas antes de iniciar a transferência."</string>
-    <string name="PRD_summary_tablet_1">Durante a transferência, todos os dados desses apps (incluindo históricos de bate-papo) serão substituídos.</string>
+    <string name="PRD_summary_tablet_1">Durante a transferência, todos os dados desses apps (incluindo histórico de conversas) serão substituídos.</string>
     <string name="PRD_title_4">%1$d. Opere seu dispositivo com cuidado</string>
     <string name="PRD_title_5">%1$d. Seu dispositivo ficará quente durante a transferência</string>
     <string name="PRD_title_6">"Itens privados não podem ser transferidos"</string>
@@ -869,8 +869,8 @@ Libere pelo menos %s."</string>
     <string name="time_picker_label_minute">"M"</string>
     <string name="time_spent">Tempo: %1$s</string>
     <string name="tips_button_hint">Verifique cada item para confirmar primeiro</string>
-    <string name="tips_cover_content">Esses dados (incluindo históricos de bate-papo) serão substituídos se você continuar.</string>
-    <string name="tips_cover_content_tablet">Esses dados (incluindo históricos de bate-papo) serão substituídos se você continuar.</string>
+    <string name="tips_cover_content">Esses dados (incluindo histórico de conversas) serão substituídos se você continuar.</string>
+    <string name="tips_cover_content_tablet">Esses dados (incluindo histórico de conversas) serão substituídos se você continuar.</string>
     <string name="tips_cover_title">"%1$d. Já existem dados para os seguintes apps no novo dispositivo."</string>
     <string name="tips_cover_title_tablet">"%1$d. Já existem dados para os seguintes apps no novo dispositivo."</string>
     <string name="tips_dual_app_content">"Dual apps não podem ser transferidos. Apenas o app principal e seus dados podem ser transferidos."</string>
