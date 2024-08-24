@@ -409,11 +409,11 @@ Envie este código para o supervisor."</string>
     <string name="logout_failed">"Não é possível sair"</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione a hora</string>
-    <string name="material_hour_suffix">"%1$s"</string>
+    <string name="material_hour_suffix">"%1$s horas"</string>
     <string name="material_minute_selection">Selecione os minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
-    <string name="material_slider_range_end">Fim do intervalo,</string>
-    <string name="material_slider_range_start">Início do intervalo,</string>
+    <string name="material_slider_range_end">Fim do intervalo</string>
+    <string name="material_slider_range_start">Início do intervalo</string>
     <string name="material_timepicker_am">"AM"</string>
     <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
@@ -705,7 +705,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_get_back_pwd">Recuperar senha da conta</string>
     <string name="passport_get_innetdate_agree">Verificar</string>
     <string name="passport_get_innetdate_disagree">Não</string>
-    <string name="passport_get_innetdate_msg">&lt;font color=Red>Parece que&lt;/font> o número %s foi reciclado pela sua operadora. Verificar quando o número ficou online??</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red>Parece que&lt;/font> o número %s foi reciclado pela sua operadora. Verificar quando o número ficou online?</string>
     <string name="passport_get_innetdate_title">Verifique quando o número ficar online</string>
     <string name="passport_get_login_type_next">Próximo</string>
     <string name="passport_get_verify_code">Obter código</string>

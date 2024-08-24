@@ -271,12 +271,12 @@ Por favor, entre em contato com o serviço ao consumidor"</string>
     <string name="mibi_error_auth_summary">Faça login em sua Conta Mi novamente</string>
     <string name="mibi_error_cert_date_summary">"Erro na data do certificado. 
 Por favor, verifique a data local e tente novamente."</string>
-    <string name="mibi_error_common_summary">Erro no sistema. Por favor, tente novamente mais tarde.</string>
+    <string name="mibi_error_common_summary">Erro no sistema. Tente novamente mais tarde.</string>
     <string name="mibi_error_deduct">"Não foi possível ativar o protocolo de pagamento automático"</string>
     <string name="mibi_error_expired_summary">Seu pedido expirou</string>
     <string name="mibi_error_frozen_summary">Sua conta foi congelada, entre em contato com nossa central de atendimento ao cliente.</string>
     <string name="mibi_error_has_bought_summary">Você já comprou este produto.</string>
-    <string name="mibi_error_illegal_order_summary">Erro no pedido. Por favor, tente novamente mais tarde.</string>
+    <string name="mibi_error_illegal_order_summary">Erro no pedido. Tente novamente mais tarde.</string>
     <string name="mibi_error_invalid_device">Dispositivo inválido.</string>
     <string name="mibi_error_mili_summary">Fundos insuficientes.</string>
     <string name="mibi_error_mipay_no_installed">"Mi Wallet não está instalado no seu dispositivo."</string>
@@ -288,7 +288,7 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_error_recharge_result_fail">Falha no resultado da recarga.</string>
     <string name="mibi_error_recharge_result_uncertain">Resultado da recarga incerto.</string>
     <string name="mibi_error_recharge_success_pay_fail">Recarregado com sucesso, pagamento falhou.</string>
-    <string name="mibi_error_server_summary">Erro no servidor. Por favor, tente novamente mais tarde.</string>
+    <string name="mibi_error_server_summary">Erro no servidor. Tente novamente mais tarde.</string>
     <string name="mibi_error_user_id_mismatch_summary">Por favor, verifique e faça login novamente em sua conta.</string>
     <string name="mibi_error_web_summary">Erro no servidor</string>
     <string name="mibi_fee">%1$s Mi Créditos</string>

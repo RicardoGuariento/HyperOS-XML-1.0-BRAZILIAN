@@ -258,8 +258,8 @@ Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela
     <string name="accessibility_no_wifi">Desconectado do Wi-Fi.</string>
     <string name="accessibility_notification_alarm_vibration_category_title">Notificações e alarmes</string>
     <string name="accessibility_notification_vibration_title">Vibração de notificação</string>
-    <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">Modo para uma só mão adicionado às configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
-    <string name="accessibility_one_handed_mode_qs_tooltip_content">Você também pode adicionar o Modo para uma só mão às Configurações rápidas na parte superior da tela</string>
+    <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">Modo para uma mão adicionado às configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
+    <string name="accessibility_one_handed_mode_qs_tooltip_content">Você também pode adicionar o Modo para uma mão às Configurações rápidas na parte superior da tela</string>
     <string name="accessibility_pair_hearing_device_about_title">Sobre Parear novo dispositivo</string>
     <string name="accessibility_personal_account_title">Conta pessoal - %s</string>
     <string name="accessibility_phone_one_bar">Telefone um barra.</string>
@@ -4803,13 +4803,13 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="handle_ota_update_title">Atualizações de firmware</string>
     <string name="handle_ota_updating_firmware">Aguarde…</string>
     <string name="handle_ota_updating_tip">Atualizando em segundo plano…</string>
-    <string name="handy_mode">Modo para uma só mão</string>
-    <string name="handy_mode_enable">Modo para uma só mão</string>
-    <string name="handy_mode_hint">O Modo para uma só mão só está disponível na tela externa</string>
-    <string name="handy_mode_no_touch_assistant">"O Modo para uma só mão só funcionará se você estiver usando botões para navegação do sistema. Você pode alternar entre gestos e botões na seção \"Navegação do sistema\" nas Configurações."</string>
+    <string name="handy_mode">Modo para uma mão</string>
+    <string name="handy_mode_enable">Modo para uma mão</string>
+    <string name="handy_mode_hint">O Modo para uma mão só está disponível na tela externa</string>
+    <string name="handy_mode_no_touch_assistant">"O Modo para uma mão só funcionará se você estiver usando botões para navegação do sistema. Você pode alternar entre gestos e botões na seção \"Navegação do sistema\" nas Configurações."</string>
     <string name="handy_mode_size">Tamanho da tela</string>
-    <string name="handy_mode_tips">Ative o Modo para uma só mão deslizando para a esquerda ou direita a partir do centro do painel de navegação.</string>
-    <string name="handy_mode_tips_full_screen">Ative o Modo para uma só mão deslizando para baixo a partir do indicador de tela cheia. Este recurso não funcionará se o indicador estiver oculto.</string>
+    <string name="handy_mode_tips">Ative o Modo para uma mão deslizando para a esquerda ou direita a partir do centro do painel de navegação.</string>
+    <string name="handy_mode_tips_full_screen">Ative o Modo para uma mão deslizando para baixo a partir do indicador de tela cheia. Este recurso não funcionará se o indicador estiver oculto.</string>
     <string name="haptic_agent_completion_01_content_description">Tarefa concluída</string>
     <string name="haptic_cursor_movement_07_content_description">Ajustando o brilho</string>
     <string name="haptic_descripthion_for_max_level">Forte</string>
@@ -6142,14 +6142,13 @@ Não poderá reverter esta ação."</string>
     <string name="master_clear_title">"Limpar todos os dados
 (reposição para os dados de fábrica)"</string>
     <string name="master_clear_title_new">Redefinição de fábrica</string>
-    <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione a hora</string>
     <string name="material_hour_suffix">"%1$s"</string>
     <string name="material_minute_selection">Selecione os minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
-    <string name="material_slider_range_end">Fim do intervalo,</string>
-    <string name="material_slider_range_start">Início do intervalo,</string>
+    <string name="material_slider_range_end">Fim do intervalo</string>
+    <string name="material_slider_range_start">Início do intervalo</string>
     <string name="material_timepicker_am">"AM"</string>
     <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
@@ -7522,15 +7521,15 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="one_handed_action_pull_down_screen_title">Puxe a tela para o alcance</string>
     <string name="one_handed_action_show_notification_summary">Notificações e configurações aparecerão.</string>
     <string name="one_handed_action_show_notification_title">Mostrar notificações</string>
-    <string name="one_handed_mode_enabled">Use o Modo para uma só mão</string>
-    <string name="one_handed_mode_footer_text">" "<b>Como usar o Modo para uma só mão</b>"
+    <string name="one_handed_mode_enabled">Use o Modo para uma mão</string>
+    <string name="one_handed_mode_footer_text">" "<b>Como usar o Modo para uma mão</b>"
  • Verifique se a navegação por gestos está selecionada nas configurações de navegação do sistema
  • Deslize para baixo perto da borda inferior da tela "</string>
     <string name="one_handed_mode_intro_text">Puxe a metade superior da tela para baixo para facilitar o alcance com uma mão</string>
-    <string name="one_handed_mode_shortcut_title">Atalho do Modo para uma só mão</string>
+    <string name="one_handed_mode_shortcut_title">Atalho do Modo para uma mão</string>
     <string name="one_handed_mode_swipe_down_category">Deslize para baixo para</string>
     <string name="one_handed_mode_use_shortcut_category">Use o atalho para</string>
-    <string name="one_handed_title">Modo para uma só mão</string>
+    <string name="one_handed_title">Modo para uma mão</string>
     <string name="one_key_migrate_record">Transferir para %1$s</string>
     <string name="one_usercrt">1 certificado de usuário</string>
     <string name="one_userkey">1 chave de usuário</string>
@@ -8929,7 +8928,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_gesture_wakeup_title">Dois toques na tela para ligá-la;Dois toques para ligar tela;Ligar tela;Dois toques na tela;Dois toques</string>
     <string name="search_gmscore_settings_title">Google;Serviços básicos do Google;GMS;Gmail</string>
     <string name="search_gps">GPS;Acesso à localização;Serviços de localização</string>
-    <string name="search_handy_mode">Modo para uma só mão;Modo para uma só mão;Uma mão;Mãos pequenas</string>
+    <string name="search_handy_mode">Modo para uma mão;Modo para uma só mão;Uma mão;Mãos pequenas</string>
     <string name="search_hint">Pesquisar nas Configurações</string>
     <string name="search_history_clear_description">Limpar histórico de pesquisa</string>
     <string name="search_history_description">Histórico de busca</string>

@@ -75,7 +75,7 @@
     <string name="broadcast_notification_name">Status de transmissão</string>
     <string name="bt_Auracast_audio_share_notification_content">Toque para ver detalhes</string>
     <string name="bt_Auracast_audio_share_notification_title">Transmitindo áudio deste dispositivo…</string>
-    <string name="bt_audio_share_assistant_notification_title">Recebendo uma transmissão de um dispositivo próximo…</string>
+    <string name="bt_audio_share_assistant_notification_title">Recebendo transmissão de um dispositivo próximo…</string>
     <string name="bt_audio_share_notification_content">Toque para ver as opções</string>
     <string name="bt_audio_share_notification_title">Compartilhando áudio</string>
     <string name="bt_enable_cancel">Cancelar</string>
@@ -265,6 +265,7 @@
     <string name="noti_caption_success">{count, plural, =1 {# com sucesso, %1$s} other {# com sucesso, %1$s} }</string>
     <string name="noti_caption_unsuccessful">{count, plural, =1 {# com falha.} other {# com falha.} }</string>
     <string name="notice_Auracast_audio_share_disconnected">Não compartilha mais áudio devido à conexão interrompida</string>
+    <string name="notice_audio_share_classic_disconnected">Compartilhamento de áudio interrompido</string>
     <string name="notice_audio_share_disconnected">O áudio não está mais sendo compartilhado porque a conexão foi interrompida</string>
     <string name="notification_received">Bluetooth: Recebido %1$s</string>
     <string name="notification_received_fail">Bluetooth: Arquivo %1$s não foi recebido</string>
@@ -361,7 +362,7 @@
     <string name="switch_audio_device_phone">Este dispositivo</string>
     <string name="switch_audio_device_phone_summary">Reproduz o áudio no dispositivo</string>
     <string name="switch_audio_device_switch_hint">Você pode desativar as notificações sobre dispositivos conectados em Configurações > Bluetooth > Configurações adicionais.</string>
-    <string name="switch_audio_dialog_title">Selecione a saída de áudio</string>
+    <string name="switch_audio_dialog_title">Selecionar saída de áudio</string>
     <string name="switch_audio_notification_content">"Saída de áudio atual: "</string>
     <string name="switch_audio_notification_title">Conectividade do dispositivo</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
