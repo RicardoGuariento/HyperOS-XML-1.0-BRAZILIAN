@@ -49,7 +49,7 @@
     <string name="account_crop_user_avatar">Cortar foto</string>
     <string name="account_empty_user_name">Digite o nome de usuário da sua Conta Mi</string>
     <string name="account_error_all_space_user_name">"O nome de usuário não pode conter apenas caracteres de espaço"</string>
-    <string name="account_error_invalid_user_name">"Nome não pode conter &lt;, >, ou /"</string>
+    <string name="account_error_invalid_user_name">"Nome não pode conter &lt;, > ou /"</string>
     <string name="account_error_longer_user_name">"O nome não pode ter mais de 20 caracteres"</string>
     <string name="account_error_shorter_user_name">O nome deve ter mais de 2 caracteres</string>
     <string name="account_error_user_birthday">A data de nascimento inserida é inválida</string>
@@ -1330,7 +1330,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_account_crop_user_avatar">Cortar foto</string>
     <string name="passport_account_empty_user_name">Digite seu nome</string>
     <string name="passport_account_error_all_space_user_name">"O nome não pode conter apenas caracteres de espaço"</string>
-    <string name="passport_account_error_invalid_user_name">"O nome não pode conter &lt;, >, ou /"</string>
+    <string name="passport_account_error_invalid_user_name">"O nome não pode conter &lt;, > ou /"</string>
     <string name="passport_account_error_longer_user_name">"O nome não pode ter mais de %d caracteres"</string>
     <string name="passport_account_error_shorter_user_name">O nome deve ter mais de %d caracteres</string>
     <string name="passport_account_error_user_name">Este apelido é inválido. Tente um diferente.</string>
@@ -1478,7 +1478,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
     <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
@@ -1572,8 +1572,8 @@ Envie este código para o supervisor."</string>
     <string name="privacy_desc">Política de Privacidade (obrigatório)</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_policy_title_asm">Um mundo de música ao seu alcance</string>
-    <string name="privacy_request_desc"><Data>"O Música precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode saber mais sobre como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt;. Você pode retirar o seu consentimento da Política de Privacidade do Música nas Configurações a qualquer momento.
-Leia e aceite o nosso &lt;a href=\"%2$s\"&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt; antes de usar o Música.
+    <string name="privacy_request_desc"><Data>"O Música precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode saber mais sobre como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento da Política de Privacidade do Música nas Configurações a qualquer momento.
+Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o Música.
 Se você não aceitar em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
     <string name="privacy_request_subtitle">"Bem-vindo ao Música! Este app fornece os seguintes serviços:
 • Um reprodutor de áudio local
@@ -1588,11 +1588,11 @@ Se você não aceitar em usar os serviços acima mencionados, você não poderá
     <string name="pulluprefreshrecyclerview_loading_running">Carregando…</string>
     <string name="queue_is_empty">A fila de reprodução está vazia.</string>
     <string name="read_and_agree_asm_protocol"><Data>Leia e concorde com a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade do ASM&lt;/a>&lt;/font> para ser capaz de usar serviços de música online.</Data></string>
-    <string name="read_and_agree_hungama_protocol"><Data>"Li e concordo com a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da hungama
+    <string name="read_and_agree_hungama_protocol"><Data>"Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da hungama
 &lt;/a>&lt;/font>"</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>"Li e concordo com a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da JOOX&lt;/a>&lt;/font>"</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>"Li e concordo com o &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> da Xiaomi"</Data></string>
-    <string name="read_and_agree_protocol">Leia e concorde com nosso o Contrato do Usuário e a Política de Privacidade antes de continuar.</string>
+    <string name="read_and_agree_joox_protocol"><Data>"Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da JOOX&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>"Li e aceito o &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> da Xiaomi"</Data></string>
+    <string name="read_and_agree_protocol">Leia e concorde com o nosso Contrato do Usuário e a Política de Privacidade antes de continuar.</string>
     <string name="ready_to_play">A seguir</string>
     <string name="recently_played">Repr. recentemente</string>
     <string name="recently_played_songs">Recente</string>

@@ -254,10 +254,10 @@ para espelhar a tela deste tablet"</string>
 %2$d. Tente conectar os fones de ouvido novamente assim que a tela acender."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Coloque os dois fones de ouvido no case.
 2. Pressione e segure o botão no case.
-3. Conclua o pareamento nas configurações de Bluetooth ou usando uma caixa de diálogo pop-up neste dispositivo."</string>
+3. Conclua o pareamento nas configurações do Bluetooth ou usando uma caixa de diálogo pop-up neste dispositivo."</string>
     <string name="circulate_headset_back_to_box_desc_phone">"1. Coloque os dois fones de ouvido no case.
 2. Pressione e segure o botão no case.
-3. Conclua o pareamento nas configurações de Bluetooth ou usando uma caixa de diálogo pop-up neste dispositivo."</string>
+3. Conclua o pareamento nas configurações do Bluetooth ou usando uma caixa de diálogo pop-up neste dispositivo."</string>
     <string name="circulate_headset_back_to_box_desc_tv">"1. Coloque os dois fones de ouvido no case.
 2. Pressione e segure o botão no case.
 3. Abra a lista de dispositivos Bluetooth disponíveis na sua TV e confirme o pareamento."</string>
@@ -414,7 +414,7 @@ seus dispositivos?"</string>
     <string name="connect_settings_share_clipboard">Prancheta</string>
     <string name="connect_settings_share_launcher">Tela inicial+</string>
     <string name="connect_settings_share_notification">Notificações</string>
-    <string name="connect_settings_summary"><Data>Descubra automaticamente dispositivos próximos conectados à sua Conta Mi e conecte-os entre si para executar uma variedade de tarefas em vários dispositivos. &lt;a href=%1$s&gt;Saiba mais&lt;/a&gt;</Data></string>
+    <string name="connect_settings_summary"><Data>Descubra automaticamente dispositivos próximos conectados à sua Conta Mi e conecte-os entre si para executar uma variedade de tarefas em vários dispositivos. &lt;a href=%1$s>Saiba mais&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Permita que seus dispositivos interajam entre si sem fio</string>
     <string name="connect_settings_summary_corp_phone">Atenda chamadas em tablets ou computadores próximos conectados à sua Conta Mi</string>
     <string name="connect_settings_summary_global"><Data>Descubra dispositivos próximos conectados à sua Conta Mi e adicione-os ao Xiaomi Smart Hub</Data></string>
@@ -1020,7 +1020,7 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="passport_account_crop_user_avatar">Cortar foto</string>
     <string name="passport_account_empty_user_name">Digite seu nome</string>
     <string name="passport_account_error_all_space_user_name">"O nome não pode conter apenas caracteres de espaço"</string>
-    <string name="passport_account_error_invalid_user_name">"O nome não pode conter &lt;, >, ou /"</string>
+    <string name="passport_account_error_invalid_user_name">"O nome não pode conter &lt;, > ou /"</string>
     <string name="passport_account_error_longer_user_name">"O nome não pode ter mais de %d caracteres"</string>
     <string name="passport_account_error_shorter_user_name">O nome deve ter mais de %d caracteres</string>
     <string name="passport_account_error_user_name">Este apelido é inválido. Tente um diferente.</string>
@@ -1167,7 +1167,7 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
     <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
@@ -1227,7 +1227,7 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="privacy_permission_wlan_china">Ativar e desativar o Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponíveis próximos</string>
     <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponíveis próximos</string>
-    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Li e concordo com a \&lt;font color=\#8C93B0\&gt;&lt;/color&gt;&lt;a href=\%1$s\&gt;Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade Xiaomi&lt;/a&gt;&lt;/font&gt;\.</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Li e aceito a \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade Xiaomi&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_positive">Aceitar</string>
     <string name="privacy_read_statement">Concorde com os termos e condições primeiro</string>
     <string name="privacy_revoke_agree_detail_content">"%1$d. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.

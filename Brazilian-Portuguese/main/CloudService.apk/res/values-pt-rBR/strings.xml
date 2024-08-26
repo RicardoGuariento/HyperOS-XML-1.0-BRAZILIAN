@@ -40,7 +40,7 @@
     <string name="account_crop_user_avatar">Cortar foto</string>
     <string name="account_empty_user_name">Digite o nome de usuário da sua Conta Mi</string>
     <string name="account_error_all_space_user_name">"O nome de usuário não pode conter apenas caracteres de espaço"</string>
-    <string name="account_error_invalid_user_name">"O nome não pode conter &lt;, >, ou /"</string>
+    <string name="account_error_invalid_user_name">"O nome não pode conter &lt;, > ou /"</string>
     <string name="account_error_longer_user_name">"O nome não pode ter mais de 20 caracteres"</string>
     <string name="account_error_shorter_user_name">O nome deve ter mais de 2 caracteres</string>
     <string name="account_error_user_birthday">O aniversário que você digitou é inválido</string>
@@ -427,8 +427,8 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_find_device_guide_alert_positive">"OK"</string>
     <string name="micloud_find_device_guide_alert_title">Lembre-se da sua senha</string>
     <string name="micloud_find_device_guide_button">"Ativar o Encontrar dispositivo"</string>
-    <string name="micloud_find_device_guide_desc_pad">"Caso você perca seu dispositivo, faça o login em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; em qualquer outro dispositivo para localizá-lo, bloqueá-lo remotamente ou apagar os dados no dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalhes&lt;/a&gt;"</string>
-    <string name="micloud_find_device_guide_desc_phone">"Caso você perca seu dispositivo, faça o login em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; em qualquer outro dispositivo para localizá-lo, bloqueá-lo remotamente ou apagar os dados no dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalhes&lt;/a&gt;"</string>
+    <string name="micloud_find_device_guide_desc_pad">"Caso você perca seu dispositivo, faça o login em &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> em qualquer outro dispositivo para localizá-lo, bloqueá-lo remotamente ou apagar os dados no dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Ver detalhes&lt;/a>.</string>
+    <string name="micloud_find_device_guide_desc_phone">"Caso você perca seu dispositivo, faça o login em &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> em qualquer outro dispositivo para localizá-lo, bloqueá-lo remotamente ou apagar os dados no dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Ver detalhes&lt;/a>.</string>
     <string name="micloud_find_device_guide_fail_reopen">Ative o Encontrar dispositivo na MiCloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Verifique sua conexão de rede e tente novamente.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronize contatos, fotos, notas e mais com a MiCloud</string>

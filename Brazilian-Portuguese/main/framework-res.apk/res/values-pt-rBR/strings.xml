@@ -1384,7 +1384,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_accessNotifications">Permite que o app recupere, examine e limpe notificações, inclusive as postadas por outros apps.</string>
     <string name="permdesc_accessWifiState">Permite que o app acesse informações sobre redes Wi-Fi, como a ativação do Wi-Fi e o nome dos dispositivos Wi-Fi conectados.</string>
     <string name="permdesc_accessWimaxState">Permite que o app determine se o WiMAX está ativado e acesse informações sobre as redes WiMAX conectadas.</string>
-    <string name="permdesc_access_notification_policy">Permitir que o app leia e grave a configuração \"Não perturbe\".</string>
+    <string name="permdesc_access_notification_policy">Permite que o app leia e grave a configuração do Não perturbe.</string>
     <string name="permdesc_activityRecognition">Este app pode reconhecer sua atividade física.</string>
     <string name="permdesc_addVoicemail">Permite que o app adicione mensagens a sua caixa de entrada do correio de voz.</string>
     <string name="permdesc_answerPhoneCalls">Permite que o app atenda uma chamada recebida.</string>
@@ -1589,7 +1589,7 @@ para a conta %s."</string>
     <string name="permlab_accessNotifications">Acessar notificações</string>
     <string name="permlab_accessWifiState">Ver conexões Wi-Fi</string>
     <string name="permlab_accessWimaxState">Conectar e desconectar do WiMAX</string>
-    <string name="permlab_access_notification_policy">Acessar o \"Não perturbe\"</string>
+    <string name="permlab_access_notification_policy">Acessar o Não perturbe</string>
     <string name="permlab_activityRecognition">Reconhecer atividade física</string>
     <string name="permlab_addVoicemail">Adicionar correio de voz</string>
     <string name="permlab_answerPhoneCalls">Atender chamadas telefônicas</string>
@@ -1604,7 +1604,7 @@ para a conta %s."</string>
     <string name="permlab_bind_connection_service">Interagir com os serviços de telefonia</string>
     <string name="permlab_bind_incall_service">Interagir com chamada na tela</string>
     <string name="permlab_bluetooth">Parear com dispositivos Bluetooth</string>
-    <string name="permlab_bluetoothAdmin">Acessar configurações de Bluetooth</string>
+    <string name="permlab_bluetoothAdmin">Acessar configurações do Bluetooth</string>
     <string name="permlab_bluetooth_advertise">Anunciar para dispositivos Bluetooth próximos</string>
     <string name="permlab_bluetooth_connect">Conectar a dispositivos Bluetooth pareados</string>
     <string name="permlab_bluetooth_scan">Descobrir e parear dispositivos Bluetooth próximos</string>

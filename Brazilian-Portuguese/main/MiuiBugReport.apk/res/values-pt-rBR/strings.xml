@@ -33,7 +33,7 @@
     <string name="account_crop_user_avatar">Cortar foto</string>
     <string name="account_empty_user_name">Insira o usuário da sua Conta Mi</string>
     <string name="account_error_all_space_user_name">"O nome de usuário não pode conter apenas espaços"</string>
-    <string name="account_error_invalid_user_name">"O nome de usuário não pode conter &lt;, &gt;, ou /"</string>
+    <string name="account_error_invalid_user_name">"O nome de usuário não pode conter &lt;, > ou /"</string>
     <string name="account_error_longer_user_name">"O nome de usuário não pode ter mais de 20 caracteres"</string>
     <string name="account_error_shorter_user_name">O nome de usuário deve ter mais de 2 caracteres</string>
     <string name="account_error_user_birthday">O aniversário inserido é inválido</string>
@@ -152,7 +152,7 @@
     <string name="cta_confirm">"OK"</string>
     <string name="cta_dialog_content">Este app precisa se conectar à internet para funcionar corretamente.</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
-    <string name="cta_message">&lt;Data>Para poder funcionar normalmente, o Feedback precisa se conectar à internet. Este app também pode solicitar permissão para acessar sua localização. Leia e concorde com nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de continuar.&lt;/Data></string>
+    <string name="cta_message">&lt;Data>Para poder funcionar normalmente, o Feedback precisa se conectar à internet. Este app também pode solicitar permissão para acessar sua localização. Leia e concorde com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="cta_not_show_again">"Não mostrar novamente"</string>
     <string name="customer_service_apply">Solicitar suporte ao cliente</string>
     <string name="customer_service_complain">Reportar suporte ao cliente</string>
@@ -1063,8 +1063,8 @@ Tamanho: %2$s"</string>
     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
     <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação China Unicom&lt;/a>."</Data></string>
     <string name="user_agreement_hint_default"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a></Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>"Li e concordo com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a> O primeiro login criará automaticamente um Conta Mi"</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a> O primeiro login criará automaticamente um Conta Mi"</Data></string>
     <string name="user_agreement_hint_first_login">Nós criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez.</string>
     <string name="user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação China Mobile&lt;/a>."</Data></string>
     <string name="user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>

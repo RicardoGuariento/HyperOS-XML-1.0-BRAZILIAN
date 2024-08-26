@@ -1820,7 +1820,7 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_dun_profile_summary_connected">Conectado ao servidor DUN</string>
     <string name="bluetooth_dun_profile_summary_use_for">Usado para acesso à rede dial up</string>
     <string name="bluetooth_empty_list_bluetooth_off">Com o Bluetooth ativado, o dispositivo pode se comunicar com dispositivos próximos</string>
-    <string name="bluetooth_empty_list_user_restricted">Você não tem permissão para alterar as configurações de Bluetooth.</string>
+    <string name="bluetooth_empty_list_user_restricted">Você não tem permissão para alterar as configurações do Bluetooth.</string>
     <string name="bluetooth_enable">"Bluetooth"</string>
     <string name="bluetooth_enable_alphanumeric_pin">O PIN contém letras ou símbolos</string>
     <string name="bluetooth_enable_gabeldorsche">Ativar Gabeldorsche</string>
@@ -1878,7 +1878,7 @@ Aqui está o que pode estar errado:
     <string name="bluetooth_is_disconnect_question">Desconectar %1$s?</string>
     <string name="bluetooth_is_discoverable">Visível para todos os disp. Bluetooth próx. (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Visível para todos os dispositivos Bluetooth próximos</string>
-    <string name="bluetooth_is_visible_message">%1$s está visível para dispositivos próximos enquanto as configurações de Bluetooth estão abertas.</string>
+    <string name="bluetooth_is_visible_message">%1$s está visível para dispositivos próximos enquanto as configurações do Bluetooth estão abertas.</string>
     <string name="bluetooth_le_audio_profile_summary_connected">Conectado a LE Audio</string>
     <string name="bluetooth_le_audio_profile_summary_use_for">Use para LE Audio</string>
     <string name="bluetooth_left_name">Esquerdo</string>
@@ -2754,7 +2754,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="condition_work_title">Perfil de trabalho desativado</string>
     <string name="condition_zen_summary_phone_muted">Dispositivo silenciado</string>
     <string name="condition_zen_summary_with_exceptions">Com exceções</string>
-    <string name="condition_zen_title">O \"Não perturbe\" está ativado</string>
+    <string name="condition_zen_title">O Não perturbe está ativado</string>
     <string name="config_charging_function_name">carregando</string>
     <string name="config_list_label">Redes configuradas</string>
     <string name="config_mtp_function_name">mtp</string>
@@ -2916,10 +2916,10 @@ Toque em \"Apagar e converter…\" para continuar."</string>
     <string name="credentials_settings_not_available">As credenciais não estão disponíveis para este usuário</string>
     <string name="credentials_title">Armazenamento de credenciais</string>
     <string name="credentials_title_verification">Certificação</string>
-    <string name="credman_autofill_confirmation_message">"&lt;b&gt;Usar &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Provider&gt; %1$s&lt;/xliff:g&gt; usa o que está na sua tela para determinar o que pode ser preenchido automaticamente. Novas senhas, chaves de acesso e outras informações serão salvas aqui a partir de agora."</string>
+    <string name="credman_autofill_confirmation_message">"&lt;b>Usar &lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g>?&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g> usa o que está na sua tela para determinar o que pode ser preenchido automaticamente. Novas senhas, chaves de acesso e outras informações serão salvas aqui a partir de agora."</string>
     <string name="credman_autofill_keywords">automático, preenchimento, preenchimento automático, dados, chave de acesso, senha</string>
     <string name="credman_chosen_app_title">Senhas, chaves de acesso e serviços de dados</string>
-    <string name="credman_confirmation_message">"&lt;b&gt;Desativar este serviço?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Informações salvas como senhas, chaves de acesso, formas de pagamento e outras informações não serão preenchidas quando você fizer login. Para usar suas informações salvas, escolha uma senha, chave de acesso ou serviço de dados."</string>
+    <string name="credman_confirmation_message">"&lt;b>Desativar este serviço?&lt;/b> &lt;br/> &lt;br/> Informações salvas como senhas, chaves de acesso, formas de pagamento e outras informações não serão preenchidas quando você fizer login. Para usar suas informações salvas, escolha uma senha, chave de acesso ou serviço de dados."</string>
     <string name="credman_confirmation_message_positive_button">Desativar</string>
     <string name="credman_confirmation_message_title">Desativar %1$s?</string>
     <string name="credman_credentials">Provedores adicionais</string>
@@ -3088,7 +3088,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="data_connection_4g_plus">4G+</string>
     <string name="data_connection_5g">5G</string>
     <string name="data_connection_5g_plus">5G+</string>
-    <string name="data_connection_5ge_html">&lt;i&gt;5G &lt;small&gt;E&lt;/small&gt;&lt;/i&gt;</string>
+    <string name="data_connection_5ge_html">&lt;i>5G &lt;small>E&lt;/small>&lt;/i></string>
     <string name="data_connection_carrier_wifi">W+</string>
     <string name="data_connection_cdma">1X</string>
     <string name="data_connection_edge">EDGE</string>
@@ -4075,7 +4075,7 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso.</string>
     <string name="extended_power_menu">Menu de energia estendido</string>
     <string name="extension_function">Recursos adicionais do app</string>
-    <string name="extension_function_hint">Os atalhos de recursos não aparecerão mais nas configurações depois que você desligar os interruptores</string>
+    <string name="extension_function_hint">Os atalhos de recursos não aparecerão mais nas Configurações depois que você desligar os interruptores</string>
     <string name="exterior">Esquema de cores</string>
     <string name="external_auto_rotate_title">Orientação de bloqueio para a tela externa</string>
     <string name="external_code_size_label">App de armazenamento USB</string>
@@ -4266,7 +4266,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="find_my_device_enable">Ativado</string>
     <string name="find_my_device_summary">Este recurso requer login na Conta Mi</string>
     <string name="finger_add_user_info_dialog_cancel">Cancelar</string>
-    <string name="finger_add_user_info_dialog_message">"Para você poder usar o desbloqueio por impressão digital e fazer pagamentos usando a impressão digital, precisamos coletar sua impressão digital. A impressão digital será armazenada localmente neste dispositivo. Para excluí-lo, procure por \"Desbloqueio impressão digital \" nas configurações e selecione Desbloqueio Impressão Digital &gt; Impressão Digital. Você não poderá usar esse recurso se não concordar."</string>
+    <string name="finger_add_user_info_dialog_message">"Para você poder usar o desbloqueio por impressão digital e fazer pagamentos usando a impressão digital, precisamos coletar sua impressão digital. A impressão digital será armazenada localmente neste dispositivo. Para excluí-lo, procure por \"Desbloqueio com impressão digital\" nas Configurações e selecione Desbloqueio com impressão digital > Impressão digital. Você não poderá usar esse recurso se não concordar."</string>
     <string name="finger_add_user_info_dialog_next">Aceitar</string>
     <string name="finger_add_user_info_dialog_title">Atenção!</string>
     <string name="finger_detail_info_text">Alterar o nome da impressão digital</string>
@@ -5013,7 +5013,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="importance_min">Mínima</string>
     <string name="importance_title">Importância</string>
     <string name="important_bubble">Mostrar conversas prioritárias em balões</string>
-    <string name="important_conversation_behavior_summary">Conversas prioritárias são mostradas no topo da Área de notificações. Você também pode configurá-las para que sejam mostradas como bolhas e interrompam o modo \"Não perturbe\".</string>
+    <string name="important_conversation_behavior_summary">Conversas prioritárias são mostradas no topo da Área de notificações. Você também pode configurá-las para que sejam mostradas como bolhas e interrompam o Não perturbe.</string>
     <string name="important_conversations">Conversas com prioridade</string>
     <string name="important_conversations_summary">Aparecer na parte superior da seção de conversa</string>
     <string name="important_conversations_summary_bubbles">Mostrar no topo da seção de conversas e aparecer como bolhas flutuantes</string>
@@ -6064,7 +6064,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="manage_trust_agents_summary">Nenhum</string>
     <string name="manage_trust_agents_summary_on">{count, plural, =1 {1 agente de confiança ativo} other {# agentes de confiança ativos} }</string>
     <string name="manage_xiaomi_router">Configurações do Roteador Mi</string>
-    <string name="manage_zen_access_title">Acesso ao \"Não perturbe\"</string>
+    <string name="manage_zen_access_title">Acesso ao Não perturbe</string>
     <string name="manageapplications_settings_summary">Gerenciar e remover apps instalados</string>
     <string name="manageapplications_settings_title">Gerenciar apps</string>
     <string name="managed_profile_contact_search_summary">Permitir que sua organização pesquise contatos para identificar autores de chamadas e contatos</string>
@@ -7111,7 +7111,7 @@ Selecione seu sistema operacional:"</string>
     <string name="nfc_disclaimer_content">O NFC troca dados entre este dispositivo e outros dispositivos ou alvos nas proximidades, tais como terminais de pagamento, leitores de acesso e tags ou anúncios interativos.</string>
     <string name="nfc_disclaimer_title">Ativar NFC</string>
     <string name="nfc_dnd_mode_summary">Responda a tags NFC com uma quantidade limitada de tags NDEF</string>
-    <string name="nfc_dnd_mode_title">NFC \"Não perturbe\"</string>
+    <string name="nfc_dnd_mode_title">NFC Não perturbe</string>
     <string name="nfc_how_it_works_content">Configure um app de pagamento. Em seguida, basta segurar a parte traseira do seu dispositivo em direção a qualquer terminal com o símbolo indicando pagamento por aproximação.</string>
     <string name="nfc_how_it_works_got_it">Entendi</string>
     <string name="nfc_how_it_works_title">Como pagar no terminal</string>
@@ -7384,11 +7384,11 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_listener_allowed">Permitido</string>
     <string name="notification_listener_disable_warning_cancel">Cancelar</string>
     <string name="notification_listener_disable_warning_confirm">Desativar</string>
-    <string name="notification_listener_disable_warning_summary">Se você desativar o acesso a notificações para %1$s, é possível que o acesso \"Não perturbe\" também seja desativado.</string>
+    <string name="notification_listener_disable_warning_summary">Se você desativar o acesso a notificações para %1$s, é possível que o acesso ao Não perturbe também seja desativado.</string>
     <string name="notification_listener_not_allowed">Não permitido</string>
     <string name="notification_listener_security_warning_summary">"O app %1$s poderá ler todas as notificações, incluindo informações pessoais, como nomes de contato, fotos, e o texto das mensagens que você recebe. O app também poderá adiar ou dispensar notificações ou ativar botões de ação que elas contenham, incluindo atender chamadas telefônicas. 
 
-Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alterar as configurações relacionadas."</string>
+Isso também autoriza o app a ativar ou desativar o Não perturbe e alterar as configurações relacionadas."</string>
     <string name="notification_listener_security_warning_title">Permitir que %1$s acesse as notificações?</string>
     <string name="notification_listener_type_title">Tipos de notificações permitidas</string>
     <string name="notification_log_channel">canal</string>
@@ -7469,7 +7469,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="notifications_hidden">Não exibir na Tela de bloqueio</string>
     <string name="notifications_label">Notificações</string>
     <string name="notifications_partly_blocked">%1$d de %2$d categorias desativadas</string>
-    <string name="notifications_priority">\"Não perturbe\" substituído</string>
+    <string name="notifications_priority">Não perturbe substituído</string>
     <string name="notifications_redacted">Conteúdo confidencial não exibido na Tela de bloqueio</string>
     <string name="notifications_sent_daily">{count, plural, =1 {Sobre # notificação por dia} other {Sobre # notificações por dia} }</string>
     <string name="notifications_sent_never">Nunca</string>
@@ -8485,7 +8485,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="restricted_app_title">Apps restritos</string>
     <string name="restricted_false_label">O app pode usar a bateria em 2º plano</string>
     <string name="restricted_true_label">Restrito</string>
-    <string name="restriction_bluetooth_config_summary">Permitir modificação dos pareamentos e configurações de Bluetooth</string>
+    <string name="restriction_bluetooth_config_summary">Permitir modificação dos pareamentos e configurações do Bluetooth</string>
     <string name="restriction_bluetooth_config_title">"Bluetooth"</string>
     <string name="restriction_location_enable_summary">Permitir que os apps utilizem suas informações de local</string>
     <string name="restriction_location_enable_title">Localização</string>
@@ -12539,18 +12539,18 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="yesterday">Ontem</string>
     <string name="zen_access_detail_switch">Permitir o Não perturbe</string>
     <string name="zen_access_disabled_package_warning">Deve permanecer ativado, pois o acesso a notificações está ativado</string>
-    <string name="zen_access_empty_text">Nenhum app instalado solicitou o acesso \"Não perturbe\"</string>
-    <string name="zen_access_revoke_warning_dialog_summary">Todas as regras \"Não perturbe\" criadas por esse app serão removidas.</string>
-    <string name="zen_access_revoke_warning_dialog_title">Revogar acesso a \"Não perturbe\" para %1$s?</string>
-    <string name="zen_access_warning_dialog_summary">O app poderá ativar/desativar o recurso \"Não perturbe\" e fazer alterações nas configurações relacionadas.</string>
-    <string name="zen_access_warning_dialog_title">Permitir que %1$s acesse o recurso \"Não perturbe\"?</string>
+    <string name="zen_access_empty_text">Nenhum app instalado solicitou o acesso ao Não perturbe</string>
+    <string name="zen_access_revoke_warning_dialog_summary">Todas as regras do Não perturbe criadas por esse app serão removidas.</string>
+    <string name="zen_access_revoke_warning_dialog_title">Revogar acesso ao Não perturbe para %1$s?</string>
+    <string name="zen_access_warning_dialog_summary">O app poderá ativar/desativar o recurso Não perturbe e fazer alterações nas configurações relacionadas.</string>
+    <string name="zen_access_warning_dialog_title">Permitir que %1$s acesse o recurso Não perturbe?</string>
     <string name="zen_alarm_warning">Você não ouvirá o seu próximo alarme %1$s</string>
     <string name="zen_alarm_warning_indef">Você não ouvirá o seu próximo alarme %1$s a não ser que você desative isto antes dele tocar</string>
     <string name="zen_calls_summary_contacts_repeat">De contatos e autores de chamadas repetidas</string>
     <string name="zen_calls_summary_repeat_only">Apenas de autores de chamadas repetidas</string>
     <string name="zen_calls_summary_starred_repeat">De contatos marcados com estrela e autores de chamadas repetidas</string>
     <string name="zen_category_apps">"Apps"</string>
-    <string name="zen_category_behavior">O que pode interromper o \"Não perturbe\"</string>
+    <string name="zen_category_behavior">O que pode interromper o Não perturbe</string>
     <string name="zen_category_duration">Duração das Configurações rápidas</string>
     <string name="zen_category_exceptions">Alarmes e outras interrupções</string>
     <string name="zen_category_people">Pessoas</string>
@@ -12560,7 +12560,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_custom_settings_dialog_title">Configurações personalizadas</string>
     <string name="zen_custom_settings_duration_header">Duração</string>
     <string name="zen_custom_settings_notifications_header">Notificações</string>
-    <string name="zen_event_rule_enabled_toast">Regra automática definida para ativar o \"Não perturbe\" durante eventos especificados</string>
+    <string name="zen_event_rule_enabled_toast">Regra automática definida para ativar o Não perturbe durante eventos especificados</string>
     <string name="zen_event_rule_type_name">Evento</string>
     <string name="zen_interruption_level_priority">Somente prioridade</string>
     <string name="zen_mode_add">Adicionar</string>
@@ -12577,13 +12577,13 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_mode_all_messages_summary">Você pode receber todas as mensagens</string>
     <string name="zen_mode_always">Sempre</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
-    <string name="zen_mode_app_set_behavior">Não é possível alterar essas configurações no momento. Um app (%1$s) ativou automaticamente o modo \"Não perturbe\" com comportamento personalizado.</string>
+    <string name="zen_mode_app_set_behavior">Não é possível alterar essas configurações no momento. Um app (%1$s) ativou automaticamente o Não perturbe com comportamento personalizado.</string>
     <string name="zen_mode_apps_bypassing_list_count">mais %d</string>
     <string name="zen_mode_auto_rule">Agendar sessões Não perturbe</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Programação</string>
     <string name="zen_mode_automation_settings_page_title">Programações</string>
     <string name="zen_mode_automation_settings_title">Programações</string>
-    <string name="zen_mode_automation_suggestion_summary">Definir regras do modo \"Não perturbe\"</string>
+    <string name="zen_mode_automation_suggestion_summary">Definir regras do Não perturbe</string>
     <string name="zen_mode_automation_suggestion_title">Silenciar dispositivo em horários específicos</string>
     <string name="zen_mode_behavior_alarms_only">Sem som, exceto alarmes e mídia</string>
     <string name="zen_mode_behavior_summary_custom">Personalizados</string>
@@ -12608,7 +12608,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_mode_button_turn_on">Ativar agora</string>
     <string name="zen_mode_bypassing_app_channels_header">Notificações que podem interromper</string>
     <string name="zen_mode_bypassing_app_channels_toggle_all">Permitir todas as notificações</string>
-    <string name="zen_mode_bypassing_apps">Permitir que apps modifiquem o \"Não perturbe\"</string>
+    <string name="zen_mode_bypassing_apps">Permitir que apps modifiquem o Não perturbe</string>
     <string name="zen_mode_bypassing_apps_add">Adicionar apps</string>
     <string name="zen_mode_bypassing_apps_add_header">Selecionar mais apps</string>
     <string name="zen_mode_bypassing_apps_all_summary">Todas as notificações</string>
@@ -12707,7 +12707,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_mode_people_none">Ninguém pode interromper</string>
     <string name="zen_mode_people_some">Algumas pessoas podem interromper</string>
     <string name="zen_mode_phone_calls">Chamadas</string>
-    <string name="zen_mode_qs_set_behavior">Não é possível alterar essas configurações no momento. O modo \"Não perturbe\" foi ativado manualmente com comportamento personalizado.</string>
+    <string name="zen_mode_qs_set_behavior">Não é possível alterar essas configurações no momento. O Não perturbe foi ativado manualmente com comportamento personalizado.</string>
     <string name="zen_mode_reminders">Lembretes</string>
     <string name="zen_mode_reminders_list">lembretes</string>
     <string name="zen_mode_reminders_list_first">Lembretes</string>
@@ -12716,7 +12716,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_mode_repeat_callers_list">autores de chamadas repetidas</string>
     <string name="zen_mode_repeat_callers_summary">Se a mesma pessoa ligar uma segunda vez em um período de %d min</string>
     <string name="zen_mode_repeat_callers_title">Permitir autores de chamadas repetidas</string>
-    <string name="zen_mode_restrict_notifications_category">Quando o modo \"Não perturbe\" estiver ativado</string>
+    <string name="zen_mode_restrict_notifications_category">Quando o Não perturbe estiver ativado</string>
     <string name="zen_mode_restrict_notifications_custom">Personalizado</string>
     <string name="zen_mode_restrict_notifications_disable_custom">Remover configuração personalizada</string>
     <string name="zen_mode_restrict_notifications_enable_custom">Ativar configuração personalizada</string>
@@ -12753,22 +12753,22 @@ Após desativar o Não perturbe, deslize de cima para baixo na tela para ver as 
     <string name="zen_mode_schedule_title">Programação</string>
     <string name="zen_mode_screen_locked_only">Quando o dispositivo estiver bloqueado</string>
     <string name="zen_mode_screen_off">Quado a tela estiver desligada</string>
-    <string name="zen_mode_screen_off_summary">Permitir que as notificações silenciadas pelo modo \"Não perturbe\" ativem a tela e façam a luz piscar</string>
-    <string name="zen_mode_screen_off_summary_no_led">Permitir que as notificações silenciadas pelo modo \"Não perturbe\" ativem a tela</string>
+    <string name="zen_mode_screen_off_summary">Permita que as notificações silenciadas pelo Não perturbe ativem a tela e façam a luz piscar</string>
+    <string name="zen_mode_screen_off_summary_no_led">Permita que as notificações silenciadas pelo Não perturbe ativem a tela</string>
     <string name="zen_mode_screen_on">Quando a tela estiver ligada</string>
-    <string name="zen_mode_screen_on_summary">Permitir que as notificações silenciadas pelo modo \"Não perturbe\" sejam exibidas na tela e mostrem um ícone na barra de status</string>
+    <string name="zen_mode_screen_on_summary">Permita que as notificações silenciadas pelo Não perturbe sejam exibidas na tela e mostrem um ícone na barra de status</string>
     <string name="zen_mode_settings_category">Permitir interrupções que emitem sons</string>
-    <string name="zen_mode_settings_dnd_automatic_rule">O modo \"Não perturbe\" foi ativado automaticamente por uma programação (%s)</string>
-    <string name="zen_mode_settings_dnd_automatic_rule_app">O modo \"Não perturbe\" foi ativado automaticamente por um app (%s)</string>
-    <string name="zen_mode_settings_dnd_custom_settings_footer">O \"Não perturbe\" está ativado para %s com configurações personalizadas.</string>
+    <string name="zen_mode_settings_dnd_automatic_rule">O Não perturbe foi ativado automaticamente por uma programação (%s)</string>
+    <string name="zen_mode_settings_dnd_automatic_rule_app">O Não perturbe foi ativado automaticamente por um app (%s)</string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer">O Não perturbe está ativado para %s com configurações personalizadas.</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">Ver configurações personalizadas</annotation></string>
-    <string name="zen_mode_settings_dnd_manual_end_time">O modo \"Não perturbe\" fica ativado até %s</string>
-    <string name="zen_mode_settings_dnd_manual_indefinite">O modo \"Não perturbe\" ficará ativado até que você o desative</string>
+    <string name="zen_mode_settings_dnd_manual_end_time">O Não perturbe fica ativado até %s</string>
+    <string name="zen_mode_settings_dnd_manual_indefinite">O Não perturbe ficará ativado até que você o desative</string>
     <string name="zen_mode_settings_schedules_summary">{count, plural, =0 {Nenhum} =1 {1 programação definida} other {# programações definidas} }</string>
     <string name="zen_mode_settings_summary">Receber notificações apenas de pessoas e apps importantes</string>
     <string name="zen_mode_settings_summary_off">Nunca</string>
     <string name="zen_mode_settings_title">Não perturbe</string>
-    <string name="zen_mode_settings_turn_on_dialog_title">Ativar o \"Não perturbe\"</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Ativar o Não perturbe</string>
     <string name="zen_mode_slice_subtitle">Limitar interrupções</string>
     <string name="zen_mode_sound_summary_off">{count, plural, =0 {Desativado} =1 {Desativado | 1 programação pode ser ativada automaticamente} other {Desativado | # programações podem ser ativadas automaticamente} }</string>
     <string name="zen_mode_sound_summary_off_with_info">Desativado | %1$s</string>
@@ -12796,7 +12796,7 @@ Após desativar o Não perturbe, deslize de cima para baixo na tela para ver as 
     <string name="zen_mode_title">Não perturbe</string>
     <string name="zen_mode_turned_off">Desativado</string>
     <string name="zen_mode_turned_on">Ativado</string>
-    <string name="zen_mode_unknown_app_set_behavior">Não é possível alterar essas configurações no momento. Um app ativou automaticamente o modo \"Não perturbe\" com comportamento personalizado.</string>
+    <string name="zen_mode_unknown_app_set_behavior">Não é possível alterar essas configurações no momento. Um app ativou automaticamente o Não perturbe com comportamento personalizado.</string>
     <string name="zen_mode_use_automatic_rule">Usar programação</string>
     <string name="zen_mode_visual_interruptions_settings_title">Bloquear perturbações visuais</string>
     <string name="zen_mode_visual_signals_settings_subtitle">Permitir sinais visuais</string>
@@ -12805,7 +12805,7 @@ Após desativar o Não perturbe, deslize de cima para baixo na tela para ver as 
     <string name="zen_mode_when_every_night">Todas as noites</string>
     <string name="zen_mode_when_never">Nunca</string>
     <string name="zen_mode_when_weeknights">Noites em dias úteis</string>
-    <string name="zen_msg_event_reminder_footer">Quando o \"Não perturbe\" estiver ativado, mensagens, lembretes e eventos serão silenciados, com exceção dos itens permitidos por você acima. É possível ajustar as configurações de mensagens para permitir que seus amigos, familiares ou outros contatos falem com você.</string>
+    <string name="zen_msg_event_reminder_footer">Quando o Não perturbe estiver ativado, mensagens, lembretes e eventos serão silenciados, com exceção dos itens permitidos por você acima. É possível ajustar as configurações de mensagens para permitir que seus amigos, familiares ou outros contatos falem com você.</string>
     <string name="zen_msg_event_reminder_title">Mensagens, eventos e lembretes</string>
     <string name="zen_onboarding_current_setting_summary">(Configuração atual)</string>
     <string name="zen_onboarding_current_setting_title">Sem som para notificações</string>
@@ -12816,7 +12816,7 @@ Atualizar configurações para:
 • Ocultar notificações completamente
 
 • Permitir chamadas de contatos favoritos e de autores de chamadas repetidas"</string>
-    <string name="zen_onboarding_dnd_visual_disturbances_header">Alterar as configurações de notificação do \"Não perturbe\"?</string>
+    <string name="zen_onboarding_dnd_visual_disturbances_header">Alterar as configurações de notificação do Não perturbe?</string>
     <string name="zen_onboarding_more_options">Ainda pode personalizar mais em Configurações</string>
     <string name="zen_onboarding_new_setting_summary">Você não verá nem ouvirá notificações. As chamadas de contatos marcados com estrela e de autores de chamadas repetidas serão permitidas.</string>
     <string name="zen_onboarding_new_setting_title">Ocultar avisos visuais ou sonoros de notificações</string>
@@ -12827,10 +12827,10 @@ Atualizar configurações para:
     <string name="zen_onboarding_screen_on_title">Bloquear com a tela ligada</string>
     <string name="zen_onboarding_settings">Configurações</string>
     <string name="zen_rule_name_hint">Insira o nome da regra</string>
-    <string name="zen_schedule_rule_enabled_toast">Regra automática definida para ativar o \"Não perturbe\" durante horários especificados</string>
+    <string name="zen_schedule_rule_enabled_toast">Regra automática definida para ativar o Não perturbe durante horários especificados</string>
     <string name="zen_schedule_rule_type_name">Hora</string>
     <string name="zen_settings_general">Geral</string>
-    <string name="zen_sound_footer">Quando o \"Não perturbe\" estiver ativado, sons e vibrações serão desativados, com exceção dos itens permitidos por você acima.</string>
+    <string name="zen_sound_footer">Quando o Não perturbe estiver ativado, sons e vibrações serão desativados, com exceção dos itens permitidos por você acima.</string>
     <string name="zen_suggestion_summary">Pausar notificações para manter o foco</string>
     <string name="zen_suggestion_title">Atualizar o modo Não perturbe</string>
     <string name="zone_auto_summaryOff">Use a hora fornecida pela operadora de rede</string>
