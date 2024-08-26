@@ -407,7 +407,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="intelligence_suppression_summary">Ajuste dinamicamente o tamanho da área próxima às bordas onde o toque acidental será ignorado com base na sua pegada</string>
     <string name="intelligence_suppression_title">Automático (recomendado)</string>
     <string name="invalid_qr_code">Código QR inválido</string>
-    <string name="item_view_role_description">Aba</string>
+    <string name="item_view_role_description">Guia</string>
     <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [Liga/Desliga] por %ss para ativar o assistente digital</string>
     <string name="kddi_long_press_power_guide_assistant_title">Acionar o assistente digital</string>
     <string name="kddi_long_press_power_guide_know">Entendi</string>
@@ -466,7 +466,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="knock_edge_area_invalid">"Este gesto não funciona perto das bordas da tela"</string>
     <string name="knock_guide_dialog_title">Selecione uma ação para este gesto. Você pode alterá-la mais tarde em Configurações > Configurações adicionais > Botões de atalho.</string>
     <string name="knock_guide_drive_desc">Capturar tela ao dirigir</string>
-    <string name="knock_guide_launch_desc">Acionar o Mi AI quando seu dispositivo estiver estático</string>
+    <string name="knock_guide_launch_desc">Aciona o Mi AI quando seu dispositivo estiver estático</string>
     <string name="knock_guide_set_screenshot">Captura de tela</string>
     <string name="knock_guide_set_voiceassist">"Mi AI"</string>
     <string name="knock_guide_sub_title">Você pode acionar o Mi AI ou tirar capturas de tela tocando na tela com o nó dos dedos</string>
@@ -716,7 +716,7 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="notification_from_second_user">Mostrar notificações do Segundo espaço</string>
     <string name="notification_recommend_title">Top 12 apps para o Segundo espaço</string>
     <string name="notification_setting_second_space">Configurar Segundo espaço</string>
-    <string name="notification_setting_second_space_desc">Adicionar senha do Segundo espaço e mover dados</string>
+    <string name="notification_setting_second_space_desc">Adicione uma senha do Segundo espaço e mova dados</string>
     <string name="notification_tof_gesture_content_text">Ative este recurso para realizar diferentes ações sem tocar na tela</string>
     <string name="notification_tof_gesture_title">Reconhecer gestos sem contato</string>
     <string name="ok_button">"OK"</string>
@@ -791,7 +791,7 @@ Ou então você não será capaz de entrar no Segundo espaço a partir da Tela d
 para pode acessá-lo através da Tela de bloqueio"</string>
     <string name="scanner_fingerprint_error_tips_desc">"Não foi encontrada uma impressão digital correspondente. Adicionar impressão digital do Segundo espaço?"</string>
     <string name="scanner_fingerprint_error_tips_title">"Não foi encontrada uma impressão digital correspondente"</string>
-    <string name="scanner_fingerprint_tips_desc">"Selecionar impressão digital existente para acessar o Segundo espaço. Não será possível usaá-la no Primeiro espaço."</string>
+    <string name="scanner_fingerprint_tips_desc">"Selecione uma impressão digital existente para acessar o Segundo espaço. Não será possível usaá-la no Primeiro espaço."</string>
     <string name="scanner_fingerprint_tips_title">Entrar no Segundo espaço através de impressão digital</string>
     <string name="scanner_second_space_fingerprint">Ler impressão digital do Segundo espaço</string>
     <string name="screen_key_long_press">Pressionar e segurar botões de navegação</string>
@@ -810,7 +810,7 @@ para pode acessá-lo através da Tela de bloqueio"</string>
     <string name="second_space_desktop_tips_dialog_message">Depois desta atualização, os ícones para mover dados e gerenciar o Segundo espaço não ficarão mais disponíveis na Tela inicial. Você poderá acessar os recursos correspondentes nas Configurações.</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Entendi</string>
     <string name="second_space_desktop_tips_dialog_title">Atualização importante</string>
-    <string name="second_space_finger_printf_desc">Adicionar uma impressão digital para ser usada especificamente para entrar no Segundo espaço</string>
+    <string name="second_space_finger_printf_desc">Adicione uma impressão digital para ser usada especificamente para entrar no Segundo espaço</string>
     <string name="second_space_finger_printf_title">Impressão digital do Segundo espaço</string>
     <string name="second_space_setting_search_label">Proteção de privacidade/Proteção/Recursos de proteção de privacidade</string>
     <string name="secondspace_homepage">"Defina um bloqueio de tela para o Segundo espaço.

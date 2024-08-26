@@ -1084,7 +1084,7 @@ Alterar as configurações agora?"</string>
     <string name="auto_rotate_switch_face_based">Ativar detecção de rosto</string>
     <string name="auto_rule">Temporizador</string>
     <string name="auto_silent">Programar hora para ativar</string>
-    <string name="auto_silent_info">Este recurso para de funcionar se você alternar para o Modo não perturbe manualmente</string>
+    <string name="auto_silent_info">Este recurso para de funcionar se você alternar para o Não perturbe manualmente</string>
     <string name="auto_startup_application_manage">Início automático</string>
     <string name="auto_sync_account_summary">Permitir que os apps atualizem dados automaticamente</string>
     <string name="auto_sync_account_title">Sincronizar dados do app automaticamente</string>
@@ -5165,7 +5165,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="invalid_size_value">Não foi possível calcular o tamanho do pacote.</string>
     <string name="ipaddr_label">Endereço IP:</string>
     <string name="item_system_app">Apps do sistema</string>
-    <string name="item_view_role_description">Aba</string>
+    <string name="item_view_role_description">Guia</string>
     <string name="join_two_items">%1$s e %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
     <string name="kddi_nfc_category_title">NFC</string>
@@ -5401,7 +5401,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="knock_edge_area_invalid">Este gesto não funciona perto das bordas da tela</string>
     <string name="knock_guide_dialog_title">Selecione uma ação para este gesto. Você pode alterá-la mais tarde em Configurações > Configurações adicionais > Botões de atalho.</string>
     <string name="knock_guide_drive_desc">Capturar tela ao dirigir</string>
-    <string name="knock_guide_launch_desc">Acionar o Mi AI quando seu telefone estiver estático</string>
+    <string name="knock_guide_launch_desc">Aciona o Mi AI quando seu dispositivo estiver estático</string>
     <string name="knock_guide_set_screenshot">Captura de tela</string>
     <string name="knock_guide_set_voiceassist">"Mi AI"</string>
     <string name="knock_guide_sub_title">Você pode acionar o Mi AI ou tirar capturas de tela tocando na tela com o nó dos dedos</string>
@@ -6537,7 +6537,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_lab_ai_cloud_closed">O pré-carregamento de IA ainda não está disponível.</string>
     <string name="miui_lab_ai_preload_desc">O pré-carregamento de IA aumenta a velocidade de carregamento dos apps</string>
     <string name="miui_lab_ai_preload_title">Pré-carregamento de IA</string>
-    <string name="miui_lab_aiasst_call_screen_desc">Atender chamadas usando a IA</string>
+    <string name="miui_lab_aiasst_call_screen_desc">Atenda chamadas usando a IA</string>
     <string name="miui_lab_aiasst_call_screen_title">Assistente de Chamadas IA</string>
     <string name="miui_lab_drive_mode_desc">Use controles de voz e ouça mensagens do WeChat</string>
     <string name="miui_lab_drive_mode_desc_new">Usar controles de voz</string>
@@ -7276,7 +7276,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="not_selected">Não selecionado</string>
     <string name="not_set">Não definido</string>
     <string name="notch_and_status_bar_settings">Centro de controle e barra de status</string>
-    <string name="notch_force_black_desc">Escurecer a área ao redor do entalhe da tela</string>
+    <string name="notch_force_black_desc">Escureça a área ao redor do entalhe da tela</string>
     <string name="notch_force_black_title">Ocultar entalhe</string>
     <string name="notch_settings">Entalhe</string>
     <string name="notch_style_mod_description">Opções de exibição para o entalhe e barra de status</string>
@@ -8745,7 +8745,7 @@ Para usar a fixação de apps: \u0009
     <string name="screen_projection_characteristics_privacy_protect_title">Ocultar itens privados</string>
     <string name="screen_projection_characteristics_small_window_summary">Minimize a janela que está sendo transmitida para poder usar outros recursos do seu telefone.</string>
     <string name="screen_projection_characteristics_small_window_title">Minimizar janela</string>
-    <string name="screen_projection_example_document_summary">Exibe apresentações em um monitor externo enquanto usa seu telefone para a mudança de slides e ver notas. Acesse o Gerenciador de Arquivos > Documentos para experimentar este recurso.</string>
+    <string name="screen_projection_example_document_summary">Exibe apresentações em um monitor externo enquanto usa seu telefone para a mudança de slides e ver notas. Acesse o app Arquivos > Documentos para experimentar este recurso.</string>
     <string name="screen_projection_example_document_title">Documentos</string>
     <string name="screen_projection_example_gallery_summary">Toque no botão Compartilhar em um item da Galeria para exibi-lo em um monitor externo.</string>
     <string name="screen_projection_example_gallery_title">Fotos e vídeos</string>
@@ -8912,8 +8912,8 @@ Para usar a fixação de apps: \u0009
     <string name="search_display_settings">Tela;Luz ambiente;Bolso;Modo bolso;Temperatura da cor;Cor;Cores;Saturação;Girar tela;Girar automaticamente;Brilho;Fonte;Fontes;Tamanho da fonte;Girar;Resolução</string>
     <string name="search_dndm_alarm_content">Exceções</string>
     <string name="search_dndm_auto_button_title">Definir horário</string>
-    <string name="search_dndm_auto_time_setting">Definir hora;Não Perturbe</string>
-    <string name="search_dndm_open">Não perturbe;DND;Ativar Não Perturbe</string>
+    <string name="search_dndm_auto_time_setting">Definir hora;Não perturbe</string>
+    <string name="search_dndm_open">Não perturbe;DND;Ativar Não perturbe</string>
     <string name="search_dndm_repeated_call_setting_title">Chamadas repetidas;Chamadas repetidas</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Exceções;Lista branca;lista branca</string>
     <string name="search_dndm_wristband">Ativar com a Mi Band;Mi Band</string>

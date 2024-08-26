@@ -173,7 +173,7 @@
     <string name="delete_selected_timer_item">Excluir a tarefa do temporizador selecionado?</string>
     <string name="delete_timer_item_title">Excluir tarefa do temporizador</string>
     <string name="delete_timezone_title">Excluir fuso horário</string>
-    <string name="deskclock_sleep_no_disturbance">Relógio > Gerenciar hora de dormir > Modo Não perturbe</string>
+    <string name="deskclock_sleep_no_disturbance">Relógio > Gerenciar hora de dormir > Não perturbe</string>
     <string name="device_sounds">Sons do dispositivo</string>
     <string name="dialog_confirm_abort">Descartar alterações?</string>
     <string name="dialog_legal_off_day"><Data>"Parece que você está usando os alarmes de feriados. Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
@@ -265,7 +265,7 @@
     <string name="install_weather_app_loading">Aguarde…</string>
     <string name="invalid_time">Hora inválida: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">"A duração do temporizador é inválida"</string>
-    <string name="item_view_role_description">Aba</string>
+    <string name="item_view_role_description">Guia</string>
     <string name="keep_screen_on">Manter tela ligada</string>
     <string name="korea_permission_calendar">Agenda</string>
     <string name="korea_permission_calendar_desc">Para acessar informações do evento e enviar lembretes</string>
@@ -364,7 +364,7 @@ mm"</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
-    <string name="miuix_item_view_role_description">Aba</string>
+    <string name="miuix_item_view_role_description">Guia</string>
     <string name="miuix_navigator_category_group_collapse">Recolher</string>
     <string name="miuix_navigator_category_group_expand">Expandir</string>
     <string name="miuix_navigator_content_switch_description">Mostrar barra lateral</string>
@@ -616,8 +616,8 @@ mm"</string>
     <string name="sleep_duration_no_data">Sem dados</string>
     <string name="sleep_duration_recommendation">A maioria das pessoas necessitam de 7 a 9 horas de sono por noite</string>
     <string formatted="false" name="sleep_duration_recommendation_new">A maioria das pessoas necessitam de %d a %d horas de sono por noite</string>
-    <string name="sleep_no_disturbance">Modo Não perturbe</string>
-    <string name="sleep_no_disturbance_desc">Alterar para o Não perturbe até a hora de acordar</string>
+    <string name="sleep_no_disturbance">Não perturbe</string>
+    <string name="sleep_no_disturbance_desc">Altere para o Não perturbe até a hora de acordar</string>
     <string name="sleep_no_record_text">Comece a analisar o seu sono para ver estatísticas</string>
     <string name="sleep_notification_desc">Cumpra o seu horário de dormir</string>
     <string name="sleep_notification_title">Hora de ir para a cama</string>

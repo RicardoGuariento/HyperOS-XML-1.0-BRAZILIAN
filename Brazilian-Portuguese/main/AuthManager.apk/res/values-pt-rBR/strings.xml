@@ -97,7 +97,7 @@
     <string name="HIPS_Perm_mediaVolume">Ajustar volume de mídia</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Permite que o app ajuste o volume de mídia</string>
     <string name="HIPS_Perm_operator_get_phonenumbner">Acessar o número de telefone para fazer login</string>
-    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Obter o número de telefone para fazer login</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Obtenha o número de telefone para fazer login</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Caso não consiga fazer login com um toque, volte para a página de login e tente novamente."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Este app deseja adquirir seu número de telefone para fazer login. Permitir?</string>
     <string name="HIPS_Perm_operator_shake">Acessar o movimento e a orientação do dispositivo</string>
@@ -105,7 +105,7 @@
     <string name="HIPS_Perm_operator_wall_paper">Serviços de Planos de fundo dinâmico</string>
     <string name="HIPS_Perm_operator_wall_paper_Desc">Edita os serviços de Planos de fundo dinâmico do sistema</string>
     <string name="HIPS_Perm_process_nfc">"NFC"</string>
-    <string name="HIPS_Perm_process_nfc_Desc">Acessar hardware de NFC</string>
+    <string name="HIPS_Perm_process_nfc_Desc">Acesse o hardware de NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Atender e encerrar chamadas</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitore chamadas recebidas</string>
     <string name="HIPS_Perm_read_Calendar">Acessar a agenda</string>

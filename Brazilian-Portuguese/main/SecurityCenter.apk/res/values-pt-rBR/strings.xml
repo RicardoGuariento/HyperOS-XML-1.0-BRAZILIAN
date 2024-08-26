@@ -477,7 +477,7 @@
     <string name="app_management_for_chain_start">Bloquear a abertura de outros apps</string>
     <string name="app_management_for_chain_start_desc">Impede que este app se conecte ou abra outros apps</string>
     <string name="app_management_for_device_id">Oculte identificadores e impeça o rastreamento</string>
-    <string name="app_management_for_device_id_desc">Impedir que este app acesse seu número de telefone e informações de identificação pessoal</string>
+    <string name="app_management_for_device_id_desc">Impede que este app acesse seu número de telefone e informações de identificação pessoal</string>
     <string name="app_management_for_independent_storage">Armazenamento independente</string>
     <string name="app_management_for_independent_storage_desc">Armazene dados de apps de forma independente e evite que o app acesse alguns dados externos</string>
     <string name="app_management_for_install">Bloquear downloads de apps</string>
@@ -828,10 +828,10 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_task_default_do_action">Então</string>
     <string name="auto_task_default_if_exclude">Condição</string>
     <string name="auto_task_default_task_summary_driver_car">Ative o hotspot portátil quando conectado ao sistema do carro via Bluetooth</string>
-    <string name="auto_task_default_task_summary_get_up">Desative o modo Não perturbe e ative o Bluetooth, Wi-Fi e dados móveis novamente</string>
+    <string name="auto_task_default_task_summary_get_up">Desative o Não perturbe e ative o Bluetooth, Wi-Fi e dados móveis novamente</string>
     <string name="auto_task_default_task_summary_listen_music">Ouça suas músicas e selecione o tipo de fone de ouvido</string>
-    <string name="auto_task_default_task_summary_meet">Programe o horário da reunião e ative o modo Não perturbe</string>
-    <string name="auto_task_default_task_summary_noon_break">Programe o tempo de descanso e ative o modo Não perturbe</string>
+    <string name="auto_task_default_task_summary_meet">Programe o horário da reunião e ative o Não perturbe</string>
+    <string name="auto_task_default_task_summary_noon_break">Programe o tempo de descanso e ative o Não perturbe</string>
     <string name="auto_task_default_task_summary_save_power">Ative a Economia de bateria quando a bateria estiver abaixo de 30%</string>
     <string name="auto_task_default_task_summary_sleep">Programe a hora de dormir e personalize o comportamento do dispositivo</string>
     <string name="auto_task_default_task_summary_watch_video">Abra o app, ative o Wi-Fi e ajuste o volume</string>
@@ -921,7 +921,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_task_rule_bluetooth">Você pode abrir %2$s automaticamente ao usar Bluetooth com %1$s. Criar esta tarefa agora?</string>
     <string name="auto_task_rule_map_location">Você pode ativar os serviços de localização automaticamente ao usar mapas. Criar esta tarefa agora?</string>
     <string name="auto_task_rule_read_mode">Você pode ativar o Modo leitura automaticamente ao usar apps de leitura. Criar esta tarefa agora?</string>
-    <string name="auto_task_rule_zen_mode">Você pode ativar o modo Não perturbe durante os descansos entre 12:00 e 14:00 automaticamente. Criar esta tarefa agora?</string>
+    <string name="auto_task_rule_zen_mode">Você pode ativar o Não perturbe durante os descansos entre 12:00 e 14:00 automaticamente. Criar esta tarefa agora?</string>
     <string name="auto_task_select_address_company">Trabalho</string>
     <string name="auto_task_select_address_home">Casa</string>
     <string name="auto_task_select_address_leave">Sair</string>
@@ -1434,7 +1434,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="daily_remind_warning_text_tips">Alertar quando o limite de dados for atingido</string>
     <string name="daily_reminder_warning">Limite de dados diários</string>
     <string name="daily_reminder_warning_necessary">Limite de dados diários (obrigatório)</string>
-    <string name="data_booster_desc">Desativar outros cartões SIM para manter a conexão estável</string>
+    <string name="data_booster_desc">Desativa outros cartões SIM para manter a conexão estável</string>
     <string name="data_booster_title">Estabilizar conexão de dados</string>
     <string name="data_local_processing_and_storage">Dados armazenados e processados localmente</string>
     <string name="data_local_processing_and_storage_detail">Sua entrada será armazenada e processada neste dispositivo e não será enviada para a nuvem.</string>
@@ -3957,7 +3957,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_camera">Esta permissão permite que os apps utilizem a câmera para tirar fotos ou gravar vídeos.</string>
     <string name="permission_instruction_change_wifi_state">Esta permissão permite que os apps ativem e desativem o Wi-Fi sem sua confirmação.</string>
     <string name="permission_instruction_device_admin">Esta permissão permite que os apps controlem seu dispositivo, o que pode incluir a limpeza de dados, o desbloqueio do dispositivo e a troca de senhas. Esta é uma permissão de alto risco.</string>
-    <string name="permission_instruction_dont_disturb">Esta permissão permite que os apps ativem e desativem o modo Não perturbe.</string>
+    <string name="permission_instruction_dont_disturb">Esta permissão permite que os apps ativem e desativem o Não perturbe.</string>
     <string name="permission_instruction_draw_overlay">Esta permissão permite que os apps exibam janelas flutuantes sobre qualquer outra interface em seu dispositivo, o que pode afetar o uso normal de outros apps. Apps maliciosos podem usar esta permissão para ler ou coletar informações pessoais (ex.: senhas) através de janelas flutuantes transparentes.</string>
     <string name="permission_instruction_external_storage">Esta permissão permite que apps acessem fotos, mídias e arquivos em seu dispositivo. Tenha cuidado com esta permissão para evitar divulgação desnecessária de informações pessoais.</string>
     <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, o HyperOS para proteger sua privacidade permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
@@ -5154,8 +5154,8 @@ Retirar consentimento agora?"</string>
     <string name="special_perm_app_title">Associar apps de trabalho com apps pessoais</string>
     <string name="special_perm_control_notice_msg">Permite que apps leiam e controlem notificações</string>
     <string name="special_perm_control_notice_title">Ler e controlar notificações</string>
-    <string name="special_perm_disturb_msg">Permite que apps ativem o modo Não perturbe</string>
-    <string name="special_perm_disturb_title">Ativar o modo Não perturbe</string>
+    <string name="special_perm_disturb_msg">Permite que apps ativem o Não perturbe</string>
+    <string name="special_perm_disturb_title">Ativar o Não perturbe</string>
     <string name="special_perm_file_msg">Permite que apps acessem todos os arquivos neste dispositivo</string>
     <string name="special_perm_file_title">Acessar todos os arquivos</string>
     <string name="special_perm_follow_msg">Permite que apps rastreiem o uso do dispositivo</string>
@@ -5501,8 +5501,8 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="summary_dark_mode">Alguimas páginas estão pretas devido a serviços de terceiros</string>
     <string name="summary_data_flow">Controle os dados móveis para evitar tarifação adicional</string>
     <string name="summary_default_app">%s não está definido como o app padrão do sistema</string>
-    <string name="summary_dev">Evitar Malware e proteger os dados pessoais</string>
-    <string name="summary_do_not_disturb">Você está usando o modo Não perturbe.</string>
+    <string name="summary_dev">Evitar malware e proteger os dados pessoais</string>
+    <string name="summary_do_not_disturb">Você está usando o Não perturbe.</string>
     <string name="summary_eye_shield">Desative o Modo leitura para voltar às configurações padrão.</string>
     <string name="summary_find_device">Localizar e bloquear seu dispositivo de qualquer lugar</string>
     <string name="summary_first_aid_kit">Resolva os problemas no seu dispositivo agora</string>
@@ -5646,14 +5646,14 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_close_screen_display">Desativar a Tela ambiente</string>
     <string name="task_summary_close_system_touch">Desativar o feedback tátil</string>
     <string name="task_summary_close_wlan">Desativar o Wi-Fi</string>
-    <string name="task_summary_close_zen_mode">Desativar o modo Não perturbe</string>
+    <string name="task_summary_close_zen_mode">Desativar o Não perturbe</string>
     <string name="task_summary_open_airplane">Ativar o Modo avião</string>
     <string name="task_summary_open_auto_brightness">Ativar o brilho automático</string>
     <string name="task_summary_open_bluetooth">Ativar o Bluetooth</string>
     <string name="task_summary_open_dark_mode">Ativar o Modo escuro</string>
     <string name="task_summary_open_dc_light">Ativar o Modo anti-oscilação</string>
     <string name="task_summary_open_dial_tone">Ativar os tons do teclado</string>
-    <string name="task_summary_open_disturb_mode">Ativar o modo Não perturbe</string>
+    <string name="task_summary_open_disturb_mode">Ativar o Não perturbe</string>
     <string name="task_summary_open_drive_mode">Ativar o Modo carro</string>
     <string name="task_summary_open_eye_care_mode">Ativar o Modo leitura</string>
     <string name="task_summary_open_hotspot">Ativar o hotspot portátil</string>
@@ -5667,7 +5667,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_open_screen_display">Ativar a Tela ambiente</string>
     <string name="task_summary_open_system_touch">Ativar o feedback tátil</string>
     <string name="task_summary_open_wlan">Ativar o Wi-Fi</string>
-    <string name="task_summary_open_zen_mode">Ativar o modo Não perturbe</string>
+    <string name="task_summary_open_zen_mode">Ativar o Não perturbe</string>
     <string name="task_title_charge">Carregar</string>
     <string name="task_title_nfc">"NFC"</string>
     <string name="tc_cmd_invalid">O modelo é inválido</string>
@@ -5918,7 +5918,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_result_twinkle">Modo anti-oscilação</string>
     <string name="title_result_typeface">Tamanho do texto e espessura da fonte</string>
     <string name="title_result_wlan">"Wi-Fi"</string>
-    <string name="title_result_zen_mode">Modo Não perturbe</string>
+    <string name="title_result_zen_mode">Não perturbe</string>
     <string name="title_safe_mode">Ative o Modo de segurança</string>
     <string name="title_show_notification">Widget na Área de notificações</string>
     <string name="title_system_auto_download">As atualizações serão baixadas automaticamente</string>
@@ -6554,7 +6554,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="group_file">Arquivos e documentos</string>
     <string name="group_file_less_t">Acesse arquivos e mídia</string>
     <string name="group_head_data_ai_clipboard">Proteção da área de transferência</string>
-    <string name="group_head_data_ai_clipboard_desc">Permitir que o sistema decida se os apps podem acessar os itens na área de transferência</string>
+    <string name="group_head_data_ai_clipboard_desc">Permite que o sistema decida se os apps podem acessar os itens na área de transferência</string>
     <string name="group_head_data_camera_desc">Desligue para restringir o acesso à câmera para todos os apps</string>
     <string name="group_head_data_clipboard_desc">Desligue para restringir o acesso à área de transferência para todos os apps</string>
     <string name="group_head_data_location_desc">Desligue para restringir o acesso à localização para todos os apps</string>
@@ -6591,7 +6591,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string formatted="false" name="normal4">%1s, %2s, %3s, %4s. Toque para alterar.</string>
     <string name="not_available">Nenhum por enquanto</string>
     <string name="open_alarm_right_now">Ligue imediatamente</string>
-    <string name="open_dnd_mode">Modo Não perturbe</string>
+    <string name="open_dnd_mode">Não perturbe</string>
     <string name="open_dnd_mode_summary">Não perturbe o período de tempo, lembrete de envelope vermelho e despertamento do envelope vermelho distúrbio grátis</string>
     <string name="open_fast_open_mode">Abra o modo de gratificação de velocidade</string>
     <string name="open_fast_open_mode_summary">Abra o modo de agarrar de velocidade. Quando o envelope vermelho for recebido, o sistema abrirá automaticamente a página do envelope vermelho.</string>

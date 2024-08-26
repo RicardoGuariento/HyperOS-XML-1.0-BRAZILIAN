@@ -760,7 +760,7 @@ Toque para reajustar"</string>
     <string name="clock">Relógio</string>
     <string name="clock_city_name_local">"Local"</string>
     <string name="clock_seconds">Mostrar segundos no relógio</string>
-    <string name="clock_seconds_desc">Mostrar segundos do relógio na barra de status. Pode afetar a duração da bateria.</string>
+    <string name="clock_seconds_desc">Mostra os segundos do relógio na barra de status. Pode afetar a duração da bateria.</string>
     <string name="clock_title_analog">Analógico</string>
     <string name="clock_title_bubble">Bolha</string>
     <string name="clock_title_default">Padrão</string>
@@ -929,7 +929,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dlg_ok">"OK"</string>
     <string name="dnd_is_off">O Não perturbe está desativado</string>
     <string name="dnd_notification_warnings_title">O Não perturbe está ativado. Chamadas e notificações serão silenciadas.</string>
-    <string name="dnd_suppressing_shade_text">Notificações pausadas pelo modo Não Perturbe</string>
+    <string name="dnd_suppressing_shade_text">Notificações pausadas pelo Não perturbe</string>
     <string name="do_disclosure_generic">Este dispositivo pertence a organização</string>
     <string name="do_disclosure_with_name">Este dispositivo pertence a %s</string>
     <string name="do_financed_disclosure_with_name">Este dispositivo é fornecido por %s</string>
@@ -1254,18 +1254,18 @@ Continuar mostrando elas?"</string>
     <string name="input_lockscreen_password_hint_text">Digite a senha</string>
     <string name="input_lockscreen_pattern_hint_text">Desenhe o padrão</string>
     <string name="input_lockscreen_pin_hint_text">Digite o PIN</string>
-    <string name="input_password_after_boot_msg">É necessário inserir sua senha sempre que o dispositivo for iniciado</string>
+    <string name="input_password_after_boot_msg">É necessário inserir sua senha sempre que o dispositivo for reiniciado</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de Espaços durante uma chamada</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Não é possível trocar entre espaços quando o Controle familiar está ativado</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Não é possível alternar entre Espaços quando a Ultra economia de bateria está ativada"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Você precisa acessar o Primeiro espaço depois do dispositivo ser reiniciado</string>
     <string name="input_password_hint_text">Inserir senha</string>
-    <string name="input_pattern_after_boot_msg">É necessário desenhar o seu padrão sempre que o dispositivo for iniciado</string>
+    <string name="input_pattern_after_boot_msg">É necessário desenhar o seu padrão sempre que o dispositivo for reiniciado</string>
     <string name="input_pattern_after_face_not_allowed">Digite sua senha pelo menos uma vez a cada %d horas para manter este dispositivo seguro</string>
     <string name="input_pattern_after_restart_msg">Confirme o seu bloqueio de tela para continuar</string>
     <string name="input_pattern_hint_text">Desenhe seu padrão de desbloqueio</string>
     <string name="input_pattern_or_finger_after_face_not_allowed">Digite sua senha ou use a impressão digital pelo menos uma vez a cada %d horas para manter este dispositivo seguro</string>
-    <string name="input_pin_after_boot_msg">É necessário inserir seu PIN sempre que o dispositivo for iniciado</string>
+    <string name="input_pin_after_boot_msg">É necessário inserir seu PIN sempre que o dispositivo for reiniciado</string>
     <string name="input_pin_code">Inserir PIN</string>
     <string name="input_puk_code">Inserir PUK</string>
     <string name="input_second_pattern_after_restart_msg">Confirme a senha do Segundo espaço para continuar</string>
@@ -2199,7 +2199,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="priority_onboarding_appear_as_bubble_text">Aparece como uma bolha flutuante no topo dos apps</string>
     <string name="priority_onboarding_behavior">Conversas com prioridade irão:</string>
     <string name="priority_onboarding_done_button_title">"OK"</string>
-    <string name="priority_onboarding_ignores_dnd_text">Interromper Não Perturbe</string>
+    <string name="priority_onboarding_ignores_dnd_text">Interromper Não perturbe</string>
     <string name="priority_onboarding_settings_button_title">Configurações</string>
     <string name="priority_onboarding_show_at_top_text">Mostrar no topo da seção de conversas</string>
     <string name="priority_onboarding_show_avatar_text">Mostrar foto de perfil na Tela de bloqueio</string>
@@ -2239,7 +2239,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="qs_control_big_tile_state_unavailable">Indisponível</string>
     <string name="qs_control_customize_other_tiles_title">Atalhos disponíveis</string>
     <string name="qs_control_customize_save_text">Concluído</string>
-    <string name="qs_control_customize_sub_title">Arraste os atalhos adicionados para organizá-los</string>
+    <string name="qs_control_customize_sub_title">Arraste os atalhos para reorganizá-los</string>
     <string name="qs_control_customize_title">Atalhos adicionados</string>
     <string name="qs_control_expand_detail_title">Meus dados</string>
     <string name="qs_control_header_tiles_title">Centro de controle</string>

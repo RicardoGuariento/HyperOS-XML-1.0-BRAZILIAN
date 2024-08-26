@@ -147,7 +147,7 @@
     <string name="VideoView_error_title">Problema com o vídeo</string>
     <string name="accept">Aceitar</string>
     <string name="accessibility_binding_label">Acessibilidade</string>
-    <string name="accessibility_button_instructional_text">Para alternar entre recursos, toque em &amp; segure o botão de acessibilidade.</string>
+    <string name="accessibility_button_instructional_text">Para alternar entre recursos, toque e segure o botão de acessibilidade.</string>
     <string name="accessibility_button_prompt_text">Escolha um recurso para usar ao tocar no botão de acessibilidade:</string>
     <string name="accessibility_dialog_button_allow">Permitir</string>
     <string name="accessibility_dialog_button_deny">Negar</string>
@@ -1249,7 +1249,7 @@ Se você não permitir que este app acesse todos os registros do dispositivo, el
     <string name="nas_upgrade_notification_learn_more_action">Saiba mais</string>
     <string name="nas_upgrade_notification_learn_more_content">"As notificações aprimoradas substituíram as Notificações adaptativas do Android no Android 12. Este recurso mostra ações e respostas sugeridas e organiza suas notificações.
 
-As notificações aprimoradas podem acessar o conteúdo da notificação, incluindo informações pessoais como nomes de contato e mensagens. Este recurso também pode ignorar ou responder a notificações, como atender chamadas e controlar o modo Não perturbe."</string>
+As notificações aprimoradas podem acessar o conteúdo da notificação, incluindo informações pessoais como nomes de contato e mensagens. Este recurso também pode ignorar ou responder a notificações, como atender chamadas e controlar o Não perturbe."</string>
     <string name="nas_upgrade_notification_title">Notificações aprimoradas</string>
     <string name="needPuk">O seu chip está bloqueado por um PUK. Digite o código PUK para desbloqueá-lo.</string>
     <string name="needPuk2">Digite o PUK2 para desbloquear o chip.</string>
@@ -2273,7 +2273,7 @@ Quer fechá-la?"</string>
     <string name="zen_mode_until">Até às %1$s</string>
     <string name="zen_mode_until_next_day">Até às %1$s</string>
     <string name="zen_upgrade_notification_content">Toque para verificar o que está bloqueado.</string>
-    <string name="zen_upgrade_notification_title">O modo Não perturbe foi alterado</string>
+    <string name="zen_upgrade_notification_title">O Não perturbe foi alterado</string>
     <string name="zen_upgrade_notification_visd_content">Toque para saber mais e fazer alterações.</string>
-    <string name="zen_upgrade_notification_visd_title">Novo: o modo Não perturbe está ocultando as notificações</string>
+    <string name="zen_upgrade_notification_visd_title">Novo: o Não perturbe está ocultando as notificações</string>
 </resources>
