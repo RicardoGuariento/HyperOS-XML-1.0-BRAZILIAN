@@ -1355,7 +1355,7 @@ estão disponíveis"</string>
     <string name="gallery_setting">Configurações</string>
     <string name="gallery_sync_disable_toast">Sincronização desativada para a Galeria</string>
     <string name="gallery_uninstall_description_content">"A Galeria é um app do sistema que permite visualizar, gerenciar e sincronizar fotos e vídeos em todos os dispositivos conectados. Se você desinstalar a Galeria, perderá os itens que tornou privados e outros recursos relacionados à visualização e seleção de itens da Galeria também serão não estará mais disponível para você. Desinstalar mesmo assim?"</string>
-    <string name="gallery_uninstall_description_title">Desisntalar galeria?</string>
+    <string name="gallery_uninstall_description_title">Desisntalar Galeria?</string>
     <string name="generate_story_summary">"Tire fotos suficientes, conecte o carregador e desligue a tela para que as memórias apareçam. As memórias já geradas não desaparecerão se você desativar esse recurso."</string>
     <string name="generate_story_title">Memórias</string>
     <string name="get_GP_app_btn_install">Instalar</string>
@@ -1704,14 +1704,14 @@ estão disponíveis"</string>
     <string name="map_album_detail_page_title">Localização</string>
     <string name="map_enable_position_service_message">Para ver fotos e vídeos no mapa, ligue os serviços de localização primeiro.</string>
     <string name="map_enable_position_service_title">Ligue os serviços de localização</string>
-    <string name="map_grant_position_permission_after_declined_twice_message">Para ver fotos e vídeos no mapa, permita que a galeria acesse sua localização primeiro.</string>
+    <string name="map_grant_position_permission_after_declined_twice_message">Para ver fotos e vídeos no mapa, permita que a Galeria acesse sua localização primeiro.</string>
     <string name="map_grant_position_permission_subtitle">Para mostrar fotos e vídeos próximos no mapa</string>
     <string name="map_guide_message">Veja suas fotos e vídeos no mapa</string>
     <string name="map_location">Mover para a localização atual</string>
     <string name="map_positioning_failed_tip">"Não é possível obter informações de localização devido ao sinal fraco"</string>
     <string name="map_privacy_dialog_content"><Data>Este serviço permite que você visualize fotos e vídeos com informações de localização em um mapa. Usamos o Baidu Map Open SDK para fornecer esse serviço. Leia e concorde com a &lt;a href=\"%1$s\">Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria&lt;/a> antes de continuar.</Data></string>
     <string name="map_privacy_dialog_message"><Data>Este serviço permite que você visualize fotos e vídeos com informações de localização em um mapa. Usamos o Baidu Map Open SDK para fornecer este serviço. Leia a &lt;a href=\"%1$s\">Política de Privacidade do Mapa Baidu para Produtos e Serviços de Plataforma Aberta&lt;/a> para saber mais.</Data></string>
-    <string name="map_privacy_dialog_title">Mapa da galeria</string>
+    <string name="map_privacy_dialog_title">Mapa da Galeria</string>
     <string name="map_privacy_policy">Política de Privacidade do Mapa da Galeria</string>
     <string name="map_privacy_policy_1">Política de Privacidade</string>
     <string name="mark_myself_default_name">Eu</string>
@@ -2563,7 +2563,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="privacy_detail">Ver Política de Privacidade</string>
     <string name="privacy_detail_map">Veja a Política de Privacidade do Mapa da Galeria</string>
     <string name="privacy_entrance">Privacidade</string>
-    <string name="privacy_map">Mapa da galeria</string>
+    <string name="privacy_map">Mapa da Galeria</string>
     <string name="privacy_map_detail"><Data>Este serviço permite que você visualize fotos e vídeos com informações de localização em um mapa. Usamos o Baidu Map Open SDK para fornecer este serviço. Leia e concorde com a &lt;a href=\"%1$s\">Política de Privacidade do Mapa Baidu para Produtos e Serviços de Plataforma Aberta&lt;/a> antes de continuar.</Data></string>
     <string name="privacy_map_detail_content">Política de Privacidade do Mapa Baidu para Produtos e Serviços de Plataforma Aberta</string>
     <string name="privacy_map_detail_content_new">Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria</string>
@@ -2592,7 +2592,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="privacy_reject_map_detail_new"><Data>"Sua retirada de consentimento para a &lt;a href=\"%1$s\">Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria&lt;/a> será considerada como recusa em aceitar serviços de mapa da Galeria. Você ainda poderá usar outros recursos da Galeria normalmente. Retirar o consentimento agora?"</Data></string>
     <string name="privacy_rejected">Retirada de consentimento</string>
     <string name="privacy_rejected_map">Retirar o consentimento para a Política de Privacidade do Mapa da Galeria</string>
-    <string name="privacy_rejected_map_detail">"Sua retirada de consentimento para a Política de Privacidade do Mapa da Galeria será realizada como se recusando a aceitar seus serviços. Outros recursos básicos e serviços da galeria não serão afetados. Retirar mesmo assim?"</string>
+    <string name="privacy_rejected_map_detail">"Sua retirada de consentimento para a Política de Privacidade do Mapa da Galeria será realizada como se recusando a aceitar seus serviços. Outros recursos básicos e serviços da Galeria não serão afetados. Retirar mesmo assim?"</string>
     <string name="privacy_rejected_map_new">Retirada de consentimento para a Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria</string>
     <string name="privacy_rejected_pos_btn">Retirar</string>
     <string name="privacy_share_album_confirm">Termos e Condições</string>
@@ -2725,7 +2725,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="request_error_unknown">Ocorreu um erro de sistema. Volte e tente novamente.</string>
+    <string name="request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
     <string name="request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
     <string name="request_qr_code_failed">"Não foi possível obter o código QR"</string>
     <string name="request_sms_url_failed">"Não foi possível obter informações"</string>

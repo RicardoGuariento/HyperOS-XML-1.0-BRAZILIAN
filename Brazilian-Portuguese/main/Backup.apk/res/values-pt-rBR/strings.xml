@@ -331,7 +331,7 @@ Não altere ou renomeie os arquivos de backup."</string>
     <string name="hsa_title">Autenticação de dois fatores</string>
     <string name="hsa_verify_failed">Falha na autenticação de dois fatores</string>
     <string name="hsa_verify_failed_message">Falha na autenticação de dois fatores. Você pode tentar novamente ou desativá-la.</string>
-    <string name="hsa_verify_retry">Tente novamente</string>
+    <string name="hsa_verify_retry">Tentar novamente</string>
     <string name="hsa_verify_shutdown">Desativar</string>
     <string name="iCloud_ID_verification_tip">Toque em \"Permitir\" no seu dispositivo Apple para fazer com que o código de verificação apareça. Insira o código de verificação aqui.</string>
     <string name="icloud_backup_tip">Faça o login na conta iCloud do seu dispositivo iOS antigo</string>
@@ -718,7 +718,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="restore_progress">Restaurando…</string>
     <string name="restore_report">Detalhes da restauração</string>
     <string name="restore_telephony_hit">A restauração reiniciará o app Telefone.</string>
-    <string name="retry">Tente novamente</string>
+    <string name="retry">Tentar novamente</string>
     <string name="reverse_all">Desmarcar todos</string>
     <string name="revoke_permission_dialog_content">"Você não poderá fazer backup ou restaurar itens sem todas as permissões obrigatórias. Retirar permissões mesmo assim?"</string>
     <string name="router_backup_hint">Mantenha seu dispositivo ligado</string>
@@ -961,7 +961,7 @@ para baixar e instalar o Mi Mover."</string>
     <string name="trans_intro_desc_4_market">"O Mi Mover usa o Wi-Fi para transferir arquivos. Este é o motivo pelo o qual não pode conectar-se à internet via Wi-Fi durante a transferência. Pode continuar usando dados móveis, entretanto."</string>
     <string name="trans_intro_desc_5">O espaço de armazenamento nos dispositivos antigos é usado para criar os pacotes de transferência. Certifique-se de que você tem no mínimo 500 MB - 1 GB de armazenamento disponível no seu dispositivo antigo antes de iniciar uma transferência.</string>
     <string name="trans_intro_desc_6">Existem vários fatores que podem causar isso: problemas de versão de compatibilidade entre o sistema e apps, problemas de rede, problemas de compatibilidade específicos de um dispositivo, etc.</string>
-    <string name="trans_intro_desc_7">Alguns perfis de apps (ex.: e-banking, etc) são associados ao dispositivo que foram instalados inicialmente. Tente limpar os dados do app ou reinstalá-lo no novo dispositivo.</string>
+    <string name="trans_intro_desc_7">Alguns perfis de apps (ex.: e-banking, etc.) são associados ao dispositivo que foram instalados inicialmente. Tente limpar os dados do app ou reinstalá-lo no novo dispositivo.</string>
     <string name="trans_intro_desc_8">"Os dados do WeChat e seu histórico podem não ser transferidos completamente usando o Mi Mover. Acesse as configurações do WeChat e saia da sua conta para aumentar as chances de uma transferência completa."</string>
     <string name="trans_intro_desc_9_method_1_dec">Vá até a Tela inicial > Ferramentas > Feedback.</string>
     <string name="trans_intro_desc_9_method_1_title">1. Compartilhe seu feedback usando o app Feedback.</string>
@@ -1041,7 +1041,7 @@ Mantenha os dispositivos pertos um do outro."</string>
     <string name="trans_receiving_completed">Recebido com sucesso</string>
     <string name="trans_restoring">Restaurando…</string>
     <string name="trans_restoring_no_items">Obtendo informações…</string>
-    <string name="trans_retry">Tente novamente</string>
+    <string name="trans_retry">Tentar novamente</string>
     <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
     <string name="trans_scan_qr_code_tips">Leia o código QR usando o dispositivo novo</string>
     <string name="trans_security_tips_message">"Alguns apps não suportam o Mi Mover."</string>
