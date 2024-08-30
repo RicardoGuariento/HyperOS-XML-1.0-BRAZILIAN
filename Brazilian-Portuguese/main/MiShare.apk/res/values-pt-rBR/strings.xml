@@ -79,7 +79,7 @@
     <string name="device_type_oppo_phone">OPPO</string>
     <string name="device_type_pc">Computador</string>
     <string name="device_type_realme_phone">Realme</string>
-    <string name="device_type_vivo_phone">Vivo</string>
+    <string name="device_type_vivo_phone">"vivo"</string>
     <string name="device_type_xiaomi_phone">"Xiaomi"</string>
     <string name="disconnect">DESCONECTAR</string>
     <string name="early_morning">"AM"</string>
@@ -225,7 +225,7 @@
     <string name="mishare_folder_in_file_explorer">Arquivos > Xiaomi Share</string>
     <string name="mishare_service_channel_desc">Notificações sobre processos do Xiaomi Share</string>
     <string name="mishare_settings_summary_international">"O Xiaomi Share permite que você envie itens sem fio para outros dispositivos próximos.
-Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartphones. Você pode conferir a lista de dispositivos suportados no site oficial de qualquer marca selecionada."</string>
+Este recurso é suportado pela OPPO, vivo, Realme e outros fabricantes de smartphones. Você pode conferir a lista de dispositivos suportados no site oficial de qualquer marca selecionada."</string>
     <string name="mishare_state_protection">Ativar o Xiaomi Share automaticamente</string>
     <string name="mishare_state_protection_summary">Ativa o Xiaomi Share automaticamente quando o Bluetooth ou o Wi-Fi forem reativados</string>
     <string name="mishare_state_protection_summary_china">Ativa o Xiaomi Share automaticamente quando o Bluetooth ou o Wi-Fi forem reativados</string>
@@ -540,8 +540,8 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="view_file">Visualizar</string>
-    <string name="vivo">vivo</string>
-    <string name="vivo_phone">vivo</string>
+    <string name="vivo">"vivo"</string>
+    <string name="vivo_phone">"vivo"</string>
     <string name="wait_receive_file">Aguardando para receber…</string>
     <string name="wait_remote_receive_tips">"Verifique se as telas dos dois dispositivos estão ligadas e se o Wi-Fi e o Bluetooth estão ativado."</string>
     <string name="wait_remote_receive_tips_china">"Verifique se as telas dos dois dispositivos estão ligadas e se o Wi-Fi e o Bluetooth estão ativado."</string>

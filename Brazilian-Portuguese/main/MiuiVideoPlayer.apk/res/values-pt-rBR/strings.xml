@@ -112,8 +112,8 @@
     <string name="alert_dialog_download_progress">"Baixando o app: "</string>
     <string name="all">Mostrar tudo</string>
     <string name="am">"AM"</string>
-    <string name="app_description_content">O Mi Vídeo é um app do sistema que contém um reprodutor de vídeos locais. Você ainda poderá reproduzir arquivos de vídeo após remover o atalho da Tela inicial.</string>
-    <string name="app_description_title">Remover \"Mi Vídeo\" da Tela inicial?</string>
+    <string name="app_description_content">Mi Vídeo é um app do sistema que contém um reprodutor de vídeos locais. Você ainda poderá reproduzir arquivos de vídeo após remover o atalho da Tela inicial.</string>
+    <string name="app_description_title">Remover Mi Vídeo da Tela inicial?</string>
     <string name="app_name">Mi Vídeo</string>
     <string name="auth_again">Aceitar</string>
     <string name="auth_fail_warning">Sessão expirada. Faça o login novamente.</string>
@@ -1152,11 +1152,11 @@ Usaremos essa permissão apenas para encontrar os vídeos que você procura e n�
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
-    <string name="mr_button_content_description">Botão \"Transmitir\"</string>
-    <string name="mr_cast_button_connected">Botão \"Transmitir\". Conectado</string>
-    <string name="mr_cast_button_connecting">Botão \"Transmitir\". Conectando</string>
-    <string name="mr_cast_button_disconnected">Botão \"Transmitir\". Desconectado</string>
-    <string name="mr_cast_dialog_title_view_placeholder">Sem informações disponíveis</string>
+    <string name="mr_button_content_description">Transmitir</string>
+    <string name="mr_cast_button_connected">Transmitir. Conectado</string>
+    <string name="mr_cast_button_connecting">Transmitir. Conectando</string>
+    <string name="mr_cast_button_disconnected">Transmitir. Desconectado</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Nenhuma informação disponível</string>
     <string name="mr_chooser_searching">Localizando dispositivos</string>
     <string name="mr_chooser_title">Transmitir para</string>
     <string name="mr_controller_album_art">Arte do álbum</string>
@@ -1176,7 +1176,7 @@ Usaremos essa permissão apenas para encontrar os vídeos que você procura e n�
     <string name="mr_dialog_route_header">Reproduzir em um grupo</string>
     <string name="mr_dialog_default_group_name">Grupo</string>
     <string name="mr_dialog_groupable_header">Adicionar um dispositivo</string>
-    <string name="mr_dialog_transferable_header">Reproduzir em grupo</string>
+    <string name="mr_dialog_transferable_header">Reproduzir em um grupo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivos</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>

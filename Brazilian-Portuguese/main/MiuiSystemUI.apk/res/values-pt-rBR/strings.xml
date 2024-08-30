@@ -1846,10 +1846,10 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="mount_storage">Sim</string>
-    <string name="mr_button_content_description">Botão \"Transmitir\"</string>
-    <string name="mr_cast_button_connected">Botão \"Transmitir\". Conectado</string>
-    <string name="mr_cast_button_connecting">Botão \"Transmitir\". Conectando</string>
-    <string name="mr_cast_button_disconnected">Botão \"Transmitir\". Desconectado</string>
+    <string name="mr_button_content_description">Transmitir</string>
+    <string name="mr_cast_button_connected">Transmitir. Conectado</string>
+    <string name="mr_cast_button_connecting">Transmitir. Conectando</string>
+    <string name="mr_cast_button_disconnected">Transmitir. Desconectado</string>
     <string name="mr_cast_dialog_title_view_placeholder">Nenhuma informação disponível</string>
     <string name="mr_chooser_searching">Localizando dispositivos</string>
     <string name="mr_chooser_title">Transmitir para</string>
@@ -1859,8 +1859,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="mr_controller_collapse_group">Recolher</string>
     <string name="mr_controller_disconnect">Desconectar</string>
     <string name="mr_controller_expand_group">Expandir</string>
-    <string name="mr_controller_no_info_available">Informações indisponíveis</string>
-    <string name="mr_controller_no_media_selected">Mídia não selecionada</string>
+    <string name="mr_controller_no_info_available">Nenhuma informação disponível</string>
+    <string name="mr_controller_no_media_selected">Nenhuma mídia selecionada</string>
     <string name="mr_controller_pause">Pausar</string>
     <string name="mr_controller_play">Reproduzir</string>
     <string name="mr_controller_stop">Parar</string>
@@ -3744,9 +3744,9 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="note_task_button_label">Tomando notas</string>
     <string name="notification_channel_instant">Apps instantâneos</string>
     <string name="notification_channel_setup">Configurar</string>
-    <string name="pip_menu_accessibility_title">Menu imagem em imagem</string>
+    <string name="pip_menu_accessibility_title">Menu Picture-in-Picture</string>
     <string name="screenrecord_save_error">Erro ao salvar a gravação da tela</string>
-    <string name="screenrecord_title">Gravador de ecrã</string>
+    <string name="screenrecord_title">Gravador de tela</string>
     <string name="screenshot_blocked_by_admin">A captura de tela foi bloqueada pelo administrador de TI</string>
     <string name="screenshot_default_files_app_name">arquivos</string>
     <string name="screenshot_detected_multiple_template">%1$s e outros apps abertos detectaram esta captura de tela.</string>
