@@ -95,7 +95,7 @@
     <string name="menu_record_stop">Parar gravação</string>
     <string name="menu_save_station_list">Adicionar aos predefinidos</string>
     <string name="menu_save_station_presets">Adicionar aos predefinidos</string>
-    <string name="menu_scan_start">Procurar</string>
+    <string name="menu_scan_start">Pesquisar</string>
     <string name="menu_sleep">Timer de desativação</string>
     <string name="menu_sleep_cancel">Cancelar timer</string>
     <string name="menu_speaker">Mudar para o alto-falante</string>
@@ -119,7 +119,7 @@
     <string name="privacy_authorize_network_error">Este app precisa se conectar à internet e verificar suas informações para que você possa retirar seu consentimento. Conecte-se à rede e tente novamente.</string>
     <string name="privacy_authorize_revoke_failed">"Não foi possível retirar o consentimento"</string>
     <string name="privacy_authorize_revoke_success">Consentimento retirado com sucesso</string>
-    <string name="privacy_authorize_revoking">Retirando o consentimento…</string>
+    <string name="privacy_authorize_revoking">Retirando consentimento…</string>
     <string name="radio_station_name">Nome da estação</string>
     <string name="radio_station_submit">Enviar estação</string>
     <string name="read_and_agree_fm_protocol"><Data>"Li e aceito o &lt;font color=\"%1$s\">&lt;/color>&lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"%3$s\">&lt;/color>&lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Xiaomi."</Data></string>
@@ -128,7 +128,7 @@
     <string name="remove_user_privacy_title">Retirada de consentimento</string>
     <string name="report">Reportar</string>
     <string name="resident_push_switch">Receber notificações permanentes</string>
-    <string name="retry">Tente novamente</string>
+    <string name="retry">Tentar novamente</string>
     <string name="runtime_permission_ungranted">"Não é possível iniciar a gravação devido a permissões não concedidas"</string>
     <string name="search">Pesquisar</string>
     <string name="search_dialog_title">Procurar estações</string>
@@ -137,7 +137,7 @@
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_submit_hint">Nenhum resultado encontrado. Toque abaixo para enviar uma nova estação de rádio.</string>
     <string name="setting">Configurações</string>
-    <string name="station_check_favorite">Adicionar às predefinidas</string>
+    <string name="station_check_favorite">Adicionar aos prefedinidos</string>
     <string name="stations_list">Lista de estações</string>
     <string name="stations_list_empty">Nenhuma predefinição</string>
     <string name="submit">Enviar</string>
@@ -159,7 +159,7 @@
     <string name="toast_fm_recorder_storage_full">"Não é possível continuar a gravação: espaço insuficiente"</string>
     <string name="toast_fm_seeking">Sintonizando…</string>
     <string name="toast_fm_starting">Iniciando…</string>
-    <string name="toast_removed_from_presets">Removido das predefinidas</string>
+    <string name="toast_removed_from_presets">Removido dos prefedinidos</string>
     <string name="toast_select_none">"Você não selecionou nenhum item"</string>
     <string name="toast_sleep_mode">O rádio parará de reproduzir em %s</string>
     <string name="toast_sleep_mode_exit">Timer cancelado</string>

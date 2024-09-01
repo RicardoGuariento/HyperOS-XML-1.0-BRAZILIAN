@@ -203,6 +203,8 @@
     <string name="pay_entry_dialog_title_select">Selecionar app para abrir</string>
     <string name="pay_entry_dialog_title_setting">Definir app</string>
     <string name="permission_desc">Detalhes de permissões</string>
+    <string name="pin_toast">Deslize de baixo para cima na tela e faça uma pausa para desafixar este app</string>
+    <string name="pin_toast_nav">Pressione e segure os botões Voltar e Visualizar para desafixar este app</string>
     <string name="pm">"PM"</string>
     <string name="pref_category_mipay">Atalhos do NFC</string>
     <string name="pref_category_others">Outros</string>
@@ -312,7 +314,7 @@
     <string name="tuesday_shortest">Ter</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
-    <string name="view_privacy">Ver a Política de Privacidade</string>
+    <string name="view_privacy">Política de Privacidade</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

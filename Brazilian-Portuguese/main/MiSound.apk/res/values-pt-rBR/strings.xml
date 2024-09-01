@@ -40,6 +40,14 @@
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="chip_text">Texto do chip</string>
     <string name="choose_bluetooth_device">Selecione o dispositivo</string>
+    <string name="clean_speaker_auto_clean">Limpando o alto-falante</string>
+    <string name="clean_speaker_cleaning">Limpando…</string>
+    <string name="clean_speaker_complete">Concluído</string>
+    <string name="clean_speaker_intro">Agite o seu dispositivo conforme exibido na imagem para melhores resultados. Segure firmemente o dispositivo para não derrubá-lo.</string>
+    <string name="clean_speaker_remove_devices">Desconecte os fones de ouvido e outros dispositivos Bluetooth</string>
+    <string name="clean_speaker_start_clean">Iniciar</string>
+    <string name="clean_speaker_tips">A limpeza leva %1$d segundos. Não saia desta página. Aumente o volume ao máximo para obter o melhor efeito.</string>
+    <string name="clean_speaker_title">Limpar alto-falante</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
@@ -59,6 +67,33 @@
     <string name="dolby_dax_profile_dynamic">Dinâmico</string>
     <string name="dolby_dax_setting">Efeitos Dolby</string>
     <string name="dolby_dax_title">Som surround</string>
+    <string name="ear_canal_scan_function_description">Análise do canal auditivo</string>
+    <string name="ear_canal_scan_function_name">Experimente um som otimizado com base no formato de sua orelha</string>
+    <string name="ear_canal_scan_notice_disconnect">A análise foi interrompida. Verifique se os fones de ouvido estão conectados.</string>
+    <string name="ear_canal_scan_notice_prepare">Coloque os dois fones de ouvido e ajuste-os em uma posição confortável.</string>
+    <string name="ear_canal_scan_notice_running">"Não tire os fones de ouvido"</string>
+    <string name="ear_canal_scan_toast_calling">Encerre a chamada em andamento antes de ativar o Som adaptativo</string>
+    <string name="ear_canal_scan_toast_no_double_headset">Coloque os dois fones de ouvido</string>
+    <string name="ear_scan_begin_text">Iniciar</string>
+    <string name="ear_scan_doing_text">Analisando…</string>
+    <string name="ear_scan_effect_desp_one">Som otimizado com base no formato de sua orelha</string>
+    <string name="ear_scan_effect_in_use">Em uso</string>
+    <string name="ear_scan_effect_off_button_text">Antes</string>
+    <string name="ear_scan_effect_off_icon_text">Som real</string>
+    <string name="ear_scan_effect_on_button_text">Depois</string>
+    <string name="ear_scan_effect_on_icon_text">Som ideal</string>
+    <string name="ear_scan_effect_playing">Reproduzindo</string>
+    <string name="ear_scan_effect_to_use">Toque para ouvir</string>
+    <string name="ear_scan_exit_text">Sair</string>
+    <string name="ear_scan_headset_disconnect_msg">Seus fones de ouvido estão desconectados. Conecte-os novamente para poder continuar.</string>
+    <string name="ear_scan_headset_disconnect_positive">Entendi</string>
+    <string name="ear_scan_headset_disconnect_title">Desconectado</string>
+    <string name="ear_scan_left_ear">Esquerda</string>
+    <string name="ear_scan_re_scan_button_text">Analisar novamente</string>
+    <string name="ear_scan_redo_dialog_msg">"Se continuar, você iniciará novamente a análise do canal auditivo e o teste de ajuste. Os registros de calibração anteriores serão apagados. Continuar mesmo assim?"</string>
+    <string name="ear_scan_redo_dialog_title">Analisar novamente?</string>
+    <string name="ear_scan_right_ear">Direita</string>
+    <string name="ear_scan_scan_done">Concluído</string>
     <string name="early_morning">"AM"</string>
     <string name="effect_3dsurround">Som imersivo</string>
     <string name="effect_3dsurround_summary">Aumenta a profundidade da reprodução de sons para fones de ouvido e alto-falantes</string>
@@ -300,7 +335,7 @@
     <string name="music_audio_effect_settings">Configurações de efeitos</string>
     <string name="music_audio_visual_wake_lock">Manter a tela ligada</string>
     <string name="music_audio_visual_wake_lock_summary">Mantém a tela ativa em quanto os efeitos visuais estão sendo exibidos</string>
-    <string name="music_below_thirty_years">Até %d anos de idade</string>
+    <string name="music_below_thirty_years">Até %d anos</string>
     <string name="music_customized_sound_summary">Personalize o volume de acordo com a sua percepção auditiva</string>
     <string name="music_customized_sound_title">Ajuste de volume</string>
     <string name="music_delete">Excluir</string>
@@ -324,7 +359,7 @@
     <string name="music_dirac_mode_in_ear_pro">"Mi In-Ear Pro"</string>
     <string name="music_dirac_mode_india_earphones">"Mi Earphones"</string>
     <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Básico</string>
-    <string name="music_dirac_mode_mi_dual_driver_in_ear_earphones">"Fones de ouvido Mi Dual Driver In-ear"</string>
+    <string name="music_dirac_mode_mi_dual_driver_in_ear_earphones">Fones de ouvido Mi Dual Driver In-ear</string>
     <string name="music_dirac_mode_off">Dirac desativado</string>
     <string name="music_dirac_mode_piston_1">Mi Piston 1</string>
     <string name="music_dirac_mode_piston_100">"Mi Piston"</string>
@@ -334,7 +369,7 @@
     <string name="music_dirac_mode_piston_standard">Edição Padrão</string>
     <string name="music_dirac_mode_piston_typec">Mi In-Ear Headphones (Tipo-C)</string>
     <string name="music_dirac_mode_piston_youth">Edição Youth</string>
-    <string name="music_dirac_mode_redmi_earphones">"Fones de ouvido Redmi"</string>
+    <string name="music_dirac_mode_redmi_earphones">Fones de ouvido Redmi</string>
     <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling Tipo-C</string>
     <string name="music_dolby_mode_movie">Vídeo</string>
     <string name="music_dolby_mode_music">Música</string>
@@ -384,7 +419,7 @@
     <string name="music_headset_settings">Efeitos sonoros</string>
     <string name="music_hifi_summary">Reduz o ruído e distorção e aumenta a qualidade do áudio</string>
     <string name="music_hifi_title">Áudio Hi-Fi</string>
-    <string name="music_mi_effect_summary">Use o amplificador Mi Sound com alto-falantes</string>
+    <string name="music_mi_effect_summary">Use o Amplificador Mi Sound com alto-falantes</string>
     <string name="music_mi_effect_title">Amplificador Mi Sound</string>
     <string name="music_open_customized_sound_summary">Personalize o volume de acordo com a sua percepção auditiva</string>
     <string name="music_open_customized_sound_title">Ajuste de volume</string>
@@ -397,10 +432,10 @@
     <string name="music_sound_num">Predef. personalizada %s</string>
     <string name="music_sound_sample">Predefinições do sistema</string>
     <string name="music_sure_to_delete_sound_msg">Excluir as predefinições selecionadas?</string>
-    <string formatted="false" name="music_thirty_to_sixty_years">%d-%d anos de idade</string>
+    <string formatted="false" name="music_thirty_to_sixty_years">%d-%d anos</string>
     <string name="music_title_dolby_control">"Dolby Digital Plus"</string>
     <string name="music_unsupport_effect_summary">"Fones de ouvido USB não são suportados"</string>
-    <string name="music_upper_sixty_years">Mais de %d anos de idade</string>
+    <string name="music_upper_sixty_years">Mais de %d anos</string>
     <string name="name">Nome</string>
     <string name="night">"PM"</string>
     <string name="noon">"PM"</string>
@@ -477,12 +512,9 @@
     <string name="sound_id_function_description">Personalize a curva EQ com base em suas preferências</string>
     <string name="sound_id_function_name">Som personalizado</string>
     <string name="sound_id_headset_status">Fones de ouvido atual</string>
-    <string name="sound_id_hz_high">"Agudo
-%d Hz"</string>
-    <string name="sound_id_hz_low">"Graves
-%d Hz"</string>
-    <string name="sound_id_hz_media">"Intervalo médio
-%d Hz"</string>
+    <string name="sound_id_hz_high">Agudos %d Hz</string>
+    <string name="sound_id_hz_low">Graves %d Hz</string>
+    <string name="sound_id_hz_media">Médios %d Hz</string>
     <string name="sound_id_music_one_description">Leve | %d s</string>
     <string name="sound_id_music_one_title">Cidade chuvosa</string>
     <string name="sound_id_music_three_description">Melódico | %d s</string>
@@ -533,8 +565,8 @@
     <string name="sound_transmission_stop">Pausar</string>
     <string name="sound_transmission_title">Microfone sem fios</string>
     <string name="spatial_audio">Som imersivo</string>
-    <string name="spatial_audio_summary">Experimente imersão e sensação de espaço quando o áudio é reproduzido por meio de fones de ouvido</string>
-    <string name="spatial_audio_summary_spk">Experimente imersão e sensação de espaço quando o áudio é reproduzido</string>
+    <string name="spatial_audio_summary">Experimente a imersão e sensação de espaço quando o áudio é reproduzido por meio de fones de ouvido</string>
+    <string name="spatial_audio_summary_spk">Experimente a imersão e sensação de espaço quando o áudio é reproduzido</string>
     <string name="speaker_scenario_resume">Restaurar efeitos originais</string>
     <string name="start_test_sound">Iniciar o teste</string>
     <string name="sunday">Domingo</string>
@@ -601,6 +633,28 @@
     <string name="tuesday_shortest">Ter</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
+    <string name="voice_print_change_in_call">"Não é possível alterar a impressão de voz durante chamadas"</string>
+    <string name="voice_print_delete">Excluir impressão de voz</string>
+    <string name="voice_print_delete_dialog_message">Os itens selecionados serão excluídos permanentemente</string>
+    <string name="voice_print_dialog_message">"Para poder usar esse recurso, você precisa gravar a sua impressão de voz primeiro. Ela será coletada e processada apenas neste dispositivo, e não será carregada para a nuvem. Gravar agora?"</string>
+    <string name="voice_print_dialog_negative">Sair</string>
+    <string name="voice_print_dialog_positive">Gravar</string>
+    <string name="voice_print_dialog_title">Impressão de voz necessária</string>
+    <string name="voice_print_finish">Concluído</string>
+    <string name="voice_print_name_change">Alterar nome da impressão de voz</string>
+    <string name="voice_print_new">Gravar nova impressão de voz</string>
+    <string formatted="false" name="voice_print_note_description">A otimização da impressão de voz é uma tecnologia fornecida por IA que utiliza as características vocais exclusivas dos usuários para redução de ruído. Essa tecnologia depende de atributos acústicos individuais, como a entonação, o tom e a velocidade da fala. Antes de usar esta tecnologia, você precisa gravar aproximadamente %d a %d segundos da sua voz. O sistema aprenderá com a sua voz, preservando-a durante chamadas e filtrando ruídos de fundo ou outras vozes.</string>
+    <string name="voice_print_note_device">Desconecte dispositivos externos antes de gravar</string>
+    <string name="voice_print_note_environment">"Grave sozinho em um local silencioso. Mantenha o dispositivo a cerca de meio braço de distância de você. Em seguida, pressione e segure o botão abaixo e leia o texto a seguir em um ritmo constante, usando sua voz normal."</string>
+    <string name="voice_print_note_generate_error">"Não foi possível gerar a impressão de voz. Grave novamente."</string>
+    <string name="voice_print_note_generating">Reconhecendo impressão de voz…</string>
+    <string name="voice_print_note_in_call">"Não é possível gravar uma impressão de voz durante chamadas"</string>
+    <string name="voice_print_num">Impressão de voz %s</string>
+    <string name="voice_print_pref_name">Gravar impressão de voz</string>
+    <string name="voice_print_press">Pressione e segure para gravar</string>
+    <string name="voice_print_re_record">Gravar novamente</string>
+    <string name="voice_print_select">Selecionar impressão de voz</string>
+    <string name="voice_print_toast_environment">Grave em um ambiente silencioso</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

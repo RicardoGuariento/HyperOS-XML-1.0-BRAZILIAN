@@ -141,7 +141,7 @@
     <string name="long_screenshot_content_loading">Aguarde…</string>
     <string name="long_screenshot_content_manual">Ajuste manualmente o ponto final da captura de tela e toque em \"Concluído\".</string>
     <string name="long_screenshot_done">Concluído</string>
-    <string name="long_screenshot_error">Um erro ocorreu. Tente novamente.</string>
+    <string name="long_screenshot_error">Ocorreu um erro. Tente novamente.</string>
     <string name="long_screenshot_guide_text">"Toque para fazer
 uma captura de tela estendida"</string>
     <string name="long_screenshot_intercepted_error">"Ocorreu uma interrupção. A captura de tela foi salva na Galeria."</string>
@@ -236,7 +236,7 @@ uma captura de tela estendida"</string>
     <string name="not_set">Não configurado</string>
     <string name="operation_send">Enviar</string>
     <string name="notification_channel_alerts">Alertas</string>
-    <string name="pad_device_model_name">Mi Pad</string>
+    <string name="pad_device_model_name">"Xiaomi Pad"</string>
     <string name="partial_screenshot_edit">Editar</string>
     <string name="partial_screenshot_failed_to_capture_title">"Não é possível fazer capturas de tela desta página"</string>
     <string name="partial_screenshot_failed_to_save_title">"Não foi possível salvar. Não há espaço de armazenamento suficiente."</string>
@@ -261,7 +261,7 @@ uma captura de tela estendida"</string>
     <string name="photo_editor_talkback_redo">Refazer</string>
     <string name="photo_editor_talkback_undo">Desfazer</string>
     <string name="photo_editor_text">Texto</string>
-    <string name="photo_font_download_failed_for_notwork">"Não foi possível fazer o download. Conecte-se à rede e tente novamente."</string>
+    <string name="photo_font_download_failed_for_notwork">"Não foi possível baixar. Conecte-se à rede e tente novamente."</string>
     <string name="photo_save_to_msg">Salvo em %s</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
@@ -447,7 +447,7 @@ uma captura de tela estendida"</string>
     <string name="tips_prompt_enable_midrop">"Xiaomi Share"</string>
     <string name="toast_download_with_metered_network_btn_continue">Baixar</string>
     <string name="toast_download_with_metered_network_msg">"Parece que seu dispositivo não está conectado ao Wi-Fi. Baixar itens usando dados móveis?"</string>
-    <string name="toast_download_with_metered_network_title">Aviso de uso de dados</string>
+    <string name="toast_download_with_metered_network_title">Aviso sobre o uso de dados</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>

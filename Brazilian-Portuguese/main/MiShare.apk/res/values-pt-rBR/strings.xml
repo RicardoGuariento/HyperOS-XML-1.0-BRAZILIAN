@@ -132,7 +132,7 @@
     <string name="file_cannot_screen_throw">"Não é possível transmitir este item."</string>
     <string name="file_receive_progress">Progresso: %1$d%%</string>
     <string name="file_receive_progress_title">Progresso</string>
-    <string name="file_received_successfully_from_pc">Foram recebidos mais de 200 arquivos de %1$s com sucesso</string>
+    <string name="file_received_successfully_from_pc">Mais de %2$d arquivos recebidos de %1$s com sucesso</string>
     <string name="file_sending">Transferindo arquivos…</string>
     <string name="file_transfer_progress">Progresso: %1$d%%</string>
     <string name="file_transfer_progress_title">Progresso</string>
@@ -205,8 +205,8 @@
     <string name="menu_item_privacy_setting_title">Privacidade</string>
     <string name="menu_item_privacy_title">Política de Privacidade</string>
     <string name="menu_item_support_device_title">Dispositivos suportados</string>
-    <string name="menu_item_view_privacy_policy_title">Ver Política de Privacidade</string>
-    <string name="menu_item_view_user_protocol_title">Ver Contrato do Usuário</string>
+    <string name="menu_item_view_privacy_policy_title">Política de Privacidade</string>
+    <string name="menu_item_view_user_protocol_title">Contrato do Usuário</string>
     <string name="menu_item_withdraw_privacy_policy_consent_title">Retirada de consentimento</string>
     <string name="mi_10i">Mi 10I</string>
     <string name="mi_10t">Mi 10T</string>
@@ -221,7 +221,7 @@
     <string name="mi_pad_5_pro_5g">Mi Pad 5 Pro 5G</string>
     <string name="mi_share_turbo_mode">Transferência turbo</string>
     <string name="midnight">"AM"</string>
-    <string name="mini_pc_xiaomi_device_model_name">Mini PC Xiaomi</string>
+    <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
     <string name="mishare_folder_in_file_explorer">Arquivos > Xiaomi Share</string>
     <string name="mishare_service_channel_desc">Notificações sobre processos do Xiaomi Share</string>
     <string name="mishare_settings_summary_international">"O Xiaomi Share permite que você envie itens sem fio para outros dispositivos próximos.
@@ -327,7 +327,7 @@ Este recurso é suportado pela OPPO, vivo, Realme e outros fabricantes de smartp
     <string name="operate_too_fast">Muito rápido! Aguarde até que as operações em andamento sejam concluídas.</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
-    <string name="pad_device_model_name">"Mi Pad"</string>
+    <string name="pad_device_model_name">"Xiaomi Pad"</string>
     <string name="pc_device_model_name">Computador</string>
     <string name="pc_redmi_device_model_name">Notebook Redmi</string>
     <string name="pc_xiaomi_device_model_name">Notebook Xiaomi</string>

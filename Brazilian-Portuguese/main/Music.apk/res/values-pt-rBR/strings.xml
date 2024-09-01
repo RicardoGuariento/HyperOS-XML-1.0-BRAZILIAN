@@ -288,7 +288,7 @@ Depois de optar por limpar permanentemente todos os dados, você será desconect
     <string name="asm_online_service_switch">Ative os serviços online nas configurações do app</string>
     <string name="asm_page_empty_search">"Não foi possível encontrar os resultados"</string>
     <string name="asm_page_error_airplane">Desligue o Modo avião para poder se conectar</string>
-    <string name="asm_page_error_data">Um erro ocorreu</string>
+    <string name="asm_page_error_data">Ocorreu um erro</string>
     <string name="asm_page_error_no_network">"Não foi possível conectar-se à rede"</string>
     <string name="asm_page_local_empty_action">Descubra novas músicas</string>
     <string name="asm_pay_info_deduction_failed">"Não foi possível concluir o pagamento automático. Verifique sua forma de pagamento para evitar a perda de benefícios da sua assinatura VIP."</string>
@@ -2168,9 +2168,9 @@ Toque em %s para iniciar este download da próxima vez que você estiver conecta
     <string name="youtube_delete_dialog_title">Remover dos favoritos</string>
     <string name="youtube_download_canl">Cancelar</string>
     <string name="youtube_download_fail_net">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
-    <string name="youtube_download_fail_source">Um erro ocorreu. Aguarde um momento e tente novamente.</string>
+    <string name="youtube_download_fail_source">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
     <string name="youtube_download_fail_space">"Não foi possível baixar. Espaço de armazenamento insuficiente."</string>
-    <string name="youtube_download_fail_unknown">Um erro ocorreu. Aguarde um momento e tente novamente.</string>
+    <string name="youtube_download_fail_unknown">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
     <string name="youtube_download_hint">O áudio deste vídeo será armazenado no seu dispositivo em formato MP3 com o título do vídeo como nome do arquivo. Baixar agora?</string>
     <string name="youtube_download_ing">Aguarde…</string>
     <string name="youtube_download_start">Baixar</string>

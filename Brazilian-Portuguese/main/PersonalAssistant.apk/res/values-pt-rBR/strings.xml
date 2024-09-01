@@ -511,7 +511,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_picker_detail_download_maml_dialog_checkbox_text">"Não mostrar novamente em %d minutos"</string>
     <string name="pa_picker_detail_download_maml_dialog_confirm">Baixar</string>
     <string name="pa_picker_detail_download_maml_dialog_message">%s de dados móveis é necessário para baixar este widget. Baixar mesmo assim?</string>
-    <string name="pa_picker_detail_download_maml_dialog_title">Aviso de uso de dados</string>
+    <string name="pa_picker_detail_download_maml_dialog_title">Aviso sobre o uso de dados</string>
     <string name="pa_picker_detail_edit_maml_net_unavailable">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
     <string name="pa_picker_detail_install_tip_un_install">Instale o app primeiro</string>
     <string name="pa_picker_detail_install_tip_un_upgrade">Atualize o app primeiro</string>
@@ -590,7 +590,7 @@ Adicione widgets para começar."</string>
     <string name="pa_picker_tab_title_category">Categorias</string>
     <string name="pa_picker_tab_title_fun">Descobrir</string>
     <string name="pa_picker_tab_title_recommend">Em destaque</string>
-    <string name="pa_picker_theme_app_version_error">Um erro ocorreu</string>
+    <string name="pa_picker_theme_app_version_error">Ocorreu um erro</string>
     <string name="pa_picker_tips_count_limit_forbidden">"Não é possível adicionar mais widgets. Exclua os widgets mais antigos para adicionar novos."</string>
     <string name="pa_picker_toast_add_successfully">Adicionado com sucesso</string>
     <string name="pa_picker_toast_count_limit_for_stack">Adicione até 10 itens</string>
@@ -671,7 +671,7 @@ Adicione widgets para começar."</string>
     <string name="pa_setting_privacy_revoke_no_net_title">"Não foi possível conectar-se à rede"</string>
     <string name="pa_setting_privacy_revoke_positive">Entendi</string>
     <string name="pa_setting_privacy_third_parties">Declaração sobre como compartilhar dados com terceiros</string>
-    <string name="pa_setting_privacy_view_priv">Ver Política de Privacidade</string>
+    <string name="pa_setting_privacy_view_priv">Política de Privacidade</string>
     <string name="pa_setting_simplify_title_bar">Assistente</string>
     <string name="pa_setting_version">Versão: %1$s</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">Bem-vindo ao Shopping! Você pode usar este widget para obter descontos e ofertas de compras. Leia e concorde com a nossa Declaração sobre Serviços de Terceiros e Política de Privacidade antes de continuar.</string>
@@ -683,13 +683,13 @@ Adicione widgets para começar."</string>
     <string name="pa_shopping_page_product_action_bar_title">Todos os produtos</string>
     <string name="pa_shopping_page_product_delete_bar_desc">Excluir produtos</string>
     <string name="pa_shopping_page_product_delete_dialog_message">Excluir %d itens selecionados agora?</string>
-    <string name="pa_shopping_page_product_delete_error">Um erro ocorreu. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="pa_shopping_page_product_delete_error">Ocorreu um erro. Verifique suas configurações de rede e tente novamente.</string>
     <string name="pa_shopping_page_product_item_icon_tag">Recomendado</string>
     <string name="pa_shopping_page_product_item_icon_tag_new">Recomendado</string>
-    <string name="pa_shopping_page_product_jump_setting_error">Um erro ocorreu. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="pa_shopping_page_product_jump_setting_error">Ocorreu um erro. Verifique suas configurações de rede e tente novamente.</string>
     <string name="pa_shopping_page_setting_source_desc">Obtenha descontos e ofertas em produtos</string>
     <string name="pa_shopping_page_setting_statement">Isenção de responsabilidade</string>
-    <string name="pa_shopping_page_setting_update_channel_failure">Um erro ocorreu. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="pa_shopping_page_setting_update_channel_failure">Ocorreu um erro. Verifique suas configurações de rede e tente novamente.</string>
     <string name="pa_shopping_page_setting_widthdraw_desc">Retirar o seu consentimento com a Política de Privacidade do Shopping</string>
     <string name="pa_shopping_page_setting_withdraw">Retirada de consentimento</string>
     <string name="pa_shopping_widget_empty_content_click_desc">Nada aqui ainda</string>

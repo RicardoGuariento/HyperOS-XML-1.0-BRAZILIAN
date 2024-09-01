@@ -102,7 +102,7 @@
     <string name="controls_edit_panel_save_button">Concluído</string>
     <string name="controls_edit_panel_subtitle">Arraste os itens para reorganizar</string>
     <string name="controls_edit_panel_title">Dispositivos adicionados</string>
-    <string name="controls_error_failed">Um erro ocorreu. Tente novamente.</string>
+    <string name="controls_error_failed">Ocorreu um erro. Tente novamente.</string>
     <string name="controls_error_generic">Erro</string>
     <string name="controls_error_removed">Dispositivo removido</string>
     <string name="controls_favorite_default_title">Controles</string>
@@ -124,6 +124,7 @@
     <string name="controls_not_found_device_toast">Este item foi removido no app</string>
     <string name="controls_not_found_device_toast_mihome">Este item foi removido no app</string>
     <string name="controls_offline_device_toast">Este dispositivo está offline. Pressione e segure para abrir o app.</string>
+    <string name="controls_unsupport_toggle_toast">Este dispositivo não suporta ações rápidas. Pressione e segure para abrir o app.</string>
     <string name="controls_pin_instructions">Digite o PIN</string>
     <string name="controls_pin_instructions_retry">Tente outro PIN</string>
     <string name="controls_pin_use_alphanumeric">O PIN contém letras ou símbolos</string>
@@ -133,7 +134,6 @@
     <string name="controls_removed">removido</string>
     <string name="controls_seeding_in_progress">Carregando recomendações</string>
     <string name="controls_structure_tooltip">Deslize para ver mais</string>
-    <string name="controls_unsupport_toggle_toast">"Não é possível controlar este dispositivo daqui. Pressione e segure para abrir o app."</string>
     <string name="copy">Copiar</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -218,6 +218,8 @@
     <string name="miplay_accessibility_play">Reproduzir</string>
     <string name="miplay_accessibility_prev">Música anterior</string>
     <string name="miplay_accessibility_seekbar">Barra de progresso</string>
+    <string name="miplay_accessibility_video_fastForward">Avançar %d segundos</string>
+    <string name="miplay_accessibility_video_rewind">Retroceder %d segundos</string>
     <string name="miplay_accessibility_volume">"Volume"</string>
     <string name="miplay_bluetooth_share_des_text">"Usuários de fones de ouvido Xiaomi: abra o case ou pressione e segure o botão do case por %ds
 Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas configurações do Bluetooth e conecte-os"</string>
@@ -231,6 +233,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="miplay_device_full_name">%2$s do(a) %1$s</string>
     <string name="miplay_headset_lc3_hint">Desative o LC3 para poder alterar a saída de áudio para este dispositivo</string>
     <string name="miplay_not_support_hint">"Este recurso não é compatível"</string>
+    <string name="miplay_service_error_not_support">Esta ação não é suportada</string>
     <string name="miplay_service_timeout_toast">A conexão expirou. Tente novamente.</string>
     <string name="miplay_song_title_empty">Sem músicas</string>
     <string name="miplay_switch_local_device_when_in_audio_share_hint">Encerre o compartilhamento de áudio e tente novamente</string>

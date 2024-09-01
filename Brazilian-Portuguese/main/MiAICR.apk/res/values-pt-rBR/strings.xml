@@ -150,7 +150,7 @@
     <string name="cognition_privacy_revoke_dialog_positive">Cancelar</string>
     <string name="cognition_privacy_revoke_dialog_title">Retirada de consentimento</string>
     <string name="cognition_privacy_setting">Privacidade</string>
-    <string name="cognition_privacy_statement_show">Ver Política de Privacidade</string>
+    <string name="cognition_privacy_statement_show">Política de Privacidade</string>
     <string name="cognition_privacy_statement_string">Política de Privacidade</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
     <string name="common_google_play_services_enable_text">"%1$s só funciona com o Google Play Services ativado."</string>
@@ -396,9 +396,9 @@
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
-    <string name="mtrl_checkbox_state_description_checked">Verificado</string>
-    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente verificado</string>
-    <string name="mtrl_checkbox_state_description_unchecked">Não verificado</string>
+    <string name="mtrl_checkbox_state_description_checked">Marcada</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente marcada</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Desmarcada</string>
     <string name="mtrl_chip_close_icon_content_description">Excluir %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>

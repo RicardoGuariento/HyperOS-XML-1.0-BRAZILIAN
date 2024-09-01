@@ -4790,8 +4790,8 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="gxzw_quick_open_enable_title">Atalhos de impressão digital</string>
     <string name="gxzw_quick_open_fast_summary">Deslize para usar um atalho quando o dispositivo estiver desbloqueado.</string>
     <string name="gxzw_quick_open_fast_title">Swipe rápido (avançado)</string>
-    <string name="gxzw_quick_open_select_summary">· Depois que os atalhos aparecerem, deslize para usar um.</string>
-    <string name="gxzw_quick_open_show_summary">· Mantenha o dedo no ícone da impressão digital após o dispositivo ser desbloqueado para abrir o menu de atalho.</string>
+    <string name="gxzw_quick_open_select_summary">• Depois que os atalhos aparecerem, deslize para usar um.</string>
+    <string name="gxzw_quick_open_show_summary">• Mantenha o dedo no ícone da impressão digital após o dispositivo ser desbloqueado para abrir o menu de atalho.</string>
     <string name="gxzw_quick_open_slow_summary">Pressione e segure o ícone de impressão digital para abrir o menu de atalho. Deslize para usar um atalho.</string>
     <string name="gxzw_quick_open_slow_title">pressione e segure</string>
     <string name="gxzw_quick_open_title">Atalhos</string>
@@ -5445,7 +5445,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="launch_alipay_health_code">Código de saúde Alipay</string>
     <string name="launch_alipay_health_code_auto_close">O atalho do código de saúde Alipay não está mais disponível. Você pode alternar para um atalho diferente.</string>
     <string name="launch_alipay_payment_code">Código de pagamento do Alipay</string>
-    <string name="launch_alipay_scanner">Digitalizador do Alipay</string>
+    <string name="launch_alipay_scanner">Scanner Alipay</string>
     <string name="launch_by_default">Abrir por padrão</string>
     <string name="launch_calculator">Calculadora</string>
     <string name="launch_camera">Iniciar Câmera</string>
@@ -5463,9 +5463,9 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="launch_smarthome">"Xiaomi Magic Control"</string>
     <string name="launch_voice_assistant">Iniciar Assistente de Voz</string>
     <string name="launch_wechat_health_code">Código de saúde WeChat</string>
-    <string name="launch_wechat_health_code_auto_close">O atalho do código de saúde WeChat não está mais disponível. Você pode alternar para um atalho diferente.</string>
-    <string name="launch_wechat_payment_code">Código de pagamento do WeChat</string>
-    <string name="launch_wechat_scanner">Digitalizador do WeChat</string>
+    <string name="launch_wechat_health_code_auto_close">O atalho do código de saúde do WeChat não está mais disponível. Você pode alternar para um atalho diferente.</string>
+    <string name="launch_wechat_payment_code">Código de pagamento WeChat</string>
+    <string name="launch_wechat_scanner">Scanner WeChat</string>
     <string name="launch_wifi_text">Ver detalhes</string>
     <string name="launcher_icon">Ícones</string>
     <string name="launcher_icon_management">Gerenciar atalhos da Tela inicial</string>

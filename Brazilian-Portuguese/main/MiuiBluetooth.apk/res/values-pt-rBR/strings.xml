@@ -259,7 +259,7 @@ Taxa de amostragem"</string>
     <string name="bt_plugin_update_done_dialog_msg">Para aplicar as alterações, as Configurações será fechada e o Bluetooth será desconectado.</string>
     <string name="bt_plugin_update_done_dialog_title">Aplicar mudanças</string>
     <string name="bt_plugin_update_done_toast">Atualizado com sucesso</string>
-    <string name="bt_plugin_update_failed_toast">"Um erro ocorreu. Não foi possível carregar."</string>
+    <string name="bt_plugin_update_failed_toast">"Ocorreu um erro. Não foi possível carregar."</string>
     <string name="bt_plugin_update_loading_dialog">Aguarde…</string>
     <string name="bt_plugin_update_notification_updating">Atualização do Bluetooth</string>
     <string name="celluar_tether_disconect_title">Desconectado</string>
@@ -533,7 +533,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="headset_downloading_indicate">Baixando…</string>
     <string name="headset_find_new_version">Uma atualização está disponível</string>
     <string name="headset_finish_fw">Atualizado com sucesso</string>
-    <string name="headset_finish_fw_failed">Um erro ocorreu</string>
+    <string name="headset_finish_fw_failed">Ocorreu um erro</string>
     <string name="headset_fw_error_failed">"Não é possível atualizar. As informações de firmware estão incorretas."</string>
     <string name="headset_fw_file_position_failed">"Não foi possível acessar o arquivo"</string>
     <string name="headset_fw_file_readfailed">"Não foi possível obter informações de atualização"</string>

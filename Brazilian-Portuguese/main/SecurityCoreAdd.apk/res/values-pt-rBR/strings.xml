@@ -76,7 +76,7 @@ este recurso será adicionado ao Segundo espaço automaticamente."</string>
     <string name="bottomsheet_drag_handle_content_description">Arrastar alça</string>
     <string name="bt_enable_pair_connect_cancel">Cancelar</string>
     <string name="bt_enable_pair_connect_fail">"Não foi possível conectar. Tente novamente."</string>
-    <string name="bt_enable_pair_connect_line">Teclado Mi Pad</string>
+    <string name="bt_enable_pair_connect_line">Teclado Xiaomi Pad</string>
     <string name="bt_enable_pair_connect_ok">Conectar</string>
     <string name="bt_enable_pair_connect_succceed">Conectado com sucesso</string>
     <string name="bt_enable_pair_connecting">Conectando…</string>
@@ -124,7 +124,7 @@ este recurso será adicionado ao Segundo espaço automaticamente."</string>
     <string name="closeSecondSpace">Excluir Segundo espaço</string>
     <string name="closeSecondSpaceSummary">Excluir Segundo espaço e seus dados</string>
     <string name="closeSuccess">Desativado</string>
-    <string name="close_app">Fechar o app atual</string>
+    <string name="close_app">Fechar app atual</string>
     <string name="close_kid_space_success">Espaço infantil excluído</string>
     <string name="close_second_space">Segundo espaço excluído</string>
     <string name="close_second_space_success">Segundo espaço excluído</string>
@@ -159,7 +159,7 @@ para visualizá-las a qualquer momento"</string>
     <string name="create_work_space">Criar Espaço de trabalho</string>
     <string name="creating_app_icon">Criando ícone…</string>
     <string name="cta_declaration_agree_and_continue">Aceitar</string>
-    <string formatted="false" name="cta_declaration_message_format">Você precisa ler e aceitar nossa &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> antes de usar o Modo empresarial. Seu dispositivo precisa conectar-se à internet para ativar o Modo empresarial. Aceitar?</string>
+    <string formatted="false" name="cta_declaration_message_format">Você precisa ler e aceitar a nossa &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> antes de usar o Modo empresarial. Seu dispositivo precisa conectar-se à internet para ativar o Modo empresarial. Aceitar?</string>
     <string name="cta_declaration_title">Termos e Condições</string>
     <string name="current_space">Espaço atual</string>
     <string name="custom_gesture_title">Gestos personalizados</string>
@@ -327,7 +327,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="global_stylus_summary">Escreva em qualquer campo de texto e converta sua caligrafia em texto (somente inglês e chinês são suportados)</string>
     <string name="global_stylus_title">Escriba</string>
     <string name="global_stylus_title_beta">Escriba (Beta)</string>
-    <string name="gms_message">Criar um Dual app exige o funcionamento com o app Google Play Services. Criar um dual app para o Google Play Services?</string>
+    <string name="gms_message">Criar dual apps exige o funcionamento com o app Google Play Services. Criar um dual app para o Google Play Services?</string>
     <string name="gms_open_button">Ativar</string>
     <string name="gms_title">Dual app para Google Play Services</string>
     <string name="goToSecondSpacce">Ir ao Segundo espaço</string>
@@ -357,6 +357,8 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="greenguard_new_install_title">Instalar Segurança familiar</string>
     <string name="greenguard_parent_des">Gerencie dispositivos de amigos e familiares</string>
     <string name="greenguard_parent_des_title">Use o Kite Guard para adicionar dispositivos</string>
+    <string name="guide_book_page_flip">Virar páginas</string>
+    <string name="guide_cell_phone_call_endcall">Atender ou encerrar chamadas</string>
     <string name="guide_confirm">Entendi</string>
     <string name="guide_contact_sub_title_desc">"Contatos adicionados no Segundo espaço serão privados.
 Mensagens aparecerão apenas no Segundo espaço."</string>
@@ -429,7 +431,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="key_gesture_function_shortcut">Atalhos de função</string>
     <string name="key_handwriting_input_summary">Edite texto manuscrito em chinês ou inglês usando sua caneta</string>
     <string name="key_handwriting_input_title">Editar texto</string>
-    <string name="key_laser_summary">Apontar, destacar e virar páginas</string>
+    <string name="key_laser_summary">Aponte, destaque e vire páginas</string>
     <string name="key_laser_title">Apresentação remota</string>
     <string name="key_none">Nenhum</string>
     <string name="key_operation_diagram">Pré-visualização</string>
@@ -517,6 +519,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="launch_alipay_health_code">Código de saúde Alipay</string>
     <string name="launch_alipay_health_code_auto_close">O atalho do código de saúde Alipay não está mais disponível. Você pode mudar para um atalho diferente.</string>
     <string name="launch_alipay_payment_code">Código de pagamento Alipay</string>
+    <string name="launch_alipay_scanner">Scanner Alipay</string>
     <string name="launch_calculator">Calculadora</string>
     <string name="launch_camera">Iniciar câmera</string>
     <string name="launch_control_center">Centro de controle</string>
@@ -526,7 +529,12 @@ Você também pode baixá-los separadamente."</string>
     <string name="launch_noapp_dialog_replace">Configurações</string>
     <string name="launch_notification_center">Área de notificações</string>
     <string name="launch_recents">Abrir Recentes</string>
+    <string name="launch_smarthome">"Xiaomi Magic Control"</string>
     <string name="launch_voice_assistant">Iniciar assistente de voz</string>
+    <string name="launch_wechat_health_code">Código de saúde WeChat</string>
+    <string name="launch_wechat_health_code_auto_close">O atalho do código de saúde do WeChat não está mais disponível. Você pode alternar para um atalho diferente.</string>
+    <string name="launch_wechat_payment_code">Código de pagamento WeChat</string>
+    <string name="launch_wechat_scanner">Scanner WeChat</string>
     <string name="list_empty_text">Vazio</string>
     <string name="list_empty_text_xspace">Crie mais dual apps e tente novamente.</string>
     <string name="loading">Aguarde…</string>
@@ -645,13 +653,25 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="more">Mais</string>
     <string name="more_settings">Mais</string>
     <string name="morning">"AM"</string>
+    <string name="aon_gesture_hint_trigger">Execute um gesto agora</string>
+    <string name="aon_learn_double_press_tip">Execute um movimento de pressionamento duplo com a sua palma virada para a câmera para pausar a música</string>
+    <string name="aon_learn_draw_circle_phone_tip">Desenhe um círculo em sentido horário com a sua palma virada para a câmera para atender a chamadas</string>
+    <string name="aon_learn_draw_circle_tip">Desenhe um círculo no sentido horário com a sua palma virada para a câmera para atender chamadas transferidas para o tablet</string>
+    <string name="aon_learn_gesture_position_down_tip">Segure a sua mão com os dedos apontados para baixo de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
+    <string name="aon_learn_gesture_position_left_tip">Segure a sua mão com os dedos apontados para a esquerda de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
+    <string name="aon_learn_gesture_position_right_tip">Segure a sua mão com os dedos apontados para a direita de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
+    <string name="aon_learn_gesture_position_up_tip">Segure a sua mão com os dedos apontados para cima de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
+    <string name="aon_learn_wave_down_tip">Acene com a mão para baixo para deslizar</string>
+    <string name="aon_learn_wave_left_tip">Acene com a mão para a esquerda para reproduzir a música anterior</string>
+    <string name="aon_learn_wave_right_tip">Acene com a mão para a direita para reproduzir a próxima música</string>
+    <string name="aon_learn_wave_up_tip">Acene com a mão para cima para deslizar</string>
     <string name="msg_switch_file">Excluir estes arquivos no Primeiro espaço após serem movidos?</string>
     <string name="msg_switch_file_second">Excluir estes arquivos no Segundo espaço depois que forem movidos?</string>
     <string name="msg_switch_photo">Excluir estas fotos no Primeiro espaço após serem movidas?</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
-    <string name="mtrl_checkbox_state_description_checked">Verificado</string>
-    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente verificado</string>
-    <string name="mtrl_checkbox_state_description_unchecked">Não verificado</string>
+    <string name="mtrl_checkbox_state_description_checked">Marcada</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente marcada</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Desmarcada</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
@@ -687,8 +707,8 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="mtrl_timepicker_cancel">Cancelar</string>
     <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="mute">Modo silencioso</string>
-    <string name="natural_scroll">Pergaminho natural</string>
-    <string name="natural_scroll_summary">O conteúdo rola junto com o seu dedo</string>
+    <string name="natural_scroll">Rolagem natural</string>
+    <string name="natural_scroll_summary">O conteúdo desliza junto com os seus dedos</string>
     <string name="navigation_type_title">Navegação do sistema</string>
     <string name="needSetKeyguardFirst">Definir senha do Primeiro espaço</string>
     <string name="needSetKeyguardFirstDes">Defina a senha do Primeiro espaço antes de definir a do Segundo espaço</string>
@@ -815,6 +835,7 @@ para pode acessá-lo através da Tela de bloqueio"</string>
     <string name="second_space_setting_search_label">Proteção de privacidade/Proteção/Recursos de proteção de privacidade</string>
     <string name="secondspace_homepage">"Defina um bloqueio de tela para o Segundo espaço.
 Separe e proteja seus dados."</string>
+    <string name="seek_bar_info">Ajuste o tamanho</string>
     <string name="select_existed_fingerprint">Selecionar impressão digital</string>
     <string name="send">Enviar</string>
     <string name="serNameSummary">Segundo espaço</string>
@@ -845,8 +866,8 @@ Separe e proteja seus dados."</string>
     <string name="settings_notification_from_owner_space_title">Mostrar notificações do Primeiro espaço</string>
     <string name="settings_notification_from_second_space_title">Mostrar notificações do Segundo espaço</string>
     <string name="settings_notification_second_space_show_in_locked_summary">Exibe as notificações do Segundo espaço na Tela de bloqueio</string>
-    <string name="settings_notification_second_space_show_in_locked_title">Exibir notificações na Tela de bloqueio</string>
-    <string name="settings_second_space_entrance_summary">Mostrar atalho para o Segundo espaço nas Configurações</string>
+    <string name="settings_notification_second_space_show_in_locked_title">Mostrar notificações na Tela de bloqueio</string>
+    <string name="settings_second_space_entrance_summary">Exibe um atalho para o Segundo espaço nas Configurações</string>
     <string name="settings_second_space_entrance_title">Atalho nas Configurações</string>
     <string name="settings_set_password_for_owner_space">Defina um bloqueio de tela no Primeiro espaço</string>
     <string name="settings_set_password_for_owner_space_desc">Defina um bloqueio de tela no Primeiro espaço para remover o atalho das Configurações.</string>
@@ -936,6 +957,7 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="stylus_btn_skip">Pular</string>
     <string name="stylus_connect">Toque para conectar</string>
     <string name="stylus_connect_fail">"Não foi possível conectar. Anexe novamente."</string>
+    <string name="stylus_connect_failV2">"Não foi possível conectar. Tente novamente."</string>
     <string name="stylus_connect_fail_no_battery">Carregue sua caneta agora</string>
     <string name="stylus_connect_fail_no_reason">"Não foi possível conectar"</string>
     <string name="stylus_connect_fail_not_match_tablet">"A caneta não é compatível com tablet"</string>
@@ -955,9 +977,11 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="stylus_not_connect_message_new">Anexe sua caneta para parear</string>
     <string name="stylus_ota_check_failed_battery">"Não foi possível verificar. A bateria da sua caneta está acabando."</string>
     <string name="stylus_ota_check_failed_info">"Não foi possível verificar a versão do firmware. Anexe sua caneta novamente."</string>
+    <string name="stylus_ota_check_failed_infoV2">"Não foi possível obter a versão do firmware. Conecte sua caneta novamente."</string>
     <string name="stylus_ota_check_update">Verificar atualizações</string>
     <string name="stylus_ota_completed">Atualizado com sucesso</string>
     <string name="stylus_ota_completed_tip">Firmware atualizado com sucesso. Anexe a caneta para parear.</string>
+    <string name="stylus_ota_completed_tipV2">Caneta atualizada. Reconecte-a antes de usá-la.</string>
     <string name="stylus_ota_current_firmware_version">Versão do firmware</string>
     <string name="stylus_ota_demands">"Mantenha o Bluetooth ativado durante a atualização. Certifique-se de que a bateria não fique abaixo de %1$s."</string>
     <string name="stylus_ota_download_failed">"Não foi possível baixar o firmware"</string>

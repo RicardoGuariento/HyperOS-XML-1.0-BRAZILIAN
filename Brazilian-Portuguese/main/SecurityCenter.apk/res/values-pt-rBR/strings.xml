@@ -1049,7 +1049,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="behavior_widget_read_write_external_storage">Arquivos acessados</string>
     <string name="best_booster_status">A velocidade dos jogos é a melhor disponível no momento.</string>
     <string name="bg_network_exception_title">Conexão em 2º plano restrita</string>
-    <string name="bh_buy_order_fail_tips_text">Um erro ocorreu. Aguarde um momento e tente novamente.</string>
+    <string name="bh_buy_order_fail_tips_text">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
     <string name="bh_charge_for_more">Mais</string>
     <string name="bh_charge_record">Histórico de compra</string>
     <string name="bh_charge_traffic">Comprar pacote de internet</string>
@@ -1098,8 +1098,8 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="bh_settings_withdrawal_subtitle">Retirar o consentimento para a Política de Privacidade de Uso de Dados</string>
     <string name="bh_settings_withdrawal_text">Retirada de consentimento</string>
     <string name="bh_settings_withdrawal_yulore">Retirar o consentimento para a Política de Privacidade da Yulore Limited</string>
-    <string name="bh_settings_yulore_limited_paivacy">Ver a Política de Privacidade Yulore Limited</string>
-    <string name="bh_settings_yulore_limited_user">Ver o Contrato do Usuário Limitado Yulore</string>
+    <string name="bh_settings_yulore_limited_paivacy">Política de Privacidade da Yulore Limited</string>
+    <string name="bh_settings_yulore_limited_user">Contrato do Usuário do Yulore Limited</string>
     <string name="bh_traffic_product_out_of_stock">Esgotado</string>
     <string name="bh_withdrawal_yulore_fail">"Não foi possível retirar o consentimento"</string>
     <string name="bh_withdrawal_yulore_success">Consentimento retirado com sucesso</string>
@@ -4324,7 +4324,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_setting_warm_performance_tip">Cenários que requerem um alto consumo de energia aumentarão a temperatura do seu dispositivo acima dos níveis padrão do modo padrão de controle de temperatura.</string>
     <string name="power_setting_wireless_reverse_charging_fg_control_title">Limite de carga</string>
     <string name="power_setting_wireless_reverse_charging_summary">Carregue dispositivos compatíveis sem usar fios</string>
-    <string name="power_setting_wireless_reverse_charging_title">Carregamento sem fios reverso</string>
+    <string name="power_setting_wireless_reverse_charging_title">Carregamento reverso sem fios</string>
     <string name="power_settings_category_title">Indicador de bateria</string>
     <string name="power_settings_firmware_update_title">Atualizações de firmware</string>
     <string name="power_settings_lock_screen_saver_title">Configurações da Tela de bloqueio</string>
@@ -4582,7 +4582,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_dialog_ok_with_num">Entendi (%s s)</string>
     <string name="privacy_dialog_open">Ativar</string>
     <string name="privacy_dialog_positive_button_text">Aceitar</string>
-    <string name="privacy_dialog_revoking">Retirando o consentimento…</string>
+    <string name="privacy_dialog_revoking">Retirando consentimento…</string>
     <string name="privacy_dialog_title">Termos e Condições</string>
     <string name="privacy_empty_call">Nenhum app acessou o histórico de chamadas hoje</string>
     <string name="privacy_empty_contact">Nenhum app acessou os contatos hoje</string>
@@ -6256,7 +6256,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="vtb_func_frc_desc0">A Suavização de movimento reduz o desfoque e dá mais detalhes a objetos em movimento. Usar este recurso aumentará o consumo de energia.</string>
     <string name="vtb_func_frc_desc1">A Suavização de movimento não funcionará nas seguintes condições:</string>
     <string name="vtb_func_frc_desc2">Quando a resolução de vídeo for maior que 1080P</string>
-    <string name="vtb_func_frc_desc3">Quando a taxa de quadros foi maior que 30 fps</string>
+    <string name="vtb_func_frc_desc3">Quando a taxa de quadros foi maior que 30 FPS</string>
     <string name="vtb_func_frc_desc4">Com vídeos em HDR</string>
     <string name="vtb_func_frc_title">Suavização de movimento</string>
     <string name="vtb_func_vpp_desc4">Este recurso não funcionará quando a resolução do vídeo for maior do que 4K.</string>

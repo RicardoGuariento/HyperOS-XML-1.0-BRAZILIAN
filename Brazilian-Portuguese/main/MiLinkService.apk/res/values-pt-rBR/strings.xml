@@ -941,9 +941,9 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="mr_user_route_category_name">Dispositivos</string>
     <string name="msg_send_fail">"Não foi possível transferir dados"</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
-    <string name="mtrl_checkbox_state_description_checked">Verificado</string>
-    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente verificado</string>
-    <string name="mtrl_checkbox_state_description_unchecked">Não checado</string>
+    <string name="mtrl_checkbox_state_description_checked">Marcada</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente marcada</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Desmarcada</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
@@ -1246,7 +1246,7 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="privacy_revoke_dialog_revoke">Retirar</string>
     <string name="privacy_revoke_dialog_title">Retirada de consentimento</string>
     <string name="privacy_revoke_succeed">Consentimento retirado com sucesso</string>
-    <string name="privacy_revoking_warning">Retirando o consentimento…</string>
+    <string name="privacy_revoking_warning">Retirando consentimento…</string>
     <string name="privacy_setting_category_1">Política de Privacidade</string>
     <string name="privacy_setting_category_2">Política de Privacidade do HappyCast</string>
     <string name="privacy_setting_category_3">Permissões</string>
@@ -1255,8 +1255,8 @@ para que o Xiaomi HyperMind possa aprender e refinar padrões"</string>
     <string name="privacy_setting_show_authority">Detalhes de permissões</string>
     <string name="privacy_setting_show_lelink_law">Ver a Declaração Legal do HappyCast</string>
     <string name="privacy_setting_show_lelink_policy">Veja a Política de Privacidade do HappyCast</string>
-    <string name="privacy_setting_show_policy">Ver Política de Privacidade</string>
-    <string name="privacy_setting_show_user_agreement">Ver Contrato do Usuário</string>
+    <string name="privacy_setting_show_policy">Política de Privacidade</string>
+    <string name="privacy_setting_show_user_agreement">Contrato do Usuário</string>
     <string name="privacy_text_1"><Data>"Bem-vindo à Transmissão! A Transmissão permite projetar itens da tela do seu dispositivo para um monitor externo maior.
 Nós protegeremos as suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Alguns recursos são fornecidos pelo provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e aceite a &lt;a href=%2$s>Declaração Legal do HappyCast&lt;/a> e a &lt;a href=%1$s>Política de Privacidade do HappyCast&lt;/a>.
 Para poder funcionar normalmente, este app precisa se conectar à internet e das seguintes permissões para coletar suas informações pessoais:"</Data></string>

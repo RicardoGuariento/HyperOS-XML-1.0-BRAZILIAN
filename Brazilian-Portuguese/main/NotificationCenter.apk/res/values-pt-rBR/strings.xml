@@ -31,6 +31,10 @@
     <string name="afternoon">"PM"</string>
     <string name="aggregate_title">Regras para agrupamento de notificações</string>
     <string name="am">"AM"</string>
+    <string name="aon_message">Para determinar se várias pessoas estão olhando para a tela, este recurso acessará a câmera frontal quando uma notificação flutuante for exibida. As imagens coletadas são utilizadas somente para análise no dispositivo de pessoas olhando para a tela. Quando várias pessoas forem detectadas, o conteúdo das notificações será ocultado por padrão.</string>
+    <string name="aon_on_cancel">Cancelar</string>
+    <string name="aon_on_confirm_time_out">"OK"</string>
+    <string name="aon_title">Aviso legal</string>
     <string name="app_name">Notificações</string>
     <string name="back">Voltar</string>
     <string name="cancel">Cancelar</string>

@@ -736,7 +736,7 @@ e ajustar preferências automaticamente"</string>
     <string name="confirm">"OK"</string>
     <string name="confirm_fastmotion_reset_manually_parameter_message">Redefinir parâmetros agora?</string>
     <string name="confirm_install_scanner_message">"O Scanner permite que você digitalize códigos QR, códigos de barra, e mais. Você não precisa de uma conexão com a internet para instalá-lo."</string>
-    <string name="confirm_install_scanner_title">Instalar o Digitalizador</string>
+    <string name="confirm_install_scanner_title">Instalar Scanner</string>
     <string name="confirm_location_alert">Lembrar localização nas fotos</string>
     <string name="confirm_location_message"><Data>Bem-vindo à Câmera! Marcar suas fotos e vídeos com a localização em que foram tiradas tornará a sua Galeria mais organizada e lhe ajudará a encontrar itens com mais rapidez. Alguns recursos podem não estar disponíveis se você restringir a adição das informações de localização.&lt;br/>&lt;br/>Nós protegeremos as suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.</Data></string>
     <string name="confirm_location_title">Lembrar localização nas fotos?</string>
@@ -1535,7 +1535,7 @@ fiquem maiores nas fotos"</string>
     <string name="mimoji_punk_human_accessibility">Foto de corpo inteiro de um punk</string>
     <string name="mimoji_rabbit_accessibility">Foto rápida de um coelho</string>
     <string name="mimoji_recapture">Recomeçar</string>
-    <string name="mimoji_recapture_alert">Todas as alterações serão descartadas quando você começar novamente. Continuar mesmo assim?</string>
+    <string name="mimoji_recapture_alert">Todas as alterações serão descartadas quando você recomeçar. Continuar mesmo assim?</string>
     <string name="mimoji_redhat_accessibility">Foto rápida de uma mulher com um chapéu vermelho</string>
     <string name="mimoji_redhat_human_accessibility">Foto de corpo inteiro de uma mulher com um chapéu vermelho</string>
     <string name="mimoji_reset">Redefinir</string>
@@ -1679,12 +1679,12 @@ fiquem maiores nas fotos"</string>
     <string name="more_mode_style_tab">Guia \"Mais\"</string>
     <string name="morning">"AM"</string>
     <string name="msg_bubble_doc4_first_use">Toque para reconhecer o texto</string>
-    <string name="msg_toast_doc4_recognition_failed">Um erro ocorreu. Tente novamente.</string>
+    <string name="msg_toast_doc4_recognition_failed">Ocorreu um erro. Tente novamente.</string>
     <string name="msg_toast_doc4_text_not_found">"Não foi possível detectar o texto"</string>
     <string name="mtrl_badge_numberless_content_description">Novas notificações</string>
-    <string name="mtrl_checkbox_state_description_checked">Verificado</string>
-    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente verificado</string>
-    <string name="mtrl_checkbox_state_description_unchecked">Não verificado</string>
+    <string name="mtrl_checkbox_state_description_checked">Marcada</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente marcada</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Desmarcada</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
@@ -1723,7 +1723,7 @@ fiquem maiores nas fotos"</string>
     <string name="multi_window_mode_not_supported">"A câmera não pode ser usada no modo multi janela"</string>
     <string name="network_access_user_notice_agree">Aceitar</string>
     <string name="network_access_user_notice_message_live_video"><Data>"A Câmera precisa se conectar à internet para fornecer efeitos, música e outros recursos para vídeos curtos.&lt;br/>&lt;br/>Ao tocar em \"Aceitar\" abaixo, você estará concordando com o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a>, e permitindo que a Câmera conecte-se à internet."</Data></string>
-    <string name="network_access_user_notice_message_mi_live_video"><Data>Boas-vindas aos vídeos curtos! O nosso serviço precisa se conectar à internet para fornecer músicas e outros recursos. &lt;br/>&lt;br/>Antes de usar nosso serviço, você precisa ler e aceitar o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a>, bem como permitir que o app conecte-se à internet.</Data></string>
+    <string name="network_access_user_notice_message_mi_live_video"><Data>Bem-vindo aos vídeos curtos! O nosso serviço precisa se conectar à internet para fornecer músicas e outros recursos. &lt;br/>&lt;br/>Antes de usar nosso serviço, você precisa ler e aceitar o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a>, bem como permitir que o app conecte-se à internet.</Data></string>
     <string name="network_access_user_notice_message_sticker"><Data>"A Câmera precisa se conectar à internet para fornecer stickers para este recurso.&lt;br/>&lt;br/>Ao tocar em \"Aceitar\" abaixo, você estará concordando com o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a>, e permitindo que a Câmera conecte-se à internet."</Data></string>
     <string name="network_access_user_notice_message_voice_caption"><Data>"A Câmera precisa se conectar à internet para fornecer a funcionalidade de saída de voz em texto.&lt;br/>&lt;br/>Ao tocar em \"Aceitar\" abaixo, você estará concordando com o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a>, e permitindo que a Câmera conecte-se à internet."</Data></string>
     <string name="network_access_user_notice_title">Conectando-se à internet</string>
@@ -2952,7 +2952,7 @@ Você pode usar os botões abaixo para editar texto, visualizar a reprodução e
     <string name="video_tag_flag_title">Marcar</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">8K IA</string>
-    <string name="view_privacy_policy">Ver a Política de Privacidade</string>
+    <string name="view_privacy_policy">Política de Privacidade</string>
     <string name="vlog_pro_accessible_play_template_sound">Os sons do modelo de Vlog estão ativados</string>
     <string name="vlog_pro_accessible_stop_template_sound">Os sons do modelo de Vlog estão desativados</string>
     <string name="vlog_pro_cancel_reset_record_hint">Cancelar</string>

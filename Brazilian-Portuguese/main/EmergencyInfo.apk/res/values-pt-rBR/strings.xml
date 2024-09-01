@@ -754,13 +754,13 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="transparent_navigation_bar">Barra de navegação transparente</string>
     <string name="transparent_navigation_bar_summary">Torna a cor de fundo da barra de navegação transparente por padrão</string>
     <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
-    <string name="tts_default_lang_title">Linguagem</string>
+    <string name="tts_default_lang_title">Idioma</string>
     <string name="tts_default_pitch_summary">Afeta o tom do discurso sintetizado</string>
     <string name="tts_default_pitch_title">Tom</string>
     <string name="tts_default_rate_summary">Velocidade em que o texto é falado</string>
     <string name="tts_default_rate_title">Taxa de fala</string>
     <string name="tts_default_sample_string">Este é um exemplo de síntese de fala</string>
-    <string name="tts_engine_network_required">Esta linguagem requer uma conexão de rede de trabalho para saída de texto para fala.</string>
+    <string name="tts_engine_network_required">Este idioma requer uma conexão de rede de trabalho para saída de texto para fala.</string>
     <string name="tts_engine_preference_section_title">Motor preferido</string>
     <string name="tts_engine_security_warning">Este mecanismo de síntese de fala pode ser capaz de coletar todo o texto que será falado, incluindo dados pessoais como senhas e números de cartão de crédito. Ele vem do mecanismo %s. Ativar o uso deste mecanismo de síntese de fala?</string>
     <string name="tts_engine_settings_button">Inicie as configurações do motor</string>
@@ -768,7 +768,7 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="tts_general_section_title">Geral</string>
     <string name="tts_install_data_summary">Instale os dados de voz necessários para a síntese de fala</string>
     <string name="tts_install_data_title">Instalar dados de voz</string>
-    <string name="tts_lang_not_selected">Linguagem não selecionada</string>
+    <string name="tts_lang_not_selected">Idioma não selecionado</string>
     <string name="tts_lang_use_system">Use o idioma do sistema.</string>
     <string name="tts_play_example_summary">Jogue uma pequena demonstração de síntese de fala</string>
     <string name="tts_play_example_title">Ouça um exemplo</string>

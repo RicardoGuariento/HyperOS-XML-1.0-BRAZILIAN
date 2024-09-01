@@ -142,7 +142,7 @@ monitoramento de terremoto"</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="free_send_net_booster">Otimização de velocidade gratuita</string>
+    <string name="free_send_net_booster">Experimente o Game Turbo gratuitamente</string>
     <string name="free_send_net_booster_busniess">Experimente o Game Turbo gratuitamente</string>
     <string name="free_send_net_booster_busniess_tip">Aumente sua experiência de jogo e ganhe uma skin de jogo. Esta oferta só está disponível hoje!</string>
     <string name="free_send_net_booster_tip">Curta uma experiência de jogo mais suave com a otimização de velocidade de rede gratuita.</string>
@@ -152,7 +152,7 @@ monitoramento de terremoto"</string>
     <string name="game_booster">"Game Turbo"</string>
     <string name="gamebooster_confirm_dialog_negative_btn">"Não aceitar"</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Aceitar</string>
-    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a></Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>&lt;br>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Booster</Data></string>
     <string name="gamebooster_confirm_dialog_title">Concorde com nossa Política de Privacidade</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
@@ -234,7 +234,7 @@ monitoramento de terremoto"</string>
     <string name="gb_gputuner_lod_deviation">Polarização de Mipmap LOD</string>
     <string name="gb_gputuner_multi_render">Renderização multithread</string>
     <string name="gb_not_support_on_device">"Este app não pode ser usado na tela externa"</string>
-    <string name="gb_pannel_control_frame_rate_dialog_message">Para poder usar esse recurso, altere a resolução da tela para WQHD+ nas Configurações.</string>
+    <string name="gb_pannel_control_frame_rate_dialog_message">Para utilizar este recurso, altere a resolução da tela para WQHD+ nas Configurações.</string>
     <string name="gb_pannel_control_frame_rate_dialog_positive">Configurações</string>
     <string name="gb_pannel_control_frame_rate_dialog_title">Altere a resolução da tela</string>
     <string name="gb_pannel_control_mode_balance">Equilibrado</string>
@@ -254,7 +254,7 @@ monitoramento de terremoto"</string>
     <string name="gdpr_msg"><Data>"Para usar os recursos básicos do app Segurança, você deve concordar que a Xiaomi coletará, processará e usará seus dados pessoais, incluindo informações sobre as maneiras como você usa os recursos do app Segurança (ex.: estatísticas de uso de dados móveis, informações sobre malwares, bem como informações básicas sobre o seu dispositivo) e outros tipos de informações especificadas em nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a>."</Data></string>
     <string name="global_satisfaction_network_error">"Não foi possível obter dados. Verifique suas configurações de rede e tente novamente."</string>
     <string name="global_satisfactionnetwork_loading">Obtendo dados…</string>
-    <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Booster Xunyou. Este serviço irá coletar o seu ID da Conta Mi para registrar a duração da sua adesão."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Booster Xunyou. Este serviço irá coletar o seu ID da sua Conta Mi para registrar a duração da sua adesão."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
     <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Game Booster Xunyou</string>

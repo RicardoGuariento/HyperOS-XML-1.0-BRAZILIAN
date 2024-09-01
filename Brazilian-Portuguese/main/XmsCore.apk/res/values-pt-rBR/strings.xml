@@ -80,6 +80,7 @@
     <string name="com_miui_huanji">"Mi Mover"</string>
     <string name="com_miui_notes">Notas</string>
     <string name="com_miui_screenrecorder">Gravador de tela</string>
+    <string name="com_miui_virtualsim">"Mi Roaming"</string>
     <string name="com_miui_weather2">Clima</string>
     <string name="com_xiaomi_calendar">Agenda</string>
     <string name="com_xiaomi_drivemode">Modo carro</string>
@@ -89,6 +90,7 @@
     <string name="com_xiaomi_scanner">"Scanner"</string>
     <string name="com_xiaomi_shop">"Loja Mi"</string>
     <string name="com_xiaomi_vipaccount">Comunidade Xiaomi</string>
+    <string name="com_xiaomi_youpin">"Youpin"</string>
     <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
     <string name="data_source_timezone">GMT%1$s</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
@@ -182,8 +184,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por agora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
-    <string name="mobile_data_consume">Baixar itens agora exigirá o uso de %1$s MB de dados móveis. Baixar?</string>
-    <string name="mobile_data_remind">Aviso de uso de dados</string>
+    <string name="mobile_data_consume">Baixar os itens agora exigirá o uso de %1$s MB de dados móveis. Baixar mesmo assim?</string>
+    <string name="mobile_data_remind">Aviso sobre o uso de dados</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -306,7 +308,7 @@
     <string name="system_app_is_restore">Restaurando itens do sistema…</string>
     <string name="system_app_restore_completed">Restaurado com sucesso</string>
     <string name="system_app_restore_completed_detail">Todos os itens do sistema foram restaurados com sucesso</string>
-    <string name="system_app_restore_failed">Um erro ocorreu</string>
+    <string name="system_app_restore_failed">Ocorreu um erro</string>
     <string name="system_app_restore_failed_detail">"Não foi possível restaurar itens do sistema. Verifique as configurações de rede e não reinicie ou desligue o dispositivo até que os itens sejam totalmente restaurados. Toque no botão abaixo para tentar novamente."</string>
     <string name="system_restore">Restaurar itens</string>
     <string name="tap_to_update_system_app">Toque para atualizar apps do sistema</string>

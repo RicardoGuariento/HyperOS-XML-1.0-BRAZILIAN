@@ -33,7 +33,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="above_image">Acima</string>
-    <string name="accessibility_battery_level">Bateria %d por cento.</string>
+    <string name="accessibility_battery_level">Bateria em %d por cento.</string>
     <string name="accessibility_battery_level_charging">Bateria carregando, %d por cento.</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="add_custom_image">Imagem personalizada</string>
@@ -53,6 +53,7 @@
     <string name="am">"AM"</string>
     <string name="ambient_display_screen_title">Tela ambiente</string>
     <string name="ambient_display_screen_title_sp">Tela ambiente</string>
+    <string name="ambient_display_screen_title_summary">Defina o estilo da tela interna. A tela externa manterá o seu estilo da Tela de bloqueio.</string>
     <string name="animation_clock_panel">Disco ondulado</string>
     <string name="aod_app_name">Tela ambiente e editor da Tela de bloqueio</string>
     <string name="aod_close_color_inversion">"Este recurso não pode ser combinado com a inversão de cores. Desative a inversão de cores primeiro."</string>
@@ -120,7 +121,7 @@ dd/MM"</string>
     <string name="color_change_with_time_title">Alterar a cor automaticamente</string>
     <string name="component_battery">Bateria</string>
     <string name="component_date_time">Data e hora</string>
-    <string name="component_lunar">Calendário Chinês Tradicional</string>
+    <string name="component_lunar">Calendário Tradicional Chinês</string>
     <string name="component_notification">Notificações</string>
     <string name="component_step">Passos</string>
     <string name="continue_to_use">Continuar</string>
@@ -292,7 +293,7 @@ dd/MM"</string>
     <string name="kg_function_button_text_effect">Filtro</string>
     <string name="kg_function_button_text_font">Fonte</string>
     <string name="kg_function_button_text_hierarchy">Profundidade</string>
-    <string name="kg_function_button_text_lang">Linguagem</string>
+    <string name="kg_function_button_text_lang">Idioma</string>
     <string name="kg_function_button_text_wallpaper">Plano de fundo</string>
     <string name="kg_glass_filter_on_time">Aplicar ao relógio</string>
     <string name="kg_guidance_dialog_positive_button_text_next_step">Próximo</string>
@@ -336,7 +337,7 @@ dd/MM"</string>
     <string name="large_time">Relógio grande</string>
     <string name="letter_space">Espaçamento de letras</string>
     <string name="line_space">Espaçamento de linhas</string>
-    <string name="linkage_select_title">Animar a transição para a Tela de bloqueio</string>
+    <string name="linkage_select_title">Animar transição para a Tela de bloqueio</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_24h_suffix">%1$s horas</string>
     <string name="material_hour_selection">Selecione a hora</string>
@@ -454,9 +455,9 @@ mm"</string>
     <string name="more_online_theme">Itens online</string>
     <string name="morning">"AM"</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
-    <string name="mtrl_checkbox_state_description_checked">Verificado</string>
-    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente verificado</string>
-    <string name="mtrl_checkbox_state_description_unchecked">Não verificado</string>
+    <string name="mtrl_checkbox_state_description_checked">Marcada</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente marcada</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Desmarcada</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
@@ -554,7 +555,9 @@ mm"</string>
     <string name="signature_default_content">"Sempre acredite que algo
  incrível está prestes a acontecer"</string>
     <string name="smart_style">Inteligente</string>
-    <string name="smart_style_summary">"Sempre exiba itens, exceto quando seu dispositivo estiver no bolso, quando a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para seu dispositivo."</string>
+    <string name="smart_style_summary">"Não exibir quando o seu dispositivo estiver no bolso, quando a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para seu dispositivo."</string>
+    <string name="smart_style_summary_inner">"Não exibir quando o seu dispositivo estiver no bolso, quando a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para a tela interna."</string>
+    <string name="smart_style_summary_outer">"Não exibir quando o seu dispositivo estiver no bolso, quando a luz ambiente estiver fraca por um longo período ou quando você não estiver olhando para a tela externa."</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
     <string name="solar_term_clear_and_bright">Claro e brilhante</string>
@@ -595,6 +598,7 @@ mm"</string>
     <string name="sunrise_time_format_tomorrow_desc">"Nascer do sol de amanhã: %s"</string>
     <string name="sunset_time_format">Pôr do sol %s</string>
     <string name="sunset_time_format_desc">Hora do pôr do sol: %s</string>
+    <string name="talkback_invert_color">Inverter cores</string>
     <string name="super_wallpaper_date">"EEE
 dd/MM"</string>
     <string name="super_wallpaper_date_inter">"EEEE
@@ -658,6 +662,8 @@ dd/MM"</string>
     <string name="time_picker_label_minute">"M"</string>
     <string name="time_style">Estilo</string>
     <string name="time_style_layout">"Layout"</string>
+    <string name="tiny_accessibility_kg_battery_level">Bateria</string>
+    <string name="tiny_camera_content_description">Câmera</string>
     <string name="tip_to_open_aod_mode">A Tela ambiente está desativada. Ativar agora?</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
@@ -674,11 +680,11 @@ dd/MM"</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="wind_direction_0">Vento N</string>
-    <string name="wind_direction_1">Vento NL</string>
-    <string name="wind_direction_1_f">Vento NL</string>
+    <string name="wind_direction_1">Vento NE</string>
+    <string name="wind_direction_1_f">Vento NE</string>
     <string name="wind_direction_2">Vento L</string>
-    <string name="wind_direction_3">Vento SL</string>
-    <string name="wind_direction_3_f">Vento SL</string>
+    <string name="wind_direction_3">Vento SE</string>
+    <string name="wind_direction_3_f">Vento SE</string>
     <string name="wind_direction_4">Vento S</string>
     <string name="wind_direction_5">Vento SO</string>
     <string name="wind_direction_5_f">Vento SO</string>

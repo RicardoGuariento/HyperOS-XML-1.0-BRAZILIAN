@@ -1526,7 +1526,7 @@ estão disponíveis"</string>
     <string name="invite_tip">"Compartilhar fotos do seu bebê"</string>
     <string name="invite_user_activity_title">Compartilhar</string>
     <string name="invite_user_exist_toast">Esta pessoa já foi convidada</string>
-    <string name="invite_user_fail_toast">Um erro ocorreu. Aguarde um momento e tente novamente.</string>
+    <string name="invite_user_fail_toast">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
     <string name="invite_user_has_joined">Este álbum já foi compartilhado com esta pessoa</string>
     <string name="invite_user_info_top_hint_text">Confirmar conta</string>
     <string name="invite_user_now">Convidar</string>
@@ -2129,7 +2129,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="other_album_operation_remove_from_other_albums">Remover de \"Outros álbuns\"</string>
     <string name="other_settings">Configurações adicionais</string>
     <string name="owner_album_subtitle">Compartilhado com %1$s pessoa(s)</string>
-    <string name="pad_device_model_name">Mi Pad</string>
+    <string name="pad_device_model_name">"Xiaomi Pad"</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_crop_user_avatar">Cortar foto</string>
     <string name="passport_account_empty_user_name">Digite seu nome</string>
@@ -2560,7 +2560,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="privacy_cloud_confirm_detail_negative">Sair</string>
     <string name="privacy_cloud_confirm_detail_positive">Aceitar</string>
     <string name="privacy_cloud_confirm_rejected">Consentimento para a Política de Privacidade da Nuvem Xiaomi foi retirada para esta conta. Tente usar uma conta diferente.</string>
-    <string name="privacy_detail">Ver Política de Privacidade</string>
+    <string name="privacy_detail">Política de Privacidade</string>
     <string name="privacy_detail_map">Veja a Política de Privacidade do Mapa da Galeria</string>
     <string name="privacy_entrance">Privacidade</string>
     <string name="privacy_map">Mapa da Galeria</string>
@@ -3599,7 +3599,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="tsb_action_backup_apk_err">Configurar backup</string>
     <string name="tsb_action_completed_allow_closed">Ativar backup</string>
     <string name="tsb_action_completed_open">Ver status de backup</string>
-    <string name="tsb_action_err">Um erro ocorreu. Tente novamente.</string>
+    <string name="tsb_action_err">Ocorreu um erro. Tente novamente.</string>
     <string name="tsb_action_err_fast">"Não foi possível retomar a transferência. Tente novamente amanhã."</string>
     <string name="tsb_action_file_failed">Entendi</string>
     <string name="tsb_action_need_retry">Tente novamente</string>
@@ -3743,7 +3743,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="video_editor_smart_effect_fastslow">Movimento</string>
     <string name="video_editor_smart_effect_freesze">Stopmotion</string>
     <string name="video_editor_smart_effect_halo">Auréola</string>
-    <string name="video_editor_smart_effect_high_iframes_text">Este efeito funciona melhor para vídeos em %d fps.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">Este efeito funciona melhor para vídeos em %d FPS.</string>
     <string name="video_editor_smart_effect_movie">Filme</string>
     <string name="video_editor_smart_effect_none">Nenhum</string>
     <string name="video_editor_smart_effect_radical">Otimista</string>

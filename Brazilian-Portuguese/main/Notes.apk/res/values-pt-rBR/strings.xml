@@ -50,7 +50,7 @@
     <string name="add_excerpt_summary">Adicionar à lista de resumo</string>
     <string name="add_pic_excerpt_summary">Adicionar resumo de imagem</string>
     <string name="add_text_excerpt_summary">Adicionar resumo de texto</string>
-    <string name="add_modifications">Sugestão: Adicionar \"%1$s\"</string>
+    <string name="add_modifications">Sugestão: Adicione \"%1$s\"</string>
     <string name="added_to_clipboard">Copiado com sucesso</string>
     <string name="adopt">Usar</string>
     <string name="afternoon">"PM"</string>
@@ -59,14 +59,14 @@
     <string name="ai_createing_text">Geração de IA…</string>
     <string name="ai_check">Revisão de IA</string>
     <string name="ai_failed">"Não foi possível gerar. Tente novamente."</string>
-    <string name="ai_feature_disabled">Você violou os padrões da nossa comunidade diversas vezes. Este recurso não está mais disponível.</string>
-    <string name="ai_label">Recursos de IA</string>
+    <string name="ai_feature_disabled">Você violou os padrões da comunidade várias vezes. Este recurso não está mais disponível.</string>
+    <string name="ai_label">Recursos IA</string>
     <string name="ai_layout">Layout IA</string>
-    <string name="ai_result_warn">O conteúdo acima é gerado por IA. A precisão pode variar.</string>
-    <string name="ai_sensitive_content_warn">"Não é possível usar os Recursos de IA para conteúdo confidencial ou impróprio"</string>
-    <string name="ai_summary">Resumo de IA</string>
+    <string name="ai_result_warn">O conteúdo acima foi gerado por IA. A precisão pode variar.</string>
+    <string name="ai_sensitive_content_warn">"Não é possível usar os Recursos IA para conteúdo sensível ou inapropriado"</string>
+    <string name="ai_summary">Resumo IA</string>
     <string name="ai_translate">Tradução IA</string>
-    <string name="ai_watermark">O conteúdo gerado por IA é fornecido apenas para sua referência</string>
+    <string name="ai_watermark">Este conteúdo é gerado por IA e fornecido apenas para sua referência.</string>
     <string name="alarm_bar_title">Lembrete</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
     <string name="alert_message_delete">Excluir %1$s?</string>
@@ -99,7 +99,7 @@
     <string name="audio_dialog_mode_meeting_exit">Não, obrigado</string>
     <string name="audio_dialog_mode_meeting_recognize_close">O reconhecimento de voz está desativado</string>
     <string name="audio_dialog_mode_meeting_recognize_fail">"Não foi possível concluir o reconhecimento de voz"</string>
-    <string name="audio_dialog_mode_meeting_sum">O Modo reunião permite que você reconheça as vozes de %1$d-%2$d pessoas distintas. Alguns erros de reconhecimento podem ocorrer na versão Beta.</string>
+    <string name="audio_dialog_mode_meeting_sum">O Modo reunião permite que você reconheça as vozes de %1$d-%2$d pessoas diferentes. Alguns erros de reconhecimento podem ocorrer na versão Beta.</string>
     <string name="audio_dialog_mode_meeting_use">Iniciar</string>
     <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">Arquivo de áudio inválido</string>
@@ -214,8 +214,8 @@
     <string name="dlg_info_creating_message">Criando imagem…</string>
     <string name="dlg_info_save_to_gallery_message">Salvando imagem na Galeria…</string>
     <string name="dlg_info_save_to_local_message">Salvando…</string>
-    <string name="dlg_message_password_reset">"A senha para notas ocultas será substituída pela Senha de proteção de privacidade, que funciona para mensagens, fotos e pastas ocultas"</string>
-    <string name="dlg_message_set_password">A Senha de proteção de privacidade funciona para mensagens, fotos e pastas ocultas</string>
+    <string name="dlg_message_password_reset">"A senha para notas ocultas será substituída pela Senha de proteção de privacidade, que funciona para mensagens, fotos e pastas ocultas."</string>
+    <string name="dlg_message_set_password">A Senha de proteção de privacidade funciona para mensagens, fotos e pastas ocultas.</string>
     <string name="dlg_message_use_privacy_password">Use a Senha de proteção de privacidade. Ela funciona para mensagens, fotos e pastas ocultas.</string>
     <string name="dlg_move_message">Movendo…</string>
     <string name="dlg_quick_delete_title">Exclusão rápida</string>
@@ -689,6 +689,7 @@
     <string name="original_empty_content">Nenhum conteúdo na versão original</string>
     <string name="original_text">"Original: \"%1$s\""</string>
     <string name="pad_collpase_navigation">Ocultar painel de navegação</string>
+    <string name="pad_dialog_take_photo_by_device">Tirando fotos com %1$s</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Usando a câmera…</string>
     <string name="pad_expand_navigation">Mostrar painel de navegação</string>
     <string name="pad_insert_image_menu_select_from_pad_gallery">Galeria</string>
@@ -811,7 +812,7 @@
     <string name="repeat_mode_set_title">Repetir</string>
     <string name="repeat_mode_week">Semanalmente</string>
     <string name="repeat_mode_year">Anualmente</string>
-    <string name="retry">Tente novamente</string>
+    <string name="retry">Tentar novamente</string>
     <string name="revoke_modifications">Desfazer</string>
     <string name="rich_text_bold_description">Negrito</string>
     <string name="rich_text_bulleted_list_description">Caixa de seleção</string>
@@ -860,7 +861,7 @@
     <string name="select_up_limit_toast">Selecione até %d itens</string>
     <string name="send">Enviar</string>
     <string name="send_notifications_for_reminder">Para enviar lembretes</string>
-    <string name="sensitive_content_warn">"Não é possível criar um resumo de IA para conteúdo confidencial"</string>
+    <string name="sensitive_content_warn">"Não é possível criar um resumo IA para conteúdo sensível"</string>
     <string name="set_alarm_description">Definir alarme</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Ladrilhos</string>
@@ -925,8 +926,8 @@
     <string name="sns_toast_over_limit">Enviado como imagem</string>
     <string name="splash_note">Caneta</string>
     <string name="stealth_mode_tip">Você está anônimo. Não é possível usar o microfone agora.</string>
-    <string name="suggested_delete">Sugestão: Excluir \"%1$s\"</string>
-    <string name="suggested_modifications">Sugestão: Alterar \"%1$s\" para \"%2$s\"</string>
+    <string name="suggested_delete">Sugestão: Exclua \"%1$s\"</string>
+    <string name="suggested_modifications">Sugestão: Altere \"%1$s\" para \"%2$s\"</string>
     <string name="summary">Resumo</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
