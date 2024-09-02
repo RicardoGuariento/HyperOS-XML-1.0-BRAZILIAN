@@ -1099,7 +1099,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="bh_settings_withdrawal_text">Retirada de consentimento</string>
     <string name="bh_settings_withdrawal_yulore">Retirar o consentimento para a Política de Privacidade da Yulore Limited</string>
     <string name="bh_settings_yulore_limited_paivacy">Política de Privacidade da Yulore Limited</string>
-    <string name="bh_settings_yulore_limited_user">Contrato do Usuário do Yulore Limited</string>
+    <string name="bh_settings_yulore_limited_user">Contrato do Usuário da Yulore Limited</string>
     <string name="bh_traffic_product_out_of_stock">Esgotado</string>
     <string name="bh_withdrawal_yulore_fail">"Não foi possível retirar o consentimento"</string>
     <string name="bh_withdrawal_yulore_success">Consentimento retirado com sucesso</string>
@@ -1374,7 +1374,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_pickup_surround_title">Redução de ruído do microfone</string>
     <string name="cs_pickup_vioce_print_guide_dialog_desc">Encerre a chamada e siga as instruções para iniciar.</string>
     <string name="cs_pickup_vioce_print_guide_dialog_title">Para captar o som de apenas uma pessoa, grave primeiro a impressão de voz dela.</string>
-    <string name="cs_pickup_vioce_print_unsupport_tips">Grave a impressão de voz antes de selecionar "Participante único"</string>
+    <string name="cs_pickup_vioce_print_unsupport_tips">Grave a impressão de voz antes de selecionar \"Participante único\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Desconecte os dispositivos externos e tente novamente</string>
     <string name="cs_pickup_voice_print_desc">Capte o som apenas de uma pessoa</string>
     <string name="cs_privacy_camera_global_settings_title">Privacidade de chamada</string>
@@ -1390,7 +1390,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_voice_print">Gravar impressão de voz</string>
     <string name="cs_voice_search">impressão de voz</string>
     <string name="cs_vt_camera_toast_case1">Abra a câmera no app atual</string>
-    <string name="cs_vt_camera_toast_case2">Sem dispositivo compatível por perto</string>
+    <string name="cs_vt_camera_toast_case2">Sem dispositivo compatível próximo</string>
     <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Central de alerta, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada.</string>
     <string name="cta_agree_desc">Para poder usar os nossos serviços, permita que este app conecte-se à internet e conceda as permissões listadas acima.</string>
     <string name="cta_close_dialog_cancel">Cancelar</string>
@@ -2227,7 +2227,7 @@ monitoramento de terremotos"</string>
     <string name="game_wid_viewpoint_buttom">Dê uma pausa.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">"Não aceitar"</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Aceitar</string>
-    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a></Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>&lt;br>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Booster</Data></string>
     <string name="gamebooster_confirm_dialog_title">Concorde com nossa Política de Privacidade</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
@@ -2697,7 +2697,7 @@ das suas sessões de jogos"</string>
     <string name="gd_sidebar_edit_quick_title">Atalhos</string>
     <string name="gd_sidebar_long_press_tips">Pressione e segure o indicador para movê-lo enquanto segura o dispositivo verticalmente</string>
     <string name="gd_splite_screen_tips">"A Tela dividida não suporta janelas flutuantes"</string>
-    <string name="gdpr_msg"><Data>Para poder detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre seu dispositivo. Leia e concorde com a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> antes de usar nossos serviços. Caso você não concorde com a coleta destas informações, você ainda poderá usar o app, mas alguns recursos não estarão disponíveis.</Data></string>
+    <string name="gdpr_msg"><Data>Para poder detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre seu dispositivo. Leia e aceite a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> antes de usar nossos serviços. Caso você não concorde com a coleta destas informações, você ainda poderá usar o app, mas alguns recursos não estarão disponíveis.</Data></string>
     <string name="get_detail_by_click">Toque para ver detalhes</string>
     <string name="get_phone_num_fail">Número de telefone desconhecido</string>
     <string name="get_sys_info">Obtendo informações…</string>

@@ -54,7 +54,7 @@
     <string name="added_to_clipboard">Copiado com sucesso</string>
     <string name="adopt">Usar</string>
     <string name="afternoon">"PM"</string>
-    <string name="ai_chat_declare_double_link"><Data>Leia e concorde com o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
+    <string name="ai_chat_declare_double_link"><Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="ai_chat_dlg_content">Para diversas fontes de informação em diferentes cenários (como links ou texto que aparecem em apps como navegadores, WeChat e Feishu), a função de coletar e resumir informações rapidamente, bem como gerá-las e apresentá-las automaticamente em uma entrada unificada para arquivamento, pode ser alcançado.</string>
     <string name="ai_createing_text">Geração de IA…</string>
     <string name="ai_check">Revisão de IA</string>
@@ -729,7 +729,7 @@
     <string name="pc_todo_fast_create_hint">Insira o texto e pressione \"Enter\" para adicionar uma tarefa não concluída</string>
     <string name="pc_todo_set_remind_time_hint">Definir hora</string>
     <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
-    <string name="permission_ai_desc_n">&lt;Data>Para fornecer os Serviços de IA do Notas, o Notas coletará o texto inserido para gerar resumos e otimizar o texto. Leia e concorde com a nossa &lt;a href=\"%1$s\">Política de Privacidade e Declaração de Compartilhamento de Dados de Terceiros&lt;/a> antes de continuar.&lt;/Data></string>
+    <string name="permission_ai_desc_n">&lt;Data>Para fornecer os Serviços de IA do Notas, o Notas coletará o texto inserido para gerar resumos e otimizar o texto. Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade e Declaração de Compartilhamento de Dados de Terceiros&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="permission_ai_title">Serviços de IA do Notas</string>
     <string name="permission_data_shared_desc">Declaração de Compartilhamento de Dados de Terceiros do Notas</string>
     <string name="permission_get_account_desc">Sincronizando notas com a nuvem</string>

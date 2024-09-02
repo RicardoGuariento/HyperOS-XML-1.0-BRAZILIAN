@@ -448,7 +448,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="exo_controls_stop_description">Pare</string>
     <string name="exo_controls_vr_description">Modo VR</string>
     <string name="exo_download_completed">Download completo</string>
-    <string name="exo_download_description">"Download"</string>
+    <string name="exo_download_description">Baixar</string>
     <string name="exo_download_downloading">Baixando</string>
     <string name="exo_download_failed">Falha ao baixar</string>
     <string name="exo_download_notification_channel_name">"Downloads"</string>
@@ -1573,9 +1573,9 @@ Aumentar a segurança da sua conta."</string>
     <string name="plus_player_share_screen_connect_success">Conectado com sucesso</string>
     <string name="plus_player_share_screen_device">Dispositivos disponíveis</string>
     <string name="plus_player_share_screen_in_device">Reproduzindo em %s…</string>
-    <string name="plus_player_share_screen_no_device">Não foi possível encontrar dispositivos por perto.</string>
+    <string name="plus_player_share_screen_no_device">Não foi possível encontrar dispositivos próximos.</string>
     <string name="plus_player_share_screen_play">Transmitindo vídeo…</string>
-    <string name="plus_player_share_screen_searching_device">Procurando dispositivos por perto…</string>
+    <string name="plus_player_share_screen_searching_device">Procurando dispositivos próximos…</string>
     <string name="plus_player_share_screen_starting_service">Preparando-se para transmitir…</string>
     <string name="plus_player_share_screen_stop">Parar de transmitir</string>
     <string name="plus_player_share_screen_video_not_support">Pré-visualizações não são suportadas para este formato de vídeo.</string>

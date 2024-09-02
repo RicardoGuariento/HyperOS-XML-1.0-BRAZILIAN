@@ -469,7 +469,7 @@ mm"</string>
     <string name="mtrl_picker_confirm">"OK"</string>
     <string name="mtrl_picker_date_header_title">Selecione a data</string>
     <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
-    <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
     <string name="mtrl_picker_end_date_description">Data final: %1$s</string>
     <string name="mtrl_picker_invalid_format">Formato inválido.</string>
     <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
@@ -664,6 +664,16 @@ dd/MM"</string>
     <string name="time_style_layout">"Layout"</string>
     <string name="tiny_accessibility_kg_battery_level">Bateria</string>
     <string name="tiny_camera_content_description">Câmera</string>
+    <string name="tiny_classic_date_format">d/M EEE</string>
+    <string name="tiny_clock_time_format_12">hh:mm</string>
+    <string name="tiny_clock_time_format_24">HH:mm</string>
+    <string name="tiny_doodle_clock_date">dd MMMM</string>
+    <string name="tiny_doodle_clock_week_full">EEEE</string>
+    <string name="tiny_pets_date_format">d/M</string>
+    <string name="tiny_pets_week_format">EE</string>
+    <string name="tiny_splicing_date_content_description">d/M</string>
+    <string name="tiny_splicing_date_format">d/M</string>
+    <string name="tiny_splicing_week_format">EE</string>
     <string name="tip_to_open_aod_mode">A Tela ambiente está desativada. Ativar agora?</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>

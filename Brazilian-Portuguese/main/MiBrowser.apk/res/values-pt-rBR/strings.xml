@@ -193,7 +193,7 @@
     <string name="avatar">Imagem de perfil</string>
     <string name="back_description">Voltar</string>
     <string name="back_home">Voltar para a Página inicial</string>
-    <string name="batch_download">"Download"</string>
+    <string name="batch_download">Baixar</string>
     <string name="batch_download_tip">Parece que vários itens estão sendo baixados ao mesmo tempo. Bloquear estes downloads?</string>
     <string name="billing_unavailable_message">"• Verifique se você está conectado à Play Store.
 • Atualize o Google Services Framework para a versão mais recente.
@@ -690,7 +690,7 @@ Envie este código para o supervisor."</string>
     <string name="download_paused_waiting_to_retry">Aguardando nova tentativa…</string>
     <string name="download_pending">Iniciando o download…</string>
     <string name="download_permission_name">Download</string>
-    <string name="download_permission_name_hint">Download %s</string>
+    <string name="download_permission_name_hint">Baixar %s</string>
     <string name="download_phone_tip">Telefone</string>
     <string name="download_privacy_head_text">Puxe para baixo para ver os arquivos ocultos</string>
     <string name="download_retry_after_network_available">"Não é possível conectar-se à rede"</string>
@@ -2860,7 +2860,7 @@ Você pode cancelar a sua participação em qualquer momento em Configurações 
     <string name="user_guide_color_mode_title">Selecione o esquema de cores</string>
     <string name="user_guide_control_privacy_tips">Tenha total controle de sua privacidade</string>
     <string name="user_guide_disagree">"Não concordo"</string>
-    <string name="user_guide_privacy_message">Leia e concorde com a nossa &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Política de Privacidade&lt;/a>&lt;/font> e o &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>Contrato do Usuário&lt;/a>&lt;/font> antes de usar o Centro de conteúdo.</string>
+    <string name="user_guide_privacy_message">Leia e aceite a nossa &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Política de Privacidade&lt;/a>&lt;/font> e o &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>Contrato do Usuário&lt;/a>&lt;/font> antes de usar o Centro de conteúdo.</string>
     <string name="user_guide_provide_service_content">Vídeos e notícias populares</string>
     <string name="user_guide_provide_service_title">Este recurso fornece os seguintes serviços:</string>
     <string name="user_guide_read_info_tips">Para poder incluir apps nos resultados da busca, o Navegador Mi precisa acessar a lista de apps instalados em seu dispositivo.</string>

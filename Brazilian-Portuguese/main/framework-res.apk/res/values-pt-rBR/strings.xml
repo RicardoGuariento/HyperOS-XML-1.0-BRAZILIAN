@@ -217,7 +217,7 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="activity_chooser_view_see_all">Ver tudo</string>
     <string name="activity_list_empty">Nenhum atividade correspondente foi encontrada.</string>
     <string name="activity_resolver_use_always">Sempre</string>
-    <string name="activity_resolver_use_once">Só uma vez</string>
+    <string name="activity_resolver_use_once">Apenas uma vez</string>
     <string name="activity_resolver_work_profiles_support">%1$s não aceita perfis de trabalho</string>
     <string name="activitychooserview_choose_application">Selecione um app</string>
     <string name="activitychooserview_choose_application_error">Não foi possível iniciar o %s</string>
@@ -1911,7 +1911,7 @@ para a conta %s."</string>
     <string name="safeMode">Modo de segurança</string>
     <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
 
-Ouvir em volume alto por longos períodos pode danificar sua audição."</string>
+A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="save_password_label">Confirmar</string>
     <string name="save_password_message">Quer que o navegador lembre desta senha?</string>
     <string name="save_password_never">Nunca</string>
