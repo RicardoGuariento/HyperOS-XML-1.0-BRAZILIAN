@@ -118,6 +118,13 @@
     <string name="catch_full_log_item_title_trace">Lentidão</string>
     <string name="catch_full_log_item_title_wifi">"Wi-Fi"</string>
     <string name="catch_full_log_item_title_wifi_china">"Wi-Fi"</string>
+    <string name="catch_full_log_not_show_again">"Não mostrar novamente"</string>
+    <string name="catch_full_log_note_affect_performance_decription">Parece que o processo de geração de log durou mais de %d hora. Se esse processo for concluído, você poderá enviar o feedback. Caso contrário, você poderá cancelar o processo ou continuar, mas continuar poderá afetar temporariamente a capacidade do seu dispositivo.</string>
+    <string name="catch_full_log_note_cancel_catch">Cancelar</string>
+    <string name="catch_full_log_note_catch">Geração de logs</string>
+    <string name="catch_full_log_note_decription">"Parece que você está gerando logs. Se este processo finalizou, você pode enviar o feedback. Caso contrário, continue ou cancele o processo."</string>
+    <string name="catch_full_log_note_still_catch">Continuar</string>
+    <string name="catch_full_log_note_to_commit">Enviar feedback</string>
     <string name="catch_full_log_notification_content">Toque para voltar aos logs</string>
     <string name="catch_full_log_notification_title">Gerando log…</string>
     <string name="catch_full_log_privacy_content_audio">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações sobre áudios no seu dispositivo, incluindo um histórico de reproduções e de gravações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
@@ -132,8 +139,10 @@
     <string name="catch_full_log_privacy_content_trace">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter estatísticas de uso do app (incluindo frequência da CPU, chamada do sistema, uso de memória, etc.). Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
     <string name="catch_full_log_privacy_content_wifi">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais, informações de localização, assim como endereços MAC ou IP do seu dispositivo. Se você estiver conectado a uma rede Wi-Fi sem segurança, também poderemos acessar parte dos seus dados de comunicação. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
     <string name="catch_full_log_privacy_content_wifi_china">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais, informações de localização, assim como endereços MAC ou IP do seu dispositivo. Se você estiver conectado a uma rede Wi-Fi sem segurança, também poderemos acessar parte dos seus dados de comunicação. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, em seguida, enviaremos para nossos servidores para localizar e corrigir os problemas reportados."</string>
+    <string name="catch_full_log_start_catch_log">Iniciar</string>
     <string name="catch_full_log_start_dump_hprof">Gerar logs de lentidão</string>
     <string name="catch_full_log_submit_directly">Enviar</string>
+    <string name="catch_log_notify">Notificações de captura de log</string>
     <string name="change_activate_email">Alterar o endereço de e-mail</string>
     <string name="change_password">Alterar a senha</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
@@ -161,8 +170,8 @@
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="description">Descreva o problema</string>
     <string name="diagnosis_log_send_failed">"Não foi possível enviar os logs. Tente novamente."</string>
-    <string name="diagnosis_log_sent_format">"Os logs foram enviados com sucesso.
-Conta/ID: %s
+    <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
+ID: %s
 Envie este código ao supervisor."</string>
     <string name="discard_draft_dialog_button_cancel">Cancelar</string>
     <string name="discard_draft_dialog_button_discard">Descartar</string>
@@ -207,7 +216,7 @@ Envie este código ao supervisor."</string>
     <string name="evening">"PM"</string>
     <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
     <string name="expand_button_title">Avançado</string>
-    <string name="facebook_login_btn_content_description">Entre com o Facebook</string>
+    <string name="facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
     <string name="failed_to_fetch_fql">"Não foi possível obter informações das Perguntas frequentes, verifique sua conexão de rede."</string>
     <string name="feedback_account_inconsistent_login_hint">Parece que você trocou de conta. Entre na sua Conta Mi usada anteriormente.</string>
@@ -222,7 +231,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_answer_detail_submit_dialog_title">Enviar feedback?</string>
     <string name="feedback_bug_status_change_notification_desc">Problema de %1$s - \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Selecionar problema</string>
-    <string name="feedback_choose_module">Selecione o item</string>
+    <string name="feedback_choose_module">Selecionar item</string>
     <string name="feedback_choose_module_hint">Obrigatório</string>
     <string name="feedback_choose_occurrence_time">Hora</string>
     <string name="feedback_choose_reproductivity">Reprodutividade</string>
@@ -234,9 +243,10 @@ Envie este código ao supervisor."</string>
     <string name="feedback_description">Descrição</string>
     <string name="feedback_description_hint">"Descreva aqui o problema que você encontrou.
 %1$d. Em qual app ou em qual página você encontrou o problema?
-%2$d. Após quais ações executadas o problema aconteceu?
+%2$d. Depois de quais ações executadas o problema aconteceu?
 %3$d. Forneça informações adicionais que possam nos ajudar a corrigir o problema."</string>
-    <string name="feedback_description_hint_suggestion">Diga-nos como gostaria que melhorássemos o HyperOS.</string>
+    <string name="feedback_description_hint_suggestion">Diga-nos como podemos melhorar.</string>
+    <string name="feedback_description_hint_suggestion_pad">Diga-nos como podemos melhorar.</string>
     <string name="feedback_description_suggest_hint">"Gostaria de adicionar uma nova função () porque eu preciso de ()."</string>
     <string name="feedback_detail_copy_toast">Copiado para a área de transferência</string>
     <string name="feedback_detail_feedback_attach">Anexos</string>
@@ -324,7 +334,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_title">Título</string>
     <string name="feedback_title_hint">Descreva o problema brevemente</string>
     <string name="feedback_title_occurrence_time">Selecionar hora</string>
-    <string name="feedback_title_reproductivity">Selecionar reprodutividade</string>
+    <string name="feedback_title_reproductivity">Selecione a frequência da ocorrência</string>
     <string name="feedback_tracking">Andamento do problema</string>
     <string name="feesback_list">Relatórios</string>
     <string name="find_psw">Esqueci a senha</string>
@@ -372,7 +382,7 @@ Envie este código ao supervisor."</string>
     <string name="get_ph_ticket">Obter código</string>
     <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi com um número de telefone. Não é possível adicionar mais contas.</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Por favor, aguarde 24 horas e tente novamente.</string>
-    <string name="google_login_btn_content_description">Entrar com o Google</string>
+    <string name="google_login_btn_content_description">Fazer login com o Google</string>
     <string name="goon_feedback_main">Continuar</string>
     <string name="goto_sign_up">Criar conta</string>
     <string name="header_help">Ajuda</string>
@@ -415,6 +425,9 @@ Envie este código ao supervisor."</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_apps">Carregando lista…</string>
+    <string name="log_catch_notice_content">Toque abaixo para finalizar ou cancelar este processo.</string>
+    <string name="log_catch_step">Passos para gerar logs</string>
+    <string name="log_catching_notice">Gerando logs</string>
     <string name="login_by_local_phone_long_text">Fazer login agora</string>
     <string name="login_by_local_phone_short_text">Fazer login</string>
     <string name="login_other">Outra Conta Mi</string>
@@ -555,7 +568,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="mobile_data_note_dialog_cancel">Aguardar por Wi-Fi</string>
-    <string name="mobile_data_note_dialog_cancel_china">Aguardando Wi-Fi</string>
+    <string name="mobile_data_note_dialog_cancel_china">Aguardar por Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Fazer upload</string>
     <string name="mobile_data_note_dialog_content">"Parece que você está conectado a uma rede paga. O upload dos logs poderá gerar cobranças adicionais."</string>
     <string name="mobile_data_note_dialog_content_with_file_size">"Parece que você está conectado a uma rede paga. O envio dos logs usará %s MB de dados móveis."</string>
@@ -565,7 +578,8 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="modem_tool_log_finish_desc">Log salvo como %s</string>
     <string name="modem_tool_log_finish_title">Log do modem capturado</string>
     <string name="module_communication">Comunicação</string>
-    <string name="module_data">Armazenamento e Dual apps</string>
+    <string name="module_connectivity">Interconectividade</string>
+    <string name="module_data">Armazenamento e dual apps</string>
     <string name="module_default_json">"[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Travamentos e reinicializações\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Aquecimento\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Redes móveis\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Outros erros\",\"categoryId\":10,\"order\":2}]"</string>
     <string name="module_desktop">Tela inicial e configurações</string>
     <string name="module_finance">Finanças e Mi Wallet</string>
@@ -623,10 +637,15 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="morning">"AM"</string>
     <string name="net_daig_network_repair">Reparo de rede</string>
     <string name="net_diag_cancel">Cancelar</string>
+    <string name="net_diag_click_to_show_help">Toque para ver a Ajuda</string>
     <string name="net_diag_continue">Continuar</string>
+    <string name="net_diag_diag_fail">"Não foi possível diagnosticar o problema. Verifique o status da sua conexão Wi-Fi."</string>
+    <string name="net_diag_diag_fail_china">"Não foi possível diagnosticar o problema. Verifique o status da sua conexão Wi-Fi."</string>
     <string name="net_diag_dialog_msg">Testar sua rede ajudará você a detectar problemas e melhorar sua conexão.</string>
+    <string name="net_diag_dialog_msg_china">Testar sua rede ajudará você a detectar problemas e melhorar sua conexão. Durante o teste, o Wi-Fi e o hotspots podem ser ligados e desligados automaticamente.</string>
     <string name="net_diag_dialog_no">Não</string>
     <string name="net_diag_dialog_title">Testar rede agora?</string>
+    <string name="net_diag_dialog_title_china">Testar rede agora?</string>
     <string name="net_diag_dialog_yes">Sim</string>
     <string name="net_diag_entry_link_quality">Qualidade da conexão</string>
     <string name="net_diag_entry_network_connectivity">Conectividade de rede</string>
@@ -637,20 +656,25 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="net_diag_entry_network_rssi">Qualidade do sinal</string>
     <string name="net_diag_entry_router_topology">Roteamento de rede</string>
     <string name="net_diag_fix_guide_window_msg">Ocorreu um erro de rede. Toque para solucionar problemas.</string>
+    <string name="net_diag_fix_guide_window_msg2">Toque para solucionar problemas</string>
     <string name="net_diag_fixing">Reparando rede. Isso pode levar um minuto.</string>
     <string name="net_diag_header_internet">"Internet"</string>
     <string name="net_diag_header_router">Roteador</string>
     <string name="net_diag_header_this_device">Este dispositivo</string>
+    <string name="net_diag_help">Ajuda</string>
     <string name="net_diag_repair_msg">Durante este processo, o Wi-Fi será desconectado e conectado novamente. Reparar agora?</string>
     <string name="net_diag_repair_msg_china">Durante este processo, o Wi-Fi será desconectado e conectado novamente. Reparar agora?</string>
     <string name="net_diag_repair_static_ip_msg">As configurações de rede podem ser redefinidas durante este processo. Reparar agora?</string>
     <string name="net_diag_repair_title">Reparar rede?</string>
     <string name="net_diag_title">Testar rede</string>
+    <string name="net_diag_title_china">Testar rede</string>
     <string name="net_diag_toast_cellular_data">Para testar a rede, desligue primeiro os dados móveis.</string>
     <string name="net_diag_toast_other_networks">Para testar a rede, conecte-se ao Wi-Fi e desconecte-se de outras redes primeiro.</string>
     <string name="net_diag_toast_other_networks_china">Para testar a rede, conecte-se ao Wi-Fi e desconecte-se de outras redes primeiro.</string>
     <string name="net_diag_toast_wifi_disconnected">Para testar a rede, conecte-se primeiro ao Wi-Fi.</string>
     <string name="net_diag_toast_wifi_disconnected_china">Para testar a rede, conecte-se primeiro ao Wi-Fi.</string>
+    <string name="net_diag_wlan_basic_functions">Recursos básicos de Wi-Fi</string>
+    <string name="net_diag_wlan_basic_functions_china">Recursos básicos de Wi-Fi</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="net_error_info">Nenhuma conexão de rede, toque aqui para acessar as Configurações</string>
     <string name="network_err">"Não é possível conectar-se à rede."</string>
@@ -668,6 +692,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="not_set">Não definido</string>
     <string name="not_support_service_in_maintenance_mode">"Este serviço não está disponível no modo manutenção"</string>
     <string name="ok">"OK"</string>
+    <string name="notify_log_catch_content">Após replicar o problema, toque na notificação para enviar o feedback ou mantenha pressionada a notificação para interromper a captura de logs.</string>
     <string name="open_feedback_main">Mais</string>
     <string name="open_settings">Ir para Configurações</string>
     <string name="passport_access_denied">Acesso negado</string>
@@ -907,6 +932,11 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="sns_access_token_expired_warning">Sessão expirada. Faça o login novamente para reconectar esta conta.</string>
     <string name="sns_bind_limit">Muitas tentativas efetuadas. Tente outras formas de login.</string>
     <string name="sns_sign_in">Outras formas de login</string>
+    <string name="special_log_catch">Gerar logs</string>
+    <string name="special_log_catch_tips">• O processo de geração de log pode afetar temporariamente as capacidades do dispositivo. Caso estes problemas persistam, cancele este processo na Área de notificações.</string>
+    <string name="special_log_catch_top_hint">Para nos ajudar a melhor localizar e corrigir o problema encontrado, siga os passos abaixo para gerar os logs para anexar.</string>
+    <string name="special_log_recorder">Gravar tela</string>
+    <string name="special_log_recorder_hint">Salve automaticamente a gravação da tela assim que os logs forem gerados</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
     <string name="solar_term_clear_and_bright">Claro e brilhante</string>
@@ -1011,16 +1041,18 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="title_answer_feedback_main">Encontramos respostas!</string>
     <string name="title_catch_full_log">"Logs"</string>
     <string name="title_customer_service">Atendimento ao cliente</string>
-    <string name="title_first_aid">Resolver problemas</string>
+    <string name="title_first_aid">Primeiros socorros</string>
     <string name="title_frequent_question_feedback_main">Perguntas frequentes</string>
     <string name="title_mi_family">Mi Homes próximas</string>
     <string name="title_nonsystem_app">Outros apps</string>
     <string name="title_same_question_feedback_main">Problemas semelhantes no Fórum HyperOS</string>
     <string name="title_system_app">Apps HyperOS</string>
     <string name="title_user_guide">Guia do usuário</string>
+    <string name="toast_a_log_is_catching">Gerando logs agora. Toque para finalizar.</string>
     <string name="toast_app_tag_required">Selecione o problema primeiro</string>
     <string name="toast_catch_full_log_catching">Você só pode gerar um log por vez.</string>
     <string name="toast_catch_full_log_open_failed">"Não foi possível iniciar a gravação do log."</string>
+    <string name="toast_cloud_video_obtain_fail">"Não é possível mostrar capas de vídeos baixados remotamente da nuvem"</string>
     <string name="toast_description_required">Descreva o problema primeiro</string>
     <string name="toast_feedback_collect_store">Coletando logs…</string>
     <string name="toast_feedback_network_unavailable">"Não é possível conectar-se à rede"</string>
@@ -1028,6 +1060,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="toast_feedback_submitting">Enviando…</string>
     <string name="toast_file_format_not_support">"Este formato de arquivo não é suportado. Tente selecionar um arquivo diferente."</string>
     <string name="toast_log_not_exists">"O log solicitado foi excluído ou não existe"</string>
+    <string name="toast_log_too_large">"Não é possível carregar logs com mais de %d GB"</string>
     <string name="toast_min_description_count">A sua descrição deve ser mais longa</string>
     <string name="toast_module_required">Selecionar itens</string>
     <string name="toast_network_unavailable">"Não foi possível enviar. Não é possível conectar-se à rede."</string>
@@ -1040,6 +1073,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="toast_report_sent_succeed">O relatório foi enviado</string>
     <string name="toast_screenshot_too_large">"Não é possível enviar imagens ou vídeos maiores do que %d MB."</string>
     <string name="toast_third_packagename_required">Informar o nome do app</string>
+    <string name="toast_upload_screenrecorder">Envie uma gravação de tela do problema para análise</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>
