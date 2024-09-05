@@ -1378,7 +1378,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_pickup_vioce_print_unsupport_tips">Grave a impressão de voz antes de selecionar \"Participante único\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Desconecte os dispositivos externos e tente novamente</string>
     <string name="cs_pickup_voice_print_desc">Capte o som apenas de uma pessoa</string>
-    <string name="cs_privacy_camera_global_settings_title">Privacidade de chamada</string>
+    <string name="cs_privacy_camera_global_settings_title">Privacidade de chamadas</string>
     <string name="cs_screen_translation_title">Tradução de tela</string>
     <string name="cs_simultaneous_interpretation_title">Interpretar</string>
     <string name="cs_title_pickup">Redução de ruído</string>
@@ -2229,7 +2229,7 @@ monitoramento de terremotos"</string>
     <string name="gamebooster_confirm_dialog_negative_btn">"Não aceitar"</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Aceitar</string>
     <string name="gamebooster_confirm_dialog_tip"><Data>&lt;br>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Booster</Data></string>
-    <string name="gamebooster_confirm_dialog_title">Concorde com nossa Política de Privacidade</string>
+    <string name="gamebooster_confirm_dialog_title">Aceite nossa Política de Privacidade</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
     <string name="gamebooster_dialog_start_booster_new">Impulsionar</string>
@@ -2792,9 +2792,9 @@ Pressione e segure o indicador para mover a janela."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
     <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Turbo</string>
-    <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Xunyou Game modificador de voz. Este serviço coletará seu ID da Conta Mi para registrar a duração da sua associação."</string>
-    <string name="gtb_dialog_privacy_voice_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game modificador de voz."</Data></string>
-    <string name="gtb_dialog_privacy_voice_title">Xunyou Game modificador de voz</string>
+    <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Modificador de voz Xunyou Game. Este serviço coletará seu ID da Conta Mi para registrar a duração da sua associação."</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Modificador de voz Xunyou Game."</Data></string>
+    <string name="gtb_dialog_privacy_voice_title">Modificador de voz Xunyou Game</string>
     <string name="gtb_dialog_summary_smart_5g">Sempre que o Game Turbo detectar uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso da rede. Ativar este recurso agora?</string>
     <string name="gtb_dialog_title_smart_5g">Otimização de rede 5G</string>
     <string name="gtb_dnd">Não perturbe</string>
@@ -4970,8 +4970,8 @@ Retirar consentimento agora?"</string>
     <string name="sd_insert_summary">Insira o cartão SD para montá-lo</string>
     <string name="sd_mount">Montar cartão SD</string>
     <string name="search_keyword_apply">"App"</string>
-    <string name="search_keyword_applybar">"App dock"</string>
-    <string name="search_keyword_call">Chamada</string>
+    <string name="search_keyword_applybar">Doca de apps</string>
+    <string name="search_keyword_call">Chamar</string>
     <string name="search_keyword_sidebar">Barra lateral</string>
     <string name="search_keyword_tool">Ferramentas</string>
     <string name="search_keyword_tools">Caixa de ferramentas</string>

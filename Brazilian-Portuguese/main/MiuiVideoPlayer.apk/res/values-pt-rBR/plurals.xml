@@ -29,6 +29,14 @@
         <item quantity="other">%d mins atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
+    <plurals name="bi_exist_playlist_toast1">
+        <item quantity="other">%d vídeos adicionados com sucesso</item>
+        <item quantity="one">%d vídeo adicionado com sucesso</item>
+    </plurals>
+    <plurals name="bi_exist_playlist_toast2">
+        <item quantity="other">%d vídeos já estão nesta playlist</item>
+        <item quantity="one">%d vídeo já está nesta playlist</item>
+    </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">Ver %d respostas</item>
         <item quantity="one">Ver %d resposta</item>
@@ -87,6 +95,10 @@
     <plurals name="local_longpress_speed_chenge_tip">
         <item quantity="other">Reproduzindo na velocidade %sX. Solte para reproduzir na velocidade normal.</item>
         <item quantity="one">Reproduzindo na velocidade %sX. Solte para reproduzir na velocidade normal.</item>
+    </plurals>
+    <plurals name="local_video_delete_confirm_text">
+        <item quantity="other">Se você continuar, todos os %s itens selecionados serão excluídos permanentemente. Excluir mesmo assim?</item>
+        <item quantity="one">Se você continuar, %s item selecionado será excluído permanentemente. Excluir mesmo assim?</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d pastas</item>
@@ -235,5 +247,13 @@
     <plurals name="video_view_count">
         <item quantity="other">%d visualizações</item>
         <item quantity="one">%d visualização</item>
+    </plurals>
+    <plurals name="vip_diaolg_pay_episoed">
+        <item quantity="other">Comprando episódio %d</item>
+        <item quantity="one">Comprando episódio %d</item>
+    </plurals>
+    <plurals name="vip_validity_date">
+        <item quantity="other">Período de validade: %d dias</item>
+        <item quantity="one">Período de validade: %d dia</item>
     </plurals>
 </resources>

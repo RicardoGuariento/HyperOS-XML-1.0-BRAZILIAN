@@ -89,6 +89,7 @@
     <string name="add_search_channel_name">Nome</string>
     <string name="add_search_channel_tip">Pesquise por \"%s\" no site de destino, e então copie e cole a URL aqui.</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
+    <string name="add_video_to_playlist">Adicionar à playlist</string>
     <string name="add_website">Adicionar um site</string>
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
@@ -111,6 +112,7 @@
     <string name="alert_dialog_download_prepare">Preparando para baixar…</string>
     <string name="alert_dialog_download_progress">"Baixando o app: "</string>
     <string name="all">Mostrar tudo</string>
+    <string name="already_exist_playlist_toast">O vídeo já está nesta playlist</string>
     <string name="am">"AM"</string>
     <string name="app_description_content">Mi Vídeo é um app do sistema que contém um reprodutor de vídeos locais. Você ainda poderá reproduzir arquivos de vídeo após remover o atalho da Tela inicial.</string>
     <string name="app_description_title">Remover Mi Vídeo da Tela inicial?</string>
@@ -312,6 +314,7 @@
 O Mi Vídeo está pronto para uma atualização.
 Atualize o app agora para conferir os novos recursos!
 Equipe do Mi Vídeo"</string>
+    <string name="delete_permanently">Excluir</string>
     <string name="description">Descrição</string>
     <string name="desktop_widget_local_media">Arquivos de mídia</string>
     <string name="desktop_widget_new">Novo</string>
@@ -1224,6 +1227,8 @@ Usaremos essa permissão apenas para encontrar os vídeos que você procura e n�
     <string name="network_error_tip">"Não foi possível conectar-se à rede. Verifique suas configurações de rede."</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_failed">Não foi possível conectar-se à rede</string>
+    <string name="new_playlist">Nova playlist</string>
+    <string name="new_video">Novo</string>
     <string name="network_timeout_info">Não foi possível conectar-se à rede. Tente novamente.</string>
     <string name="neverthink_player_loading">Carregando vídeo do Neverthink…</string>
     <string name="new_channel_tip">Dê uma olhada nos novos canais!</string>
@@ -1501,6 +1506,8 @@ Aumentar a segurança da sua conta."</string>
     <string name="pip_not_supported_toast">Atualize o HyperOS para poder usar Picture-in-Picture.</string>
     <string name="play_at_normal_speed">Reproduzindo na velocidade 1X</string>
     <string name="play_at_speed">Reproduzindo na velocidade %.1fX</string>
+    <string name="play_list_add">Adicionar à playlist</string>
+    <string name="play_list_add_successful_toast">Adicionado com sucesso</string>
     <string name="play_list_detial_add">Adicionar vídeos</string>
     <string name="play_list_detial_delete">Excluir</string>
     <string name="play_list_detial_play">Reproduzir</string>
@@ -2078,7 +2085,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="tt_error_request_invalid">Pedido inválido</string>
     <string name="tt_error_slot_id_app_id_differ">Erro de correspondência do SlotId e AppId</string>
     <string name="tt_error_splash_ad_type">Erro de tipo de anúncio inicial</string>
-    <string name="tt_error_union_os_error">Erro de tipo do OS</string>
+    <string name="tt_error_union_os_error">Erro do tipo do OS</string>
     <string name="tt_error_union_sdk_too_old">Versão do SDK muito baixa</string>
     <string name="tt_error_unknow">Erro desconhecido</string>
     <string name="tt_error_update_version">Atualize para a versão 2310 ou posterior</string>
@@ -2252,6 +2259,17 @@ Aumentar a segurança da sua conta."</string>
     <string name="video_resolution_tag_suffix">%dP</string>
     <string name="videos_guide_tip">Encontre as tendências da Indonésia aqui</string>
     <string name="view">Ver</string>
+    <string name="vip_pay_buy">Comprar</string>
+    <string name="vip_pay_cancel">Cancelar</string>
+    <string name="vip_pay_empty">Nada aqui ainda</string>
+    <string name="vip_pay_expire">" Expira"</string>
+    <string name="vip_pay_failed">"Não foi possível comprar"</string>
+    <string name="vip_pay_refunded">Reembolsado</string>
+    <string name="vip_pay_success">Comprado</string>
+    <string name="vip_pay_waiting">Aguarde…</string>
+    <string name="vip_purchase_history">Histórico de compras</string>
+    <string name="vip_qa">Precisar de ajuda? Veja &lt;a href=%1$s>FAQ e feedback&lt;/a></string>
+    <string name="vip_qa_title">FAQ e feedback</string>
     <string name="vk_video_tab">Para você</string>
     <string name="vp_VideoView_error_button">"OK"</string>
     <string name="vp_VideoView_error_text_unknown">Ocorreu um erro</string>
@@ -2283,6 +2301,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="widget_local_video_click">Toque para assistir a vídeos armazenados em seu dispositivo</string>
     <string name="widget_more_channel">Mais canais</string>
     <string name="widget_more_channel_click">Toque para ver os canais de TV</string>
+    <string name="widget_online_videos">Vídeo online</string>
     <string name="widget_trending_click">Toque para ver os vídeos mais populares de hoje</string>
     <string name="widget_trending_today">Popular hoje</string>
     <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
