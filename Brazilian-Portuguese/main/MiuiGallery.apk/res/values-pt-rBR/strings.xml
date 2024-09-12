@@ -199,7 +199,7 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_image_over_limit_button_create">Continuar</string>
     <string name="ai_image_over_limit_title">"Não é possível criar imagem IA"</string>
     <string name="ai_image_over_limit_title_update">"Não é possível atualizar imagens IA agora"</string>
-    <string name="ai_image_privacy_message"><Data>"Bem-vindo aos Retratos IA!&lt;br/>Para poder fornecer serviços a você, precisamos coletar as informações pessoais necessárias:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Para criar retratos IA, você terá que fazer upload &lt;b>fotos de pessoas&lt;/b> aos nossos servidores. Coletaremos e processaremos as informações sobre suas &lt;b>faces&lt;/b> para gerar um modelo IA.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Quando você carrega &lt;b>fotos de pessoas&lt;/b>, vamos sincronizar &lt;b>seus nomes e fotos de perfil&lt;/b> dos álbuns correspondentes e associar essas informações às imagens IA.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Quando você cria imagens IA com base em texto, coletaremos a &lt;b>descrição&lt;/b> que você fornece para gerar imagens.&lt;br/>Coletamos apenas informações pessoais necessárias para os recursos específicos dos produtos e serviços que você utiliza. Você pode saber como coletamos e processamos informações pessoais na &lt;a href=\"%4$s\">Política de Privacidade de Retratos IA&lt;/a>.&lt;br/>Leia e concorde com o &lt;a href=\"%5$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%6$s\">Política de Privacidade&lt;/a> do Retratos IA, antes de continuar."</Data></string>
+    <string name="ai_image_privacy_message">&lt;Data>Bem-vindo aos Retratos IA!&lt;br/>Para poder fornecer serviços a você, precisamos coletar as informações pessoais necessárias:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Para criar retratos IA, você terá que fazer upload &lt;b>fotos de pessoas&lt;/b> aos nossos servidores. Coletaremos e processaremos as informações sobre suas &lt;b>faces&lt;/b> para gerar um modelo IA.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Quando você carrega &lt;b>fotos de pessoas&lt;/b>, vamos sincronizar &lt;b>seus nomes e fotos de perfil&lt;/b> dos álbuns correspondentes e associar essas informações às imagens IA.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Quando você cria imagens IA com base em texto, coletaremos a &lt;b>descrição&lt;/b> que você fornece para gerar imagens.&lt;br/>Coletamos apenas informações pessoais necessárias para os recursos específicos dos produtos e serviços que você utiliza. Você pode saber como coletamos e processamos informações pessoais na &lt;a href=\"%4$s\">Política de Privacidade de Retratos IA&lt;/a>.&lt;br/>Leia e concorde com o &lt;a href=\"%5$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%6$s\">Política de Privacidade&lt;/a> do Retratos IA, antes de continuar.&lt;/Data></string>
     <string name="ai_input_name_hint">Insira o nome</string>
     <string name="ai_loading">Aguarde…</string>
     <string name="ai_multi_window_tip">"Esta página não pode ser visualizada em Tela dividida"</string>
@@ -366,7 +366,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="all_video_album_display_name">Todos os vídeos</string>
     <string name="already_authorize_to_device">Autorizado</string>
     <string name="already_cancel_authorize_to_device">Autorização revogada</string>
-    <string name="already_create_baby_album">O álbum do bebê já existe na MiCloud.</string>
+    <string name="already_create_baby_album">O Álbum do bebê já existe na MiCloud.</string>
     <string name="already_share">Compartilhado</string>
     <string name="am">"AM"</string>
     <string name="and"> e </string>
@@ -538,7 +538,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="btn_cancel">Cancelar</string>
     <string name="btn_cancel_send">Cancelar esta transferência</string>
     <string name="btn_exit_send">Sair</string>
-    <string name="btn_sure">Entendi</string>
+    <string name="btn_sure">"OK"</string>
     <string formatted="false" name="burst_image_download_item_title">Baixar original (%s|%s)</string>
     <string name="burst_photo_enter">Disparo</string>
     <string name="burst_photo_preview_thumbnail_content_description">Foto %d</string>
@@ -1285,7 +1285,7 @@ estão disponíveis"</string>
     <string name="filter_travel_charlotte">"Charlotte"</string>
     <string name="finish_create_baby_album_toast">Álbum criado para \"%s\" na MiCloud</string>
     <string name="finish_fill_baby">Criar</string>
-    <string name="first_delete_media_for_cloud">Os itens selecionados serão removidos da nuvem e de todos os dispositivos sincronizados com os itens excluídos recentemente e serão excluídos permanentemente após %d dias, a menos que você tenha um plano de armazenamento em nuvem. Excluir mesmo assim?</string>
+    <string name="first_delete_media_for_cloud">Os itens selecionados serão removidos da nuvem e de todos os dispositivos sincronizados e movidos para os \"Itens excluídos\" e serão excluídos permanentemente após %d dias, a não ser que você tenha um plano de armazenamento na nuvem. Excluir mesmo assim?</string>
     <string name="first_time_add_video_to_secret_tips">Atualize a Galeria para poder adicionar vídeos ao álbum privado</string>
     <string name="flash_off">Sem flash</string>
     <string name="flash_on">Com flash</string>
@@ -1352,7 +1352,7 @@ estão disponíveis"</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="functions_are_being_developed">Este recurso estará disponível em breve. Fique atento!</string>
+    <string name="functions_are_being_developed">Este recurso estará disponível em breve. Fique ligado!</string>
     <string name="gallery_setting">Configurações</string>
     <string name="gallery_sync_disable_toast">Sincronização desativada para a Galeria</string>
     <string name="gallery_uninstall_description_content">"Galeria é um app do sistema que permite visualizar, gerenciar e sincronizar fotos e vídeos em todos os dispositivos conectados. Se você desinstalar a Galeria, perderá os itens que tornou privados e outros recursos relacionados à visualização e seleção de itens da Galeria também serão não estará mais disponível para você. Desinstalar mesmo assim?"</string>
@@ -1372,7 +1372,7 @@ estão disponíveis"</string>
     <string name="gigabyteShort">"GB"</string>
     <string name="global_cloud_action_upgrade_onedrive">Atualizar plano OneDrive</string>
     <string name="global_cloud_full_space_tip_message">Atualize seu plano de armazenamento em nuvem para poder fazer backup de todas as suas fotos e vídeos na nuvem.</string>
-    <string name="global_help">"Não foi possível encontrar o dispositivo"</string>
+    <string name="global_help">"Não é possível localizar o dispositivo"</string>
     <string name="global_pad">Meu tablet</string>
     <string name="global_pc">Meu laptop</string>
     <string name="global_phone">Meu telefone</string>
@@ -1430,7 +1430,7 @@ estão disponíveis"</string>
     <string name="hdr_switch_show_hint">Usa o HDR para exibir mais detalhes em realces e sombras</string>
     <string name="hdr_switch_show_title">Exibição Pro HDR</string>
     <string name="hello_blank_fragment">Olá fragmento em branco</string>
-    <string name="help">"Não encontrou dispositivos?"</string>
+    <string name="help">"Não consegue encontrar dispositivos?"</string>
     <string name="help_content">"Caso não encontre o dispositivo que está procurando, peça que a outra pessoa ative o Xiaomi Share."</string>
     <string name="hidden_album_display_name">Álbum secreto</string>
     <string name="hide_nearby_photos">Ocultar fotos e vídeos próximos</string>
@@ -1974,7 +1974,7 @@ para personalizar a Galeria"</string>
     <string name="my_family">Meu lar</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="national_day">Dia Nacional</string>
-    <string name="nearby_share">Compartilhamento por proximidade</string>
+    <string name="nearby_share">Compartilhar por proximidade</string>
     <string name="need_to_turn_on_network">"O dispositivo não está conectado à internet"</string>
     <string name="need_to_turn_on_sync">Ativar sincronização com a nuvem</string>
     <string name="need_to_turn_on_sync_first">Ative a sincronização com a nuvem primeiro</string>

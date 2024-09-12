@@ -102,8 +102,8 @@ Faça login em sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="car_air_con_switch_close">Desligue o AC do carro</string>
     <string name="car_air_con_switch_open">Ligue o AC do carro</string>
     <string name="car_air_con_unuse">–-</string>
-    <string name="car_camera_associate_connecting">Conectando à câmera VE</string>
-    <string name="car_camera_associate_disconnecting">Desconectando da câmera VE</string>
+    <string name="car_camera_associate_connecting">Conectando à câmera EV</string>
+    <string name="car_camera_associate_disconnecting">Desconectando da câmera EV</string>
     <string name="car_camera_device_name">%1$s câmera de visão frontal</string>
     <string name="car_camera_unavailable_dialog_message">"O Modo de baixo consumo ou Modo de privacidade está ativado. Não é possível visualizar a imagem da câmera frontal do veículo no seu dispositivo móvel no momento."</string>
     <string name="car_camera_unavailable_dialog_positive_button">Entendi</string>
@@ -141,8 +141,8 @@ Faça login em sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="chip_text">Texto do chip</string>
     <string name="circulate_audio_group_title">Tocando…</string>
     <string name="circulate_back_button_content_description">Voltar</string>
-    <string name="circulate_car_card_use_camera">Usar câmera VE</string>
-    <string name="circulate_car_card_using_camera">Usando câmera VE</string>
+    <string name="circulate_car_card_use_camera">Usar câmera do EV</string>
+    <string name="circulate_car_card_using_camera">Usando a câmera frontal do EV</string>
     <string name="circulate_card_disconnect">Desconectar</string>
     <string name="circulate_card_loading_title_audio_stereo">Sistema estéreo</string>
     <string name="circulate_card_loading_title_band">Banda</string>
@@ -514,7 +514,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="dialog_scanning_close_dual_wifi_global">Desative \"Acelerar velocidade com Wi-Fi dual band\" para poder transmitir. Desativar este recurso agora?</string>
     <string name="dialog_scanning_close_tethering">Desative o hotspot para poder transmitir. Desativar o hotspot agora?</string>
     <string name="dialog_scanning_device">Procurando dispositivos próximos…</string>
-    <string name="dialog_scanning_precondition">Ative o Wi-Fi e o Bluetooth no seu dispositivo para usar o Display sem fios.</string>
+    <string name="dialog_scanning_precondition">Ative o Wi-Fi e o Bluetooth no seu dispositivo para usar o Display sem fio.</string>
     <string name="dialog_scanning_precondition_new_china">Ative o Wi-Fi, Bluetooth, e o serviços de localização para poder usar a transmissão. Ativar agora?</string>
     <string name="dialog_scanning_precondition_new_global">Ative o Wi-Fi e o serviços de localização para poder usar a transmissão. Ativar agora?</string>
     <string name="dialog_select_tv">Selecione o dispositivo (%1$d)</string>
@@ -715,7 +715,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="help_page_text_28">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode pressionar o botão [MENU] no controle remoto e selecionar Configurações > Conexão > Rede > Várias telas.</string>
     <string name="help_page_text_29">Suporte ao cliente TPV: 400-887-8007</string>
     <string name="help_page_text_30">"Hisense"</string>
-    <string name="help_page_text_31">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode pressionar o botão [SMART] no controle remoto e selecionar \"Transmissão > Display sem fios\". Alguns modelos também suportam transmissão para jogos: Hi Cast > Transmitir jogos > Android.</string>
+    <string name="help_page_text_31">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode pressionar o botão [SMART] no controle remoto e selecionar \"Transmissão > Display sem fio\". Alguns modelos também suportam transmissão para jogos: Hi Cast > Transmitir jogos > Android.</string>
     <string name="help_page_text_32">Suporte ao cliente Hisense: 400-611-1111</string>
     <string name="help_page_text_33">"Skyworth"</string>
     <string name="help_page_text_34">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode selecionar Apps > Transmissão > Dispositivo Android > Miracast.</string>
@@ -730,17 +730,17 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="help_page_text_43">Verifique as configurações da sua TV para certificar-se de que seu monitor externo suporta o recurso Miracast.</string>
     <string name="help_page_text_44">Suporte ao cliente Changhong: 400-811-1666</string>
     <string name="help_page_text_45">"TCL"</string>
-    <string name="help_page_text_46">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode selecionar Apps > Display sem fios.</string>
+    <string name="help_page_text_46">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode selecionar Apps > Display sem fio.</string>
     <string name="help_page_text_47">Suporte ao cliente TCL: 400-812-3456</string>
     <string name="help_page_text_48">"AODIN"</string>
     <string name="help_page_text_49">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode ir em Meus apps > Tela Wi-Fi.</string>
     <string name="help_page_text_50">Suporte ao cliente AODIN: 400-810-5858</string>
     <string name="help_page_text_51">"LeEco"</string>
-    <string name="help_page_text_52">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode ativar este recurso em Configurações > Redes > Várias telas > Display sem fios.</string>
+    <string name="help_page_text_52">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode ativar este recurso em Configurações > Redes > Várias telas > Display sem fio.</string>
     <string name="help_page_text_53">Suporte ao cliente LeEco: 10109000</string>
-    <string name="help_page_text_55">"Caso não consiga se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Espelhamento de tela ou Múltiplas telas. Veja as informações abaixo para saber como ativar o Miracast.
+    <string name="help_page_text_55">"Caso não consiga se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fio, Espelhamento de tela ou Múltiplas telas. Veja as informações abaixo para saber como ativar o Miracast.
 %1$d. Se encontrar algum problema, você pode relatá-lo usando nosso app Serviços e feedback."</string>
-    <string name="help_page_text_55_global">"Caso não consiga se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Screen Mirroring ou Múltiplas telas.
+    <string name="help_page_text_55_global">"Caso não consiga se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fio, Screen Mirroring ou Múltiplas telas.
 %1$d. Se encontrar algum problema, você pode relatá-lo usando nosso app Serviços e feedback."</string>
     <string name="help_page_text_end">"Se o modelo do seu dispositivo não estiver listado aqui, entre em contato com o fabricante para saber mais sobre a funcionalidade de transmissão."</string>
     <string name="hm_always">Lembrar</string>

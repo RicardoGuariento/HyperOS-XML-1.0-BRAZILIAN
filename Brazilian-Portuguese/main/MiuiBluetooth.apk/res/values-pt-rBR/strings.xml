@@ -87,8 +87,8 @@
     <string name="adb_wireless_qrcode_summary">Pareie o dispositivo via Wi-Fi escaneando um código QR</string>
     <string name="adb_wireless_settings">Depuração sem fio</string>
     <string name="adb_wireless_verifying_qrcode_text">Pareando dispositivo…</string>
-    <string name="adbwifi_warning_message">A depuração sem fios é destinada apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro.</string>
-    <string name="adbwifi_warning_title">Permitir depuração sem fios?</string>
+    <string name="adbwifi_warning_message">A depuração sem fio é destinada apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro.</string>
+    <string name="adbwifi_warning_title">Permitir depuração sem fio?</string>
     <string name="add_user_failed">Falha ao criar um novo usuário</string>
     <string name="afternoon">"PM"</string>
     <string name="alarm_template">às %1$s</string>
@@ -144,13 +144,13 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_connected">Pareado</string>
     <string name="bluetooth_connected_active">Conectado %1$s</string>
     <string name="bluetooth_connected_battery_level">Conectado | Bateria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp">Conectado (sem mídia)%1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Conectado (sem mídia) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Conectado (sem mídia) | Bateria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">Conectado (sem telefone)%1$s</string>
+    <string name="bluetooth_connected_no_headset">Conectado (sem telefone) %1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">Conectado (sem telefone) | Bateria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem telefone ou mídia)%1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem telefone ou mídia) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectado (sem telefone ou mídia) | Bateria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_map">Conectado (sem acesso a mensagens)%1$s</string>
+    <string name="bluetooth_connected_no_map">Conectado (sem acesso a mensagens) %1$s</string>
     <string name="bluetooth_connecting">Pareando…</string>
     <string name="bluetooth_device_context_unpair">Desparear</string>
     <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
@@ -375,7 +375,7 @@ Taxa de amostragem"</string>
     <string name="easy_tether_statusbar_dialog_connected_title">Conectado</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver conectado</string>
-    <string name="enable_adb_wireless">Depuração sem fios</string>
+    <string name="enable_adb_wireless">Depuração sem fio</string>
     <string name="enable_adb_wireless_summary">Modo de depuração quando o Wi-Fi estiver conectado</string>
     <string name="enable_freeform_support">Ativar janelas de forma livre</string>
     <string name="enable_freeform_support_summary">Ativa o suporte experimental para janelas de forma livre</string>
@@ -625,7 +625,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="media_category">Mídia</string>
     <string name="media_transfer_this_device_name">Alto-falante do dispositivo</string>
     <string name="media_transfer_this_phone">Este dispositivo</string>
-    <string name="media_transfer_wired_device_name">Dispositivo de áudio com fios</string>
+    <string name="media_transfer_wired_device_name">Dispositivo de áudio com fio</string>
     <string name="media_transfer_wired_usb_device_name">Fones de ouvido com fio</string>
     <string name="mi_audio_relay_cancel">"OK"</string>
     <string name="mi_audio_relay_connect_failed">Falhou</string>
@@ -1194,8 +1194,8 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_disabled_password_failure">Problema de autenticação</string>
     <string name="wifi_disabled_wifi_failure">Falha na conexão do Wi-Fi</string>
     <string name="wifi_disconnected">Desconectado</string>
-    <string name="wifi_display_certification">Certificação do Display sem fios</string>
-    <string name="wifi_display_certification_summary">Mostrar opções de certificação de Display sem fios</string>
+    <string name="wifi_display_certification">Certificação do Display sem fio</string>
+    <string name="wifi_display_certification_summary">Mostrar opções de certificação de Display sem fio</string>
     <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_enhanced_mac_randomization">Randomização aprimorada de MAC do Wi-Fi</string>

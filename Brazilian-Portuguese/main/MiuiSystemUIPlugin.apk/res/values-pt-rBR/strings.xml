@@ -490,7 +490,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">A Aceleração de rede com Wi-Fi dual band precisa usar duas bandas de Wi-Fi diferentes. Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
     <string name="quick_settings_wifi_detail_empty_text">Nenhuma rede Wi-Fi disponível</string>
     <string name="quick_settings_wifi_label">"Wi-Fi"</string>
-    <string name="quick_settings_wireless_label">Carregamento reverso sem fios</string>
+    <string name="quick_settings_wireless_label">Carregamento reverso sem fio</string>
     <string name="reboot_info_auto_boot">Dispositivo programado para ligar: %s</string>
     <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>
     <string name="recovery">"Recovery"</string>
@@ -608,18 +608,18 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="wifi_is_off">Wi-Fi desativado</string>
-    <string name="wireless_charging_connected_message">"Não é possível usar o carregamento reverso sem fios quando seu dispositivo estiver sendo carregado sem fios."</string>
+    <string name="wireless_charging_connected_message">"Não é possível usar o carregamento reverso sem fio quando seu dispositivo estiver sendo carregado sem fio."</string>
     <string name="wireless_charging_fg_control_cancel">Cancelar</string>
-    <string name="wireless_charging_fg_control_messgae">"O carregamento reverso sem fios foi desativado porque há menos de %d%% de bateria restante. Você pode ajustar as configurações para permitir que o carregamento reverso sem fio funcione por mais tempo."</string>
+    <string name="wireless_charging_fg_control_messgae">"O carregamento reverso sem fio foi desativado porque há menos de %d%% de bateria restante. Você pode ajustar as configurações para permitir que o carregamento reverso sem fio funcione por mais tempo."</string>
     <string name="wireless_charging_fg_control_ok">Ajustar</string>
-    <string name="wireless_charging_low_battery_level_message">"Não é possível usar o carregamento reverso sem fios quando a bateria está com menos de %d%% de carga."</string>
+    <string name="wireless_charging_low_battery_level_message">"Não é possível usar o carregamento reverso sem fio quando a bateria está com menos de %d%% de carga."</string>
     <string name="wireless_charging_ok">Entendi</string>
     <string name="wireless_charging_saver_cancel">Desativar</string>
-    <string name="wireless_charging_saver_message">A Economia de bateria está ativada. Manter o carregamento reverso sem fios disponível?</string>
+    <string name="wireless_charging_saver_message">A Economia de bateria está ativada. Manter o carregamento reverso sem fio disponível?</string>
     <string name="wireless_charging_saver_ok">Manter</string>
     <string name="wireless_charging_tips_disable">"Não mostrar novamente"</string>
-    <string name="wireless_charging_tips_message">Coloque o dispositivo que você deseja carregar sem fios (ex.: telefone, relógio inteligente, fones de ouvido) na parte de trás deste dispositivo. Certifique-se de que este dispositivo esteja com pelo menos %d%% carregado antes de usar o carregamento reverso sem fios.</string>
-    <string name="wireless_charging_tips_sub_message">O outro dispositivo deve ser compatível com o recurso de carregamento sem fios Qi.</string>
-    <string name="wireless_charging_tips_title">Carregamento reverso sem fios</string>
+    <string name="wireless_charging_tips_message">Coloque o dispositivo que você deseja carregar sem fio (ex.: telefone, relógio inteligente, fones de ouvido) na parte de trás deste dispositivo. Certifique-se de que este dispositivo esteja com pelo menos %d%% carregado antes de usar o carregamento reverso sem fio.</string>
+    <string name="wireless_charging_tips_sub_message">O outro dispositivo deve ser compatível com o recurso de carregamento sem fio Qi.</string>
+    <string name="wireless_charging_tips_title">Carregamento reverso sem fio</string>
     <string name="yesterday">Ontem</string>
 </resources>

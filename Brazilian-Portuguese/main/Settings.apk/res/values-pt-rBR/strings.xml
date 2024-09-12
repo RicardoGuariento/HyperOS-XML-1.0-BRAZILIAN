@@ -3849,7 +3849,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_2g_title">Permitir 2G.</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Altere para o modo de depuração quando o USB estiver conectado</string>
-    <string name="enable_adb_wireless">Depuração sem fios</string>
+    <string name="enable_adb_wireless">Depuração sem fio</string>
     <string name="enable_adb_wireless_summary">Modo de depuração quando o Wi-Fi estiver conectado</string>
     <string name="enable_angle_as_system_driver">Ativar ANGLE</string>
     <string name="enable_angle_as_system_driver_summary">Ative ANGLE como driver OpenGL ES do sistema</string>
@@ -3904,7 +3904,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_uft">Ativar uft</string>
     <string name="enable_verbose_vendor_logging">Ativar registro extenso de fornecedor</string>
     <string name="enable_verbose_vendor_logging_summary">Incluir registros de fornecedor específicos em relatórios de erros, que podem conter informações pessoais, usar mais bateria, e/ou usar mais armazenamento.</string>
-    <string name="enable_wifi_display">Display sem fios</string>
+    <string name="enable_wifi_display">Display sem fio</string>
     <string name="enabled">Ativado</string>
     <string name="enabled_5g_mode_title">Ativar o 5G</string>
     <string name="enabled_authorised_apps_summary">Sua autorização será revogada após você alterar a posição da chave seletora para apps individuais.</string>
@@ -6213,7 +6213,7 @@ Não poderá reverter esta ação."</string>
     <string name="media_transfer_external_device_name">Dispositivo externo</string>
     <string name="media_transfer_this_device_name">Este dispositivo</string>
     <string name="media_transfer_this_phone">Este aparelho</string>
-    <string name="media_transfer_wired_device_name">Dispositivo de áudio com fios</string>
+    <string name="media_transfer_wired_device_name">Dispositivo de áudio com fio</string>
     <string name="media_transfer_wired_usb_device_name">Fones de ouvido com fio</string>
     <string name="media_volume_option_title">Mídias</string>
     <string name="media_volume_summary">Definir o volume para música e vídeos</string>
@@ -11717,15 +11717,15 @@ Veja a Política de Privacidade da sua operadora para obter detalhes."</string>
     <string name="wfd_disconnect_diag_title">Desconectar tela?</string>
     <string name="wfd_disconnect_multiple_diag_message">Desconectar-se de %1$s e %2$s outros dispositivos?</string>
     <string name="wfd_enable_wifi_diag_title">Ativar Wi-Fi?</string>
-    <string name="wfd_enabler_title">Display sem fios</string>
+    <string name="wfd_enabler_title">Display sem fio</string>
     <string name="wfd_menu_search">Procurar por dispositivos</string>
     <string name="wfd_menu_searching">Procurando…</string>
     <string name="wfd_menu_teardown">Desconectar</string>
     <string name="wfd_settings_description">Conecte-se a uma tela sem fios</string>
-    <string name="wfd_settings_title">Display sem fios</string>
+    <string name="wfd_settings_title">Display sem fio</string>
     <string name="wfd_status_dialog_disconnect">Desconectar</string>
     <string name="wfd_status_dialog_message">O conteúdo da tela está sendo transmitido para outra tela sem fios</string>
-    <string name="wfd_status_dialog_title">Display sem fios</string>
+    <string name="wfd_status_dialog_title">Display sem fio</string>
     <string name="wfd_wps_keypad">Usar teclado</string>
     <string name="wfd_wps_pbc">Inserir PIN</string>
     <string name="whetstone_level_reboot">Esta configuração terá efeito após você reiniciar seu dispositivo.</string>
@@ -12078,7 +12078,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_menu_p2p">"Wi-Fi Direct"</string>
     <string name="wifi_menu_remember">Lembrar da rede</string>
     <string name="wifi_menu_scan">Verificar</string>
-    <string name="wifi_menu_wfd">Display sem fios</string>
+    <string name="wifi_menu_wfd">Display sem fio</string>
     <string name="wifi_menu_wps_pin">Insira o PIN WPS</string>
     <string name="wifi_metered_label">Limitada</string>
     <string name="wifi_metered_title">Uso da rede</string>
@@ -12462,9 +12462,12 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="winscope_trace_quick_settings_title">Rastreamento do Winscope</string>
     <string name="wireless_connected">Conectado</string>
     <string name="wireless_debugging_main_switch_title">Use depuração sem fio</string>
+    <string name="wireless_display">Display sem fio</string>
     <string name="wireless_networks_settings_title">Redes sem fio e outras</string>
     <string name="wireless_off">Desativado</string>
     <string name="wireless_on">Ativado</string>
+    <string name="wireless_secondary_display">Extensão de display sem fio</string>
+    <string name="wireless_secondary_display_description">Use seu tablet como uma extensão de display sem fio para um computador próximo</string>
     <string name="wizard_back">Voltar</string>
     <string name="wizard_back_adoptable">Formate de outra maneira</string>
     <string name="wizard_finish">Concluir</string>

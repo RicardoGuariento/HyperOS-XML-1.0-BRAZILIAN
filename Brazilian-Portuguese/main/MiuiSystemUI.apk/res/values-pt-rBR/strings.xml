@@ -399,10 +399,10 @@
     <string name="adb_wireless_qrcode_pairing_description">Parear o dispositivo via Wi‑Fi escaneando um código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Escanear o código QR</string>
     <string name="adb_wireless_qrcode_summary">Parear o dispositivo via Wi‑Fi escaneando um código QR</string>
-    <string name="adb_wireless_settings">Depuração sem fios</string>
+    <string name="adb_wireless_settings">Depuração sem fio</string>
     <string name="adb_wireless_verifying_qrcode_text">Pareando dispositivo…</string>
-    <string name="adbwifi_warning_message">A depuração sem fios é destinada apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu dispositivo sem notificação e ler dados de registro.</string>
-    <string name="adbwifi_warning_title">Permitir depuração sem fios?</string>
+    <string name="adbwifi_warning_message">A depuração sem fio é destinada apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu dispositivo sem notificação e ler dados de registro.</string>
+    <string name="adbwifi_warning_title">Permitir depuração sem fio?</string>
     <string name="add_tile">Adicionar mosaico</string>
     <string name="add_guest_failed">Falha ao criar um novo convidado</string>
     <string name="add_user_failed">Falha ao criar um novo usuário</string>
@@ -951,12 +951,12 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="drive_mode_tip_notch">Modo carro</string>
     <string name="early_morning">"AM"</string>
     <string name="emergency_call_string">Emergência</string>
-    <string name="empty_shade_text">Nenhuma notificação</string>
+    <string name="empty_shade_text">Sem notificações</string>
     <string name="empty_status">Vamos conversar esta noite!</string>
     <string name="empty_user_name">Amigos</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Mudar para modo de depuração quando o USB estiver conectado</string>
-    <string name="enable_adb_wireless">Depuração sem fios</string>
+    <string name="enable_adb_wireless">Depuração sem fio</string>
     <string name="enable_adb_wireless_summary">Modo de depuração quando o Wi-Fi estiver conectado</string>
     <string name="enable_bluetooth_confirmation_ok">Ativar</string>
     <string name="enable_bluetooth_message">Para conectar o teclado ao seu tablet, ative o Bluetooth primeiro.</string>
@@ -1402,7 +1402,7 @@ Entre em contato com sua operadora para obter outro cartão SIM."</string>
     <string name="keyguard_plugged_in_charging_fast">%s • Carregamento rápido</string>
     <string name="keyguard_plugged_in_charging_limited">%s • Carregamento temporariamente limitado</string>
     <string name="keyguard_plugged_in_charging_slowly">%s • Carregando lentamente</string>
-    <string name="keyguard_plugged_in_wireless">%s • Carregamento sem fios</string>
+    <string name="keyguard_plugged_in_wireless">%s • Carregamento sem fio</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Carregamento rápido. Toque para ver detalhes.</string>
     <string name="keyguard_retry">Deslizar para cima para tentar novamente</string>
     <string name="keyguard_sim_error_message_short">Cartão inválido</string>
@@ -1929,7 +1929,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="no_auto_saver_action">Não, obrigado</string>
     <string name="no_conversations_text">Suas conversas recentes aparecerão aqui</string>
     <string name="no_multi_window_app">Nenhum app com suporte à Tela dividida</string>
-    <string name="no_notification_tips">Nenhuma notificação</string>
+    <string name="no_notification_tips">Sem notificações</string>
     <string name="no_shortcut">%1$s não suporta recursos de conversas</string>
     <string name="no_tiles_add">Sem atalhos para adicionar</string>
     <string name="noon">"PM"</string>
@@ -2823,7 +2823,7 @@ d 'de' MMMM"</string>
     <string name="status_bar_network_flow_limit">"     Limite mensal: %1$s     "</string>
     <string name="status_bar_network_flow_purchase">"     Comprar >"</string>
     <string name="status_bar_network_flow_today">Hoje: %1$s</string>
-    <string name="status_bar_no_notifications_title">Nenhuma notificação</string>
+    <string name="status_bar_no_notifications_title">Sem notificações</string>
     <string name="status_bar_no_recent_apps">A tela de seus apps recentes aparece aqui</string>
     <string name="status_bar_notification_app_settings_title">Configurações para %s</string>
     <string name="status_bar_notification_inspect_item_title">Configuração de notificações</string>
@@ -3040,7 +3040,7 @@ Toque para obter mais informações"</string>
     <string name="tuner_toast">Parabéns! O Customizador da Interface do sistema foi adicionado às Configurações</string>
     <string name="tuner_warning">O Customizador da Interface de sistema lhe dá outras formas de personalizar e otimizar a interface do usuário do Android. Estes recursos experimentais podem alterar, quebrar ou desaparecer em lançamentos futuros. Proceda com cautela.</string>
     <string name="tuner_warning_title">Divertido para alguns mas não para todos</string>
-    <string name="tv_notification_panel_no_notifications">Nenhuma notificação</string>
+    <string name="tv_notification_panel_no_notifications">Sem notificações</string>
     <string name="tv_notification_panel_title">Notificações</string>
     <string name="two_weeks_timestamp">2 semanas atrás</string>
     <string name="un_important_notifications">Não importante</string>
@@ -3251,8 +3251,8 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
 
 Endereço do Wi-Fi (BSSID)
 %2$s"</string>
-    <string name="wifi_debugging_secondary_user_message">O usuário atualmente conectado a este dispositivo não pode ativar a depuração sem fios. Para usar este recurso, mude para o usuário primário.</string>
-    <string name="wifi_debugging_secondary_user_title">Depuração sem fios não permitida</string>
+    <string name="wifi_debugging_secondary_user_message">O usuário atualmente conectado a este dispositivo não pode ativar a depuração sem fio. Para usar este recurso, mude para o usuário primário.</string>
+    <string name="wifi_debugging_secondary_user_title">Depuração sem fio não permitida</string>
     <string name="wifi_debugging_title">Permitir depuração sem fio nesta rede?</string>
     <string name="wifi_disabled_by_recommendation_provider">Não conectado devido à rede estar com baixa qualidade</string>
     <string name="wifi_disabled_generic">Desativada</string>
@@ -3260,8 +3260,8 @@ Endereço do Wi-Fi (BSSID)
     <string name="wifi_disabled_password_failure">Problema de autenticação</string>
     <string name="wifi_disabled_wifi_failure">Não foi possível conectar-se ao Wi-Fi</string>
     <string name="wifi_disconnected">Desconectado</string>
-    <string name="wifi_display_certification">Certificação do Display sem fios</string>
-    <string name="wifi_display_certification_summary">Mostrar opções de certificação de Display sem fios</string>
+    <string name="wifi_display_certification">Certificação do Display sem fio</string>
+    <string name="wifi_display_certification_summary">Mostrar opções de certificação de Display sem fio</string>
     <string name="wifi_enhanced_mac_randomization">Randomização aprimorada de MAC do Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Quando este modo está ativado, o endereço MAC deste dispositivo pode alterar cada vez que ele se conectar a uma rede que possui randomização de MAC ativada.</string>
     <string name="wifi_fail_to_scan">Não é possível procurar por redes</string>
@@ -3391,22 +3391,22 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wind_format">%1$s | Nível %2$s</string>
     <string name="window_animation_scale_title">Escala de animação da janela</string>
     <string name="window_blurs">Permitir desfoques de janelas</string>
-    <string name="wireless_change_to_ac_charging">Alterado para o carregamento sem fios</string>
+    <string name="wireless_change_to_ac_charging">Alterado para o carregamento sem fio</string>
     <string name="wireless_charge_current">Carregando</string>
     <string name="wireless_charge_dialog_cancel">Entendi</string>
     <string name="wireless_charge_dialog_title">Coloque seu dispositivo no centro da base de carregamento</string>
     <string name="wireless_charge_reset_device">O carregamento está lento. Ajuste o seu dispositivo.</string>
     <string name="wireless_charge_reset_device_detail">Certifique-se de que a posição do dispositivo na base de carregamento está correta</string>
-    <string name="wireless_charge_stop">Carregamento sem fios interrompido</string>
-    <string name="wireless_charging_connected_message">Não é possível usar o carregamento reverso sem fios quando seu dispositivo está carregando sem fios.</string>
-    <string name="wireless_charging_low_battery_level_message">Não é possível usar o carregamento reverso sem fios quando a bateria está com menos de 30% de carga.</string>
+    <string name="wireless_charge_stop">Carregamento sem fio interrompido</string>
+    <string name="wireless_charging_connected_message">Não é possível usar o carregamento reverso sem fio quando seu dispositivo está carregando sem fio.</string>
+    <string name="wireless_charging_low_battery_level_message">Não é possível usar o carregamento reverso sem fio quando a bateria está com menos de 30% de carga.</string>
     <string name="wireless_charging_ok">Entendi</string>
     <string name="wireless_charging_saver_cancel">Desativar</string>
-    <string name="wireless_charging_saver_message">A Economia de bateria está ativada agora. Manter o carregamento reverso sem fios disponível?</string>
+    <string name="wireless_charging_saver_message">A Economia de bateria está ativada agora. Manter o carregamento reverso sem fio disponível?</string>
     <string name="wireless_charging_saver_ok">Manter</string>
     <string name="wireless_charging_tips_disable">Não mostrar novamente</string>
-    <string name="wireless_charging_tips_message">Coloque dispositivos que suportam carregamento sem fios Qi (telefones, acessórios, etc.) na traseira deste dispositivo.</string>
-    <string name="wireless_charging_tips_title">Carregamento reverso sem fios</string>
+    <string name="wireless_charging_tips_message">Coloque dispositivos que suportam carregamento sem fio Qi (telefones, acessórios, etc.) na traseira deste dispositivo.</string>
+    <string name="wireless_charging_tips_title">Carregamento reverso sem fio</string>
     <string name="wrong_password">Senha incorreta</string>
     <string name="yesterday">Ontem</string>
     <string name="zen_alarm_warning">Você não ouvirá o seu próximo alarme %1$s</string>
