@@ -325,8 +325,6 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_giftcard_in_available">Disponível</string>
     <string name="mibi_giftcard_payment">Gift cards</string>
     <string name="mibi_giftcard_payment_with_append">Aplicar gift card</string>
-    <string name="mibi_giftcard_push_notification_prime_title">"Você recebeu um gift card"</string>
-    <string name="mibi_giftcard_push_notification_sub_title">%1$s: Sorteio de %2$s Mi Créditos.</string>
     <string name="mibi_giftcard_record">Meus gift cards</string>
     <string name="mibi_giftcard_unavailable">Expirado</string>
     <string name="mibi_giftcard_use_now">Resgatar</string>
@@ -490,14 +488,6 @@ Centro de atendimento ao consumidor: 400-100-3399"</string>
     <string name="mibi_prompt_info_button_text">"OK"</string>
     <string name="mibi_prompt_info_for_first_use"><Data>"&lt;font color=#ff7700>Mi Créditos não pode ser usado para comprar produtos de hardware em Mi.com&lt;/font>"</Data></string>
     <string name="mibi_prompt_info_title">Dicas</string>
-    <string name="mibi_push_register_fail">Falha no push do registro.</string>
-    <string name="mibi_push_register_success">Push registrado com sucesso.</string>
-    <string name="mibi_push_set_accept_time_fail">Definir tempo de aceitação falha para %1$s.</string>
-    <string name="mibi_push_set_accept_time_success">Definir tempo de aceitação %1$s - %2$s sucesso.</string>
-    <string name="mibi_push_set_alias_fail">Definir alias falha para %1$s.</string>
-    <string name="mibi_push_set_alias_success">Definir alias \"%1$s\" com sucesso.</string>
-    <string name="mibi_push_unset_alias_fail">Falha no alias não definido para %1$s.</string>
-    <string name="mibi_push_unset_alias_success">Alias não definido \"%1$s\" foi bem-sucedido.</string>
     <string name="mibi_recharge_grid_error_denomination">O valor deve estar entre Mi Créditos %1$s e %2$s.</string>
     <string name="mibi_recharge_grid_item_more">Mais</string>
     <string name="mibi_recharge_grid_mibi_picker_hint">Escolher quantidade</string>
@@ -509,8 +499,6 @@ Centro de atendimento ao consumidor: 400-100-3399"</string>
     <string name="mibi_recharge_novalid_method">Nenhum método de recarga válido.</string>
     <string name="mibi_recharge_other">Ver outros métodos</string>
     <string name="mibi_recharge_other_amount">Outra quantia</string>
-    <string name="mibi_recharge_push_notification_prime_title">%1$d adicionou %2$s Mi Créditos à sua conta</string>
-    <string name="mibi_recharge_push_notification_sub_title">Recarga concluída.</string>
     <string name="mibi_recharge_value_money">Compre %s CNY em Mi Créditos</string>
     <string name="mibi_recharge_value_money_special_unit">Compre %1$s %2$s em Mi Créditos</string>
     <string name="mibi_recharge_warn_text">"Você não pode comprar bens físicos usando Mi Créditos."</string>

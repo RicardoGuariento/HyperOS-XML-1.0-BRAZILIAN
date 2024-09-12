@@ -1560,7 +1560,7 @@ Envie este código para o supervisor."</string>
     <string name="playerui_lyric_searching">Pesquisando…</string>
     <string name="playerui_lyric_selected">Use essas letras</string>
     <string name="playerui_playing_tilte_asm">Sem anúncios, primeiro mês grátis</string>
-    <string name="playerui_playing_tilte_asm_already">Ouvir sem anúncios</string>
+    <string name="playerui_playing_tilte_asm_already">Escute sem anúncios</string>
     <string name="playerui_song_dialog_cancel">"Não permitir"</string>
     <string name="playerui_song_dialog_hint">"Letras mais precisas não estão disponíveis no momento. Você pode nos ajudar permitindo que o Música acesse este arquivo de áudio para fins de otimização. Permitir acesso agora?"</string>
     <string name="playerui_song_dialog_ok">Permitir</string>
@@ -1592,9 +1592,9 @@ Envie este código para o supervisor."</string>
     <string name="privacy_desc">Política de Privacidade (obrigatório)</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_policy_title_asm">Um mundo de música ao seu alcance</string>
-    <string name="privacy_request_desc"><Data>"O Música precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode saber mais sobre como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento da Política de Privacidade do Música nas Configurações a qualquer momento.
+    <string name="privacy_request_desc">"&lt;Data>O Música precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode saber mais sobre como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento da Política de Privacidade do Música nas Configurações a qualquer momento.
 Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o Música.
-Se você não aceitar em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
+Se você não aceitar em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"Bem-vindo ao Música! Este app fornece os seguintes serviços:
 • Um reprodutor de áudio local
 • Serviços de streaming online"</string>
@@ -1608,9 +1608,9 @@ Se você não aceitar em usar os serviços acima mencionados, você não poderá
     <string name="pulluprefreshrecyclerview_loading_running">Carregando…</string>
     <string name="queue_is_empty">A fila de reprodução está vazia.</string>
     <string name="read_and_agree_asm_protocol">&lt;Data>Leia e aceite a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade do ASM&lt;/a>&lt;/font> para ser capaz de usar serviços de música online.&lt;/Data></string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da hungama
-&lt;/a>&lt;/font>"&lt;/Data></string>
-    <string name="read_and_agree_joox_protocol">&lt;Data>Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da JOOX&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_hungama_protocol">"&lt;Data>Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da hungama
+&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_joox_protocol">"&lt;Data>Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da JOOX&lt;/a>&lt;/font>&lt;/Data>"</string>
     <string name="read_and_agree_mi_protocol">"&lt;Data>Li e aceito o &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> da Xiaomi&lt;/Data>"</string>
     <string name="read_and_agree_protocol">Leia e aceite o nosso Contrato do Usuário e a Política de Privacidade antes de continuar.</string>
     <string name="ready_to_play">A seguir</string>
