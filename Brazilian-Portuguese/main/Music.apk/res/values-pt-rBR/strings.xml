@@ -240,7 +240,7 @@ Todos os benefícios da assinatura e músicas pagas serão apagados. Você não 
 Depois de optar por limpar permanentemente todos os dados, você será desconectado do app. Limpar todos os dados agora?"</string>
     <string name="asm_delete_data">Limpar dados</string>
     <string name="asm_delete_data_local_and_online">Limpar dados do serviço offline e de streaming</string>
-    <string name="asm_dialog_title_tips">Associação VIP</string>
+    <string name="asm_dialog_title_tips">Assinatura VIP</string>
     <string name="asm_dialog_vip_confirm_text">Entrar</string>
     <string name="asm_dialog_vip_message">Inscreva-se para uma assinatura VIP para ouvir músicas de alta qualidade e baixar ainda mais conteúdo.</string>
     <string name="asm_disable_song_click_tip">"Esta música não está disponível devido a problemas de direitos autorais"</string>
@@ -285,7 +285,7 @@ Depois de optar por limpar permanentemente todos os dados, você será desconect
     <string name="asm_hq">Alta qualidade</string>
     <string name="asm_item_not_available">O item não está disponível</string>
     <string name="asm_loadstate_error_retry">Conecte-se à internet e toque para tentar novamente</string>
-    <string name="asm_loadstate_not_more">"Isso é tudo por agora"</string>
+    <string name="asm_loadstate_not_more">"Isso é tudo por enquanto"</string>
     <string name="asm_message">Notificações</string>
     <string name="asm_network_error">Verifique sua conexão de rede</string>
     <string name="asm_new_song_title">Novas musicas</string>
@@ -402,7 +402,7 @@ Depois de optar por limpar permanentemente todos os dados, você será desconect
     <string name="changepassword_toast_passworderror">Senha incorreta</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
-    <string name="checking_new_version">Procurando por atualizações…</string>
+    <string name="checking_new_version">Procurando atualizações…</string>
     <string name="chip_text">Texto do chip</string>
     <string name="choose_download_quality">Escolher qualidade do download</string>
     <string name="choose_music_lang_pref">Idiomas preferidos para músicas</string>
@@ -1814,7 +1814,7 @@ Seja feliz"</string>
  Representa a altura [%.1fdp] de arrastar em tempo de execução.
  Não mostra nada."</string>
     <string name="srl_content_empty">A visualização de conteúdo em SmartRefreshLayout está vazia. Você esqueceu de adicioná-lo no arquivo de layout xml?</string>
-    <string name="start_to_check_new_version">Procurando por atualizações…</string>
+    <string name="start_to_check_new_version">Procurando atualizações…</string>
     <string name="start_to_download">Baixando…</string>
     <string name="start_to_play">Preparando-se para reproduzir…</string>
     <string name="start_update">Instalando nova versão…</string>

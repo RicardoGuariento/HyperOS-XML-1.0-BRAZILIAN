@@ -29,8 +29,8 @@ total de %2$d músicas"</item>
 total de %2$d música"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d músicas adicionadas na playlist</item>
-        <item quantity="one">%d música adicionada na playlist</item>
+        <item quantity="other">%d músicas adicionadas à playlist</item>
+        <item quantity="one">%d música adicionada à playlist</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d músicas</item>
@@ -74,8 +74,8 @@ total de %2$d música"</item>
         <item quantity="one">%d minuto atrás</item>
     </plurals>
     <plurals name="asm_download_batch_action_start_download">
-        <item quantity="other">Adicionadas %1$d músicas à fila de download</item>
-        <item quantity="one">Adicionada %1$d música à fila de download</item>
+        <item quantity="other">%1$d músicas adicionadas à fila de downloads</item>
+        <item quantity="one">%1$d música adicionada à fila de downloads</item>
     </plurals>
     <plurals name="asm_download_tasks">
         <item quantity="other">%d downloads em andamento</item>
@@ -247,16 +247,20 @@ Nota: o arquivo também será excluído do dispositivo."</item>
         <item quantity="one">Pulou %d música. Ative os serviços online nas Configurações para ouvi-la.</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Músicas marcadas como favoritas.</item>
-        <item quantity="one">Música marcada como favorita.</item>
+        <item quantity="other">Músicas adicionadas aos favoritos.</item>
+        <item quantity="one">Música adicionada aos favoritos.</item>
     </plurals>
     <plurals name="songs_count">
         <item quantity="other">%d músicas</item>
         <item quantity="one">%d música</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Transição entre músicas: %d segundos</item>
-        <item quantity="one">Transição entre músicas: %d segundo</item>
+        <item quantity="other">Cross-fade entre músicas: %d segundos</item>
+        <item quantity="one">Cross-fade entre músicas: %d segundo</item>
+    </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Ganhe %1$d moedas hoje</item>
+        <item quantity="one">Ganhe %1$d moeda hoje</item>
     </plurals>
     <plurals name="temp_range_c">
         <item quantity="other">%1$d a %2$d℃</item>
@@ -279,12 +283,12 @@ Nota: o arquivo também será excluído do dispositivo."</item>
         <item quantity="one">%d dia restante</item>
     </plurals>
     <plurals name="web_reward_dialog_title">
-        <item quantity="other">"Se você assistir por %d segundos, receberá uma assinatura VIP como recompensa. Sair de qualquer maneira?"</item>
-        <item quantity="one">"Se você assistir por %d segundo, receberá uma assinatura VIP como recompensa. Sair de qualquer maneira?"</item>
+        <item quantity="other">"Se você assistir por %d segundos, você receberá uma assinatura VIP como recompensa. Sair mesmo assim?"</item>
+        <item quantity="one">"Se você assistir por %d segundo, você receberá uma assinatura VIP como recompensa. Sair mesmo assim?"</item>
     </plurals>
     <plurals name="whitelist_multi_added">
-        <item quantity="other">Adicionados %d arquivos</item>
-        <item quantity="one">Adicionado %d arquivo</item>
+        <item quantity="other">%d arquivos adicionados</item>
+        <item quantity="one">%d arquivo adicionado</item>
     </plurals>
     <plurals name="whitelist_multi_added_before">
         <item quantity="other">%d arquivos foram adicionados antes</item>
