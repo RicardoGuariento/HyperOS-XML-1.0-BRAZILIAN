@@ -112,7 +112,7 @@
     <string name="alert_dialog_download_prepare">Preparando para baixar…</string>
     <string name="alert_dialog_download_progress">"Baixando o app: "</string>
     <string name="all">Mostrar tudo</string>
-    <string name="already_exist_playlist_toast">O vídeo já está nesta playlist</string>
+    <string name="already_exist_playlist_toast">Este vídeo já está nesta playlist</string>
     <string name="am">"AM"</string>
     <string name="app_description_content">Mi Vídeo é um app do sistema que contém um reprodutor de vídeos locais. Você ainda poderá reproduzir arquivos de vídeo após remover o atalho da Tela inicial.</string>
     <string name="app_description_title">Remover Mi Vídeo da Tela inicial?</string>
@@ -2269,14 +2269,14 @@ Aumentar a segurança da sua conta."</string>
     <string name="vip_pay_buy">Comprar</string>
     <string name="vip_pay_cancel">Cancelar</string>
     <string name="vip_pay_empty">Nada aqui ainda</string>
-    <string name="vip_pay_expire">" Expira"</string>
+    <string name="vip_pay_expire">" Expira em"</string>
     <string name="vip_pay_failed">"Não foi possível comprar"</string>
     <string name="vip_pay_refunded">Reembolsado</string>
-    <string name="vip_pay_success">Comprado</string>
+    <string name="vip_pay_success">Adquirido</string>
     <string name="vip_pay_waiting">Aguarde…</string>
     <string name="vip_purchase_history">Histórico de compras</string>
-    <string name="vip_qa">Precisar de ajuda? Veja &lt;a href=%1$s>FAQ e feedback&lt;/a></string>
-    <string name="vip_qa_title">FAQ e feedback</string>
+    <string name="vip_qa">Precisa de ajuda? Veja &lt;a href=%1$s>Perguntas frequentes e feedback&lt;/a></string>
+    <string name="vip_qa_title">Perguntas frequentes e feedback</string>
     <string name="vk_video_tab">Para você</string>
     <string name="vp_VideoView_error_button">"OK"</string>
     <string name="vp_VideoView_error_text_unknown">Ocorreu um erro</string>

@@ -817,13 +817,13 @@ Tente tocar levemente enquanto configura sua impressão digital."</string>
     <string name="hours">horas</string>
     <string name="httpError">Ocorreu um erro na rede.</string>
     <string name="httpErrorAuth">Não foi possível autenticar.</string>
-    <string name="httpErrorBadUrl">Não foi possível abrir a página porque o URL é inválido.</string>
+    <string name="httpErrorBadUrl">Não foi possível abrir a página porque a URL é inválida.</string>
     <string name="httpErrorConnect">Não foi possível se conectar ao servidor.</string>
     <string name="httpErrorFailedSslHandshake">Não foi possível estabelecer uma conexão segura.</string>
     <string name="httpErrorFile">Não foi possível acessar o arquivo.</string>
     <string name="httpErrorFileNotFound">Não foi possível encontrar o arquivo solicitado.</string>
     <string name="httpErrorIO">Não foi possível estabelecer comunicação com o servidor. Tente novamente mais tarde.</string>
-    <string name="httpErrorLookup">Não foi possível encontrar o URL.</string>
+    <string name="httpErrorLookup">Não foi possível encontrar a URL.</string>
     <string name="httpErrorOk">"OK"</string>
     <string name="httpErrorProxyAuth">Falha na autenticação por meio do servidor proxy.</string>
     <string name="httpErrorRedirectLoop">A página contém muitos redirecionamentos do servidor.</string>

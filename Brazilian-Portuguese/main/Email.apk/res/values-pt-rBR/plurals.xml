@@ -82,8 +82,8 @@
         <item quantity="one">&lt;b>%1$d&lt;/b>" conversa removida da pasta 'importante'"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" removidas da pasta 'spam'"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" removida da pasta 'spam'"</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b>" removidas da pasta Spam"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>" removida da pasta Spam"</item>
     </plurals>
     <plurals name="conversation_phished">
         <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas reportadas como spam</item>
