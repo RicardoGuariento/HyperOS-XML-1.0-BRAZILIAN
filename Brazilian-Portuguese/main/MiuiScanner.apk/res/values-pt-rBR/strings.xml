@@ -224,7 +224,7 @@
     <string name="eras_bc">a.C</string>
     <string name="error_camera_disabled">Por motivos de segurança, o acesso à Câmera foi negado</string>
     <string name="error_cannot_connect_camera">"Não é possível conectar-se à Câmera"</string>
-    <string name="error_empty_result">"Não foi possível encontrar resultados"</string>
+    <string name="error_empty_result">Nenhum resultado encontrado</string>
     <string name="error_get_image">"Não foi possível obter a imagem"</string>
     <string name="error_media_storage_failure">"Não foi possível salvar a foto"</string>
     <string name="error_not_found_activity">Nenhum app para abrir o formato PDF foi encontrado</string>
@@ -312,7 +312,7 @@
     <string name="general_location">Permita que o Scanner acesse sua localização para obter serviços baseados em localização</string>
     <string name="general_location_dialog">Alguns recursos de reconhecimento de objetos são fornecidos pelo Dianping. Se você quiser reconhecer objetos em lojas, o Dianping precisa usar as fotos que você tira para usar este recurso, juntamente com suas informações de localização, a fim de fornecer os resultados relevantes para você.</string>
     <string name="general_location_prompt">Acesso à localização</string>
-    <string name="general_no">"Não foi possível encontrar resultados"</string>
+    <string name="general_no">Nenhum resultado encontrado</string>
     <string name="general_no_found">Dê uma olhada nesses produtos</string>
     <string name="general_plant">Você pode estar procurando por estes:</string>
     <string name="general_recognized">"Resultado: "</string>

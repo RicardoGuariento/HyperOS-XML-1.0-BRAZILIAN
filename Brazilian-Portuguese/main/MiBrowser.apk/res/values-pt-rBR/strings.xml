@@ -91,7 +91,7 @@
     <string name="action_menu_text_setting">Configurações</string>
     <string name="action_menu_text_share">Compartilhar</string>
     <string name="action_menu_text_snapshot">Salvar página</string>
-    <string name="action_menu_text_speed_test">Teste de rede</string>
+    <string name="action_menu_text_speed_test">Testar rede</string>
     <string name="action_menu_text_video">Vídeo</string>
     <string name="action_menu_text_video_download">Baixar vídeos</string>
     <string name="action_menu_text_web_mode">Modo desktop</string>
@@ -133,7 +133,7 @@
     <string name="add_shortcut">Adicionar atalho</string>
     <string name="add_shortcut_success">Atalho adicionado com sucesso</string>
     <string name="add_to_bookmark">Favoritos</string>
-    <string name="add_to_desktop">Adicionar na Página inicial</string>
+    <string name="add_to_desktop">Adicionar à Tela inicial</string>
     <string name="add_to_quicklink">Página inicial</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="added_to_bookmarks">Adicionado aos favoritos</string>
@@ -148,7 +148,7 @@
     <string name="all">Tudo</string>
     <string name="allow">Permitir</string>
     <string name="allow_current">Permitir uma vez</string>
-    <string name="already_add">Adicionado %s à sua Tela inicial</string>
+    <string name="already_add">%s adicionado à sua Tela inicial</string>
     <string name="am">"AM"</string>
     <string name="app_category_tag_daily_recommendation">Escolhas de hoje</string>
     <string name="app_category_tag_editor_recommendation">"Escolhas dos editores</string>
@@ -160,9 +160,9 @@
     <string name="app_name_camera">Câmera</string>
     <string name="app_name_downloadedrom">Pacotes</string>
     <string name="app_name_downloads">"Downloads"</string>
-    <string name="app_name_market">Loja de Apps</string>
+    <string name="app_name_market">Loja de apps</string>
     <string name="app_name_midrop">"Xiaomi Share"</string>
-    <string name="app_name_miui">"HyperOS"</string>
+    <string name="app_name_miui">Recursos do sistema</string>
     <string name="app_name_miuimusic">Música</string>
     <string name="app_name_miuiringtone">Toques</string>
     <string name="app_name_miuiwallpaper">Planos de fundo</string>
@@ -177,8 +177,8 @@
     <string name="aqi_quality_index_dangerous">Péssima</string>
     <string name="aqi_quality_index_good">Boa</string>
     <string name="aqi_quality_index_hazardous">Perigosa</string>
-    <string name="aqi_quality_index_light_pollution">Poluição leve</string>
-    <string name="aqi_quality_index_moderate">Moderada</string>
+    <string name="aqi_quality_index_light_pollution">Moderado</string>
+    <string name="aqi_quality_index_moderate">Razoável</string>
     <string name="aqi_quality_index_pure">Excelente</string>
     <string name="aqi_quality_index_unhealthy">Insalubre</string>
     <string name="articles_collection_empty">Nenhum artigo aqui ainda</string>
@@ -276,11 +276,11 @@ Desative o seletor para parar a sincronização."</string>
     <string name="browser_wallpaper_landscape">Cenário</string>
     <string name="browser_wallpaper_more_btn">Ver mais</string>
     <string name="browser_wallpaper_my">Meus planos de fundos</string>
-    <string name="browser_wallpaper_preview">Pré-visualizar</string>
-    <string name="browser_wallpaper_sub">Obtenha recomendações de planos de fundos especiais e com tema natalino</string>
+    <string name="browser_wallpaper_preview">Prévia</string>
+    <string name="browser_wallpaper_sub">Receba recomendações para planos de fundo de feriados e datas comemorativas</string>
     <string name="browser_wallpaper_subtitle">Personalize o Navegador Mi com lindos planos de fundos.</string>
     <string name="browser_wallpaper_system_default">Padrão</string>
-    <string name="browser_wallpaper_title">Planos de fundos</string>
+    <string name="browser_wallpaper_title">Planos de fundo</string>
     <string name="browser_wallpaper_toast">Desative o botão Promoções para poder trocar os planos de fundos</string>
     <string name="btn_agree">Aceitar</string>
     <string name="btn_cancel">Cancelar</string>
@@ -504,21 +504,21 @@ Desative o seletor para parar a sincronização."</string>
     <string name="copy_success">Copiado com sucesso</string>
     <string name="copy_toast_msg">Link copiado para a área de transferência</string>
     <string name="copy_url">Copiar URL</string>
-    <string name="core_functions_of_browser">Principais recursos ao seu alcance</string>
+    <string name="core_functions_of_browser">Os principais recursos na ponta dos seus dedos</string>
     <string name="could_not_load_data">"Não foi possível carregar os dados, atualize e tente novamente."</string>
-    <string name="crash_page_button">Tente novamente</string>
+    <string name="crash_page_button">Tentar novamente</string>
     <string name="crash_page_description">Algo deu errado ao exibir esta página da web.</string>
-    <string name="crash_page_title">Ah, não!</string>
+    <string name="crash_page_title">Eita!</string>
     <string name="create_qr_code">Código QR</string>
     <string name="current_version_pad">"Tablet"</string>
     <string name="current_version_pc">"Desktop"</string>
     <string name="current_version_phone">Telefone</string>
     <string name="custom">Inserir URL</string>
-    <string name="custom_head_card_text">Sempre acredite que algo maravilhoso está prestes a acontecer</string>
+    <string name="custom_head_card_text">Sempre acredite que algo incrível está prestes a acontecer</string>
     <string name="custom_head_card_text_incognito">"Você está anônimo!
 Páginas que você visitar não aparecerão no histórico."</string>
     <string name="custom_page_guide_content">Favoritos, configurações e ferramentas estão aqui!</string>
-    <string name="customize">Customizar</string>
+    <string name="customize">Personalizar</string>
     <string name="dark_mode">Modo escuro</string>
     <string name="data_error">Erro nos dados</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
@@ -542,8 +542,8 @@ Páginas que você visitar não aparecerão no histórico."</string>
     <string name="debug_youtube_file">Depurar arquivo do YouTube</string>
     <string name="debug_youtube_in_release">Depurar versão do YouTube</string>
     <string name="decompressed_files">Arquivos extraídos</string>
-    <string name="deeplink_intrercept_hint">Este pop-up irá sugerir a abertura de um app.</string>
-    <string name="deeplink_intrercept_second_hint">O site está prestes a abrir um app. Interrompeu esta ação por enquanto.</string>
+    <string name="deeplink_intrercept_hint">Este pop-up vai sugerir a abertura de um app.</string>
+    <string name="deeplink_intrercept_second_hint">O site está prestes a abrir um app. Esta ação foi interrompida por enquanto.</string>
     <string name="deeplink_permission_name">Abrir</string>
     <string name="deeplink_permission_name_hint">Abrir %s</string>
     <string name="default_likes">Gostei</string>
@@ -566,8 +566,8 @@ Páginas que você visitar não aparecerão no histórico."</string>
     <string name="detail_guide_tips">Deslize para cima para mais itens relacionados</string>
     <string name="dialog_ad_callback_cancel">Cancelar</string>
     <string name="dialog_ad_callback_fraud_info">Fraude ou golpe</string>
-    <string name="dialog_ad_callback_inappropriate_picture">Imagens inadequadas</string>
-    <string name="dialog_ad_callback_others">Outro</string>
+    <string name="dialog_ad_callback_inappropriate_picture">Imagens inapropriadas</string>
+    <string name="dialog_ad_callback_others">Outros</string>
     <string name="dialog_ad_callback_title">Reportar um problema</string>
     <string name="diagnosis_log_send_failed">Não foi possível enviar os logs. Tente novamente.</string>
     <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
@@ -577,8 +577,8 @@ Envie este código para o supervisor."</string>
     <string name="dialog_channel_confirm">"OK"</string>
     <string name="dialog_channel_remove_content">Remover todos os canais também removerá o Feed de conteúdo.</string>
     <string name="dialog_dislike_reason_cancel">Cancelar</string>
-    <string name="dialog_dislike_reason_not_interested">"Não estou interessado"</string>
-    <string name="dialog_dislike_reason_others">Outro motivo</string>
+    <string name="dialog_dislike_reason_not_interested">"Não tenho interesse"</string>
+    <string name="dialog_dislike_reason_others">Outros motivos</string>
     <string name="dialog_dislike_reason_poor_quality">Baixa qualidade</string>
     <string name="dialog_dislike_reason_repetitive">Repetitivo</string>
     <string name="dialog_dislike_title">"Por que você não gostou deste anúncio?"</string>
@@ -586,8 +586,8 @@ Envie este código para o supervisor."</string>
     <string name="dialog_game_close">Cancelar</string>
     <string name="dialog_game_play">Jogar</string>
     <string name="display__quick_entry_of_search">Mostrar atalhos de recursos na Área de notificações</string>
-    <string name="doc_viewer_label">Leitor de texto (Navegador Mi)</string>
-    <string name="doc_viewer_open_out_file_prompt">Para abrir e visualizar um arquivo recebido de fontes externas, este app precisa primeiro criar uma cópia do arquivo. Continuar?</string>
+    <string name="doc_viewer_label">Leitor (Navegador Mi)</string>
+    <string name="doc_viewer_open_out_file_prompt">Para abrir e visualizar um arquivo recebido de fontes externas, este app precisa criar uma cópia do arquivo primeiro. Continuar?</string>
     <string name="doc_viewer_user_guide_profile">Veja o item que você estava navegando aqui</string>
     <string name="document_download_background_btn">Baixar em segundo plano</string>
     <string name="document_download_cancel_btn">Cancelar</string>
@@ -596,7 +596,7 @@ Envie este código para o supervisor."</string>
     <string name="document_download_open_direct">Abrir diretamente</string>
     <string name="document_download_title">Baixando</string>
     <string name="document_open_file">Abrir %s</string>
-    <string name="document_open_message">Para melhorar sua experiência de leitura e garantir sua segurança, usae a versão personalizada do WPS</string>
+    <string name="document_open_message">Para melhorar sua experiência de leitura e garantir sua segurança, use a versão personalizada do WPS.</string>
     <string name="document_open_other">Outros apps</string>
     <string name="document_open_title">Abrir com</string>
     <string name="dont_remind_again">Lembrar desta escolha</string>
@@ -662,7 +662,7 @@ Envie este código para o supervisor."</string>
     <string name="download_filter_zip">"ZIP"</string>
     <string name="download_in_process">Baixando</string>
     <string name="download_intrercept_hint">Este pop-up irá sugerir o download de um app.</string>
-    <string name="download_intrercept_second_hint">O site está prestes a baixar um app. Parou o download por enquanto.</string>
+    <string name="download_intrercept_second_hint">O site está prestes a baixar um app. O download foi interrompido por enquanto.</string>
     <string name="download_keep_queued_download">Manter</string>
     <string name="download_list_no_items_tip">Nenhum item aqui ainda.</string>
     <string name="download_list_open_xl_ok">"OK"</string>
@@ -700,7 +700,7 @@ Envie este código para o supervisor."</string>
     <string name="download_sdcard_busy_dlg_msg">O cartão SD está ocupado. Para permitir downloads, desative o armazenamento USB na Área de notificações.</string>
     <string name="download_sdcard_busy_dlg_title">Cartão SD indisponível</string>
     <string name="download_sdcard_no_space">"Não foi possível baixar. Não há espaço de armazenamento suficiente."</string>
-    <string name="download_secure_download_in_xiaomi_market">Baixar na App Store</string>
+    <string name="download_secure_download_in_xiaomi_market">Baixar no GetApps</string>
     <string name="download_select_dir">Selecione outra pasta</string>
     <string name="download_status_failed">"Não foi possível baixar"</string>
     <string name="download_status_pending">Aguardando</string>
@@ -740,6 +740,7 @@ Envie este código para o supervisor."</string>
     <string name="error_filename_too_long">O nome inserido para o arquivo é muito longo.</string>
     <string name="error_folder_already_exists">Este arquivo já existe</string>
     <string name="error_forbidden">A sincronização foi desativada devido a problemas com sua Conta Mi.</string>
+    <string name="error_icon_content_description">Erro</string>
     <string name="error_info_cant_send_folder">"Não é possível enviar pastas."</string>
     <string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
     <string name="error_not_acceptable">Sincronização desativada.</string>
@@ -814,7 +815,7 @@ Envie este código para o supervisor."</string>
     <string name="exported">Exportado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="external_app_leave_incognito_leave">Desativar</string>
-    <string name="external_app_leave_incognito_stay">Continuar</string>
+    <string name="external_app_leave_incognito_stay">Manter ativado</string>
     <string name="external_app_leave_incognito_warning">Este site está tentando compartilhar informações com um app fora do Modo anônimo. Desligar agora?</string>
     <string name="external_app_leave_incognito_warning_title">Desativar o Modo anônimo?</string>
     <string name="external_app_restricted_access_error">O Navegador Mi não pode acessar este item.</string>
@@ -831,7 +832,7 @@ Envie este código para o supervisor."</string>
     <string name="feed_advise_good">Eu recomendaria para um amigo</string>
     <string name="feed_content_protection">Proteção de conteúdo</string>
     <string name="feedback_advise_this_app">Recomendação</string>
-    <string name="feedback_advise_your_friends">Qual é a probabilidade de você recomendar o Navegador Mi?</string>
+    <string name="feedback_advise_your_friends">Você recomendaria o Navegador Mi para um amigo?</string>
     <string name="feedback_amazing">Ótimo</string>
     <string name="feedback_bad">Não</string>
     <string name="feedback_download_easy_find">Posso encontrar facilmente os arquivos baixados</string>
@@ -872,7 +873,7 @@ Envie este código para o supervisor."</string>
     <string name="feedback_thank_you">Obrigado pelo seu feedback!</string>
     <string name="feedback_title">Este conteúdo é interessante?</string>
     <string name="feedback_website_bad">A velocidade de carregamento é muito lenta</string>
-    <string name="feedback_website_general">A velocidade de carregamento é boa, mas poderia ser mais rápida.</string>
+    <string name="feedback_website_general">A velocidade de carregamento é boa, mas poderia melhorar.</string>
     <string name="feedback_website_good">A velocidade de carregamento é boa</string>
     <string name="feedback_website_speed_title">Como está a velocidade de carregamento das páginas da web?</string>
     <string name="festival_task_start">Reproduzir</string>
@@ -892,8 +893,8 @@ Envie este código para o supervisor."</string>
     <string name="file_name">"Nome: "</string>
     <string name="file_name_invalid">"Nomes de arquivos não podem conter os seguintes caracteres: /\\:*?&lt;>"</string>
     <string name="file_picker">Selecionar caminho</string>
-    <string name="file_size">Size: %s</string>
-    <string name="file_type">Format: %s</string>
+    <string name="file_size">Tamanho: %s</string>
+    <string name="file_type">Formato: %s</string>
     <string name="filename_empty_alert_message">Inserir nome do arquivo</string>
     <string name="filename_illegal_alert_message">Um caractere inválido foi removido do nome do arquivo</string>
     <string name="find_garbage">Encontrado %d MB de lixo</string>
@@ -965,7 +966,7 @@ Envie este código para o supervisor."</string>
     <string name="game_news_flow_download_bar_play">Reproduzir</string>
     <string name="game_play">Jogar</string>
     <string name="game_played">Recente</string>
-    <string name="garbage_cleaning">Limpar</string>
+    <string name="garbage_cleaning">Limpeza</string>
     <string name="garbage_details">Detalhes</string>
     <string name="garbage_file">Lixo</string>
     <string name="gcm_fallback_notification_channel_label">Diversos</string>
@@ -1025,7 +1026,7 @@ Envie este código para o supervisor."</string>
     <string name="highly_recommend">Escolhas do Mint</string>
     <string name="hint">Dica</string>
     <string name="history">Histórico</string>
-    <string name="history_incognito_hint_msg">"O histórico do seu navegador não será salvo quando você estiver anônimo"</string>
+    <string name="history_incognito_hint_msg">"Seu histórico de navegação não será salvo quando você estiver anônimo"</string>
     <string name="home_description">Início</string>
     <string name="home_expand_item_title_collect">Favorites</string>
     <string name="home_expand_item_title_common_site">Popular</string>
@@ -1043,7 +1044,7 @@ Envie este código para o supervisor."</string>
     <string name="homepage_more_sites">Mais sites</string>
     <string name="homepage_search_hint">Pesquisar</string>
     <string name="homepage_setting">Configurações da Página inicial</string>
-    <string name="homepage_tab_tips_chatgpt">Confira nossa nova pesquisa de IA</string>
+    <string name="homepage_tab_tips_chatgpt">Confira nossa nova pesquisa por IA</string>
     <string name="homepage_top_card_menu">Topo</string>
     <string name="hot_games">Populares</string>
     <string name="hot_news_notify_summary">Notificações push para as principais notícias</string>
@@ -1116,7 +1117,7 @@ Envie este código para o supervisor."</string>
     <string name="js_dialog_permission_name">Mostrar caixas de diálogo pop-up</string>
     <string name="js_disable_confirm_message">Desativar o JavaScript pode fazer alguns sites serem exibidos incorretamente.</string>
     <string name="js_disable_confirm_title">Desativar JavaScript?</string>
-    <string name="jump_web_learn_more">Abra a página da web original</string>
+    <string name="jump_web_learn_more">Abrir página web original</string>
     <string name="junk_files_found">Lixo encontrado</string>
     <string name="just_a_second">Aguarde…</string>
     <string name="just_now">Agora mesmo</string>
@@ -1143,8 +1144,8 @@ Envie este código para o supervisor."</string>
     <string name="loading_tips">Puxe para baixo para atualizar</string>
     <string name="local_apps">Apps locais</string>
     <string name="local_bookmarks">Mi</string>
-    <string name="local_video_player_label">Reprodutor de vídeo (Navegador Mi)</string>
-    <string name="location_permission_name">Acessar localização</string>
+    <string name="local_video_player_label">Reprodutor de vídeos (Navegador Mi)</string>
+    <string name="location_permission_name">Acesso à localização</string>
     <string name="lockpattern_continue_button_text">Avançar</string>
     <string name="lockpattern_need_to_confirm">Confirme o padrão de desbloqueio</string>
     <string name="lockpattern_need_to_unlock_wrong">Tentar novamente</string>
@@ -1253,7 +1254,7 @@ Envie este código para o supervisor."</string>
     <string name="midnight">"AM"</string>
     <string name="mint_games">Jogos do momento</string>
     <string name="mint_news_feed">Notícias</string>
-    <string name="mint_news_feed_a">Mi Notícias</string>
+    <string name="mint_news_feed_a">Notícias Mi</string>
     <string name="mint_news_feed_b">Notícias locais</string>
     <string name="miui_autologin_bar_error">"Não é possível fazer o login"</string>
     <string name="miui_autologin_bar_title">Fazer login com a Conta Mi</string>
@@ -1478,7 +1479,7 @@ Envie este código para o supervisor."</string>
     <string name="mw_copy_to_clipboard_failure_message">"Não foi possível copiar para a área de transferência"</string>
     <string name="mw_data_traffic_prompt_change">"Usar a sua conexão de dados móveis para assistir vídeos aumentará o seu consumo de dados. Caso você exceda o seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais."</string>
     <string name="mw_data_traffic_prompt_message">"Usar a sua conexão de dados móveis para assistir vídeos aumentará o seu consumo de dados. Caso você exceda o seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais."</string>
-    <string name="mw_data_traffic_prompt_message_short">"Usar dados móveis para transmitir vídeos pode fazer com que você ultrapasse o limite de uso de dados do seu plano."</string>
+    <string name="mw_data_traffic_prompt_message_short">"Usar os dados móveis para assistir vídeos aumentará o seu consumo de dados móveis."</string>
     <string name="mw_data_traffic_prompt_title">Aviso sobre o uso de dados"</string>
     <string name="mw_date_picker_dialog_clear">Limpar</string>
     <string name="mw_date_picker_dialog_other_button_label">Outro</string>
@@ -1493,7 +1494,7 @@ Envie este código para o supervisor."</string>
     <string name="mw_image_copied">Imagem copiada</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-Tem certeza de que deseja navegar para fora desta página?"</string>
+Sair desta página agora?"</string>
     <string name="mw_js_dialog_before_unload_negative_button">Permanecer nesta página</string>
     <string name="mw_js_dialog_before_unload_positive_button">Sair desta página</string>
     <string name="mw_js_dialog_before_unload_title">Sair desta página?</string>
@@ -1501,8 +1502,8 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="mw_js_dialog_title_default">"JavaScript"</string>
     <string name="mw_last_month">Último mês</string>
     <string name="mw_license_activity_title">Licenças do WebView do sistema</string>
-    <string name="mw_link_copied">Link copiado</string>
-    <string name="mw_low_memory_error">"Não foi possível concluir a operação anterior devido a pouca memória"</string>
+    <string name="mw_link_copied">URL copiada com sucesso</string>
+    <string name="mw_low_memory_error">"Não foi possível concluir a operação anterior por falta de memória"</string>
     <string name="mw_menu_refresh">Atualizar</string>
     <string name="mw_miui_content_copy">Copiar</string>
     <string name="mw_miui_content_cut">Recortar</string>
@@ -1664,7 +1665,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="news_survey_fill_title">Outro:</string>
     <string name="news_video_history">Histórico</string>
     <string name="news_video_history_empty">Nada aqui ainda</string>
-    <string name="news_video_invisible_item">"Não é possível visualizar este vídeo"</string>
+    <string name="news_video_invisible_item">"Não é possível ver este vídeo"</string>
     <string name="news_video_no_more_videos">"Isso é tudo por enquanto"</string>
     <string name="next">Próximo</string>
     <string name="nf_choose_reason">Descreva o problema</string>
@@ -1709,7 +1710,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="no_updates_available">A versão atual está atualizada</string>
     <string name="noon">"PM"</string>
     <string name="not_add">Agora não</string>
-    <string name="not_allowed_open">"Não é possível usar o Navegador Mi em fluxo OOB"</string>
+    <string name="not_allowed_open">"Não é possível usar o Navegador em fluxo OOB"</string>
     <string name="not_remind">"Não perguntar novamente"</string>
     <string name="not_remind_again">Lembrar minha escolha</string>
     <string name="not_set">Não definido</string>
@@ -1734,8 +1735,8 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="notification_wechat_expired_empty">O WeChat já excluiu estes vídeos.</string>
     <string name="notifications_permission_confirm">Permitir</string>
     <string name="notifications_permission_decline">"Não permitir"</string>
-    <string name="notifications_permission_title">Permitir que o app envie notificações para você?</string>
-    <string name="notify_rencet_play">Tocado recentemente</string>
+    <string name="notifications_permission_title">Permitir que o app envie notificações?</string>
+    <string name="notify_rencet_play">Reproduzido recentemente</string>
     <string name="notifications">Notificações</string>
     <string name="novel_continue_read_popup">Ler</string>
     <string name="novel_tab_popup">Veja seus livros mais recentes aqui</string>
@@ -1752,11 +1753,11 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="open">Configurações</string>
     <string name="open_app_confirm_message">Permitir que esta página abra %s?</string>
     <string name="open_by_other_app">Abrir com outro app</string>
-    <string name="open_desktop">Mudou para a versão desktop com sucesso</string>
-    <string name="open_google_gaid">"Para poder usar esse recurso, certifique-se de não ter desativado a personalização de anúncios em Configurações > Google > Todos os serviços > Anúncios."</string>
+    <string name="open_desktop">Alterado para versão desktop com sucesso</string>
+    <string name="open_google_gaid">"Para poder usar este recurso, certifique-se de não ter desativado a personalização de anúncios em Configurações > Google > Todos os serviços > Anúncios."</string>
     <string name="open_personalized_services">Ative os serviços personalizados para poder usar este recurso.</string>
     <string name="open_private_folder">Solte para ver as pastas ocultas</string>
-    <string name="open_settings">Vá para as configurações</string>
+    <string name="open_settings">Configurações</string>
     <string name="open_voice_permission">Permita que o microfone acesse a internet</string>
     <string name="open_whatsapp_status">Verificar status do WhatsApp</string>
     <string name="operation_delete">Excluir</string>
@@ -1929,7 +1930,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="pf_guide_msg_if_has_downloading">"Não é possível adicionar downloads em andamento à pasta privada"</string>
     <string name="pf_move_out">Remover da pasta privada</string>
     <string name="pf_move_out_dialog_btn_confirm">Remover</string>
-    <string name="pf_move_out_dialog_content">Os itens removidos serão exibidos entre os arquivos recentes.</string>
+    <string name="pf_move_out_dialog_content">Itens removidos serão exibidos junto aos arquivos recentes.</string>
     <string name="pf_move_out_dialog_title">Removendo da pasta privada</string>
     <string name="pf_toast_add_success">Movido para pasta privada com sucesso</string>
     <string name="phone">Armazenamento</string>
@@ -1937,7 +1938,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="phone_hint">Número de telefone</string>
     <string name="phone_num_use_for">O número de telefone é usado para:</string>
     <string name="phone_number">Número de telefone</string>
-    <string name="phone_very_clean">Sem lixo</string>
+    <string name="phone_very_clean">Nenhum lixo</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="pick_file">Escolher arquivos</string>
     <string name="ping_test_title">Atraso de rede</string>
@@ -2114,7 +2115,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="preference_title_autocomplete_search">Autocompletar pesquisas e URLs</string>
     <string name="privacy_accept">Concordar e continuar</string>
     <string name="privacy_agreement">Contrato do Usuário</string>
-    <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta ação requer o envio da seu ID de Performance, que não pode ser feita no Modo anônimo. Saia do Modo anônimo e tente novamente."</string>
+    <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta ação requer o envio do seu ID de Performance, que não pode ser feita no Modo anônimo. Saia do Modo anônimo e tente novamente."</string>
     <string name="privacy_authorize_network_error">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="privacy_authorize_revoke">Revogar</string>
     <string name="privacy_authorize_revoke_dialog_msg">Após revogar a autorização, o Navegador Mi não coletará mais dados, e todos os dados relacionados serão excluídos dos servidores. Isto pode tornar o Navegador Mi virtualmente inutilizável. Revogar a autorização mesmo assim?</string>
@@ -2166,7 +2167,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="pwa_hint_added_success">Adicionado com sucesso</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Ler código QR</string>
-    <string name="quick_access_to_common_functions">Acessar rapidamente seus recursos favoritos</string>
+    <string name="quick_access_to_common_functions">Acesse rapidamente seus recursos favoritos</string>
     <string name="quick_search_and_access_to_functions">A Pesquisa rápida permite acessar facilmente os recursos que você mais usa.</string>
     <string name="quicklink_bookmark_save">Salvar em</string>
     <string name="quicklink_cannot_save_url">"Esta URL não pode ser adicionada."</string>
@@ -2196,7 +2197,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="reading__reading_first_page">Esta é a primeira página</string>
     <string name="reading__reading_last_page">Esta é a última página</string>
     <string name="reading__search_input_hint">Insira palavras-chave para pesquisar</string>
-    <string name="reading__search_result_nothing">"Não foi possível encontrar resultados"</string>
+    <string name="reading__search_result_nothing">Nenhum resultado encontrado</string>
     <string name="reading__search_searching">Aguarde…</string>
     <string name="reading__shared__fail_to_open_book">"Não foi possível abrir este livro"</string>
     <string name="reading__shared__fail_to_repair_cert">"Não foi possível restaurar o livro. Tente excluí-lo e baixá-lo novamente."</string>
@@ -2215,7 +2216,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="readmode_recommend">Ver recomendados</string>
     <string name="readmode_recommend_message">"Você já leu este livro. :)"</string>
     <string name="readmode_refresh">Atualizar</string>
-    <string name="readmode_tips">Ativar o Modo somente texto</string>
+    <string name="readmode_tips">Ativar Modo apenas texto</string>
     <string name="readmodelist_bookmarks_to_show">Lista de leitura</string>
     <string name="realtime_cancel_notification_btn">Cancelar</string>
     <string name="realtime_news_subscribe_tips">"Inscreva-se no conteúdo de seu interesse"</string>
@@ -2229,7 +2230,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="recommend">Recomendado</string>
     <string name="recommend_bottom_guide">Deslize para cima para ver mais vídeos</string>
     <string name="recommend_button">Seguir (%s)</string>
-    <string name="recommend_description">"Escolhemos alguns criadores que você gostaria de seguir."</string>
+    <string name="recommend_description">"Selecionamos alguns criadores que você pode querer seguir."</string>
     <string name="record_permission_name">Gravar áudio</string>
     <string name="recovery_page_popup">Continue de onde parou</string>
     <string name="refresh">Atualizar</string>
@@ -2286,7 +2287,6 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="rlv_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="rlv_refreshing">Atualizando…</string>
     <string name="rlv_release_to_refresh">Solte para atualizar</string>
-    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">Nenhum</string>
     <string name="router_download_exist">Este arquivo já existe</string>
     <string name="router_download_failed">"Não foi possível baixar"</string>
@@ -2411,7 +2411,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="setting_sms_content">Conteúdo SMS</string>
     <string name="setting_swipe_up">Deslizar para cima na Tela inicial</string>
     <string name="settings">Configurações</string>
-    <string name="share_image_text">Veja o que eu compartilhei! @Navegador Mi</string>
+    <string name="share_image_text">Compartilhei uma foto, dê uma olhada! @Navegador Mi</string>
     <string name="share_page_text">Veja o que eu compartilhei: %1$s @Navegador Mi | %2$s</string>
     <string name="share_slide_video_text">Veja o que eu compartilhei: %1$s</string>
     <string name="share_video">Compartilhar vídeo</string>
@@ -2448,10 +2448,10 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="snapshot_failed">"Não foi possível salvar a página"</string>
     <string name="snapshot_successed">Abra Favoritos/Histórico->LOCAL para ver a página</string>
     <string name="sniff_ask_every_times">Perguntar sempre</string>
-    <string name="sniff_description">Receba avisos quando uma página da web contiver itens para download</string>
-    <string name="sniff_detect_resource">Notamos conteúdo para download nesta página. Ver agora?</string>
-    <string name="sniff_dialog">Conteúdo disponível para download</string>
-    <string name="sniff_no_resource">Nenhum conteúdo para download encontrado</string>
+    <string name="sniff_description">Receba alertas quando uma página web conter itens baixáveis</string>
+    <string name="sniff_detect_resource">Detectamos conteúdo baixável nesta página. Ver agora?</string>
+    <string name="sniff_dialog">Conteúdo baixável</string>
+    <string name="sniff_no_resource">Nenhum conteúdo baixável encontrado</string>
     <string name="sns_access_token_expired_warning">Sessão expirada. Faça o login novamente para reconectar esta conta.</string>
     <string name="sns_bind_limit">Muitas tentativas efetuadas. Tente outras formas de login.</string>
     <string name="sns_sign_in">Outras formas de login</string>
@@ -2490,9 +2490,9 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="speed_test_upload">Upload</string>
     <string name="sport_card_match_week">Semana %d</string>
     <string name="sports_card_match_season">Temporada</string>
-    <string name="sports_card_match_status_1">Chegando</string>
+    <string name="sports_card_match_status_1">Em breve</string>
     <string name="sports_card_match_status_2">Em andamento</string>
-    <string name="sports_card_match_status_3">Concluída</string>
+    <string name="sports_card_match_status_3">Finalizado</string>
     <string name="ssl_bad_clock_date_settings">Definir data</string>
     <string name="splash__access_dialog_agree">Concordar</string>
     <string name="splash__access_dialog_protect">Termos e Condições</string>
@@ -2571,13 +2571,13 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="tab_refresh_description">Atualizar página</string>
     <string name="tab_search_description">Pesquisar</string>
     <string name="tab_share_description">Compartilhe esta página</string>
-    <string name="tab_shorts">Shorts</string>
+    <string name="tab_shorts">Curtos</string>
     <string name="tab_stop_loading_description">Pare de carregar a página</string>
     <string name="tab_videos">Vídeos</string>
     <string name="tab_yellowpage">Links</string>
     <string name="tabs_description">Guias</string>
     <string name="tag_undo">Desfazer</string>
-    <string name="tag_undo_title">Fechado %s</string>
+    <string name="tag_undo_title">%s fechada</string>
     <string name="talk_back_voice_search">Pesquisa por voz</string>
     <string name="temporary_not_available">Este recurso ainda não está disponível</string>
     <string name="terms_policy">Termos e Condições</string>
@@ -2647,11 +2647,11 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="toast_exit_browser">Toque novamente para sair do Navegador Mi</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
-    <string name="top_news">Melhores notícias</string>
+    <string name="top_news">Principais notícias</string>
     <string name="top_up">Completar</string>
     <string name="topsite_click">Clique no TopSite</string>
     <string name="track_permission_name">Não rastrear</string>
-    <string name="track_permission_name_new">"Não permitir o rastreamento de sua atividade"</string>
+    <string name="track_permission_name_new">"Não permitir o rastreamento da sua atividade"</string>
     <string name="traffic_fail_device_limit">Limite de dispositivos conectados atingido</string>
     <string name="traffic_fail_free_no_left">Você está sem tráfego. Assine para continuar.</string>
     <string name="traffic_fail_no_left">Você está sem tráfego para VPN</string>
@@ -2813,7 +2813,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="tuesday_shortest">Ter</string>
     <string name="turn_off_dia_btn_cancel">Cancelar</string>
     <string name="turn_off_dia_btn_turn_off">Desativar</string>
-    <string name="turn_off_dia_content">"Se você desativar o Centro de conteúdo, não poderá deslizar para cima na Tela inicial. Você pode editar a ação deste gesto em Configurações > Tela inicial. Desativar o Centro de conteúdo agora?"</string>
+    <string name="turn_off_dia_content">"Se desativar o Centro de conteúdo, você não poderá deslizar para cima a partir da Tela inicial. Você pode editar a ação deste gesto em Configurações > Tela inicial. Desativar o Centro de conteúdo agora?"</string>
     <string name="turn_off_dia_title">Desativar o Centro de conteúdo?</string>
     <string name="twitter_moments">Momentos do Twitter</string>
     <string name="type_not_support">"Este formato de arquivo não é suportado. Descompacte o arquivo e tente novamente."</string>
@@ -2998,7 +2998,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="weather_card_aqi">IQA</string>
     <string name="weather_card_baro">Pressão</string>
     <string name="weather_card_dew_pt">Ponto de orvalho</string>
-    <string name="weather_card_feel">Sensação térmica de %s</string>
+    <string name="weather_card_feel">Sensação de %s</string>
     <string name="weather_card_rh">Umidade</string>
     <string name="weather_card_vis">Visibilidade</string>
     <string name="weather_card_wind_direction_east">Vento L</string>
@@ -3016,13 +3016,13 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_confirm">Excluir</string>
     <string name="web_ad_clear_dialog_msg">Excluir tags de anúncio de \"%s\" agora?</string>
     <string name="web_ad_clear_dialog_title">Excluir tag de anúncio</string>
-    <string name="web_app_center">Miniprogramas</string>
+    <string name="web_app_center">Mini programas</string>
     <string name="web_app_center_common_add">Adicionar</string>
     <string name="web_app_center_common_done">Concluído</string>
     <string name="web_app_center_common_title">Usado frequentemente</string>
     <string name="web_app_center_history">Usado recentemente</string>
     <string name="web_app_center_history_more">Mais</string>
-    <string name="web_app_center_try">Tentar</string>
+    <string name="web_app_center_try">Experimentar</string>
     <string name="web_enhance_dialog_cancel">Cancelar</string>
     <string name="web_enhance_dialog_confirm">"OK"</string>
     <string name="web_enhance_dialog_msg">Comece a bloquear anúncios em %s agora?</string>
@@ -3100,10 +3100,10 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_title">Configurações do site</string>
     <string name="web_permission_setting_page_web_enhance_desc">Desative para parar de bloquear anúncios neste site</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Bloquear anúncios</string>
-    <string name="web_preload_hint_dialog_btn_good">Eu sinto a diferença</string>
-    <string name="web_preload_hint_dialog_btn_nothing">"Eu não percebi"</string>
-    <string name="web_preload_hint_toast">Velocidade de carregamento aumentada por %s</string>
-    <string name="web_tag_desc">Mostre miniaturas de páginas visitadas anteriormente</string>
+    <string name="web_preload_hint_dialog_btn_good">Eu senti a diferença</string>
+    <string name="web_preload_hint_dialog_btn_nothing">"Eu não notei"</string>
+    <string name="web_preload_hint_toast">Velocidade de carregamento aumentada em %s</string>
+    <string name="web_tag_desc">Mostre miniaturas de páginas acessadas anteriormente</string>
     <string name="web_tag_tips">Toque aqui para revisitar uma página</string>
     <string name="web_tag_title">Miniaturas de páginas da web</string>
     <string name="web_video_accelerate">Velocidade</string>
@@ -3131,20 +3131,20 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="welcome_to_mi_browser">Bem-vindo ao Navegador Mi!</string>
     <string name="what_is_new">Atualize o app para acessar novos recursos</string>
-    <string name="whatsapp_downloadpage_tips">Salve o Status do WhatsApp</string>
+    <string name="whatsapp_downloadpage_tips">Salve os status do WhatsApp</string>
     <string name="whatsapp_file_saved_success">Salvo com sucesso</string>
     <string name="whatsapp_how_it_works">Como funciona</string>
     <string name="whatsapp_intro_dialog_title">Novo recurso</string>
     <string name="whatsapp_no_status_tips">Nenhuma imagem ou vídeo aqui ainda. Veja suas atualizações de status do WhatsApp e volte aqui novamente.</string>
     <string name="whatsapp_principle_page_message">O WhatsApp salva as fotos e vídeos que você visualiza em uma pasta oculta. Estes itens desaparecem após %1$d horas. Agora você pode usar o Navegador Mi para salvá-los.</string>
     <string name="whatsapp_principle_page_title">Você pode salvar imagens e vídeos dos status do WhatsApp usando o Navegador Mi</string>
-    <string name="whatsapp_principle_step_1">Navegue entre as imagens e vídeos na aba \"Status\" no WhatsApp.</string>
+    <string name="whatsapp_principle_step_1">Navegue entre as imagens e vídeos na aba \"Atualizações\" no WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Volte aqui para salvá-los.</string>
-    <string name="whatsapp_status_saver">Salve o Status do WhatsApp</string>
+    <string name="whatsapp_status_saver">Salvar status do WhatsApp</string>
     <string name="whatsapp_tab_chats">Conversas</string>
     <string name="whatsapp_tab_status">"Status"</string>
     <string name="whatsapp_webpage_btn">Ver</string>
-    <string name="whatsapp_webpage_tips">Salve o Status do WhatsApp</string>
+    <string name="whatsapp_webpage_tips">Salvar status do WhatsApp</string>
     <string name="withdraw_dia_content">Se você retirar seu consentimento com a Política de Privacidade do Centro de conteúdo, este recurso deixará de coletar suas informações pessoais. Quaisquer informações pessoais previamente coletadas e enviadas para nossos servidores serão excluídas. Depois de retirar seu consentimento, você não poderá mais usar o Centro de conteúdo. Retirar o consentimento agora?</string>
     <string name="xiaomi_sign_in_btn_txt">Faça o login ou crie uma conta</string>
     <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
@@ -3164,7 +3164,7 @@ Tamanho de atualização delta: %2$s"</string>
     <string name="ytb_added_subscription">Inscrito com sucesso</string>
     <string name="ytb_cancel">Cancelar</string>
     <string name="ytb_deleted_subscription">Desinscrito com sucesso</string>
-    <string name="ytb_empty_search_result">"Não foi possível encontrar resultados"</string>
+    <string name="ytb_empty_search_result">Nenhum resultado encontrado</string>
     <string name="ytb_empty_subscribe">Sem inscrições aqui ainda.</string>
     <string name="ytb_login">Fazer login</string>
     <string name="ytb_login_can_subscribe">Faça o login para se inscrever em canais.</string>

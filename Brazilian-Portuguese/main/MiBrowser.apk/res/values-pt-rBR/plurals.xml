@@ -44,7 +44,6 @@
     <plurals name="articles_updated_amount">
         <item quantity="other">Confira %1$d novos artigos</item>
         <item quantity="one">Confira %1$d novo artigo</item>
-        <item quantity="few">Confira %1$d novos artigos</item>
     </plurals>
     <plurals name="auto_play_next_tips">
         <item quantity="other">Reproduzindo o próximo vídeo em %d segundos</item>
@@ -59,8 +58,8 @@
         <item quantity="one">Encontrado &lt;font color="#ed6c00">%d&lt;/font> item obsoleto</item>
     </plurals>
     <plurals name="count_likes">
-        <item quantity="other">%s likes</item>
-        <item quantity="one">%s like</item>
+        <item quantity="other">%s curtidas</item>
+        <item quantity="one">%s curtida</item>
     </plurals>
     <plurals name="coin_amount">
         <item quantity="other">%d moedas</item>
@@ -95,16 +94,16 @@
         <item quantity="one">Jogue %1$d vez, %2$s</item>
     </plurals>
     <plurals name="festival_news_second_task_tips">
-        <item quantity="other">Procure por %1$d segundos, %2$s</item>
-        <item quantity="one">Procure por %1$d segundo, %2$s</item>
+        <item quantity="other">Navegue por %1$d segs, %2$s</item>
+        <item quantity="one">Navegue por %1$d seg, %2$s</item>
     </plurals>
     <plurals name="festival_news_task_gifts">
         <item quantity="other">Ganhe %2$d caixas de presente</item>
         <item quantity="one">Ganhe %2$d caixa de presente</item>
     </plurals>
     <plurals name="festival_news_task_tips">
-        <item quantity="other">Procure por %1$d minutos, %2$s</item>
-        <item quantity="one">Procure por %1$d minuto, %2$s</item>
+        <item quantity="other">Navegue por %1$d mins, %2$s</item>
+        <item quantity="one">Navegue por %1$d min, %2$s</item>
     </plurals>
     <plurals name="festival_task_finish">
         <item quantity="other">Parabéns! Você ganhou %d caixas de presente</item>
@@ -295,8 +294,8 @@
         <item quantity="one">Protegido %d vez</item>
     </plurals>
     <plurals name="kindred_coupons_hint">
-        <item quantity="other">Você tem %d cupons</item>
-        <item quantity="one">Você tem %d cupom</item>
+        <item quantity="other">Você possui %d cupons</item>
+        <item quantity="one">Você possui %d cupom</item>
     </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%1$s itens baixados com sucesso</item>
@@ -394,8 +393,8 @@
         <item quantity="one">"3. Os bônus são válidos por %d dia. Eles serão removidos da sua conta automaticamente após expirarem."</item>
     </plurals>
     <plurals name="opr_activity_news_task">
-        <item quantity="other">Navegue por %d notícias</item>
-        <item quantity="one">Navegue por %d notícia</item>
+        <item quantity="other">Navegar em %d notícias</item>
+        <item quantity="one">Navegar em %d notícia</item>
     </plurals>
     <plurals name="opr_activity_svideo_task">
         <item quantity="other">Assista a %d vídeos curtos</item>
@@ -528,8 +527,8 @@
         <item quantity="one">%d música popular</item>
     </plurals>
     <plurals name="tag_count">
-        <item quantity="other">%d abas</item>
-        <item quantity="one">%d aba</item>
+        <item quantity="other">%d guias</item>
+        <item quantity="one">%d guia</item>
     </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Reproduzir vídeo em %1$d segundos</item>
@@ -586,7 +585,6 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d pessoas já votaram</item>
         <item quantity="one">%d pessoa já votou</item>
-        <item quantity="few">%d pessoas já votaram</item>
     </plurals>
     <plurals name="web_intercept_record_behavior_hint_ad">
         <item quantity="other">%d anúncios bloqueados</item>
@@ -629,8 +627,8 @@
         <item quantity="one">%s vez</item>
     </plurals>
     <plurals name="web_preload_hint_dialog_title">
-        <item quantity="other">Na semana passada, o Navegador Mi aumentou a velocidade de carregamento de páginas web para você %d vezes!</item>
-        <item quantity="one">Na semana passada, o Navegador Mi aumentou a velocidade de carregamento de páginas web para você %d vez!</item>
+        <item quantity="other">Na semana passada, o Navegador Mi aumentou a velocidade de carregamento de páginas da web para você %d vezes!</item>
+        <item quantity="one">Na semana passada, o Navegador Mi aumentou a velocidade de carregamento de páginas da web para você %d vez!</item>
     </plurals>
     <plurals name="welcome_skip_count_down">
         <item quantity="other">%d segundos</item>

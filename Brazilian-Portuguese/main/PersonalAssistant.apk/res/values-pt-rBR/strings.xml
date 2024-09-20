@@ -554,7 +554,7 @@ Fique ligado!"</string>
     <string name="pa_picker_list_recommend">Recomendado</string>
     <string name="pa_picker_loading">Aguarde…</string>
     <string name="pa_picker_maml_list_activity_title">Adicionar widgets</string>
-    <string name="pa_picker_no_relevant_content">"Não foi possível encontrar resultados"</string>
+    <string name="pa_picker_no_relevant_content">Nenhum resultado encontrado</string>
     <string name="pa_picker_order_go_to_allow_cta">Permitir</string>
     <string name="pa_picker_order_go_to_login">Entrar</string>
     <string name="pa_picker_order_login_xiaomi_account">Entre na sua Conta Mi para poder usar este recurso.</string>
@@ -574,11 +574,11 @@ para mostrar widgets."</string>
     <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtrar</string>
     <string name="pa_picker_search_card_more_all_applications">Mais apps</string>
     <string name="pa_picker_search_card_more_all_suits">Mais conjuntos de widgets</string>
-    <string name="pa_picker_search_empty">"Não foi possível encontrar resultados"</string>
+    <string name="pa_picker_search_empty">Nenhum resultado encontrado</string>
     <string name="pa_picker_search_error">"Não foi possível conectar-se à rede"</string>
     <string name="pa_picker_search_layout_cancel">Cancelar</string>
     <string name="pa_picker_search_recommendation_title">Recomendado</string>
-    <string name="pa_picker_search_result_empty">"Não foi possível encontrar resultados"</string>
+    <string name="pa_picker_search_result_empty">Nenhum resultado encontrado</string>
     <string name="pa_picker_search_result_type_application">"Apps"</string>
     <string name="pa_picker_search_result_type_recommend">Recomendado</string>
     <string name="pa_picker_search_result_type_suit">Conjuntos de widgets</string>
@@ -790,11 +790,11 @@ Adicione widgets para começar."</string>
     <string name="pa_stock_init_toast">Inicializando widgets…</string>
     <string name="pa_stock_label_stock">Ações</string>
     <string name="pa_stock_load_data_failure">"Não foi possível carregar informações"</string>
-    <string name="pa_stock_network_unavailable">"Não foi possível conectar-se à rede"</string>
-    <string name="pa_stock_not_found_related_items">"Não foi possível encontrar resultados"</string>
+    <string name="pa_stock_network_unavailable">Não foi possível conectar-se à rede"</string>
+    <string name="pa_stock_not_found_related_items">"Nenhum resultado encontrado</string>
     <string name="pa_stock_nsdk">Nasdaq</string>
     <string name="pa_stock_red_grow">Vermelho - para cima, verde - para baixo</string>
-    <string name="pa_stock_search_failure">"Não foi possível encontrar resultados"</string>
+    <string name="pa_stock_search_failure">Nenhum resultado encontrado</string>
     <string name="pa_stock_search_input_hint">Insira o nome do estoque ou o código</string>
     <string name="pa_stock_search_loading">Aguarde…</string>
     <string name="pa_stock_szzs">"SSE"</string>

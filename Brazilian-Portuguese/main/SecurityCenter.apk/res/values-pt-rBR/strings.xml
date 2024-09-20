@@ -644,7 +644,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_permission_use_title">Permissões</string>
     <string name="app_predict_black_list_empty">Nenhum item aqui ainda</string>
     <string name="app_predict_black_list_setting_title">Lista de bloqueio de sugestões de apps</string>
-    <string name="app_predict_classification_search_empty">Não foi possível encontrar resultados</string>
+    <string name="app_predict_classification_search_empty">Nenhum resultado encontrado</string>
     <string name="app_predict_dialog_button">Adicionar à Tela inicial</string>
     <string name="app_predict_dialog_message">A IA irá sugerir apps, dos quais você pode precisar no momento.</string>
     <string name="app_predict_dialog_success">Adicionado à Tela inicial com sucesso</string>
@@ -4781,7 +4781,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_thumbnail_blur_category_other">Outros</string>
     <string name="privacy_thumbnail_blur_category_photography">Foto e vídeo</string>
     <string name="privacy_thumbnail_blur_category_tip">Recomendado</string>
-    <string name="privacy_thumbnail_blur_search_empty">Não foi possível encontrar resultados</string>
+    <string name="privacy_thumbnail_blur_search_empty">Nenhum resultado encontrado</string>
     <string name="privacy_thumbnail_blur_title">Desfocar prévias de apps</string>
     <string name="privacy_thumbnail_blur_top_tip">Selecione os apps que terão suas prévias desfocadas nos Recentes</string>
     <string name="privacy_thumbnail_shield_title">Máscara de visualização</string>
