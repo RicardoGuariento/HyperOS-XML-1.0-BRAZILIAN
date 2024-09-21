@@ -186,7 +186,7 @@
     <string name="autoSwithcingSearchEngineTips">Alterado para o motor de busca frequente</string>
     <string name="auto_play_permission_name">Reprodução automática</string>
     <string name="auto_unlock">Desbloquear capítulos automaticamente</string>
-    <string name="autologin_bar_error">"Não foi possível fazer o login"</string>
+    <string name="autologin_bar_error">"Não foi possível fazer login"</string>
     <string name="autologin_bar_hide_text">Ocultar</string>
     <string name="autologin_bar_login_text">Fazer login</string>
     <string name="autologin_bar_text">Fazer login como</string>
@@ -689,7 +689,7 @@ Envie este código para o supervisor."</string>
     <string name="download_paused_waiting_for_network">Aguardando conexão…</string>
     <string name="download_paused_waiting_to_retry">Aguardando nova tentativa…</string>
     <string name="download_pending">Iniciando o download…</string>
-    <string name="download_permission_name">Download</string>
+    <string name="download_permission_name">Baixar</string>
     <string name="download_permission_name_hint">Baixar %s</string>
     <string name="download_phone_tip">Telefone</string>
     <string name="download_privacy_head_text">Puxe para baixo para ver os arquivos ocultos</string>
@@ -1156,7 +1156,7 @@ Envie este código para o supervisor."</string>
     <string name="lockpattern_recording_intro_header">Conecte pelo menos %1$d pontos</string>
     <string name="lockpattern_retry_button_text">Redefinir</string>
     <string name="login_fail">"Não foi possível fazer login. Tente novamente."</string>
-    <string name="login_failed_toast">"Não foi possível fazer o login, atualize e tente novamente."</string>
+    <string name="login_failed_toast">"Não foi possível fazer login, atualize e tente novamente."</string>
     <string name="login_or_register">ou</string>
     <string name="long_press_edit">Pressione e segure para editar</string>
     <string name="low_memory_toast">"Não é possível usar o Navegador Mi devido à memória estar baixa"</string>
@@ -1256,7 +1256,7 @@ Envie este código para o supervisor."</string>
     <string name="mint_news_feed">Notícias</string>
     <string name="mint_news_feed_a">Notícias Mi</string>
     <string name="mint_news_feed_b">Notícias locais</string>
-    <string name="miui_autologin_bar_error">"Não é possível fazer o login"</string>
+    <string name="miui_autologin_bar_error">"Não é possível fazer login"</string>
     <string name="miui_autologin_bar_title">Fazer login com a Conta Mi</string>
     <string name="miui_bookmark_action_bar_add_group_title">Adicionar grupo</string>
     <string name="miui_bookmark_action_bar_new_group_title">Novo grupo</string>
@@ -2207,7 +2207,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="readmode_already_add_to_bookshelf">Adicionado à estante</string>
     <string name="readmode_battery">Bateria</string>
     <string name="readmode_login">Fazer login</string>
-    <string name="readmode_login_message">Você precisa fazer o login para ler mais.</string>
+    <string name="readmode_login_message">Você precisa fazer login para ler mais.</string>
     <string name="readmode_page_load_error">"Não é possível carregar a página"</string>
     <string name="readmode_page_loading">Aguarde…</string>
     <string name="readmode_pay">Comprar capítulo</string>
@@ -2426,7 +2426,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="sign_in">Fazendo login</string>
     <string name="sign_in_by_others">Outras formas de login</string>
     <string name="sign_in_by_xiaommi">Fazer login na Conta Mi</string>
-    <string name="sign_in_failed">Não foi possível fazer o login</string>
+    <string name="sign_in_failed">Não foi possível fazer login</string>
     <string name="sign_in_progress">Fazendo o login…</string>
     <string name="sign_in_title">Faça o login com sua Conta Mi</string>
     <string formatted="false" name="sign_in_to">Fazer login em %s1 \"%s2\"</string>
@@ -3168,7 +3168,7 @@ Tamanho de atualização delta: %2$s"</string>
     <string name="ytb_empty_subscribe">Sem inscrições aqui ainda.</string>
     <string name="ytb_login">Fazer login</string>
     <string name="ytb_login_can_subscribe">Faça o login para se inscrever em canais.</string>
-    <string name="ytb_login_fail">"Não foi possível fazer o login"</string>
+    <string name="ytb_login_fail">"Não foi possível fazer login"</string>
     <string name="ytb_login_success">Login efetuado com sucesso</string>
     <string name="ytb_login_to_look_subscribe">Faça o login para ver suas inscrições do YouTube.</string>
     <string name="ytb_logout">Sair</string>

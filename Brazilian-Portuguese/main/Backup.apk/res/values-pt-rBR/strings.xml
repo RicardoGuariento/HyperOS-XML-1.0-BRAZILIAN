@@ -217,7 +217,7 @@ https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="enable_encrypt_fail">Erro de criptografia</string>
     <string name="enable_encrypt_indicator">Toque para criptografar</string>
     <string name="enable_encrypt_summery1">Faça o login em sua Conta Mi para acessar os backups criptografados.</string>
-    <string name="enable_encrypt_summery2">Seus backups serão criptografados automaticamente. Você precisará fazer o login em sua Conta Mi para acessá-los.</string>
+    <string name="enable_encrypt_summery2">Seus backups serão criptografados automaticamente. Você precisará fazer login em sua Conta Mi para acessá-los.</string>
     <string name="enable_encrypt_title">Criptografar backups</string>
     <string name="enable_encrypt_xiaomi_account">Este backup foi criado por %1$s. Para restaurá-lo, exclua a conta atual e faça o login como %2$s.</string>
     <string name="enable_local_backup">Ativar backups locais</string>
@@ -401,7 +401,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="local_select_userapp">"Apps"</string>
     <string name="local_select_video">Vídeos</string>
     <string name="login">Fazer login</string>
-    <string name="login_failed">Não foi possível fazer o login. Tente novamente.</string>
+    <string name="login_failed">Não foi possível fazer login. Tente novamente.</string>
     <string name="logining">Fazendo o login…</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecionar hora</string>
@@ -534,7 +534,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_britem_other">Outros</string>
     <string name="new_britem_pic">Imagens</string>
     <string name="new_britem_video">Vídeos</string>
-    <string name="new_confirm_enable_encrypt_content">Os backups criptografados estão associados à sua Conta Mi. Você precisará fazer o login em sua Conta Mi para restaurar os itens destes backups.</string>
+    <string name="new_confirm_enable_encrypt_content">Os backups criptografados estão associados à sua Conta Mi. Você precisará fazer login em sua Conta Mi para restaurar os itens destes backups.</string>
     <string name="new_confirm_enable_encrypt_title">Criptografar</string>
     <string name="new_local_button_backup">Fazer backup</string>
     <string name="new_local_button_restore">Restaurar</string>
@@ -707,7 +707,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="restore_backup">Restaurar</string>
     <string name="restore_contact">Restaurar contatos</string>
     <string name="restore_contact_content">A restauração poderá criar contatos duplicados.</string>
-    <string name="restore_contacts_hit">Você precisará fazer o login novamente para ver os dados restaurados.</string>
+    <string name="restore_contacts_hit">Você precisará fazer login novamente para ver os dados restaurados.</string>
     <string name="restore_counts">Restauração:</string>
     <string name="restore_data">Escolher itens para restaurar</string>
     <string name="restore_failed">Não foi possível restaurar</string>
@@ -969,7 +969,7 @@ para baixar e instalar o Mi Mover."</string>
     <string name="trans_intro_desc_9_method_2_title">2. Nos envie um e-mail</string>
     <string name="trans_intro_desc_9_method_3_dec">Grupo do Mi Mover no QQ: 687338378</string>
     <string name="trans_intro_desc_9_method_3_title">3. Reporte os problemas no QQ</string>
-    <string name="trans_intro_desc_account">Você precisará fazer o login novamente em suas contas (ex.: Conta Mi, Exchange, Google, etc.) no novo dispositivo para garantir sua segurança.</string>
+    <string name="trans_intro_desc_account">Você precisará fazer login novamente em suas contas (ex.: Conta Mi, Exchange, Google, etc.) no novo dispositivo para garantir sua segurança.</string>
     <string name="trans_intro_desc_gms">"Devido a alta possibilidade de falhas na transferência serem causados por problemas de compatibilidade, o Mi Mover não suporta a transferência de dados gerados por apps do Google."</string>
     <string name="trans_intro_desc_multiapp">"O Mi Mover não transfere dados de dual apps para evitar conflitos entre arquivos."</string>
     <string name="trans_intro_desc_multiuser">"O Mi Mover não pode acessar itens no Segundo espaço. Mova os itens para o Primeiro espaço e inicie o Mi Mover."</string>

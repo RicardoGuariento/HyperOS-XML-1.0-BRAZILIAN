@@ -107,14 +107,14 @@ ID da sua conta: %s"</string>
     <string name="bind_facebook">Conectar sua conta do Facebook</string>
     <string name="bind_google">Conectar sua Conta do Google</string>
     <string name="bind_qq">QQ</string>
-    <string name="bind_safe_phone_msg">Adicione seu número de telefone para conseguir fazer o login em sua Conta Mi da próxima vez.</string>
+    <string name="bind_safe_phone_msg">Adicione seu número de telefone para conseguir fazer login em sua Conta Mi da próxima vez.</string>
     <string name="bind_sina_weibo">Conectar conta Sina Weibo</string>
     <string name="bind_sns_description">Fazer login com %s</string>
     <string name="bind_weibo_description">Adicione seus amigos do Sina Weibo</string>
     <string name="bind_weixin">Conecte sua Conta do WeChat</string>
     <string name="binded">Conectada</string>
     <string formatted="false" name="binded_description">"%s foi conectada à sua Conta Mi.
-Você pode fazer o login com sua Conta Mi usando %s agora."</string>
+Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="button_agree">Aceitar</string>
     <string name="button_close">Fechar</string>
@@ -947,7 +947,7 @@ Envie este código para o supervisor."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="scan_barcode_title">Para fazer o login em sua Conta Mi, digitalize o código QR</string>
+    <string name="scan_barcode_title">Para fazer login em sua Conta Mi, digitalize o código QR</string>
     <string name="search_account_security">Segurança da conta</string>
     <string name="search_account_security_desc">Configurações da conta</string>
     <string name="search_account_security_key_words">Alterar telefone,Alterar e-mail,Proteção da conta,Contas,Sina Weibo,QQ,Autorização,Dispositivos</string>
@@ -1082,9 +1082,9 @@ Envie este código para o supervisor."</string>
     <string name="two_factor_auth_click_confirm_summary">Você verá uma notificação em outros dispositivos Mi conectados. Toque na notificação para permitir o login em um novo dispositivo.</string>
     <string name="two_factor_auth_method">Método de autenticação</string>
     <string name="two_factor_auth_need_code">Inserir código</string>
-    <string name="two_factor_auth_need_code_summary">Você verá um código em outros dispositivos Mi conectados. Insira este código no novo dispositivo para fazer o login.</string>
-    <string name="two_factor_auth_summary">Quando você tenta fazer o login em um novo dispositivo ou em um novo local, você será notificado sobre isso em outros dispositivos conectados. Você deverá confirmar se tais tentativas de login foram autorizadas por você.</string>
-    <string name="unbind_sns_description">"Após você desconectar esta conta, você não será capaz de usar sua conta %s para fazer o login em sua Conta Mi."</string>
+    <string name="two_factor_auth_need_code_summary">Você verá um código em outros dispositivos Mi conectados. Insira este código no novo dispositivo para fazer login.</string>
+    <string name="two_factor_auth_summary">Quando você tenta fazer login em um novo dispositivo ou em um novo local, você será notificado sobre isso em outros dispositivos conectados. Você deverá confirmar se tais tentativas de login foram autorizadas por você.</string>
+    <string name="unbind_sns_description">"Após você desconectar esta conta, você não será capaz de usar sua conta %s para fazer login em sua Conta Mi."</string>
     <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unlock_help_notice">"Ajuda:
 %1$d. Caso tenha esquecido a sua senha, acesse id.mi.com para redefini-la.

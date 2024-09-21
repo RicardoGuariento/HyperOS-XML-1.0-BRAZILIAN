@@ -85,7 +85,7 @@ Para compreender totalmente os seus direitos como usuário, bem como as maneiras
     <string name="account_settings_login_dialog_content_fmt">"O usuário ou senha para a conta %s estão incorretos.
 Alterá-los agora?"</string>
     <string name="account_settings_login_dialog_reason_fmt">Não foi possível fazer login em %1$s. O servidor respondeu: %2$s. Atualizar seu usuário ou senha?</string>
-    <string name="account_settings_login_dialog_title">Não foi possível fazer o login</string>
+    <string name="account_settings_login_dialog_title">Não foi possível fazer login</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Você precisa atualizar o E-mail manualmente para sincronizar as mensagens</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">"Você precisará sincronizar o E-mail manualmente para sincronizar eventos da agenda e mensagens."</string>
     <string name="account_settings_mail_check_frequency_label">Frequência de sincronização</string>
@@ -160,7 +160,7 @@ Alterá-los agora?"</string>
     <string name="account_setup_failed_security">"Não foi possível abrir a conexão com o servidor devido a um erro de segurança."</string>
     <string name="account_setup_failed_security_policies_unsupported">"O servidor requer funções de segurança que seu dispositivo Android não suporta, incluindo %s"</string>
     <string name="account_setup_failed_tls_required">TLS solicitado, mas não suportado pelo servidor.</string>
-    <string name="account_setup_failed_too_many_partnerships">"Não foi possível fazer o login, muitas conexões."</string>
+    <string name="account_setup_failed_too_many_partnerships">"Não foi possível fazer login, muitas conexões."</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Quando eu excluir da Lixeira</string>
     <string name="account_setup_incoming_delete_policy_never_label">Nunca</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
@@ -199,7 +199,7 @@ IMAP"</string>
     <string name="account_setup_options_mail_window_label_imap_or_pop3">Manter por</string>
     <string name="account_setup_options_title">Configurações da conta</string>
     <string name="account_setup_outgoing_port_label">Porta</string>
-    <string name="account_setup_outgoing_require_login_label">Você precisa fazer o login</string>
+    <string name="account_setup_outgoing_require_login_label">Você precisa fazer login</string>
     <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
     <string name="account_setup_server_acc_manager_title">Contas</string>
     <string name="account_setup_username_password_toast">Insira um endereço de e-mail e senha válidos.</string>
@@ -287,8 +287,8 @@ IMAP"</string>
     <string name="auto_advance_help_title">Ao excluir um e-mail, ir para…</string>
     <string name="auto_advance_label">Tela após excluir e-mails</string>
     <string name="auto_advance_summary">Selecione qual tela será exibida após um e-mail ser excluído</string>
-    <string name="auto_login_fail">"Não foi possível fazer o login automaticamente"</string>
-    <string name="auto_login_fail_to_retry">"Não foi possível fazer o login automaticamente, tente novamente."</string>
+    <string name="auto_login_fail">"Não foi possível fazer login automaticamente"</string>
+    <string name="auto_login_fail_to_retry">"Não foi possível fazer login automaticamente, tente novamente."</string>
     <string name="auto_start_open_prompt">Permita que o app inicie automaticamente para poder sincronizar seus e-mails. Você pode conceder essa permissão nas Configurações.</string>
     <string name="auto_remind_bind">Adicionar</string>
     <string name="auto_remind_discribe_text">Ative para receber lembretes automáticos</string>
@@ -860,7 +860,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="login_failed">"Não foi possível fazer login"</string>
     <string name="login_failed_ticker">Falha no login de %s.</string>
     <string name="login_failed_tip">"Contate-nos no WeChat para receber ajuda: "</string>
-    <string name="login_failed_title">"Não é possível fazer o login"</string>
+    <string name="login_failed_title">"Não é possível fazer login"</string>
     <string name="login_mail">Fazer login</string>
     <string name="login_manual">Configuração manual</string>
     <string name="login_qq_psw">Inserir código manualmente</string>
@@ -1453,7 +1453,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="sent_folder_selection_title">Selecionar pasta de itens enviados para %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Não foi possível validar o certificado do servidor
 \u0009 (Certifique-se de que a Sincronização automática está ativada nas Configurações)"</string>
-    <string name="ser_resp_err_map_landing_more_failure">"Não foi possível fazer o login várias vezes seguidas. Aguarde um momento e tente novamente."</string>
+    <string name="ser_resp_err_map_landing_more_failure">"Não foi possível fazer login várias vezes seguidas. Aguarde um momento e tente novamente."</string>
     <string name="ser_resp_err_map_landing_too_frequently">Muitas tentativas frequentes de login. Aguarde um momento e tente novamente.</string>
     <string name="ser_resp_err_map_mailbox_locked">Esta conta de e-mail está bloqueada. Entre em contato com o provedor de serviços de e-mail para desbloqueá-lo primeiro.</string>
     <string name="ser_resp_err_map_mailbox_not_open">"Esta conta de e-mail não está ativa. Entre em contato com o provedor de serviços de e-mail para ativá-lo primeiro."</string>
@@ -1627,7 +1627,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="to_heading">"Para: "</string>
     <string name="toast_bar_fail_synchronization">"Não foi possível acessar o servidor. Aguarde um momento e tente novamente."</string>
     <string name="toast_bar_insufficient_memory_space">"Não é possível receber e-mails. Não há espaço de armazenamento suficiente."</string>
-    <string name="toast_bar_invalid_account">A informação da conta expirou. Toque para fazer o login novamente.</string>
+    <string name="toast_bar_invalid_account">A informação da conta expirou. Toque para fazer login novamente.</string>
     <string name="toast_bar_no_connection_network">"Você não possui uma conexão com a internet"</string>
     <string name="toast_bar_open_gmail_synchronization">"Não foi possível conectar ao Gmail. Verifique suas configurações de rede e tente novamente."</string>
     <string name="toast_bar_send_fail_remind">"Não foi possível enviar o e-mail. Ele foi salvo na pasta \"Saída\"."</string>
@@ -1718,7 +1718,7 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
     <string name="wait_help_context">espere</string>
     <string name="wait_while_update_db">Atualizando o banco de dados…</string>
     <string name="web_view_load_error_tip">Seu navegador travou. Baixe a versão mais recente do Webview do Google Play para ajudar a resolver esse problema.</string>
-    <string name="webview_logout">Você pode tentar fazer o login novamente</string>
+    <string name="webview_logout">Você pode tentar fazer login novamente</string>
     <string name="webview_logout_cancel">Agora não</string>
     <string name="webview_logout_sure">Tentar novamete</string>
     <string name="webview_not_found">"Não foi possível abrir a página devido à falta do plugin WebView"</string>
