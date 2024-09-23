@@ -56,7 +56,7 @@
     <string name="account_user_phone">Telefone de recuperação</string>
     <string name="action_copy">Copiar</string>
     <string name="action_notes">Salvar em Notas</string>
-    <string name="action_retry">Tente novamente</string>
+    <string name="action_retry">Tentar novamente</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
     <string name="activity_not_found_notice">"Não consigo encontrar o app"</string>
@@ -65,8 +65,8 @@
     <string name="add_remark_tip">Toque para adicionar comentário</string>
     <string name="afternoon">"PM"</string>
     <string name="agree_description">Permita que este app conecte-se à internet para poder usar todos os seus recursos.</string>
-    <string name="ai_summary">Resumo IA</string>
-    <string name="ai_watermark">Este conteúdo é gerado por IA e fornecido apenas para sua referência.</string>
+    <string name="ai_summary">Resumo por IA</string>
+    <string name="ai_watermark">Este conteúdo foi gerado por IA e é fornecido apenas para a sua referência.</string>
     <string name="alert_message_clear_records">Excluir gravações selecionadas?</string>
     <string name="alert_message_delete_local_record">Excluir esta gravação?</string>
     <string name="alert_message_delete_record">Excluir a gravação do seu dispositivo também excluirá esta gravação da MiCloud. Excluir agora?</string>
@@ -76,11 +76,12 @@
     <string name="am">"AM"</string>
     <string name="app_name">Gravador</string>
     <string name="app_record">Gravações de apps</string>
-    <string name="app_record_preference_title">Gravações de apps</string>
+    <string name="app_record_preference_title">Gravador de Chamada de voz</string>
     <string name="auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="back">Voltar</string>
     <string name="back_playback_position">Retornar à posição atual</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="btn_continue_record_description">Retomar gravação</string>
     <string name="button_queue_for_wifi">Aguardar</string>
     <string name="button_start_now">Baixar</string>
     <string name="call_notification_answer_action">Atender</string>
@@ -117,7 +118,7 @@
     <string name="confirm_activate_email">Verificado</string>
     <string name="content_preview_ratio">1:1</string>
     <string name="copy">Copiar</string>
-    <string name="data_connection_body">Usar sua conexão de dados móveis para baixar este arquivo, aumentará seu uso de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente.</string>
+    <string name="data_connection_body">Usar sua conexão de dados móveis para baixar este arquivo aumentará seu uso de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente.</string>
     <string name="data_connection_button_text">"OK"</string>
     <string name="data_connection_title">Aviso sobre o uso de dados</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
@@ -225,14 +226,14 @@ Envie este código para o supervisor."</string>
     <string name="friday_shortest">Sex</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="google_login_btn_content_description">Fazer login no Google</string>
-    <string name="guide_update_confirm_dialog_message">"Se você optar por não atualizar o Tradutor Mi AI, você não poderá acessar alguns recursos."</string>
+    <string name="guide_update_confirm_dialog_message">"Se você optar por não atualizar o Tradução Mi AI, você não poderá acessar alguns recursos."</string>
     <string name="guide_update_confirm_dialog_negative_button">Agora não</string>
     <string name="guide_update_confirm_dialog_positive_button">Atualizar</string>
     <string name="guide_update_confirm_dialog_title">Ignorar esta atualização?</string>
-    <string name="guide_update_dialog_message">Atualize o Tradutor Mi AI para obter acesso a recursos como transcrição de áudio, reconhecimento de falantes inteligente e muito mais. Atualizar agora?</string>
+    <string name="guide_update_dialog_message">Atualize o Tradução Mi AI para obter acesso a recursos como transcrição de áudio, reconhecimento inteligente do interlocutor e muito mais. Atualizar agora?</string>
     <string name="guide_update_dialog_negative_button">Agora não</string>
     <string name="guide_update_dialog_positive_button">Atualizar</string>
-    <string name="guide_update_dialog_title">Atualize o Tradutor Mi AI</string>
+    <string name="guide_update_dialog_title">Atualize o Tradução Mi AI</string>
     <string name="head_set_tip_dialog_msg">Desconecte seu fone de ouvido para gravar sons com predefinições específicas (ex.: músicas, voz).</string>
     <string name="head_set_tip_dialog_ok">Entendi</string>
     <string name="head_set_tip_dialog_title">Usar microfone interno</string>
@@ -268,9 +269,9 @@ Envie este código para o supervisor."</string>
     <string name="logout_account">Sair</string>
     <string name="loading_order_list">Aguarde…</string>
     <string name="loading_order_list_empty">Nenhum pedido aqui.</string>
-    <string name="low_battery_error">"Menos de %s de bateria restante. Pare e salve sua gravação para garantir que ela não seja perdida."</string>
+    <string name="low_battery_error">"Menos de %s de bateria restante. Pare e salve a sua gravação para não perdê-la."</string>
     <string name="low_battery_error_confirm">"OK"</string>
-    <string name="low_battery_error_for_pad">Menos de %s de bateria restante. Pare e salve sua gravação para garantir que ela não seja perdida.</string>
+    <string name="low_battery_error_for_pad">Menos de %s de bateria restante. Pare e salve a sua gravação para não perdê-la.</string>
     <string name="low_battery_error_title">Bateria fraca</string>
     <string name="low_bit_rate">"MP3, ~%1$d kbps, ~%2$d MB/h"</string>
     <string name="lyric_item_point_count">%1$d a %2$d</string>
@@ -307,7 +308,7 @@ Envie este código para o supervisor."</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronização com a nuvem desativada</string>
-    <string name="miuix_appcompat_cloud_state_encrypt_disabled">Ative a proteção ponta a ponta para sincronizar itens</string>
+    <string name="miuix_appcompat_cloud_state_encrypt_disabled">Ative a proteção ponta-a-ponta para sincronizar itens</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizado com a nuvem com sucesso</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
@@ -407,7 +408,7 @@ Envie este código para o supervisor."</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
+    <string name="network_timeout_info">"Não foi possível conectar-se à rede. Tente novamente."</string>
     <string name="network_tip_dialog_cancel">"Não aceitar"</string>
     <string name="network_tip_dialog_content">O Gravador precisa de uma conexão com a internet para funcionar normalmente. Aceitar?</string>
     <string name="network_tip_dialog_ok">Permitir</string>
@@ -430,7 +431,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="no_file">Vazio</string>
     <string name="no_network">"Não foi possível conectar-se à rede"</string>
     <string name="no_playback_file">Selecione uma gravação para ver os detalhes</string>
-    <string name="no_records">Ainda não há gravações aqui</string>
+    <string name="no_records">Não há gravações aqui ainda</string>
     <string name="noon">"PM"</string>
     <string name="normal_settings_pref_title">Configurações gerais</string>
     <string name="not_allowed">Não permitido</string>
@@ -576,6 +577,9 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="pay_error_cancel">O pagamento foi cancelado</string>
     <string name="pay_error_null">Não foi possível concluir o pagamento. Verifique a sua conta.</string>
     <string name="pay_error_unknown">Erro desconhecido</string>
+    <string name="permission_bluetooth">Acessar o status de conexão do Bluetooth</string>
+    <string name="permission_bluetooth_dialog_description">Permita que este dispositivo se conecte a dispositivos próximos para trocar de dispositivos ao reproduzir gravações.</string>
+    <string name="permission_bluetooth_title">Permissões necessárias</string>
     <string name="permission_desc">Detalhes de permissões</string>
     <string name="permission_dialog_cancel">Cancelar</string>
     <string name="permission_dialog_ok">Configurações</string>
@@ -594,10 +598,10 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="play_speed">Velocidade: %1$.1fX</string>
     <string name="playback_delete_records">Excluir gravação</string>
-    <string name="playback_menu_hide_speaker">Ocultar nomes dos falantes</string>
+    <string name="playback_menu_hide_speaker">Ocultar nome do interlocutor</string>
     <string name="playback_menu_rerecognize">Transcrever novamente</string>
     <string name="playback_menu_share">Compartilhar</string>
-    <string name="playback_menu_show_speaker">Mostrar nomes dos falantes</string>
+    <string name="playback_menu_show_speaker">Mostrar nome do interlocutor</string>
     <string name="playback_menu_to_note">Salvar em Notas</string>
     <string name="playback_share_records">Compartilhar gravação</string>
     <string name="playback_tabs_audio">Áudio</string>
@@ -653,7 +657,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="recognition_error_unknown">Ocorreu um erro desconhecido. Reporte-o para nós e tente novamente.</string>
     <string name="recognition_interrupt_current_dialog_body">"A transcrição pode levar algum tempo. Você receberá uma notificação quando esta tarefa for concluída. \"%s\" está sendo transcrito agora. Adicionar esta tarefa à fila de transcrições?"</string>
     <string name="recognition_language_dialog_cancel">Cancelar</string>
-    <string name="recognition_language_dialog_title">Selecione o idioma de destino</string>
+    <string name="recognition_language_dialog_title">Selecionar idioma de origem</string>
     <string name="recognition_notification_channel">Transcrevendo</string>
     <string name="recognition_notification_complete_success">\"%s\" transcrito com sucesso. Toque para ver.</string>
     <string name="recognition_notification_error">"Não foi possível transcrever \"%s\""</string>
@@ -705,14 +709,14 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="record_permission_dialog_title">Permissões de microfone necessárias</string>
     <string name="record_quliaty_preference_title">Qualidade de gravação</string>
     <string name="record_resotre">Recuperar registros</string>
-    <string name="record_scenes_summaries_HD">A tecnologia de alta faixa dinâmica permite que o microfone capture um som mais detalhado</string>
-    <string name="record_scenes_summaries_interview">Coloque o telefone entre %d pessoas para gravar a conversa claramente</string>
-    <string name="record_scenes_summaries_music">Grave músicas com melhor qualidade</string>
-    <string name="record_scenes_summaries_stereo_HD">A tecnologia de alta faixa dinâmica permite que o microfone capture um som mais detalhado</string>
-    <string name="record_scenes_summaries_stereo_interview">Coloque o telefone entre %d pessoas para gravar a conversa claramente</string>
+    <string name="record_scenes_summaries_HD">A tecnologia HDR permite que o microfone capture sons mais detalhados</string>
+    <string name="record_scenes_summaries_interview">Coloque o telefone entre %d pessoas para gravar claramente a conversa</string>
+    <string name="record_scenes_summaries_music">Gravar música com qualidade melhor</string>
+    <string name="record_scenes_summaries_stereo_HD">A tecnologia HDR permite que o microfone capture sons mais detalhados</string>
+    <string name="record_scenes_summaries_stereo_interview">Coloque o telefone entre %d pessoas para gravar claramente a conversa</string>
     <string name="record_scenes_summaries_stereo_music">Grave através de %d canais, ouça som estéreo nos fones de ouvido</string>
-    <string name="record_scenes_summaries_stereo_voice">Mova o microfone para mais perto da fonte do som para melhor qualidade</string>
-    <string name="record_scenes_summaries_voice">Mova o microfone para mais perto da fonte do som para melhor qualidade</string>
+    <string name="record_scenes_summaries_stereo_voice">Mova o microfone próximo à fonte de som para uma melhor qualidade</string>
+    <string name="record_scenes_summaries_voice">Mova o microfone próximo à fonte de som para uma melhor qualidade</string>
     <string name="record_while_in_call_tip">"Não é possível gravar durante uma chamada"</string>
     <string name="recorder_record">Áudio</string>
     <string name="recording">Gravando</string>
@@ -746,7 +750,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="rename_fail_tip">Não foi possível renomear. Já existe um item com este nome.</string>
     <string name="rename_no_more_tip">"Não mostrar novamente"</string>
     <string name="rename_speaker_dialog_checkbox">Atualizar apenas na seção atual</string>
-    <string name="rename_speaker_dialog_title">Renomear falante</string>
+    <string name="rename_speaker_dialog_title">Renomear interlocutor</string>
     <string name="request_agree">Permitir</string>
     <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concorda para conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir permissões ou revogar sua autorização nas Configurações."</string>
     <string name="request_cancel">Cancelar</string>
@@ -754,7 +758,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
     <string name="request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
-    <string name="rerecognize_dialog_message">Nosso recurso de transcrição atualizado pode reconhecer automaticamente falantes e quebras de frases. Transcreva este item novamente para usar esses novos recursos.</string>
+    <string name="rerecognize_dialog_message">Nosso recurso de transcrição atualizado pode reconhecer interlocutores e pausas no discurso. Transcreva este item novamente para usar estes novos recursos.</string>
     <string name="rerecognize_dialog_negative_button">Agora não</string>
     <string name="rerecognize_dialog_positive_button">Transcrever</string>
     <string name="rerecognize_dialog_title">Transcrever novamente?</string>
@@ -833,7 +837,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="sound_recorder_settings">Configurações</string>
-    <string name="speaker">Falante</string>
+    <string name="speaker">Interlocutor</string>
     <string name="speech_recognition_complete">Transcrito</string>
     <string name="speech_recognition_running_tip">"Processando "</string>
     <string name="start">Continuar</string>
@@ -855,11 +859,13 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sync_desc_state_complete">Sincronizado com a nuvem: %1$s</string>
-    <string name="system_error_info">O sistema está ocupado. Aguarde um minuto ou dois e tente novamente.</string>
+    <string name="system_error_info">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="tab_all">Todos</string>
     <string name="tab_apps">"Apps"</string>
     <string name="tab_call">Chamadas</string>
     <string name="tab_fm">Rádio FM</string>
+    <string name="talkback_traslation">Traduzir</string>
+    <string name="talkback_traslation_close">Parar tradução</string>
     <string name="temporary_not_available">"Este recurso ainda não está disponível"</string>
     <string name="tap_to_record">Toque no botão para iniciar a gravação</string>
     <string name="text_btn_backward_3_seconds">Voltar %d segundos</string>
@@ -928,14 +934,14 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string formatted="false" name="timer_format">%02d:%02d</string>
     <string formatted="false" name="timer_format_three_sections">%02d:%02d:%02d</string>
     <string formatted="false" name="timer_format_two_sections">%02d:%02d</string>
-    <string name="toast_enter_silent_mode">Gravando. O Modo silencioso está ativado.</string>
-    <string name="toast_exit_silent_mode">Gravação concluída. O Modo silencioso está desativado.</string>
+    <string name="toast_enter_silent_mode">Gravando. Modo silencioso ativado.</string>
+    <string name="toast_exit_silent_mode">Gravação finalizada. Modo silencioso desativado.</string>
     <string name="toast_max_record_time">%1$s pode gravar até %2$s</string>
     <string name="toast_stop">Gravação concluída</string>
     <string name="toast_uninstall_fileexplorer">"O Arquivos não está instalado"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
-    <string name="translation_language">Selecione o idioma de destino</string>
+    <string name="translation_language">Selecionar idioma alvo</string>
     <string name="trash_box">Itens recentemente excluídos</string>
     <string name="trash_box_close_tip">Fechar alerta</string>
     <string name="trash_box_delete_all">Excluir todos os itens da lixeira permanentemente?</string>
