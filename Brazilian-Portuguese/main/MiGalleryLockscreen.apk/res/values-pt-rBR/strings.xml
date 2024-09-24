@@ -105,7 +105,7 @@
     <string name="afternoon">"PM"</string>
     <string name="ai_back">Voltar</string>
     <string name="ai_begin">Iniciar</string>
-    <string name="ai_disable_limit_message">Não restam mais tentativas por hoje. Crie mais planos de fundos IA amanhã!</string>
+    <string name="ai_disable_limit_message">Não restam mais tentativas por hoje. Crie mais planos de fundo IA amanhã!</string>
     <string name="ai_edit_hint">Descreva o resultado esperado. Uma boa descrição pode ajudar nossa IA a fazer uma criação melhor com palavras claras como \"Ouro\", \"Dragão\", \"Crescente\", \"Nuvem\".</string>
     <string name="ai_network_error_message">"Nenhuma conexão de rede. Não é possível usar o plano de fundo IA."</string>
     <string name="ai_next">Salvar na Galeria</string>
@@ -190,7 +190,7 @@
     <string name="create_shortcut">Criar atalho na Tela inicial</string>
     <string name="create_shortcut_btn">Criar</string>
     <string name="create_shortcut_title">Crie um atalho na Tela inicial</string>
-    <string name="creation_ai_disable_limit_message">Não restam mais tentativas por hoje. Crie mais planos de fundos IA amanhã!</string>
+    <string name="creation_ai_disable_limit_message">Não restam mais tentativas por hoje. Crie mais planos de fundo IA amanhã!</string>
     <string name="creation_ai_disable_message">Este recurso está disponível apenas para testadores Beta. Você pode se inscrever na Comunidade Xiaomi.</string>
     <string name="creation_ai_disable_title">Permissões de testador beta necessárias</string>
     <string name="creation_ai_err">Exceção do autenticador</string>
@@ -401,8 +401,8 @@ Envie este código para o supervisor."</string>
     <string name="lks_cta_dont_mention">"Não mostrar novamente"</string>
     <string name="lks_cta_ok">Aceitar</string>
     <string name="lks_cta_reject">"Não aceito"</string>
-    <string name="lks_cta_summary1">O Carrossel de planos de fundo fornece os seguintes recursos:</string>
-    <string name="lks_cta_summary2">"1. Planos de fundo atualizados automaticamente&lt;br>2. Novas imagens e histórias entregues em sua Tela de bloqueio&lt;br>3. Opções de personalização&lt;br>Este recurso precisa se conectar à internet para funcionar normalmente.&lt;br>&lt;br>Para fornecer serviços adicionais, podemos solicitar permissão para acessar e salvar itens no armazenamento deste dispositivo. Leia e aceite o nosso &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a> antes de continuar."</string>
+    <string name="lks_cta_summary1_new">Este app oferece uma ampla gama de planos de fundo recomendados, cobrindo temas como viagens, animais de estimação, comida, arte e muito mais.</string>
+    <string name="lks_cta_summary2_new">"O Carrossel de planos de fundo precisa se conectar à internet para fornecer seus serviços. Leia e concorde com o &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrato do Usuário do Sistema Operacional Xiaomi&lt;/font>&lt;/a> e a &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Política de Privacidade do Carrossel de planos de fundo&lt;/font>&lt;/a> antes de continuar."</string>
     <string name="lks_cta_title">Termos e Condições</string>
     <string name="lks_current_lks_wallpaper">Tela de bloqueio atual</string>
     <string name="lks_data_warning_toast_1">"Você está usando dados móveis para pesquisar planos de fundo.
@@ -1034,7 +1034,7 @@ mm"</string>
     <string name="see_detail">Visualizar</string>
     <string name="see_more">Ver mais</string>
     <string name="see_more_content">Ver mais</string>
-    <string name="select_at_least_one_mode">Selecione um modo do Carrossel de planos de fundos</string>
+    <string name="select_at_least_one_mode">Selecione um modo do Carrossel de planos de fundo</string>
     <string name="select_package">Selecionar versão</string>
     <string name="select_photo_album">Selecionar imagens</string>
     <string name="select_picture">Selecionar imagens</string>
@@ -1114,8 +1114,8 @@ mm"</string>
     <string name="sns_access_token_expired_warning">Sessão expirada. Faça o login novamente para reconectar esta conta.</string>
     <string name="sns_bind_limit">Muitas tentativas efetuadas. Tente outras formas de login.</string>
     <string name="sns_sign_in">Outras formas de login</string>
-    <string name="sst_ai_wallpaper_Activity_title">Criar planos de fundos IA</string>
-    <string name="sst_ai_wallpaper_desc">Imagens desenhadas à mão podem ser usadas para produzir planos de fundos de alta definição em vários estilos usando IA</string>
+    <string name="sst_ai_wallpaper_Activity_title">Criar planos de fundo IA</string>
+    <string name="sst_ai_wallpaper_desc">Imagens desenhadas à mão podem ser usadas para produzir planos de fundo de alta definição em vários estilos usando IA</string>
     <string name="sst_ai_wallpaper_title">Criador de plano de fundo IA</string>
     <string name="sst_auto_recommand_desc">Inscreva-se em suas categorias favoritas para receber novas imagens e histórias entregues em sua Tela de bloqueio diariamente</string>
     <string name="sst_auto_recommand_title">Planos de fundo recomendados</string>
@@ -1215,7 +1215,7 @@ mm"</string>
     <string name="surprise_wallpaper_auth_failed_tip">Falha na validação das informações do usuário. Verifique o status de login e a hora do sistema.</string>
     <string name="surprise_wallpaper_can_not_open_tip">Por favor, abra a rotação pictórica primeiro.</string>
     <string name="surprise_wallpaper_can_not_support_tip">Seu dispositivo não oferece suporte a esse recurso no momento!</string>
-    <string name="surprise_wallpaper_empty_dlg_content">Os Planos de fundos surpresa criarão planos de fundo personalizados com base em outros planos de fundos autosselecionados (se ativados) ou com base em uma estratégia aleatória, e a frequência de rotação pictórica será limitada a 1 dia. Quando a criação falhar, o plano de fundo será atualizado para você usando a imagem original.</string>
+    <string name="surprise_wallpaper_empty_dlg_content">Os Planos de fundo surpresa criarão planos de fundo personalizados com base em outros planos de fundo autosselecionados (se ativados) ou com base em uma estratégia aleatória, e a frequência de rotação pictórica será limitada a 1 dia. Quando a criação falhar, o plano de fundo será atualizado para você usando a imagem original.</string>
     <string name="surprise_wallpaper_empty_dlg_title">Plano de fundo surpresa</string>
     <string name="surprise_wallpaper_generate_failed_toast">Falha na geração do Plano de fundo surpresa</string>
     <string name="surprise_wallpaper_goto_prompts_error">Houve uma exceção de rede. Tente novamente mais tarde.</string>
