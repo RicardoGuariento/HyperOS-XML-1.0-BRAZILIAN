@@ -145,7 +145,7 @@
         <item quantity="one">%2$d imagem ou vídeo de %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">%2$d imagens e vídeos recebidos de %1$s</item>
+        <item quantity="other">%2$d imagens ou vídeos recebidos de %1$s</item>
         <item quantity="one">%2$d imagem ou vídeo recebido de %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
@@ -169,8 +169,8 @@
         <item quantity="one">%2$d vídeo de %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">Recebidos %2$d vídeos de %1$s</item>
-        <item quantity="one">Recebido %2$d vídeo de %1$s</item>
+        <item quantity="other">%2$d vídeos recebidos de %1$s</item>
+        <item quantity="one">%2$d vídeo recebido de %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
         <item quantity="other">Recebendo %2$d vídeos de %1$s…</item>

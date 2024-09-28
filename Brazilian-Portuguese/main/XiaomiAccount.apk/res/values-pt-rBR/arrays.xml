@@ -4,7 +4,7 @@
         <item>Masculino</item>
         <item>Feminino</item>
     </string-array>
-        <string-array name="passport_account_user_gender_name">
+    <string-array name="passport_account_user_gender_name">
         <item>Masculino</item>
         <item>Feminino</item>
     </string-array>
@@ -16,7 +16,7 @@
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Contas</item>
         <item>Veja seu WeChat conectado e outras contas SNS</item>
-        <item>permissões;SNS;WeChat;Conta Xiaomi;conta</item>
+        <item>Permissões;SNS;WeChat;Conta Xiaomi;Conta</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Alterar senha</item>
@@ -25,23 +25,23 @@
     </string-array>
     <string-array name="settings_search_cloud_space_share">
         <item>Espaço de armazenamento familiar</item>
-        <item>Visualizar/ativar o Espaço de armazenamento familiar</item>
+        <item>Ver/ativar Espaço de armazenamento familiar</item>
         <item>Espaço de armazenamento familiar;Compartilhamento de armazenamento</item>
     </string-array>
     <string-array name="settings_search_family_service">
         <item>Serviços familiares</item>
-        <item>Exibir/ativar os Serviços familiares</item>
+        <item>Ver/ativar os Serviços familiares</item>
         <item>Família;Serviços familiares;Compartilhamento familiar</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Ajuda</item>
-        <item>Obtenha ajuda e suporte para a Conta Mi</item>
+        <item>Obtenha ajuda ou suporte para a Conta Mi</item>
         <item>Conta Mi;Conta;Conta Xiaomi;Ajuda da conta;Central de ajuda</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Segurança da conta</item>
         <item>Telefone e e-mail de recuperação, gerenciamento de senha</item>
-        <item>Segurança da conta;Fazer login;Telefone de recuperação;E-mail de recuperação;Proteção de conta;Número de telefone;E-mail;Alterar senha;Adicionar número de telefone;Adicionar e-mail;Conta Mi;Conta;Conta Xiaomi</item>
+        <item>Segurança da conta;Login;Telefone de recuperação;E-mail de recuperação;Proteção da conta;Número de telefone;E-mail;Alterar senha;Adicionar número de telefone;Adicionar e-mail;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Dispositivos</item>
@@ -71,7 +71,7 @@
     <string-array name="settings_search_user_information">
         <item>Informações da conta</item>
         <item>Veja sua foto de perfil e gerencie informações da conta</item>
-        <item>Informação pessoal;foto de perfil;apelido;informações da conta;Mi ID;ID;Conta Mi;Conta;Conta Xiaomi</item>
+        <item>Informações pessoais;foto de perfil;apelido;informações da conta;Mi ID;ID;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Contrato do Usuário</item>

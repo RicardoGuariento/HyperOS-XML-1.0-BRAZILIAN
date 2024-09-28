@@ -1959,11 +1959,11 @@ Para parear o esquerdo, verifique se ele está ligado e pronto para pareamento."
     <string name="bluetooth_paring_group_msg">Confirme para parear com o conjunto coordenado</string>
     <string name="bluetooth_pb_acceptance_dialog_text">O %1$s deseja acessar seus contatos e seu histórico de chamadas. Quer conceder acesso ao %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Não perguntar novamente</string>
-    <string name="bluetooth_phonebook_access_dialog_content">"Um dispositivo Bluetooth não confiável, %1$s, deseja acessar seus contatos e registro de chamadas. Isso inclui dados sobre chamadas realizadas e recebidas.
+    <string name="bluetooth_phonebook_access_dialog_content">"Um dispositivo Bluetooth não confiável, %1$s, deseja acessar seus contatos e histórico de chamadas. Isso inclui dados sobre chamadas realizadas e recebidas.
 
 Você não se conectou a %2$s antes."</string>
-    <string name="bluetooth_phonebook_access_dialog_title">Permitir acesso a contatos e registro de chamadas?</string>
-    <string name="bluetooth_phonebook_access_notification_content">Um dispositivo não confiável deseja acessar seus contatos e registro de chamadas. Toque para obter detalhes.</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Permitir acesso a contatos e histórico de chamadas?</string>
+    <string name="bluetooth_phonebook_access_notification_content">Um dispositivo não confiável deseja acessar seus contatos e histórico de chamadas. Toque para obter detalhes.</string>
     <string name="bluetooth_phonebook_request">Solicitação de acesso à agenda telefônica</string>
     <string name="bluetooth_pin_values_hint">Geralmente: 0000 ou 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">São necessários 16 dígitos</string>
@@ -1998,7 +1998,7 @@ Você não se conectou a %2$s antes."</string>
     <string name="bluetooth_profile_opp">Transferência de arquivo</string>
     <string name="bluetooth_profile_pan">Acesso à internet</string>
     <string name="bluetooth_profile_pan_nap">Compart. de conexão com a internet</string>
-    <string name="bluetooth_profile_pbap">Contatos e compartilhamento de histórico de chamadas</string>
+    <string name="bluetooth_profile_pbap">Contatos e compartilhamento do histórico de chamadas</string>
     <string name="bluetooth_profile_pbap_summary">Usado para compartilhar contatos</string>
     <string name="bluetooth_profile_sap">Usado para acessar o SIM</string>
     <string name="bluetooth_profile_vcp">Controle de volume</string>
@@ -2777,7 +2777,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="confirm_fingerprint">Confirme sua impressão digital</string>
     <string name="confirm_fingerprint_msg">Posicione o seu dedo no sensor</string>
     <string name="confirm_frp_credential_message">O seu dispositivo foi redefinido para os dados de fábrica. Você pode desbloqueá-lo usando sua senha anterior.</string>
-    <string name="confirm_frp_credential_skip_txt">Usar Conta Google no lugar</string>
+    <string name="confirm_frp_credential_skip_txt">Usar Conta do Google no lugar</string>
     <string name="confirm_frp_credential_title">Desbloqueio ao Redefinir dados de fábrica</string>
     <string name="confirm_lock_pattern_header_text">Desenhe o seu padrão</string>
     <string name="confirm_new_backup_pw_prompt">Digite mais uma vez a nova senha de backup completo aqui</string>
@@ -3785,7 +3785,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_wifi_summary">Aumenta a velocidade do Wi-Fi conectando-se a uma rede auxiliar</string>
     <string name="dual_wifi_switching_not_remind">Não mostrar novamente</string>
     <string name="dual_wifi_switching_prompt">Alternando entre redes</string>
-    <string name="dual_wifi_switching_summary">A Aceleração de rede com Wi-Fi dual band precisa usar duas bandas de Wi-Fi diferentes (2.5GHz e 5GHz). Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
+    <string name="dual_wifi_switching_summary">A Aceleração de rede com Wi-Fi dual band precisa usar duas bandas de Wi-Fi diferentes (2.5 GHz e 5 GHz). Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
     <string name="dump_log">Obter logs relacionados com o problema</string>
     <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log %s na versão Beta do sistema. Use-o com cautela.
 Você pode ver os logs gerados no app Arquivos."</string>
@@ -8139,7 +8139,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_mms">Mensagens</string>
     <string name="privacy_mode_dialog_message">Mensagens, notas, fotos e configurações serão ocultadas no Modo convidado. Além disso, você não será capaz de editar a Tela inicial. Mudar para o Modo convidado?</string>
     <string name="privacy_mode_dialog_title">Modo convidado</string>
-    <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, configurações e registros de chamadas</string>
+    <string name="privacy_mode_enable_sum">Oculte mensagens, notas, fotos, configurações e histórico de chamadas.</string>
     <string name="privacy_mode_enable_title">Modo convidado</string>
     <string name="privacy_notes">Notas</string>
     <string name="privacy_password">Senha de proteção de privacidade</string>
@@ -12021,13 +12021,13 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_hotspot_password_title">Senha do hotspot</string>
     <string name="wifi_hotspot_security_footer">As configurações de segurança podem mudar se você alterar a frequência do hotspot</string>
     <string name="wifi_hotspot_security_summary_unavailable">Não disponível com 6 GHz</string>
-    <string name="wifi_hotspot_speed_2g">2,4GHz</string>
+    <string name="wifi_hotspot_speed_2g">2,4 GHz</string>
     <string name="wifi_hotspot_speed_2g_5g">2,4 e 5 GHz</string>
     <string name="wifi_hotspot_speed_2g_5g_summary">Velocidades rápidas. Este hotspot de banda dupla é compatível com a maioria dos dispositivos.</string>
     <string name="wifi_hotspot_speed_2g_summary">Velocidades mais lentas. Compatível com a maioria dos dispositivos.</string>
-    <string name="wifi_hotspot_speed_5g">5GHz</string>
+    <string name="wifi_hotspot_speed_5g">5 GHz</string>
     <string name="wifi_hotspot_speed_5g_summary">Velocidades rápidas. Compatível com muitos dispositivos.</string>
-    <string name="wifi_hotspot_speed_6g">6GHz</string>
+    <string name="wifi_hotspot_speed_6g">6 GHz</string>
     <string name="wifi_hotspot_speed_6g_summary">Velocidades mais rápidas. Compatível com poucos dispositivos.</string>
     <string name="wifi_hotspot_speed_category">Frequência preferida</string>
     <string name="wifi_hotspot_speed_footer">"Se a sua frequência preferida não estiver disponível, o seu hotspot poderá usar uma frequência diferente. As configurações de segurança do ponto de acesso podem mudar se você alterar a frequência."</string>
@@ -12533,9 +12533,9 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="xiaomi_hp_location_description">Informações precisas de localização permitem uma navegação mais precisa</string>
     <string name="xiaomi_money_service">Mi Créditos</string>
     <string name="xiaomi_router_available_notif_summary">Toque para ver mais informações.</string>
-    <string name="xiaomi_router_available_notif_title">Mi Router disponível</string>
-    <string name="xiaomi_router_notif_summary">Notificar quando um Mi Router estiver disponível</string>
-    <string name="xiaomi_router_notif_title">Notificações do Mi Router</string>
+    <string name="xiaomi_router_available_notif_title">Roteador Mi disponível</string>
+    <string name="xiaomi_router_notif_summary">Notificar quando um Roteador Mi estiver disponível</string>
+    <string name="xiaomi_router_notif_title">Notificações do Roteador Mi</string>
     <string name="xiaomi_transfer">"Xiaomi Share"</string>
     <string name="xspace">"Dual apps"</string>
     <string name="yes">Sim</string>

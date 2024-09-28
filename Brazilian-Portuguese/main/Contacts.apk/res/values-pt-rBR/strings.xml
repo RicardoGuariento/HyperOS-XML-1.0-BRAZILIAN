@@ -186,7 +186,7 @@
     <string name="bh_permission_get_accounts_desc">Para fazer pedidos e verificar seu status</string>
     <string name="bh_permission_read_call_log">Acessar histórico de chamadas</string>
     <string name="bh_permission_read_call_log_desc">Para exibir a duração da chamada</string>
-    <string name="bh_permission_read_call_log_desc_and_reason">Ler o registro de chamadas para exibir a duração da chamada</string>
+    <string name="bh_permission_read_call_log_desc_and_reason">Ler o histórico de chamadas para exibir a duração da chamada</string>
     <string name="bh_permission_read_contact_desc_and_reason">Ler os contatos para completar o saldo de seus contatos</string>
     <string name="bh_permission_read_phone_state_desc">Para exibir números de telefone e informações relacionadas à operadora</string>
     <string name="bh_permission_showing">Detalhes de permissões</string>
@@ -1569,7 +1569,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="toast_not_show_read_phone_state_perm_req">Para poder usar este app com seu cartão SIM, primeiro permita que este app acesse as informações do dispositivo.</string>
     <string name="toast_not_show_storage_perm_req">Para poder adicionar fotos de perfil e importar vCards, primeiro permita que este app acesse o armazenamento.</string>
     <string name="toast_not_show_storage_perm_req_for_pad">Para poder adicionar fotos de perfil e importar vCards, primeiro permita que este app acesse o armazenamento.</string>
-    <string name="toast_not_show_write_calllogs_perm_req">Para ser capaz de manter o histórico de chamadas atualizado, primeiro permita que este app edite o histórico de chamadas.</string>
+    <string name="toast_not_show_write_calllogs_perm_req">Para poder manter o histórico de chamadas atualizado, primeiro permita que este app edite o histórico de chamadas.</string>
     <string name="toast_not_show_write_contacts_perm_req">Para poder ver os contatos, primeiro permita que este app edite os contatos.</string>
     <string name="toast_start_intent_failed">"Não foi possível encontrar um app para executar esta ação"</string>
     <string name="toast_text_copied">Texto copiado</string>

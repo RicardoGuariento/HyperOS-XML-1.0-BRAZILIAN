@@ -20,7 +20,7 @@
     <string name="HIPS_Perm_GetInstall_Desc">Acesse a lista de apps instalados neste dispositivo</string>
     <string name="HIPS_Perm_PhoneID_Desc">Acesse o número do telefone, IMEI e IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Acesse o número do telefone e status do dispositivo</string>
-    <string name="HIPS_Perm_Read_Call_Log_Desc">Leia o registro de chamadas</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">Leia o histórico de chamadas</string>
     <string name="HIPS_Perm_Read_Contact_Desc">Leia seus contatos</string>
     <string name="HIPS_Perm_Read_SMS_Desc">Leia suas mensagens SMS</string>
     <string name="HIPS_Perm_SendSMS_Desc">Envie mensagens SMS diretamente</string>
@@ -632,7 +632,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_permission_use_group_mic">Microfone</string>
     <string name="app_permission_use_group_mic_des">Grave áudios</string>
     <string name="app_permission_use_group_phone">Telefone</string>
-    <string name="app_permission_use_group_phone_des">Leia e adicione itens ao registro de chamadas, fazer chamadas e acessar o status da chamada</string>
+    <string name="app_permission_use_group_phone_des">Leia e adicione itens ao histórico de chamadas, fazer chamadas e acessar o status da chamada</string>
     <string name="app_permission_use_group_sensor">Sensores corporais</string>
     <string name="app_permission_use_group_sensor_des">Leia dados gerados por sensores corporais</string>
     <string name="app_permission_use_group_sms">Mensagens</string>
@@ -1199,7 +1199,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="call_contact_block">Bloquear chamadas de contatos</string>
     <string name="call_delete_all_hint">Excluir todas as chamadas bloqueadas?</string>
     <string name="call_delete_hint">Excluir todas as chamadas bloqueadas deste número?</string>
-    <string name="call_delete_title">Excluir registro de chamadas</string>
+    <string name="call_delete_title">Excluir histórico de chamadas</string>
     <string name="call_oversea_block">Bloquear chamadas internacionais</string>
     <string name="call_prefix">Bloqueio de prefixos</string>
     <string name="call_private">Bloquear chamadas de números ocultos</string>
@@ -3167,7 +3167,7 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="menu_item_about_title">Sobre</string>
     <string name="menu_item_app_details">Detalhes</string>
     <string name="menu_item_app_permissions_control">Gerenciador de permissões</string>
-    <string name="menu_item_control_app_permissions">Perguntar antes de permitir que apps leiam seus contatos, vejam seus registros de chamadas, alterem configurações do sistema, ou acessem a câmera e outras funções do dispositivo.</string>
+    <string name="menu_item_control_app_permissions">Perguntar antes de permitir que apps leiam seus contatos, vejam seu histórico de chamadas, alterem configurações do sistema, ou acessem a câmera e outras funções do dispositivo.</string>
     <string name="menu_item_force_stop">Forçar parada</string>
     <string name="menu_item_install_debug_package">Instalar pacote de depuração</string>
     <string name="menu_item_notification_antispam_text_avail">Lista de bloqueio</string>
@@ -3943,7 +3943,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_action_virtual">Retornar mensagens em branco</string>
     <string name="permission_action_virtual_common_summary">Concede aos apps as permissões necessárias, mas retorna mensagens vazias para proteger sua privacidade.</string>
     <string name="permission_action_virtual_phone_summary">"Concede aos apps as permissões relevantes, mas não permite que eles acessem o número de telefone real do cartão SIM."</string>
-    <string name="permission_close_permission_control_dialog_msg">Quando o Gerenciador de permissões está desativado, apps não solicitarão sua permissão antes de ler seus contatos, ver seus registros de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo.</string>
+    <string name="permission_close_permission_control_dialog_msg">Quando o Gerenciador de permissões está desativado, apps não solicitarão sua permissão antes de ler seus contatos, ver seu histórico de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo.</string>
     <string name="permission_close_permission_control_dialog_title">Desativar?</string>
     <string name="permission_exception_title">Verif. restrição em conexão de apps</string>
     <string name="permission_instruction_access_notification">Esta permissão permite que os apps leiam, pesquisem e apaguem todas as suas notificações. Lembre-se de que as notificações podem incluir informações pessoais (ex.: números de cartões bancários e senhas).</string>
@@ -4011,7 +4011,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_write_clipboard">Esta permissão permite que os apps salve os itens na área de transferência. As mensagens de spam podem afetar seu uso normal da área de transferência.</string>
     <string name="permission_instruction_write_contacts">Esta permissão permite que os apps editem, adicionem e excluam as informações de contato armazenadas em seu dispositivo. Estas informações podem conter a frequência de sua comunicação com contatos específicos através de chamadas, e-mails e outros métodos. Esta permissão também permite que os apps excluam seus contatos.</string>
     <string name="permission_instruction_write_settings">Esta permissão permite que os apps possam modificar as configurações do sistema. Apps maliciosos podem usar esta permissão para modificar as configurações de seu sistema e afetar o uso normal de seu dispositivo.</string>
-    <string name="permission_permission_control_closed_desc_dialog_msg">Apps não solicitarão sua permissão antes de ler seus contatos, ver seus registros de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo. Você pode ativar esta função nas Configurações de permissões.</string>
+    <string name="permission_permission_control_closed_desc_dialog_msg">Apps não solicitarão sua permissão antes de ler seus contatos, ver seu histórico de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo. Você pode ativar esta função nas Configurações de permissões.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gerenciador de permissões</string>
     <string name="permission_upgrade_more">Mais recursos de proteção de privacidade</string>
     <string name="permission_upgrade_privacy_title">As permissões para gravar áudio e acessar os contatos agora têm uma opção que permite que você dê tais permissões apenas enquanto estiver utilizando apps correspondentes. Para proteger as suas informações pessoais, os apps não executarão estas ações em segundo plano.</string>
@@ -4019,7 +4019,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_upgrade_title">Permissões atualizadas</string>
     <string name="permission_upgrade_virtual">Se você não deseja permitir que apps acessem seus contatos ou o histórico de chamadas, você pode selecionar \"Retornar mensagens em branco\" quando você estiver concedendo as permissões correspondentes.</string>
     <string name="permission_with_SMS_and_MMS">Permissões relacionadas com SMS e MMS</string>
-    <string name="permission_with_call_and_contact">Permissões relacionadas a chamadas telefônicas, informações de contatos e registros de chamadas.</string>
+    <string name="permission_with_call_and_contact">Permissões relacionadas a chamadas telefônicas, informações de contatos e histórico de chamadas.</string>
     <string name="permission_with_read_write_clipboard">Permite que apps acessem e salvem itens na área de transferência</string>
     <string name="permit_running_network">Dados móveis em 2º plano</string>
     <string name="person_hotpot">Hotspot portátil</string>
@@ -6749,7 +6749,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="permission_usage_terminal_screen_once">"%1$s Este app usou a tela deste dispositivo"</string>
     <string name="permission_usage_terminal_screen_use">"Este app está usando a tela deste dispositivo"</string>
     <string name="permission_usage_virtual_calendar_once">%1$s | Retornou um evento de calendário vazio</string>
-    <string name="permission_usage_virtual_calllog_once">%1$s | Retornou um registro de chamada vazio</string>
+    <string name="permission_usage_virtual_calllog_once">%1$s | Retornou um histórico de chamada vazio</string>
     <string name="permission_usage_virtual_common_once">%1$s | Retornou uma mensagem vazia</string>
     <string name="permission_usage_virtual_contacts_once">%1$s | Retornou um contato vazio</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Retornou um status de chamada vazio</string>

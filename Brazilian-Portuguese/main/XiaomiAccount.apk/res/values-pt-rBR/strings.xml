@@ -41,7 +41,7 @@
     <string name="account_bind_secure_phone_title">Adicionar número de telefone</string>
     <string name="account_bind_settings">Contas</string>
     <string name="account_crop_user_avatar">Cortar foto</string>
-    <string name="account_empty_user_name">Insira o nome de usuário de sua Conta Mi</string>
+    <string name="account_empty_user_name">Insira o nome de usuário da sua Conta Mi</string>
     <string name="account_error_all_space_user_name">"O nome não pode conter apenas espaços"</string>
     <string name="account_error_invalid_user_name">"O nome não pode conter \"&lt;\", \">\", \"/\", ou \"%\""</string>
     <string name="account_error_longer_user_name">O nome não pode exceder %d caracteres</string>
@@ -211,7 +211,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="copy">Copiar</string>
     <string name="copy_link">Copiar URL</string>
     <string name="copy_to_clipboard_successful">Copiado com sucesso</string>
-    <string name="current_account_can_use_pwd_login">Insira sua senha para entrar</string>
+    <string name="current_account_can_use_pwd_login">Insira sua senha para fazer login</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_error_message">Entrada inválida</string>
@@ -221,7 +221,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="delete_bank_card_title">Atenção!</string>
     <string name="delete_device_btn">Remover</string>
     <string name="delete_device_failed">"Não é possível remover o dispositivo"</string>
-    <string name="delete_device_notice">"Depois que o dispositivo for removido, ele será desconectado de sua Conta Mi automaticamente. Você não poderá mais usar esse dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta."</string>
+    <string name="delete_device_notice">"Depois que o dispositivo for removido, ele será desconectado da sua Conta Mi automaticamente. Você não poderá mais usar esse dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta."</string>
     <string name="deny">Recusar</string>
     <string name="device_delete_success_message">"Caso não tenha feito o login neste dispositivo, troque sua senha imediatamente."</string>
     <string name="device_delete_success_title">Desconectado</string>
@@ -355,7 +355,7 @@ Envie este código para o supervisor."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="get_back_password">Redefina a senha</string>
+    <string name="get_back_password">Redefinir senha</string>
     <string name="get_back_pwd">Redefinindo senha</string>
     <string name="get_device_list_failed">Não é possível obter dispositivos</string>
     <string name="get_identity_auth_url_failed">"Não foi possível verificar o ID"</string>
@@ -363,7 +363,7 @@ Envie este código para o supervisor."</string>
     <string name="get_phone_verifycode_exceed_limit">"Não é possível enviar mais códigos de verificação para este número."</string>
     <string name="go_to_setting">Configurações</string>
     <string name="google">"Google"</string>
-    <string name="google_login">Entrar com o Google</string>
+    <string name="google_login">Fazer login com o Google</string>
     <string name="goto_accept">"OK"</string>
     <string name="guest_account_label">Conta Mi de convidado</string>
     <string name="has_no_new_version">Atualizado</string>
@@ -384,12 +384,12 @@ Envie este código para o supervisor."</string>
     <string name="indeterminate">Nem marcado nem desmarcado</string>
     <string name="input_email_address_notice">"Enviaremos um e-mail com um código de verificação para o endereço que você fornecer"</string>
     <string name="input_new_pwd">Insira uma nova senha</string>
-    <string name="input_ps">Insira a senha</string>
+    <string name="input_ps">Inserir senha</string>
     <string name="io_error_title">Confirme sua rede</string>
     <string name="item_view_role_description">Guia</string>
     <string name="just_a_second">Aguarde…</string>
     <string name="keep_phone_ticket_login">Entrar com código de verificação</string>
-    <string name="kr_license_desc">Você deve aceitar nosso Contrato do Usuário e a Política de Privacidade antes de usar a Conta Mi e os serviços da MiCloud.</string>
+    <string name="kr_license_desc">Você deve aceitar o nosso Contrato do Usuário e a Política de Privacidade antes de usar a Conta Mi e os serviços da MiCloud.</string>
     <string name="kr_permission_contacts_desc">Para acessar informações de contato</string>
     <string name="kr_permission_desc">Permissões necessárias</string>
     <string name="kr_permission_phone_desc">Para proteger sua conta</string>
@@ -402,8 +402,8 @@ Envie este código para o supervisor."</string>
     <string name="login_find_device_bind">Este dispositivo está associado à um ID de Conta Mi existente (%s).</string>
     <string name="login_notification_button_text">Entrar</string>
     <string name="login_notification_desc">Desfrute de serviços em nuvem, espaço de armazenamento familiar e muito mais</string>
-    <string name="login_notification_title">Entrar na sua Conta Mi</string>
-    <string name="login_or_register_by_other_way">Use outro método</string>
+    <string name="login_notification_title">Faça login na sua Conta Mi</string>
+    <string name="login_or_register_by_other_way">Usar outro método</string>
     <string name="login_with_other">Mais opções</string>
     <string name="logout_account">Sair</string>
     <string name="logout_failed">"Não é possível sair"</string>
@@ -671,7 +671,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_error_empty_phone_num">Digite o número do telefone</string>
     <string name="passport_error_empty_pwd">Digite sua senha</string>
     <string name="passport_error_empty_user_id">Digite seu nome de usuário</string>
-    <string name="passport_error_empty_username">Digite o ID de sua conta</string>
+    <string name="passport_error_empty_username">Digite o ID da sua conta</string>
     <string name="passport_error_empty_vcode">Digite o código de verificação</string>
     <string name="passport_error_empty_voice_code">Insira o captcha</string>
     <string name="passport_error_illegal_pwd">Senha inválida</string>
@@ -896,6 +896,8 @@ Envie este código para o supervisor."</string>
     <string name="permission_write_external_storage">Acessar e salvar itens no armazenamento</string>
     <string name="personal_info_desc">Foto, nome, e mais</string>
     <string name="phone_num_use_for">O número de telefone é usado para:</string>
+    <string name="phone_ticket_login">Fazer login com código de verificação</string>
+    <string name="phone_ticket_register">Criar conta com o número de telefone</string>
     <string name="phone_register">Usar número de telefone</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="pm">"PM"</string>
@@ -910,10 +912,9 @@ Envie este código para o supervisor."</string>
     <string name="provision_skip_underline">Pular</string>
     <string name="push_notification_content">Obter código de verificação</string>
     <string name="push_notification_title">Você fez o login em sua Conta Mi em um dispositivo desconhecido</string>
-    <string name="push_notify_dialog_message">"Um dispositivo desconhecido foi usado para fazer login em sua Conta Mi. Insira este código de verificação no dispositivo. Caso não tenha sido você, altere a senha de sua Conta Mi agora mesmo. Não informe seu código de verificação para outras pessoas."</string>
+    <string name="push_notify_dialog_message">"Um dispositivo desconhecido foi usado para fazer login em sua Conta Mi. Insira este código de verificação no dispositivo. Caso não tenha sido você, altere a senha da sua Conta Mi agora mesmo. Não informe seu código de verificação para outras pessoas."</string>
     <string name="push_notify_dialog_title">Verificação de conta</string>
     <string name="pwd_width_phone_number_or_mail_num">"A senha não pode conter seu número de telefone, e-mail ou ID da Conta Mi"</string>
-    <string name="qq">QQ</string>
     <string name="qrcode_login_entry_text"><Data>Fez login em um dispositivo diferente? Use o &lt;a href=>login rápido&lt;/a></Data></string>
     <string name="qrcode_login_load_refresh"><Data>Este código QR expirou. Toque para &lt;a href=>atualizar&lt;/a>.</Data></string>
     <string name="qrcode_login_load_retry"><Data>"Não foi possível carregar. &lt;a href=>Tente novamente&lt;/a>."</Data></string>

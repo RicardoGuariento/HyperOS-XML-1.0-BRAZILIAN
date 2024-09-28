@@ -977,8 +977,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">"%1$s | Usou a tela %2$d vez"</item>
     </plurals>
     <plurals name="permission_usage_virtual_calllog_more">
-        <item quantity="other">%1$s | Retornou um registro de chamada vazio %2$d vezes</item>
-        <item quantity="one">%1$s | Retornou um registro de chamada vazio %2$d vez</item>
+        <item quantity="other">%1$s | Retornou um histórico de chamadas vazio %2$d vezes</item>
+        <item quantity="one">%1$s | Retornou um histórico de chamada vazio %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_virtual_common_more">
         <item quantity="other">%1$s | Retornou uma mensagem vazia %2$d vezes</item>

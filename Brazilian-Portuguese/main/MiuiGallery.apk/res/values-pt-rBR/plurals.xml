@@ -134,8 +134,8 @@
         <item quantity="one">%s pessoa pode ver este álbum</item>
     </plurals>
     <plurals name="album_permission_subtitle_multiple">
-        <item quantity="other">%2$d álbuns incluindo %1$s</item>
-        <item quantity="one">%2$d álbum incluindo %1$s</item>
+        <item quantity="other">%2$d álbuns, incluindo %1$s</item>
+        <item quantity="one">%2$d álbum, incluindo %1$s</item>
     </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d itens</item>
@@ -162,8 +162,8 @@
         <item quantity="one">%d item é muito grande para fazer backup</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">Será retomada em %d minutos</item>
-        <item quantity="one">Será retomada em %d minuto</item>
+        <item quantity="other">Será retomada em %d mins</item>
+        <item quantity="one">Será retomada em %d min</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">
         <item quantity="other">Pausar sincronização de fotos, vídeos, contatos, notas e outros itens com a nuvem por %d minutos.</item>
@@ -206,8 +206,8 @@
         <item quantity="one">"Não foi possível sincronizar %d item devido ao armazenamento na nuvem ser insuficiente"</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Colagens podem conter %1$d-%2$d fotos</item>
-        <item quantity="one">Colagens podem conter %1$d-%2$d foto</item>
+        <item quantity="other">As colagens podem conter de %1$d-%2$d fotos</item>
+        <item quantity="one">As colagens podem conter de %1$d-%2$d foto</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Selecione até %d fotos</item>
@@ -437,8 +437,8 @@
         <item quantity="one">"Não foi possível baixar %d arquivo. Tentar novamente?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"Não foi possível baixar %d arquivos (%2$d MB). Tentar novamente?"</item>
-        <item quantity="one">"Não foi possível baixar %d arquivo (%2$d MB). Tentar novamente?"</item>
+        <item quantity="other">"Não foi possível baixar %1$d arquivos (%2$d MB). Tentar novamente?"</item>
+        <item quantity="one">"Não foi possível baixar %1$d arquivo (%2$d MB). Tentar novamente?"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"Ignorando %d fotos que não estão no dispositivo."</item>
@@ -481,8 +481,8 @@
         <item quantity="one">%1$d foto removida de \"%2$s\".</item>
     </plurals>
     <plurals name="search_title_ai">
-        <item quantity="other">Encontrados %d itens</item>
-        <item quantity="one">Encontrado %d item</item>
+        <item quantity="other">%d itens encontrados</item>
+        <item quantity="one">%d item encontrado</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d pacotes de instalação (%3$s) de %1$s</item>
@@ -537,7 +537,7 @@
         <item quantity="one">%2$d imagem ou vídeo de %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">%2$d imagens e vídeos recebidos de %1$s</item>
+        <item quantity="other">%2$d imagens ou vídeos recebidos de %1$s</item>
         <item quantity="one">%2$d imagem ou vídeo recebido de %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
@@ -569,8 +569,8 @@
         <item quantity="one">%2$d vídeo de %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">Recebidos %2$d vídeos de %1$s</item>
-        <item quantity="one">Recebido %2$d vídeo de %1$s</item>
+        <item quantity="other">%2$d vídeos recebidos de %1$s</item>
+        <item quantity="one">%2$d vídeo recebido de %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
         <item quantity="other">Recebendo %2$d vídeos de %1$s…</item>
@@ -589,8 +589,8 @@
         <item quantity="one">Recebendo %2$d arquivo (%3$s) de %1$s…</item>
     </plurals>
     <plurals name="share_album_detail_photo_count">
-        <item quantity="other">Fotos enviadas: %d</item>
-        <item quantity="one">Fotos enviadas: %d</item>
+        <item quantity="other">%d fotos enviadas</item>
+        <item quantity="one">%d foto enviada</item>
     </plurals>
     <plurals name="share_album_home_pref_rooms">
         <item quantity="other">%1$d quartos</item>
@@ -665,8 +665,8 @@
         <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">"%d fotos ou vídeos sem backup"</item>
-        <item quantity="one">"%d foto ou vídeo sem backup"</item>
+        <item quantity="other">%d itens não estão sincronizados</item>
+        <item quantity="one">%d item não está sincronizado</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d itens são muito grandes para fazer backup</item>
@@ -688,8 +688,8 @@
         <item quantity="one">%d vídeo sincronizado</item>
     </plurals>
     <plurals name="syncing_gprs_title_link">
-        <item quantity="other">Sincronizando %d itens usando dados móveis</item>
-        <item quantity="one">Sincronizando %d item usando dados móveis</item>
+        <item quantity="other">Sincronizando %d itens com dados móveis</item>
+        <item quantity="one">Sincronizando %d item com dados móveis</item>
     </plurals>
     <plurals name="syncing_title_link">
         <item quantity="other">Sincronizando %d itens</item>
@@ -697,7 +697,7 @@
     </plurals>
     <plurals name="talkback_album_item_content">
         <item quantity="other">%1$s, %2$s itens</item>
-        <item quantity="one">"%1$s, %2$s item"</item>
+        <item quantity="one">%1$s, %2$s item</item>
     </plurals>
     <plurals name="title_age_hint_day">
         <item quantity="other">%d dias</item>
@@ -724,24 +724,24 @@
         <item quantity="one">Excluir (%ds)</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
-        <item quantity="other">%d itens selecionados serão excluídos permanentemente da nuvem e de todos os dispositivos sincronizados. Excluir?</item>
-        <item quantity="one">%d item selecionado será excluído permanentemente da nuvem e todos os dispositivos sincronizados. Excluir?</item>
+        <item quantity="other">%d itens selecionados serão excluídos permanentemente da nuvem e de todos os dispositivos sincronizados. Excluir mesmo assim?</item>
+        <item quantity="one">%d item selecionado será excluído permanentemente da nuvem e todos os dispositivos sincronizados. Excluir mesmo assim?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
-        <item quantity="other">"Você não poderá restaurar %d itens selecionados se você os excluir. Excluir?"</item>
-        <item quantity="one">"Você não poderá restaurar %d item selecionado se você o excluir. Excluir?"</item>
+        <item quantity="other">"Você não poderá restaurar %d itens selecionados se você os excluir. Excluir mesmo assim?"</item>
+        <item quantity="one">"Você não poderá restaurar %d item selecionado se você o excluir. Excluir mesmo assim?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_local">
-        <item quantity="other">%d itens selecionados serão excluídos permanentemente. Excluir?</item>
-        <item quantity="one">%d item selecionado será excluído permanentemente. Excluir?</item>
+        <item quantity="other">%d itens selecionados serão excluídos permanentemente. Excluir mesmo assim?</item>
+        <item quantity="one">%d item selecionado será excluído permanentemente. Excluir mesmo assim?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"Você não poderá restaurar %d itens selecionados se você os excluir. Excluir?"</item>
-        <item quantity="one">"Você não poderá restaurar %d item selecionado se você o excluir. Excluir?"</item>
+        <item quantity="other">"Você não poderá restaurar %d itens selecionados se você os excluir. Excluir mesmo assim?"</item>
+        <item quantity="one">"Você não poderá restaurar %d item selecionado se você o excluir. Excluir mesmo assim?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
-        <item quantity="other">"Você não poderá restaurar %d itens selecionados se você os excluir. Excluir?"</item>
-        <item quantity="one">"Você não poderá restaurar %d item selecionado se você o excluir. Excluir?"</item>
+        <item quantity="other">"Você não poderá restaurar %d itens selecionados se você os excluir. Excluir mesmo assim?"</item>
+        <item quantity="one">"Você não poderá restaurar %d item selecionado se você o excluir. Excluir mesmo assim?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Os itens permanecem aqui por até %1$d dias (%2$s)</item>

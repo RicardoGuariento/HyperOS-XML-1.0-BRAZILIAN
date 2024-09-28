@@ -48,7 +48,7 @@
     <string name="arccos">"arccos"</string>
     <string name="arcsin">"arcsen"</string>
     <string name="arctan">"arctan"</string>
-    <string name="baby_care">Cuidados com o bebê</string>
+    <string name="baby_care">Cuidado infantil</string>
     <string name="base_rate">Taxa de juro base</string>
     <string name="base_rate_first_house">Taxa básica de juros do primeiro imóvel (%1$s)</string>
     <string name="base_rate_second_house">Taxa básica de juros do segundo imóvel (%1$s)</string>
@@ -77,7 +77,16 @@
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">Texto copiado</string>
     <string name="cancel">Cancelar</string>
+    <string name="card_individual_income_tax">IR (CNY)</string>
+    <string name="card_insurance_and_fund">Seguro (CNY)</string>
     <string name="card_mortgage_average_repayment_monthly">Pagamento mensal</string>
+    <string name="card_mortgage_interest_amount_myriad">Juros (10K CNY)</string>
+    <string name="card_mortgage_interest_amount_yuan">Juros (CNY)</string>
+    <string name="card_mortgage_loans_amount_myriad">Empréstimo (10K CNY)</string>
+    <string name="card_mortgage_loans_amount_yuan">Empréstimo (CNY)</string>
+    <string name="card_mortgage_repayment_amount_myriad">Reembolso (10K CNY)</string>
+    <string name="card_mortgage_repayment_amount_yuan">Reembolso (CNY)</string>
+    <string name="card_pretax_income">Pré-imposto (CNY)</string>
     <string name="children_education">"Educação infantil"</string>
     <string name="choose_currency">Selecione a moeda</string>
     <string name="choose_radix">Selecione o sistema numérico</string>

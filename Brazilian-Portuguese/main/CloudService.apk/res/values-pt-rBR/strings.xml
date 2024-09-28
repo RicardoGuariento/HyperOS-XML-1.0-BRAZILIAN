@@ -803,8 +803,8 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="privacy_policy_update_title">Política de Privacidade atualizada</string>
     <string name="privacy_runtime_perm_calendar_desc">Para sincronizar eventos da agenda</string>
     <string name="privacy_runtime_perm_calendar_title">Acessar a agenda</string>
-    <string name="privacy_runtime_perm_call_log_desc">Para sincronizar registros de chamadas</string>
-    <string name="privacy_runtime_perm_call_log_title">Acessar e editar registros de chamadas</string>
+    <string name="privacy_runtime_perm_call_log_desc">Para sincronizar o histórico de chamadas</string>
+    <string name="privacy_runtime_perm_call_log_title">Acessar e editar histórico de chamadas</string>
     <string name="privacy_runtime_perm_contacts_desc">Para sincronizar contatos</string>
     <string name="privacy_runtime_perm_contacts_title">Acessar e editar contatos</string>
     <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos de perfil de contato e anexos de mensagens</string>
@@ -1022,8 +1022,8 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="sync_dspt_entrance_provision_v2">Sincronize suas fotos, notas e outros itens entre os seus dispositivos. Acesse os itens que você sincroniza de qualquer navegador em %s.</string>
     <string name="sync_item_autofill_summary">Criptografe suas senhas e sincronize-as com a nuvem automaticamente</string>
     <string name="sync_item_autofill_title">Sincronizar automaticamente</string>
-    <string name="sync_item_calllog_summary">Sincroniza o registro de chamadas efetuadas e recebidas neste dispositivo</string>
-    <string name="sync_item_calllog_title">Sincronizar registro de chamadas</string>
+    <string name="sync_item_calllog_summary">Sincroniza o histórico de chamadas efetuadas e recebidas neste dispositivo</string>
+    <string name="sync_item_calllog_title">Sincronizar histórico de chamadas</string>
     <string name="sync_item_sms_summary">Sincronizar os SMS enviados e recebidos neste dispositivo</string>
     <string name="sync_item_sms_title">Sincronizar mensagens</string>
     <string name="sync_item_title">Sincronizar dados de apps</string>

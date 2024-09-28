@@ -1534,7 +1534,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_videoWrite">Permite que o app modifique sua coleção de vídeos.</string>
     <string name="permdesc_wakeLock">Permite que o app impeça o dispositivo de entrar no modo de inatividade.</string>
     <string name="permdesc_writeCalendar">Este app pode adicionar, remover ou alterar eventos da agenda no seu dispositivo. Ele também pode enviar mensagens que aparentem ser de autoria do proprietário da agenda ou alterar eventos sem notificar o proprietário.</string>
-    <string name="permdesc_writeCallLog">Permite que o app modifique o registro de chamadas do seu dispositivo, incluindo dados sobre chamadas recebidas e efetuadas. Apps maliciosos podem usar esta permissão para apagar ou modificar seu registro de chamadas.</string>
+    <string name="permdesc_writeCallLog">Permite que o app modifique o histórico de chamadas do seu dispositivo, incluindo dados sobre chamadas recebidas e efetuadas. Apps maliciosos podem usar esta permissão para apagar ou modificar seu histórico de chamadas.</string>
     <string name="permdesc_writeContacts">Permite que o app modifique os dados sobre os contatos armazenados no dispositivo. Essa permissão autoriza os apps a excluírem dados de contato.</string>
     <string name="permdesc_writeGeolocationPermissions">Permite que o app modifique as permissões de geolocalização do navegador. Apps maliciosos podem usar isso para permitir o envio de informações locais para sites arbitrários.</string>
     <string name="permdesc_writeHistoryBookmarks">Permite que o app modifique o histórico ou os favoritos do navegador armazenados no dispositivo. Pode permitir que o app apague ou modifique os dados do navegador. Observação: pode não ser aplicável a navegadores de terceiros e outros apps com capacidade de navegação na web.</string>
@@ -1542,7 +1542,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_writeSyncSettings">Permite que o app modifique as configurações de sincronização de uma conta. Por exemplo, pode ser usado para ativar a sincronização do app People com uma conta.</string>
     <string name="permgroupdesc_activityRecognition">Acessar sua atividade física</string>
     <string name="permgroupdesc_calendar">Acessar sua agenda</string>
-    <string name="permgroupdesc_calllog">Leia e grave o registro de chamadas telefônicas</string>
+    <string name="permgroupdesc_calllog">Leia e grave o histórico de chamadas telefônicas</string>
     <string name="permgroupdesc_camera">Tire fotos e grave vídeos</string>
     <string name="permgroupdesc_contacts">Acesse seus contatos</string>
     <string name="permgroupdesc_location">Acesse o local do dispositivo</string>
@@ -1557,7 +1557,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permgroupdesc_storage">Acesse arquivos no seu dispositivo</string>
     <string name="permgrouplab_activityRecognition">Atividade física</string>
     <string name="permgrouplab_calendar">Agenda</string>
-    <string name="permgrouplab_calllog">Registro de chamadas</string>
+    <string name="permgrouplab_calllog">Histórico de chamadas</string>
     <string name="permgrouplab_camera">Câmera</string>
     <string name="permgrouplab_contacts">Contatos</string>
     <string name="permgrouplab_location">Localização</string>
@@ -1673,7 +1673,7 @@ para a conta %s."</string>
     <string name="permlab_queryAllPackages">Consultar todos os pacotes</string>
     <string name="permlab_readBasicPhoneState">Leia o status e a identidade básicos da telefonia</string>
     <string name="permlab_readCalendar">Ler detalhes e eventos da agenda</string>
-    <string name="permlab_readCallLog">Ler registro de chamadas</string>
+    <string name="permlab_readCallLog">Ler histórico de chamadas</string>
     <string name="permlab_readCellBroadcasts">Ler mensagens de difusão celular</string>
     <string name="permlab_readContacts">Ler seus contatos</string>
     <string name="permlab_readHistoryBookmarks">Ler seu histórico e seus favoritos da web</string>
@@ -1738,7 +1738,7 @@ para a conta %s."</string>
     <string name="permlab_videoWrite">Modificar sua coleção de vídeos</string>
     <string name="permlab_wakeLock">Impedir modo de inatividade do telefone</string>
     <string name="permlab_writeCalendar">Adicionar ou modificar compromissos e enviar e-mail para os convidados sem o conhecimento dos donos</string>
-    <string name="permlab_writeCallLog">Salvar no registro de chamadas</string>
+    <string name="permlab_writeCallLog">Salvar no histórico de chamadas</string>
     <string name="permlab_writeContacts">Modificar seus contatos</string>
     <string name="permlab_writeGeolocationPermissions">Modifique as permissões de geolocalização de seu navegador</string>
     <string name="permlab_writeHistoryBookmarks">Gravar seu histórico e seus favoritos da web</string>
