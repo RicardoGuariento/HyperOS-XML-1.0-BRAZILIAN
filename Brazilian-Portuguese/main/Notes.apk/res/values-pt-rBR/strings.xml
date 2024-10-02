@@ -759,12 +759,12 @@
     <string name="pref_desc_todo_float_mode">Deslize a partir da borda da tela para abrir a caixa de ferramentas de tarefas</string>
     <string name="pref_excerpt_link_float">Receba um lembrete para criar um excerto sempre que uma URL for copiada</string>
     <string name="pref_excerpt_summary_link_float">Cada vez que o link for copiado, a barra abreviada fornecerá um lembrete de resumo pendente, clique para extrair o resumo.</string>
-    <string name="pref_permission_allowed">Concedido</string>
+    <string name="pref_permission_allowed">Permitido</string>
     <string name="pref_permission_manage">Detalhes de permissões</string>
     <string name="pref_permission_manage_key_contact">Acessar contatos</string>
     <string name="pref_permission_manage_key_recording">Gravar áudio</string>
     <string name="pref_permission_manage_key_storage">Acesso ao armazenamento</string>
-    <string name="pref_permission_not_allowed">Não concedido</string>
+    <string name="pref_permission_not_allowed">Não permitido</string>
     <string name="pref_quick_note_desc">Use o atalho na borda da tela para criar notas e tarefas, assim como salvar URLs copiadas, texto e imagens para as Notas.</string>
     <string name="pref_remind_type_summary">Reproduzir som de lembrete no Modo silencioso</string>
     <string name="pref_remind_type_summary_new">Ignorar o Modo silencioso e continuar reproduzindo som até que o alarme seja desativado</string>
@@ -1150,8 +1150,8 @@ Permita que o app Notas grave áudio."</string>
     <string name="warn_disable_edit_in_browse_mode">"Você não pode editar notas no modo somente leitura"</string>
     <string name="warn_enter_browse_mode">"Você está no modo somente leitura"</string>
     <string name="warn_enter_browse_mode_forbid_create">"Não é possível criar ou editar notas no modo somente leitura"</string>
-    <string name="web_sso_login_fail">Você precisa entrar novamente</string>
-    <string name="web_sso_login_message">Entrando…</string>
+    <string name="web_sso_login_fail">Você precisa fazer login novamente</string>
+    <string name="web_sso_login_message">Fazendo o login…</string>
     <string name="webview_reload">Tente novamente</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>

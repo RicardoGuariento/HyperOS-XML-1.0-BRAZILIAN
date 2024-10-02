@@ -665,8 +665,8 @@
         <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">%d itens não estão sincronizados</item>
-        <item quantity="one">%d item não está sincronizado</item>
+        <item quantity="other">"%d itens não estão sincronizados"</item>
+        <item quantity="one">"%d item não está sincronizado"</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d itens são muito grandes para fazer backup</item>

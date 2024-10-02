@@ -138,7 +138,7 @@
     <string name="card_title_upgrade_video_call_requesting">Requisitando vídeo…</string>
     <string name="card_title_upgrade_video_call_timed_out">"Não foi possível atualizar o vídeo"</string>
     <string name="card_title_video_call">Videochamada</string>
-    <string name="card_title_video_call_paused">Vídeo em pausa</string>
+    <string name="card_title_video_call_paused">Vídeo pausado</string>
     <string name="card_title_video_conf_call">Videochamada de conferência</string>
     <string name="card_video_hold_swap">Trocar</string>
     <string name="change_to_voice_tips_when_background">O outro usuário mudou para uma chamada de voz</string>
@@ -242,6 +242,7 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="focus_notification_in_calling">Durante a chamada</string>
     <string name="focus_notification_on_call">Chamando…</string>
     <string name="focus_notification_on_ringing">Recebendo chamada</string>
     <string name="font_camera_tip">Dobre o dispositivo para usar a câmera frontal</string>
@@ -359,6 +360,7 @@
     <string name="notification_ongoing_call">Chamada em andamento</string>
     <string name="notification_requesting_video_call">Solicitação de vídeo recebida</string>
     <string name="ok">"OK"</string>
+    <string name="on_call_recording">Gravando</string>
     <string name="onscreenEndCallText">Finalizar</string>
     <string name="onscreen_add_call_text">Adicionar chamada</string>
     <string name="onscreen_audio_mode_bluetooth">"Bluetooth"</string>
