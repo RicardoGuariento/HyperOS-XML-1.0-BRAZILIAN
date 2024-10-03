@@ -10,6 +10,16 @@
         <item>"Widgets"</item>
         <item>Configurar</item>
     </string-array>
+    <string-array name="editing_mode_entries_new">
+        <item>Plano de fundo</item>
+        <item>Efeitos</item>
+        <item>"Widgets"</item>
+        <item>Configurações</item>
+    </string-array>
+    <string-array name="layout_preview_button">
+        <item>Padrão</item>
+        <item>Denso</item>
+    </string-array>
     <string-array name="gadget_weather_image">
         <item>Limpo</item>
         <item>Nublado</item>

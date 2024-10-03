@@ -119,6 +119,8 @@
     <string name="announce_for_drop_workspace">Tela número %1$d, linha número %2$d, coluna número %3$d</string>
     <string name="announce_for_edit_mode">Entrou no modo de edição</string>
     <string name="announce_for_edit_mode_disable">Saiu do modo de edição</string>
+    <string name="announce_for_layout_preview_mode">Abrir prévia</string>
+    <string name="announce_for_layout_preview_mode_disable">Fechar prévia</string>
     <string name="announce_for_move">Mover para linha %1$d coluna %2$d</string>
     <string name="announce_for_move_hotseat">Mover para posição %1$d da dock</string>
     <string name="announce_for_open_default_preview">Configuração da Tela inicial padrão aberta</string>

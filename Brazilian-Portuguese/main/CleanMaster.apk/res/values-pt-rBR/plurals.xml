@@ -84,8 +84,8 @@
         <item quantity="one">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> arquivo grande&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
-        <item quantity="other">&lt;Data>Desinstale &lt;font color=#0097FF>%d&lt;/font> apps raramente usados&lt;/Data></item>
-        <item quantity="one">&lt;Data>Desinstale &lt;font color=#0097FF>%d&lt;/font> app raramente usado&lt;/Data></item>
+        <item quantity="other">&lt;Data>Encontrado &lt;font color=#0097FF>%d&lt;/font> apps&lt;/Data></item>
+        <item quantity="one">&lt;Data>Encontrado &lt;font color=#0097FF>%d&lt;/font> app&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_video">
         <item quantity="other">&lt;Data>Remova &lt;font color=#0097FF>%d&lt;/font> vídeos&lt;/Data></item>
@@ -211,8 +211,8 @@
         <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="notification_checker_installed_apk_text">
-        <item quantity="other">Excluídos %d pacotes de instalação</item>
-        <item quantity="one">Excluído %d pacote de instalação</item>
+        <item quantity="other">Excluir %d pacotes de instalação</item>
+        <item quantity="one">Excluir %d pacote de instalação</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>

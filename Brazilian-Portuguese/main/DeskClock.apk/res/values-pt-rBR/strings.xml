@@ -80,6 +80,7 @@
     <string name="alert_volume">Volume do toque</string>
     <string name="alert_volume_summary">Defina o volume do toque dos alarmes e temporizadores</string>
     <string name="alert_xiaoai_ringtone_desc">Mi AI está falando…</string>
+    <string name="all_alarm_close">Todos os alarmes estão desligados</string>
     <string name="already_exist">Este temporizador já existe</string>
     <string name="am">"AM"</string>
     <string name="analog_gadget">Relógio analógico</string>
@@ -126,7 +127,11 @@
     <string name="bedtime_welcome_desc">Manter um horário de sono regular e consistente beneficia a sua saúde. Configure lembretes que irão lhe ajudar a ir para a cama e acordar todos os dias.</string>
     <string name="birthday_alarm">Alarme de aniversário</string>
     <string name="birthday_alarm_summary">Tocar \"Parabéns pra você\" em vez do som de alarme padrão no seu aniversário</string>
+    <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
+    <string name="bottomsheet_action_expand">Expandir a página inferior</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="bottomsheet_drag_handle_clicked">Arraste a alça com um toque duplo</string>
+    <string name="bottomsheet_drag_handle_content_description">Arrastar alça</string>
     <string name="cancel">Cancelar</string>
     <string name="channel_name_alarm">Alarme</string>
     <string name="channel_name_sleep">Dormir</string>
@@ -146,6 +151,7 @@
     <string name="clock_bg_button_setting_summary_common">Selecione a cor de fundo para o app do Relógio</string>
     <string name="clock_bg_button_setting_summary_follow_sys">O preto será usado como cor de fundo sempre que você alternar para o Modo escuro</string>
     <string name="clock_bg_button_setting_title">Cor de fundo</string>
+    <string name="clock_tab_name">Relógio mundial</string>
     <string name="close">Fechar</string>
     <string name="close_alarm">Desativar</string>
     <string name="close_alarm_new">Parar</string>
@@ -200,6 +206,7 @@
     <string name="edit_label">Editar descrição do alarme</string>
     <string name="edit_systemtime">Editar hora do sistema</string>
     <string name="edit_systemtime_setting_summary">Data, hora, e relógio duplo</string>
+    <string name="enter_label">Inserir descrição</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>
@@ -378,6 +385,7 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
+    <string name="modify_alarm">Editar alarme</string>
     <string name="module_dialog_negative">"Não aceitar"</string>
     <string name="module_dialog_neutral">Entendi</string>
     <string name="module_dialog_positive">Aceitar</string>
@@ -764,6 +772,7 @@ mm"</string>
     <string name="timer_got_it">"OK"</string>
     <string name="timer_got_it_new">Silenciar</string>
     <string name="timer_is_paused">O temporizador está pausado</string>
+    <string name="timer_keep_screen_on">Manter tela ligada</string>
     <string name="timer_item_delete">Excluir</string>
     <string name="timer_item_duration_display">%1$d min %2$d seg</string>
     <string name="timer_item_edit">Editar</string>
@@ -776,10 +785,13 @@ mm"</string>
     <string name="timer_pause_timer">Pausar temporizador</string>
     <string name="timer_ringtone">Toque do temporizador</string>
     <string name="timer_running">Temporizador em execução</string>
+    <string name="timer_screen_on">A tela permanece ligada</string>
+    <string name="timer_screen_turn_on">Manter tela ligada</string>
     <string name="timer_start_alarm">"O tempo acabou!"</string>
     <string name="timer_start_timer">Iniciar temporizador</string>
     <string name="timer_title">Temporizador</string>
     <string name="timezone_exist_error_message">"Você já está exibindo este fuso horário"</string>
+    <string name="timezone_null_massage">Nada aqui ainda</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>
@@ -833,6 +845,9 @@ mm"</string>
     <string name="white_noise_selected">Selecionado</string>
     <string name="white_noise_selector">Selecionar áudio</string>
     <string name="workday_alarm_clock">Alarme em dias úteis</string>
+    <string name="world_edit_actionbar_subtitle">O widget exibirá as primeiras %d localizações</string>
+    <string name="world_edit_actionbar_title">Selecionar localizações</string>
+    <string name="world_edit_local_default">"Hora local | "</string>
     <string name="worldclock_edit_label">Relógio mundial</string>
     <string name="worldclock_empty_text">Nenhum relógio</string>
     <string name="worldclock_input_hint_text">Pesquisar por país ou cidade</string>
@@ -846,6 +861,7 @@ mm"</string>
     <string name="worldclock_world_time">Fusos horários</string>
     <string name="worldcolock_date_display_prefix">"Atual: "</string>
     <string name="worldcolock_time_date">dd/MM/yyyy</string>
+    <string name="worldcolock_time_date_new">dd/MM</string>
     <string name="worldcolock_timezone_current">Atual: %1$s</string>
     <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
     <string name="worldcolock_timezone_date">"dd 'de' MMMM"</string>

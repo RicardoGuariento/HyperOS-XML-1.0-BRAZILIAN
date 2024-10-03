@@ -275,6 +275,7 @@ Envie este código para o supervisor."</string>
     <string name="fido2_psw_changed_and_afresh_register">Sua senha foi alterada. Verifique sua impressão digital novamente.</string>
     <string name="fido2_setting_ps_notify">"Você precisará definir uma senha de conta para poder usar a verificação de impressão digital. Você pode fazer isso em Configurações > Conta Mi > Segurança da conta > Senha."</string>
     <string name="fido2_verify_fingerprint">Verifique a impressão digital</string>
+    <string name="fido_history_account">Histórico da Conta Mi</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_access_denied">"Não é possível obter o status, acesso negado"</string>
     <string name="find_device_account_error">"Não é possível obter o status devido a um erro na conta"</string>
@@ -802,6 +803,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
     <string name="passport_request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
+    <string name="passport_request_permission_title">Permissões necessárias</string>
     <string name="passport_resend_active_email">Reenviar e-mail</string>
     <string name="passport_resend_ticket">Reenviar código</string>
     <string name="passport_reset_fail_title">"Não foi possível redefinir"</string>
@@ -828,6 +830,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação por imagem</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
     <string name="passport_talkback_voice_captcha">Reproduzir código de verificação por voz</string>
+    <string name="passport_third_sns_service_unavailable">"O serviço não está disponível. Certifique-se de que o app esteja instalado e não bloqueado."</string>
     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Cancelar</string>
@@ -915,6 +918,12 @@ Envie este código para o supervisor."</string>
     <string name="push_notify_dialog_message">"Um dispositivo desconhecido foi usado para fazer login em sua Conta Mi. Insira este código de verificação no dispositivo. Caso não tenha sido você, altere a senha da sua Conta Mi agora mesmo. Não informe seu código de verificação para outras pessoas."</string>
     <string name="push_notify_dialog_title">Verificação de conta</string>
     <string name="pwd_width_phone_number_or_mail_num">"A senha não pode conter seu número de telefone, e-mail ou ID da Conta Mi"</string>
+    <string name="qr_code_login_hint">"Não foi possível fazer o login.
+Digitalize o código abaixo com o app Scanner."</string>
+    <string name="qr_code_login_is_loading">Aguarde…</string>
+    <string name="qr_code_login_is_reloading">Aguarde…</string>
+    <string name="qr_code_login_load_failed">Recarregando o código QR…</string>
+    <string name="qr_code_login_userid_hint">Conta Mi: %s</string>
     <string name="qrcode_login_entry_text"><Data>Fez login em um dispositivo diferente? Use o &lt;a href=>login rápido&lt;/a></Data></string>
     <string name="qrcode_login_load_refresh"><Data>Este código QR expirou. Toque para &lt;a href=>atualizar&lt;/a>.</Data></string>
     <string name="qrcode_login_load_retry"><Data>"Não foi possível carregar. &lt;a href=>Tente novamente&lt;/a>."</Data></string>

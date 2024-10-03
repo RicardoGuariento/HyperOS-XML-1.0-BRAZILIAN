@@ -45,7 +45,7 @@
     <string name="auto_disable_screenbuttons_rotation_summary">Quando seu dispositivo estiver no modo paisagem, os botões de navegação serão bloqueados</string>
     <string name="auto_disable_screenbuttons_rotation_title">Bloquear botões de navegação em orientação paisagem</string>
     <string name="auto_disable_screenbuttons_summary">Desative automaticamente os botões de navegação ao usar apps selecionados. Toque duas vezes em qualquer botão de navegação para reativar.</string>
-    <string name="auto_disable_screenbuttons_title">Desativar automaticamente os botões de navegação</string>
+    <string name="auto_disable_screenbuttons_title">Desativar botões de navegação automaticamente</string>
     <string name="back_button">Voltar</string>
     <string name="back_double_tap">Toque duplo na parte traseira</string>
     <string name="back_key">Voltar</string>
@@ -149,8 +149,8 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="gesture_function_dialog_message">%1$s é usado para \"%2$s\". Substituir com \"%3$s\"?</string>
     <string name="gesture_settings_title">Atalhos de gestos</string>
     <string name="global_stylus_summary">Escreva em qualquer campo de texto e converta sua caligrafia em texto (somente inglês e chinês são suportados)</string>
-    <string name="global_stylus_title">Escriba</string>
-    <string name="global_stylus_title_beta">Escriba (Beta)</string>
+    <string name="global_stylus_title">Escrita</string>
+    <string name="global_stylus_title_beta">Escrita (Beta)</string>
     <string name="go_to_sleep">Desligar tela</string>
     <string name="google_assistant_guide_cancel">Cancelar</string>
     <string name="google_assistant_guide_message">Você pode manter pressionado o botão [Liga/Desliga] por %s segundos para começar a falar com o Google Assistente. Definir este atalho agora?</string>
