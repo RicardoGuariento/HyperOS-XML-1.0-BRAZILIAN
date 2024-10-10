@@ -1900,7 +1900,7 @@ Você não se conectou a %2$s antes."</string>
     <string name="bluetooth_message_access_notification_content">Um dispositivo não confiável deseja acessar suas mensagens. Toque para obter detalhes.</string>
     <string name="bluetooth_message_move_out_of_blacklist">Desbloquear %1$s agora?</string>
     <string name="bluetooth_mi_fast_connect">Parear dispositivos compatíveis</string>
-    <string name="bluetooth_mi_fast_connect_summary">Conecte-se a dispositivos próximos usando um processo simplificado de pareamento</string>
+    <string name="bluetooth_mi_fast_connect_summary">Conecte rapidamente fones de ouvido, alto-falantes e outros dispositivos compatíveis.</string>
     <string name="bluetooth_middle_name">Estojo</string>
     <string name="bluetooth_move_out_of_blacklist">Desbloquear dispositivo</string>
     <string name="bluetooth_multuple_devices_mac_address">"Endereço Bluetooth do dispositivo:
@@ -2723,7 +2723,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="communal_settings_summary">Configurações comuns</string>
     <string name="communal_settings_title">Comum</string>
     <string name="complete_parameters">Todas as especificações</string>
-    <string name="complete_parameters_new">Informações detalhadas e especificações</string>
+    <string name="complete_parameters_new">Informações e especificações detalhadas</string>
     <string name="complete_settings">Configurações gerais</string>
     <string name="computer_backup_summary">Faça backup e restaure itens usando um computador</string>
     <string name="computer_backup_title">Computador</string>
@@ -8264,8 +8264,8 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="proxy_exclusionlist_label">Ignorar para</string>
     <string name="proxy_hostname_label">Nome do host</string>
     <string name="proxy_port_label">Porta</string>
-    <string name="proxy_settings_label">Configurações de proxy</string>
-    <string name="proxy_settings_title">Configurações de proxy</string>
+    <string name="proxy_settings_label">Proxy</string>
+    <string name="proxy_settings_title">Proxy</string>
     <string name="proxy_url_title">"URL PAC: "</string>
     <string name="proxy_warning_limited_support">O proxy HTTP é usado pelo navegador, mas não pode ser usado por outros apps.</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Reporting</string>
@@ -10628,7 +10628,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_over_limit_warning_notify_title">Limite de dados do hotspot atingido</string>
     <string name="tether_password_illegal_character">A senha contém caracteres inválidos. Insira novamente</string>
     <string name="tether_preference_summary_off">Desativado</string>
-    <string name="tether_settings_disabled">Hotspot portátil desativado</string>
+    <string name="tether_settings_disabled">Hotspot portátil</string>
     <string name="tether_settings_disabled_on_data_saver">Não é possível vincular ou usar pontos de acesso portáteis enquanto a Economia de dados está ativada</string>
     <string name="tether_settings_summary_all">Hotspot, USB, Bluetooth, Ethernet</string>
     <string name="tether_settings_summary_bluetooth_and_ethernet">Bluetooth, Ethernet</string>
@@ -12270,7 +12270,7 @@ você pode usar a rede de outros usuários também."</string>
     <string name="wifi_sign_in_button_text">Fazer login</string>
     <string name="wifi_signal">Potência do sinal</string>
     <string name="wifi_signal_found_msg">Conectar-se ao Hotspot Wi-Fi?</string>
-    <string name="wifi_speed">Velocidade do link</string>
+    <string name="wifi_speed">Velocidade da conexão</string>
     <string name="wifi_ssid">"SSID"</string>
     <string name="wifi_ssid_hint">Insira o SSID</string>
     <string name="wifi_ssid_is_empty">O campo SSID não pode ser deixado em branco</string>

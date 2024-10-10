@@ -1036,6 +1036,7 @@ Envie este código para o supervisor."</string>
     <string name="home_nf">Feed de conteúdo</string>
     <string name="home_nf_recommend_on">Recomendado para você</string>
     <string name="home_page_simple">Simples</string>
+    <string name="homepage_currency">Regular</string>
     <string name="homepage_default">Padrão</string>
     <string name="homepage_delete_card_menu">Excluir</string>
     <string name="homepage_get_location">Obter localização</string>
@@ -1225,6 +1226,7 @@ Envie este código para o supervisor."</string>
     <string name="mggc_feedback_send_email_body_extra_info">"Não exclua as informações a seguir. Isso nos ajudará a localizar o problema."</string>
     <string name="mggc_game_play">Jogar</string>
     <string name="mggc_game_played">Recente</string>
+    <string name="mggc_game_recommend_guide_button">Jogar</string>
     <string name="mggc_game_recommend_guide_title">Jogar de graça</string>
     <string name="mggc_home_page_title">CENTRO DE JOGOS</string>
     <string name="mggc_home_recommend_tip">Aleatório</string>
@@ -1237,11 +1239,17 @@ Envie este código para o supervisor."</string>
     <string name="mggc_load_overtime_confirm">Voltar ao Início</string>
     <string name="mggc_load_overtime_tip">Existem alguns problemas no carregamento. Você precisa retornar à lista de jogos?</string>
     <string name="mggc_menu_privacy_policy">Política de Privacidade</string>
+    <string name="mggc_more_games">Mais jogos</string>
     <string name="mggc_news_load_failed">Toque para tentar novamente</string>
     <string name="mggc_news_loading">Aguarde…</string>
     <string name="mggc_no_more_games">Não há mais jogos</string>
     <string name="mggc_ranking_page_title">Gráficos</string>
     <string name="mggc_request_error">"Não foi possível concluir a solicitação"</string>
+    <string name="mggc_shortcut_bottom_add_tip">Adicionar</string>
+    <string name="mggc_shortcut_bottom_tip">Toque para adicionar o Centro de jogos ao seu desktop móvel para jogar jogos emocionantes a qualquer hora!</string>
+    <string name="mggc_shortcut_title_games">Adicione à área de trabalho para me encontrar mais rápido na próxima vez</string>
+    <string name="mggc_toast_shortcut_add_fail">"Não foi possível adicionar"</string>
+    <string name="mggc_toast_shortcut_add_success">Adicionado com sucesso</string>
     <string name="mi_browser">Navegador Mi</string>
     <string name="mi_browser_clean_up_garbage">Navegador Mi está limpando o lixo…</string>
     <string name="mi_browser_is_scanning">Navegador Mi está escaneando</string>
@@ -1743,6 +1751,11 @@ Sair desta página agora?"</string>
     <string name="novel_tab_popup_ok">"OK"</string>
     <string name="offline_notification_text">Toque para abrir o anúncio</string>
     <string name="offline_notification_title">Ver o anúncio que você salvou quando estava offline</string>
+    <string name="offline_dialog_image_description">Ícone</string>
+    <string name="offline_dialog_text">"Agradecemos seu interesse.
+Compartilharemos mais quando você estiver online novamente."</string>
+    <string name="offline_notification_title">"Você está online novamente! Vamos continuar de onde paramos."</string>
+    <string name="offline_notification_title_with_advertiser">Você está online novamente! Continue aprendendo sobre %s.</string>
     <string name="offline_opt_in_confirm">"OK"</string>
     <string name="offline_opt_in_confirmation">"Você receberá uma notificação com o link quando ficar online novamente"</string>
     <string name="offline_opt_in_decline">Não</string>
@@ -2740,6 +2753,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="tt_logo_cn">ANÚNCIO</string>
     <string name="tt_logo_en">ANÚNCIO</string>
     <string name="tt_msgPlayable">Termine de jogar para receber recompensas</string>
+    <string name="tt_multiple_ad_indicator">%1$d de %2$d</string>
     <string name="tt_negtiveBtnBtnText">Sair</string>
     <string name="tt_negtive_txt">Cancelar</string>
     <string name="tt_net_error">Erro de rede</string>

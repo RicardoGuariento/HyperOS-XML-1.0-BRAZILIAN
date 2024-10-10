@@ -3450,7 +3450,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="network_speed_for_apps_title">Conexão</string>
     <string name="network_speed_for_apps_total">Velocidade da conexão</string>
     <string name="network_test_speed">Testar velocidade do Wi-Fi</string>
-    <string name="network_traffic_warning_text">O HyperOS não pode calcular as estatísticas de uso de dados para apps de sistema individuais aqui. Você conseguirá ver as informações de uso de dados nos detalhes do app caso ele esteja usando dados móveis ativamente.</string>
+    <string name="network_traffic_warning_text">O HyperOS não pode calcular as estatísticas de uso de dados para apps de sistema individuais aqui. Você conseguirá ver as informações de uso de dados nas informações do app caso ele esteja usando dados móveis ativamente.</string>
     <string name="network_traffic_warning_title">Uso de dados para apps do sistema</string>
     <string name="networkchanged_exception_summary">A conexão de rede foi alterada. Por favor, teste novamente.</string>
     <string name="networkchanged_exception_title">Conexão alterada</string>
@@ -4970,7 +4970,7 @@ Retirar consentimento agora?"</string>
     <string name="sd_insert_summary">Insira o cartão SD para montá-lo</string>
     <string name="sd_mount">Montar cartão SD</string>
     <string name="search_keyword_apply">"App"</string>
-    <string name="search_keyword_applybar">Doca de apps</string>
+    <string name="search_keyword_applybar">Dock de apps</string>
     <string name="search_keyword_call">Chamar</string>
     <string name="search_keyword_sidebar">Barra lateral</string>
     <string name="search_keyword_tool">Ferramentas</string>
@@ -6444,7 +6444,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="auto_start_cancel">Cancelar</string>
     <string name="auto_start_close">Restringir</string>
     <string name="auto_start_hint">Atenção!</string>
-    <string name="auto_start_hint_desc">"%1$s não poderá receber mensagens em tempo real se você desativar a inicialização automática. Desligar mesmo assim?"</string>
+    <string name="auto_start_hint_desc">"%1$s não poderá receber mensagens em tempo real se você desativar o início automático. Desligar mesmo assim?"</string>
     <string name="battery_and_property_important_notify">Notificações importantes sobre bateria</string>
     <string name="battery_and_property_ordinary_notify">Notificações regulares de bateria</string>
     <string name="best_warning_dialog_button">Eu vejo</string>

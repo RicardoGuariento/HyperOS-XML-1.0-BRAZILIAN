@@ -43,10 +43,10 @@
     <string name="afternoon">"PM"</string>
     <string name="aiSearch_privacy_cta_all_purpose_version_one">O Motor Mi IA fornece recursos de sistema que suportam recursos como Sugestões do Mi AI, Xiaomi HyperMind, pesquisa Xiaomi HyperAI e Assistente, coletando e analisando informações sobre como você usa seu dispositivo. Ele fornece recursos de pesquisa para pesquisa Xiaomi HyperAI e permite que você encontre itens por meio de pesquisa em linguagem natural. Você pode usar o Motor Mi IA para pesquisar apps do sistema, incluindo Galeria, Arquivos, Gravador, Mi AI e muito mais. Sua concordância com a Política de Privacidade do Motor Mi IA também cobre serviços que dependem do Motor Mi IA (ex.: Xiaomi HyperMind).</string>
     <string name="aiSearch_privacy_cta_general_purpose_version_one">O Motor Mi IA fornece recursos de sistema que suportam recursos como Sugestões do Mi AI, Xiaomi HyperMind, pesquisa Xiaomi HyperAI e Assistente, coletando e analisando informações sobre como você usa seu dispositivo.</string>
-    <string name="aiSearch_privacy_dialog_permission_desc_audioANDfile">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Arquivos, Pesquisa e Mi AI</string>
+    <string name="aiSearch_privacy_dialog_permission_desc_audioANDfile">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Arquivos, Pesquisa e Mi AI.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_data_to_cloud">Para melhor responder às suas perguntas relacionadas à sua vida e atividades, o Motor Mi IA enviará alguns itens relacionados (fotos, vídeos, arquivos, etc.) para a nuvem após você perguntar sobre eles. Esses dados serão usados apenas para perguntas e respostas no Assistente de Voz Mi AI.</string>
-    <string name="aiSearch_privacy_dialog_permission_desc_imageANDvideo">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Galeria, Pesquisa e Mi AI</string>
-    <string name="aiSearch_privacy_dialog_permission_desc_sms">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Galeria, Pesquisa e Mi AI</string>
+    <string name="aiSearch_privacy_dialog_permission_desc_imageANDvideo">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Galeria, Pesquisa e Mi AI.</string>
+    <string name="aiSearch_privacy_dialog_permission_desc_sms">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Galeria, Pesquisa e Mi AI.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_user_notice">O Motor Mi IA fornece recursos de pesquisa em linguagem natural para alguns apps. Para usar esses recursos, primeiro concorde com a Política de Privacidade do Motor Mi IA. Aceitar agora?</string>
     <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Carregar dados pessoais para a nuvem</string>
     <string name="aiSearch_privacy_dialog_permission_title_user_notice">Termos e Condições</string>
@@ -58,8 +58,8 @@
     <string name="aireco_intent_dialog_bluetooth_agree">Permita que este app se conecte a dispositivos próximos e selecione Sempre permitir</string>
     <string name="aireco_intent_dialog_bluetooth_message">Permita que Sugestões do Mi AI se conectem a dispositivos próximos via Bluetooth nas Configurações. Para obter melhores resultados, selecione Sempre permitir.</string>
     <string name="aireco_intent_dialog_bluetooth_title">Permissões necessárias</string>
-    <string name="aireco_intent_dialog_calendar_agree">Permita o acesso ao calendário e selecione Sempre permitir</string>
-    <string name="aireco_intent_dialog_calendar_message">Permita que Sugestões do Mi AI acessem o calendário nas Configurações. Para obter melhores resultados, selecione Sempre permitir.</string>
+    <string name="aireco_intent_dialog_calendar_agree">Permita o acesso à agenda e selecione Sempre permitir</string>
+    <string name="aireco_intent_dialog_calendar_message">Permita que Sugestões do Mi AI acessem à agenda nas Configurações. Para obter melhores resultados, selecione Sempre permitir.</string>
     <string name="aireco_intent_dialog_calendar_title">Permissões necessárias</string>
     <string name="aireco_intent_dialog_location_agree">Permita o acesso à localização e selecione Sempre permitir</string>
     <string name="aireco_intent_dialog_location_message">Permita que Sugestões do Mi AI acessem sua localização nas Configurações. Para obter melhores resultados, selecione Sempre permitir.</string>
@@ -686,10 +686,10 @@
     <string name="privacy_confirm">"OK"</string>
     <string name="privacy_cta_all_purpose_new_user">O Motor Mi IA é um serviço básico que oferece suporte às Sugestões do Mi AI, fornecendo reconhecimento contextual e recursos de reconhecimento inteligente. Ele pode perceber sua situação, aprender seus hábitos e fornecer serviços precisos e personalizados. Sua concordância com a Política de Privacidade do Motor Mi IA também cobre serviços que dependem do Motor Mi IA (ex.: Xiaomi HyperMind).</string>
     <string name="privacy_cta_all_purpose_old_user">O Motor Mi IA é um serviço básico que oferece suporte às Sugestões do Mi AI, fornecendo reconhecimento contextual e recursos de reconhecimento inteligente. Ele pode perceber sua situação, aprender seus hábitos e fornecer serviços precisos e personalizados. Com esta atualização, os dados da nuvem de sugestões do Mi AI serão transferidos para o novo serviço e os dados locais não serão mais usados. O Motor Mi IA reaprenderá essas informações. Sua concordância com a Política de Privacidade do Motor Mi IA também cobre serviços que dependem do Motor Mi IA (ex.: Xiaomi HyperMind).</string>
-    <string name="privacy_dialog_location_message">Permita que as Sugestões do Mi AI acessem sua localização e selecione "Sempre permitir". Você pode conceder essa permissão nas Configurações.</string>
+    <string name="privacy_dialog_location_message">Permita que às Sugestões do Mi AI acessem sua localização e selecione \"Sempre permitir\". Você pode conceder essa permissão nas Configurações.</string>
     <string name="privacy_dialog_location_title">Permissões necessárias</string>
     <string name="privacy_dialog_retention_comment"><Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
-    <string name="privacy_dialog_retention_content_agree_privacy"><Data>"Aceite a &lt;a href=\"%1$s\">Política de Privacidade do Motor Mi IA&lt;/a> para poder usar as Sugestões do Mi AI. Caso não aceite, você só poderá usar sugestões de apps. Aceitar a &lt;a href=\"%2$s\">Política de Privacidade do Motor Mi IA&lt;/a> agora?"</Data></string>
+    <string name="privacy_dialog_retention_content_agree_privacy"><Data>"Aceite a &lt;a href=\"%1$s\">Política de Privacidade do Motor Mi IA&lt;/a> para poder usar às Sugestões do Mi AI. Caso não aceite, você só poderá usar sugestões de apps. Aceitar a &lt;a href=\"%2$s\">Política de Privacidade do Motor Mi IA&lt;/a> agora?"</Data></string>
     <string name="privacy_dialog_retention_content_express_permission">Este recurso precisa se conectar à internet para fornecer os serviços necessários. Podemos solicitar as seguintes permissões para fornecer serviços adicionais: ativar e desativar o Bluetooth e Wi-Fi, acessar o número de telefone, status de chamada, conteúdo de SMS e MMS, informações sobre apps instalados em seu dispositivo, endereço MAC do dispositivo, localização, música, áudio, fotos e vídeos no seu dispositivo. Você pode ajustar suas configurações de permissões a qualquer momento.</string>
     <string name="privacy_docs">Política de Privacidade</string>
     <string name="privacy_experience_cancel_dialog">Cancelar</string>
@@ -712,7 +712,7 @@ Todas as informações serão mantidas anônimas e esses dados serão usados par
     <string name="privacy_manager_setting">Configurações de privacidade</string>
     <string name="privacy_manager_user_improvement_plan">Programa de Experiência do Usuário</string>
     <string name="privacy_manager_user_improvement_plan_detail">Permita que o Motor Mi IA use seus dados para melhorar seus serviços</string>
-    <string name="privacy_op_gps_service_dialog_message">Permita que as Sugestões do Mi AI acessem sua localização para que ele possa fornecer serviços mais precisos. Você pode conceder essa permissão nas Configurações.</string>
+    <string name="privacy_op_gps_service_dialog_message">Permita que às Sugestões do Mi AI acessem sua localização para que ele possa fornecer serviços mais precisos. Você pode conceder essa permissão nas Configurações.</string>
     <string name="privacy_op_gps_service_dialog_title">Permissões necessárias</string>
     <string name="privacy_permission_tip_text">Conceda permissão para acessar a localização e selecione \"Sempre permitir\"</string>
     <string name="privacy_personalized">Recomendações personalizadas</string>
@@ -721,7 +721,7 @@ Todas as informações serão mantidas anônimas e esses dados serão usados par
     <string name="privacy_personalized_content">"Quando esse recurso estiver desativado, o Motor Mi IA não usará suas informações pessoais para fornecer serviços personalizados."</string>
     <string name="privacy_refuse">Agora não</string>
     <string name="privacy_request_background_location_permission_reason">Para fornecer sugestões de viagens, códigos de viagem e sugestões de casas inteligentes com base em informações de localização básicas.</string>
-    <string name="privacy_request_location_permission_reason">Para fornecer sugestões de viagens, códigos de viagem e sugestões de casas inteligentes com base em informações de localização</string>
+    <string name="privacy_request_location_permission_reason">Para fornecer sugestões de viagens, códigos de viagem e sugestões de casas inteligentes com base em informações de localização.</string>
     <string name="privacy_setting">Configurações</string>
     <string name="privacy_tip_item_view_background_location">Permita que este app acesse a localização durante a execução em segundo plano e selecione \"Sempre permitir\"</string>
     <string name="privacy_tip_item_view_location">Permitir acesso à localização para sugestões mais precisas</string>

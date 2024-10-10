@@ -270,8 +270,8 @@
         <item quantity="one">"Não foi possível baixar %1$d arquivo, verifique a conexão de rede e tente novamente."</item>
     </plurals>
     <plurals name="downloading_title_link">
-        <item quantity="other">Carregando itens da nuvem (%2$d/%1$d)</item>
-        <item quantity="one">Carregando item da nuvem (%2$d/%1$d)</item>
+        <item quantity="other">Baixando itens da nuvem (%2$d/%1$d)</item>
+        <item quantity="one">Baixando itens da nuvem (%2$d/%1$d)</item>
     </plurals>
     <plurals name="face_count">
         <item quantity="other">Total de %d fotos</item>

@@ -167,9 +167,11 @@ Tente criar a imagem IA com fotos diferentes."</string>
     <string name="ai_entrance_description">Crie uma imagem IA baseada em fotos de pessoas e gere seus retratos</string>
     <string name="ai_entrance_title">Retrato IA</string>
     <string name="ai_exit">Sair</string>
-    <string name="ai_filter_album_tag">Pessoas com fotos insuficientes foram filtradas</string>
+    <string name="ai_film_description">Crie vídeos impressionantes com ajuda da IA</string>
+    <string name="ai_film_title">Edição automática</string>
+    <string name="ai_filter_album_tag">Pessoas sem fotos suficientes foram removidas</string>
     <string name="ai_free_creation_button">Criar</string>
-    <string name="ai_free_creation_container_msg">Por exemplo: Um passeio nos Lençóis Maranhenses</string>
+    <string name="ai_free_creation_container_msg">Por exemplo: Caminhada na praia</string>
     <string name="ai_free_creation_container_title">Insira a descrição</string>
     <string name="ai_free_creation_illegal_text_toast">Este texto viola os padrões da nossa comunidade. Reescreva sua mensagem.</string>
     <string name="ai_free_creation_random_button">Aleatório</string>
@@ -657,7 +659,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cleaner_similar_action">Ver</string>
     <string name="cleaner_similar_description">Exclua fotos duplicadas</string>
     <string name="cleaner_similar_title">Fotos duplicadas</string>
-    <string name="cleaner_size">Limpar itens excluídos recentemente (%s)</string>
+    <string name="cleaner_size">Limpar itens excluídos (%s)</string>
     <string name="cleaner_slim_action">Iniciar otimização</string>
     <string name="cleaner_slim_description">Manter fotos otimizadas no seu dispositivo. Os arquivos originais serão armazenados na MiCloud.</string>
     <string name="cleaner_slim_start">Otimizar</string>
@@ -861,6 +863,10 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="delete_third_party_photo">Excluir esta foto?</string>
     <string name="delete_third_party_video">Excluir este vídeo?</string>
     <string name="deny">Rejeitar</string>
+    <string name="desc_gallery_widget_editor_font_color_list">Cor do texto</string>
+    <string name="desc_gallery_widget_editor_font_type_list">Fonte</string>
+    <string name="desc_gallery_widget_editor_selected_photo_list">Imagens selecionadas</string>
+    <string name="desc_gallery_widget_editor_text_position_list">"Layout"</string>
     <string name="detail_title">Informações detalhadas</string>
     <string name="device_list_all">Todos dispositivos</string>
     <string name="device_list_more">Mais</string>
@@ -1913,7 +1919,7 @@ para personalizar a Galeria"</string>
     <string name="movie_audio_no_cd">Sem trilha sonora</string>
     <string name="movie_audio_none">Nenhum</string>
     <string name="movie_audio_point1">"Neon"</string>
-    <string name="movie_audio_point2">Pôr do Sol</string>
+    <string name="movie_audio_point2">Pôr do sol</string>
     <string name="movie_audio_point3">Memórias</string>
     <string name="movie_audio_point4">Solstício de Verão</string>
     <string name="movie_audio_point5">Ondas</string>
@@ -2378,7 +2384,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_editor_crop_size_origin">"Original"</string>
     <string name="photo_editor_doodle">"Doodle"</string>
     <string name="photo_editor_filter">Filtro</string>
-    <string name="photo_editor_font_default">"Mi Lanting (Regular)"</string>
+    <string name="photo_editor_font_default">Sistema</string>
     <string name="photo_editor_frame">Moldura</string>
     <string name="photo_editor_label">Editar</string>
     <string name="photo_editor_long_crop">Cortar</string>
@@ -2752,7 +2758,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="rubbish_nomedia_manager_button_text">Gerencie álbuns com arquivos \".nomedia\"</string>
     <string name="runtime_permission_ungranted">A Galeria fechou devido a permissões não concedidas</string>
     <string name="saf_hyper_link_text">Gerenciar permissões</string>
-    <string name="saf_operation_guide_1">"O Galeria precisa da sua permissão para proteger e gerenciar seus dados. "</string>
+    <string name="saf_operation_guide_1">"A Galeria precisa da sua permissão para proteger e gerenciar seus dados. "</string>
     <string name="saf_operation_guide_2">Para conceder a permissão, toque em \"%1$s\" e então selecione \"%2$s\".</string>
     <string name="saf_operation_guide_param1">Próximo</string>
     <string name="saf_operation_guide_param2">Usar esta pasta</string>
@@ -2979,6 +2985,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_album_family_delete_sharer_message">"Esta pessoa não poderá ver este álbum se você removê-la agora. Remover mesmo assim?"</string>
     <string name="share_album_family_delete_sharer_title">Restringindo acesso</string>
     <string name="share_album_family_invite_category_title">Adicionar membros ao grupo familiar</string>
+    <string name="share_album_family_invite_confirm_dialog_message">"Você ativou a Proteção avançada de dados. Se você compartilhar este álbum, o conteúdo compartilhado não será criptografado. Compartilhar mesmo assim?"</string>
+    <string name="share_album_family_invite_confirm_dialog_title">"Não é possível usar a Proteção avançada de dados com itens compartilhados"</string>
     <string name="share_album_family_invite_default">Compartilhar</string>
     <string name="share_album_family_invite_family_cate_title">Grupo familiar</string>
     <string name="share_album_family_invite_link">URL</string>
@@ -3280,6 +3288,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="switch_account_msg_with_email">Você interrompeu a transferência anteriormente para %1$s. Deseja retomar a transferência para esta Conta do Google ou recomeçar usando outra conta?</string>
     <string name="switch_account_switch">Recomeçar</string>
     <string name="switch_account_title">Retomar a transferência?</string>
+    <string name="switch_gallery_widget_editor_dof_enable">Aplicar efeito de profundidade</string>
     <string name="sync_album_in_proecess">Sincronizando álbum…</string>
     <string name="sync_backup_disable_confirm_message_downloading">Se você desativar a sincronização agora, os downloads em andamento dos arquivos originais armazenados na nuvem serão interrompidos. As imagens de alta qualidade armazenadas neste dispositivo também não estarão mais disponíveis. Desativar mesmo assim?</string>
     <string name="sync_backup_disable_confirm_message_wait">As imagens de alta qualidade armazenadas neste dispositivo não estarão mais disponíveis após você desativar a sincronização. Você pode baixar arquivos originais da nuvem e desativar a sincronização após isso.</string>
@@ -4048,6 +4057,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="widget_disable">"Widgets deste tamanho não são compatíveis com este dispositivo"</string>
     <string name="widget_editor_confirm">Concluído</string>
     <string name="widget_editor_load_fail">"Não foi possível carregar a foto"</string>
+    <string name="widget_editor_pic_segment_not_support_tip">"A imagem selecionada não suporta efeito de profundidade"</string>
     <string name="widget_editor_reselect">Selecione novamente</string>
     <string name="widget_editor_title">Editar</string>
     <string name="widget_label_custom">Imagens selecionadas</string>

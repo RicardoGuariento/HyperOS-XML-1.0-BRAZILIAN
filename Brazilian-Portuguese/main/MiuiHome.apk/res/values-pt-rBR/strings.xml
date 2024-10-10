@@ -183,7 +183,11 @@
     <string name="back">Voltar</string>
     <string name="backup_fail">Não foi possível fazer o backup da launcher</string>
     <string name="bad_wallpaper_source_prompt">Não é possível carregar o plano de fundo</string>
+    <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
+    <string name="bottomsheet_action_expand">Expandir a página inferior</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="bottomsheet_drag_handle_clicked">Arraste a alça com um toque duplo</string>
+    <string name="bottomsheet_drag_handle_content_description">Arrastar alça</string>
     <string name="branch_core_version">Versão do branch</string>
     <string name="branch_deepview_button">Baixar o app</string>
     <string name="branch_deepview_button_description">Ver este conteúdo imediatamente após a instalação</string>
@@ -268,6 +272,7 @@
     <string name="copy">Copiar</string>
     <string name="current_preview">Pré-visualizar</string>
     <string name="current_wallpaper">Atual</string>
+    <string name="current_wallpaper_effect_disable">"O plano de fundo atual não suporta o efeito aplicado"</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para fazer chamadas a contatos de emergência no Modo simples</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Para exibir contatos de emergência no Modo simples</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Para exibir o status do dispositivo</string>
@@ -298,6 +303,9 @@
     <string name="delete_wallpaper_message">Excluir %1$d plano de fundo?</string>
     <string name="deleted_system_applications">Apps do sistema desinstalados</string>
     <string name="deselect_all">Desmarcar todos</string>
+    <string name="dialog_safe_launcher_commit_describe">Enviar feedback</string>
+    <string name="dialog_safe_launcher_content">"A launcher apresentou um erro e mudou para o Modo de segurança. Alguns recursos não estão disponíveis no momento. Você pode nos enviar feedbacks sobre o problema enquanto aguarda a atualização da launcher."</string>
+    <string name="dialog_safe_launcher_title">Modo de segurança ativado</string>
     <string name="dialog_work_profile_button_1">Próximo</string>
     <string name="dialog_work_profile_button_2">Entendi</string>
     <string name="dialog_work_profile_content_1">Dados pessoais estão separados e escondidos dos apps de trabalho</string>
@@ -392,6 +400,7 @@
     <string name="fold_pair_install_shortcut_long_click">Pressione e segure para adicionar à Tela inicial</string>
     <string name="fold_pair_installed_shortcut_launcher">Este atalho já existe</string>
     <string name="folder_name">Pasta</string>
+    <string name="folder_name_text_clear">Limpar</string>
     <string name="folder_not_edit_icon_tip">Para editar, primeiro mova o app para fora da pasta.</string>
     <string name="folder_picker_big_2x2_9_text">"XXL"</string>
     <string name="folder_picker_big_text">Ampliado</string>
@@ -419,8 +428,22 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="fs_gesture_back_home_summary">Deslize rapidamente a partir da área inferior</string>
+    <string name="fs_gesture_back_ready_title">Voltar</string>
+    <string name="fs_gesture_final_over">"Estou pronto"</string>
+    <string name="fs_gesture_final_restart">Mais uma vez</string>
+    <string name="fs_gesture_final_see_more">Veja mais demonstrações em Configurações > Tela inicial > Navegação do sistema</string>
+    <string name="fs_gesture_final_summary">Você pode voltar a usar os botões em Configurações > Tela cheia</string>
+    <string name="fs_gesture_final_title">"Você está pronto para começar!"</string>
+    <string name="fs_gesture_finish">Ótimo!</string>
+    <string name="fs_gesture_left_back_ready_summary">Deslize para a direita a partir da borda</string>
+    <string name="fs_gesture_right_back_ready_summary">Deslize para a esquerda a partir da borda</string>
+    <string name="fs_gesture_skip">Voltar</string>
+    <string name="fs_gesture_switch_recents_summary">Deslize a partir da área inferior e segure</string>
     <string name="fsg_assist_enable_summary">Deslize do canto da tela para usar o Google Assistente</string>
     <string name="fsg_assist_enable_title">Google Assistente</string>
+    <string name="fsg_demo_back">Voltar</string>
+    <string name="fsg_demo_go_on">Aprender</string>
     <string name="fsg_mistake_touch_summary">Em alguns casos (ex.: quando estiver jogando ou assistindo vídeos), os gestos funcionarão apenas quando forem repetidos.</string>
     <string name="fsg_mistake_touch_title">Confirmação de gestos</string>
     <string name="gadget_calculator_label">Calculadora</string>
@@ -486,6 +509,14 @@
     <string name="home_slide_up_action">Deslizar para cima na Tela inicial</string>
     <string name="home_switch_personal_assistant">Assistente da Tela inicial</string>
     <string name="icon_content_description">Ícone de diálogo</string>
+    <string name="how_to_back_home">Ir à Tela inicial</string>
+    <string name="how_to_switch_recents">Abrir apps recentes</string>
+    <string name="how_to_use_app_quick">Como alternar entre apps</string>
+    <string name="how_to_use_app_quick_hide_line_summary">Deslize para cima a partir da parte inferior da tela e deslize para a esquerda ou direita</string>
+    <string name="how_to_use_app_quick_summary">Deslize para a esquerda ou direita a partir do indicador de tela cheia ou na parte inferior da tela</string>
+    <string name="how_to_use_drawer">Como abrir o menu lateral</string>
+    <string name="how_to_use_drawer_summary">Deslize para a direita na parte superior da tela</string>
+    <string name="how_to_use_fsg">Você pode executar as seguintes ações usando gestos:</string>
     <string name="icon_customize_summary">Selecione o estilo e ajuste o tamanho</string>
     <string name="icon_form">Ícones</string>
     <string name="icon_reorganize_channel">Organizar ícones</string>
@@ -515,6 +546,7 @@ Segurança melhorada."</string>
     <string name="launcher_pull_down_title">Deslizar para baixo na Tela inicial</string>
     <string name="launcher_search">Pesquisar na Tela inicial</string>
     <string name="launcher_search_bar_provider_title">Provedor da barra de pesquisa</string>
+    <string name="launcher_search_bar_tip">A barra de pesquisa pode alterar o layout da sua Tela inicial</string>
     <string name="launcher_search_bar_title">Barra de pesquisa da Tela inicial</string>
     <string name="launcher_search_bar_value_disable">Desativado</string>
     <string name="launcher_search_bar_value_enable">Ativado</string>
@@ -525,6 +557,11 @@ Segurança melhorada."</string>
     <string name="layout_guide_description">"Se você não gostar da Gaveta de apps, você pode voltar para a Tela inicial clássica. Basta usar o atalho \"Configurações da Tela inicial\" e alternar entre os dois modos."</string>
     <string name="layout_guide_tip_title">Você pode voltar para o modelo antigo em um único toque</string>
     <string name="layout_guide_title">Como remover a Gaveta de apps</string>
+    <string name="layout_preview_apply">Aplicar</string>
+    <string name="layout_preview_cancel">Cancelar</string>
+    <string name="layout_upgrade_toast_button">Entendi</string>
+    <string name="layout_upgrade_toast_message">O layout da sua Tela inicial foi atualizada com o nosso novo algoritmo dinâmico. As linhas e colunas na Tela inicial foram ajustadas para fornecer mais espaço flexível e exibição melhorada dos elementos.</string>
+    <string name="layout_upgrade_toast_title">Layout da Tela inicial atualizado</string>
     <string name="lib_name">Filamento Android</string>
     <string name="like">Adicionar aos favoritos</string>
     <string name="liked">Adicionado aos favoritos</string>
@@ -609,6 +646,7 @@ Segurança melhorada."</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -773,6 +811,7 @@ Segurança melhorada."</string>
     <string name="network_error">"Não foi possível conectar-se à rede. Tente novamente."</string>
     <string name="new_default_folder_title_tools">Apps do sistema</string>
     <string name="new_feature_title">O que há de novo</string>
+    <string name="new_folder_picker_sliding_button_tab_text">Ordenar apps automaticamente</string>
     <string name="new_open_personal_assistant_settings_simplified">Assistente</string>
     <string name="new_privacy_thumbnail_blur_summary">Desfoca a visualizações de apps nos Recentes</string>
     <string name="new_recents_config_title">Outros</string>
@@ -925,10 +964,17 @@ Segurança melhorada."</string>
     <string name="restore_icon_successful">Adicionado com sucesso</string>
     <string name="risk_app_report">Denunciar este app</string>
     <string name="russia_preinstall_folder_name">Rússia</string>
+    <string name="safe_launcher_header_check_update">Procurar por atualizações</string>
+    <string name="safe_launcher_header_check_update_available">Uma atualização da launcher está disponível. Você pode instalar a nova versão do GetApps.</string>
+    <string name="safe_launcher_header_check_update_btn">Abrir GetApps</string>
+    <string name="safe_launcher_header_check_update_title">Atualizar a launcher</string>
+    <string name="safe_launcher_header_content">Alguns recursos do sistema podem não estar disponíveis no momento. Aguarde até que a launcher seja atualizada e os recursos sejam restaurados.</string>
+    <string name="safe_launcher_launcher_no_check_update_prompt">"Você está usando a versão mais recente"</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="screen_cells_config_title">Layout da Tela inicial</string>
+    <string name="screen_column_option">%d coluna</string>
     <string name="screen_locked_toast">O layout da Tela inicial está bloqueado.</string>
     <string name="screen_number">Tela %d</string>
     <string name="search_bar_hint_content">Pesquisar por apps e conteúdo</string>
@@ -1118,7 +1164,7 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="uninstall_xspace_dialog_title_format">Desinstalar dual app \"%s\"?</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta</string>
-    <string name="unstable_dialog_message">Este dispositivo está inscrito no Programa Android 14 Developer Preview. O programa permite que desenvolvedores e entusiastas do Android experimentem versões de pré-lançamento do Android 14. Esta versão de pré-lançamento pode conter erros e defeitos que podem afetar o funcionamento normal do seu dispositivo.</string>
+    <string name="unstable_dialog_message">Este dispositivo está inscrito no Programa Android 15 Developer Preview. O programa permite que desenvolvedores e entusiastas do Android experimentem versões de pré-lançamento do Android 15. Esta versão de pré-lançamento pode conter erros e defeitos que podem afetar o funcionamento normal do seu dispositivo.</string>
     <string name="unstable_dialog_title">Programa Android Developer Preview</string>
     <string name="upgrade_remove_small_window_in_recents">Você pode usar a barra lateral para abrir apps em janelas flutuantes</string>
     <string name="v7_preference_off">DESATIVADO</string>
@@ -1155,5 +1201,17 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
+    <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Falha ao conectar o Gerenciador de downloads, verifique o estado do Gerenciador de downloads no Gerenciamento de apps.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
+Tamanho: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Apresentando a versão %1$s
+Tamanho da atualização delta: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">Uma atualização está disponível</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
+    <string name="xiaomi_update_sdk_update_dialog_cancel">Agora não</string>
+    <string name="xiaomi_update_sdk_update_dialog_ok">Atualizar</string>
     <string name="yesterday">Ontem</string>
 </resources>

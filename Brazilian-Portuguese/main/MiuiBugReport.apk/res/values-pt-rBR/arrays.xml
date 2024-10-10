@@ -5,35 +5,35 @@
         <item>Feminino</item>
     </string-array>
     <string-array name="net_diag_err_link_quality">
-        <item>Conexão de Wi-Fi ruim. Troque de banda sem fio ou reinicie o roteador.</item>
+        <item>Conexão de Wi-Fi fraca. Troque de bandas Wi-Fi ou reinicie o roteador.</item>
         <item>"Não é possível acessar a rede. Reconecte-se ao Wi-Fi ou reinicie o roteador."</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
-        <item>Conexão de Wi-Fi ruim. Troque de banda sem fio ou reinicie o roteador.</item>
+        <item>Conexão de Wi-Fi fraca. Troque de bandas Wi-Fi ou reinicie o roteador.</item>
         <item>"Não é possível acessar a rede. Reconecte-se ao Wi-Fi ou reinicie o roteador."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
         <item>A autenticação é necessária para acesso à rede</item>
-        <item>"O acesso à rede é restrito. Ajuste a hora neste dispositivo e verifique as configurações de rede do roteador."</item>
+        <item>"Acesso à rede restrito. Ajuste a hora neste dispositivo e verifique as configurações de rede do roteador."</item>
         <item>Erro de rede. Verifique as configurações de proxy HTTP.</item>
-        <item>Erro de rede. Verifique se o roteador consegue acessar a internet.</item>
+        <item>Erro de rede. Verifique se o roteador pode acessar a internet.</item>
         <item>"Não é possível acessar a rede. Reconecte-se ao Wi-Fi ou reinicie o roteador."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>A autenticação é necessária para acesso à rede</item>
-        <item>"O acesso à rede é restrito. Ajuste a hora neste dispositivo e verifique as configurações de rede do roteador."</item>
+        <item>"Acesso à rede restrito. Ajuste a hora neste dispositivo e verifique as configurações de rede do roteador."</item>
         <item>Erro de rede. Verifique as configurações de proxy HTTP.</item>
-        <item>Erro de rede. Verifique se o roteador consegue acessar a internet.</item>
+        <item>Erro de rede. Verifique se o roteador pode acessar a internet.</item>
         <item>"Não é possível conectar-se à rede. Reconecte-se ao Wi-Fi ou reinicie o roteador."</item>
     </string-array>
     <string-array name="net_diag_err_network_dns">
-        <item>"Erro no servidor DNS. Verifique a configuração DNS do roteador."</item>
-        <item>"Grandes atrasos do servidor DNS. Verifique a configuração DNS do roteador."</item>
+        <item>"Erro no servidor DNS. Verifique as configurações de DNS do roteador."</item>
+        <item>"Grandes atrasos do servidor DNS. Verifique as configurações de DNS do roteador."</item>
         <item>"Não é possível acessar a rede. Reconecte-se ao Wi-Fi ou reinicie o roteador."</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
-        <item>"Erro no servidor DNS. Verifique a configuração DNS do roteador."</item>
-        <item>"Grandes atrasos do servidor DNS. Verifique a configuração DNS do roteador."</item>
+        <item>"Erro no servidor DNS. Verifique as configurações de DNS do roteador."</item>
+        <item>"Grandes atrasos do servidor DNS. Verifique as configurações de DNS do roteador."</item>
         <item>"Não é possível acessar o gateway. Reconecte-se ao Wi-Fi ou reinicie o roteador."</item>
     </string-array>
     <string-array name="net_diag_err_network_latency">
@@ -50,12 +50,28 @@
         <item>Erro de protocolo de rede. Reconecte-se ao Wi-Fi ou reinicie o dispositivo.</item>
     </string-array>
     <string-array name="net_diag_err_network_rssi">
-        <item>Mude para uma área com melhor cobertura Wi-Fi</item>
+        <item>Mova para uma área com melhor cobertura Wi-Fi</item>
     </string-array>
     <string-array name="net_diag_err_network_rssi_china">
-        <item>Mude para uma área com melhor cobertura Wi-Fi</item>
+        <item>Mova para uma área com melhor cobertura Wi-Fi</item>
     </string-array>
     <string-array name="net_diag_err_network_topology">
         <item>"Verifique as configurações de DHCP do roteador e a conexão com fio"</item>
+    </string-array>
+    <string-array name="wifi_diag_err_wifi_base">
+        <item>"Não foi possível ativar o Wi-Fi. Reinicie seu dispositivo ou atualize-o para a versão mais recente do sistema."</item>
+        <item>"Não foi possível localizar o hotspot. Reinicie seu dispositivo ou atualize-o para a versão mais recente do sistema."</item>
+        <item>"Não é possível ativar o Wi-Fi. Desligue e ligue o Wi-Fi novamente ou reinicie o roteador."</item>
+        <item>O Wi-Fi foi desconectado várias vezes. Desligue e ligue o Wi-Fi novamente ou reinicie o roteador.</item>
+        <item>"Não foi possível ativar o hotspot. Reinicie seu dispositivo ou atualize-o para a versão mais recente do sistema."</item>
+        <item>"Não foi possível ativar o hotspot. Desligue o Modo avião e tente novamente."</item>
+    </string-array>
+    <string-array name="wifi_diag_err_wifi_base_china">
+        <item>"Não foi possível ativar o Wi-Fi. Reinicie seu dispositivo ou atualize-o para a versão mais recente do sistema."</item>
+        <item>"Não foi possível localizar o hotspot. Reinicie seu dispositivo ou atualize-o para a versão mais recente do sistema."</item>
+        <item>"Não é possível ativar o Wi-Fi. Desligue e ligue o Wi-Fi novamente ou reinicie o roteador."</item>
+        <item>O Wi-Fi foi desconectado várias vezes. Desligue e ligue o Wi-Fi novamente ou reinicie o roteador.</item>
+        <item>"Não foi possível ativar o hotspot. Reinicie seu dispositivo ou atualize-o para a versão mais recente do sistema."</item>
+        <item>"Não foi possível ativar o hotspot. Desligue o Modo avião e tente novamente."</item>
     </string-array>
 </resources>
