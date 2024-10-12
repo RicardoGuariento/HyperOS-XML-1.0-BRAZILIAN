@@ -120,9 +120,11 @@
     <string name="catch_full_log_item_title_wifi_china">"Wi-Fi"</string>
     <string name="catch_full_log_not_show_again">"Não mostrar novamente"</string>
     <string name="catch_full_log_note_affect_performance_decription">Parece que o processo de geração de log durou mais de %d hora. Se esse processo for concluído, você poderá enviar o feedback. Caso contrário, você poderá cancelar o processo ou continuar, mas continuar poderá afetar temporariamente a capacidade do seu dispositivo.</string>
+    <string name="catch_full_log_note_affect_performance_description">Parece que você está capturando logs há mais de %d hora. Este processo pode usar muito espaço de armazenamento e afetar o desempenho do seu dispositivo. Caso não tenha conseguido reproduzir o problema, cancele este processo.</string>
     <string name="catch_full_log_note_cancel_catch">Cancelar</string>
     <string name="catch_full_log_note_catch">Geração de logs</string>
     <string name="catch_full_log_note_decription">"Parece que você está gerando logs. Se este processo finalizou, você pode enviar o feedback. Caso contrário, continue ou cancele o processo."</string>
+    <string name="catch_full_log_note_description">Parece que você ainda está capturando logs. Este processo pode usar muito espaço de armazenamento e afetar o desempenho do seu dispositivo. Caso não tenha conseguido reproduzir o problema, cancele este processo.</string>
     <string name="catch_full_log_note_still_catch">Continuar</string>
     <string name="catch_full_log_note_to_commit">Enviar feedback</string>
     <string name="catch_full_log_notification_content">Toque para voltar aos logs</string>
@@ -234,7 +236,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_choose_module">Selecionar item</string>
     <string name="feedback_choose_module_hint">Obrigatório</string>
     <string name="feedback_choose_occurrence_time">Hora</string>
-    <string name="feedback_choose_reproductivity">Reprodutividade</string>
+    <string name="feedback_choose_reproductivity">Frequência</string>
     <string name="feedback_choose_third_app_name">Selecionar nome do app</string>
     <string name="feedback_collect_log_failed">"Não foi possível obter os logs"</string>
     <string name="feedback_contact_info_hint">Número de telefone/E-mail</string>
@@ -280,7 +282,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_package_log_failed">"Não foi possível compactar os logs"</string>
     <string name="feedback_remind_login_btn">Fazer login</string>
     <string name="feedback_report_remind_login_desc">Faça o login com sua Conta Mi para que nossos engenheiros possam entrar em contato com você.</string>
-    <string name="feedback_report_remind_login_desc2">"Você poderá ainda ver o progresso de seus relatórios de erro em \"Meus feedback\"."</string>
+    <string name="feedback_report_remind_login_desc2">"Você pode ver o progresso do seu relatório em \"Meus feedback\"."</string>
     <string name="feedback_reproductivity_everytime">Sempre</string>
     <string name="feedback_reproductivity_occasionally">Ocasionalmente</string>
     <string name="feedback_reproductivity_often">Frequentemente</string>
@@ -325,7 +327,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_submit_failed_notification_title">"Não foi possível enviar o relatório"</string>
     <string name="feedback_submit_hint">Reporte bugs sempre que os encontrar para nos ajudar a resolvê-los rapidamente.</string>
     <string name="feedback_submit_hint1">"Nós iremos notificá-lo de qualquer progresso em seu relatório"</string>
-    <string name="feedback_submit_hint2">Vá para \"Meus feedback\" para ver mais detalhes</string>
+    <string name="feedback_submit_hint2">Vá para \"Meus feedback\" para mais detalhes</string>
     <string name="feedback_submit_hint_gone">Mensagem fechada</string>
     <string name="feedback_submit_succ">Enviado com sucesso</string>
     <string name="feedback_submit_succ_button">Concluído</string>
@@ -388,7 +390,7 @@ Envie este código ao supervisor."</string>
     <string name="header_help">Ajuda</string>
     <string name="hint_feedback_main">Descreva o problema</string>
     <string name="i_get_it">Entendi</string>
-    <string name="i_know">"OK"</string>
+    <string name="i_know">Entendi</string>
     <string name="icon_add_description">Adicione um atalho na Tela inicial</string>
     <string name="icon_remove_confirm">Remover</string>
     <string name="icon_remove_description_content">Serviços e feedback é um app do sistema. Você ainda poderá usá-lo nas Configurações depois de remover o atalho da Tela inicial.</string>
@@ -410,7 +412,7 @@ Envie este código ao supervisor."</string>
     <string name="kr_authorization_contact_desc">Para acessar informações da Conta Mi para identificar o dispositivo</string>
     <string name="kr_authorization_exit">Sair</string>
     <string name="kr_authorization_function">Enviar feedbacks, gerar logs, ver perguntas frequentes</string>
-    <string name="kr_authorization_log_protocol">Protocolo de Logs (opcional)</string>
+    <string name="kr_authorization_log_protocol">Protocolo de logs (opcional)</string>
     <string name="kr_authorization_log_protocol_desc">"Para melhorar os serviços fornecidos para você, vamos fazer o upload de estatísticas de uso e logs do sistema para nossos servidores. Estes itens podem conter informações pessoais, assim como informações sobre o seu dispositivo e redes acessadas. Usaremos as informações para nos ajudar a localizar e analisar problemas no sistema."</string>
     <string name="kr_authorization_phone">Telefone</string>
     <string name="kr_authorization_phone_desc">Para acessar o modelo do dispositivo, IMEI e ID do dispositivo para localizar e corrigir problemas</string>
@@ -446,7 +448,7 @@ Envie este código ao supervisor."</string>
     <string name="mi_service_dialog_title">Introduzindo Serviços e feedback</string>
     <string name="midnight">"AM"</string>
     <string name="mishop_login_other">Outra conta</string>
-    <string name="miui_feedback_answer_detail_community">Você pode encontrar respostas para suas perguntas na Comunidade Xiaomi</string>
+    <string name="miui_feedback_answer_detail_community">Você pode encontrar respostas para suas perguntas na Xiaomi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Sim</string>
     <string name="miui_feedback_answer_detail_feedback_result">Obrigado pelo seu feedback!</string>
     <string name="miui_feedback_answer_detail_feedback_title">Esta informação foi útil?</string>
@@ -462,20 +464,20 @@ Envie este código ao supervisor."</string>
     <string name="miui_feedback_edit_choose_module_hint">Obrigatório</string>
     <string name="miui_feedback_edit_choose_occurrence_time">Hora</string>
     <string name="miui_feedback_edit_choose_reproductivity">Reprodutividade</string>
-    <string name="miui_feedback_edit_choose_third_app_name">Selecione o nome do app</string>
+    <string name="miui_feedback_edit_choose_third_app_name">Selecionar nome do app</string>
     <string name="miui_feedback_edit_contact_info_hint">Número de telefone/e-mail</string>
     <string name="miui_feedback_edit_delete_images">Excluir imagens</string>
     <string name="miui_feedback_edit_desc_hint">"Descreva o problema que você encontrou"</string>
     <string name="miui_feedback_edit_desc_hint_suggestion">"Diga-nos como você gostaria de melhorar o HyperOS"</string>
-    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Fique aqui</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Ficar aqui</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Descartar</string>
     <string name="miui_feedback_edit_discard_draft_dialog_content">"Quaisquer alterações feitas neste relatório serão perdidas."</string>
     <string name="miui_feedback_edit_discard_draft_dialog_title">Descartar rascunho?</string>
-    <string name="miui_feedback_edit_hint">Relate bugs sempre que encontrar problemas para nos ajudar a resolvê-los mais rapidamente</string>
+    <string name="miui_feedback_edit_hint">Reporte bugs sempre que os encontrar para nos ajudar a resolvê-los rapidamente</string>
     <string name="miui_feedback_edit_hint_gone">Mensagem fechada</string>
     <string name="miui_feedback_edit_hint_optional">Selecione</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Aguardar o Wi-Fi</string>
-    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Upload</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Fazer upload</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Parece que você está conectado a uma rede de dados móveis. O upload de logs pode gerar taxas adicionais."</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_title">Aviso sobre o uso de dados</string>
     <string name="miui_feedback_edit_need_phone_state_permission">Permita que o app acesse as informações do dispositivo para ler seu IMEI, o que ajudará a localizar problemas. Toque em \"OK\" para abrir as Configurações.</string>
@@ -484,7 +486,7 @@ Envie este código ao supervisor."</string>
     <string name="miui_feedback_edit_phone_state_permission_name">Acessar informações do dispositivo</string>
     <string name="miui_feedback_edit_reproductivity_everytime">Sempre</string>
     <string name="miui_feedback_edit_reproductivity_occasionally">Ocasionalmente</string>
-    <string name="miui_feedback_edit_reproductivity_often">Muitas vezes</string>
+    <string name="miui_feedback_edit_reproductivity_often">Algumas vezes</string>
     <string name="miui_feedback_edit_reproductivity_once">Uma vez</string>
     <string name="miui_feedback_edit_select_images">Adicione uma imagem ou vídeo curto</string>
     <string name="miui_feedback_edit_select_modem_log">Adicionar logs do modem</string>
@@ -508,23 +510,24 @@ Envie este código ao supervisor."</string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Não mostrar novamente"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Enviar relatório</string>
     <string name="miui_feedback_edit_submit_directly">Enviar</string>
-    <string name="miui_feedback_edit_title_occurrence_time">Selecione o horário</string>
-    <string name="miui_feedback_edit_title_reproductivity">Selecione a reprodutividade</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Selecionar hora</string>
+    <string name="miui_feedback_edit_title_reproductivity">Selecionar reprodutividade</string>
     <string name="miui_feedback_edit_toast_description_required">Descreva o problema primeiro</string>
-    <string name="miui_feedback_edit_toast_module_required">Selecione o item</string>
+    <string name="miui_feedback_edit_toast_module_required">Selecionar item</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Sua descrição deve ser mais longa</string>
-    <string name="miui_feedback_edit_toast_problem_class_required">Selecione a categoria</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">Selecionar categoria</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Digite o nome do app</string>
-    <string name="miui_feedback_main_answer_title">"Há uma resposta para esta pergunta"</string>
-    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Linha direta de atendimento: 0120-300-521
-Horário de atendimento: 9:00 - 18:00 (exceto feriados bancários e programados)
+    <string name="miui_feedback_main_answer_title">Existe uma resposta para esta pergunta</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Serviço de atendimento: 0120-300-521
+Horário de atendimento: 9:00 - 18:00 (exceto feriados bancários ou nacionais)
 E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">Perguntas frequentes</string>
     <string name="miui_feedback_main_item_catch_full_log">"Logs"</string>
     <string name="miui_feedback_main_item_customer_service">Serviços de pós-venda</string>
     <string name="miui_feedback_main_item_feedback_list">Meus feedback</string>
     <string name="miui_feedback_main_item_official_progress">Progresso do reparo</string>
-    <string name="miui_feedback_main_item_official_progress_hint">Atualize o progresso do reparo regularmente na Comunidade Xiaomi</string>
+    <string name="miui_feedback_main_item_official_progress_hint">Atualize o progresso do reparo regularmente na Xiaomi Community</string>
+    <string name="miui_feedback_main_item_support">Suporte</string>
     <string name="miui_feedback_main_item_use_guide">Guia do usuario</string>
     <string name="miui_feedback_main_menu_view_privacy">Política de Privacidade</string>
     <string name="miui_feedback_main_menu_view_withdraw_consent">Retirada de consentimento</string>
@@ -534,12 +537,12 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_search_no_answer">Nenhum resultado encontrado</string>
     <string name="miui_feedback_main_start_submit">Enviar feedback</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Enviar</string>
-    <string name="miui_feedback_main_submit_dialog_content">"Parece que não conseguimos encontrar uma solução para o seu problema. Você pode enviar seus comentários para nós."</string>
+    <string name="miui_feedback_main_submit_dialog_content">"Parece que não encontramos uma solução para o seu problema. Você pode nos enviar o seu feedback."</string>
     <string name="miui_feedback_main_submit_dialog_title">Enviar feedback</string>
     <string name="miui_feedback_main_title">Feedback</string>
     <string name="miui_feedback_main_withdraw">Retirar</string>
     <string name="miui_feedback_main_withdraw_consent_hint">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %1$s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como %2$s fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços de %3$s. Retirar o consentimento agora?"</string>
-    <string name="miui_feedback_note_install_xiaomi_community">Instale a Comunidade Xiaomi para poder usar este recurso.</string>
+    <string name="miui_feedback_note_install_xiaomi_community">Instale a Xiaomi Community para poder usar este recurso.</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -574,9 +577,9 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="mobile_data_note_dialog_content_with_file_size">"Parece que você está conectado a uma rede paga. O envio dos logs usará %s MB de dados móveis."</string>
     <string name="mobile_data_note_dialog_title">Aviso sobre o uso de dados</string>
     <string name="modem_tool_log_dumping_desc">Toque no ícone para parar</string>
-    <string name="modem_tool_log_dumping_title">Capturando logs do modem</string>
+    <string name="modem_tool_log_dumping_title">Gerando logs do modem</string>
     <string name="modem_tool_log_finish_desc">Log salvo como %s</string>
-    <string name="modem_tool_log_finish_title">Log do modem capturado</string>
+    <string name="modem_tool_log_finish_title">Log do modem gerado</string>
     <string name="module_communication">Comunicação</string>
     <string name="module_connectivity">Interconectividade</string>
     <string name="module_data">Armazenamento e dual apps</string>
@@ -641,11 +644,11 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="net_diag_continue">Continuar</string>
     <string name="net_diag_diag_fail">"Não foi possível diagnosticar o problema. Verifique o status da sua conexão Wi-Fi."</string>
     <string name="net_diag_diag_fail_china">"Não foi possível diagnosticar o problema. Verifique o status da sua conexão Wi-Fi."</string>
-    <string name="net_diag_dialog_msg">Testar sua rede ajudará você a detectar problemas e melhorar sua conexão.</string>
-    <string name="net_diag_dialog_msg_china">Testar sua rede ajudará você a detectar problemas e melhorar sua conexão. Durante o teste, o Wi-Fi e o hotspots podem ser ligados e desligados automaticamente.</string>
+    <string name="net_diag_dialog_msg">Testar seu Wi-Fi ajudará você a detectar problemas e melhorar sua conexão.</string>
+    <string name="net_diag_dialog_msg_china">Testar seu Wi-Fi ajudará você a detectar problemas e melhorar sua conexão. Durante o teste, o Wi-Fi e o hotspots podem ser ligados e desligados automaticamente.</string>
     <string name="net_diag_dialog_no">Não</string>
-    <string name="net_diag_dialog_title">Testar rede agora?</string>
-    <string name="net_diag_dialog_title_china">Testar rede agora?</string>
+    <string name="net_diag_dialog_title">Testar o Wi-Fi agora?</string>
+    <string name="net_diag_dialog_title_china">Testar o Wi-Fi agora?</string>
     <string name="net_diag_dialog_yes">Sim</string>
     <string name="net_diag_entry_link_quality">Qualidade da conexão</string>
     <string name="net_diag_entry_network_connectivity">Conectividade de rede</string>
@@ -657,7 +660,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="net_diag_entry_router_topology">Roteamento de rede</string>
     <string name="net_diag_fix_guide_window_msg">Ocorreu um erro de rede. Toque para solucionar problemas.</string>
     <string name="net_diag_fix_guide_window_msg2">Toque para solucionar problemas</string>
-    <string name="net_diag_fixing">Reparando rede. Isso pode levar um minuto.</string>
+    <string name="net_diag_fixing">Reparando a rede. Isso pode levar um minuto.</string>
     <string name="net_diag_header_internet">"Internet"</string>
     <string name="net_diag_header_router">Roteador</string>
     <string name="net_diag_header_this_device">Este dispositivo</string>
@@ -666,8 +669,8 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="net_diag_repair_msg_china">Durante este processo, o Wi-Fi será desconectado e conectado novamente. Reparar agora?</string>
     <string name="net_diag_repair_static_ip_msg">As configurações de rede podem ser redefinidas durante este processo. Reparar agora?</string>
     <string name="net_diag_repair_title">Reparar rede?</string>
-    <string name="net_diag_title">Testar rede</string>
-    <string name="net_diag_title_china">Testar rede</string>
+    <string name="net_diag_title">Testar Wi-Fi</string>
+    <string name="net_diag_title_china">Testar Wi-Fi</string>
     <string name="net_diag_toast_cellular_data">Para testar a rede, desligue primeiro os dados móveis.</string>
     <string name="net_diag_toast_other_networks">Para testar a rede, conecte-se ao Wi-Fi e desconecte-se de outras redes primeiro.</string>
     <string name="net_diag_toast_other_networks_china">Para testar a rede, conecte-se ao Wi-Fi e desconecte-se de outras redes primeiro.</string>
@@ -848,7 +851,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="permission_imei_disable_desc">Permita que este app se conecte à internet.</string>
     <string name="permission_imei_enable_desc">Permita que este app se conecte à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
-    <string name="permission_main_purpose">Exibindo demonstrações de recursos HyperOS, enviando comentários e solicitando serviços pós-venda.</string>
+    <string name="permission_main_purpose">Exibir demonstrações de recursos, enviar feedbacks e solicitar serviços de pós-venda.</string>
     <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
     <string name="permission_region_version_msg">&lt;Data>Antes de usar Serviços e feedback, você deve ler e concordar com nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Selecionar todos</string>
@@ -868,9 +871,9 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_category_title">Privacidade</string>
     <string name="privacy_policy_title">Política de Privacidade</string>
-    <string name="privacy_policy_update_hint">"%1$s Política de Privacidade foi atualizada:
+    <string name="privacy_policy_update_hint">"A Política de Privacidade do %1$s foi atualizada:
 %2$s
-Leia e concorde com a nova versão da %3$s antes de continuar."</string>
+Leia e aceite a nova versão da %3$s antes de continuar."</string>
     <string name="privacy_policy_update_title">Política de Privacidade atualizada</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="protocal_dialog_cancel">Cancelar</string>
@@ -897,7 +900,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="reply_successful">Respondido com sucesso</string>
     <string name="report_miui">Reportar erro</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">"Devemos proteger suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -983,11 +986,15 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_app_select">Apps integrados</string>
-    <string name="system_error_info">O sistema está ocupado. Espere um momento e tente novamente.</string>
+    <string name="system_error_info">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="tab_title_chat">Perguntas frequentes</string>
     <string name="tab_title_my_reports">Meus feedback</string>
     <string name="tab_title_preferences">Configurações</string>
     <string name="tab_title_report">"Feedback"</string>
+    <string name="telephony_cdma_dialog_cancel">Cancelar</string>
+    <string name="telephony_cdma_dialog_msg">Confirme com a sua operadora se o serviço 4G/5G foi ativado para o seu dispositivo. Se ele foi ativado e você ainda estiver enfrentando problemas, envie um feedback.</string>
+    <string name="telephony_cdma_dialog_ok">Feedback</string>
+    <string name="telephony_cdma_dialog_title">Ativar serviços 4G/5G</string>
     <string name="temporary_not_available">"Este recurso ainda não está disponível"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>

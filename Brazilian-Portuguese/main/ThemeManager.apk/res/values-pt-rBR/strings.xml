@@ -176,14 +176,14 @@
     <string name="common_downloading">Baixando…</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Pular</string>
-    <string name="community_community_message_trigger_summary">Receba notificações sobre respostas, curtidas e atualizações de status da Comunidade Xiaomi usando seu ID da Conta Mi</string>
+    <string name="community_community_message_trigger_summary">Receba notificações sobre respostas, curtidas e atualizações de status da Xiaomi Community usando seu ID da Conta Mi</string>
     <string name="community_community_message_trigger_title">Notificar sobre atividade</string>
     <string name="community_cta_dialog_cancel">Não, obrigado</string>
-    <string name="community_cta_dialog_des">Temas de terceiros agora suportam o widget Comunidade Xiaomi. Permita que o Temas acesse seu status de ID associados a sua Conta Mi e Comunidade Xiaomi para poder visualizá-lo aqui.</string>
+    <string name="community_cta_dialog_des">Temas de terceiros agora suportam o widget Xiaomi Community. Permita que o Temas acesse seu status de ID associados a sua Conta Mi e Xiaomi Community para poder visualizá-lo aqui.</string>
     <string name="community_cta_dialog_ok">Permitir</string>
     <string name="community_cta_dialog_title">Permissões necessárias</string>
-    <string name="community_entrance_summary">Encontre conteúdo relacionado a temas na Comunidade Xiaomi. Este recurso é suportado por temas selecionados.</string>
-    <string name="community_entrance_title">Widget de relógio da Comunidade Xiaomi</string>
+    <string name="community_entrance_summary">Encontre conteúdo relacionado a temas na Xiaomi Community. Este recurso é suportado por temas selecionados.</string>
+    <string name="community_entrance_title">Widget de relógio da Xiaomi Community</string>
     <string name="community_message_trigger_disabled">Desativado</string>
     <string name="community_message_trigger_triggered">Ativado</string>
     <string name="component_backup_preference_title">Backup do tema atual</string>
@@ -910,8 +910,8 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="present_local_themes_subtitle">Personalize seu dispositivo</string>
     <string name="present_official_themes">Escolha da equipe</string>
     <string name="present_online_themes">Obter mais temas online</string>
-    <string name="privacy_action_failed_net_content">Ocorreu um erro de rede. Espere um momento e tente novamente.</string>
-    <string name="privacy_action_failed_server_content">Ocorreu um erro no servidor. Espere um momento e tente novamente.</string>
+    <string name="privacy_action_failed_net_content">Ocorreu um erro de rede. Aguarde um momento e tente novamente.</string>
+    <string name="privacy_action_failed_server_content">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="privacy_action_failed_title">Erro</string>
     <string name="privacy_confirm_logoff_and_exit">Cancelar serviços</string>
     <string name="privacy_confirm_revoke_and_exit_btn">Retirar consentimento</string>
@@ -927,7 +927,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="privacy_logoff_theme_content_2">2. Todas as informações sobre seus gostos, comentários, classificações e seguidores geradas nos dispositivos Xiaomi.</string>
     <string name="privacy_logoff_theme_content_5">5. Todos os itens de personalização usados atualmente neste dispositivo. As preferências de personalização padrão serão restauradas.</string>
     <string name="privacy_logoff_theme_service_warning">Os seguintes itens serão excluídos permanentemente após os serviços serem cancelados:</string>
-    <string name="privacy_network_exception">Ocorreu um erro de rede. Espere um momento e tente novamente.</string>
+    <string name="privacy_network_exception">Ocorreu um erro de rede. Aguarde um momento e tente novamente.</string>
     <string name="privacy_pad_fold_Read_write_storage">Acessar armazenamento</string>
     <string name="privacy_pad_fold_entry">Privacidade</string>
     <string name="privacy_pad_fold_logoff_service_content">Cancelar serviços de Personalização</string>
@@ -1332,7 +1332,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="share_save_success">Salvo com sucesso</string>
     <string name="share_save_to_photo">Galeria</string>
     <string name="share_theme_content_text">"Você pode baixar um tema incrível \"%1$s\" aqui: %2$s. De "</string>
-    <string name="share_vipaccount">Comunidade Xiaomi</string>
+    <string name="share_vipaccount">Xiaomi Community</string>
     <string name="share_wallpaper_content_text">"Você pode baixar um plano de fundo incrível \"%1$s\" aqui: %2$s. De "</string>
     <string name="shortcut_add">Adicionar</string>
     <string name="shortcut_cancel">Não, obrigado</string>
@@ -1642,7 +1642,7 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos."</string>
     <string name="update_btn">ATUALIZAR AGORA</string>
     <string name="update_check">Procurar por atualizações</string>
     <string name="update_checking">Procurando atualizações…</string>
-    <string name="update_community_tip">Atualize a Comunidade Xiaomi para poder usar este recurso</string>
+    <string name="update_community_tip">Atualize a Xiaomi Community para poder usar este recurso</string>
     <string name="update_downloading">Baixando atualização…</string>
     <string name="update_fail">"Não foi possível obter informações. Tente novamente."</string>
     <string name="update_flag">Atualizar</string>

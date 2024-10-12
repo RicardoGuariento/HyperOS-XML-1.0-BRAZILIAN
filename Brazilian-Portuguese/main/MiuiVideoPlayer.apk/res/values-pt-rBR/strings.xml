@@ -394,9 +394,10 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="dialog_video_low">Baixa</string>
     <string name="dialog_video_medium">Média</string>
     <string name="dialog_ytb_content">"Você está prestes a sair do Mi Vídeo e abrir o YouTube. Continuar?"</string>
-    <string name="disagree">Não aceitar</string>
+    <string name="disagree">"Não aceitar"</string>
+    <string name="diversion_online_button">Assista mais vídeos</string>
     <string name="diy_channels_tips">Você pode personalizar sua lista de canais agora.</string>
-    <string name="do_not_show_again">Não mostrar novamente</string>
+    <string name="do_not_show_again">"Não mostrar novamente"</string>
     <string name="download">"Downloads"</string>
     <string name="download_checking_tip">Preparando o download…</string>
     <string name="download_complete">Baixado</string>
@@ -2274,6 +2275,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="vip_pay_refunded">Reembolsado</string>
     <string name="vip_pay_success">Adquirido</string>
     <string name="vip_pay_waiting">Aguarde…</string>
+    <string name="vip_permission">Ao comprar, você concorda com os &lt;a href=%1$s>Termos de Serviço do MangoTV&lt;/a>. Se você tiver alguma dúvida, veja as nossas &lt;a href=%2$s>Perguntas frequentes e feedback&lt;/a>.</string>
     <string name="vip_purchase_history">Histórico de compras</string>
     <string name="vip_qa">Precisa de ajuda? Veja &lt;a href=%1$s>Perguntas frequentes e feedback&lt;/a></string>
     <string name="vip_qa_title">Perguntas frequentes e feedback</string>
