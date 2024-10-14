@@ -3793,6 +3793,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_fast_charge_switch_toast_message">As alterações serão aplicadas no próximo carregamento do dispositivo</string>
     <string name="pc_fast_charge_temp_remider">"Ligue para regular a velocidade de carregamento automaticamente. Este recurso funciona apenas com os carregadores fornecidos pela Xiaomi. Seu dispositivo pode esquentar durante o carregamento."</string>
     <string name="pc_fast_charge_title">Aumente a velocidade de carregamento</string>
+    <string name="pc_first_use_error_tips">Calculando</string>
+    <string name="pc_first_use_protect_title">Primeiro uso</string>
     <string name="pc_going_to_exit_extreme_mode">Saindo do Modo hibernação</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Seu dispositivo está carregando. O Modo hibernação está desativado.</string>
     <string name="pc_going_to_extreme_mode">Entrando no Modo hibernação</string>
@@ -3894,6 +3896,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_wait_device_cools_down">Aguarde até que seu dispositivo esfrie para poder usar esse recurso.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Coloque-o no carregador sem fio</string>
     <string name="pc_wireless_charge_adjust_position_title">Carregue seu dispositivo mais rápido</string>
+    <string name="pc_wireless_charge_notification_summary">O carregamento sem fio é menos eficiente em termos energéticos do que o carregamento com fio</string>
+    <string name="pc_wireless_charge_notification_title">Carregando sem fio</string>
     <string name="pc_wireless_charging_special_stand_summary1">Instale o seu dispositivo no suporte que acompanha o carregador sem fio</string>
     <string name="pc_wireless_charging_special_stand_summary2">Instale o seu dispositivo no suporte que acompanha o carregador sem fio para obter melhor desempenho de carregamento</string>
     <string name="pc_wireless_charging_special_stand_title">Use o suporte de carregamento fornecido</string>
@@ -4122,8 +4126,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_night_charge_protection_setting">Veja mais opções em Segurança > Bateria.</string>
     <string name="power_center_night_charge_protection_summary">O HyperOS aprende com sua rotina diária de carregamento, para reduzir o carregamento contínuo desnecessário e assim aumentar a vida útil da bateria</string>
     <string name="power_center_one_key_save">Otimizar</string>
-    <string name="power_center_ontime_boot">Horário para ligar</string>
-    <string name="power_center_ontime_shutdown">Horário para desligar</string>
+    <string name="power_center_ontime_boot">Ligamento programado</string>
+    <string name="power_center_ontime_shutdown">Desligamento programado</string>
     <string name="power_center_optimize_title">Sugestões</string>
     <string name="power_center_power_save_summary_text">Aumente o tempo restante em até %1$d h e %2$d min</string>
     <string name="power_center_power_save_title_text">Economia de bateria</string>
@@ -4182,8 +4186,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_surface_temp_low">Gelada</string>
     <string name="power_center_surface_temp_lower">Fria</string>
     <string name="power_center_surface_temp_normal">"Normal"</string>
-    <string name="power_center_time_to_boot">Horário para ligar</string>
-    <string name="power_center_time_to_shutdown">Horário para desligar</string>
+    <string name="power_center_time_to_boot">Hora</string>
+    <string name="power_center_time_to_shutdown">Hora</string>
     <string name="power_center_title">Bateria</string>
     <string name="power_center_unoffical_battery_button">Encontre uma assistência técnica autorizada</string>
     <string name="power_center_unoffical_battery_dialog">Aviso de bateria não autorizada</string>
@@ -6601,6 +6605,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="pc_batery_protection">Proteção da bateria</string>
     <string name="pc_battery_charge_protect">Proteção de carregamento</string>
     <string name="pc_battery_chart_loading">Aguarde…</string>
+    <string name="pc_battery_date_year_month_format">"MMM 'de' yyyy"</string>
     <string name="pc_battery_detail_curve_reference_now">Agora</string>
     <string name="pc_battery_detail_device_item_title">Estatísticas de uso da bateria</string>
     <string name="pc_battery_history_battery_detail_menu_item">Detalhes</string>
@@ -6623,7 +6628,11 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="pc_charged_auto_close_summary">Desligue quando a bateria estiver %1$s ou totalmente carregada</string>
     <string name="pc_charged_auto_close_title">Desligar quando carregado</string>
     <string name="pc_current_power_mode">Modo atual</string>
+    <string name="pc_cycle_count_protect_title">Ciclos</string>
     <string name="pc_have_no_battery_issue">Sem problemas</string>
+    <string name="pc_health_charge_protect_notification_summary">Ative a Proteção da bateria para reduzir o envelhecimento da bateria</string>
+    <string name="pc_health_charge_protect_summary">Para prolongar a vida útil da bateria, o dispositivo irá parar de carregar quando o nível da bateria atingir %1$s</string>
+    <string name="pc_health_charge_protect_title">Proteção da bateria</string>
     <string name="pc_hide_more_power_rank_apps">Ocultar</string>
     <string name="pc_more_battery_feature">Recursos adicionais</string>
     <string name="pc_more_power_rank_apps">Mais apps</string>
@@ -6634,6 +6643,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="pc_power_consume_check">Verificação da bateria</string>
     <string name="pc_power_consume_check_ing">Verificando…</string>
     <string name="pc_power_save_settings_new">Configurações da Economia de bateria</string>
+    <string name="pc_production_date_protect_title">Data de fabricação</string>
     <string name="pc_save_charge">Carregando</string>
     <string name="pc_save_other_setting">Outros ajustes</string>
     <string name="pc_save_power">Economia de bateria</string>

@@ -138,6 +138,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="collect_content">Conteúdo coletado</string>
     <string name="collect_situation">Status da coleta</string>
     <string name="collected">Coletado</string>
+    <string name="compatibility32Bit_mode_toast">"Não é possível transferir itens. Altere suas seleções e tente novamente."</string>
     <string name="connect_icloud_fail">"Não foi possível conectar ao iCloud"</string>
     <string name="connect_icloud_fail_tips">Certifique-se de que sua conta do iCloud foi ativada. Caso contrário, acesse icloud.com e siga as instruções para ativar sua conta.</string>
     <string name="connect_wifi">Conectar ao Wi-Fi</string>
@@ -576,6 +577,7 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="old_task_cleared">As tarefas antigas foram removidas com sucesso</string>
     <string name="old_wait_link">Selecione os itens a serem transferidos no antigo dispositvo</string>
     <string name="old_wait_link_extra">Toque \"Transferir\"</string>
+    <string name="open_compatibility_mode">Ativar</string>
     <string name="open_photo_and_contacts_cloud_sync_complete">Iniciar</string>
     <string name="open_photo_and_contacts_cloud_sync_content1">%d. Ative a sincronização para contatos e itens da Galeria.</string>
     <string name="open_photo_and_contacts_cloud_sync_content2">%d. Toque em \"Sincronizar agora\".</string>
@@ -774,6 +776,7 @@ Libere pelo menos %s."</string>
     <string name="size_mega_byte">"MB"</string>
     <string name="size_peta_byte">"PB"</string>
     <string name="size_tera_byte">"TB"</string>
+    <string name="skip_compatibility_mode">Agora não</string>
     <string name="skip_transfer">Pular</string>
     <string name="skip_underline">Pular esta etapa</string>
     <string name="sms">"SMS"</string>
@@ -805,6 +808,7 @@ Libere pelo menos %s."</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="ssid_name">Nome do Wi-Fi/SSID</string>
+    <string name="subtitle_compatibility_mode">"Os apps a seguir não são compatíveis com a arquitetura %d bits. Ative o Modo de compatibilidade de apps para poder transferi-los."</string>
     <string name="succ_description">Concluído</string>
     <string name="summary_open_wlan">O Mi Mover precisa desta permissão para garantir a estabilidade do processo de transferência.</string>
     <string name="summary_request_alert_window_prem">O Mi Mover precisa desta permissão para garantir a estabilidade do processo de transferência.</string>
@@ -892,6 +896,7 @@ Libere pelo menos %s."</string>
     <string name="tips_secret_note">notas</string>
     <string name="tips_secret_title">"%d. Alguns itens privados não podem ser transferidos."</string>
     <string name="tips_subtitle">Leia e confirme os seguintes lembretes antes de continuar.</string>
+    <string name="title_compatibility_mode">Ative o Modo de compatibilidade de apps</string>
     <string name="title_open_wlan">Ativar Wi-Fi</string>
     <string name="title_request_alert_window_perm">Permitir janelas flutuantes</string>
     <string name="title_request_manage_external_storage_perm">Permissões necessárias</string>
@@ -905,11 +910,12 @@ Libere pelo menos %s."</string>
     <string name="trans_apple_button_cancel_negative">"Não cancelar"</string>
     <string name="trans_apple_button_cancel_positive">Cancelar transferência</string>
     <string name="trans_apple_button_reconnect">Conecte-se novamente</string>
-    <string name="trans_apple_hint">"Não saia desta página nem use o Wi-Fi até que a transferência seja concluída."</string>
+    <string name="trans_apple_hint">"Não saia desta página e nem use o Wi-Fi até que a transferência seja concluída."</string>
     <string name="trans_apple_hint_1_content">"Baixe o Mi Mover da App Store ou digitalize este código QR com o app da câmera do seu iPhone."</string>
     <string name="trans_apple_hint_1_title">%d. Instale o Mi Mover</string>
     <string name="trans_apple_hint_2_content">Abra o Mi Mover no seu iPhone, toque em \"Toque para enviar itens \" e digitalize o código QR.</string>
     <string name="trans_apple_hint_2_title">%d. Conecte dispositivos</string>
+    <string name="trans_apple_hint_china">"Não saia desta página e nem use o Wi-Fi até que a transferência seja concluída."</string>
     <string name="trans_apple_interrupt_sub">Toque abaixo para se conectar novamente.</string>
     <string name="trans_apple_interrupt_title">Transferência foi interrompida</string>
     <string name="trans_detail_item_app_data_skip_data">"Não é possível transferir os dados do app"</string>
