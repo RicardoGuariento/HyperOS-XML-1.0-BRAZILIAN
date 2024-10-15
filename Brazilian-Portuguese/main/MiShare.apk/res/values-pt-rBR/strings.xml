@@ -46,6 +46,13 @@
     <string name="btn_cancel_send">Cancelar esta transferência</string>
     <string name="btn_exit_send">Sair</string>
     <string name="btn_sure">"OK"</string>
+    <string name="call_notification_answer_action">Atender</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Recusar</string>
+    <string name="call_notification_hang_up_action">Desligar</string>
+    <string name="call_notification_incoming_text">Chamada recebida</string>
+    <string name="call_notification_ongoing_text">Chamada em andamento</string>
+    <string name="call_notification_screening_text">Filtrando uma ligação recebida</string>
     <string name="can_not_transfer_when_screening">"Não é possível transmitir durante transferências"</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_current">CANCELAR TRANSFERÊNCIA</string>
@@ -86,6 +93,11 @@
     <string name="enable_midrop">Ativar</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
+    <string name="err_send_short_connect_error">"Não foi possível conectar"</string>
+    <string name="err_send_short_remote_busy">Ocupado</string>
+    <string name="err_send_short_remote_cancel">Cancelado</string>
+    <string name="err_send_short_remote_refuse">Rejeitado</string>
+    <string name="err_send_short_remote_timeout">Sem resposta</string>
     <string name="error_ap_in_use">"Não é possível enviar arquivos para outros dispositivos quando o hotspot está ativado"</string>
     <string name="error_ap_or_screen_already_hosting">"Não é possível enviar itens a outros dispositivos enquanto transmite a tela ou usa o hotspot portátil."</string>
     <string name="error_ble_connect_failure">"O dispositivo receptor não pôde se conectar ao Bluetooth. Certifique-se de que sua tela esteja ligada."</string>
@@ -110,7 +122,7 @@
     <string name="error_receive_user_cancel">Transferência cancelada</string>
     <string name="error_receive_user_interrupted">A outra pessoa cancelou a transferência</string>
     <string name="error_refuse_receive">Transferência cancelada</string>
-    <string name="error_remote_ap_working">Peça à outra pessoa para desativar o hotspot portátil</string>
+    <string name="error_remote_ap_working">Peça que a outra pessoa desative o hotspot portátil</string>
     <string name="error_remote_busy">Parece que o outro dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="error_remote_mirror_working">"O outro dispositivo não pode aceitar itens enquanto estiver compartilhando a tela"</string>
     <string name="error_self_busy">O dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
@@ -120,8 +132,8 @@
     <string name="error_send_file_service_disabled">Envio de transferência cancelada</string>
     <string name="error_send_transfer_error">"Não foi possível enviar itens. Aguarde um momento e tente novamente."</string>
     <string name="error_send_transfer_pc_error">Tempo esgotado para a transferência. Atualize o Xiaomi PC Manager para a versão mais recente e tente novamente.</string>
-    <string name="error_slave_wifi_in_use">"O Xiaomi Share não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente."</string>
-    <string name="error_slave_wifi_in_use_china">"O Xiaomi Share não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente."</string>
+    <string name="error_slave_wifi_in_use">"O Xiaomi Share não funcionará quando o dual Wi-Fi estiver ativado. Desative o dual Wi-Fi nas Configurações e tente novamente."</string>
+    <string name="error_slave_wifi_in_use_china">"O Xiaomi Share não funcionará quando o dual Wi-Fi estiver ativado. Desative o dual Wi-Fi nas Configurações e tente novamente."</string>
     <string name="error_timeout">Tempo limite da sessão. Aguarde um momento tente novamente.</string>
     <string name="error_user_refuse">"Não é possível enviar. A transferência foi rejeitada."</string>
     <string name="error_wifi_display_in_use">"Não é possível enviar arquivos para outros dispositivos durante uma transmissão"</string>
@@ -177,13 +189,16 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="functions_are_being_developed">Este recurso estará disponível em breve. Fique ligado!</string>
+    <string name="global_help">"Não é possível localizar o dispositivo"</string>
     <string name="global_pad">Meu tablet</string>
     <string name="global_pc">Meu laptop</string>
     <string name="global_phone">Meu telefone</string>
     <string name="go_to_settings">Configurações</string>
     <string name="guide_summary_1">A outra pessoa pode tocar no seletor na Área de notificações</string>
+    <string name="guide_summary_1_lyra">Você pode ativar o Xiaomi Share no centro de controle</string>
     <string name="guide_summary_2">"Selecione o dispositivo que você deseja enviar os arquivos e toque no seu ícone"</string>
     <string name="guide_title_1">Ative o Xiaomi Share nos dois dispositivos</string>
+    <string name="guide_title_1_lyra">Ative o Xiaomi Share para receber arquivos</string>
     <string name="guide_title_2">Selecione o dispositivo para compartilhar</string>
     <string name="help">"Não consegue encontrar dispositivos?"</string>
     <string name="help_content">"Caso não encontre o dispositivo que está procurando, peça que a outra pessoa ative o Xiaomi Share."</string>
@@ -384,7 +399,7 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="scanning_device_tips">Procurando dispositivos próximos… Certifique-se de que o outro dispositivo esteja no modo detectável.</string>
+    <string name="scanning_device_tips"><Data>Procurando dispositivos próximos. A outra pessoa precisa ativar o Xiaomi Share no centro de controle. &lt;a>Saiba mais&lt;/a></Data></string>
     <string name="scanning_only_xiaomi_device">Este item só pode ser transferido para dispositivos Xiaomi ou Black Shark</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="seize_content">Pare de compartilhar sua tela para poder transferir itens. Parar de compartilhar agora?</string>
@@ -437,13 +452,16 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="some_files_receive_completed">"Veja os arquivos que você já recebeu em %1$s."</string>
     <string name="somepc_send_much_file_to_you_files">%1$s está enviando mais de 200 arquivos para você…</string>
-    <string name="somepc_send_muchfile_files">%1$s está enviando mais de 200 arquivos para você…</string>
+    <string name="somepc_send_muchfile_files">%1$s está enviando mais de %2$d arquivos para você…</string>
     <string name="start_advertise">INICIAR ANÚNCIO</string>
     <string name="start_receive_much_files_from_pc">Recebendo mais de 200 arquivos de %1$s…</string>
     <string name="start_scan">INICIAR VERIFICAÇÃO</string>
     <string name="stop_advertise">PARAR ANÚNCIO</string>
     <string name="stop_scan">PARAR VERIFICAÇÃO</string>
     <string name="sub_title_mishare_switch">Este recurso será desativado automaticamente após %d minutos</string>
+    <string name="sub_title_mishare_switch_all">Você pode receber todos os arquivos</string>
+    <string name="sub_title_mishare_switch_mine">Você pode receber arquivos de dispositivos conectados à sua conta</string>
+    <string name="sub_title_mishare_switch_none">Ative o Xiaomi Share para receber arquivos</string>
     <string name="sub_title_turbo_mode">Transferências super rápidas entre telefones e tablets Xiaomi. A rede será desconectada durante a transferência.</string>
     <string name="sub_title_withdraw_privacy_policy_consent">Retirar o consentimento à Política de Privacidade também desativará o Xiaomi Share</string>
     <string name="success_receive_much_file_from_pc">Recebido mais de 200 arquivos de %1$s. Toque para visualizar.</string>
@@ -451,6 +469,9 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="support_device_type">Dispositivos suportados</string>
+    <string name="switch_mode_all">De qualquer pessoa (por %dm)</string>
+    <string name="switch_mode_close">Desativado</string>
+    <string name="switch_mode_sameaccount">Desta conta</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>
@@ -507,10 +528,14 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="tips_prompt_enable_midrop">"Xiaomi Share"</string>
     <string name="to_feedback">Reportar</string>
     <string name="toast_auto_close_in_minutes">O Xiaomi Share será desativado automaticamente após %d minutos</string>
+    <string name="toast_or_desc_advert_all_close">Xiaomi Share desativado</string>
+    <string name="toast_or_desc_advert_all_open">O Xiaomi Share está ativado por %d minutos</string>
     <string name="toast_transfering">Transferindo itens. Tente mais tarde.</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="transfer_intercept_to_remote">"Não foi possível enviar: %1$s"</string>
+    <string name="transfer_to_different_account_summary">Certifique-se de que o Xiaomi Share está ativado no centro de controle primeiro. O seu dispositivo será detectável por outros por %d minutos.</string>
+    <string name="transfer_to_different_account_title">Descobrindo dispositivos em contas diferentes</string>
     <string name="transfer_to_pc_summary">"A versão mais recente do software AIoT instalado em Notebooks Mi é compatível com o Xiaomi Share. Você pode verificar a lista de modelos de notebook compatíveis no site do HyperOS. Se o seu notebook estiver na lista, mas o AIoT não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o AIoT."</string>
     <string name="transfer_to_pc_summary_new"><Data>"A versão mais recente do MIUI+ instalada em Notebooks Mi é compatível com o Xiaomi Share. Você pode verificar a lista de modelos de laptop suportados no site MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu notebook estiver na lista, mas o MIUI+ não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o MIUI+."</Data></string>
     <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager agora suporta o Xiaomi Share! Você pode encontrar uma lista de modelos de computadores compatíveis &lt;a href=%1$s>aqui&lt;/a>.</Data></string>
@@ -518,6 +543,8 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="transfer_to_phone_summary">"Ative o Xiaomi Share usando o atalho na Área de notificações. Depois disso, você poderá ver os dispositivos próximos quando começar a compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando."</string>
     <string name="transfer_to_phone_summary_new">Ative o Xiaomi Share no centro de controle para poder enviar e receber itens com facilidade. Depois de ativá-lo, você pode compartilhar itens com dispositivos próximos por %d minutos antes que ele seja desativado automaticamente.</string>
     <string name="transfer_to_phone_title">Enviar arquivos a telefones</string>
+    <string name="transfer_to_same_account_summary">Dispositivos na mesma conta são facilmente detectáveis. Certifique-se de que o Xiaomi Share está ativado nas Configurações.</string>
+    <string name="transfer_to_same_account_title">Descobrindo dispositivos na mesma conta</string>
     <string name="transfer_to_summary">"Ative o Xiaomi Share usando o atalho na Área de notificações. Depois disso, você poderá ver os dispositivos próximos quando começar a compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando."</string>
     <string name="transfer_to_summary_new">Ative o Xiaomi Share no centro de controle para poder enviar e receber itens com facilidade. Depois de ativá-lo, você pode compartilhar itens com dispositivos próximos por %d minutos antes que ele seja desativado automaticamente.</string>
     <string name="transfer_to_title">Envie arquivos para dispositivos móveis</string>
@@ -528,8 +555,8 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="unrecognized_manufacture">Desconhecido</string>
     <string name="unrecognized_model">Dispositivo desconhecido</string>
     <string name="user_instructions">Atenção!</string>
-    <string name="uwb_guide_summary_1">"Caso não consiga encontrar o dispositivo de destino, peça à outra pessoa para ativar o Xiaomi Share no centro de controle."</string>
-    <string name="uwb_guide_title_1">Peça à outra pessoa para ativar o Xiaomi Share</string>
+    <string name="uwb_guide_summary_1">"Caso não consiga encontrar o dispositivo de destino, peça que a outra pessoa ative o Xiaomi Share no centro de controle."</string>
+    <string name="uwb_guide_title_1">Peça que a outra pessoa ative o Xiaomi Share</string>
     <string name="uwb_guide_title_2">Encontre o dispositivo de destino mais rápido com o Compartilhamento</string>
     <string name="uwb_setting_guide">Saiba mais</string>
     <string name="uwb_setting_guide_summary">O Compartilhamento usa a tecnologia UWB para reconhecer dispositivos sem fio. Assim que o dispositivo for reconhecido, seu ícone aparecerá em primeiro plano.</string>

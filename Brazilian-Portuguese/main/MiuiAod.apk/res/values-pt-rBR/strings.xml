@@ -4,7 +4,7 @@
     <string name="UVI_level_1">Moderado</string>
     <string name="UVI_level_2">Forte</string>
     <string name="UVI_level_3">Muito forte</string>
-    <string name="UVI_level_4">Forte</string>
+    <string name="UVI_level_4">Severo</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
@@ -191,12 +191,12 @@ dd/MM"</string>
     <string name="format_full_day_of_week">"EEEE"</string>
     <string name="format_full_month_of_year">"MMMM"</string>
     <string name="format_lunar_calendar_month_day_desc">Data de acordo com o Calendário Tradicional Chinês: %s</string>
-    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, data de acordo com o Calendário Tradicional Chinês: %3$s, feriado: %4$s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s de %2$s, data de acordo com o Calendário Tradicional Chinês: %3$s, feriado: %4$s</string>
     <string name="format_month_day_style1">d/MMM</string>
     <string name="format_month_day_style2">d/M</string>
     <string name="format_month_day_week">EEE, dd/MMM</string>
-    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, data de acordo com o Calendário Tradicional Chinês: %4$s</string>
-    <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, feriado: %4$s</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s de %2$s, %3$s, data de acordo com o Calendário Tradicional Chinês: %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s de %2$s, %3$s, feriado: %4$s</string>
     <string name="format_solar_lunar_calendar_month_day_desc">Feriado: %1$s, data de acordo com o Calendário Tradicional Chinês: %2$s</string>
     <string name="format_week_day_style1">"EE d"</string>
     <string name="format_week_day_style1_desc">%1$s, dia do mês: %2$s</string>
@@ -228,7 +228,7 @@ dd/MM"</string>
     <string name="kg_classic_item_air_pressure">Pressão</string>
     <string name="kg_classic_item_air_quality">Qualidade do ar</string>
     <string name="kg_classic_item_calorie">Calorias</string>
-    <string name="kg_classic_item_chinese_clock">chinês</string>
+    <string name="kg_classic_item_chinese_clock">Clássico</string>
     <string name="kg_classic_item_chinese_hour">Horas (chinês)</string>
     <string name="kg_classic_item_chinese_min">Minutos (chinês)</string>
     <string name="kg_classic_item_date">Data</string>
@@ -244,9 +244,9 @@ dd/MM"</string>
     <string name="kg_classic_item_number_min">Minutos (digital)</string>
     <string name="kg_classic_item_operator">Operadora</string>
     <string name="kg_classic_item_rainfall_probability">Precipitação</string>
-    <string name="kg_classic_item_sleep">Dormir</string>
+    <string name="kg_classic_item_sleep">Sono</string>
     <string name="kg_classic_item_somatosensory">Sensação térmica</string>
-    <string name="kg_classic_item_stand">De pé</string>
+    <string name="kg_classic_item_stand">Em pé</string>
     <string name="kg_classic_item_step_number">Passos</string>
     <string name="kg_classic_item_sunrise_or_sunset">Nascer e pôr do sol</string>
     <string name="kg_classic_item_temperature">Temperatura</string>
@@ -263,9 +263,9 @@ dd/MM"</string>
     <string name="kg_classic_secondary_color_label">Cor secundária</string>
     <string name="kg_classic_signature_area_hint">Toque para inserir a assinatura</string>
     <string name="kg_classic_signature_label">Assinatura</string>
-    <string name="kg_color_editor_high_text_contrast_tips">"Não é possível alterar a cor do texto ao usar texto de alto contraste"</string>
+    <string name="kg_color_editor_high_text_contrast_tips">"Não é possível alterar a cor do texto ao usar texto em alto contraste"</string>
     <string name="kg_color_value_editor_hue">Matiz</string>
-    <string name="kg_color_value_editor_lightness">Leveza</string>
+    <string name="kg_color_value_editor_lightness">Brilho</string>
     <string name="kg_color_value_editor_saturation">Saturação</string>
     <string name="kg_color_value_editor_title">Editar cor</string>
     <string name="kg_confirm">"OK"</string>
@@ -282,7 +282,7 @@ dd/MM"</string>
     <string name="kg_doodle_secondary_disable_tip">Ative o efeito de profundidade</string>
     <string name="kg_doodle_secondary_label">Fundo</string>
     <string name="kg_edit_cancel_dialog_content">Descartar todas as alterações agora?</string>
-    <string name="kg_edit_cancel_dialog_title">Descartar mudanças?</string>
+    <string name="kg_edit_cancel_dialog_title">Descartar alterações?</string>
     <string name="kg_effects_tip_button">Entendi</string>
     <string name="kg_effects_tip_desc">"O efeito de profundidade de campo não pode ser combinado com filtros. Usar um deles substituirá o outro."</string>
     <string name="kg_effects_tip_not_support">"Não é possível aplicar efeitos a planos de fundo dinâmicos"</string>
@@ -297,13 +297,13 @@ dd/MM"</string>
     <string name="kg_function_button_text_wallpaper">Plano de fundo</string>
     <string name="kg_glass_filter_on_time">Aplicar ao relógio</string>
     <string name="kg_guidance_dialog_positive_button_text_next_step">Próximo</string>
-    <string name="kg_guidance_dialog_positive_button_text_start">Começar</string>
+    <string name="kg_guidance_dialog_positive_button_text_start">Iniciar</string>
     <string name="kg_guidance_dialog_tip_browse_more">Deslize para cima para alternar entre os modelos. Deslize horizontalmente para ver mais opções de personalização.</string>
     <string name="kg_guidance_dialog_tip_customize">Personalize sua Tela de bloqueio para torná-la verdadeiramente sua.</string>
     <string name="kg_guidance_dialog_title">Nova Tela de bloqueio personalizada</string>
     <string name="kg_hierarchy_loading_tip">Detectando camadas…</string>
     <string name="kg_hierarchy_not_support_avoid_tip">Ajuste a posição do plano de fundo para tornar o efeito de profundidade visível</string>
-    <string name="kg_hierarchy_not_support_gallery_tip">"Não é possível aplicar efeitos de profundidade aos itens da Apresentação de slides"</string>
+    <string name="kg_hierarchy_not_support_gallery_tip">"Não é possível aplicar efeitos de profundidade em apresentação de slides"</string>
     <string name="kg_hierarchy_not_support_third_party_wallpaper_service_tip">"Planos de fundo de terceiros não suportam efeitos de profundidade"</string>
     <string name="kg_hierarchy_not_support_wallpaper_tip">"Este plano de fundo não suporta efeito de profundidade"</string>
     <string name="kg_magazine_a_b_primary_color_label">Relógio</string>
@@ -312,7 +312,7 @@ dd/MM"</string>
     <string name="kg_magazine_c_secondary_color_label">Minutos</string>
     <string name="kg_main_add_template_forbidden_toast">"Não é possível adicionar mais telas de bloqueio. Você pode excluir alguns deles para adicionar novos."</string>
     <string name="kg_main_dual_clock_close_ask_dialog_desc">"Novos relógios não podem ser exibidos quando o Relógio duplo está ativado. Desativar o Relógio duplo agora?"</string>
-    <string name="kg_main_dual_clock_close_ask_dialog_negative_button">Continuar</string>
+    <string name="kg_main_dual_clock_close_ask_dialog_negative_button">Manter ativado</string>
     <string name="kg_main_dual_clock_close_ask_dialog_positive_button">Desativar</string>
     <string name="kg_main_dual_clock_close_ask_dialog_title">Relógio duplo</string>
     <string name="kg_main_item_delete_button_text">Excluir</string>
@@ -326,8 +326,8 @@ dd/MM"</string>
     <string name="kg_smart_frame_secondary_label">Fundo</string>
     <string name="kg_template_description_classic">"O que é clássico nunca sai de moda."</string>
     <string name="kg_template_description_magazine">Transforme sua Tela de bloqueio em uma capa de revista.</string>
-    <string name="kg_template_description_rhombus">O tempo é importante. Faça valer a pena.</string>
-    <string name="kg_template_preview_content_description">Visualização da Tela de bloqueio</string>
+    <string name="kg_template_description_rhombus">O tempo é importante. Faça-o valer a pena.</string>
+    <string name="kg_template_preview_content_description">Prévia da Tela de bloqueio</string>
     <string name="kg_template_title_classic">Clássico</string>
     <string name="kg_template_title_magazine">Revista</string>
     <string name="kg_template_title_mine">Tela de bloqueio</string>
@@ -337,7 +337,7 @@ dd/MM"</string>
     <string name="large_time">Relógio grande</string>
     <string name="letter_space">Espaçamento de letras</string>
     <string name="line_space">Espaçamento de linhas</string>
-    <string name="linkage_select_title">Animar transição para a Tela de bloqueio</string>
+    <string name="linkage_select_title">Animar transição da Tela de bloqueio</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_24h_suffix">%1$s horas</string>
     <string name="material_hour_selection">Selecione a hora</string>
@@ -370,12 +370,12 @@ d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 d/M"</string>
     <string name="miui_magazine_c_clock_style1_week">"EEEE"</string>
-    <string name="miui_magazine_c_clock_style2_date">EE d/M</string>
+    <string name="miui_magazine_c_clock_style2_date">EE, d/M</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd/MMM</string>
     <string name="miui_magazine_clock_date">d/M</string>
     <string name="miui_magazine_clock_date_content_description">dd/MM</string>
     <string name="miui_magazine_clock_week">"EEE"</string>
-    <string name="miui_rhombus_clock_date">dd MMMM</string>
+    <string name="miui_rhombus_clock_date">"dd 'de' MMMM"</string>
     <string name="miui_rhombus_clock_week">"EEE"</string>
     <string name="miui_rhombus_clock_week_full">"EEEE"</string>
     <string name="miui_smart_frame_clock_date">d/M</string>
@@ -492,7 +492,7 @@ mm"</string>
     <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_today_description">Hoje %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a visualização de Calendário</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a visualização de agenda</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
     <string name="mtrl_timepicker_cancel">Cancelar</string>
@@ -585,7 +585,7 @@ mm"</string>
     <string name="somatosensory_temperature_format">Sensação de %s°</string>
     <string name="standard_clock_panel">Padrão</string>
     <string name="standard_style">Padrão</string>
-    <string name="step_component_info_active_tip">A contagem de passos é fornecida pelo Mi Saúde. Concorde com os termos e condições do Mi Saúde para continuar.</string>
+    <string name="step_component_info_active_tip">A contagem de passos é fornecida pelo Mi Saúde. Concorde com os seus termos e condições para continuar.</string>
     <string name="step_component_info_desc">A contagem dos passos se transformará em um troféu quando seu objetivo for alcançado. A contagem de passos é fornecida pelo Mi Saúde.</string>
     <string name="step_component_info_tip">A contagem de passos é fornecida pelo Mi Saúde. Instale ou atualize o Mi Saúde e concorde com os seus termos e condições para continuar.</string>
     <string name="step_to_image_community">Encontre mais na Xiaomi Community</string>
@@ -667,7 +667,7 @@ dd/MM"</string>
     <string name="tiny_classic_date_format">d/M EEE</string>
     <string name="tiny_clock_time_format_12">hh:mm</string>
     <string name="tiny_clock_time_format_24">HH:mm</string>
-    <string name="tiny_doodle_clock_date">dd MMMM</string>
+    <string name="tiny_doodle_clock_date">"dd 'de' MMMM"</string>
     <string name="tiny_doodle_clock_week_full">EEEE</string>
     <string name="tiny_pets_date_format">d/M</string>
     <string name="tiny_pets_week_format">EE</string>
@@ -682,7 +682,7 @@ dd/MM"</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="ultraviolet_rays_abbreviation">IUV</string>
     <string name="uvi_format">IUV: %1$s %2$s</string>
-    <string name="uvi_format_desc">Índice ultravioleta: %1$s, %2$s</string>
+    <string name="uvi_format_desc">Índice de raios UV: %1$s, %2$s</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="weather_no_data">Não há dados meteorológicos</string>

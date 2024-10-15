@@ -30,8 +30,8 @@
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="file_received_successfully">
-        <item quantity="other">Recebidos %2$d arquivos de %1$s com sucesso</item>
-        <item quantity="one">Recebido %2$d arquivo de %1$s com sucesso</item>
+        <item quantity="other">%2$d arquivos recebidos de %1$s com sucesso</item>
+        <item quantity="one">%2$d arquivo recebido de %1$s com sucesso</item>
     </plurals>
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d arquivos</item>
@@ -41,8 +41,8 @@
         <item quantity="other">Meia hora atrás</item>
     </plurals>
     <plurals name="image_received_successfully">
-        <item quantity="other">Recebidas %2$d imagens de %1$s com sucesso</item>
-        <item quantity="one">Recebida %2$d imagem de %1$s com sucesso</item>
+        <item quantity="other">%2$d imagens recebidas de %1$s com sucesso</item>
+        <item quantity="one">%2$d imagem recebida de %1$s com sucesso</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
@@ -221,19 +221,19 @@
         <item quantity="one">Enviando %2$d imagem para %1$s…</item>
     </plurals>
     <plurals name="success_receive_file_files">
-        <item quantity="other">Recebidos %2$d arquivos de %1$s. Toque para ver.</item>
-        <item quantity="one">Recebido %2$d arquivo de %1$s. Toque para ver.</item>
+        <item quantity="other">%2$d arquivos recebidos de %1$s. Toque para ver.</item>
+        <item quantity="one">%2$d arquivo recebido de %1$s. Toque para ver.</item>
     </plurals>
     <plurals name="success_receive_file_images">
-        <item quantity="other">Recebidas %2$d imagens de %1$s. Toque para ver.</item>
-        <item quantity="one">Recebida %2$d imagem de %1$s. Toque para ver.</item>
+        <item quantity="other">%2$d imagens recebidas de %1$s. Toque para ver.</item>
+        <item quantity="one">%2$d imagem recebida de %1$s. Toque para ver.</item>
     </plurals>
     <plurals name="successfully_sent_files">
-        <item quantity="other">Enviados %2$d arquivos para %1$s com sucesso</item>
-        <item quantity="one">Enviado %2$d arquivo para %1$s com sucesso</item>
+        <item quantity="other">%2$d arquivos enviados para %1$s com sucesso</item>
+        <item quantity="one">%2$d arquivo enviado para %1$s com sucesso</item>
     </plurals>
     <plurals name="successfully_sent_images">
-        <item quantity="other">Enviadas %2$d imagens para %1$s com sucesso</item>
-        <item quantity="one">Enviada %2$d imagem para %1$s com sucesso</item>
+        <item quantity="other">%2$d imagens enviadas para %1$s com sucesso</item>
+        <item quantity="one">%2$d imagem enviada para %1$s com sucesso</item>
     </plurals>
 </resources>

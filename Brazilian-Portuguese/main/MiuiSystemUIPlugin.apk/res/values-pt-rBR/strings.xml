@@ -62,6 +62,7 @@
     <string name="auto_brightness_on">Brilho automático ativado</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desativados, toque duas vezes em qualquer botão para reativá-los.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação ativados</string>
+    <string name="brightness_setting_panel_title">Painel de configurações de brilho</string>
     <string name="bootloader">"Fastboot"</string>
     <string name="bt_is_off">Bluetooth desativado</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
@@ -89,7 +90,7 @@
     <string name="controls_dismiss_dialog_confirm">Configurações</string>
     <string name="controls_dismiss_dialog_confirm_international">Excluir</string>
     <string name="controls_dismiss_dialog_message">Gerencie dispositivos de casa inteligente de vários apps no centro de controle</string>
-    <string name="controls_dismiss_dialog_message_international">"Remover o cartão \"Casa inteligente\" agora? É possível restaurá-lo em Configurações > Notificações e Centro de controle."</string>
+    <string name="controls_dismiss_dialog_message_international">"Remover o cartão \"Casa inteligente\" agora? É possível restaurá-lo em Configurações > Notificações e centro de controle."</string>
     <string name="controls_dismiss_dialog_title">Dispositivos de casa inteligente</string>
     <string name="controls_dismiss_dialog_title_international">Remover cartão</string>
     <string name="controls_edit_add_device_guide">Nenhum dispositivo disponível para adicionar</string>
@@ -399,7 +400,8 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="no_avaliable_application">Nenhum app disponível</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
-    <string name="notification_control_center">Notificações e Centro de controle</string>
+    <string name="notification_control_center">Notificações e centro de controle</string>
+    <string name="notification_status_bar">Notificações e barra de status</string>
     <string name="offline">"Offline"</string>
     <string name="online">"Online"</string>
     <string name="open_system_optimization">Ative a otimização do sistema primeiro</string>
@@ -433,6 +435,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="quick_controls_title">Controles do dispositivo</string>
     <string name="quick_settings_aisubtitles_label">Legendas inteligentes</string>
     <string name="quick_settings_aitranslate_label">Tradução Mi AI</string>
+    <string name="quick_settings_aitranslate_label_new">Traduzir</string>
     <string name="quick_settings_autobrightness_label">Brilho automático</string>
     <string name="quick_settings_batterysaver_label">Economia de bateria</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Nenhum dispositivo emparelhado disponível</string>
@@ -479,6 +482,7 @@ Usuários de fones de ouvido de outras marcas: redefina seus fones de ouvido nas
     <string name="quick_settings_uwbsh_label">"Xiaomi Magic Control"</string>
     <string name="quick_settings_vibrate_label">Vibrar</string>
     <string name="quick_settings_voice_trans_label">Interpretar áudio</string>
+    <string name="quick_settings_voice_trans_label_new">Interpretar</string>
     <string name="quick_settings_vowifi_label">Chamada Wi-Fi</string>
     <string name="quick_settings_vowifi_sim1_label">Chamada Wi-Fi SIM 1</string>
     <string name="quick_settings_vowifi_sim2_label">Chamada Wi-Fi SIM 2</string>
@@ -602,6 +606,7 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
+    <string name="volume_adjust_panel_title">Painel de ajuste do volume</string>
     <string name="volume_dialog_accessibility_dismissed_message">Controle de volume oculto</string>
     <string name="volume_dialog_accessibility_shown_message">Controle de volume para %s exibido. Deslize para cima para dispensar.</string>
     <string name="wednesday">Quarta</string>

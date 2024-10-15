@@ -4,7 +4,7 @@
     <string name="UVI_level_1">Moderado</string>
     <string name="UVI_level_2">Forte</string>
     <string name="UVI_level_3">Muito forte</string>
-    <string name="UVI_level_4">Forte</string>
+    <string name="UVI_level_4">Severo</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
@@ -459,12 +459,12 @@
     <string name="format_day_week_desc">Dia do mês: %1$s, %2$s</string>
     <string name="format_full_day_of_week">"EEEE"</string>
     <string name="format_full_month_of_year">"MMMM"</string>																			 
-    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, data de acordo com o Calendário Tradicional Chinês: %3$s, feriado: %4$s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s de %2$s, data de acordo com o Calendário Tradicional Chinês: %3$s, feriado: %4$s</string>
     <string name="format_month_day_style1">dd/MMM</string>
     <string name="format_month_day_style2">d/M</string>
     <string name="format_month_day_week">EEE, dd/MMM</string>
-    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, data de acordo com o Calendário Tradicional Chinês: %4$s</string>
-    <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, feriado: %4$s</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s de %2$s, %3$s, data de acordo com o Calendário Tradicional Chinês: %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s de %2$s, %3$s, feriado: %4$s</string>
     <string name="format_solar_lunar_calendar_month_day_desc">Feriado: %1$s, data de acordo com o Calendário Tradicional Chinês: %2$s</string>
     <string name="format_week_day_style1">"EE d"</string>
     <string name="format_week_day_style1_desc">%1$s, dia do mês: %2$s</string>
