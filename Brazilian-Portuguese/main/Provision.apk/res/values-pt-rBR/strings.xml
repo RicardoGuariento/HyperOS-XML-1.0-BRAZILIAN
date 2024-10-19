@@ -76,7 +76,7 @@
     <string name="carousel_cookies_content"><Data>Ao tocar em imagens e histórias no Carrossel de planos de fundo, suas versões completas serão abertas em seu navegador. Nosso provedor de conteúdo terceirizado confiável pode recomendar conteúdo e anúncios adicionais adequados aos seus interesses. Se você concordar em ativar este recurso, eles colocarão cookies em seu navegador, conforme descrito neste &lt;a href=\"%1$s\">Política de Cookies&lt;/a>. Se você recusar cookies, o Carrossel de planos de fundo ainda funcionará, mas seu conteúdo e recomendações podem deixar de ser relevantes para você. Você sempre pode alterar suas preferências nas Configurações.</Data></string>
     <string name="carousel_cookies_subtitle">Os cookies nos permitem personalizar sua experiência na Tela de bloqueio.</string>
     <string name="carousel_cookies_title">Conteúdo personalizado e cookies</string>
-    <string name="carousel_privacy"><Data>"Leia e concorde com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> dos nossos provedores de serviços terceirizados confiáveis, antes de usar o Carrossel de planos de fundo."</Data></string>
+    <string name="carousel_privacy"><Data>"Leia e aceite a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> dos nossos provedores de serviços terceirizados confiáveis, antes de usar o Carrossel de planos de fundo."</Data></string>
     <string name="carousel_setting">Configurar sua Tela de bloqueio</string>
     <string name="carousel_setting_sub">O Carrossel de planos de fundo mostrará novas histórias toda vez que você desbloquear seu dispositivo</string>
     <string name="carrier_introduction">Para lhe fornecer melhores serviços, o seu dispositivo pode enviar periodicamente informações sobre a versão do dispositivo, dados de identificação do dispositivo (incluindo o endereço IMEI/IMSI/MSISDN/MAC, MEID/ICCID) e informações aproximadas de localização (incluindo ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS grátis. A operadora se compromete a analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas, e não divulgará informações relevantes a terceiros de nenhuma forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo do uso deste serviço.</string>
@@ -566,7 +566,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="pref_title_data_slot">Cartão SIM para internet</string>
     <string name="pref_title_voice_slot">Cartão SIM para chamadas</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
-    <string name="privacy_content_one">"As recomendações do Carrossel de planos de fundo são fornecidas pela Taboola, nosso provedor de conteúdo terceirizado confiável. Para fornecer esse conteúdo, a Taboola precisa acessar e armazenar dados não pessoais do seu dispositivo, incluindo o idioma do sistema e o tipo de navegador. Você pode aprender como Taboola usa os dados coletados na &lt;a href =%1$s>Política de Privacidade&lt;/a> e &lt;a href =%2$s>Contrato do Usuário&lt;/a>. Leia e concorde com os termos e condições estabelecidas antes de continuar. Caso não concorde, os serviços do Carrossel de planos de fundo serão desativados."</string>
+    <string name="privacy_content_one">"As recomendações do Carrossel de planos de fundo são fornecidas pela Taboola, nosso provedor de conteúdo terceirizado confiável. Para fornecer esse conteúdo, a Taboola precisa acessar e armazenar dados não pessoais do seu dispositivo, incluindo o idioma do sistema e o tipo de navegador. Você pode aprender como Taboola usa os dados coletados na &lt;a href =%1$s>Política de Privacidade&lt;/a> e &lt;a href =%2$s>Contrato do Usuário&lt;/a>. Leia e aceite os termos e condições estabelecidas antes de continuar. Caso não concorde, os serviços do Carrossel de planos de fundo serão desativados."</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_provision_more">Saiba mais sobre proteção de privacidade</string>
     <string name="privacy_provision_summary">A proteção de privacidade é o compromisso por trás do design de nossos produtos</string>
@@ -611,9 +611,9 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="send">Enviar</string>
     <string name="service_agreement">"Eu li e aceito os termos e condições."</string>
     <string name="service_company_adjust_content">Contrato do Usuário de serviços de rede Xunlei</string>
-    <string name="service_fast_pairing_policy"><Data>Leia e concorde com a &lt;a href=%1$s>Política de Privacidade do Mi Link&lt;/a > antes de continuar.</Data></string>
+    <string name="service_fast_pairing_policy"><Data>Leia e aceite a &lt;a href=%1$s>Política de Privacidade do Mi Link&lt;/a > antes de continuar.</Data></string>
     <string name="service_interconnection_communication">Serviços de comunicação da internet da Xiaomi</string>
-    <string name="service_location_share_policy"><Data>Leia e concorde com a &lt;a href=%1$s>Declaração de privacidade dos serviços de localização&lt;/a > antes de continuar.</Data></string>
+    <string name="service_location_share_policy"><Data>Leia e aceite a &lt;a href=%1$s>Declaração de privacidade dos serviços de localização&lt;/a > antes de continuar.</Data></string>
     <string name="service_mi_account">Conta Mi</string>
     <string name="service_name_MIUIDaemon">HyperOS Daemon</string>
     <string name="service_name_address_dialing">Contatos e telefone</string>
@@ -713,7 +713,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="system_update_statement">Para realizar uma atualização do sistema, precisamos coletar o IMEI do dispositivo, IMSI do dispositivo, identificadores do dispositivo (OAID e ID criptografado do Android), Conta Mi, fabricante do dispositivo, modelo do dispositivo, operadora de rede, memória do dispositivo, versão do sistema operacional, região, idioma, conectividade, tipo de rede e endereço IP.</string>
     <string name="system_update_title">Atualizações do sistema</string>
     <string name="systemdesktop_introduction">O plugin de serviço da Tela inicial oferece recursos básicos, como Tela inicial, UI do Sistema e capturas de tela.</string>
-    <string name="term_condition_detail">"Obtenha imagens impressionantes e histórias emocionantes entregues em sua Tela de bloqueio diariamente. Este recurso não usará seus dados para personalização sem o seu consentimento. Leia e concorde com a &lt;a href =%1$s>Política de Privacidade&lt;/a> e o &lt;a href =%2$s>Contrato do Usuário&lt;/a> do provedor de conteúdo de terceiros antes de usar este recurso."</string>
+    <string name="term_condition_detail">"Obtenha imagens impressionantes e histórias emocionantes entregues em sua Tela de bloqueio diariamente. Este recurso não usará seus dados para personalização sem o seu consentimento. Leia e aceite a &lt;a href =%1$s>Política de Privacidade&lt;/a> e o &lt;a href =%2$s>Contrato do Usuário&lt;/a> do provedor de conteúdo de terceiros antes de usar este recurso."</string>
     <string name="terms_of_use">Termos e Condições</string>
     <string name="terms_of_use_ble_htmlViewer">Fornecedor de Localização, Visualizador de HTML</string>
     <string name="terms_of_use_label">"Leia nosso Contrato do Usuário e a Política de Privacidade para entender quais informações nós coletamos, como as usamos e quais são as opções disponíveis para você.

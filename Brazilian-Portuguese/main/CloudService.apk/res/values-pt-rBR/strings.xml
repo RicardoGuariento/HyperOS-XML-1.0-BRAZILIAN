@@ -59,7 +59,7 @@
     <string name="added_successfully">Adicionado com sucesso</string>
     <string name="afternoon">"PM"</string>
     <string name="agree_and_continue">Aceitar</string>
-    <string name="agreement_and_privacy_description">"Leia e concorde com a &lt;a href=%1$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> e o &lt;a href=%2$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> da MiCloud, antes de continuar."</string>
+    <string name="agreement_and_privacy_description">"Leia e aceite a &lt;a href=%1$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> e o &lt;a href=%2$s>&lt;u>Contrato do Usuário&lt;/u>&lt;/a> da MiCloud, antes de continuar."</string>
     <string name="alert_sync_data_merge_dialog_title">Os itens serão mesclados</string>
     <string name="alert_sync_merge_dialog_cancel">Cancelar</string>
     <string name="alert_sync_merge_dialog_confirm">Ativar</string>
@@ -201,7 +201,7 @@
     <string name="find_device_operation_failure_rpc">Não foi possível executar a operação devido a um erro de RPC.</string>
     <string name="find_device_permissions_footer">"Toque em \"Permitir\" para conceder as permissões que você selecionou."</string>
     <string name="find_device_permissions_header">"Bem-vindo ao Encontrar dispositivo! Você pode usar este app para localizar, rastrear e bloquear o dispositivo caso você o perca. Encontrar dispositivo requer as seguintes permissões:"</string>
-    <string name="find_device_privacy_policy_update_msg">A Política de Privacidade do Encontrar dispositivo foi atualizada:&lt;br/>%1$s&lt;br/>Leia e concorde com a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
+    <string name="find_device_privacy_policy_update_msg">A Política de Privacidade do Encontrar dispositivo foi atualizada:&lt;br/>%1$s&lt;br/>Leia e aceite a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
     <string name="find_device_send_sms_alert">Caso troque seu cartão SIM, outro SMS será enviado automaticamente para reativar este recurso.</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
     <string name="find_device_status_summary">Localize e bloqueie seu dispositivo, assim como apagar os dados remotamente.</string>
@@ -799,7 +799,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="privacy_policy_reject_confirm_msg">"Você não poderá continuar usando a MiCloud, a menos que concorde com a nova versão de sua &lt;a href=%1$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a>. Concorda com a Política de Privacidade atualizada agora?"</string>
     <string name="privacy_policy_reject_confirm_title">Atenção!</string>
     <string name="privacy_policy_revoked_msg">O consentimento com a Política de Privacidade da MiCloud foi retirado para esta conta. Tente usar uma conta diferente.</string>
-    <string name="privacy_policy_update_msg">A Política de Privacidade da MiCloud foi atualizada:&lt;br/>%1$s&lt;br/>Leia e concorde com a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
+    <string name="privacy_policy_update_msg">A Política de Privacidade da MiCloud foi atualizada:&lt;br/>%1$s&lt;br/>Leia e aceite a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
     <string name="privacy_policy_update_title">Política de Privacidade atualizada</string>
     <string name="privacy_runtime_perm_calendar_desc">Para sincronizar eventos da agenda</string>
     <string name="privacy_runtime_perm_calendar_title">Acessar a agenda</string>

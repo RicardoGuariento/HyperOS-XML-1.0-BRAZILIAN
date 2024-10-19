@@ -3592,7 +3592,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="display_dashboard_summary_with_style">Estilos, planos de fundo, tempo limite da tela, tamanho da fonte</string>
     <string name="display_label">Tela</string>
     <string name="display_order_text">Classificar por:</string>
-    <string name="display_prompt_confirm">Entedi</string>
+    <string name="display_prompt_confirm">Entendi</string>
     <string name="display_settings">Tela</string>
     <string name="display_settings_new">Tela e brilho</string>
     <string name="display_settings_title">Tela</string>
@@ -3827,7 +3827,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="emergency_gesture_number_override_notes">"Caso insira um número de que não seja de emergência:
  • Seu dispositivo deve ser desbloqueado para usar o SOS de emergência
  • Pode ser que sua ligação não seja atendida"</string>
-    <string name="emergency_gesture_screen_summary">Pressione o botão liga/desliga rapidamente 5 vezes ou mais para iniciar as ações abaixo</string>
+    <string name="emergency_gesture_screen_summary">Pressione o botão Liga/Desliga rapidamente 5 vezes ou mais para iniciar as ações abaixo</string>
     <string name="emergency_gesture_screen_title">SOS de emergência</string>
     <string name="emergency_gesture_sound_setting_summary">Toque um som alto quando o SOS de emergência estiver começando</string>
     <string name="emergency_gesture_sound_setting_title">Reproduzir alarme de contagem regressiva</string>
@@ -4663,7 +4663,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="gigabyteShort">"GB"</string>
     <string name="global_change_warning">Esta configuração afeta todos os usuários neste telefone.</string>
     <string name="global_locale_change_title">Alterar idioma</string>
-    <string name="global_stylus_summary">Escreva em qualquer campo de texto e converta sua caligrafia em texto (somente inglês e chinês são suportados)</string>
+    <string name="global_stylus_summary">Escreva em qualquer campo de texto e converta sua caligrafia em texto (somente Inglês e Chinês são suportados)</string>
     <string name="global_stylus_title">Editar texto manuscrito</string>
     <string name="gmscore_settings_title">Serviços básicos do Google</string>
     <string name="go_back_button_label">Voltar</string>
@@ -5195,7 +5195,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="key_gesture_function_optional">Botões e gestos opcionais</string>
     <string name="key_gesture_function_preview">Visualização de botões e gestos</string>
     <string name="key_gesture_function_shortcut">Atalhos de função</string>
-    <string name="key_handwriting_input_summary">Edite texto manuscrito em chinês ou inglês usando sua caneta</string>
+    <string name="key_handwriting_input_summary">Edite texto manuscrito em Inglês e Chinês usando sua caneta</string>
     <string name="key_handwriting_input_title">Editar texto</string>
     <string name="key_none">Nenhum</string>
     <string name="key_operation_diagram">Pré-visualização</string>
@@ -6838,7 +6838,7 @@ Alternar para %1$s não cancelará o serviço da operadora %2$s."</string>
     <string name="mr_controller_close_description">Fechar</string>
     <string name="mr_controller_collapse_group">Recolher</string>
     <string name="mr_controller_disconnect">Desconectar</string>
-    <string name="mr_controller_expand_group">Expandir</string>
+    <string name="mr_controller_expand_group">Abrir</string>
     <string name="mr_controller_no_info_available">Nenhuma informação disponível</string>
     <string name="mr_controller_no_media_selected">Nenhuma mídia selecionada</string>
     <string name="mr_controller_pause">Pausar</string>
@@ -7712,7 +7712,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="passpoint_label">Salvo via</string>
     <string name="passpoint_r1_privacy_dialog_message">"Este serviço Wi-Fi é fornecido por Exands. Permite que você conecte-se automaticamente a pontos de acesso próximos suportados.
 
-Leia e concorde com o %s antes de usar este recurso."</string>
+Leia e aceite o %s antes de usar este recurso."</string>
     <string name="passpoint_r1_privacy_dialog_no">Sair</string>
     <string name="passpoint_r1_privacy_dialog_title">Atenção!</string>
     <string name="passpoint_r1_privacy_dialog_url_text">Política de Privacidade da Exands</string>
@@ -9897,7 +9897,7 @@ Caso não concorde em conceder tais permissões ou compartilhar e enviar suas in
 Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_dialog_title">Termos e Condições</string>
     <string name="sos_privacy_policy">Política de Privacidade</string>
-    <string name="sos_privacy_policy_change_endtitle">Leia e concorde com a nova versão do %s antes de continuar.</string>
+    <string name="sos_privacy_policy_change_endtitle">Leia e aceite a nova versão do %s antes de continuar.</string>
     <string name="sos_privacy_policy_change_message_reject">"Você não poderá continuar usando o SOS de emergência, a menos que concorde com a nova versão de sua Política de Privacidade. Concordar com a atualização %s agora?"</string>
     <string name="sos_privacy_policy_change_subtitle">A Política de Privacidade SOS de emergência foi atualizada:</string>
     <string name="sos_privacy_policy_change_title">Política de Privacidade atualizada</string>
@@ -11451,8 +11451,8 @@ Toque no + para adicionar palavras."</string>
     <string name="vibrate_when_ringing_title">Vibrar enquanto toca</string>
     <string name="video_calling_settings_title">Videochamadas pela operadora</string>
     <string name="video_tool_box_title">Ferramentas de vídeo</string>
-    <string name="view_face_privacy_policy"><Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>\"Declaração de privacidade de dados faciais e;#038; bloqueio de tela\"&lt;/a> antes de continuar.</Data></string>
-    <string name="view_fingerprint_privacy_policy"><Data>Leia e concorde com a &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Declaração de privacidade de impressões digitais e;#038; bloqueio de tela\"&lt;/a> antes de continuar.</Data></string>
+    <string name="view_face_privacy_policy"><Data>Leia e aceite a &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>\"Declaração de privacidade de dados faciais e;#038; bloqueio de tela\"&lt;/a> antes de continuar.</Data></string>
+    <string name="view_fingerprint_privacy_policy"><Data>Leia e aceite a &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Declaração de privacidade de impressões digitais e;#038; bloqueio de tela\"&lt;/a> antes de continuar.</Data></string>
     <string name="view_saved_network">Selecione uma rede salva para ver</string>
     <string name="vip_list">Notificar sobre chamadas recebidas</string>
     <string name="vip_service_settings">Meus serviços</string>

@@ -336,10 +336,10 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="permission_exit">Sair</string>
     <string name="permission_external_storage_introduce">Para salvar e enviar seu feedback</string>
     <string name="permission_first_start_network_title">Termos e Condições</string>
-    <string name="permission_imei_disable_desc">Permita que este app se conecte-se à internet.</string>
-    <string name="permission_imei_enable_desc">Permita que este app se conecte-se à internet e conceda as permissões obrigatórias listadas acima.</string>
+    <string name="permission_imei_disable_desc">Permita que este app conecte-se à internet.</string>
+    <string name="permission_imei_enable_desc">Permita que este app conecte-se à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
-    <string name="permission_main_purpose">Exibir demonstrações de recursos do HyperOS, enviar feedback e solicitar serviços de pós-venda.</string>
+    <string name="permission_main_purpose">Exibir demonstrações de recursos, enviar feedbacks e solicitar serviços de pós-venda.</string>
     <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
     <string name="permission_region_version_msg">&lt;Data>Antes de usar o Serviços e feedback, você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Selecionar todos</string>
@@ -350,16 +350,16 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_policy_update_hint">"A Política de Privacidade do %1$s foi atualizada:
 %2$s
-Leia e concorde com a nova versão da %3$s antes de continuar."</string>
+Leia e aceite a nova versão da %3$s antes de continuar."</string>
     <string name="privacy_policy_update_title">Política de Privacidade atualizada</string>
     <string name="public_authorize_now">Configurações</string>
     <string name="public_loading_text">Aguarde…</string>
     <string name="public_net_error_retry">Tentar novamente</string>
     <string name="public_net_error_sub_title">Verifique suas configurações de rede e tente novamente</string>
     <string name="public_net_error_title">Não foi possível conectar-se à rede</string>
-    <string name="public_open_feedback_service">Serviço aberto</string>
+    <string name="public_open_feedback_service">Iniciar</string>
     <string name="public_please_authorize">Permissões necessárias para continuar</string>
-    <string name="public_welcome_use_feedback_service">Bem-vindo ao Serviços e feedback. Se você tiver alguma dúvida no processo de uso de produtos Xiaomi, poderá enviar seu feedback, visualizar problemas comuns e enviar apps pós-venda do produto na seção Serviços e feedback.</string>
+    <string name="public_welcome_use_feedback_service">Bem-vindo ao Serviços e feedback! Você pode usar este app para enviar feedback, ver perguntas frequentes, solicitar devolução e troca de produtos, e mais.</string>
     <string name="rationale_ask">Este app pode não funcionar corretamente sem as permissões solicitadas.</string>
     <string name="rationale_ask_again">Este app pode não funcionar corretamente sem as permissões solicitadas. Abra a tela de configurações do app para modificar as permissões.</string>
     <string name="saturday">Sábado</string>

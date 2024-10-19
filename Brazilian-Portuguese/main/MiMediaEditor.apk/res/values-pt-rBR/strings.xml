@@ -90,8 +90,8 @@
     <string name="adjust_dispersion_hue">Matiz</string>
     <string name="adjust_dispersion_size">Tamanho</string>
     <string name="adjust_dispersion_strength">Intensidade</string>
-    <string name="adjust_dispersion_tip">"Mova o círculo
-para ajustar a área de dispersão"</string>
+    <string name="adjust_dispersion_tip">"Mova o círculo para
+ajustar a área de dispersão"</string>
     <string name="adjust_exposure">Exposição</string>
     <string name="adjust_faderray">Desfoque</string>
     <string name="adjust_grain">Ruído</string>
@@ -283,7 +283,7 @@ para ajustar a área de dispersão"</string>
     <string name="bokeh_talkback_item_region_auto">Área selecionada automaticamente</string>
     <string name="bokeh_talkback_item_region_circle">Área selecionada circular</string>
     <string name="bokeh_talkback_item_region_line">Área selecionada entre linhas paralelas</string>
-    <string name="bokeh_tips_alg_error">"Bokeh não é suportado"</string>
+    <string name="bokeh_tips_alg_error">"O Bokeh não é suportado"</string>
     <string name="bokeh_user_guide_description">Use efeitos de desfoque de fundo por IA para destacar seu objeto</string>
     <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
     <string name="bottomsheet_action_expand">Expandir a página inferior</string>
@@ -484,7 +484,7 @@ para ajustar a área de dispersão"</string>
     <string name="confirm_cancel_task_images">Cancelar o envio de imagens para %1$s?</string>
     <string name="copy">Copiar</string>
     <string name="crop_label">Fotos cortadas</string>
-    <string name="cta_agreement_declare"><Data>Para compreender totalmente seus direitos como usuário, bem como as formas como usamos seus dados, leia e concorde com o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
+    <string name="cta_agreement_declare"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
     <string name="cta_network_declare">Para sincronizar fotos e vídeos na MiCloud, este app precisa se conectar à internet.</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -2161,7 +2161,7 @@ Carregue fotos com características faciais nítidas para obter melhores resulta
     <string name="vlog_caption_ai_replace_title">Substituir legendas</string>
     <string name="vlog_caption_auto">Automático</string>
     <string name="vlog_caption_clear">Limpar legendas</string>
-    <string name="vlog_caption_clear_sure_title">"Você não poderá restaurar as legendas depois de apagá-las. Limpar mesmo assim?"</string>
+    <string name="vlog_caption_clear_sure_title">"Você não poderá restaurar as legendas depois que as limpar. Limpar mesmo assim?"</string>
     <string name="vlog_caption_invalid_arguments">"Não é possível adicionar quando o intervalo é menor que %1$d segundo"</string>
     <string name="vlog_caption_style">Formato da legenda</string>
     <string name="vlog_caption_title">Créditos</string>
@@ -2283,7 +2283,7 @@ Carregue fotos com características faciais nítidas para obter melhores resulta
     <string name="vlog_pro_cancel">Cancelar</string>
     <string name="vlog_pro_do_not_remind">"Não mostrar novamente"</string>
     <string name="vlog_pro_do_not_support">"Vídeos nesta resolução não são suportados"</string>
-    <string name="vlog_pro_message">All unsaved changes will be lost if you switch to the video editor now. Switch anyway?</string>
+    <string name="vlog_pro_message">Todas as alterações não salvas serão perdidas se você alternar para o editor de vídeo agora. Alternar mesmo assim?</string>
     <string name="vlog_pro_not_support">"Esta resolução não é suportada"</string>
     <string name="vlog_pro_ok">Alternar</string>
     <string name="vlog_pro_title">Editor de vídeo</string>

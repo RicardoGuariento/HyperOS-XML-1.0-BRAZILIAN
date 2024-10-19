@@ -51,7 +51,7 @@
     <string name="appcirculate_fragment_circulate_device_card_switch_title_3_global">Ative o Wi-Fi</string>
     <string name="appcirculate_fragment_circulate_device_card_title">"Não consegue encontrar
 seus dispositivos?"</string>
-    <string name="appcirculate_fragment_circulate_device_content_description">Abra em outro dispositivo: %1$s</string>
+    <string name="appcirculate_fragment_circulate_device_content_description">Abrir em outro dispositivo: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_list_app_deliver">Abrir \"%1$s\" em outro dispositivo</string>
     <string name="appcirculate_fragment_circulate_device_list_button_cancel">Cancelar</string>
     <string name="appcirculate_fragment_circulate_device_list_button_confirm">Pesquise novamente</string>
@@ -68,17 +68,17 @@ seus dispositivos?"</string>
     <string name="appcirculate_toast_not_support_device_phone">"Não é possível abrir este app no dispositivo"</string>
     <string name="appcirculate_toast_not_support_device_tv">"Não é possível abrir este app em TVs"</string>
     <string name="appcirculate_toast_not_support_device_tv_connected">Já conectado a esta TV</string>
-    <string name="appcirculate_toast_success_1">Trocado com sucesso</string>
+    <string name="appcirculate_toast_success_1">Alternado com sucesso</string>
     <string name="appcirculate_toast_success_2">Transmitindo em modo privado…</string>
     <string name="appcirculate_toast_success_3">Transmitindo…</string>
-    <string name="ask_for_using_camera">Desbloqueie o dispositivo para conceder permissão</string>
+    <string name="ask_for_using_camera">Desbloqueie para conceder a permissão</string>
     <string name="audio_record_des">Para transmitir áudio do seu dispositivo móvel para monitores externos</string>
     <string name="auth_check_loading">Aguarde…</string>
     <string name="auth_no_user">"Esta página está disponível apenas para testadores Beta.
 Faça login em sua Conta Mi em Configurações > Conta Mi para sincronizar as permissões."</string>
     <string name="auth_phone_model">"Esta página não pode ser visualizada neste dispositivo."</string>
     <string name="auth_show_to_test_user">Esta página está disponível apenas para testadores Beta.</string>
-    <string name="ball_hint_connect_fail">"Não foi possível realizar esta ação. Aguarde um momento e tente novamente."</string>
+    <string name="ball_hint_connect_fail">"Não foi possível executar esta ação. Aguarde um momento e tente novamente."</string>
     <string name="ball_hint_text_loading">Aguarde…</string>
     <string name="ball_hint_text_success">Conectado com sucesso</string>
     <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
@@ -88,8 +88,9 @@ Faça login em sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="bottomsheet_drag_handle_content_description">Arrastar alça</string>
     <string name="camera_associate_connecting">Conectando à câmera</string>
     <string name="camera_associate_disconnecting">Desconectando da câmera do dispositivo</string>
-    <string name="camera_associate_failed">"Não foi possível conectar à câmera"</string>
+    <string name="camera_associate_failed">"Não foi possível conectar-se à câmera"</string>
     <string name="camera_associate_success">Câmera conectada</string>
+    <string name="camera_connect_fail">"Não foi possível conectar-se. Tente novamente."</string>
     <string name="camera_choose_device">Trocar câmeras</string>
     <string name="camera_connecting">"%s deseja usar a câmera deste dispositivo"</string>
     <string name="camera_disassociate">Desconectado da câmera</string>
@@ -131,9 +132,10 @@ Faça login em sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="car_card_seat_second_seat">Passageiro dianteiro</string>
     <string name="car_card_seat_warm">Aquecimento dos bancos</string>
     <string name="car_crad_air_control_text">AC</string>
+    <string name="car_device_camera_name">Câmera frontal do %1$s</string>
     <string name="car_seat_can_not_use">Não disponível</string>
     <string name="cast_auth_count_down">Insira o código de \"%1$s\" para iniciar a transmissão (%2$ds)</string>
-    <string name="cast_auth_title">Coloque o código</string>
+    <string name="cast_auth_title">Inserir código</string>
     <string name="cast_image_des">Tutorial de transmissão</string>
     <string name="casting_tips">Transmitindo…</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
@@ -145,7 +147,7 @@ Faça login em sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="circulate_car_card_using_camera">Usando a câmera frontal do EV</string>
     <string name="circulate_card_disconnect">Desconectar</string>
     <string name="circulate_card_loading_title_audio_stereo">Sistema estéreo</string>
-    <string name="circulate_card_loading_title_band">Banda</string>
+    <string name="circulate_card_loading_title_band">Pulseira</string>
     <string name="circulate_card_loading_title_bluetooth">Dispositivo Bluetooth</string>
     <string name="circulate_card_loading_title_headset">Fones de ouvido</string>
     <string name="circulate_card_loading_title_screen_sound">Alto-falante inteligente Xiaomi</string>
@@ -171,7 +173,7 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_card_mirror_tv_button_2">Desligar tela</string>
     <string name="circulate_card_mirror_tv_button_3">Privacidade</string>
     <string name="circulate_card_sticker">"Stickers"</string>
-    <string name="circulate_card_sticker__remote_control_expend_contentDescription">Mostrar controles remotos</string>
+    <string name="circulate_card_sticker__remote_control_expend_contentDescription">Mostrar controles</string>
     <string name="circulate_card_sticker_access">Toque duas vezes para ativar</string>
     <string name="circulate_card_sticker_add">Adicionar stickers</string>
     <string name="circulate_card_sticker_blank_contentDescription">Toque duas vezes na área em branco para sair</string>
@@ -180,8 +182,8 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_card_sticker_dressing_equipment">Personalizar dispositivo</string>
     <string name="circulate_card_sticker_expend_contentDescription">Mostrar dispositivos personalizados</string>
     <string name="circulate_card_sticker_no">Sem stickers</string>
-    <string name="circulate_card_sticker_remote_control">Controle remoto</string>
-    <string name="circulate_card_sticker_remote_control_bottom">Abaixo</string>
+    <string name="circulate_card_sticker_remote_control">Controle da TV</string>
+    <string name="circulate_card_sticker_remote_control_bottom">Baixo</string>
     <string name="circulate_card_sticker_remote_control_center">"OK"</string>
     <string name="circulate_card_sticker_remote_control_coordination_input">Entrada de texto</string>
     <string name="circulate_card_sticker_remote_control_coordination_input_subtitle">Digite o texto neste dispositivo para usá-lo em pesquisas na sua TV</string>
@@ -193,9 +195,9 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_card_sticker_remote_control_power">Botão Liga/Desliga</string>
     <string name="circulate_card_sticker_remote_control_return">Voltar</string>
     <string name="circulate_card_sticker_remote_control_right">Direita</string>
-    <string name="circulate_card_sticker_remote_control_top">Acima</string>
-    <string name="circulate_card_sticker_remote_control_volum_add">Aumentar volume</string>
-    <string name="circulate_card_sticker_remote_control_volum_reduce">Diminuir volume</string>
+    <string name="circulate_card_sticker_remote_control_top">Cima</string>
+    <string name="circulate_card_sticker_remote_control_volum_add">Volume +</string>
+    <string name="circulate_card_sticker_remote_control_volum_reduce">Volume -</string>
     <string name="circulate_card_sticker_selected">Selecionado</string>
     <string name="circulate_card_tv_device_sync">Interconectividade</string>
     <string name="circulate_card_tv_gesture_click_sure">Toque em qualquer lugar para confirmar</string>
@@ -206,13 +208,13 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_card_tv_gesture_slide">Deslize para mover o cursor</string>
     <string name="circulate_card_tv_gesture_slide_title">Deslize para controlar</string>
     <string name="circulate_card_tv_my_app">Mais apps</string>
-    <string name="circulate_card_tv_open_app_content_desc">%1$s. Toque para abrir na TV.</string>
+    <string name="circulate_card_tv_open_app_content_desc">%1$s. Toque para abrir a TV.</string>
     <string name="circulate_card_tv_privacy_protection">Privacidade</string>
     <string name="circulate_card_tv_remote_control">Controlo remoto</string>
     <string name="circulate_card_tv_screen_mirror">Espelhamento de tela</string>
     <string name="circulate_card_tv_screen_mirror_ing">Espelhando tela…</string>
     <string name="circulate_card_tv_screen_of_mirror">Com a tela desligada</string>
-    <string name="circulate_card_tv_share">Visualizar</string>
+    <string name="circulate_card_tv_share">Ver</string>
     <string name="circulate_card_tv_small_mirror">Janela flutuante</string>
     <string name="circulate_card_tv_source">Origem do sinal</string>
     <string name="circulate_common_retry_later">Aguarde um momento e tente novamente</string>
@@ -223,7 +225,7 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_cta_desc_lite_phone">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Para poder funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
     <string name="circulate_cta_desc_phone">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Para poder funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
     <string name="circulate_cta_desc_phone_global">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio.</string>
-    <string name="circulate_cta_exit">"Discordo"</string>
+    <string name="circulate_cta_exit">Discordo</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Para conectar dispositivos e transferir dados entre eles</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Para acessar a lista de apps instalados em um dispositivo móvel e espelhamento de tela em computadores</string>
     <string name="circulate_cta_premission_mac_address_subtitle">Para descobrir dispositivos próximos</string>
@@ -251,7 +253,7 @@ para espelhar a tela deste tablet"</string>
 2. Pressione e segure o botão no case.
 3. Conclua o pareamento no dispositivo de destino."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Para poder transferir a reprodução entre dispositivos, primeiro pareie seus fones de ouvido com a TV.</string>
-    <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Pressione o botão liga/desliga no controle remoto da TV para desconectar os alto-falantes.
+    <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Pressione o botão Liga/Desliga no controle da TV para desconectar os alto-falantes.
 %2$d. Tente conectar os fones de ouvido novamente assim que a tela acender."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Coloque os dois fones de ouvido no case.
 2. Pressione e segure o botão no case.
@@ -279,7 +281,7 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_headset_control_more_settings">Configurações adicionais</string>
     <string name="circulate_headset_duplicate_cancel">Cancelar</string>
     <string name="circulate_headset_duplicate_dialog_message">Parece que outro conjunto de fones de ouvido está conectado ao seu %1$s. Substituí-los pelo conjunto atual?</string>
-    <string name="circulate_headset_duplicate_dialog_title">Substitua os fones de ouvido conectados a %1$s</string>
+    <string name="circulate_headset_duplicate_dialog_title">Substituir fones de ouvido conectados a %1$s</string>
     <string name="circulate_headset_duplicate_ok">Substituir</string>
     <string name="circulate_headset_error_account_not_match">"Certifique-se de usar a mesma Conta Mi em ambos os dispositivos"</string>
     <string name="circulate_headset_error_acquired_by_other_host">Usando outro dispositivo agora. Tente mais tarde.</string>
@@ -302,7 +304,7 @@ seus dispositivos?"</string>
     <string name="circulate_help_error">"Não foi possível conectar-se à rede"</string>
     <string name="circulate_help_exit_button_content_description">Sair</string>
     <string name="circulate_help_feedback_button">"Feedback"</string>
-    <string name="circulate_jump_to_mijia">Abra Mi Home</string>
+    <string name="circulate_jump_to_mijia">Abrir Mi Home</string>
     <string name="circulate_local_pad_name">Meu tablet</string>
     <string name="circulate_local_phone_name">Meu dispositivo</string>
     <string name="circulate_more_button_content_description">Mais</string>
@@ -342,18 +344,18 @@ seus dispositivos?"</string>
     <string name="circulate_ringfind_title">Tocar som</string>
     <string name="circulate_ringfind_title_stop">Parar de reproduzir o som</string>
     <string name="circulate_sport_device_find_band">Encontrar esta pulseira</string>
-    <string name="circulate_sport_device_find_start">Procurando este dispositivo…</string>
+    <string name="circulate_sport_device_find_start">Procurando por este dispositivo…</string>
     <string name="circulate_sport_device_find_start_failed">"Não foi possível encontrar este dispositivo. Tente novamente."</string>
     <string name="circulate_sport_device_find_stop">Parar</string>
     <string name="circulate_sport_device_find_stop_failed">"Não foi possível parar de procurar este dispositivo. Tente novamente."</string>
-    <string name="circulate_sport_device_find_watch">Encontre este relógio</string>
+    <string name="circulate_sport_device_find_watch">Encontrar este relógio</string>
     <string name="circulate_taking_photo">"Usando a câmera do dispositivo…"</string>
     <string name="circulate_title">Xiaomi Smart Hub</string>
     <string name="circulate_to_mijia">Dispositivos domésticos inteligentes</string>
-    <string name="circulate_tv_app_opening">Estreando na TV…</string>
-    <string name="circulate_tv_capturing">Fazendo captura de tela…</string>
-    <string name="circulate_tv_is_authing_tip">Verificando dispositivos agora. Aguarde um momento e tente novamente.</string>
-    <string name="circulate_tv_name">Xiaomi TV</string>
+    <string name="circulate_tv_app_opening">Abrindo na TV…</string>
+    <string name="circulate_tv_capturing">Capturando a tela…</string>
+    <string name="circulate_tv_is_authing_tip">Verificando os dispositivos agora. Aguarde um momento e tente novamente.</string>
+    <string name="circulate_tv_name">TV Xiaomi</string>
     <string name="circulate_tv_power_alter_text">"Você configurou sua TV para desligar ou desligar sua tela. Controles remotos e TVs ficarão indisponíveis após a TV ser desligada."</string>
     <string name="circulate_tv_power_alter_title">Atenção!</string>
     <string name="circulate_video_capture_fail">"Não foi possível capturar a tela"</string>
@@ -466,14 +468,14 @@ seus dispositivos?"</string>
     <string name="debug_mode_vendor">Tipo de processador</string>
     <string name="debug_mode_wait_remove_desc">Por padrão, haverá uma janela pop-up para digitalização que dura pelo menos 1 segundo.</string>
     <string name="debug_mode_wait_remove_title">Remover pop-up de verificação de dispositivo</string>
-    <string name="device_busy">O dispositivo está ocupado. Espere um tempo e tente novamente.</string>
+    <string name="device_busy">O dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="device_desc_trust">Dispositivos confiáveis</string>
     <string name="device_permission_authorize_dialog_message">Assim que esta permissão for concedida, este dispositivo poderá usar %s para tirar fotos e gravar vídeos.</string>
-    <string name="device_permission_authorize_dialog_title">Conceda permissões de câmera em %s</string>
-    <string name="device_permission_dialog_message">Abra as Configurações > Interconectividade > Interconectividade e permissões em %s e conceda as permissões de câmera primeiro.</string>
-    <string name="device_permission_dialog_message_car">Você pode permitir o acesso à câmera em Configurações > Sistema > Gerenciar apps > Permissões especiais > Interconectividade em %s.</string>
+    <string name="device_permission_authorize_dialog_title">Conceda a permissão no %s</string>
+    <string name="device_permission_dialog_message">No %s, vá em Configurações > Interconectividade > Interconectividade e permissões, e conceda a permissão da câmera.</string>
+    <string name="device_permission_dialog_message_car">No %s, vá em Configurações > Sistema > Gerenciar apps > Permissões especiais > Interconectividade e conceda a permissão da câmera.</string>
     <string name="device_permission_dialog_positive_button">Entendi</string>
-    <string name="device_permission_dialog_title">Conceda permissões a %s</string>
+    <string name="device_permission_dialog_title">Conceda a permissão no %s</string>
     <string name="device_type_name_pad">"Tablet"</string>
     <string name="device_type_name_phone">"Telefone"</string>
     <string name="dialog_can_not_find_device">"Nenhum dispositivo próximo foi encontrado"</string>
@@ -517,7 +519,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="dialog_scanning_precondition">Ative o Wi-Fi e o Bluetooth no seu dispositivo para usar o Display sem fio.</string>
     <string name="dialog_scanning_precondition_new_china">Ative o Wi-Fi, Bluetooth, e o serviços de localização para poder usar a transmissão. Ativar agora?</string>
     <string name="dialog_scanning_precondition_new_global">Ative o Wi-Fi e o serviços de localização para poder usar a transmissão. Ativar agora?</string>
-    <string name="dialog_select_tv">Selecione o dispositivo (%1$d)</string>
+    <string name="dialog_select_tv">Selecionar dispositivo (%1$d)</string>
     <string name="dialog_show_help">Ajuda</string>
     <string name="disconnect">Parar transmissão</string>
     <string name="dp_casting_start_hint">Conectado via cabo. A transmissão terminou.</string>
@@ -547,11 +549,12 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="fallback_menu_item_open_in_browser">Abrir no navegador</string>
     <string name="fallback_menu_item_share_link">Compartilhar link</string>
     <string name="file_read_des">Para exibir fotos e outros arquivos em monitores externos</string>
+    <string name="file_deleted">O arquivo original foi excluído</string>
     <string name="find_device_close">Entendi</string>
-    <string name="find_device_notification_content_phone">%1$s está procurando este dispositivo usando %2$s. Desbloqueie para interromper a reprodução do som.</string>
-    <string name="find_device_notification_content_single_phone">Alguém está procurando este dispositivo usando %1$s. Desbloqueie para parar de reproduzir o som.</string>
-    <string name="find_device_notification_content_single_tablet">Alguém está procurando este dispositivo usando %1$s. Desbloqueie para interromper a reprodução do som.</string>
-    <string name="find_device_notification_content_tablet">%1$s está procurando este dispositivo usando %2$s. Desbloqueie para interromper a reprodução do som.</string>
+    <string name="find_device_notification_content_phone">%1$s está procurando este dispositivo usando %2$s. Desbloqueie para interromper o som.</string>
+    <string name="find_device_notification_content_single_phone">Alguém está procurando este dispositivo usando %1$s. Desbloqueie para interromper o som.</string>
+    <string name="find_device_notification_content_single_tablet">Alguém está procurando este dispositivo usando %1$s. Desbloqueie para interromper o som.</string>
+    <string name="find_device_notification_content_tablet">%1$s está procurando este dispositivo usando %2$s. Desbloqueie para interromper o som.</string>
     <string name="find_device_popup_content_phone">%1$s está procurando este dispositivo usando %2$s.</string>
     <string name="find_device_popup_content_single_phone">Alguém está procurando este dispositivo usando %1$s.</string>
     <string name="find_device_popup_content_single_tablet">Alguém está procurando este dispositivo usando %1$s.</string>
@@ -603,7 +606,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="global_privacy">Termos e condições</string>
     <string name="global_privacy_detail"><Data>"Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar este app.&lt;br> Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, suas funções básicas ainda estarão disponíveis para você.</Data></string>
     <string name="global_privacy_explain">Bem-vindo à Transmissão! Este app fornece os seguintes serviços:</string>
-    <string name="global_privacy_feature">Possibilidade de usar janelas minimizadas, transmitir com a tela desligada, e ocultar itens privados.</string>
+    <string name="global_privacy_feature">Usar janelas minimizadas, transmitir com a tela desligada, e ocultar itens privados.</string>
     <string name="global_privacy_main">"Projetar itens da tela do seu dispositivo para um monitor externo maior."</string>
     <string name="global_privacy_negative">"Não aceitar"</string>
     <string name="global_privacy_positive">Aceitar</string>
@@ -639,22 +642,22 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="head_toast_success">Conectado com sucesso</string>
     <string name="headset_circulate_connect_success">Conectado</string>
     <string name="headset_content_description">Fones de ouvido conectados a este dispositivo. Pressione duas vezes para ativar. Pressione com dois dedos e arraste para transferir a reprodução.</string>
-    <string name="help_page_question_1st_01_international">"%1$d. Quando o dispositivo para o qual você está transmitindo for uma Xiaomi TV, ligue o Miracast nele.
-%2$d. Quando o dispositivo para o qual você está transmitindo não for uma Xiaomi TV, certifique-se de que a TV seja compatível com o Miracast e que esse recurso esteja ativado. Este recurso pode ter um nome diferente em alguns modelos de TV, como Display sem fio, Espelhamento de tela ou Telas múltiplas."</string>
+    <string name="help_page_question_1st_01_international">"%1$d. Quando o dispositivo para o qual você está transmitindo for uma TV Xiaomi, ative o Miracast nele.
+%2$d. Quando o dispositivo para o qual você está transmitindo não for uma TV Xiaomi, certifique-se de que a TV seja compatível com o Miracast e que esse recurso esteja ativado. Este recurso pode ter um nome diferente em alguns modelos de TV, como Display sem fio, Espelhamento de tela ou Telas múltiplas."</string>
     <string name="help_page_setp_1st_02_international">%1$d. Algumas marcas de TV podem ter o Miracast ativado automaticamente.</string>
-    <string name="help_page_step_1st_01_international">%1$d. Ligue o Miracast na sua Xiaomi TV.</string>
+    <string name="help_page_step_1st_01_international">%1$d. Ative o Miracast na sua TV Xiaomi.</string>
     <string name="help_page_text_01">Ajuda</string>
     <string name="help_page_text_02">O que é a transmissão?</string>
     <string name="help_page_text_03">A transmissão é o ato de projetar itens da tela do seu dispositivo para um monitor externo maior, permitindo que você compartilhe imagens e vídeos com seus amigos e familiares sem usar seus dados móveis.</string>
     <string name="help_page_text_04">Como eu transmito itens para uma tela maior?</string>
     <string name="help_page_text_05">Passo %1$d: Verifique seus dispositivos e o ambiente de rede</string>
     <string name="help_page_text_05_new">Passo %1$d: Verifique seus dispositivos e o ambiente de rede</string>
-    <string name="help_page_text_06">"%1$d. Xiaomi TVs, decodificadores e projetores:
+    <string name="help_page_text_06">"%1$d. TVs Xiaomi, decodificadores e projetores:
 Conecte seu dispositivo móvel e monitor externo à mesma rede Wi-Fi para obter o melhor efeito. Se eles estiverem conectados a redes diferentes, pode levar mais tempo para localizar o monitor externo e se conectar.
 Observação: Modelos de TV mais antigos podem não suportar transmissão em redes diferentes.
 %2$d. Se você estiver usando TVs, decodificadores ou projetores de outras marcas, conecte seu dispositivo móvel e monitor externo à mesma rede Wi-Fi.
 Se os dois dispositivos não puderem ser conectados à mesma rede, ative o Miracast em seu monitor externo. A nomenclatura da funcionalidade do Miracast pode variar."</string>
-    <string name="help_page_text_06_global">"%1$d. Xiaomi TVs, decodificadores e projetores:
+    <string name="help_page_text_06_global">"%1$d. TVs Xiaomi, decodificadores e projetores:
 Conecte seu dispositivo móvel e monitor externo à mesma rede Wi-Fi para obter o melhor efeito. Se eles estiverem conectados a redes diferentes, pode levar mais tempo para localizar o monitor externo e se conectar.
 Observação: Modelos de TV mais antigos podem não suportar transmissão em redes diferentes.
 %2$d. Se você estiver usando TVs, decodificadores ou projetores de outras marcas, conecte seu dispositivo móvel e monitor externo à mesma rede Wi-Fi.
@@ -667,21 +670,21 @@ Se os dois dispositivos não puderem ser conectados à mesma rede, ative o Mirac
     <string name="help_page_text_06_new_5">%1$d. Certifique-se de que seu dispositivo móvel e monitor externo estejam conectados à mesma rede Wi-Fi.
 %2$d. Em algumas marcas de TV, você precisará ativar o Miracast para poder transmitir.</string>
     <string name="help_page_text_06_new_6">Saiba mais</string>
-    <string name="help_page_text_08">Passo %1$d: Ative a transmissão</string>
-    <string name="help_page_text_08_new">Passo %1$d: Ative a transmissão</string>
+    <string name="help_page_text_08">Passo %1$d: Ativar a transmissão</string>
+    <string name="help_page_text_08_new">Passo %1$d: Ativar a transmissão</string>
     <string name="help_page_text_09">"Toque na opção \"Transmitir\" na Área de notificações do seu dispositivo. Ative o Wi-Fi e o Bluetooth para uma conexão estável."</string>
     <string name="help_page_text_09_global">"Toque na opção \"Transmitir\" na Área de notificações do seu dispositivo. Ative o Wi-Fi e o Bluetooth para uma conexão estável."</string>
     <string name="help_page_text_09_new_1">"Ative a transmissão no centro de controle do seu dispositivo e procure um monitor externo."</string>
     <string name="help_page_text_10">Se você deseja transmitir fotos, vídeos, jogos ou apresentações, pode usar os recursos de transmissão integrados nestes apps.</string>
-    <string name="help_page_text_11">Passo %1$d: Selecione o dispositivo</string>
-    <string name="help_page_text_11_new">Passo %1$d: Selecione o dispositivo</string>
+    <string name="help_page_text_11">Passo %1$d: Selecionar dispositivo</string>
+    <string name="help_page_text_11_new">Passo %1$d: Selecionar dispositivo</string>
     <string name="help_page_text_12">Selecione um dispositivo externo da lista de dispositivos disponíveis para começar a transmitir.</string>
     <string name="help_page_text_12_new_1">Selecione um dispositivo externo na lista de dispositivos disponíveis para iniciar a transmissão.</string>
     <string name="help_page_text_13">"Não consegue se conectar a um dispositivo externo?"</string>
     <string name="help_page_text_13_act_label_1">Perguntas frequentes</string>
     <string name="help_page_text_13_desc_1">"%1$d. Certifique-se de que seu dispositivo móvel e monitor externo estejam conectados à mesma rede Wi-Fi ou hotspot.
 %2$d. Certifique-se de que o ambiente de rede esteja estável. Caso contrário, tente reiniciar o roteador ou mudar para uma banda de rede de %3$d GHz.
-%4$d. Ao transmitir para uma Xiaomi TV, ative o recurso de transmissão sem fio na TV. Permaneça na página de transmissão enquanto se conecta.
+%4$d. Ao transmitir para uma TV Xiaomi, ative o recurso de transmissão sem fio na TV. Permaneça na página de transmissão enquanto se conecta.
 %5$d. Algumas grandes LANs públicas, como as de empresas e escolas, não suportam a capacidade de descobrir dispositivos na mesma LAN."</string>
     <string name="help_page_text_13_desc_2">"Algumas TVs usam conexão não-LAN durante a transmissão. É normal que esses dispositivos sejam desconectados da rede. Eles geralmente se reconectarão dentro de %1$d-%2$d segundos após o término da transmissão."</string>
     <string name="help_page_text_13_summary_1">"Não é possível conectar a um dispositivo externo"</string>
@@ -697,11 +700,11 @@ Conecte seu dispositivo móvel e o monitor externo (ex.: sua TV) à mesma rede W
 %3$d. Se você quiser usar um dispositivo não Xiaomi, mas não conseguir encontrá-lo na lista de dispositivos disponíveis, tente o seguinte:
 Conecte seu dispositivo móvel e o monitor externo (ex.: sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do dispositivo móvel."</string>
     <string name="help_page_text_15">Funcionalidade Miracast em diferentes dispositivos</string>
-    <string name="help_page_text_16">Mi TV/Mi Projetor</string>
+    <string name="help_page_text_16">Xiaomi TV/Mi Projector</string>
     <string name="help_page_text_17">"Você pode projetar itens do seu dispositivo Mi na maioria dos modelos de Mi TV com recursos Bluetooth sem ativar o Miracast manualmente.
 Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus apps > Transmissão > Miracast."</string>
     <string name="help_page_text_17_1">Suporte ao cliente Xiaomi: 400-100-5678</string>
-    <string name="help_page_text_17_content">Você pode projetar itens do seu dispositivo Xiaomi na maioria dos modelos de Xiaomi TV com recursos Bluetooth sem ativar o Miracast manualmente. Se precisar ativar o Miracast, pressione o botão [MENU] e comece a transmitir usando a opção para outros dispositivos Android.</string>
+    <string name="help_page_text_17_content">Você pode projetar itens do seu dispositivo Xiaomi na maioria dos modelos de TV Xiaomi com recursos Bluetooth sem ativar o Miracast manualmente. Se precisar ativar o Miracast, pressione o botão [MENU] e comece a transmitir usando a opção para outros dispositivos Android.</string>
     <string name="help_page_text_18">TV Samsung</string>
     <string name="help_page_text_19">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode pressionar o botão [SOURCE] no controle remoto e selecionar \"Espelhamento de tela\". Este recurso é ativado por padrão em vários modelos.</string>
     <string name="help_page_text_20">Suporte ao cliente Samsung: 400-810-5858</string>
@@ -769,7 +772,7 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="hm_setstate_error">"Não foi possível concluir esta ação"</string>
     <string name="hm_setup">Configurações</string>
     <string name="hm_time_has_paused">Pausado</string>
-    <string name="hm_time_just_remembered">Aprendi agora há pouco</string>
+    <string name="hm_time_just_remembered">Aprendi agora mesmo</string>
     <string name="hm_time_long_ago">Há muito tempo</string>
     <string name="hm_time_not_executed">Ainda não usado</string>
     <string name="hm_time_recent_week">Essa semana</string>
@@ -793,7 +796,7 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="image_transfer_failed">"Não foi possível transferir a imagem"</string>
     <string name="install">Instalar</string>
     <string name="invisible_mode_dialog_content">"Não é possível usar a transmissão quando você está anônimo. Desative o Modo anônimo primeiro."</string>
-    <string name="invisible_mode_dialog_content_audio_relay">"Não é possível transferir a reprodução quando você está no no Modo anônimo. Desative o Modo anônimo primeiro."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"Não é possível transferir a reprodução quando você está anônimo. Desative o Modo anônimo primeiro."</string>
     <string name="invisible_mode_dialog_pos">Desativar</string>
     <string name="invisible_mode_dialog_title">"Você está anônimo"</string>
     <string name="is_creating_camera_cooperation">Desbloqueie o dispositivo para conectar</string>
@@ -802,6 +805,8 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="km_synergy_error">"A conexão expirou. Certifique-se de que o Bluetooth e o Wi-Fi estejam ativados em ambos os dispositivos e dentro do alcance da conexão."</string>
     <string name="km_synergy_error_china">"A conexão expirou. Certifique-se de que o Bluetooth e o Wi-Fi estejam ativados em ambos os dispositivos e dentro do alcance da conexão."</string>
     <string name="local_camera_device">Este dispositivo</string>
+    <string name="local_device_camera">Este dispositivo</string>
+    <string name="local_hotspot_opening">Desative o hotspot deste dispositivo e tente novamente</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_24h_suffix">%1$s horas</string>
     <string name="material_hour_selection">Selecione a hora</string>
@@ -832,13 +837,14 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="miplay_accessibility_volume">"Volume"</string>
     <string name="miplay_detail_divider_title">Alto-falantes</string>
     <string name="miplay_detail_header_no_song">Sem histórico</string>
-    <string name="miplay_detail_title_text">Reproduzir em qualquer lugar</string>
+    <string name="miplay_detail_title_text">Reproduza em qualquer lugar</string>
+    <string name="miplay_device_full_name">%2$s de %1$s</string>
     <string name="miplay_headset_lc3_hint">Desative o modo LC3 para retornar a saída de áudio para este dispositivo.</string>
     <string name="miplay_mini_card_no_song_but_attached_hint">Prestes a reproduzir áudio em %1$s</string>
     <string name="miplay_mini_card_no_song_pad_title">Áudio do tablet</string>
     <string name="miplay_mini_card_no_song_subtitle">Sem reprodução</string>
     <string name="miplay_mini_card_no_song_title">Áudio do dispositivo</string>
-    <string name="miplay_service_timeout_toast">A conexão expirou, tente novamente mais tarde</string>
+    <string name="miplay_service_timeout_toast">A conexão expirou. Tente novamente.</string>
     <string name="miplay_song_title_empty">Nenhum item aqui</string>
     <string name="mirror_phone_content">Ativar a Tela inicial+ agora?</string>
     <string name="mirror_phone_content_remote">Você pode ativar a Tela inicial+ em Configurações > Interconectividade.</string>
@@ -931,7 +937,7 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="mr_controller_close_description">Fechar</string>
     <string name="mr_controller_collapse_group">Recolher</string>
     <string name="mr_controller_disconnect">Desconectar</string>
-    <string name="mr_controller_expand_group">Expandir</string>
+    <string name="mr_controller_expand_group">Abrir</string>
     <string name="mr_controller_no_info_available">Nenhuma informação disponível</string>
     <string name="mr_controller_no_media_selected">Nenhuma mídia selecionada</string>
     <string name="mr_controller_pause">Pausar</string>
@@ -998,16 +1004,16 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="normal_device_none">Nenhum dispositivo conectado anteriormente aqui</string>
     <string name="normal_device_title">Dispositivos não confiáveis</string>
     <string name="not_set">Não definido</string>
-    <string name="nothing_to_play">Não tocar</string>
+    <string name="nothing_to_play">Não está reproduzindo</string>
     <string name="notification_cast_desc">Transmitindo…</string>
     <string name="notification_desc_scanning">Procurando dispositivos próximos…</string>
-    <string name="notification_rc_title">Assistente de Xiaomi TV</string>
+    <string name="notification_rc_title">Assistente de TV Xiaomi</string>
     <string name="notification_show_more">Toque para ver mais recursos</string>
     <string name="notify">A transmissão está funcionando em 2º plano</string>
     <string name="notify_content">Executar em segundo plano</string>
     <string name="notify_str">Serviço de Hardware Distribuído</string>
     <string name="notify_wifiap_dialog_msg">Para digitalizar o código e configurar a rede, desative o hotspot portátil primeiro.</string>
-    <string name="notify_wifiap_dialog_negative">Entedi</string>
+    <string name="notify_wifiap_dialog_negative">Entendi</string>
     <string name="notify_wifiap_dialog_title">Configurar rede</string>
     <string name="ok_button">Entendi</string>
     <string name="onehop_mirror_guide_message_button">Entendi</string>
@@ -1015,6 +1021,13 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="onehop_mirror_guide_message_text_2">Selecione fotos, vídeos e outros arquivos da Galeria ou do Arquivos para transferir para o seu computador.</string>
     <string name="onehop_mirror_guide_message_title">Interconectividade Xiaomi</string>
     <string name="open_game_accelerate">Ative o Game Turbo</string>
+    <string name="open_wlan">Ativar Wi-Fi</string>
+    <string name="open_wlan_china">Ativar Wi-Fi</string>
+    <string name="open_wlan_known">Entendi</string>
+    <string name="open_wlan_other">Ative o Wi-Fi em %1$s para poder usar os recursos de interconectividade.</string>
+    <string name="open_wlan_other_china">Ative o Wi-Fi em %1$s para poder usar os recursos de interconectividade.</string>
+    <string name="open_wlan_self">Ative o Wi-Fi para poder usar os recursos de interconectividade. Ativar agora?</string>
+    <string name="open_wlan_self_china">Ative o Wi-Fi para poder usar os recursos de interconectividade. Ativar agora?</string>
     <string name="p2p_location_des">Para conectar seu dispositivo móvel a monitores externos</string>
     <string name="paipai_connect_btn_text">Concluído</string>
     <string name="paipai_connect_tv1_text">Conectado ao dispositivo</string>
@@ -1191,13 +1204,13 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_wrong_voice">O código inserido está incorreto</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
-    <string name="path_setting_cast">Conectividade/Transmissão</string>
-    <string name="path_setting_cast_demo">Conectividade/Transmissão/Demonstrações</string>
-    <string name="path_setting_cast_demo_document">Conectividade/Transmissão/Demonstrações/Documentos</string>
-    <string name="path_setting_cast_demo_gallery">Conectividade/Transmissão/Demonstrações/Fotos e vídeos</string>
-    <string name="path_setting_cast_demo_game">Conectividade/Transmissão/Demonstrações/Jogos</string>
-    <string name="path_setting_cast_feature">Conectividade/Transmissão/Recursos especiais</string>
-    <string name="path_setting_cast_help">Conectividade/Transmissão/Ajuda</string>
+    <string name="path_setting_cast">Mais opções de conectividade/Transmissão</string>
+    <string name="path_setting_cast_demo">Mais opções de conectividade/Transmissão/Demonstrações</string>
+    <string name="path_setting_cast_demo_document">Mais opções de conectividade/Transmissão/Demonstrações/Documentos</string>
+    <string name="path_setting_cast_demo_gallery">Mais opções de conectividade/Transmissão/Demonstrações/Fotos e vídeos</string>
+    <string name="path_setting_cast_demo_game">Mais opções de conectividade/Transmissão/Demonstrações/Jogos</string>
+    <string name="path_setting_cast_feature">Mais opções de conectividade/Transmissão/Recursos especiais</string>
+    <string name="path_setting_cast_help">Mais opções de conectividade/Transmissão/Ajuda</string>
     <string name="permission_allowed">Concedida</string>
     <string name="permission_uballowed">Não concedida</string>
     <string name="pm">"PM"</string>
@@ -1206,8 +1219,8 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="privacy_action_failed">"Não foi possível retirar o consentimento"</string>
     <string name="privacy_agree">Aceitar</string>
     <string name="privacy_confirm_revoke_and_exit_btn">Retirar</string>
-    <string name="privacy_detail">Permita que este app se conecte à internet e conceda as permissões necessárias antes de continuar</string>
-    <string name="privacy_detail_extra"><Data>Alguns recursos são fornecidos por um provedor de serviços terceirizado, a HappyCast. Antes de usar este recurso, leia e concorde com a &lt;a href=%1$s>Política de Privacidade do HappyCast&lt;/a> e a &lt;a href=%2$s>Declaração Legal do HappyCast&lt;/a>.</Data></string>
+    <string name="privacy_detail">Permita que este app conecte-se à internet e conceda as permissões necessárias antes de continuar</string>
+    <string name="privacy_detail_extra"><Data>Alguns recursos são fornecidos por um provedor de serviços terceirizado, a HappyCast. Antes de usar este recurso, leia e aceite a &lt;a href=%1$s>Política de Privacidade do HappyCast&lt;/a> e a &lt;a href=%2$s>Declaração Legal do HappyCast&lt;/a>.</Data></string>
     <string name="privacy_explain">"Bem-vindo à Transmissão! A Transmissão permite projetar itens da tela do seu dispositivo em um monitor externo maior. Este app precisa se conectar à internet e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="privacy_give_up_revoke_btn">Cancelar</string>
     <string name="privacy_i_know_btn">Continuar</string>
@@ -1221,7 +1234,7 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="privacy_permission_nfc">"NFC"</string>
     <string name="privacy_permission_nfc_desc">Para parear dispositivos através do NFC</string>
     <string name="privacy_permission_optional">Permissões opcionais</string>
-    <string name="privacy_permission_optional_desc">"Usadas para recursos adicionais quando você os utilizar"</string>
+    <string name="privacy_permission_optional_desc">"Usado para recursos adicionais enquanto você os usa"</string>
     <string name="privacy_permission_read_write_mobile_phone_storage">Acessar e salvar itens no armazenamento</string>
     <string name="privacy_permission_read_write_mobile_phone_storage_desc">Para acessar e salvar arquivos e fotos neste dispositivo</string>
     <string name="privacy_permission_screencast">Acessando informações na tela</string>
@@ -1239,7 +1252,7 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
 %2$d. Após retirar o consentimento, as informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como os serviços de interconectividade são fornecidos com base na recolha das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar serviços de interconectividade. A retirada do seu consentimento não afetará o uso normal de outros recursos e serviços.
 %3$d. A retirada de consentimento é uma ação irreversível. Lembre-se de que você não poderá reconsiderar sua decisão depois que seu consentimento for retirado."</string>
     <string name="privacy_revoke_agree_detail_prompt">Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade Xiaomi</string>
-    <string name="privacy_revoke_agree_detail_title">Leia e concorde com a Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade Xiaomi antes de retirar seu consentimento.</string>
+    <string name="privacy_revoke_agree_detail_title">Leia e aceite a Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade Xiaomi antes de retirar seu consentimento.</string>
     <string name="privacy_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade da Interconectividade Xiaomi. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como os serviços de interconectividade são fornecidos com base na recolha das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar serviços de interconectividade. A retirada do seu consentimento não afetará o uso normal de outros recursos e serviços."</string>
     <string name="privacy_revoke_agree_warning_map_text">Atenção!</string>
     <string name="privacy_revoke_confirm_cancel">Cancelar</string>
@@ -1256,7 +1269,7 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="privacy_setting_category_2">Política de Privacidade do HappyCast</string>
     <string name="privacy_setting_category_3">Permissões</string>
     <string name="privacy_setting_permission_manager">Gerenciar permissões</string>
-    <string name="privacy_setting_revoke_lelink_policy">Retirada de consentimento para a Política de Privacidade do HappyCast</string>
+    <string name="privacy_setting_revoke_lelink_policy">Retirada de consentimento à Política de Privacidade do HappyCast</string>
     <string name="privacy_setting_show_authority">Detalhes de permissões</string>
     <string name="privacy_setting_show_lelink_law">Ver a Declaração Legal do HappyCast</string>
     <string name="privacy_setting_show_lelink_policy">Ver a Política de Privacidade do HappyCast</string>
@@ -1276,7 +1289,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="privacy_update_dialog_positive_btn">Aceitar</string>
     <string name="privacy_update_dialog_quit">Sair</string>
     <string name="private_protect">Ocultar itens privados</string>
-    <string name="prompt_camera_associate_failed">"Não foi possível conectar"</string>
+    <string name="prompt_camera_associate_failed">"Não foi possível conectar-se"</string>
     <string name="prompt_camera_disassociate">Desconectado</string>
     <string name="prompt_camera_guide">A câmera do %s está disponível</string>
     <string name="prompt_camera_ocuppied">A câmera está ocupada</string>
@@ -1289,6 +1302,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="quick_settings_device_dialog_positive">Ligar</string>
     <string name="quick_settings_device_dialog_title">Descobrir dispositivos próximos</string>
     <string name="quick_settings_notification_control_center">Notificações e barra de status</string>
+    <string name="remote_hotspot_opening">Desative o hotspot do outro dispositivo e tente novamente</string>
     <string name="remote_speaker_list">"Playlist"</string>
     <string name="remote_speaker_loop">Reproduzir em ordem</string>
     <string name="remote_speaker_random">Misturar</string>
@@ -1304,7 +1318,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="scan_wifi_label_global">Conecte-se ao Wi-Fi</string>
     <string name="screen_projection">Transmitir</string>
     <string name="screen_projection_characteristics">Recursos especiais</string>
-    <string name="screen_projection_characteristics_cast_summary">Transmitir conteúdo da tela para uma TV próxima</string>
+    <string name="screen_projection_characteristics_cast_summary">Transmita o conteúdo da tela para uma TV próxima</string>
     <string name="screen_projection_characteristics_hang_up_summary_new">Desligue a tela do dispositivo móvel durante a transmissão para economizar bateria e evitar superaquecimento</string>
     <string name="screen_projection_characteristics_off_screen_summary">Você pode continuar transmitindo quando a tela do seu dispositivo estiver desligada. Este recurso diminui o consumo de energia.</string>
     <string name="screen_projection_characteristics_off_screen_title">Transmitir com a tela desligada</string>
@@ -1341,7 +1355,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="send">Enviar</string>
     <string name="server_activity_task_tips">A câmera está sendo usada por %s</string>
     <string name="server_camera_disconnected">Desconectado do outro dispositivo devido a um erro</string>
-    <string name="server_camera_occupied">A câmera está ocupada. Espere um tempo e tente novamente.</string>
+    <string name="server_camera_occupied">A câmera está ocupada. Aguarde um momento e tente novamente.</string>
     <string name="server_toast_camera_prepare">Preparando para compartilhar o feed da câmera…</string>
     <string name="service_name">MiplayAudio</string>
     <string name="set_negative_button">Configurações</string>
@@ -1353,14 +1367,18 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="settings_cross_notify_power">Bateria fraca</string>
     <string name="settings_cross_notify_system">Notificações do sistema</string>
     <string name="settings_cross_notify_tips">Mostre notificações em tablets próximos ou computadores em uso quando este dispositivo estiver bloqueado</string>
+    <string name="sever_stream_beauty">Embelezador</string>
     <string name="sever_stream_control_btn_exit">Parar</string>
     <string name="sever_stream_control_btn_pause">Pausa</string>
     <string name="sever_stream_control_btn_preview">Visualização</string>
     <string name="sever_stream_control_btn_resume">Retomar</string>
-    <string name="sever_stream_push_state_idle">A visualização está desativada neste dispositivo</string>
-    <string name="sever_stream_push_state_idle2">A visualização está desativada</string>
+    <string name="sever_stream_push_state_idle">A prévia está desativada neste dispositivo</string>
+    <string name="sever_stream_push_state_idle2">Prévia desativada</string>
     <string name="sever_stream_push_state_pause">Pausado</string>
     <string name="sever_stream_push_state_pushing">Compartilhando imagem da câmera…</string>
+    <string name="sever_switch_camera">Alternar entre câmera frontal e traseira</string>
+    <string name="sever_switch_camera_front">Câmera frontal</string>
+    <string name="sever_switch_camera_rear">Câmera traseira</string>
     <string name="share_desktop_with_car">Compartilhe a Tela inicial com o carro</string>
     <string name="share_desktop_with_car_ing">Compartilhando tela com carro…</string>
     <string name="show_result_on_tv">Veja os resultados na TV</string>
@@ -1391,7 +1409,6 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
-    <string name="status_bar_fail">"Não foi possível conectar"</string>
     <string name="stat_cancel">cancelar</string>
     <string name="stat_confirm">confirme</string>
     <string name="stat_failed">falhar</string>
@@ -1402,6 +1419,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="stat_src_push">empurrar</string>
     <string name="stat_success">sucesso</string>
     <string name="stat_unit_ms">ms</string>
+    <string name="status_bar_fail">"Não foi possível conectar"</string>
     <string name="status_bar_in_casting">Transmitindo…</string>
     <string name="status_bar_in_casting_long">Toque para ver mais recursos de transmissão</string>
     <string name="status_bar_loading">Conectando…</string>
@@ -1410,7 +1428,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="synergy_being_used_text">Em uso</string>
-    <string name="synergy_casting">"Não é possível usar a transmissão enquanto o Screen Combo está funcionando"</string>
+    <string name="synergy_casting">"Não é possível possível usar a transmissão com o Screen Combo ativo"</string>
     <string name="synergy_text">Interconectividade</string>
     <string name="talk_back_device_battery_quantity">Bateria %s</string>
     <string name="test_package_upgrade">"Não foi possível atualizar para a versão Beta"</string>
@@ -1468,7 +1486,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="title_update">Atualizar Mi Canvas</string>
     <string name="toast_guide_show_more">Saiba mais</string>
     <string name="toast_guide_title">Explore nossos novos recursos aqui</string>
-    <string name="toast_invisible_mode">"Você está anônimo. Não é possível usar Transmissão agora."</string>
+    <string name="toast_invisible_mode">"Você está anônimo. Não é possível usar a Transmissão agora."</string>
     <string name="toast_invisible_mode1">"A transmissão não funciona quando você está anônimo"</string>
     <string name="toast_msg_for_multi_window">"Não é possível usar este recurso com a Tela dividida"</string>
     <string name="toast_msg_for_small_window">"Você pode minimizar a janela que está sendo transmitida para poder usar outros recursos do dispositivo sem interromper o processo de transmissão."</string>
@@ -1498,11 +1516,17 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="upgrade_check_upgrade">Atualizar</string>
     <string name="upgrade_checking">Verificando atualizações…</string>
     <string name="upgrade_edit_mijia">Editar</string>
+    <string name="upgrade_error_connect_api_server_fail">Verifique suas configurações de rede e tente novamente</string>
+    <string name="upgrade_error_download_ip_intercepted">Muitos pedidos. Aguarde um momento e tente novamente.</string>
+    <string name="upgrade_error_download_start_fall">"Não foi possível baixar o app. Tente novamente."</string>
+    <string name="upgrade_error_install_fail_invalid_apk">"Não foi possível instalar o app. Tente novamente."</string>
+    <string name="upgrade_error_installparse_fail">"Não foi possível instalar o app"</string>
+    <string name="upgrade_error_no_enough_space_before_download">Armazenamento insuficiente. Libere espaço no armazenamento e tente novamente.</string>
     <string name="upgrade_help_menu">Ajuda</string>
-    <string name="upgrade_help_title">Ajuda com atualização</string>
+    <string name="upgrade_help_title">Ajuda com a atualização</string>
     <string name="upgrade_login_dialog_message">Faça login em sua Conta Mi para poder visualizar seus dispositivos conectados.</string>
     <string name="upgrade_login_dialog_sure">Entrar</string>
-    <string name="upgrade_login_dialog_title">Faça login na Conta Mi</string>
+    <string name="upgrade_login_dialog_title">Fazer login na Conta Mi</string>
     <string name="upgrade_no_devices">Nenhuma atualização disponível</string>
     <string name="upgrade_now">Atualizar</string>
     <string name="upgrade_phone_device_tip">• As atualizações são fornecidas pela Xiaomi Phone</string>
@@ -1514,14 +1538,14 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
 certifique-se de que o pacote contenha as versões mais recentes de todos os apps."</string>
     <string name="upgrade_title">Atualizar dispositivos conectados</string>
     <string name="upgrade_toast_no_wifi">"Não foi possível conectar"</string>
-    <string name="upgrade_tv_device_tip">• As atualizações são fornecidas pela Xiaomi TV</string>
+    <string name="upgrade_tv_device_tip">• As atualizações são fornecidas pela TV Xiaomi</string>
     <string name="upgrade_ver_can_upgrade">Atualização disponível</string>
     <string name="upgrade_ver_can_upgrade_1to2">Atualização da versão %1$d para %2$d</string>
     <string name="upgrade_ver_can_upgrade_1to2s">Atualização da versão %1$s para %2$s</string>
     <string name="upgrade_ver_can_upgrade_to1">Atualizar para a versão %1$d</string>
-    <string name="upgrade_ver_latest">A versão atual está atualizada</string>
-    <string name="upgrade_ver_latest1">A versão atual (%1$d) está atualizada</string>
-    <string name="upgrade_ver_latest1s">A versão atual (%1$s) está atualizada</string>
+    <string name="upgrade_ver_latest">A versão atual é a mais recente</string>
+    <string name="upgrade_ver_latest1">A versão atual (%1$d) é a mais recente</string>
+    <string name="upgrade_ver_latest1s">A versão atual (%1$s) é a mais recente</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="watch_more_setting">Mais opções</string>

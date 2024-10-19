@@ -20,7 +20,7 @@
     <string-array name="settings_search_connection_home">
         <item>Interconectividade</item>
         <item>Interconectividade/Interconectividade</item>
-        <item>Interconectividade de dispositivos, Serviços de interconectividade de dispositivos, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, conexão inteligente, Xiaomi Smart Hub, Interconectividade, Duo, dispositivo Xiaomi, laptop Xiaomi, Multiscreen, Dueto, transmissão, combinar apps, transferência, transferência de apps, espelhamento, Ecossistema Xiaomi, conexão do dispositivo</item>
+        <item>Interconectividade de dispositivos, Serviços de interconectividade de dispositivos, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, conexão inteligente, Xiaomi Smart Hub, Interconectividade, Duo, Telefone Xiaomi, Laptop Xiaomi, Multiscreen, Dueto, transmissão, combinar apps, handoff, handoff de apps, espelhamento, Ecossistema Xiaomi, conexão de dispositivos</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Privacidade</item>
@@ -33,14 +33,14 @@
         <item>Serviços de Interconectividade Xiaomi, Interconectividade Xiaomi</item>
     </string-array>
     <string-array name="settings_search_relay_app">
-        <item>Transferência de apps</item>
+        <item>Handoff de app</item>
         <item>Interconectividade/Apps</item>
-        <item>Transferir apps, transferência, transferência</item>
+        <item>Transferir apps, handoff, transferência</item>
     </string-array>
     <string-array name="settings_search_relay_call">
         <item>Sincronização de chamadas</item>
         <item>Interconectividade/Sincronização de chamadas</item>
-        <item>Sincronização de chamadas, chamadas entre dispositivos, transferência de chamadas, chamadas</item>
+        <item>Sincronização de chamadas, chamadas entre dispositivos, handoff de chamadas, chamadas</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Assistência de rede</item>
@@ -55,7 +55,7 @@
     <string-array name="settings_search_relay_network_global">
         <item>Sincronização de rede</item>
         <item>Interconectividade/Sincronização de rede</item>
-        <item>Assistência de rede, tethering, compartilhamento de hotspot, Tethering sem fio</item>
+        <item>Assistência de rede, tethering, compartilhamento de hotspot, Sincronização de rede</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Tela inicial+</item>

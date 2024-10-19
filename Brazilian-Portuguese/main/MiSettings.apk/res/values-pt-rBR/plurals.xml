@@ -33,6 +33,42 @@
         <item quantity="other">%2$d minutos restantes para \"%1$s\" hoje</item>
         <item quantity="one">%2$d minuto restante para \"%1$s\" hoje</item>
     </plurals>
+    <plurals name="count_times">
+        <item quantity="other">%d vezes</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
+    <plurals name="current_week_correct_eyes_statistics">
+        <item quantity="other">Corrigiu hábitos pouco saudáveis %d vezes nesta semana</item>
+        <item quantity="one">Corrigiu hábitos pouco saudáveis %d vez nesta semana</item>
+    </plurals>
+    <plurals name="current_week_remind_eyes_statistics">
+        <item quantity="other">%d lembretes enviados nesta semana</item>
+        <item quantity="one">%d lembrete enviado nesta semana</item>
+    </plurals>
+    <plurals name="current_week_unlock_usage_statistics">
+        <item quantity="other">Desbloqueado %d vezes esta semana</item>
+        <item quantity="one">Desbloqueado %d vez esta semana</item>
+    </plurals>
+    <plurals name="format_correct_eyes_statistics">
+        <item quantity="other">Corrigiu hábitos pouco saudáveis %2$s vezes em %1$s</item>
+        <item quantity="one">Corrigiu hábitos pouco saudáveis %2$s vez em %1$s</item>
+    </plurals>
+    <plurals name="format_less_than_last_interval_unlock">
+        <item quantity="other">%2$d vezes a menos que %1$s</item>
+        <item quantity="one">%2$d vez a menos que %1$s</item>
+    </plurals>
+    <plurals name="format_more_than_last_interval_unlock">
+        <item quantity="other">%2$d vezes a mais que %1$s</item>
+        <item quantity="one">%2$d vez a mais que %1$s</item>
+    </plurals>
+    <plurals name="format_remind_eyes_statistics">
+        <item quantity="other">%2$s lembretes enviados em %1$s</item>
+        <item quantity="one">%2$s lembrete enviado em %1$s</item>
+    </plurals>
+    <plurals name="format_unlock_usage_statistics">
+        <item quantity="other">Desbloqueado %2$d vezes em %1$s</item>
+        <item quantity="one">Desbloqueado %2$d vez em %1$s</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
@@ -49,20 +85,112 @@
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
+    <plurals name="last_30_day_correct_eyes_statistics">
+        <item quantity="other">Corrigiu hábitos pouco saudáveis %2$s vezes nos últimos %1$d dias</item>
+        <item quantity="one">Corrigiu hábitos pouco saudáveis %2$s vez nos últimos %1$d dias</item>
+    </plurals>
+    <plurals name="last_30_day_remind_eyes_statistics">
+        <item quantity="other">%2$s lembretes enviados nos últimos %1$d dias</item>
+        <item quantity="one">%2$s lembrete enviado nos últimos %1$d dias</item>
+    </plurals>
+    <plurals name="last_30_day_unlock_usage_statistics">
+        <item quantity="other">Desbloqueado %2$s vezes nos últimos %1$d dias</item>
+        <item quantity="one">Desbloqueado %2$s vez nos últimos %1$d dias</item>
+    </plurals>
+    <plurals name="last_7_day_correct_eyes_statistics">
+        <item quantity="other">Corrigiu hábitos pouco saudáveis %2$s vezes nos últimos %1$d dias</item>
+        <item quantity="one">Corrigiu hábitos pouco saudáveis %2$s vez nos últimos %1$d dias</item>
+    </plurals>
+    <plurals name="last_7_day_remind_eyes_statistics">
+        <item quantity="other">%2$s lembretes enviados nos últimos %1$d dias</item>
+        <item quantity="one">%2$s lembrete enviado nos últimos %1$d dias</item>
+    </plurals>
+    <plurals name="last_7_day_unlock_usage_statistics">
+        <item quantity="other">Desbloqueado %2$s vezes nos últimos %1$d dias</item>
+        <item quantity="one">Desbloqueado %2$s vez nos últimos %1$d dias</item>
+    </plurals>
+    <plurals name="last_day_correct_eyes_statistics">
+        <item quantity="other">Corrigiu hábitos pouco saudáveis %d vezes ontem</item>
+        <item quantity="one">Corrigiu hábitos pouco saudáveis %d vez ontem</item>
+    </plurals>
+    <plurals name="last_day_remind_eyes_statistics">
+        <item quantity="other">%d lembretes enviados ontem</item>
+        <item quantity="one">%d lembrete enviado ontem</item>
+    </plurals>
+    <plurals name="last_day_unlock_usage_statistics">
+        <item quantity="other">Desbloqueado %d vezes ontem</item>
+        <item quantity="one">Desbloqueado %d vez ontem</item>
+    </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
     </plurals>
+    <plurals name="last_week_correct_eyes_statistics">
+        <item quantity="other">Corrigiu hábitos pouco saudáveis %d vezes na semana passada</item>
+        <item quantity="one">Corrigiu hábitos pouco saudáveis %d vez na semana passada</item>
+    </plurals>
+    <plurals name="last_week_remind_eyes_statistics">
+        <item quantity="other">%d lembretes enviados na semana passada</item>
+        <item quantity="one">%d lembrete enviado na semana passada</item>
+    </plurals>
+    <plurals name="last_week_unlock_usage_statistics">
+        <item quantity="other">Desbloqueado %d vezes na semana passada</item>
+        <item quantity="one">Desbloqueado %d vez na semana passada</item>
+    </plurals>
+    <plurals name="less_than_last_day_unlock">
+        <item quantity="other">%d vezes a menos que ontem</item>
+        <item quantity="one">%d vez a menos que ontem</item>
+    </plurals>
+    <plurals name="less_than_last_interval_unlock">
+        <item quantity="other">%d vezes a menos que no período passado</item>
+        <item quantity="one">%d vez a menos que no período passado</item>
+    </plurals>
+    <plurals name="less_than_last_month_unlock">
+        <item quantity="other">%d vezes a menos que no último mês</item>
+        <item quantity="one">%d vez a menos que no último mês</item>
+    </plurals>
+    <plurals name="less_than_last_week_unlock">
+        <item quantity="other">%d vezes a menos que na última semana</item>
+        <item quantity="one">%d vez a menos que na última semana</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
+    </plurals>
+    <plurals name="long_stare_screen_summary">
+        <item quantity="other">"Você está olhando para a tela por %d minutos"   </item>
+        <item quantity="one">"Você está olhando para a tela por %d minuto"</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
     </plurals>
+    <plurals name="more_than_last_day_unlock">
+        <item quantity="other">%d vezes a mais que ontem</item>
+        <item quantity="one">%d vez a mais que ontem</item>
+    </plurals>
+    <plurals name="more_than_last_interval_unlock">
+        <item quantity="other">%d vezes a mais que no período passado</item>
+        <item quantity="one">%d vez a mais que no período passado</item>
+    </plurals>
+    <plurals name="more_than_last_month_unlock">
+        <item quantity="other">%d vezes a mais que no último mês</item>
+        <item quantity="one">%d vez a mais que no último mês</item>
+    </plurals>
+    <plurals name="more_than_last_week_unlock">
+        <item quantity="other">%d vezes a mais que na última semana</item>
+        <item quantity="one">%d vez a mais que na última semana</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="overuse_pad_summary">
+        <item quantity="other">Usar seu dispositivo por mais de %d minutos por vez pode causar cansaço visual.</item>
+        <item quantity="one">Usar seu dispositivo por mais de %d minuto por vez pode causar cansaço visual.</item>
+    </plurals>
+    <plurals name="overuse_phone_summary">
+        <item quantity="other">Usar seu dispositivo por mais de %d minutos por vez pode causar cansaço visual.</item>
+        <item quantity="one">Usar seu dispositivo por mais de %d minuto por vez pode causar cansaço visual.</item>
     </plurals>
     <plurals name="pcl_add_account_ignore_with_seconds">
         <item quantity="other">Agora não (%d s)</item>
@@ -140,6 +268,18 @@
         <item quantity="other">Você pode adicionar até %d intervalos</item>
         <item quantity="one">Você pode adicionar até %d intervalo</item>
     </plurals>
+    <plurals name="today_correct_eyes_statistics">
+        <item quantity="other">Corrigiu hábitos pouco saudáveis %d vezes hoje</item>
+        <item quantity="one">Corrigiu hábitos pouco saudáveis %d vez hoje</item>
+    </plurals>
+    <plurals name="today_remind_eyes_statistics">
+        <item quantity="other">%d lembretes enviados hoje</item>
+        <item quantity="one">%d lembrete enviado hoje</item>
+    </plurals>
+    <plurals name="today_unlock_usage_statistics">
+        <item quantity="other">Desbloqueado %d vezes hoje</item>
+        <item quantity="one">Desbloqueado %d vez hoje</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">O tempo de tela de hoje é igual à sua média de %d dias</item>
         <item quantity="one">O tempo de tela de hoje é igual à sua média de %d dia</item>
@@ -155,7 +295,7 @@
     <plurals name="unlock_times">
         <item quantity="other">%.2f vezes</item>
         <item quantity="zero">%.2f vezes</item>
-        <item quantity="one">%.2f</item>
+        <item quantity="one">%.2f vez</item>
     </plurals>
     <plurals name="usage_days">
         <item quantity="other">%d dias</item>

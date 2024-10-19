@@ -1549,7 +1549,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_roaming_warning_message">A operadora poderá cobrar tarifas pelo uso do roaming de dados internacional. Ativar mesmo assim?</string>
     <string name="dialog_roaming_warning_ok">Ativar</string>
     <string name="dialog_skt_roaming_warning_cancel">Não concordar</string>
-    <string name="dialog_skt_roaming_warning_message">"Leia e concorde com as condições abaixo para utilizar dados em roaming. Podem ser aplicadas cobranças de roaming internacional. Sem um plano de dados roaming, podem ser aplicadas cobranças elevadas aos apps que atualizam automaticamente.
+    <string name="dialog_skt_roaming_warning_message">"Leia e aceite as condições abaixo para utilizar dados em roaming. Podem ser aplicadas cobranças de roaming internacional. Sem um plano de dados roaming, podem ser aplicadas cobranças elevadas aos apps que atualizam automaticamente.
  • Quando não concordar em utilizar roaming de dados, o roaming de dados será desativado
  • Voz HD é utilizado como padrão nas redes suportadas
  • Dados de roaming 5G estão disponíveis apenas nas nossas redes parceiras
@@ -2510,7 +2510,7 @@ mas também aumenta o consumo de energia e pode causar superaquecimento"</string
     <string name="gb_predownload_dialog_cancel">Não, obrigado</string>
     <string name="gb_predownload_dialog_checked">"Não exibir novamente"</string>
     <string name="gb_predownload_dialog_confirm">Ativar</string>
-    <string name="gb_predownload_dialog_message_china"><Data>"O conteúdo atualizado para este jogo pode ser baixado para este dispositivo automaticamente após você se conectar ao Wi-Fi e bloquear a tela. Assim, você poderá usar a nova versão assim que for lançada.&lt;br>&lt;br>Leia e concorde com a &lt;a href=\"%1$s\">Declaração sobre atualizações em segundo plano&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>"O conteúdo atualizado para este jogo pode ser baixado para este dispositivo automaticamente após você se conectar ao Wi-Fi e bloquear a tela. Assim, você poderá usar a nova versão assim que for lançada.&lt;br>&lt;br>Leia e aceite a &lt;a href=\"%1$s\">Declaração sobre atualizações em segundo plano&lt;/a> antes de usar este recurso."</Data></string>
     <string name="gb_predownload_dialog_title">Atualizações em segundo plano já estão disponíveis</string>
     <string name="gb_predownload_message">"Atualize King of Glory, Game for Peace e outros jogos compatíveis em segundo plano enquanto você não estiver usando este dispositivo"</string>
     <string name="gb_predownload_message_new">Update compatible games automatically while not using device</string>
@@ -3440,7 +3440,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
 
 1. Certifique-se de que sua assinatura com sua operadora está ativa. Tente usar um outro cartão SIM e veja se a conexão é efetuada corretamente.
 
-2. Caso esteja utilizando dois cartões SIM, tente alternar os cartões entre suas entradas e veja se a conexão é efetuada corretamente.
+2. Caso esteja usando dois cartões SIM, tente alternar os cartões entre suas entradas e veja se a conexão é efetuada corretamente.
 
 3. Certifique-se de que seu cartão SIM ou a entrada para o cartão SIM não estão danificados. Verifique se o cartão SIM está inserido corretamente na entrada para o cartão SIM."</string>
     <string name="network_speed_for_apps_close">Forçar parada</string>
@@ -4018,7 +4018,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_permission_control_closed_desc_dialog_msg">Apps não solicitarão sua permissão antes de ler seus contatos, ver seu histórico de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo. Você pode ativar esta função nas Configurações de permissões.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gerenciador de permissões</string>
     <string name="permission_upgrade_more">Mais recursos de proteção de privacidade</string>
-    <string name="permission_upgrade_privacy_title">As permissões para gravar áudio e acessar os contatos agora têm uma opção que permite que você dê tais permissões apenas enquanto estiver utilizando apps correspondentes. Para proteger as suas informações pessoais, os apps não executarão estas ações em segundo plano.</string>
+    <string name="permission_upgrade_privacy_title">As permissões para gravar áudio e acessar os contatos agora têm uma opção que permite que você dê tais permissões apenas enquanto estiver usando apps correspondentes. Para proteger as suas informações pessoais, os apps não executarão estas ações em segundo plano.</string>
     <string name="permission_upgrade_runtime">As permissões de acesso à sua localização ou de tirar fotos agora têm uma opção que permite que você dê tais permissões apenas uma vez. Para proteger as suas informações pessoais, estas ações não serão executadas quando você sair do app. A sua permissão será solicitada novamente da próxima vez que você usar um dos recursos relacionados.</string>
     <string name="permission_upgrade_title">Permissões atualizadas</string>
     <string name="permission_upgrade_virtual">Se você não deseja permitir que apps acessem seus contatos ou o histórico de chamadas, você pode selecionar \"Retornar mensagens em branco\" quando você estiver concedendo as permissões correspondentes.</string>
@@ -4792,7 +4792,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_thumbnail_shield_top_tip">Mascarar visualizações para apps exibidos nos Recentes</string>
     <string name="privacy_type_open">Ativado</string>
     <string name="privacy_update_dialog_content_1">A Política de Privacidade de %s foi atualizada:</string>
-    <string name="privacy_update_dialog_content_2"><Data>Leia e concorde com a nova versão da &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Leia e aceite a nova versão da &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="privacy_update_dialog_title">Política de Privacidade atualizada</string>
     <string name="privacy_using_camera">Usar a câmara</string>
     <string name="privacy_using_location">Acesso à localização</string>

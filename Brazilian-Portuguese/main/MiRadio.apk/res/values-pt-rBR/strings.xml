@@ -50,18 +50,18 @@
     <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
     <string name="common_problem">Perguntas frequentes</string>
     <string name="confirm">Excluir</string>
-    <string name="contact_us">Contate-nos</string>
+    <string name="contact_us">Fale conosco</string>
     <string name="context_menu_item_delete">Excluir</string>
     <string name="context_menu_item_edit">Editar</string>
     <string name="context_menu_item_favorite">Adicionar aos predefinidos</string>
     <string name="context_menu_item_unfavorite">Remover dos predefinidos</string>
     <string name="country_region">Região</string>
-    <string name="dialog_sleep_title">Definir timer</string>
+    <string name="dialog_sleep_title">Definir timer de desativação</string>
     <string name="exit">Sair</string>
     <string name="exit_fm">Sair</string>
     <string name="favorites">Favoritos</string>
     <string name="feedback">"Feedback"</string>
-    <string name="fm_has_turned_off">Rádio FM desativado</string>
+    <string name="fm_has_turned_off">Rádio FM desligado</string>
     <string name="fmradio_clear_confirm_msg">Todas as predefinições serão excluídas.</string>
     <string name="global_app_description_content">"Rádio FM é um app do sistema. Você não poderá ouvir estações de rádio após desinstalar o app."</string>
     <string name="global_app_description_title">Desinstalar Rádio FM?</string>
@@ -79,7 +79,7 @@
     <string name="label_recording">Gravando: %s</string>
     <string name="listen_local_fmradio">Rádio local</string>
     <string name="listen_online">Ouvir online</string>
-    <string name="listen_online_one">Fones de ouvido com fio são necessários para ouvir rádio local. Conecte seus fones de ouvido ou toque abaixo para ouvir rádio online sem fones de ouvido.</string>
+    <string name="listen_online_one">Fones de ouvido com fio são necessários para ouvir ao rádio local. Conecte seus fones de ouvido ou toque abaixo para ouvir rádio online sem fones de ouvido.</string>
     <string name="listen_online_three">"Se você não encontrar nenhuma estação de rádio local, poderá ouvir conteúdo online."</string>
     <string name="listen_online_two">"Parece que você não está usando fones de ouvido com fio. Conecte-os para ouvir rádio local ou toque abaixo para ouvir rádio online sem fones de ouvido."</string>
     <string name="local_fmradio">Rádio local</string>
@@ -97,7 +97,7 @@
     <string name="menu_save_station_presets">Adicionar aos predefinidos</string>
     <string name="menu_scan_start">Pesquisar</string>
     <string name="menu_sleep">Timer de desativação</string>
-    <string name="menu_sleep_cancel">Cancelar timer</string>
+    <string name="menu_sleep_cancel">Cancelar timer de desativação</string>
     <string name="menu_speaker">Mudar para o alto-falante</string>
     <string name="msg_do_not_support_fm">"Este dispositivo não suporta Rádio FM"</string>
     <string name="msg_fm_starting">Iniciando…</string>
@@ -137,7 +137,7 @@
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_submit_hint">Nenhum resultado encontrado. Toque abaixo para enviar uma nova estação de rádio.</string>
     <string name="setting">Configurações</string>
-    <string name="station_check_favorite">Adicionar aos prefedinidos</string>
+    <string name="station_check_favorite">Adicionar aos predefinidos</string>
     <string name="stations_list">Lista de estações</string>
     <string name="stations_list_empty">Nenhuma predefinição</string>
     <string name="submit">Enviar</string>
@@ -159,7 +159,7 @@
     <string name="toast_fm_recorder_storage_full">"Não é possível continuar a gravação: espaço insuficiente"</string>
     <string name="toast_fm_seeking">Sintonizando…</string>
     <string name="toast_fm_starting">Iniciando…</string>
-    <string name="toast_removed_from_presets">Removido dos prefedinidos</string>
+    <string name="toast_removed_from_presets">Removido dos predefinidos</string>
     <string name="toast_select_none">"Você não selecionou nenhum item"</string>
     <string name="toast_sleep_mode">O rádio parará de reproduzir em %s</string>
     <string name="toast_sleep_mode_exit">Timer cancelado</string>

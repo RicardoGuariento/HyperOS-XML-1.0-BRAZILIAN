@@ -929,7 +929,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string formatted="false" name="privacy_dialog_tips_revoke">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como% s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %s. Retirar consentimento agora?"</string>
     <string formatted="false" name="privacy_dialog_tips_update">"%s A Política de Privacidade foi atualizada:
 %s
-Leia e concorde com a nova versão da Política de Privacidade antes de continuar."</string>
+Leia e aceite a nova versão da Política de Privacidade antes de continuar."</string>
     <string name="privacy_dialog_tips_update_confim" formatted="false">"Você não poderá continuar usando % a menos que concorde com a nova versão da Política de Privacidade de %s. Concorda com a Política de Privacidade atualizada agora?"</string>
     <string name="privacy_dialog_title_revoke_confim">Retirada de consentimento</string>
     <string name="privacy_dialog_title_update">Política de Privacidade atualizada</string>
@@ -1484,7 +1484,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="system_permission_perm_write_mms">Permitir que o Mensagens escreva MMS</string>
     <string name="system_permission_perm_write_sms">Permitir que o Mensagens escreva SMS</string>
     <string name="system_permission_requested">Perguntar</string>
-    <string name="system_permission_user_privacy">Antes de continuar, leia e concorde com os seguintes termos e condições.</string>
+    <string name="system_permission_user_privacy">Antes de continuar, leia e aceite os seguintes termos e condições.</string>
     <string name="tab_finance">Finanças</string>
     <string name="tab_message">Mensagens</string>
     <string name="tab_promotions">Promoções</string>
