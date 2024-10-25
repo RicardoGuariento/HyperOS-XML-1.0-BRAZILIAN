@@ -161,8 +161,8 @@
         <item quantity="one">" • &lt;font color=#fc7050>%1$d&lt;/font> dia"</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">" • Você tem &lt;font color=#fc7050>%1$s&lt;/font> seguidores!"</item>
-        <item quantity="one">" • Você tem &lt;font color=#fc7050>%1$s&lt;/font> seguidor!"</item>
+        <item quantity="other">" • Você ganhou &lt;font color=#fc7050>%1$s&lt;/font> seguidores!"</item>
+        <item quantity="one">" • Você ganhou &lt;font color=#fc7050>%1$s&lt;/font> seguidor!"</item>
     </plurals>
     <plurals name="original_user_play_1">
         <item quantity="other">" • Você fez o upload de &lt;font color=#fc7050>%1$s&lt;/font> vídeos. "</item>
@@ -205,8 +205,8 @@
         <item quantity="one">%1$s pessoa</item>
     </plurals>
     <plurals name="user_sign_limt">
-        <item quantity="other">Pode inserir %d caracteres</item>
-        <item quantity="one">Pode inserir %d caractere</item>
+        <item quantity="other">Você pode inserir %d caracteres</item>
+        <item quantity="one">Você pode inserir %d caractere</item>
     </plurals>
     <plurals name="video_ad_download_tip">
         <item quantity="other"> Downloads</item>

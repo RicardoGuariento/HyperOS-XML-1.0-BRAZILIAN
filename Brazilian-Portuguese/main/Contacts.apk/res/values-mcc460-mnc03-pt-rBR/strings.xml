@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account_sim">Cartão SIM</string>
+    <string name="account_sim2">Cartão SIM %d</string>
     <string name="contacts_unavailable_import_sim_contacts">Importar contatos do SIM</string>
     <string name="delete_sim_entries_finish">Contatos excluídos do cartão SIM.</string>
     <string name="deleting_sim_entry_miui">Excluindo contatos do cartão SIM…</string>
@@ -37,5 +38,4 @@
     <string name="sim_export_loading">Lendo o cartão SIM…</string>
     <string name="sim_indexed_contact_not_exist">A posição \"%1$d\" não existe no seu cartão SIM. Insira uma posição entre %2$d e %3$d.</string>
     <string name="sim_no_contact">Nenhum contato no cartão SIM</string>
-    <string name="account_sim2">Cartão SIM %d</string>
 </resources>

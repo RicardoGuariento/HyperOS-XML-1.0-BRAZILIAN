@@ -178,7 +178,6 @@
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d selecionados</item>
-        <item quantity="zero">%1$d selecionado</item>
         <item quantity="one">%1$d selecionado</item>
     </plurals>
     <plurals name="num_contacts_in_group">
@@ -218,8 +217,8 @@
         <item quantity="one">%s resultado</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
-        <item quantity="other">"Selecione até %1$d, não é possível selecionar tudo"</item>
-        <item quantity="one">"Selecione até %1$d, não é possível selecionar tudo"</item>
+        <item quantity="other">"Selecione até %1$d, não é possível selecionar tudo."</item>
+        <item quantity="one">"Selecione até %1$d, não é possível selecionar tudo."</item>
     </plurals>
     <plurals name="select_exceed_plurals">
         <item quantity="other">Selecione até %1$d</item>

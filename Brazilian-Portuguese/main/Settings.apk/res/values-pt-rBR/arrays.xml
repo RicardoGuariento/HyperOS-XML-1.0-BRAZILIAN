@@ -381,7 +381,7 @@
         <item>Desativar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
-        <item/>
+        <item></item>
         <item>" | Ativo"</item>
         <item>" | Ativo (mídia)"</item>
         <item>" | Ativo (telefone)"</item>
@@ -1060,13 +1060,13 @@
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>O armazenamento USB abrirá automaticamente ao ser conectado a um computador.</item>
-        <item/>
+        <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
         <item>2. Siga as instruções na tela</item>
-        <item/>
-        <item/>
-        <item/>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Instale as ferramentas: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -1682,7 +1682,7 @@ Atenção!: Apenas para Ubuntu 8.04!"</item>
         <item>Conectar manualmente</item>
     </string-array>
     <string-array name="wifi_status">
-        <item/>
+        <item></item>
         <item>Procurando…</item>
         <item>Conectando…</item>
         <item>Autenticando…</item>
@@ -1696,7 +1696,7 @@ Atenção!: Apenas para Ubuntu 8.04!"</item>
         <item>Temporariamente evitando uma conexão ruim</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
-        <item/>
+        <item></item>
         <item>Procurando…</item>
         <item>Conectando-se a %1$s…</item>
         <item>Autenticando com a %1$s…</item>

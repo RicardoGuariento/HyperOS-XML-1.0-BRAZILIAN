@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="accessibility_calllog_detail">Histórico detalhado de chamadas</string>
+    <string name="accessibility_calllog_detail">Histórico de chamadas detalhado</string>
     <string name="accessibility_contact_detail">Detalhes do contato</string>
     <string name="account_container_title">Importado de</string>
     <string name="account_default">"Local"</string>
@@ -37,7 +37,7 @@
     <string name="account_sdn">"SDN"</string>
     <string name="account_sim">Cartão SIM</string>
     <string name="account_type_format">Contato %1$s</string>
-    <string name="action_menu_overflow_description">Mais opções</string>
+    <string name="action_menu_overflow_description">Configurações</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activity_title_contacts_filter">Contatos para exibição</string>
     <string name="add_account">Adicionar conta</string>
@@ -254,9 +254,9 @@
     <string name="bh_wrong_number_hint">Digite um número de telefone válido</string>
     <string name="bh_yuan">CNY</string>
     <string name="bills_info_label">Detalhes</string>
-    <string name="bind_simcard_default">SIM padrão para chamadas</string>
-    <string name="bind_simcard_menu">Definir SIM padrão para chamadas</string>
-    <string name="bind_simcard_no_dual">Não foi possível encontrar Dual SIM</string>
+    <string name="bind_simcard_default">Cartão SIM padrão para chamadas</string>
+    <string name="bind_simcard_menu">Definir cartão padrão para chamadas</string>
+    <string name="bind_simcard_no_dual">"Não foi possível encontrar o Dual SIM"</string>
     <string name="bind_simcard_not_set">Não definido</string>
     <string name="bind_simcard_title">SIM padrão para chamadas</string>
     <string name="bluetooth_connection_failed_toast">Conexão Bluetooth interrompida</string>
@@ -279,7 +279,7 @@
     <string name="call_home">Ligar para residência</string>
     <string name="call_isdn">Ligar para ISDN</string>
     <string name="call_limit">Restrições de chamada</string>
-    <string name="call_limit_content">"Não foi possível ligar "%s". Você só pode ligar para números de telefone que estão em sua lista de contatos aprovados."</string>
+    <string name="call_limit_content">"Não foi possível ligar para "%s". Você só pode ligar para números de telefone que estão em sua lista de contatos aprovados."</string>
     <string name="call_main">Ligar para número principal</string>
     <string name="call_mms">Ligar para MMS</string>
     <string name="call_mobile">Ligar para celular</string>
@@ -337,10 +337,10 @@
     <string name="calllog_menu_edit_before_call">Editar</string>
     <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
     <string name="calllog_record_none_toast">Nenhuma gravação de chamadas para mostrar</string>
-    <string name="calllog_record_searching_toast">Pesquisando gravações de chamadas…</string>
+    <string name="calllog_record_searching_toast">Procurando gravações de chamada…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">"%1$d min e %2$d s"</string>
     <string name="callrecordview_item_op_time_missed">"Não atendida"</string>
-    <string name="callrecordview_item_op_time_only_minutes">"%d min"</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
     <string name="callrecordview_item_op_time_rejected">Rejeitada</string>
     <string name="callrecordview_item_op_time_short_incoming">"Recebida: "</string>
@@ -351,12 +351,12 @@
     <string name="callrecordview_item_op_video">Vídeo</string>
     <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
     <string name="callrecordview_menu_aiphone">Chamadas por IA</string>
-    <string name="callrecordview_menu_batch_delete">Excluir vários registros</string>
+    <string name="callrecordview_menu_batch_delete">Excluir lote</string>
     <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
     <string name="callrecordview_menu_conference">Conferência telefônica</string>
     <string name="callrecordview_menu_delete">Excluir</string>
     <string name="callrecordview_menu_delete_accepted">Excluir chamadas recebidas</string>
-    <string name="callrecordview_menu_delete_called">Excluir chamadas realizadas</string>
+    <string name="callrecordview_menu_delete_called">Excluir chamadas efetuadas</string>
     <string name="callrecordview_menu_delete_missed">Excluir chamadas perdidas</string>
     <string name="callrecordview_menu_delete_one">Remover do registro de chamadas</string>
     <string name="callrecordview_menu_delete_sim">Excluir todos os registros de chamadas (%s)</string>
@@ -499,7 +499,7 @@ O Mi Roaming precisa se conectar à internet e acessar suas informações de loc
     <string name="delete_conference_call_log_message">Excluir todos os registros de conferência telefônica associados a este contato agora?</string>
     <string name="delete_conference_call_log_title">Excluir registros de conferência telefônica</string>
     <string name="delete_duplicate">Mesclar</string>
-    <string name="delete_duplicate_message">"Unindo contatos… "</string>
+    <string name="delete_duplicate_message">"Mesclando contatos… "</string>
     <string name="delete_group_dialog_message">"Excluir o grupo \"%1$s\"? Os contatos não serão excluídos."</string>
     <string name="delete_group_dialog_title">Excluir grupo</string>
     <string name="delete_selected_sim_entry_miui">Excluir contatos selecionados</string>
@@ -509,10 +509,10 @@ O Mi Roaming precisa se conectar à internet e acessar suas informações de loc
     <string name="deleting_sim_entry_miui_prepare">Preparando contatos…</string>
     <string name="description_call_log_incoming_call">Chamada recebida</string>
     <string name="description_call_log_incoming_forwarding_call">Recebendo chamada encaminhada</string>
-    <string name="description_call_log_missed_call">Chamada não atendida</string>
+    <string name="description_call_log_missed_call">Chamada perdida</string>
     <string name="description_call_log_missed_forwarding_call">Chamada encaminhada perdida</string>
     <string name="description_call_log_outgoing_call">Chamada efetuada</string>
-    <string name="description_call_log_voicemail">Mensagem de voz</string>
+    <string name="description_call_log_voicemail">Correio de voz</string>
     <string name="description_contact_photo">Foto do contato</string>
     <string name="description_dial_phone_number">Discar número de telefone %1$s</string>
     <string name="description_image_button_comma">Vírgula</string>
@@ -554,7 +554,7 @@ O Mi Roaming precisa se conectar à internet e acessar suas informações de loc
     <string name="device_transfer_by_bluetooth_message">"%1$d. Ative o Bluetooth no outro dispositivo.
 
 • O Bluetooth pode ser encontrado nas Configurações de rede em dispositivos Android.
-• Em dispositivos com iOS, o Bluetooth está nos Ajustes.
+• Em dispositivos iOS, o Bluetooth está nos Ajustes.
 
 %2$d. O modo detectável também deve estar ativado nos dispositivos Android.
 
@@ -753,7 +753,7 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_progress_message">Importando…</string>
     <string name="import_to_xiaomi_account_title">Importar para a Conta Mi</string>
     <string name="import_vcard_dialog_message">Importar vCard?</string>
-    <string name="importing_sim_contacts_miui">Importando contatos do cartão SIM…</string>
+    <string name="importing_sim_contacts_miui">Importando contatos do cartão SIM</string>
     <string name="importing_sim_contacts_miui_prepare">Preparando contatos…</string>
     <string name="importing_vcard_canceled_title">Importação do vCard %s cancelada</string>
     <string name="importing_vcard_description">Importando %s</string>
@@ -792,7 +792,7 @@ Motivo: \"%s\""</string>
     <string name="low_memory_toast">"Não é possível usar este recurso devido à falta de memória."</string>
     <string name="lunarBirthdayLabelsGroup">Aniversário lunar</string>
     <string name="make_primary">Lembrar desta escolha</string>
-    <string name="manage_external_storage_dialog_message">Permitir que este app acesse todos os arquivos para gerenciar gravações de chamadas.</string>
+    <string name="manage_external_storage_dialog_message">Permitir que este app acesse todos os arquivos para gerenciar as gravações de chamadas.</string>
     <string name="manage_external_storage_dialog_positive">Configurações</string>
     <string name="manage_external_storage_dialog_title">Permissões necessárias</string>
     <string name="map_custom">Ver endereço %s</string>
@@ -818,7 +818,7 @@ Motivo: \"%s\""</string>
     <string name="menu_newContactButton">Adicionar</string>
     <string name="menu_new_favorite_action_bar">Adicionar aos favoritos</string>
     <string name="menu_new_group_action_bar">Novo</string>
-    <string name="menu_not_redirect_calls_to_vm">Permitindo chamadas</string>
+    <string name="menu_not_redirect_calls_to_vm">Correio de voz não está em uso</string>
     <string name="menu_redirect_calls_to_vm">Desviando para correio de voz</string>
     <string name="menu_removeStar">Remover favorito</string>
     <string name="menu_settings">Configurações</string>
@@ -862,7 +862,7 @@ Motivo: \"%s\""</string>
     <string name="miuix_navigator_category_group_collapse">Recolher</string>
     <string name="miuix_navigator_category_group_expand">Expandir</string>
     <string name="miuix_navigator_content_switch_description">Mostrar barra lateral</string>
-    <string name="miuix_navigator_multiple_choice">Selecione</string>
+    <string name="miuix_navigator_multiple_choice">Selecionar</string>
     <string name="miuix_navigator_navigator_switch_description">Ocultar barra lateral</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
@@ -932,10 +932,10 @@ Motivo: \"%s\""</string>
     <string name="name_phonetic_middle">Nome do meio fonético</string>
     <string name="name_prefix">Prefixo do nome</string>
     <string name="name_suffix">Sufixo do nome</string>
-    <string name="new_saf_permission_dialog_content">"As permissões do app Contatos foram atualizadas. Permita que os Contatos acessem as gravações de chamadas.
+    <string name="new_saf_permission_dialog_content">"As permissões do app Contatos foram atualizadas. Permita que o Contatos acesse as gravações de chamadas.
 
 Como conceder permissão
-Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
+Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Avançar</string>
     <string name="new_saf_permission_dialog_title"><b>Permissões necessárias</b></string>
     <string name="next">Avançar</string>
@@ -961,10 +961,10 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="not_set">Não definido</string>
     <string name="notification_click_detail">Toque para ver detalhes</string>
     <string name="notification_micloudsync_delete_contact">A MiCloud deseja excluir alguns dos seus contatos</string>
-    <string name="notification_missedCallTitle">Chamada não atendida</string>
-    <string name="notification_missedCall_call_back">Retornar</string>
+    <string name="notification_missedCallTitle">Chamada perdida</string>
+    <string name="notification_missedCall_call_back">Retornar chamada</string>
     <string name="notification_missedCall_message">Enviar SMS</string>
-    <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
+    <string name="notification_missedCallsTitle">Chamadas perdida</string>
     <string name="notification_title_export">Exportar contatos</string>
     <string name="notification_title_import">Importar contatos</string>
     <string name="open_contact">Ver contato</string>
@@ -1156,11 +1156,11 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="permission_dailog_positive_button">Continuar</string>
     <string name="permission_dailog_title">Permissões necessárias</string>
     <string name="permission_notice_desc_access_fine_location">Para importar contatos de outros dispositivos via Bluetooth</string>
-    <string name="permission_notice_desc_add_voicemail">Para usar a funcionalidade do correio de voz e mensagem de áudio</string>
-    <string name="permission_notice_desc_call_phone">Para fazer chamadas por meio de atalhos da Tela inicial</string>
+    <string name="permission_notice_desc_add_voicemail">Para usar o correio de voz e funcionalidades de mensagem por áudio</string>
+    <string name="permission_notice_desc_call_phone">Para fazer chamadas através de atalhos da Tela inicial</string>
     <string name="permission_notice_desc_call_phone_for_pad">Para fazer chamadas em apps de terceiros</string>
     <string name="permission_notice_desc_camera">Para tirar fotos do perfil</string>
-    <string name="permission_notice_desc_read_call_logs">Para visualizar o histórico de chamadas</string>
+    <string name="permission_notice_desc_read_call_logs">Para ver o histórico de chamadas</string>
     <string name="permission_notice_desc_read_contacts">Para ver os contatos</string>
     <string name="permission_notice_desc_read_external_storage">Para adicionar fotos de perfil e importar vCards</string>
     <string name="permission_notice_desc_read_phone_state">Para acessar informações do SIM</string>
@@ -1258,7 +1258,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="privacy_password_title4">Senha atualizada</string>
     <string name="privacy_settings_blue_scan_connect">Conecte-se a dispositivos próximos</string>
     <string name="privacy_settings_call_phone">Fazer chamadas</string>
-    <string name="privacy_settings_call_phone_description">Para fazer chamadas por meio de atalhos da Tela inicial</string>
+    <string name="privacy_settings_call_phone_description">Para fazer chamadas através de atalhos na Tela inicial</string>
     <string name="privacy_settings_call_phone_description_for_pad">Para fazer chamadas em apps de terceiros</string>
     <string name="privacy_settings_call_phone_for_pad">Fazer chamadas</string>
     <string name="privacy_settings_contacts">Contatos e telefone</string>
@@ -1271,7 +1271,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="privacy_settings_phone_position_description">Para importar contatos de outros dispositivos via Bluetooth</string>
     <string name="privacy_settings_privacy_policy">Política de Privacidade</string>
     <string name="privacy_settings_read_call_log">Acessar histórico de chamadas</string>
-    <string name="privacy_settings_read_call_log_description">Para visualizar o histórico de chamadas</string>
+    <string name="privacy_settings_read_call_log_description">Para ver o histórico de chamadas</string>
     <string name="privacy_settings_read_contacts">Acessar contatos</string>
     <string name="privacy_settings_read_contacts_description">Para ver os contatos</string>
     <string name="privacy_settings_read_phone_state">Acessar informações do dispositivo</string>
@@ -1339,8 +1339,8 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="ringLabelsGroup">Toque</string>
     <string name="saf_permission_dialog_content">"O Android não permite que os apps de Contatos e Telefone acessem as gravações de chamadas por padrão. Permita que esses apps acessem as gravações de chamadas para poder visualizá-las."</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Permitir</string>
-    <string name="saf_permission_dialog_later">Mais tarde</string>
-    <string name="saf_permission_dialog_title">Permitir que Contatos e Telefone acessem gravações de chamadas</string>
+    <string name="saf_permission_dialog_later">Depois</string>
+    <string name="saf_permission_dialog_title">Permita que os Contatos e Telefone acessem as gravações de chamadas</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -1499,9 +1499,9 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="t9_search_empty_send_sms">Enviar mensagem</string>
     <string name="t9_search_empty_video_call">Videochamada</string>
     <string name="t9_search_guide_pinyin_title1">Insira números para encontrar contatos</string>
-    <string formatted="false" name="t9_search_guide_pinyin_title2">Digite %d e %d para pesquisar por \"Debbie Smith\"</string>
+    <string formatted="false" name="t9_search_guide_pinyin_title2">Digite %d e %d para pesquisar por \"Daniel Silva\"</string>
     <string name="t9_search_guide_zhuyin_title1">Insira números para encontrar contatos</string>
-    <string formatted="false" name="t9_search_guide_zhuyin_title2">Digite %d e %d para pesquisar por \"Jeff Max\"</string>
+    <string formatted="false" name="t9_search_guide_zhuyin_title2">Digite %d e %d para pesquisar por \"João Moreira\"</string>
     <string name="take_new_photo">Tirar uma nova foto</string>
     <string name="take_photo">Tirar foto</string>
     <string name="text_msim_balance">Usado hoje</string>
@@ -1563,15 +1563,15 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="toast_finish_delete_selected_call_log">Limpo com sucesso</string>
     <string name="toast_for_failed_saving_nickname">"Não foi possível salvar o apelido"</string>
     <string name="toast_for_saving_nickname">Apelido salvo</string>
-    <string name="toast_join_with_empty_contact">Insira o nome de contato antes de uní-lo a outro</string>
-    <string name="toast_not_show_blue_scan_connect_perm_req">Permita que este recurso se conecte a dispositivos próximos via Bluetooth para poder importar contatos de outros dispositivos.</string>
+    <string name="toast_join_with_empty_contact">Insira o nome de contato antes de mesclá-lo a outro</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Permita que este recurso se conecte a dispositivos próximos via Bluetooth para importar contatos de outros dispositivos.</string>
     <string name="toast_not_show_camera_perm_req">Para poder usar a câmera para tirar fotos de perfil, primeiro permita que este app tire fotos e grave vídeos.</string>
     <string name="toast_not_show_location_perm_req">Para poder importar contatos de outros dispositivos via Bluetooth, primeiro permita que este app acesse sua localização.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Para poder ver o histórico de chamadas, primeiro permita que este app acesse o histórico de chamadas.</string>
     <string name="toast_not_show_read_contacts_perm_req">Para poder ver os contatos, primeiro permita que este app acesse os contatos.</string>
     <string name="toast_not_show_read_phone_state_perm_req">Para poder usar este app com seu cartão SIM, primeiro permita que este app acesse as informações do dispositivo.</string>
-    <string name="toast_not_show_storage_perm_req">Para poder adicionar fotos de perfil e importar vCards, primeiro permita que este app acesse o armazenamento.</string>
-    <string name="toast_not_show_storage_perm_req_for_pad">Para poder adicionar fotos de perfil e importar vCards, primeiro permita que este app acesse o armazenamento.</string>
+    <string name="toast_not_show_storage_perm_req">Para adicionar fotos de perfil e importar vCards, primeiro permita que este app acesse o armazenamento.</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">Para adicionar fotos de perfil e importar vCards, primeiro permita que este app acesse o armazenamento.</string>
     <string name="toast_not_show_write_calllogs_perm_req">Para poder manter o histórico de chamadas atualizado, primeiro permita que este app edite o histórico de chamadas.</string>
     <string name="toast_not_show_write_contacts_perm_req">Para poder ver os contatos, primeiro permita que este app edite os contatos.</string>
     <string name="toast_start_intent_failed">"Não foi possível encontrar um app para executar esta ação"</string>
@@ -1612,7 +1612,7 @@ Selecione uma das seguintes opções:"</string>
     <string name="video_chat">Bate-papo por vídeo</string>
     <string name="viewContactDesription">Ver contato</string>
     <string name="viewContactTitle">Detalhes do contato</string>
-    <string name="view_more_call_logs">Veja mais</string>
+    <string name="view_more_call_logs">Ver mais</string>
     <string name="view_updates_from_group">Ver atualizações</string>
     <string name="voicemail">Correio de voz</string>
     <string name="websiteLabelsGroup">Site</string>

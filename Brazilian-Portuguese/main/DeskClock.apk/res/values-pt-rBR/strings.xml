@@ -30,15 +30,15 @@
     <string name="action_for_continue_timer">Retomar</string>
     <string name="action_for_pause_timer">Pausar</string>
     <string name="action_for_restart">Repetir</string>
-    <string name="action_for_snooze">Soneca</string>
+    <string name="action_for_snooze">Adiar</string>
     <string name="action_for_stop">Parar</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="add_alarm">Novo alarme</string>
     <string name="add_clock">Novo relógio</string>
-    <string name="add_common_timer">Adicionar temporizador</string>
+    <string name="add_common_timer">Adicionar timer</string>
     <string name="add_new_sound">Adicionar toque</string>
-    <string name="add_timer">Temporizador frequente</string>
-    <string name="add_timer_dialog_title">Adicionar temporizador</string>
+    <string name="add_timer">Timer frequente</string>
+    <string name="add_timer_dialog_title">Adicionar timer</string>
     <string name="add_timezone_title">Adicionar fuso horário</string>
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
@@ -47,17 +47,17 @@
     <string name="alarm_alert_close_entrance">Desativar</string>
     <string name="alarm_alert_disabled">Desativado</string>
     <string name="alarm_alert_now">Alarme: %s</string>
-    <string name="alarm_alert_snooze_button">Soneca</string>
+    <string name="alarm_alert_snooze_button">Adiar</string>
     <string name="alarm_ascending_mode_summary">O volume do alarme aumenta gradualmente</string>
     <string name="alarm_ascending_mode_title">Volume crescente</string>
     <string name="alarm_clock_more_setting">Configurações adicionais</string>
     <string name="alarm_disabled">Desativado</string>
-    <string name="alarm_in_furture_new">Alarme em menos de %d minuto.</string>
+    <string name="alarm_in_furture_new">O alarme tocará em menos de %d minuto</string>
     <string name="alarm_in_silent_mode_title">Alarme no Modo silencioso</string>
     <string name="alarm_klaxon_service_desc">Serviço de reprodução de som para alarmes definidos no Relógio.</string>
     <string name="alarm_label_hint">Nome do alarme</string>
     <string name="alarm_list_title">Alarme</string>
-    <string name="alarm_notify_snooze_label">Soneca %s</string>
+    <string name="alarm_notify_snooze_label">Adiar %s</string>
     <string name="alarm_notify_text">Tirar soneca ou dispensar alarme.</string>
     <string name="alarm_permanent_alert">Toque</string>
     <string name="alarm_repeat">Repetir</string>
@@ -78,10 +78,10 @@
     <string name="alert_ringtone">Toque do alarme</string>
     <string name="alert_vibrate_enable_summary">Vibrar quando o alarme disparar</string>
     <string name="alert_volume">Volume do toque</string>
-    <string name="alert_volume_summary">Defina o volume do toque dos alarmes e temporizadores</string>
-    <string name="alert_xiaoai_ringtone_desc">Mi AI está falando…</string>
+    <string name="alert_volume_summary">Defina o volume do toque dos alarmes e timers</string>
+    <string name="alert_xiaoai_ringtone_desc">O Mi AI está falando…</string>
     <string name="all_alarm_close">Todos os alarmes estão desligados</string>
-    <string name="already_exist">Este temporizador já existe</string>
+    <string name="already_exist">Este timer já existe</string>
     <string name="am">"AM"</string>
     <string name="analog_gadget">Relógio analógico</string>
     <string name="app_label">Relógio</string>
@@ -95,7 +95,7 @@
     <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> minutos</string>
     <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> minutos</string>
     <string name="auto_silence_never">Nunca</string>
-    <string name="auto_silence_summary">Defina o tempo após o qual os alarmes e temporizadores serão silenciados</string>
+    <string name="auto_silence_summary">Defina o tempo após o qual os alarmes e timers serão silenciados</string>
     <string name="auto_silence_title">Silenciar automaticamente</string>
     <string name="back">Sair</string>
     <string name="battery_charging_level">%d%%</string>
@@ -114,7 +114,7 @@
     <string name="bedtime_setting_complete">Durma bem!</string>
     <string name="bedtime_setting_complete_desc">Siga o seu novo horário de dormir para sentir-se o melhor possível</string>
     <string name="bedtime_setting_no_disturbance">Alterar para o Não pertube enquanto dorme?</string>
-    <string name="bedtime_setting_no_disturbance_desc">Toques, sons de notificações e vibração serão silenciados até você acordar.</string>
+    <string name="bedtime_setting_no_disturbance_desc">Toques, sons de notificações e vibração serão silenciados até que você acorde.</string>
     <string name="bedtime_setting_repeat_type">Quando seu horário de dormir será aplicado?</string>
     <string name="bedtime_setting_repeat_type_desc">"Selecione os dias em que você receberá lembretes"</string>
     <string name="bedtime_settings">Configurações da hora de dormir</string>
@@ -136,7 +136,7 @@
     <string name="channel_name_alarm">Alarme</string>
     <string name="channel_name_sleep">Dormir</string>
     <string name="channel_name_stopwatch">Cronômetro</string>
-    <string name="channel_name_timer">Temporizador</string>
+    <string name="channel_name_timer">Timer</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="check_theme_app_install">Certifique-se de que o app Temas esteja instalado.</string>
@@ -156,7 +156,7 @@
     <string name="close_alarm">Desativar</string>
     <string name="close_alarm_new">Parar</string>
     <string name="common_settings">Configurações</string>
-    <string name="common_timer_selector">Selecionar temporizador</string>
+    <string name="common_timer_selector">Selecionar timer</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_abort">Descartar</string>
     <string name="confirm_remove_custom_ringtone">Se você excluir este toque, os alarmes e cronômetros que o utilizam reproduzirão o toque padrão. Excluir?</string>
@@ -176,8 +176,8 @@
     <string name="default_label">Alarme</string>
     <string name="delete">Excluir</string>
     <string name="delete_alarm">Excluir alarme</string>
-    <string name="delete_selected_timer_item">Excluir a tarefa do temporizador selecionado?</string>
-    <string name="delete_timer_item_title">Excluir tarefa do temporizador</string>
+    <string name="delete_selected_timer_item">Excluir a tarefa do timer selecionado?</string>
+    <string name="delete_timer_item_title">Excluir tarefa do timer</string>
     <string name="delete_timezone_title">Excluir fuso horário</string>
     <string name="deskclock_sleep_no_disturbance">Relógio > Gerenciar hora de dormir > Não perturbe</string>
     <string name="device_sounds">Sons do dispositivo</string>
@@ -196,8 +196,8 @@
     <string name="dialog_privacy_content">Para obter informações relevantes sobre feriados públicos, ajustar alarmes e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
     <string name="dialog_privacy_content_global">Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
     <string name="dialog_privacy_content_news">Para fornecer serviços personalizados e incluir notícias matinais em seus alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e %2$s. Aceitar?</string>
-    <string name="dialog_privacy_content_timer">Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
-    <string name="dialog_privacy_content_timer_data">"Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈20 MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Você está usando dados móveis agora. Aceitar?"</string>
+    <string name="dialog_privacy_content_timer">Para baixar arquivos de áudio para os timers de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
+    <string name="dialog_privacy_content_timer_data">"Para baixar arquivos de áudio para os timers de ruído ambiente (≈20 MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Você está usando dados móveis agora. Aceitar?"</string>
     <string name="disagree">Não aceitar</string>
     <string name="done">Concluído</string>
     <string name="dynamic_alarm_speech">Alarme inteligente</string>
@@ -213,7 +213,7 @@
     <string name="evening">"PM"</string>
     <string name="every_day">Diariamente</string>
     <string name="expand_button_title">Avançado</string>
-    <string name="expired_timers_dismissed">Temporizador dispensado com sucesso</string>
+    <string name="expired_timers_dismissed">Timer dispensado com sucesso</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -251,11 +251,11 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="force_start_permission_desc">"Permita que os alarmes funcionem normalmente mesmo quando você fechar o app"</string>
+    <string name="force_start_permission_desc">"Permita que os alarmes funcionem normalmente mesmo com o app fechado"</string>
     <string name="force_start_permission_title">Início automático</string>
     <string name="force_touch_add_alarm">Novo alarme</string>
     <string name="force_touch_enter_stopwatch">Cronômetro</string>
-    <string name="force_touch_enter_timer">Temporizador</string>
+    <string name="force_touch_enter_timer">Timer</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -271,7 +271,7 @@
     <string name="install_weather_app_error">Não foi possível carregar o app</string>
     <string name="install_weather_app_loading">Aguarde…</string>
     <string name="invalid_time">Hora inválida: %3$s %1$d: %2$d</string>
-    <string name="invalid_timer_length">"A duração do temporizador é inválida"</string>
+    <string name="invalid_timer_length">"A duração do timer é inválida"</string>
     <string name="item_view_role_description">Guia</string>
     <string name="keep_screen_on">Manter tela ligada</string>
     <string name="korea_permission_calendar">Agenda</string>
@@ -306,13 +306,13 @@
     <string name="life_post_setting_wake_up_list_title">Histórico quando acordado</string>
     <string name="life_post_wake_up_acumu_day_title">Contagem de dias</string>
     <string name="life_post_wake_up_item_acumu_day_title">Contagem de dias</string>
-    <string name="life_post_wake_up_item_percentage_title">Mi Fãs atrás de você</string>
+    <string name="life_post_wake_up_item_percentage_title">Xiaomi Fãs atrás de você</string>
     <string name="life_post_wake_up_item_time_title">Acordou às</string>
     <string name="life_post_wake_up_percentage_sign">%</string>
-    <string name="life_post_wake_up_percentage_title">Mi Fãs atrás de você</string>
+    <string name="life_post_wake_up_percentage_title">Xiaomi Fãs atrás de você</string>
     <string name="life_post_wake_up_time_title">Acordou às</string>
     <string name="life_post_weather_invalid">Toque para obter informações sobre o clima</string>
-    <string name="life_post_weather_no_network">Conecte-se na internet para atualizar as informações sobre o clima</string>
+    <string name="life_post_weather_no_network">Conecte-se à rede para atualizar as informações sobre o clima</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="listen_news_privacy"><Data>Para fornecer serviços personalizados e incluir notícias matinais aos seus alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="look_sleep_data">Ver dados de sono</string>
@@ -333,7 +333,7 @@
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="menu_add_worldclock">Novo relógio</string>
     <string name="menu_desk_clock">Relógio</string>
-    <string name="menu_edit_timer_item">Editar tarefa do temporizador</string>
+    <string name="menu_edit_timer_item">Editar tarefa do timer</string>
     <string name="menu_item_dock_settings">Configurações do Dock</string>
     <string name="menu_item_sort_by_gmt_offset">Ordenar por horário</string>
     <string name="menu_item_sort_by_name">Ordenar por nome</string>
@@ -375,7 +375,7 @@ mm"</string>
     <string name="miuix_navigator_category_group_collapse">Recolher</string>
     <string name="miuix_navigator_category_group_expand">Expandir</string>
     <string name="miuix_navigator_content_switch_description">Mostrar barra lateral</string>
-    <string name="miuix_navigator_multiple_choice">Selecione</string>
+    <string name="miuix_navigator_multiple_choice">Selecionar</string>
     <string name="miuix_navigator_navigator_switch_description">Ocultar barra lateral</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
@@ -393,13 +393,13 @@ mm"</string>
     <string name="module_download_data_msg">Para disponibilizar os alarmes inteligentes do HyperOS, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contém recursos de áudio que permitem incluir informações de clima atual nos alarmes. Cerca de 20 MB dos seus dados móveis serão usados neste download. Baixar agora?</string>
     <string name="module_download_data_msg_golbal">O Relógio precisa baixar arquivos de áudio para os alarmes inteligentes HyperOS. ~20 MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
     <string name="module_download_data_msg_replace">Arquivos de áudio atualizados para os alarmes inteligentes HyperOS estão disponíveis. ~20 MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
-    <string name="module_download_data_msg_timer">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ~20 MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
+    <string name="module_download_data_msg_timer">O Relógio precisa baixar arquivos de áudio para os timers de ruído ambiente. ~20 MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
     <string name="module_download_fail">Não foi possível baixar o áudio adicional</string>
     <string name="module_download_failure">"Não foi possível baixar os arquivos de áudio. Verifique suas configurações de rede e tente novamente."</string>
     <string name="module_download_msg">Para disponibilizar os alarmes inteligentes do HyperOS, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contém recursos de áudio que permitem incluir informações de clima atual nos alarmes. Baixar agora?</string>
     <string name="module_download_msg_golbal">O Relógio precisa baixar arquivos de áudio para os alarmes inteligentes HyperOS. Baixar agora?</string>
     <string name="module_download_msg_replace">Arquivos de áudio atualizados para os alarmes inteligentes HyperOS estão disponíveis. Baixar agora?</string>
-    <string name="module_download_msg_timer">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. Baixar agora?</string>
+    <string name="module_download_msg_timer">O Relógio precisa baixar arquivos de áudio para os timers de ruído ambiente. Baixar agora?</string>
     <string name="module_download_no_network">O Relógio precisa se conectar à internet para baixar arquivos de áudio. Verifique suas configurações de rede e tente novamente.</string>
     <string name="module_download_ok">Permitir</string>
     <string name="module_download_success">Arquivos de áudio baixados com sucesso</string>
@@ -429,12 +429,12 @@ mm"</string>
     <string name="module_week_ringtone_update_data">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar ≈30 MB de arquivos de áudio para que ele funcione. Baixar agora?</string>
     <string name="module_week_ringtone_update_data_new">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar ≈%d MB de arquivos de áudio para que ele funcione. Baixar agora?</string>
     <string name="module_week_ringtone_update_success">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. Você pode criar um novo alarme para experimentar este recurso.</string>
-    <string name="module_white_noise_download_data">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ≈30 MB dos seus dados móveis serão necessários. Baixar agora?</string>
-    <string name="module_white_noise_download_data_new">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ≈%d MB dos seus dados móveis serão necessários. Baixar agora?</string>
-    <string name="module_white_noise_download_data_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈30 MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando dados móveis nesse momento. Aceitar?</Data></string>
-    <string formatted="false" name="module_white_noise_download_data_privacy_new"><Data>"Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Você está usando dados móveis nesse momento. Aceitar?"</Data></string>
-    <string name="module_white_noise_download_wifi">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. Baixar agora?</string>
-    <string name="module_white_noise_download_wifi_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="module_white_noise_download_data">O Relógio precisa baixar arquivos de áudio para os timers de ruído ambiente. ≈30 MB dos seus dados móveis serão necessários. Baixar agora?</string>
+    <string name="module_white_noise_download_data_new">O Relógio precisa baixar arquivos de áudio para os timers de ruído ambiente. ≈%d MB dos seus dados móveis serão necessários. Baixar agora?</string>
+    <string name="module_white_noise_download_data_privacy"><Data>Para baixar arquivos de áudio para os timers de ruído ambiente (≈30 MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando dados móveis nesse momento. Aceitar?</Data></string>
+    <string formatted="false" name="module_white_noise_download_data_privacy_new"><Data>"Para baixar arquivos de áudio para os timers de ruído ambiente (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Você está usando dados móveis nesse momento. Aceitar?"</Data></string>
+    <string name="module_white_noise_download_wifi">O Relógio precisa baixar arquivos de áudio para os timers de ruído ambiente. Baixar agora?</string>
+    <string name="module_white_noise_download_wifi_privacy"><Data>Para baixar arquivos de áudio para os timers de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -538,7 +538,7 @@ mm"</string>
     <string name="notification_permission_dialog_title">Permissões necessárias</string>
     <string name="oneshot_alarm">Excluir após alarme disparar</string>
     <string name="open_keep_screen">A tela será mantida ligada</string>
-    <string name="open_notification_permission_remind">Permita notificações para poder desativar os alarmes</string>
+    <string name="open_notification_permission_remind">Permita as notificações para desativar os alarmes</string>
     <string name="open_sleep_record">Ativar</string>
     <string name="other_category_title">Outros</string>
     <string name="other_settings">Configurações adicionais</string>
@@ -557,7 +557,7 @@ mm"</string>
     <string name="privacy_settings_title">Privacidade</string>
     <string name="read_device_internal_storage">Acessar armazenamento</string>
     <string name="query_privacy_policy">Política de Privacidade</string>
-    <string name="reach_upper_limit">Não é possível adicionar mais temporizadores</string>
+    <string name="reach_upper_limit">Não é possível adicionar mais timers</string>
     <string name="read_external_storage_permission_desc">Para configurar toques personalizados</string>
     <string name="read_internal_storage">Acessar Armazenamento</string>
     <string name="read_phone_state">Acessar informações do dispositivo</string>
@@ -571,7 +571,7 @@ mm"</string>
     <string name="revert">Reverter</string>
     <string name="ringtone_all">Todos os toques</string>
     <string name="ringtone_dew">Orvalho da manhã</string>
-    <string name="ringtone_digital_timer">Temporizador</string>
+    <string name="ringtone_digital_timer">Timer</string>
     <string name="ringtone_dream">Sonhando acordado</string>
     <string name="ringtone_firefly">Vaga-lumes</string>
     <string name="ringtone_more">Outros</string>
@@ -584,7 +584,7 @@ mm"</string>
     <string name="search_alarm_clock_keywords">Alarme;Alarme;</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_stopwatch_keywords">Cronômetro</string>
-    <string name="search_timer_keywords">Temporizador</string>
+    <string name="search_timer_keywords">Timer</string>
     <string name="search_worldclock_keywords">Hora;Relógio Mundial;Relógio</string>
     <string name="select_all">Selecionar todos</string>
     <string name="select_operation">Selecionar</string>
@@ -601,7 +601,7 @@ mm"</string>
     <string name="setting_complete">Concluído</string>
     <string name="settings">Configurações</string>
     <string name="shortcut_new_alarm">Definir alarme</string>
-    <string name="shortcut_start_timer">Iniciar temporizador</string>
+    <string name="shortcut_start_timer">Iniciar timer</string>
     <string name="shortcut_stop_watch">Iniciar cronômetro</string>
     <string name="show_life_post_desc">"Os relatórios matinais não serão exibidos caso desative esse recurso"</string>
     <string name="show_life_post_lable">Exibir relatório matinal</string>
@@ -629,7 +629,7 @@ mm"</string>
     <string name="sleep_no_record_text">Comece a analisar o seu sono para ver estatísticas</string>
     <string name="sleep_notification_desc">Cumpra o seu horário de dormir</string>
     <string name="sleep_notification_title">Hora de ir para a cama</string>
-    <string name="sleep_record">Analise o sono</string>
+    <string name="sleep_record">Analisar sono</string>
     <string name="sleep_record_desc">Ative para começar a registrar seus dados de sono</string>
     <string name="sleep_record_desc_detailed">O recurso de análise de sono é fornecido pelo Mi Saúde. Uma vez ativado, o Mi Saúde registrará automaticamente o seu sono com base no seu uso do dispositivo, estatísticas de atividades e horários de dormir e acordar que você definiu, mostrando suas estatísticas na forma de gráficos. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente. Todos os dados relacionados serão armazenados localmente no seu dispositivo, o que permite que você os gerencie com facilidade.</string>
     <string name="sleep_record_desc_detailed_new">A análise do sono é fornecido pelo recurso Sono do Mi Saúde. Se você ativar esse recurso, o Mi Saúde coletará e exibirá automaticamente os dados do seu sono com base no uso do dispositivo, na atividade e na hora de dormir e acordar que você definiu. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente.</string>
@@ -641,9 +641,9 @@ mm"</string>
     <string name="slider_text_new">Deslize para cima para parar</string>
     <string name="snooze_alarm_alert">Adiado até %s</string>
     <string name="snooze_confirm_cancel">Dispensar alarme</string>
-    <string name="snooze_duration">Soneca</string>
+    <string name="snooze_duration">Adiar</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
-    <string name="snooze_duration_title">Soneca</string>
+    <string name="snooze_duration_title">Adiar</string>
     <string name="snooze_duration_value">Intervalo (minutos)</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
@@ -683,7 +683,7 @@ mm"</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_permission_agree_desc">Permita que este app conecte-se à internet para acessar todos os seus recursos.</string>
-    <string name="system_permission_main_purpose">Ver a hora, definir alarmes e temporizadores, e usar o cronômetro</string>
+    <string name="system_permission_main_purpose">Ver a hora, definir alarmes e timers, e usar o cronômetro</string>
     <string name="system_permission_purpose">Criar alarmes em dias úteis e definir toques personalizados</string>
     <string name="system_time_setting">Configurações</string>
     <string name="system_time_settings_category_title">Configuração de hora</string>
@@ -740,14 +740,14 @@ mm"</string>
     <string name="time_settings">Configurações do relógio</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Toque na tela para parar de tocar</string>
-    <string name="timer_alarm_dot_matrix_label">Temporizador</string>
-    <string name="timer_alert_alert_silenced">Temporizador silenciado após %1$s.</string>
-    <string name="timer_alert_mute_off">O alarme tocará quando o temporizador parar</string>
-    <string name="timer_alert_mute_on">"O alarme não tocará quando o temporizador parar"</string>
+    <string name="timer_alarm_dot_matrix_label">Timer</string>
+    <string name="timer_alert_alert_silenced">Timer silenciado após %1$s.</string>
+    <string name="timer_alert_mute_off">O alarme tocará quando o timer parar</string>
+    <string name="timer_alert_mute_on">"O alarme não tocará quando o timer parar"</string>
     <string name="timer_alert_mute_remind">Toque para silenciar o alarme</string>
-    <string name="timer_alert_mute_switch">Interruptor para silenciar alarmes do temporizador</string>
-    <string name="timer_alert_pause">O temporizador está pausado</string>
-    <string name="timer_alert_running">O temporizador está em andamento</string>
+    <string name="timer_alert_mute_switch">Interruptor para silenciar alarmes do timer</string>
+    <string name="timer_alert_pause">O timer está pausado</string>
+    <string name="timer_alert_running">O timer está em andamento</string>
     <string name="timer_alert_type_beach">Praia</string>
     <string name="timer_alert_type_forest">Floresta</string>
     <string name="timer_alert_type_mute">Padrão</string>
@@ -756,40 +756,40 @@ mm"</string>
     <string name="timer_alert_type_spring_rain">Chuva de verão</string>
     <string name="timer_alert_type_stove_fire">Fogueira</string>
     <string name="timer_alert_type_summer_night">Noite de verão</string>
-    <string name="timer_can_continue_in_timer">Abra o Temporizador para retomar</string>
+    <string name="timer_can_continue_in_timer">Abra o Timer para retomar</string>
     <string name="timer_cancel_hint">Parar</string>
-    <string name="timer_cancel_timer">Cancelar temporizador</string>
-    <string name="timer_clock_alert_text">Definir temporizador</string>
+    <string name="timer_cancel_timer">Cancelar timer</string>
+    <string name="timer_clock_alert_text">Definir timer</string>
     <string name="timer_continue">Continuar</string>
-    <string name="timer_continue_timer">Retomar temporizador</string>
-    <string name="timer_created">Temporizador adicionado com sucesso</string>
+    <string name="timer_continue_timer">Retomar timer</string>
+    <string name="timer_created">Timer adicionado com sucesso</string>
     <string name="timer_desc_use_brush_teeth">Escovar os dentes</string>
     <string name="timer_desc_use_facial_mask">Máscara facial</string>
     <string name="timer_desc_use_sleep">Soneca</string>
-    <string name="timer_end_time">O temporizador vai parar às %s</string>
+    <string name="timer_end_time">O timer vai parar às %s</string>
     <string name="timer_end_time_format">"HH:mm, dd 'de' MMMM"</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">"OK"</string>
     <string name="timer_got_it_new">Silenciar</string>
-    <string name="timer_is_paused">O temporizador está pausado</string>
+    <string name="timer_is_paused">O timer está pausado</string>
     <string name="timer_keep_screen_on">Manter tela ligada</string>
     <string name="timer_item_delete">Excluir</string>
     <string name="timer_item_duration_display">%1$d min %2$d seg</string>
     <string name="timer_item_edit">Editar</string>
-    <string name="timer_item_label_hint">Nome do temporizador</string>
+    <string name="timer_item_label_hint">Nome do timer</string>
     <string name="timer_item_picker_hour">"H"</string>
     <string name="timer_item_picker_minute">"M"</string>
     <string name="timer_item_picker_second">"S"</string>
-    <string name="timer_new_item">Novo temporizador</string>
-    <string name="timer_notify_text">Tirar soneca ou dispensar temporizador.</string>
-    <string name="timer_pause_timer">Pausar temporizador</string>
-    <string name="timer_ringtone">Toque do temporizador</string>
-    <string name="timer_running">Temporizador em execução</string>
+    <string name="timer_new_item">Novo timer</string>
+    <string name="timer_notify_text">Tirar soneca ou dispensar timer.</string>
+    <string name="timer_pause_timer">Pausar timer</string>
+    <string name="timer_ringtone">Toque do timer</string>
+    <string name="timer_running">Timer em execução</string>
     <string name="timer_screen_on">A tela permanece ligada</string>
     <string name="timer_screen_turn_on">Manter tela ligada</string>
     <string name="timer_start_alarm">"O tempo acabou!"</string>
-    <string name="timer_start_timer">Iniciar temporizador</string>
-    <string name="timer_title">Temporizador</string>
+    <string name="timer_start_timer">Iniciar timer</string>
+    <string name="timer_title">Timer</string>
     <string name="timezone_exist_error_message">"Você já está exibindo este fuso horário"</string>
     <string name="timezone_null_massage">Nada aqui ainda</string>
     <string name="today">Hoje</string>
