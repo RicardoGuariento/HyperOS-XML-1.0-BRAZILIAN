@@ -613,7 +613,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_account_set_password_prompt">Defina a senha da sua conta para fazer login na próxima vez.</string>
     <string name="passport_account_set_password_title">Definir senha</string>
     <string name="passport_account_user_avatar">Foto de perfil</string>
-    <string name="passport_account_user_avatar_from_album">Galeria</string>
+    <string name="passport_account_user_avatar_from_album">Selecionar da Galeria</string>
     <string name="passport_account_user_avatar_from_camera">Câmera</string>
     <string name="passport_account_user_base_info">Informação básica</string>
     <string name="passport_account_user_details">Informação pessoal</string>
@@ -802,7 +802,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
-    <string name="passport_request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
+    <string name="passport_request_gallery_permission_message">Este app precisa acessar itens selecionados da Galeria para poder definir sua foto de perfil. Permitir agora?</string>
     <string name="passport_request_permission_title">Permissões necessárias</string>
     <string name="passport_resend_active_email">Reenviar e-mail</string>
     <string name="passport_resend_ticket">Reenviar código</string>

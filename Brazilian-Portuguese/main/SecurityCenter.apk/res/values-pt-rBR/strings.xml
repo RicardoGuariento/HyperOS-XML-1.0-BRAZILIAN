@@ -810,13 +810,13 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_task_available_device">Dispositivos disponíveis</string>
     <string name="auto_task_condition_choose_battery_level_down">"Quando a bateria atingir um certo nível"</string>
     <string name="auto_task_condition_choose_end_time">Hora de término</string>
-    <string name="auto_task_condition_choose_ontime">Temporizador</string>
+    <string name="auto_task_condition_choose_ontime">Timer</string>
     <string name="auto_task_condition_choose_start_time">Hora de início</string>
     <string name="auto_task_condition_choose_time_duration">Definir hora</string>
     <string name="auto_task_condition_number_pick_title">Definir condição da bateria</string>
     <string name="auto_task_condition_restore_task_when_charged">Alterar para o modo anterior após o carregamento</string>
     <string name="auto_task_condition_time_duration_text">De %1$s às %2$s</string>
-    <string name="auto_task_condition_time_pick_title">Definir Temporizador</string>
+    <string name="auto_task_condition_time_pick_title">Definir timer</string>
     <string name="auto_task_condition_time_text">Às %s</string>
     <string name="auto_task_conncet_to_some_device">Conectar a %s</string>
     <string name="auto_task_create_success">Tarefa criada com sucesso</string>
@@ -1155,13 +1155,13 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="btn_text_quick_save_power">Otimizar</string>
     <string name="btn_text_quick_scan">Verificar</string>
     <string name="btn_text_stop">Parar</string>
-    <string name="bubble_app_empty_page">Não foi possível encontrar apps compatíveis com conversa em bolhas neste dispositivo</string>
+    <string name="bubble_app_empty_page">"Não foi possível encontrar apps compatíveis com conversas em bolhas neste dispositivo"</string>
     <string name="bubble_app_manage">Gerenciar conversas em bolhas</string>
     <string name="bubble_mode_barrage_switch_tips">Ative para mostrar bolhas de conversa para apps minimizados como comentários na tela</string>
     <string name="bubble_mode_barrage_tips">Bolhas de conversa para apps minimizados serão exibidos como comentários na tela</string>
     <string name="bubble_notification">Conversas em bolhas</string>
     <string name="bubble_notification_switch">Mostrar conversas em bolhas</string>
-    <string name="bubble_notification_switch_desc">Quando um app de mensagens em uma janela flutuante estiver oculto na borda da tela, as mensagens recebidas serão exibidas em bolhas</string>
+    <string name="bubble_notification_switch_desc">Quando um app de mensagens em uma janela flutuante estiver oculto na borda da tela, as mensagens recebidas serão exibidas em bolhas.</string>
     <string name="button_background_connection">Corrigir</string>
     <string name="button_block_calls_from_cantacts">Desbloquear</string>
     <string name="button_block_calls_from_strangers">Desbloquear</string>
@@ -2291,7 +2291,7 @@ monitoramento de terremotos"</string>
     <string name="gamebox_screenrecord">Gravar tela</string>
     <string name="gamebox_screenshot">Capturar tela</string>
     <string name="gamebox_simcard">Alternar cartões SIM</string>
-    <string name="gamebox_time">Temporizador</string>
+    <string name="gamebox_time">Timer</string>
     <string name="gamebox_type_close">Não mostrar</string>
     <string name="gamebox_type_float">Atalho fixo</string>
     <string name="gamebox_type_gesture">Deslize para exibir</string>
@@ -2453,7 +2453,7 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_game_ratio_left">Esquerda</string>
     <string name="gb_game_ratio_right">Direita</string>
     <string name="gb_game_ratio_top">Topo</string>
-    <string name="gb_game_time_toast">O temporizador está disponível agora!</string>
+    <string name="gb_game_time_toast">O timer está disponível agora!</string>
     <string name="gb_game_tips_restart">O jogo será reiniciado para aplicar as alterações</string>
     <string name="gb_game_video_bottom_tips">Reveja os principais momentos de suas sessões de jogo no Game Turbo. Os vídeos serão excluídos automaticamente após 7 dias.</string>
     <string name="gb_game_video_bottom_tips_new">Reveja os principais momentos de suas sessões de jogo no Game Turbo. Os vídeos serão excluídos automaticamente após %d dias.</string>
@@ -2854,7 +2854,7 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="gtb_spring_festival_shortcut_create">Criar um atalho na ela inicial</string>
     <string name="gtb_start_phone_accelerate">Impulsionar</string>
     <string name="gtb_stop_accelerate">Parar</string>
-    <string name="gtb_timer">Temporizador</string>
+    <string name="gtb_timer">Timer</string>
     <string name="gtb_voice_changer">Modificador de voz</string>
     <string name="gtb_wlan_speed_tips">Usando o Mi Wi-Fi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Operadora errada?&lt;/U>&lt;/font>"</string>

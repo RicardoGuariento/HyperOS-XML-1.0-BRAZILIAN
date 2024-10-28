@@ -49,6 +49,14 @@
         <item quantity="other">Duração: %d segundos</item>
         <item quantity="one">Duração: %d segundo</item>
     </plurals>
+    <plurals name="accessibility_watermark_characters_inputted">
+        <item quantity="other">Inseriu %d caracteres.</item>
+        <item quantity="one">Inseriu %d caractere.</item>
+    </plurals>
+    <plurals name="accessibility_watermark_characters_max">
+        <item quantity="other">Insira até %d caracteres.</item>
+        <item quantity="one">Insira até %d caractere.</item>
+    </plurals>
     <plurals name="cinemaster_toast_camera_overflow">
         <item quantity="other">Você pode conectar até %d câmeras à mesma rede</item>
         <item quantity="one">Você pode conectar até %d câmera à mesma rede</item>

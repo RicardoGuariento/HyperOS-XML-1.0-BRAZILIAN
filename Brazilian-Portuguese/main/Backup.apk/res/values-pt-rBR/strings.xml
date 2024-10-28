@@ -276,7 +276,7 @@ https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="findlost_contact">Restaurar contatos</string>
     <string name="findlost_contact_online">Restaurar contatos da nuvem</string>
     <string name="flash_drive_backup_btn">Backup para o drive USB</string>
-    <string name="flash_drive_backup_note">"Faça o backup do conteúdo em uma unidade USB.
+    <string name="flash_drive_backup_note">"Faça o backup do conteúdo para um drive USB.
 Certifique-se de que o drive USB tem espaço suficiente antes de iniciar."</string>
     <string name="flash_drive_backup_restore">Backups USB</string>
     <string name="flash_drive_connection_failed">Drive USB desconectado</string>
@@ -608,7 +608,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_task_finished">Concluído</string>
     <string name="new_usb_detail_description">"Observação:
 %1$d. Este método permite fazer o backup de apps e dados de terceiros.
-%2$d. Certifique-se de que há espaço suficiente na sua unidade USB para armazenar os backups."</string>
+%2$d. Certifique-se de que há espaço suficiente em seu drive USB para armazenar os backups."</string>
     <string name="new_usb_disconnect_dialog_message">Conecte um drive USB primeiro.</string>
     <string name="new_usb_disconnect_dialog_title">Não foi possível encontrar o drive USB</string>
     <string name="new_usb_select_data_no_space">Só há %s de espaço disponível no seu drive USB. Libere espaço de armazenamento.</string>
@@ -682,14 +682,14 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_intro">Detalhes de permissões</string>
     <string name="permission_management_entrance">Gerenciar permissões</string>
     <string name="permission_not_admit">Não permitido</string>
-    <string name="permission_purpose">Este recurso permite que você faça backup e restaure itens usando seus dispositivos móveis, computadores e unidades USB.</string>
-    <string name="permission_purpose_pad">Este recurso permite que você faça backup e restaure itens usando seus dispositivos móveis, computadores e unidades USB.</string>
-    <string name="permission_read_apps">Acesse a lista de apps instalados neste dispositivo</string>
+    <string name="permission_purpose">Este recurso permite que você faça backup e restaure itens usando seus dispositivos móveis, computadores e drives USB.</string>
+    <string name="permission_purpose_pad">Este recurso permite que você faça backup e restaure itens usando seus dispositivos móveis, computadores e drives USB.</string>
+    <string name="permission_read_apps">Acessar a lista de apps instalados neste dispositivo</string>
     <string name="permission_read_calendar">Acessar eventos da Agenda</string>
     <string name="permission_read_calllog">Acessar histórico de chamadas</string>
     <string name="permission_read_contacts">Acessar contatos</string>
     <string name="permission_read_sms">Acessar mensagens</string>
-    <string name="permission_read_storage">Ler e gravar itens no armazenamento interno</string>
+    <string name="permission_read_storage">Acessar e salvar itens no armazenamento</string>
     <string name="permission_read_storage_global">Acessar o armazenamento</string>
     <string name="permission_read_storage_global_pad">Acessar o armazenamento</string>
     <string name="permission_read_write_storage">Para poder fazer backup de itens, permita que esse recurso acesse o armazenamento primeiro.</string>
@@ -697,8 +697,8 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_read_write_sys_app1">Permita que este recurso acesse suas mensagens e contatos para poder fazer backup e restaurar esses itens.</string>
     <string name="permission_read_write_sys_app2">Permita que este recurso acesse seus contatos para poder fazer backup e restaurar esses itens.</string>
     <string name="permission_related">Permissões</string>
-    <string name="permission_restore_calendar">Para restaurar eventos de calendário</string>
-    <string name="permission_restore_calendar_desc">Para poder restaurar eventos de calendário, permita que este app edite primeiro seus eventos de calendário.</string>
+    <string name="permission_restore_calendar">Para restaurar eventos da agenda</string>
+    <string name="permission_restore_calendar_desc">Para poder restaurar eventos da agenda, permita que este app edite primeiro seus eventos da agenda.</string>
     <string name="permission_restore_calllog">Para restaurar o histórico de chamadas</string>
     <string name="permission_restore_calllog_desc">Para poder restaurar o histórico de chamadas, permita que este app edite primeiro seu histórico de chamadas.</string>
     <string name="permission_restore_contacts">Para restaurar contatos</string>

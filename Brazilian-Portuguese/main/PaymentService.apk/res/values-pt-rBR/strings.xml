@@ -691,9 +691,9 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="passport_back">Voltar</string>
     <string name="passport_bad_authentication">Usuário ou senha incorretos</string>
-    <string name="passport_barcode_add_account_prompt">Para adicionar uma conta, leia o código QR novamente após fazer login.</string>
-    <string name="passport_can_not_receive_verification_code">"Não recebeu o código de verificação?"</string>
-    <string name="passport_captcha_title">"Captcha"</string>
+    <string name="passport_can_not_recevie_verify_code">"Não recebeu o código?"</string>
+    <string name="passport_change_password">Alterar a senha</string>
+    <string name="passport_check_security">Verificando problemas de segurança…</string>
     <string name="passport_checking_account">Verificando senha…</string>
     <string name="passport_clear_input">Limpar conteúdo inserido</string>
     <string name="passport_copy_link">Copiar URL</string>
@@ -723,9 +723,12 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_error_empty_phone_num">Digite o número de telefone</string>
     <string name="passport_error_empty_password">Digite sua senha</string>
     <string name="passport_error_empty_pwd">"A senha não pode ficar vazia"</string>
+    <string name="passport_error_empty_user_id">Digite seu nome de usuário</string>
     <string name="passport_error_empty_vcode">Digite o código de verificação</string>
     <string name="passport_error_empty_voice_code">Insira o captcha</string>
     <string name="passport_error_illegal_pwd">Senha inválida</string>
+    <string name="passport_error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
+    <string name="passport_error_length_limit">O texto digitado é muito longo</string>
     <string name="passport_error_network">"Não é possível conectar-se à rede"</string>
     <string name="passport_error_no_password_user">"Você não definiu uma senha ainda. Faça o login com SMS."</string>
     <string name="passport_error_phone_error">Número de telefone inválido</string>
@@ -758,6 +761,8 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_input_captcha_hint">Digite o código</string>
     <string name="passport_input_email_address_notice">"Usaremos este e-mail para verificar sua conta"</string>
     <string name="passport_input_password_hint">Digite a senha</string>
+    <string name="passport_input_phone_number_hint">Digite o número de telefone</string>
+    <string name="passport_input_verify_code">Digite o código de verificação</string>
     <string name="passport_input_phone_hint">Digite o número de telefone</string>
     <string name="passport_input_vcode_hint">Digite o código de verificação</string>
     <string name="passport_input_voice_captcha_hint">Digite o código de verificação por voz</string>

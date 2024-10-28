@@ -52,7 +52,7 @@
     <string name="additional_calendar_note">Alguns calendários adicionais podem não estar disponíveis dependendo de fatores inconstantes</string>
     <string name="afternoon">"PM"</string>
     <string name="agenda_month_empty_hint">Nenhum evento para hoje</string>
-    <string name="agenda_not_today_empty_hint">Ainda não há eventos aqui. Toque para criar um.</string>
+    <string name="agenda_not_today_empty_hint">Nenhum evento aqui ainda. Toque para criar um.</string>
     <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
     <string name="agenda_view">Eventos</string>
     <string name="alarm_label">Dispensar</string>
@@ -154,7 +154,7 @@
     <string name="countdown_today">Hoje</string>
     <string name="create_an_account_desc">"A Agenda funciona melhor com uma Conta Mi
 
-• Acesse-a a partir de qualquer navegador web.
+• Acesse-a de qualquer navegador web.
 • Faça o backup de seus eventos com segurança."</string>
     <string name="create_kundli">Criar Kundli</string>
     <string name="creating_event">Evento criado</string>
@@ -194,6 +194,7 @@
     <string name="date_view">Data</string>
     <string name="day">Dia</string>
     <string name="day_view_new_event_hint">Novo evento</string>
+    <string name="default_reminder_later_time">Intervalo padrão para \"Lembrar mais tarde\"</string>
     <string name="default_reminder_mode">Lembretes</string>
     <string name="delete_menstruation_record_confirm">Excluir este registro?</string>
     <string name="delete_recurring_event_title">Excluir %s?</string>
@@ -226,7 +227,7 @@
     <string name="edit_event_label">Detalhes</string>
     <string name="edit_event_no_reminder_value">"Não lembrar"</string>
     <string name="edit_event_reminder_3_days_before">E lembrar %d dias antes</string>
-    <string name="edit_event_reminder_3_days_before_time">Também lembre %d dias antes</string>
+    <string name="edit_event_reminder_3_days_before_time">Também lembrar %d dias antes</string>
     <string name="edit_event_reminder_summary">No dia do evento às %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d dias de antecedência e no dia às %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before_today">%2$d dias antes e às %1$s do dia definido</string>
@@ -245,10 +246,10 @@
     <string name="edit_event_title_edit_agenda">Editar evento</string>
     <string name="edit_event_title_edit_anniversary">Editar aniversário</string>
     <string name="edit_event_title_edit_birthday">Editar aniversário</string>
-    <string name="edit_event_title_edit_countdown">Editar contagem regressiv</string>
+    <string name="edit_event_title_edit_countdown">Editar contagem regressiva</string>
     <string name="edit_event_to_label">Às</string>
     <string name="edit_your_long_holidays">Editar feriados</string>
-    <string name="ee_dd_short_month">"EEE, dd 'de' MMM"</string>
+    <string name="ee_dd_short_month">EEE, dd/MM</string>
     <string name="eee_dd_long_month">"EEEE, dd 'de' MMMM"</string>
     <string name="email_guests_label">Enviar e-mail a convidados</string>
     <string name="email_install_hint">O E-mail foi desinstalado. Instale o E-mail novamente para restaurar contas de agenda ou adicione uma nova.</string>
@@ -332,8 +333,8 @@
     <string name="full_scorecard">Tabela completa</string>
     <string name="gadget_no_events">Nenhum evento próximo</string>
     <string name="gadget_title">Agenda</string>
-    <string name="glance_card_sub_title">Obtenha histórias emocionantes na Tela de bloqueio</string>
-    <string name="glance_card_title">Carrossel de planos de fundo</string>
+    <string name="glance_card_sub_title">Receba histórias excitantes na sua Tela de bloqueio</string>
+    <string name="glance_card_title">Glance para Mi</string>
     <string name="global_action_text_card_manager">Personalize sua agenda</string>
     <string name="global_cricket_no_match">Nenhum jogo de críquete agendado para hoje. Confira outros dias.</string>
     <string name="global_football_final">"FINAL"</string>
@@ -403,7 +404,8 @@
     <string name="language_change_confirmation">Alterado com sucesso. Você pode alterar o idioma nas configurações da Agenda.</string>
     <string name="launch_weather_comment">Toque aqui para obter informações de clima</string>
     <string name="load_more_events">Ver %d eventos</string>
-    <string name="load_more_hint">Carregar eventos de %1$d</string>
+    <string name="load_more_events_default">Ver eventos do próximo ano</string>
+    <string name="load_more_hint">Ver eventos de %1$d</string>
     <string name="loading">Aguarde…</string>
     <string name="local_calendar_display_name">Agenda local</string>
     <string name="local_owner_account_name">Salvo neste dispositivo</string>
@@ -444,9 +446,9 @@
     <string name="menstrution_auth_description">O assistente de menstruação permite registrar períodos, determinar datas estimadas de períodos futuros e receber lembretes. Todos os dados relacionados serão armazenados localmente em seu dispositivo.</string>
     <string name="menu_general_preferences">Geral</string>
     <string name="menu_reminder_preferences">Lembretes</string>
-    <string name="mesens_card_title_stop_today">O seu período termina hoje</string>
-    <string name="mesens_card_title_today_begin">O seu período pode iniciar hoje</string>
-    <string name="mesens_card_title_tomorrow_begin">O seu período pode iniciar amanhã</string>
+    <string name="mesens_card_title_stop_today">O período termina hoje</string>
+    <string name="mesens_card_title_today_begin">O período pode iniciar hoje</string>
+    <string name="mesens_card_title_tomorrow_begin">O período pode iniciar amanhã</string>
     <string name="midnight">"AM"</string>
     <string name="minutes_10">%d minutos</string>
     <string name="minutes_15">%d minutos</string>
@@ -579,7 +581,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="no_visiable_calendar_title">Adicionar conta</string>
     <string name="none">Nenhum</string>
     <string name="noon">"PM"</string>
-    <string name="not_more_than_three_weekday">Você pode selecionar até 3 dias</string>
+    <string name="not_more_than_three_weekday">Você pode selecionar até %d dias</string>
     <string name="not_set">Não definido</string>
     <string name="notes_hint">Toque para adicionar uma tarefa</string>
     <string name="notes_reminders_channel">Lembretes de notas</string>
@@ -595,7 +597,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="notification_channel_name">Lembretes da Agenda</string>
     <string name="notification_open_setting_button_exit">Não, obrigado</string>
     <string name="notification_open_setting_button_ok">Permitir</string>
-    <string name="notification_open_setting_message">"Você não poderá receber notificações sobre eventos, a menos que permita que Agenda envie notificações para você."</string>
+    <string name="notification_open_setting_message">"Você não poderá receber notificações sobre eventos, a menos que permita que a Agenda envie notificações."</string>
     <string name="notification_open_setting_title">Permitir notificações da Agenda?</string>
     <string name="numbers">%d</string>
     <string name="panchang_amanta">Amanta</string>
@@ -603,7 +605,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="panchang_ayana">Ayana</string>
     <string name="panchang_gulikai_kalam">Gulikai Kalam</string>
     <string name="panchang_hindu_lunar_month">Mês Lunar Hindu</string>
-    <string name="panchang_inauspicious_timings">Tempos Inauspiciosos</string>
+    <string name="panchang_inauspicious_timings">Tempos Desfavoráveis</string>
     <string name="panchang_karan">Karan</string>
     <string name="panchang_moon_sign">Signo Lunar</string>
     <string name="panchang_nakshatra">Nakshatra</string>
@@ -624,8 +626,8 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="partner_compatibility">Compatibilidade de parceiro</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="path_calendar_settings">Configurar apps do sistema/Agenda/Configurações</string>
-    <string name="permission_denial">Permita as permissões para poder usar este recurso</string>
-    <string name="permission_description">Detalhes das permissões</string>
+    <string name="permission_denial">Conceda permissões para poder usar este recurso</string>
+    <string name="permission_description">Detalhes de permissões</string>
     <string name="picker_day">Dia selecionado: %1$d. Deslize verticalmente para selecionar.</string>
     <string name="picker_month">Mês selecionado: %1$d. Deslize verticalmente para selecionar.</string>
     <string name="picker_year">Ano selecionado: %1$d. Deslize verticalmente para selecionar.</string>
@@ -650,7 +652,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="preferences_default_reminder_title">Hora padrão de lembretes</string>
     <string name="preferences_home_tz_title">Fuso horário local</string>
     <string name="preferences_notification_ringtone_title">Som</string>
-    <string name="preferences_popup_alert_smart_summary_new">Eventos sensíveis ao tempo são eventos com uma hora exata</string>
+    <string name="preferences_popup_alert_smart_summary_new">Eventos urgentes são eventos com um horário exato</string>
     <string name="preferences_popup_alert_title">Lembretes pop-up</string>
     <string name="preferences_show_indic_date_title">Mostrar Agenda Índica</string>
     <string name="preferences_title">Agenda</string>
@@ -670,8 +672,8 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="privacy_policy_dialog_message"><Data>"Bem-vindo à Agenda!&lt;br/>Você pode usar este app para criar e gerenciar eventos, definir lembretes, e receber informações adicionais específicas à sua localização.&lt;br/>A Agenda precisa coletar informações pessoais necessárias para lhe fornecer serviços básicos. Você pode saber mais sobre como tratamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;br/>Leia e aceite nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar a Agenda. Você pode retirar seu consentimento à Política de Privacidade da Agenda nas Configurações a qualquer momento.&lt;br/> Se você não aceitar nossa Política de Privacidade, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
     <string name="privacy_policy_dialog_title">Termos e Condições</string>
     <string name="privacy_revoke_switch_text">Retirada de consentimento</string>
-    <string name="pull_refresh_events">Exibir %d eventos</string>
-    <string name="pull_refresh_events_default">"Veja os eventos do ano anterior"</string>
+    <string name="pull_refresh_events">Ver eventos de %d</string>
+    <string name="pull_refresh_events_default">"Ver eventos de anos anteriores"</string>
     <string name="pull_refresh_progress_load_finish">Carregado com sucesso</string>
     <string name="pull_refresh_progress_loading">Aguarde…</string>
     <string name="pull_refresh_progress_release_to_load">Solte para carregar</string>
@@ -745,10 +747,10 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="set_interval">Definir intervalo</string>
     <string name="set_reminder">Definir lembrete</string>
     <string name="setting">Configurações</string>
-    <string name="setting_about_calendar_version">"Versão da Agenda: "</string>
-    <string name="setting_about_imei">"IMEI: "</string>
-    <string name="setting_about_miui_version">"Versão do OS: "</string>
-    <string name="setting_about_summary">"Versão: "</string>
+    <string name="setting_about_calendar_version">Versão da Agenda:</string>
+    <string name="setting_about_imei">IMEI:</string>
+    <string name="setting_about_miui_version">Versão do OS:</string>
+    <string name="setting_about_summary">Versão:</string>
     <string name="setting_accounts">Contas de agenda</string>
     <string name="setting_change_language">Selecionar idioma da Agenda</string>
     <string name="setting_desc_import_todo">Importe tarefas agendadas das Notas</string>
@@ -765,7 +767,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="settings_global_search">Pesquisar</string>
     <string name="settings_show_long_holiday">Feriados prolongados</string>
     <string name="settings_show_long_holiday_description">Planeje seus feriados com antecedência</string>
-    <string name="settings_show_p_tracker">Calendário menstrual</string>
+    <string name="settings_show_p_tracker">Mostrar informações de menstruação</string>
     <string name="settings_show_p_tracker_description">Mantenha um registro dos seus períodos</string>
     <string name="share_image">Compartilhar</string>
     <string name="share_image_label">Compartilhar via</string>
@@ -851,17 +853,17 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="talk_back_read_date">%1$s (%2$s de acordo com o calendário lunar).</string>
     <string name="talk_back_setting">Configurações</string>
     <string name="talk_back_tab_switch">Alternar entre modos</string>
-    <string name="talk_back_tab_switch_language">Selecione o idioma da Agenda</string>
-    <string name="talkback_bengali">Língua bengali</string>
+    <string name="talk_back_tab_switch_language">Selecionar idioma da Agenda</string>
+    <string name="talkback_bengali">Bengali</string>
     <string name="talkback_english">Inglês</string>
-    <string name="talkback_gujarati">Língua guzerate</string>
+    <string name="talkback_gujarati">Gujarati</string>
     <string name="talkback_hindi">Hindi</string>
-    <string name="talkback_kannada">Língua canaresa</string>
-    <string name="talkback_malayalam">Língua malaiala</string>
-    <string name="talkback_marathi">Língua marata</string>
-    <string name="talkback_punjabi">Língua panjabi</string>
-    <string name="talkback_tamil">Língua tâmil</string>
-    <string name="talkback_telugu">Língua telugo</string>
+    <string name="talkback_kannada">Kannada</string>
+    <string name="talkback_malayalam">Malayalam</string>
+    <string name="talkback_marathi">Marathi</string>
+    <string name="talkback_punjabi">Punjabi</string>
+    <string name="talkback_tamil">Tamil</string>
+    <string name="talkback_telugu">Telugu</string>
     <string name="tb_go_back_today">Voltar para hoje</string>
     <string name="tb_mens_month_date_selected">%1$s selecionado.</string>
     <string name="tb_mens_month_date_unselected">%1$s. Toque para selecionar a data.</string>
@@ -977,7 +979,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
-    <string name="twelve_hour_time_format">h:mm a</string>
+    <string name="twelve_hour_time_format">hh:mm aa</string>
     <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="two_selected_holiday">%1$s e %2$s são dias de folga</string>
     <string name="unable_record_future_menstruation">"Não é possível registrar períodos futuros"</string>
@@ -1010,14 +1012,14 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="widget_get_weather_info">Obter informações de clima</string>
     <string name="widget_no_events">Nenhum evento</string>
     <string name="widget_normal_agenda_tip_empty">Nenhum evento para hoje.</string>
-    <string name="widget_normal_agenda_today_done">Todos os eventos para hoje, estão concluídos.</string>
+    <string name="widget_normal_agenda_today_done">Todos os eventos para hoje foram concluídos.</string>
     <string name="widget_normal_more_event">Mais eventos</string>
     <string name="widget_normal_new_event">Adicionar evento</string>
     <string name="widget_normal_weekN">Semana %d</string>
     <string name="widget_select_style">Escolha um estilo</string>
     <string name="widget_spec_agenda_birth_today">Hoje</string>
     <string name="work_day_indication">: (</string>
-    <string name="xiaomi_calendar_delete_description">Agenda é um app do sistema que permite criar e gerenciar eventos. Alguns de seus recursos ainda estarão disponíveis mesmo após você remover o atalho da Tela inicial.</string>
+    <string name="xiaomi_calendar_delete_description">Agenda é um app do sistema que permite criar e gerenciar eventos. Alguns dos seus recursos ainda estarão disponíveis mesmo após você remover o atalho da Tela inicial.</string>
     <string name="xiaomi_calendar_delete_title">Remover Agenda da Tela inicial?</string>
     <string name="xiaomi_calendar_display_name">Agenda da Conta Mi</string>
     <string name="year">Ano</string>

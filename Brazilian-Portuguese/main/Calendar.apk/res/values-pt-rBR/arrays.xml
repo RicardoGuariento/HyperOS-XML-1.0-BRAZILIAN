@@ -2,9 +2,9 @@
 <resources>
     <string-array name="additional_cal_dialog_labels">
         <item>Nenhum</item>
-        <item>Calendário Hijri</item>
-        <item>Calendário Shaka</item>
-        <item>Calendário Vikrami</item>
+        <item>Calendário islâmico</item>
+        <item>Calendário Nacional da Índia</item>
+        <item>Calendário Vikram</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquário</item>
@@ -386,7 +386,7 @@
         <item>Dubai</item>
         <item>Cabul</item>
         <item>Islamabad, Karachi</item>
-        <item>Oral (Uralsk)</item>
+        <item>Oral</item>
         <item>Ecaterimburgo</item>
         <item>Calcutá</item>
         <item>Sri Lanka</item>
@@ -487,12 +487,12 @@
     </string-array>
     <string-array name="year_view_week_header_name">
         <item>D</item>
-        <item>"S"</item>
-        <item>"T"</item>
+        <item>S</item>
+        <item>T</item>
         <item>Q</item>
         <item>Q</item>
         <item>S</item>
-        <item>"S"</item>
+        <item>S</item>
     </string-array>
     <string-array name="year_view_week_header_name_other">
         <item>7</item>
