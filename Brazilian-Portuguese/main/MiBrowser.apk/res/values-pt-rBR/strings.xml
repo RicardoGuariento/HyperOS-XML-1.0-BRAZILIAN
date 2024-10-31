@@ -1887,7 +1887,7 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="pdf_summary">Resumo</string>
     <string name="pdf_unlocking">Acessar arquivos</string>
     <string name="per_month">Por mês</string>
-    <string name="permission_agree_service">"Eu li e concordo com todos os termos e condições a seguir."</string>
+    <string name="permission_agree_service">"Eu li e aceito todos os termos e condições a seguir."</string>
     <string name="permission_alert_window">Permita que o Navegador Mi exiba janelas flutuantes para poder usar este recurso.</string>
     <string name="permission_allow">Permitir</string>
     <string name="permission_contacts">Contatos</string>
@@ -2123,7 +2123,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preference_des_autocomplete_search">Autocompletar pesquisas com base no histórico de navegação, sugestões do mecanismo de busca e sites populares</string>
     <string name="preference_title_autocomplete_search">Autocompletar pesquisas e URLs</string>
-    <string name="privacy_accept">Concordar e continuar</string>
+    <string name="privacy_accept">Aceitar e continuar</string>
     <string name="privacy_agreement">Contrato do Usuário</string>
     <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta ação requer o envio do seu ID de Performance, que não pode ser feita no Modo anônimo. Saia do Modo anônimo e tente novamente."</string>
     <string name="privacy_authorize_network_error">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
@@ -2137,7 +2137,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="privacy_authorize_summary">Ative ou desative o seletor para conceder ou revogar a sua autorização</string>
     <string name="privacy_authorize_title">Autorização</string>
     <string name="privacy_btn_more">Mais</string>
-    <string name="privacy_disagree">"Não concordo"</string>
+    <string name="privacy_disagree">"Não aceitar"</string>
     <string name="privacy_improve_performance">Programa de Experiência do Usuário</string>
     <string name="privacy_improve_performance_desc">Permita que a Xiaomi colete e analise os dados do usuário para melhorar nossos produtos e serviços</string>
     <string name="privacy_message">Antes de usar o Navegador Mi, você precisa aceitar o nosso &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
@@ -2272,7 +2272,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="replace">Substituir</string>
     <string name="replay">Reproduzir novamente</string>
     <string name="reply_comment_title">Re: %s</string>
-    <string name="request_camera_permission_message">Este serviço precisa pedir sua permissão a seguir, cumpriremos rigorosamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesse a câmera: experimente serviços de gravação em tempo real para configurar o Avatar &lt;/b>&lt;br>&lt;br> Caso não concorde em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a concessão de permissão acima nas configurações do sistema para retirar seu consentimento.</string>
+    <string name="request_camera_permission_message">Este serviço precisa pedir sua permissão a seguir, cumpriremos rigorosamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesse a câmera: experimente serviços de gravação em tempo real para configurar o Avatar &lt;/b>&lt;br>&lt;br> Caso não aceite em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a concessão de permissão acima nas configurações do sistema para retirar seu consentimento.</string>
     <string name="request_profile_error">"Não foi possível obter as informações da conta"</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
@@ -2504,7 +2504,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="sports_card_match_status_2">Em andamento</string>
     <string name="sports_card_match_status_3">Finalizado</string>
     <string name="ssl_bad_clock_date_settings">Definir data</string>
-    <string name="splash__access_dialog_agree">Concordar</string>
+    <string name="splash__access_dialog_agree">Aceitar</string>
     <string name="splash__access_dialog_protect">Termos e Condições</string>
     <string formatted="false" name="ssl_bad_clock_warning">"Uma conexão privada com %s1 não pode ser estabelecida porque a data e hora de seu dispositivo (%s2) estão incorretas."</string>
     <string name="ssl_bad_expired_warning">"Este canal é fornecido por %1$s. No entanto, a data e a hora definidas no seu dispositivo (%2$s) não permitem o estabelecimento de uma conexão segura com %1$s. Você pode definir a data e hora corretas ou tocar em \"Continuar\" se ainda quiser usar este canal."</string>
@@ -2818,7 +2818,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="tt_video_without_wifi_tips">A reprodução deste conteúdo usará %.2f MB de dados</string>
     <string name="tt_wap_empty">Nenhum pedido wap</string>
     <string name="tt_web_title_default">Anunciar</string>
-    <string name="tt_yes_i_agree">Sim, eu concordo</string>
+    <string name="tt_yes_i_agree">Sim, eu aceito</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
@@ -2862,7 +2862,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="user_defined_webpage">Adicionar à Página inicial</string>
     <string name="user_defined_webpage_title">Adicionar à Página inicial</string>
     <string name="user_experience_agree">Participar</string>
-    <string name="user_experience_content">"O Programa de Experiência do Usuário nos ajuda a melhorar nossos produtos e serviços de forma direcionada, bem como a introduzir novos recursos e serviços que são úteis para você. Começaremos a coletar e analisar dados relevantes (por exemplo, dados de uso do produto) após a sua inscrição no programa. Ao tocar em \"Participar\" abaixo, você estará concordando com os termos e condições do &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Programa de Experiência do Usuário&lt;/a>&lt;/font>.
+    <string name="user_experience_content">"O Programa de Experiência do Usuário nos ajuda a melhorar nossos produtos e serviços de forma direcionada, bem como a introduzir novos recursos e serviços que são úteis para você. Começaremos a coletar e analisar dados relevantes (por exemplo, dados de uso do produto) após a sua inscrição no programa. Ao tocar em \"Participar\" abaixo, você estará aceitando os termos e condições do &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Programa de Experiência do Usuário&lt;/a>&lt;/font>.
 Você pode cancelar a sua participação em qualquer momento em Configurações > Privacidade e segurança."</string>
     <string name="user_experience_disagree">Não participar</string>
     <string name="user_experience_title">Programa de Experiência do Usuário</string>

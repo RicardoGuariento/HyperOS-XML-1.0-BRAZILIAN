@@ -930,7 +930,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string formatted="false" name="privacy_dialog_tips_update">"%s A Política de Privacidade foi atualizada:
 %s
 Leia e aceite a nova versão da Política de Privacidade antes de continuar."</string>
-    <string name="privacy_dialog_tips_update_confim" formatted="false">"Você não poderá continuar usando % a menos que concorde com a nova versão da Política de Privacidade de %s. Concorda com a Política de Privacidade atualizada agora?"</string>
+    <string name="privacy_dialog_tips_update_confim" formatted="false">"Você não poderá continuar usando % a menos que aceite a nova versão da Política de Privacidade de %s. Aceitar a Política de Privacidade atualizada agora?"</string>
     <string name="privacy_dialog_title_revoke_confim">Retirada de consentimento</string>
     <string name="privacy_dialog_title_update">Política de Privacidade atualizada</string>
     <string name="privacy_dialog_title_update_confim">"Não é possível usar o app"</string>
@@ -984,7 +984,7 @@ Leia e aceite a nova versão da Política de Privacidade antes de continuar."</s
     <string name="prompt_phone">Número de telefone</string>
     <string name="prompt_summary">O RCS permite que você envie mensagens, fotos, vídeos e crie chats em grupo gratuitamente.</string>
     <string name="prompt_title">Fazer login no RCS</string>
-    <string name="prompt_user_agreement">Ao fazer login, você concorda com o Contrato do Usuário e a Política de Privacidade do RCS.</string>
+    <string name="prompt_user_agreement">Ao fazer login, você aceita o Contrato do Usuário e a Política de Privacidade do RCS.</string>
     <string name="prvate_contact">Contatos privados</string>
     <string name="quick_reply">Responder</string>
     <string name="rate_limit_surpassed">"OK"</string>
@@ -1288,7 +1288,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="send">Enviar</string>
     <string name="send_after_compress">Comprimir</string>
     <string name="send_message_dlg_check_hint">Não mostrar novamente</string>
-    <string name="send_message_dlg_mgs">Alerta CMCC: Precisamos registrar seu dispositivo em nossa plataforma de gerenciamento para fornecer serviços gratuitos de suporte. A plataforma CMSS gerencia dispositivos móveis e permite que você altere configurações e atualize o software remotamente. Uma mensagem de texto gratuita com informações de seu dispositivo será enviada para o registro. A mensagem será enviada apenas uma vez e não conterá dados pessoais. Esta mensagem não pode ser enviada por usuários em Hong Kong, Macau, Taiwan ou outros países. Selecione \"OK\" para aceitar e registrar seu dispositivo. Selecione \"Cancelar\" se você não concorda com os termos. Neste caso, os serviços não serão fornecidos a você.</string>
+    <string name="send_message_dlg_mgs">Alerta CMCC: Precisamos registrar seu dispositivo em nossa plataforma de gerenciamento para fornecer serviços gratuitos de suporte. A plataforma CMSS gerencia dispositivos móveis e permite que você altere configurações e atualize o software remotamente. Uma mensagem de texto gratuita com informações de seu dispositivo será enviada para o registro. A mensagem será enviada apenas uma vez e não conterá dados pessoais. Esta mensagem não pode ser enviada por usuários em Hong Kong, Macau, Taiwan ou outros países. Selecione \"OK\" para aceitar e registrar seu dispositivo. Selecione \"Cancelar\" se você não aceita os termos. Neste caso, os serviços não serão fornecidos a você.</string>
     <string name="send_message_dlg_title">Gerenciamento do dispositivo</string>
     <string name="send_message_notification_msg">Toque para ver detalhes da solicitação.</string>
     <string name="send_message_notification_tickerText">O dispositivo está solicitando uma permissão</string>
@@ -1441,7 +1441,7 @@ Dê uma olhada nos recomendados!"</string>
     <string formatted="false" name="system_permission_declare_main_purpose">Bem-vindo ao %1s! %2s</string>
     <string name="system_permission_declare_mi_message">Bem-vindo ao Mi Mensagens!</string>
     <string name="system_permission_declare_no_say_no">"Protegeremos suas informações pessoais de acordo com leis, regulamentos e políticas de privacidade relevantes.
-Se você não aceitar em conceder estas permissões ou compartilhar e fazer o envio de suas informações pessoais, você não poderá usar este app."</string>
+Se você não aceita em conceder estas permissões ou compartilhar e fazer o envio de suas informações pessoais, você não poderá usar este app."</string>
     <string name="system_permission_declare_privacy_declare">%1s precisa coletar seus dados e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="system_permission_declare_privacy_declare_new">Este app precisa se conectar à internet e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="system_permission_declare_privacy_link">Para entender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, Leia e aceite o nosso %1s.</string>
@@ -1633,7 +1633,7 @@ Tentativas efetuadas: %s."</string>
     <string name="view">Ver</string>
     <string name="view_bookmark">Ver mensagem original</string>
     <string name="view_message_details">Ver detalhes</string>
-    <string name="vital_signs_cta_body">"Os dados de sinais vitais (incluindo frequência cardíaca, SpO₂ e informações do cartão médico) são obtidos do Mi Fitness. A marcação abaixo indica que você concorda com o acesso e uso desses dados.
+    <string name="vital_signs_cta_body">"Os dados de sinais vitais (incluindo frequência cardíaca, SpO₂ e informações do cartão médico) são obtidos do Mi Fitness. A marcação abaixo indica que você aceita o acesso e uso desses dados.
 Apenas os primeiros 50 caracteres de cada item do cartão médico serão retidos para controlar o comprimento da mensagem."</string>
     <string name="vital_signs_cta_title">Sinais vitais</string>
     <string name="vital_signs_data_allergy">Alergias: %s</string>

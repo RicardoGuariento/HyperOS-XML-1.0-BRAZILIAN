@@ -339,7 +339,7 @@ Envie este código para o supervisor."</string>
     <string name="dialog_confirm">"OK"</string>
     <string name="dialog_delete_bookmarks_content">Excluir favorito?</string>
     <string name="dialog_disagree_continue">Continuar</string>
-    <string name="dialog_disagree_info">"Se você não concordar com a Política de Privacidade do Mi Vídeo, não poderá usar nossos serviços online e só poderá assistir a vídeos armazenados em seu dispositivo. Continuar mesmo assim?"</string>
+    <string name="dialog_disagree_info">"Se você não aceitar a Política de Privacidade do Mi Vídeo, não poderá usar nossos serviços online e só poderá assistir a vídeos armazenados em seu dispositivo. Continuar mesmo assim?"</string>
     <string name="dialog_disagree_title">Política de Privacidade</string>
     <string name="dialog_disagree_privacychange_info">Você não poderá usar os serviços de streaming online do Mi Vídeo se você não aceitar nossa Política de Privacidade. Toque em \"Cancelar\" para voltar ou em \"Não aceitar\" para continuar e usar o Mi Vídeo apenas como um reprodutor local.</string>
     <string name="dialog_disagree_privacychange_title">Não aceitar?</string>
@@ -365,8 +365,8 @@ Envie este código para o supervisor."</string>
 • Um reprodutor de vídeo local
 O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer serviços básicos. Você pode saber como lidamos com as informações que coletamos em nossa Política de Privacidade. Você pode alterar as configurações relacionadas em Perfil > Configurações."</string>
     <string name="dialog_privacy_experience_plan">Participe do nosso Programa de Experiência do Usuário para compartilhar dados conosco e nos ajudar a melhorar os nossos produtos e serviços.</string>
-    <string name="dialog_privacy_info_new2">Para poder usar estes serviços, você precisa concordar que o %1$s coletará, processará e usará suas informações pessoais. Será considerado que você leu e concordou com a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a> quando você tocar em \"Aceitar\" abaixo.</string>
-    <string name="dialog_privacy_info_new3">Para poder usar este serviço, você precisa permitir que o %1$s colete, processe e use suas informações pessoais de acordo com a Política de Privacidade. Ao tocar em Aceitar abaixo, você estará concordando com a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> da Xiaomi. &lt;br/>&lt;br/>Tocar em Aceitar também permitirá que o Mi Vídeo acesse a lista de apps instalados em seu dispositivo. Com esta permissão, o Mi Vídeo poderá compartilhar itens, entender se um app está instalado em seu dispositivo, qual versão de um app está instalada, e se determinado app é seguro.</string>
+    <string name="dialog_privacy_info_new2">Para poder usar estes serviços, você precisa permitir que o %1$s coletará, processará e usará suas informações pessoais. Será considerado que você leu e aceitou a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a> quando você tocar em \"Aceitar\" abaixo.</string>
+    <string name="dialog_privacy_info_new3">Para poder usar este serviço, você precisa permitir que o %1$s colete, processe e use suas informações pessoais de acordo com a Política de Privacidade. Ao tocar em Aceitar abaixo, você estará aceitando a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> da Xiaomi. &lt;br/>&lt;br/>Tocar em Aceitar também permitirá que o Mi Vídeo acesse a lista de apps instalados em seu dispositivo. Com esta permissão, o Mi Vídeo poderá compartilhar itens, entender se um app está instalado em seu dispositivo, qual versão de um app está instalada, e se determinado app é seguro.</string>
     <string name="dialog_privacy_info_new4">Bem-vindo ao Mi Vídeo! Este app fornece os seguintes serviços:&lt;br>&lt;/br> • Serviços de streaming online&lt;br>&lt;/br>• Um reprodutor de vídeos locais&lt;br>&lt;/br>O Mi Vídeo precisa coletar as informações pessoais necessárias para lhe fornecer os seus serviços básicos. Você pode aprender sobre como lidamos com as informações coletadas em nossa Política de Privacidade. Você poderá alterar as configurações relacionadas em Configurações > Senhas e segurança.&lt;br>&lt;/br>Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o Mi Vídeo.</string>
     <string name="dialog_privacy_info_new5">Bem-vindo ao Mi Vídeo! Este app fornece os seguintes serviços:&lt;br>&lt;/br> • Serviços de streaming online&lt;br>&lt;/br>• Um reprodutor de vídeos locais&lt;br>&lt;/br>Para fornecer serviços básicos, este app precisa coletar as informações pessoais necessárias. Para obter detalhes, consulte nossa Política de Privacidade. Você pode alterar suas configurações a qualquer momento em Perfil > Configurações.&lt;br>&lt;/br>Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o Mi Vídeo.</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
@@ -1724,7 +1724,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="report_content_violence">Discurso de ódio</string>
     <string name="report_fail">Não foi possível reportar. Tente novamente.</string>
     <string name="report_success">Reportado com sucesso</string>
-    <string name="request_camera_permission_message">Este serviço precisa de sua permissão a seguir, nós cumpriremos estritamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesso a câmera: experimente serviços de gravação em tempo real para configurar a foto de perfil &lt;/b>&lt;br>&lt;br> Caso não concorde em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a chamada de permissão acima nas configurações do sistema para retirar o seu consentimento.</string>
+    <string name="request_camera_permission_message">Este serviço precisa de sua permissão a seguir, nós cumpriremos estritamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesso a câmera: experimente serviços de gravação em tempo real para configurar a foto de perfil &lt;/b>&lt;br>&lt;br> Caso não aceite em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a chamada de permissão acima nas configurações do sistema para retirar o seu consentimento.</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
     <string name="resend_email_reach_limit_title">Muitas tentativas</string>
@@ -2184,7 +2184,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="tt_video_without_wifi_tips">A reprodução deste conteúdo usará %.2f MB de dados</string>
     <string name="tt_wap_empty">Nenhum pedido wap</string>
     <string name="tt_web_title_default">Anunciar</string>
-    <string name="tt_yes_i_agree">Sim, eu concordo</string>
+    <string name="tt_yes_i_agree">Sim, eu aceito</string>
     <string name="top_bar_game_desc">Descubra vários jogos novos aqui</string>
     <string name="top_bar_game_title">Canal de jogos</string>
     <string name="trending_history_continue_watching">Continuar assistindo</string>
@@ -2275,7 +2275,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="vip_pay_refunded">Reembolsado</string>
     <string name="vip_pay_success">Adquirido</string>
     <string name="vip_pay_waiting">Aguarde…</string>
-    <string name="vip_permission">Ao comprar, você concorda com os &lt;a href=%1$s>Termos de Serviço do MangoTV&lt;/a>. Se você tiver alguma dúvida, veja as nossas &lt;a href=%2$s>Perguntas frequentes e feedback&lt;/a>.</string>
+    <string name="vip_permission">Ao comprar, você aceita os &lt;a href=%1$s>Termos de Serviço do MangoTV&lt;/a>. Se você tiver alguma dúvida, veja as nossas &lt;a href=%2$s>Perguntas frequentes e feedback&lt;/a>.</string>
     <string name="vip_purchase_history">Histórico de compras</string>
     <string name="vip_qa">Precisa de ajuda? Veja &lt;a href=%1$s>Perguntas frequentes e feedback&lt;/a></string>
     <string name="vip_qa_title">Perguntas frequentes e feedback</string>

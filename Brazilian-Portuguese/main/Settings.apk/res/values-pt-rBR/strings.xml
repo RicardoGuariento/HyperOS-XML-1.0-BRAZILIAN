@@ -1752,11 +1752,11 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_device_blacklist_summary">Gerencie dispositivos Bluetooth bloqueados</string>
     <string name="bluetooth_device_blacklist_tital">Lista de bloqueio do Bluetooth</string>
     <string name="bluetooth_device_button_accept">"OK"</string>
-    <string name="bluetooth_device_button_accept_permission">Concordar</string>
+    <string name="bluetooth_device_button_accept_permission">Aceitar</string>
     <string name="bluetooth_device_button_audio_share_success">Entendi</string>
     <string name="bluetooth_device_button_cancel">Cancelar</string>
     <string name="bluetooth_device_button_enable_audio_share">Compartilhar</string>
-    <string name="bluetooth_device_button_reject_permission">"Não concordo"</string>
+    <string name="bluetooth_device_button_reject_permission">"Não aceitar"</string>
     <string name="bluetooth_device_button_replace_current_device">Trocar dispositivo</string>
     <string name="bluetooth_device_context_connect">Conectar</string>
     <string name="bluetooth_device_context_connect_advanced">Opções</string>
@@ -2189,7 +2189,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bootloader_status_locked">Bloqueado</string>
     <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
     <string name="bootloader_status_locked_summary">O telefone está seguro</string>
-    <string name="bootloader_status_privacy_dialog_message"><Data>O Mi Unlock precisa de acesso à sua Conta Mi, ID da CPU, IMSI para funcionar normalmente. Leia e concorde com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>O Mi Unlock precisa de acesso à sua Conta Mi, ID da CPU, IMSI para funcionar normalmente. Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
     <string name="bootloader_status_privacy_dialog_title">Permissões necessárias</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidade</string>
@@ -4266,7 +4266,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="find_my_device_enable">Ativado</string>
     <string name="find_my_device_summary">Este recurso requer login na Conta Mi</string>
     <string name="finger_add_user_info_dialog_cancel">Cancelar</string>
-    <string name="finger_add_user_info_dialog_message">"Para você poder usar o desbloqueio por impressão digital e fazer pagamentos usando a impressão digital, precisamos coletar sua impressão digital. A impressão digital será armazenada localmente neste dispositivo. Para excluí-lo, procure por \"Desbloqueio com impressão digital\" nas Configurações e selecione Desbloqueio com impressão digital > Impressão digital. Você não poderá usar esse recurso se não concordar."</string>
+    <string name="finger_add_user_info_dialog_message">"Para você poder usar o desbloqueio por impressão digital e fazer pagamentos usando a impressão digital, precisamos coletar sua impressão digital. A impressão digital será armazenada localmente neste dispositivo. Para excluí-lo, procure por \"Desbloqueio com impressão digital\" nas Configurações e selecione Desbloqueio com impressão digital > Impressão digital. Você não poderá usar esse recurso se não aceitar."</string>
     <string name="finger_add_user_info_dialog_next">Aceitar</string>
     <string name="finger_add_user_info_dialog_title">Atenção!</string>
     <string name="finger_detail_info_text">Alterar o nome da impressão digital</string>
@@ -7716,7 +7716,7 @@ Leia e aceite o %s antes de usar este recurso."</string>
     <string name="passpoint_r1_privacy_dialog_no">Sair</string>
     <string name="passpoint_r1_privacy_dialog_title">Atenção!</string>
     <string name="passpoint_r1_privacy_dialog_url_text">Política de Privacidade da Exands</string>
-    <string name="passpoint_r1_privacy_dialog_yes">Concordar</string>
+    <string name="passpoint_r1_privacy_dialog_yes">Aceitar</string>
     <string name="passwordIncorrect">A senha inserida está incorreta</string>
     <string name="password_and_security">Senhas e segurança</string>
     <string name="password_check_fail">Código incorreto</string>
@@ -8104,7 +8104,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_authorize_cloud_msg">Para garantir a segurança da sua conta, faça o login em i.mi.com se você desejar revogar a autorização para os serviços da MiCloud (incluindo sincronização e backups).</string>
     <string name="privacy_authorize_dialog_agree">Aceitar</string>
     <string name="privacy_authorize_dialog_exit">Sair</string>
-    <string name="privacy_authorize_dialog_message"><Data>Para usar os recursos básicos deste serviço, você precisa concordar que a Xiaomi coletará, processará e usará os seus dados pessoais. Consulte a nossa Política de Privacidade para entender como coletamos e processamos os dados pessoais. Selecionando \"Aceitar\" significa que você concorda com a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.</Data></string>
+    <string name="privacy_authorize_dialog_message"><Data>Para usar os recursos básicos deste serviço, você precisa concordar que a Xiaomi coletará, processará e usará os seus dados pessoais. Consulte a nossa Política de Privacidade para entender como coletamos e processamos os dados pessoais. Selecionando \"Aceitar\" significa que você aceita a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.</Data></string>
     <string name="privacy_authorize_network_error">Conecte-se à rede e tente novamente.</string>
     <string name="privacy_authorize_privacy_policy">Política de Privacidade</string>
     <string name="privacy_authorize_revoke">Revogar</string>
@@ -9860,10 +9860,10 @@ Toque duas vezes para abrir os Recentes."</string>
 Para fazer chamadas para seus contatos de emergência
 • Monitorar o status do dispositivo
 Para reproduzir a gravação de SOS quando seus contatos de emergência atenderem
-Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre optar por desativar este recurso."</string>
+Caso não aceite em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre optar por desativar este recurso."</string>
     <string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
     <string name="sos_phone_log_privacy_dialog_message">"Este app precisa de permissão para acessar o seu histórico de chamadas para poder compartilhá-lo com os seus contatos de emergência.
-Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível. Você sempre poderá optar por desativar este recurso."</string>
+Caso não aceite em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível. Você sempre poderá optar por desativar este recurso."</string>
     <string name="sos_privacy_and_content_policy">Contrato do Usuário e Política de Privacidade</string>
     <string name="sos_privacy_dialog_button_cancel">Cancelar</string>
     <string name="sos_privacy_dialog_button_ok">Aceitar</string>
@@ -9880,7 +9880,7 @@ Para marcar contatos como contatos de emergência
 Para enviar mensagens de texto para contatos de emergência
 • Acesso à localização
 Para compartilhar sua localização com contatos de emergência
-Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nestes casos.
+Caso não aceite em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nestes casos.
 Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_dialog_message_old_version">"O SOS de emergência permite que você compartilhe sua localização em tempo real e envie mensagens de texto para seus contatos de emergência.
 Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
@@ -9893,12 +9893,12 @@ Para marcar contatos como contatos de emergência
 Para enviar mensagens de texto para contatos de emergência
 • Acessar localização
 Para compartilhar sua localização com contatos de emergência
-Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nesses casos.
+Caso não aceite em conceder tais permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nesses casos.
 Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_dialog_title">Termos e Condições</string>
     <string name="sos_privacy_policy">Política de Privacidade</string>
     <string name="sos_privacy_policy_change_endtitle">Leia e aceite a nova versão do %s antes de continuar.</string>
-    <string name="sos_privacy_policy_change_message_reject">"Você não poderá continuar usando o SOS de emergência, a menos que concorde com a nova versão de sua Política de Privacidade. Concordar com a atualização %s agora?"</string>
+    <string name="sos_privacy_policy_change_message_reject">"Você não poderá continuar usando o SOS de emergência, a menos que aceite a nova versão de sua Política de Privacidade. Aceitar a atualização %s agora?"</string>
     <string name="sos_privacy_policy_change_subtitle">A Política de Privacidade SOS de emergência foi atualizada:</string>
     <string name="sos_privacy_policy_change_title">Política de Privacidade atualizada</string>
     <string name="sos_privacy_policy_change_title_reject">"Não é possível usar o app"</string>

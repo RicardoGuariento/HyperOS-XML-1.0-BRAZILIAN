@@ -369,6 +369,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="import_from_xiaomi_account_hint2">Caso já tenha um backup, toque em Avançar.</string>
     <string name="import_from_xiaomi_account_hint_title">Use o Mi Talk para fazer backup de contatos entre dispositivos.</string>
     <string name="import_tip_summary">Devido a problemas de compatibilidade, só é possível transferir dados parciais de dispositivos iOS. Certifique-se de criar um backup na iCloud antes de iniciar a transferência.</string>
+    <string name="label">Rótulo</string>
     <string name="lack_perm_msg">O Mi Mover precisa das seguintes permissões: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Permissões necessárias</string>
     <string name="list_footer_tip_title">Dicas:</string>
@@ -731,7 +732,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="refresh">Atualizar</string>
     <string name="remote_receive">Receber</string>
     <string name="restore">Restaurar</string>
-    <string name="restore_backup">Restaurar</string>
+    <string name="restore_backup">Fazer backup e restaurar</string>
     <string name="restore_contact">Restaurar contatos</string>
     <string name="restore_contact_content">A restauração poderá criar contatos duplicados.</string>
     <string name="restore_contacts_hit">Você precisará fazer login novamente para ver os dados restaurados.</string>
@@ -791,6 +792,7 @@ Libere pelo menos %s."</string>
     <string name="select_storage_location">Escolher local de backup</string>
     <string name="send">Enviar</string>
     <string name="service_stoped">Serviço parado</string>
+    <string name="set_app_suspend">Este app está sendo salvo em backup agora. Aguarde até que o backup seja concluído e tente novamente.</string>
     <string name="settings_summary">Configurações de telefonia e SMS</string>
     <string name="side_sheet_accessibility_pane_title">Página lateral</string>
     <string name="size_byte">"B"</string>

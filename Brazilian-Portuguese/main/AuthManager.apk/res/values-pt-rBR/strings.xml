@@ -119,7 +119,7 @@
     <string name="HIPS_Perm_service_foreground">Serviços em primeiro plano</string>
     <string name="HIPS_Perm_service_foreground_Desc">Serviços em primeiro plano</string>
     <string name="HIPS_Perm_show_when_locked">Mostrar na Tela de bloqueio</string>
-    <string name="HIPS_Perm_show_when_locked_Desc">Ser exibido na Tela de bloqueio</string>
+    <string name="HIPS_Perm_show_when_locked_Desc">Permite que apps mostrem itens na Tela de bloqueio</string>
     <string name="HIPS_Perm_tencentControl">Acessar mensagens em apps de rede social</string>
     <string name="HIPS_Perm_tencentControl_Desc">Permite que os apps tenham acesso às mensagens do seu WeChat e QQ</string>
     <string name="HIPS_Perm_use_sip">Serviços de vídeo</string>
@@ -416,7 +416,8 @@
     <string name="permission_group_title_privacy_related">Privacidade</string>
     <string name="permission_group_title_sensitive_privacy_related">Permissões sensíveis</string>
     <string name="permission_group_title_settings_related">Configurações</string>
-    <string name="permission_list_include">Incluindo o seguinte</string>
+    <string name="permission_list_include">Incluindo o seguinte:
+"</string>
     <string name="permission_reminders">Lembretes de permissão</string>
     <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
     <string name="permission_warning_template_ask">Permitir ao app %1$s as seguintes permissões?</string>

@@ -305,7 +305,7 @@ Quando você opta por limpar todos os dados permanentemente, você é desconecta
     <string name="asm_pay_order_generate_failed">"Não foi possível gerar o pedido"</string>
     <string name="asm_pay_query_overtime">A solicitação de status de pagamento expirou</string>
     <string name="asm_privacy_desc">Política de Privacidade da ASM</string>
-    <string name="asm_privacy_tips_content">Concorde com a <a href="/link/click">Política de Privacidade da ASM</a> para poder usar os serviços de música online.</string>
+    <string name="asm_privacy_tips_content">Aceite a <a href="/link/click">Política de Privacidade da ASM</a> para poder usar os serviços de música online.</string>
     <string name="asm_privacy_tips_title">Política de Privacidade da ASM</string>
     <string name="asm_pro_center">Assinatura</string>
     <string name="asm_search_result_contain_music">Contém: \"%1$s\"</string>
@@ -366,8 +366,8 @@ Quando você opta por limpar todos os dados permanentemente, você é desconecta
     <string name="bgmlist_title">Música de fundo</string>
     <string name="bind_recharge_dialog_desc">Vá para a vinculação de recarga, você também pode obter o presente exclusivo no valor de 99 moedas de ouro~</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
-    <string name="binddate_dialog_agree">Concordar</string>
-    <string name="binddate_dialog_refuse">Recusar</string>
+    <string name="binddate_dialog_agree">Aceitar</string>
+    <string name="binddate_dialog_refuse">Não aceitar</string>
     <string name="binddate_requestdialog_dis_request">Cancelar inscrição</string>
     <string name="binddate_requestdialog_position">Sua localização:</string>
     <string name="binddate_requestdialog_request">Inscreva-se para participar</string>
@@ -887,7 +887,7 @@ Envie este código para o supervisor."</string>
     <string name="impunity_declaration_content">Você deve ler e aceitar o nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=pt_BR\">Contrato do Usuário&lt;/a> e a &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=pt_BR\">Política de Privacidade&lt;/a> antes de usar o produto.</string>
     <string name="impunity_declaration_ignore">"Não mostrar novamente"</string>
     <string name="impunity_declaration_negative_text">Sair</string>
-    <string name="impunity_declaration_positive_text">Concordar</string>
+    <string name="impunity_declaration_positive_text">Aceitar</string>
     <string name="impunity_declaration_settings">Mostrar Termos de Serviço</string>
     <string name="impunity_declaration_summary">Mostre os Termos de Serviço sempre que o app Música for aberto</string>
     <string name="impunity_declaration_title">Termos de Serviço</string>
@@ -1377,7 +1377,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_account_user_name_dialog_title">Insira o nome</string>
     <string name="passport_account_user_phone">Telefone de recuperação</string>
     <string name="passport_activity_not_found_notice">"Não consigo encontrar o app"</string>
-    <string name="passport_agree">Concordar</string>
+    <string name="passport_agree">Aceitar</string>
     <string name="passport_area_code_title">Código de área</string>
     <string name="passport_attention">Atenção!</string>
     <string name="passport_auth_fail_warning">Sessão expirada. Faça login novamente.</string>
@@ -1467,7 +1467,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_register_restricted">Muitas contas foram associadas a este número. Experimente um diferente.</string>
     <string name="passport_relogin_notice">Você precisa fazer login novamente</string>
     <string name="passport_request_agree">Permitir</string>
-    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não aceite em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="passport_request_cancel">Cancelar</string>
     <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -2105,7 +2105,7 @@ Seja feliz"</string>
     <string name="tt_video_without_wifi_tips">A reprodução deste conteúdo usará %.2f MB de dados</string>
     <string name="tt_wap_empty">Nenhum pedido wap</string>
     <string name="tt_web_title_default">Anunciar</string>
-    <string name="tt_yes_i_agree">Sim, eu concordo</string>
+    <string name="tt_yes_i_agree">Sim, eu aceito</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>

@@ -171,7 +171,7 @@ Envie este código para o supervisor."</string>
     <string name="mibi_account_disable_dialog_btn_positive">Ativar</string>
     <string name="mibi_account_disable_dialog_msg">Para usar o Mi Créditos, você precisa fazer login em sua Conta Mi. Ative a Conta Mi em Configurações > Apps > Gerenciar apps.</string>
     <string name="mibi_account_disable_dialog_title">Aviso</string>
-    <string name="mibi_all_license_message">"Você está prestes a usar o Mi Créditos, que é um serviço fornecido pela Xiaomi Inc. Antes de poder usar este serviço, você deve concordar com os Termos de Serviço. Toque em OK se concordar com os termos e condições descritos em %1$s e %2$s. Você precisa se conectar à internet e localizar seu dispositivo para usar o Mi Créditos."</string>
+    <string name="mibi_all_license_message">"Você está prestes a usar o Mi Créditos, que é um serviço fornecido pela Xiaomi Inc. Antes de poder usar este serviço, você deve aceitar com os Termos de Serviço. Toque em OK se aceitar os termos e condições descritos em %1$s e %2$s. Você precisa se conectar à internet e localizar seu dispositivo para usar o Mi Créditos."</string>
     <string name="mibi_all_purpose">Bem-vindo ao Mi Créditos, você pode usar este app para recarregar Mi Créditos, verificar seus cartões-presente, etc.</string>
     <string name="mibi_app_name">Mi Créditos</string>
     <string name="mibi_applock_config">"Não é possível definir o Bloqueio de apps ao usar a Tela dividida."</string>
@@ -186,8 +186,8 @@ Envie este código para o supervisor."</string>
     <string name="mibi_bill_menu_delete_item">Excluir</string>
     <string name="mibi_bill_record">Transações</string>
     <string name="mibi_bill_record_empty">Não há registros.</string>
-    <string name="mibi_btn_agree">Concordar</string>
-    <string name="mibi_btn_agree_continue">Concordar e continuar</string>
+    <string name="mibi_btn_agree">Aceitar</string>
+    <string name="mibi_btn_agree_continue">Aceitar e continuar</string>
     <string name="mibi_btn_back">Voltar</string>
     <string name="mibi_btn_count_down_auto">Perguntar após %1$d segundos</string>
     <string name="mibi_btn_exit">Sair do app</string>
@@ -222,14 +222,14 @@ Envie este código para o supervisor."</string>
     <string name="mibi_check_giftcard">Ver cupons</string>
     <string name="mibi_click_retry">%1$s, clique para tentar novamente.</string>
     <string name="mibi_cta_agreement_checkbox_description">Por favor, leia e aceite o %1$s e a %2$s.</string>
-    <string name="mibi_cta_agreement_tips">Por favor, concorde com os termos e uso.</string>
+    <string name="mibi_cta_agreement_tips">Por favor, aceite os termos e uso.</string>
     <string name="mibi_cta_description">"Bem-vindo ao Mi Créditos, este app oferece funções como recarga de Mi Créditos e visualização de gift card. Processaremos suas informações relevantes conforme exigido pelas leis e regulamentos. Aqui, lembramos solenemente:
 1. Antes de usar os produtos ou serviços Mibi, leia e compreenda a Política de Privacidade com atenção e use os produtos ou serviços relevantes após confirmar seu total entendimento e concordância.
 2. Durante o uso deste app, é necessário permissão com a internet. Certifique-se de que seu dispositivo esteja conectado à internet e conclua as configurações relevantes.
 %1$s"</string>
     <string name="mibi_cta_description_suffix">"3. Levamos e protegemos suas informações pessoais muito a sério. Se você tiver alguma dúvida, comentário ou sugestão sobre o conteúdo desta política, entre em contato conosco visitando %1$s.
 "</string>
-    <string name="mibi_cta_description_with_review_entry_suffix">"3. Se você não concordar com a Política de Privacidade, forneceremos um modo somente de navegação. Você pode escolher [%1$s].
+    <string name="mibi_cta_description_with_review_entry_suffix">"3. Se você não aceitar a Política de Privacidade, forneceremos um modo somente de navegação. Você pode escolher [%1$s].
 4. Levamos e protegemos suas informações pessoais muito a sério. Se você tiver alguma dúvida, comentário ou sugestão sobre o conteúdo desta política, entre em contato conosco visitando %2$s.
 "</string>
     <string name="mibi_cta_title">Caros fãs da Xiaomi</string>
@@ -340,7 +340,7 @@ Por favor, verifique a data local e tente novamente."</string>
     <string name="mibi_incognito_mode_dialog_title">"Você está anônimo"</string>
     <string name="mibi_incognito_mode_dialog_to_close">Configurações</string>
     <string name="mibi_is_what">O que você pode comprar com Mi Créditos?</string>
-    <string name="mibi_kr_license_content">"Você está prestes a usar o serviço de pagamento fornecido pela Xiaomi Inc. Antes de começar a usar este serviço, você deve concordar com os seguintes termos:"</string>
+    <string name="mibi_kr_license_content">"Você está prestes a usar o serviço de pagamento fornecido pela Xiaomi Inc. Antes de começar a usar este serviço, você deve aceitar os seguintes termos:"</string>
     <string name="mibi_label_balance">Saldo</string>
     <string name="mibi_label_giftcard">Gift card</string>
     <string name="mibi_label_giftcard_with_num">Gift card (%1$s)</string>
@@ -511,11 +511,11 @@ Centro de atendimento ao consumidor: 400-100-3399"</string>
     <string name="mibi_review_model_icon_4">Vídeo</string>
     <string name="mibi_review_model_icon_5">Música</string>
     <string name="mibi_review_model_icon_6">Jogo</string>
-    <string name="mibi_review_model_introduction_description">"Se você não concordar com a Política de Privacidade, forneceremos um modo somente de navegação. Neste modo, mostraremos a introdução dos serviços relacionados ao Mi Créditos.
+    <string name="mibi_review_model_introduction_description">"Se você não aceitar a Política de Privacidade, forneceremos um modo somente de navegação. Neste modo, mostraremos a introdução dos serviços relacionados ao Mi Créditos.
 
 Neste modo, precisamos apenas solicitar acesso à internet e não coletaremos, armazenaremos, compartilharemos ou utilizaremos nenhuma de suas informações pessoais.
 
-Durante o processo de navegação, se desejar realizar negócios relacionados ao Mi Créditos, você precisará concordar com as regras relevantes de processamento de informações pessoais. Processaremos suas informações pessoais de acordo com sua autorização e disposições relevantes de leis e regulamentos."</string>
+Durante o processo de navegação, se desejar realizar negócios relacionados ao Mi Créditos, você precisará aceitar as regras relevantes de processamento de informações pessoais. Processaremos suas informações pessoais de acordo com sua autorização e disposições relevantes de leis e regulamentos."</string>
     <string name="mibi_review_model_introduction_title">Saiba mais sobre o Modo somente navegação</string>
     <string name="mibi_review_model_mibi_function">Gerenciamento de gift card, verificação de saldo de recarga Mi Créditos</string>
     <string name="mibi_review_model_mibi_introduction">"Mi Créditos é uma caixa registradora agregada para negócios virtuais dentro do grupo Xiaomi. Suporta métodos de pagamento como Alipay, WeChat e Mi Wallet. Também fornece cartões pré-pagos e produtos de marketing, como Mi Coin Card e MiCoin Gift Vouchers.
@@ -526,7 +526,7 @@ Serviços prestados: "</string>
     <string name="mibi_review_model_use_tips">Experimente o serviço Mi Créditos agora</string>
     <string name="mibi_revoke_agreement_failed_msg">Falha ao retirar o consentimento. Por favor, tente novamente.</string>
     <string name="mibi_revoke_agreement_msg">"Se você retirar seu consentimento com a Política de Privacidade do app Mibibi, deixaremos de coletar suas informações pessoais e excluiremos as informações pessoais coletadas pelo app de acordo com a lei, a menos que outras leis e regulamentos especifiquem o período de retenção de informações pessoais.
-Como a prestação de serviços Mi Créditos depende da coleta de informações pessoais necessárias, se você retirar seu consentimento, será considerado que você não concorda que continuemos a fornecer serviços Mi Créditos a você e renuncie a seus bens e direitos no app Mi Créditos. Causar uma certa perda e as informações pessoais não podem ser recuperadas, escolha com cuidado."</string>
+Como a prestação de serviços Mi Créditos depende da coleta de informações pessoais necessárias, se você retirar seu consentimento, será considerado que você não aceita que continuemos a fornecer serviços Mi Créditos a você e renuncie a seus bens e direitos no app Mi Créditos. Causar uma certa perda e as informações pessoais não podem ser recuperadas, escolha com cuidado."</string>
     <string name="mibi_revoke_agreement_title">Alerta de risco</string>
     <string name="mibi_revoke_service_failed_msg">Falha ao sair do serviço. Por favor, tente novamente.</string>
     <string name="mibi_revoke_service_msg">"Se você sair do serviço Mi Créditos, deixaremos de coletar suas informações pessoais e excluiremos as informações pessoais coletadas pelo app de acordo com a lei, exceto outras leis e regulamentos que estipulem claramente o período de retenção de informações pessoais.
@@ -684,7 +684,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_account_user_name_dialog_title">Insira o nome</string>
     <string name="passport_account_user_phone">Telefone de recuperação</string>
     <string name="passport_activity_not_found_notice">"Não consigo encontrar o app"</string>
-    <string name="passport_agree">Concordar</string>
+    <string name="passport_agree">Aceitar</string>
     <string name="passport_activate_token_expired">Código de verificação expirado. Tente novamente.</string>
     <string name="passport_area_code_title">Código de área</string>
     <string name="passport_attention">Atenção!</string>
@@ -742,7 +742,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_error_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_error_unknown">Erro desconhecido</string>
     <string name="passport_error_user_agreement_error">Aceite os termos e condições primeiro</string>
-    <string name="passport_error_user_agreement">Concorde primeiro com nosso Contrato do Usuário</string>
+    <string name="passport_error_user_agreement">Aceite primeiro com nosso Contrato do Usuário</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
@@ -797,7 +797,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_register_restricted">Muitas contas foram associadas a este número. Experimente um diferente.</string>
     <string name="passport_relogin_notice">Você precisa fazer login novamente</string>
     <string name="passport_request_agree">Permitir</string>
-    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não aceite em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="passport_request_cancel">Cancelar</string>
     <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -874,11 +874,11 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="phone_num_use_for">O número de telefone é usado para:</string>
     <string name="phone_number">Número de telefone</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
-    <string name="please_agree_protocal">Por favor, concorde com o protocolo</string>
+    <string name="please_agree_protocal">Por favor, aceite o protocolo</string>
     <string name="pm">"PM"</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="protocal_dialog_cancel">Cancelar</string>
-    <string name="protocal_dialog_confirm">Concordar</string>
+    <string name="protocal_dialog_confirm">Aceitar</string>
     <string name="protocal_dialog_title">Atenção!</string>
     <string name="psw_hint">Senha</string>
     <string name="psw_sign_in">Entrar usando a senha</string>
@@ -886,7 +886,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="register_by_local_phone_long_text">Criar conta</string>
     <string name="register_by_local_phone_short_text">Criar conta</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concorda para conceder tais permissões, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir permissões ou revogar sua autorização nas Configurações"</string>
+    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não aceitar para conceder tais permissões, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir permissões ou revogar sua autorização nas Configurações"</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>

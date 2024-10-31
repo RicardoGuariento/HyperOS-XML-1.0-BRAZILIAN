@@ -186,7 +186,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
 • Acessar a lista de apps instalados no dispositivo"</string>
     <string name="dialog_request_all_permission_title">Permissões necessárias</string>
     <string name="dialog_request_network_btn_negative">Sair</string>
-    <string name="dialog_request_network_btn_positive">Concordar</string>
+    <string name="dialog_request_network_btn_positive">Aceitar</string>
     <string name="dialog_request_permission_message">"Bem-vindo ao Mi Mover! Você pode usar este app para transferir dados do seu antigo dispositvo para um novo. Os dados serão transferidos entre os dois dispositivos e não serão enviados aos nossos servidores."</string>
     <string name="dialog_request_permission_message_buttom_content">Permita que este app se conecte à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="dialog_request_permission_message_extra_summary">Estas permissões são necessárias para disponibilizar os recursos e serviços básicos deste app.</string>
@@ -370,12 +370,12 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="lack_perm_msg">O Mi Mover precisa das seguintes permissões para funcionar normalmente: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Permissões necessárias</string>
     <string name="launcher">Layout da Tela inicial</string>
-    <string name="league_acquire_accept">Concordar</string>
+    <string name="league_acquire_accept">Aceitar</string>
     <string name="league_acquire_message1">Para poder transferir apps de terceiros e seus dados deste dispositivo para o seu novo dispositivo %s, são necessárias as seguintes permissões:</string>
     <string name="league_acquire_message2">Permitir que o Mi Mover acesse dados de apps de terceiros</string>
     <string name="league_acquire_message3">Esta é uma permissão única usada apenas para transferir dados. Assim que a transferência for concluída, o Mi Mover irá parar automaticamente de usar esta permissão.</string>
-    <string name="league_acquire_message4">"Se você não concordar em conceder essa permissão, não poderá transferir apps de terceiros e seus dados."</string>
-    <string name="league_acquire_refuse">"Não concordar"</string>
+    <string name="league_acquire_message4">"Se você não aceita em conceder essa permissão, não poderá transferir apps de terceiros e seus dados."</string>
+    <string name="league_acquire_refuse">"Não aceitar"</string>
     <string name="league_acquire_title">Permissões necessárias</string>
     <string name="league_check_service_content">"Mi Mover está fornecendo serviços de transferência para %s e não está disponível no momento."</string>
     <string name="league_check_service_title">Transferir usando %s</string>
@@ -678,7 +678,7 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="recommend_hint">Recomendado</string>
     <string name="reconnect">Conectar novamente</string>
     <string name="recreate_soft_ap_tips">Toque no botão abaixo e tente novamente.</string>
-    <string name="refuse_accept">"Não concordo"</string>
+    <string name="refuse_accept">"Não aceitar"</string>
     <string name="request_all_permission_content">"O Mi Mover precisa acessar os seguintes itens para poder transferir itens para um novo dispositivo:
 • Localização
 • Contatos

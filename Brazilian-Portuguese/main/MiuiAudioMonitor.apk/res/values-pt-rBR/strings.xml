@@ -36,7 +36,7 @@
     <string name="assistant_note_two">Toque no atalho para gravar chamadas</string>
     <string name="call_assistant">Assistente VoIP</string>
     <string name="call_in_progress">Chamada em andamento</string>
-    <string name="call_recording_notification_complete_one">Gravado com sucesso. Toque para visualizar.</string>
+    <string name="call_recording_notification_complete_one">Gravado com sucesso. Toque para ver.</string>
     <string name="call_recording_notification_complete_other">%d chamadas gravadas com sucesso</string>
     <string name="call_recording_notification_title">Gravador de chamadas de voz</string>
     <string name="call_recording_notification_title_error">"Não foi possível gravar a chamada de voz"</string>
@@ -191,7 +191,7 @@ Observe que a violação dos direitos de privacidade de outras pessoas é ilegal
     <string name="record_name">Gravador de chamadas de voz</string>
     <string name="record_now">Aceitar</string>
     <string name="record_prompt">Impressão de voz</string>
-    <string name="record_prompt_str">"Para suprimir o ruído durante as chamadas, este app precisa coletar sua impressão de voz. A impressão de voz será armazenada localmente neste dispositivo e você poderá excluí-la realizando uma redefinição de fábrica. Você não poderá usar este serviço se não concordar."</string>
+    <string name="record_prompt_str">"Para suprimir o ruído durante as chamadas, este app precisa coletar sua impressão de voz. A impressão de voz será armazenada localmente neste dispositivo e você poderá excluí-la realizando uma redefinição de fábrica. Você não poderá usar este serviço caso não aceite."</string>
     <string name="record_restart">Grave a impressão de voz novamente</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>

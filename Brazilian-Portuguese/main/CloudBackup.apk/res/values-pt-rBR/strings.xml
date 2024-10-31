@@ -54,7 +54,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de dados WeChat. Atualize seu plano de armazenamento para fazer backup de itens.</string>
     <string name="backup_action_no_space_with_wechat_on_title">"Não foi possível fazer backup dos dados do WeChat"</string>
     <string name="backup_action_retry_now">Tente novamente</string>
-    <string name="backup_app_prominent_disclosure_dialog_message">O backup na nuvem coletará a lista de apps instalados no seu dispositivo e armazenará essas informações em nossos servidores. Armazenamos esses dados para que você possa baixá-los e restaurá-los sempre que necessário. Se você concorda com a coleta dessas informações, toque em \"Permitir\" abaixo.</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">O backup na nuvem coletará a lista de apps instalados no seu dispositivo e armazenará essas informações em nossos servidores. Armazenamos esses dados para que você possa baixá-los e restaurá-los sempre que necessário. Se você aceita a coleta dessas informações, toque em \"Permitir\" abaixo.</string>
     <string name="backup_failed_reason_app_data_error">"Não foi possível fazer backup dos dados do WeChat"</string>
     <string name="backup_failed_reason_app_usage_denied">Conceda as permissões necessárias para fazer backup de itens</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para salvar este backup. Faça o upgrade do seu plano ou libere espaço no armazenamento da nuvem.</string>

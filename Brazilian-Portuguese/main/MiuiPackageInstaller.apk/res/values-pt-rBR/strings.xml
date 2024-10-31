@@ -62,8 +62,8 @@
     <string name="all_permissions">Todas as permissões</string>
     <string name="am">"AM"</string>
     <string name="anonymous_source_continue">Continuar</string>
-    <string name="anonymous_source_warning">Seu dispositivo e dados pessoais estão mais vulneráveis ao ataque de apps desconhecidos. Ao instalar este app, você concorda que é responsável por qualquer dano ao dispositivo ou perda de dados que possa resultar do seu uso.</string>
-    <string name="anonymous_source_warning_tablet">Seu dispositivo e dados pessoais estão mais vulneráveis ao ataque de apps desconhecidos. Ao instalar este app, você concorda que é responsável por qualquer dano ao dispositivo ou perda de dados que possa resultar do seu uso.</string>
+    <string name="anonymous_source_warning">Seu dispositivo e dados pessoais estão mais vulneráveis ao ataque de apps desconhecidos. Ao instalar este app, você aceita que é responsável por qualquer dano ao dispositivo ou perda de dados que possa resultar do seu uso.</string>
+    <string name="anonymous_source_warning_tablet">Seu dispositivo e dados pessoais estão mais vulneráveis ao ataque de apps desconhecidos. Ao instalar este app, você aceita que é responsável por qualquer dano ao dispositivo ou perda de dados que possa resultar do seu uso.</string>
     <string name="app_already_on_the_app_store">Baixe no GetApps</string>
     <string name="app_crash_test_text">O Instalador de pacotes foi fechado à força</string>
     <string name="app_description_picture">Descrição do app</string>
@@ -779,7 +779,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="passport_account_user_name_dialog_title">Insira o nome</string>
     <string name="passport_account_user_phone">Telefone de recuperação</string>
     <string name="passport_activity_not_found_notice">"Não consigo encontrar o app"</string>
-    <string name="passport_agree">Concordar</string>
+    <string name="passport_agree">Aceitar</string>
     <string name="passport_area_code_title">Código de área</string>
     <string name="passport_attention">Atenção!</string>
     <string name="passport_auth_fail_warning">Sessão expirada. Faça login novamente.</string>
@@ -827,7 +827,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="passport_error_unknow_host_network_error">"Não foi possível conectar-se à rede"</string>
     <string name="passport_error_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_error_unknown">Erro desconhecido</string>
-    <string name="passport_error_user_agreement">Concorde primeiro com nosso Contrato do Usuário</string>
+    <string name="passport_error_user_agreement">Aceite primeiro com nosso Contrato do Usuário</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
@@ -877,7 +877,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="passport_register_restricted">Muitas contas foram associadas a este número. Experimente um diferente.</string>
     <string name="passport_relogin_notice">Você precisa fazer login novamente</string>
     <string name="passport_request_agree">Permitir</string>
-    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não aceite em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="passport_request_cancel">Cancelar</string>
     <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>

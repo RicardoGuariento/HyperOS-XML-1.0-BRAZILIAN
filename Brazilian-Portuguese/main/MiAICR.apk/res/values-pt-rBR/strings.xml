@@ -47,7 +47,7 @@
     <string name="aiSearch_privacy_dialog_permission_desc_data_to_cloud">Para melhor responder às suas perguntas relacionadas à sua vida e atividades, o Motor Mi IA enviará alguns itens relacionados (fotos, vídeos, arquivos, etc.) para a nuvem após você perguntar sobre eles. Esses dados serão usados apenas para perguntas e respostas no Assistente de Voz Mi AI.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_imageANDvideo">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Galeria, Pesquisa e Mi AI.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_sms">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Galeria, Pesquisa e Mi AI.</string>
-    <string name="aiSearch_privacy_dialog_permission_desc_user_notice">O Motor Mi IA fornece recursos de pesquisa em linguagem natural para alguns apps. Para usar esses recursos, primeiro concorde com a Política de Privacidade do Motor Mi IA. Aceitar agora?</string>
+    <string name="aiSearch_privacy_dialog_permission_desc_user_notice">O Motor Mi IA fornece recursos de pesquisa em linguagem natural para alguns apps. Para usar esses recursos, primeiro aceite a Política de Privacidade do Motor Mi IA. Aceitar agora?</string>
     <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Carregar dados pessoais para a nuvem</string>
     <string name="aiSearch_privacy_dialog_permission_title_user_notice">Termos e Condições</string>
     <string name="aireco_comm_reject">Agora não</string>
@@ -616,7 +616,7 @@
     <string name="passport_register_restricted">Muitas contas foram associadas a este número. Experimente um diferente.</string>
     <string name="passport_relogin_notice">Você precisa fazer login novamente</string>
     <string name="passport_request_agree">Permitir</string>
-    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não aceite em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="passport_request_cancel">Cancelar</string>
     <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>

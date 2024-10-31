@@ -1548,13 +1548,13 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_roaming_warning_checkbox">Não mostrar novamente</string>
     <string name="dialog_roaming_warning_message">A operadora poderá cobrar tarifas pelo uso do roaming de dados internacional. Ativar mesmo assim?</string>
     <string name="dialog_roaming_warning_ok">Ativar</string>
-    <string name="dialog_skt_roaming_warning_cancel">Não concordar</string>
+    <string name="dialog_skt_roaming_warning_cancel">Não aceitar</string>
     <string name="dialog_skt_roaming_warning_message">"Leia e aceite as condições abaixo para utilizar dados em roaming. Podem ser aplicadas cobranças de roaming internacional. Sem um plano de dados roaming, podem ser aplicadas cobranças elevadas aos apps que atualizam automaticamente.
- • Quando não concordar em utilizar roaming de dados, o roaming de dados será desativado
- • Voz HD é utilizado como padrão nas redes suportadas
+ • Quando não aceitar em usado roaming de dados, o roaming de dados será desativado
+ • Voz HD é usado como padrão nas redes suportadas
  • Dados de roaming 5G estão disponíveis apenas nas nossas redes parceiras
 "</string>
-    <string name="dialog_skt_roaming_warning_ok">Concordar</string>
+    <string name="dialog_skt_roaming_warning_ok">Aceitar</string>
     <string name="dialog_skt_roaming_warning_title">Acordo de roaming de dados</string>
     <string name="dialog_title_attention">Atenção!</string>
     <string name="dialog_title_auto_start_declare">Sobre o início automático</string>
@@ -1738,7 +1738,7 @@ cartão médico"</string>
     <string name="ew_arrive_text_tips">Onda sísmica chegou: %s</string>
     <string name="ew_button_confirm">Aceito</string>
     <string name="ew_button_exit">Discordo</string>
-    <string name="ew_china_version_first_start_network_msg"><Data>"Este recurso fornece a funcionalidade de aviso de terremoto. Ele o notificará sobre os próximos terremotos e reproduzirá um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para funcionar normalmente, esse recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer avisos precisos sobre terremotos. &lt;br>Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar isto recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e aceitar a nossa &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="ew_china_version_first_start_network_msg"><Data>"Este recurso fornece a funcionalidade de aviso de terremoto. Ele o notificará sobre os próximos terremotos e reproduzirá um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para funcionar normalmente, esse recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer avisos precisos sobre terremotos. &lt;br>Caso não aceite em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar isto recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e aceitar a nossa &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
     <string name="ew_click_locate">Toque para obter informações de localização</string>
     <string name="ew_close">Desativar alertas</string>
     <string name="ew_close_tips">Alerta de terremoto desativado</string>
@@ -1781,7 +1781,7 @@ cartão médico"</string>
 Suporte técnico por Xiaomi e ICL"</string>
     <string name="ew_global_signature_template">"Informações fornecidas por %s
 Suporte técnico por Xiaomi e ICL"</string>
-    <string name="ew_guide_law_agree">Concordar</string>
+    <string name="ew_guide_law_agree">Aceitar</string>
     <string name="ew_guide_law_done">Entendi</string>
     <string name="ew_guide_law_exit">Discordo</string>
     <string name="ew_guide_law_text">Este recurso fornece a funcionalidade de aviso de terremoto. Você deve entender que as informações de alerta de terremoto são fornecidas por uma agência de alerta antecipada terceirizada. A Xiaomi não supervisiona agências terceirizadas e não tem nenhum controle sobre elas. A Xiaomi não promete ou garante a precisão, validade e oportunidade das informações de alerta de terremoto, nem garante que o serviço de alerta de terremoto atenderá a todas as suas necessidades. Você deve entender que este recurso é fornecido apenas para sua referência. Você é o único responsável pelos riscos e consequências de quaisquer ações que execute com base nas informações fornecidas por este recurso.</string>
@@ -1794,7 +1794,7 @@ Suporte técnico por Xiaomi e ICL"</string>
     <string name="ew_guide_start_agree">Ativar</string>
     <string name="ew_guide_start_find_area">Procurar por áreas</string>
     <string name="ew_guide_start_warning_range"><Data>Os primeiros avisos são fornecidos para as áreas cobertas pela Rede de Alerta de Terremoto do Continente do Instituto de Redução de Desastres de alta tecnologia de Chengdu. Você pode encontrar uma lista de áreas de cobertura suportadas &lt;a href=%s>aqui&lt;/a>.</Data></string>
-    <string name="ew_guide_statement_text_new"><Data>"Este termo de responsabilidade aplica-se a todos os usuários (doravante referido \"você\") que ativam o recurso de aviso de terremoto. Ao concordar com este termo de responsabilidade, você firma um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante referidas como \"Xiaomi\"). Você reconhece que leu todo o conteúdo deste aviso do termo de responsabilidade e compreende totalmente e concorda com todos os termos e condições deste aviso; caso contrário, você deve desativar este recurso de aviso de terremoto imediatamente.
+    <string name="ew_guide_statement_text_new"><Data>"Este termo de responsabilidade aplica-se a todos os usuários (doravante referido \"você\") que ativam o recurso de aviso de terremoto. Ao aceitar este termo de responsabilidade, você firma um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante referidas como \"Xiaomi\"). Você reconhece que leu todo o conteúdo deste aviso do termo de responsabilidade e compreende totalmente e aceita todos os termos e condições deste aviso; caso contrário, você deve desativar este recurso de aviso de terremoto imediatamente.
 De acordo com as leis e regulamentos relevantes, a Xiaomi fornecerá a você serviços de alerta antecipado com base no escopo da área de monitoramento de alerta precoce de terremoto coberta pelas agências relevantes, ou seja, quando você ativa o recurso de aviso de terremoto, você pode receber avisos de terremoto emitidos para áreas específicas. Você pode encontrar uma lista de áreas de cobertura suportadas &lt;a href=%s>aqui&lt;/a>. Mais áreas de cobertura serão adicionadas periodicamente.
 Este recurso fornece a função de aviso de terremoto. Você deve entender que as informações de alerta de terremoto são fornecidas pelo Instituto de Redução de Desastres Chengdu Hi-tech. Xiaomi não supervisiona esta organização e não tem nenhum controle sobre ela.
 A Xiaomi não promete nem garante a precisão, validade e oportunidade das informações de alerta de terremoto, muito menos que o serviço de alerta de terremoto atenderá a todas as suas necessidades.
@@ -2698,7 +2698,7 @@ das suas sessões de jogos"</string>
     <string name="gd_sidebar_edit_quick_title">Atalhos</string>
     <string name="gd_sidebar_long_press_tips">Pressione e segure o indicador para movê-lo enquanto segura o dispositivo verticalmente</string>
     <string name="gd_splite_screen_tips">"A Tela dividida não suporta janelas flutuantes"</string>
-    <string name="gdpr_msg"><Data>Para poder detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre seu dispositivo. Leia e aceite a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> antes de usar nossos serviços. Caso você não concorde com a coleta destas informações, você ainda poderá usar o app, mas alguns recursos não estarão disponíveis.</Data></string>
+    <string name="gdpr_msg"><Data>Para poder detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre seu dispositivo. Leia e aceite a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> antes de usar nossos serviços. Caso você não aceite a coleta destas informações, você ainda poderá usar o app, mas alguns recursos não estarão disponíveis.</Data></string>
     <string name="get_detail_by_click">Toque para ver detalhes</string>
     <string name="get_phone_num_fail">Número de telefone desconhecido</string>
     <string name="get_sys_info">Obtendo informações…</string>
@@ -4594,7 +4594,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_empty_location">Nenhum app acessou a localização hoje</string>
     <string name="privacy_empty_record">Nenhuma gravação de áudio hoje</string>
     <string name="privacy_empty_storage">Nenhum app acessou o armazenamento hoje</string>
-    <string name="privacy_extra_provision_positive_btn">Concordar</string>
+    <string name="privacy_extra_provision_positive_btn">Aceitar</string>
     <string name="privacy_extra_provision_title">Serviços de extensão</string>
     <string name="privacy_flares_behavior_recent">Status do app</string>
     <string name="privacy_flares_capsule_current">%1s | Agora</string>
@@ -4695,7 +4695,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_revoke_dialog_title_cn">Atenção!</string>
     <string name="privacy_revoke_failed_dialog_content">Ocorreu um erro no servidor. Espere alguns minutos e tente novamente.</string>
     <string name="privacy_revoke_failed_dialog_title">"Não foi possível retirar o consentimento"</string>
-    <string name="privacy_revoke_tip_dialog_content"><Data>"Você não poderá continuar usando %1$s a menos que você concorde com a nova versão de sua Política de Privacidade. Aceitar a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> %2$s atualizada agora?"</Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>"Você não poderá continuar usando %1$s a menos que você aceite a nova versão de sua Política de Privacidade. Aceitar a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> %2$s atualizada agora?"</Data></string>
     <string name="privacy_revoke_tip_dialog_title">"Não é possível usar o app"</string>
     <string name="privacy_revoke_title">Retirada de consentimento</string>
     <string name="privacy_risk_app">Apps com risco</string>
@@ -5739,7 +5739,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="terminal_privacy_ability_voice_summary">Comandos de voz e legendas inteligentes</string>
     <string name="terminal_privacy_instruction">A proteção de privacidade no dispositivo inclui os recursos que garantem que suas informações pessoais sejam mantidas neste dispositivo em vez de serem carregadas na nuvem</string>
     <string name="terminal_privacy_summary">Processar informações pessoais neste dispositivo</string>
-    <string name="terms_and_conditions_content"><Data>"Esse recurso fornece a funcionalidade de alerta de terremotos. Ele irá notificá-lo sobre os próximos terremotos e reproduzir um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para poder funcionar normalmente, este recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer alertas precisos de terremoto. &lt;br>Caso não concorde em conceder tais permissões ou compartilhar suas informações pessoais, não poderá usar esse recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e concordar com nossa &lt;a href=%s>Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="terms_and_conditions_content"><Data>"Esse recurso fornece a funcionalidade de alerta de terremotos. Ele irá notificá-lo sobre os próximos terremotos e reproduzir um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para poder funcionar normalmente, este recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer alertas precisos de terremoto. &lt;br>Caso não aceite em conceder tais permissões ou compartilhar suas informações pessoais, não poderá usar esse recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e aceitar a nossa &lt;a href=%s>Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_value_custom">Personalizado</string>
@@ -6361,7 +6361,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="warningcenter_policeassist_open_btn">Ativado</string>
     <string name="warningcenter_policeassist_open_content">Envie suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga 181, 190, 192, 119 ou 122"</string>
     <string name="warningcenter_policeassist_open_title">Compartilhe sua localização com a polícia durante chamadas de emergência</string>
-    <string name="warningcenter_policeassist_privacy"><Data>"Eu li e concordei com &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>."</Data></string>
+    <string name="warningcenter_policeassist_privacy"><Data>"Eu li e aceito o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>."</Data></string>
     <string name="warningcenter_policeassist_title">Localização de emergência</string>
     <string name="warningcenter_smarthome">"Mi Home"</string>
     <string name="warningcenter_title">Central de alerta</string>

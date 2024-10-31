@@ -512,7 +512,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="passport_error_unknow_host_network_error">"Não foi possível conectar-se à rede"</string>
     <string name="passport_error_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_error_unknown">Erro desconhecido</string>
-    <string name="passport_error_user_agreement">Concorde primeiro com nosso Contrato do Usuário</string>
+    <string name="passport_error_user_agreement">Aceite primeiro o nosso Contrato do Usuário</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_get_login_type_next">Próximo</string>
@@ -606,7 +606,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="playback_share_records">Compartilhar gravação</string>
     <string name="playback_tabs_audio">Áudio</string>
     <string name="playback_tabs_text">Texto</string>
-    <string name="please_agree_protocal">Por favor, concorde com o protocolo</string>
+    <string name="please_agree_protocal">Por favor, aceite o protocolo</string>
     <string name="pm">"PM"</string>
     <string name="preference_clear_data">Limpar dados</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
@@ -752,7 +752,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="rename_speaker_dialog_checkbox">Atualizar apenas na seção atual</string>
     <string name="rename_speaker_dialog_title">Renomear interlocutor</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concorda para conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não aceitar para conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir permissões ou revogar sua autorização nas Configurações."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>

@@ -150,8 +150,8 @@
     <string name="cancel_service_running">Cancelando serviços…</string>
     <string name="cancel_service_summary">"Se continuar, você cancelará os serviços do Carrossel de planos de fundo. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Cancelar serviços mesmo assim?"</string>
     <string name="carousel_declaration_btn_text">Ativar o Carrossel de planos de fundo</string>
-    <string name="carousel_declaration_cta">"O Carrossel de planos de fundo precisa de conexão com a internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa concordar com a nossa Política de Privacidade. Concorda?"</string>
-    <string name="carousel_declaration_cta_btn_text">Concorde e ative</string>
+    <string name="carousel_declaration_cta">"O Carrossel de planos de fundo precisa de conexão com a internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa aceitar a nossa Política de Privacidade. Aceitar?"</string>
+    <string name="carousel_declaration_cta_btn_text">Aceitar e ativar</string>
     <string name="carousel_declaration_des">Veja lugares lindos e obtenha surpresas excitantes com o Carrossel de planos de fundo</string>
     <string name="carousel_declaration_des2">Adicione as suas imagens ao Carrossel de planos de fundo</string>
     <string name="carousel_declaration_des_new">Receba recomendações personalizadas e escolha imagens novas diariamente</string>
@@ -400,7 +400,7 @@ Envie este código para o supervisor."</string>
     <string name="liked">Adicionado aos favoritos</string>
     <string name="lks_cta_dont_mention">"Não mostrar novamente"</string>
     <string name="lks_cta_ok">Aceitar</string>
-    <string name="lks_cta_reject">"Não aceito"</string>
+    <string name="lks_cta_reject">"Não aceitar"</string>
     <string name="lks_cta_summary1_new">Este app oferece uma ampla gama de planos de fundo recomendados, cobrindo temas como viagens, animais de estimação, comida, arte e muito mais.</string>
     <string name="lks_cta_summary2_new">"O Carrossel de planos de fundo precisa se conectar à internet para fornecer seus serviços. Leia e aceite o &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrato do Usuário do Sistema Operacional Xiaomi&lt;/font>&lt;/a> e a &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Política de Privacidade do Carrossel de planos de fundo&lt;/font>&lt;/a> antes de continuar."</string>
     <string name="lks_cta_title">Termos e Condições</string>
@@ -675,17 +675,17 @@ mm"</string>
     <string name="no_phone">Nenhum número de telefone</string>
     <string name="no_pic_data">"Não foi possível encontrar imagens"</string>
     <string name="noon">"PM"</string>
-    <string name="not_agree_summary">Concorde com nossos termos e condições primeiro</string>
+    <string name="not_agree_summary">Aceite os nossos termos e condições primeiro</string>
     <string name="not_allowed">Não permitir</string>
     <string name="not_cancel_button">Não</string>
     <string name="not_revoke_button">Cancelar</string>
     <string name="not_set">Não definido</string>
     <string name="ok">"OK"</string>
-    <string name="ok_enable_network_prov">Concordar</string>
-    <string name="ok_enable_network_prov2">Concordar</string>
-    <string name="ok_international">Concordar</string>
-    <string name="ok_lockscreen">Concordar</string>
-    <string name="ok_network">Concordar</string>
+    <string name="ok_enable_network_prov">Aceitar</string>
+    <string name="ok_enable_network_prov2">Aceitar</string>
+    <string name="ok_international">Aceitar</string>
+    <string name="ok_lockscreen">Aceitar</string>
+    <string name="ok_network">Aceitar</string>
     <string name="open_btn_finish">Concluído</string>
     <string name="open_btn_next">Próximo</string>
     <string name="open_btn_start">Ative o Carrossel de planos de fundo</string>
@@ -789,7 +789,7 @@ mm"</string>
     <string name="passport_error_unknow_host_network_error">"Não foi possível conectar-se à rede"</string>
     <string name="passport_error_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_error_unknown">Erro desconhecido</string>
-    <string name="passport_error_user_agreement">Primeiro concorde com nosso Contrato do Usuário</string>
+    <string name="passport_error_user_agreement">Primeiro aceite o nosso Contrato do Usuário</string>
     <string name="passport_error_user_agreement_error">Aceite os termos e condições primeiro</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
@@ -856,7 +856,7 @@ mm"</string>
     <string name="passport_reload_ph_ticket">Reenviar</string>
     <string name="passport_relogin_notice">Você precisa fazer login novamente</string>
     <string name="passport_request_agree">Permitir</string>
-    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não aceite em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="passport_request_cancel">Cancelar</string>
     <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -953,7 +953,7 @@ mm"</string>
     <string name="privacy_update_quit">Sair</string>
     <string name="privacy_update_summary1">A Política de Privacidade do Carrossel de planos de fundo foi atualizada:</string>
     <string name="privacy_update_summary2">"Leia e aceite a nova versão da &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a> antes de continuar."</string>
-    <string name="privacy_update_summary3">"Você não poderá continuar usando o Carrossel de planos de fundo, a menos que concorde com a nova versão da sua &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a>. Concorda com a Política de Privacidade atualizada agora?"</string>
+    <string name="privacy_update_summary3">"Você não poderá continuar usando o Carrossel de planos de fundo, a menos que aceite a nova versão da sua &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a>. Aceitar a Política de Privacidade atualizada agora?"</string>
     <string name="privacy_update_title1">Política de Privacidade atualizada</string>
     <string name="privacy_update_title2">Atenção!</string>
     <string name="prompt_Theme_tip">Não foi possível obter o estilo do tema. Por favor, verifique se a rede e a hora estão corretas.</string>
@@ -987,7 +987,7 @@ mm"</string>
     <string name="remove">Remover</string>
     <string name="req_permission_dis_tip">Permissões necessárias</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">"Devemos proteger suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="request_camera_permission_message">"Devemos proteger suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não aceite em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -1201,12 +1201,12 @@ mm"</string>
     <string name="subscribe_success_content_per_three_hour">Alterar o plano de fundo a cada 3 horas</string>
     <string name="subscribe_success_content_per_unlock">Alterar o plano de fundo cada vez que o dispositivo é bloqueado</string>
     <string name="subscribe_update_time_setting">Defina um intervalo diferente</string>
-    <string name="summary">"Concordar com a nossa &lt;a href='%s'>Política de Privacidade&lt;/a> para ver conteúdo online. Se você discordar, planos de fundo locais ainda estarão disponíveis."</string>
-    <string name="summary2">"Ao usar este recurso, você concorda com o nosso &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color='#0D84FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a>. Este app necessita de conexão à internet para funcionar normalmente"</string>
+    <string name="summary">"Aceite a nossa &lt;a href='%s'>Política de Privacidade&lt;/a> para ver conteúdo online. Se você discordar, planos de fundo locais ainda estarão disponíveis."</string>
+    <string name="summary2">"Ao usar este recurso, você aceita o nosso &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color='#0D84FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a>. Este app necessita de conexão à internet para funcionar normalmente"</string>
     <string name="summary3">"Bem-vindo ao Carrossel de planos de fundo! Aqui você pode se inscrever em suas categorias de plano de fundo favoritas e obter novas imagens na Tela de bloqueio regularmente. Este app precisa se conectar à internet e coletar os dados pessoais necessários para funcionar normalmente.&lt;br>Para fornecer serviços adicionais, podemos pedir permissão para acessar e salvar itens no armazenamento deste dispositivo.&lt;br>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a> antes de usar este app."</string>
     <string name="summary4">"Bem-vindo ao Carrossel de planos de fundo! Aqui você pode se inscrever em suas categorias de plano de fundo favoritas e obter novas imagens na Tela de bloqueio regularmente. "</string>
     <string name="summary5">"Para fornecer serviços adicionais, podemos pedir permissão para acessar e salvar itens no armazenamento deste dispositivo. "</string>
-    <string name="summary_international">"Ao usar este recurso, você concorda com o nosso &lt;a href ='%1$s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2$s'>Política de Privacidade&lt;/a>. Este app necessita de conexão à internet para funcionar normalmente"</string>
+    <string name="summary_international">"Ao usar este recurso, você aceita o nosso &lt;a href ='%1$s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2$s'>Política de Privacidade&lt;/a>. Este app necessita de conexão à internet para funcionar normalmente"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

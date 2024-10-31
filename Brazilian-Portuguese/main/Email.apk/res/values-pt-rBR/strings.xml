@@ -38,7 +38,7 @@
     <string name="account_change">Mudar de conta</string>
     <string name="account_child_dialog_neg_text">Sair</string>
     <string name="account_child_dialog_pos_text">Responsável aceita</string>
-    <string name="account_child_dialog_text">"Se você for menor de 14 anos, informe ao seu responsável que ele deve ler e concordar com a \"Declaração da Kingsoft sobre Proteção de Dados Pessoais de Menores\". Você também deve buscar seu consentimento e orientação antes de usar nossos serviços ou enviar qualquer informação pessoal para nós.
+    <string name="account_child_dialog_text">"Se você for menor de 14 anos, informe ao seu responsável que ele deve ler e aceitar com a \"Declaração da Kingsoft sobre Proteção de Dados Pessoais de Menores\". Você também deve buscar seu consentimento e orientação antes de usar nossos serviços ou enviar qualquer informação pessoal para nós.
 Para compreender totalmente os seus direitos como usuário, bem como as maneiras como processamos seus dados, leia a \"Declaração da Kingsoft sobre Proteção de Dados Pessoais de Menores\"."</string>
     <string name="account_child_dialog_title">"Declaração sobre proteção de dados pessoais de menores"</string>
     <string name="account_child_save_statement">"Declaração da Kingsoft sobre proteção de dados pessoais de menores"</string>
@@ -993,9 +993,9 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="message_view_attachment_background_load">O download de anexos em sua mensagem encaminhada será feito antes do envio.</string>
     <string name="mi_slide_menu">Barra lateral</string>
     <string name="mibill_privacy_policy_button1">Depois</string>
-    <string name="mibill_privacy_policy_button2">Concordar</string>
+    <string name="mibill_privacy_policy_button2">Aceitar</string>
     <string name="mibill_privacy_policy_description">Permitir que o Mi Wallet analise e gerencie suas faturas automaticamente. Este recurso é desativado por padrão para endereços de e-mail comerciais.</string>
-    <string name="mibill_privacy_policy_link">Ao usar esta funcionalidade, você estará concordando com nossos <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
+    <string name="mibill_privacy_policy_link">Ao usar esta funcionalidade, você estará aceitando os nossos <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
     <string name="mibill_privacy_policy_title">Gerenciar faturas automaticamente</string>
     <string name="midnight">"AM"</string>
     <string name="min_payment_text">Pagamento mínimo</string>
@@ -1319,7 +1319,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="print_scheduler_title">Imprimir todas as programações</string>
     <string name="privacy_and_help">Privacidade e ajuda</string>
     <string name="privacy_and_private_permission">Consentimento para Contrato do Usuário e Política de Privacidade</string>
-    <string name="privacy_des">"Os logs contêm informação de depuração do cliente de e-mail e informações do seu dispositivo. Estas informações são usadas para localizar os problemas mais rápido. Ao tocar em \"%1$s\" abaixo, você está concordando com nossa \"%2$s\"."</string>
+    <string name="privacy_des">"Os logs contêm informação de depuração do cliente de e-mail e informações do seu dispositivo. Estas informações são usadas para localizar os problemas mais rápido. Ao tocar em \"%1$s\" abaixo, você está aceitando a nossa \"%2$s\"."</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_setting_agree">Aceitar</string>
     <string name="progress">Progresso:</string>
@@ -1482,7 +1482,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="server_cet_subject_cn">"Domínio suportado: "</string>
     <string name="server_cet_title">Detalhes do certificado</string>
     <string name="server_log">Acordo de Serviço</string>
-    <string name="service_protocol_discribe"><u>Eu li e concordo com o \"Contrato de Serviço do WPS Mail\"</u></string>
+    <string name="service_protocol_discribe"><u>Eu li e aceito o Contrato de Serviço do WPS Mail</u></string>
     <string name="service_protocol_title">Contrato de Serviço</string>
     <string name="set_account_app_password">Definir senha do app</string>
     <string name="set_network">Definir rede</string>

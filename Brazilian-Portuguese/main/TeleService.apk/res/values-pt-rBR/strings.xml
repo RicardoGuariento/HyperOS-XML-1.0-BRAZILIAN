@@ -2405,9 +2405,9 @@ Interface UT: %5$s"</string>
     <string name="satellite_point_title">Ative as comunicações via Tiantong Satellite</string>
     <string name="satellite_privacy_statement_message">"Para fornecer serviços do Tiantong Satellite, precisamos acessar sua localização e procurar satélites.
 Depois de se conectar ao satélite, a China Telecom precisa acessar sua localização para localizá-lo em caso de emergência. Para obter detalhes sobre como processamos suas informações pessoais, consulte a "<a href="https://privacy.mi.com/TianTong-dianxin/en_US/">Declaração de Privacidade das Comunicações via Tiantong Satellite</a>".
-Toque em \"Concordo\" abaixo para indicar que você leu e concordou com esta declaração de privacidade."</string>
-    <string name="satellite_privacy_statement_negative">"Não concordo"</string>
-    <string name="satellite_privacy_statement_positive">Concordo</string>
+Toque em \"Aceitar\" abaixo para indicar que você leu e aceitou esta declaração de privacidade."</string>
+    <string name="satellite_privacy_statement_negative">"Não aceitar"</string>
+    <string name="satellite_privacy_statement_positive">Aceitar</string>
     <string name="satellite_privacy_statement_title">Declaração de privacidade</string>
     <string name="satellite_privacy_withdrawal_dialog_disable_negative">Cancelar serviços (%ds)</string>
     <string name="satellite_privacy_withdrawal_dialog_enable_negative">Cancelar serviços</string>

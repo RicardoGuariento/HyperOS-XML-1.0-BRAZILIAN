@@ -84,6 +84,8 @@
     <string name="already_exist">Este timer já existe</string>
     <string name="am">"AM"</string>
     <string name="analog_gadget">Relógio analógico</string>
+    <string name="aod_timer_pause">Timer pausado</string>
+    <string name="aod_timer_running">Timer em execução</string>
     <string name="app_label">Relógio</string>
     <string name="app_name">Relógio</string>
     <string name="auto_silence_entries1">Nunca</string>
@@ -675,6 +677,7 @@ mm"</string>
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_alarm_alert">O alarme está tocando</string>
     <string name="stopwatch_lap_empty_text">Nenhuma volta</string>
     <string name="stopwatch_reset_notification">O cronômetro foi redefinido</string>
     <string name="stopwatch_running_notification">Cronômetro</string>
@@ -772,7 +775,6 @@ mm"</string>
     <string name="timer_got_it">"OK"</string>
     <string name="timer_got_it_new">Silenciar</string>
     <string name="timer_is_paused">O timer está pausado</string>
-    <string name="timer_keep_screen_on">Manter tela ligada</string>
     <string name="timer_item_delete">Excluir</string>
     <string name="timer_item_duration_display">%1$d min %2$d seg</string>
     <string name="timer_item_edit">Editar</string>
@@ -780,11 +782,14 @@ mm"</string>
     <string name="timer_item_picker_hour">"H"</string>
     <string name="timer_item_picker_minute">"M"</string>
     <string name="timer_item_picker_second">"S"</string>
+    <string name="timer_keep_screen_on">Manter tela ligada</string>
     <string name="timer_new_item">Novo timer</string>
     <string name="timer_notify_text">Tirar soneca ou dispensar timer.</string>
+    <string name="timer_pause_notification">Pausado</string>
     <string name="timer_pause_timer">Pausar timer</string>
     <string name="timer_ringtone">Toque do timer</string>
     <string name="timer_running">Timer em execução</string>
+    <string name="timer_running_notification">Timer</string>
     <string name="timer_screen_on">A tela permanece ligada</string>
     <string name="timer_screen_turn_on">Manter tela ligada</string>
     <string name="timer_start_alarm">"O tempo acabou!"</string>

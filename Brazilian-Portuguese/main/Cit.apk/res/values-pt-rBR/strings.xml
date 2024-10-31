@@ -370,6 +370,7 @@ Clique no botão apropriado de acordo com o número que você ouvir."</string>
     <string name="cit_f2_capture_fail">Falha na captura, tente novamente!</string>
     <string name="cit_f2_capture_success">Toque no botão de calibração!</string>
     <string name="cit_fail">Erro</string>
+    <string name="cit_first_pen_hall_test">Teste do detector S Hall com caneta de toque:</string>
     <string name="cit_flash_life_check_summary">Estimativa do tempo de vida da luz de flash do dispositivo</string>
     <string name="cit_flash_life_check_title">Vida da luz de flash</string>
     <string name="cit_flicker_sensor_check_summary">Os valores para oscilação devem aparecer abaixo</string>
@@ -389,6 +390,9 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
     <string name="cit_fm_open_bluetooth">Abrindo Bluetooth…</string>
     <string name="cit_fm_start_service">Iniciar áudio</string>
     <string name="cit_fold_hall_test_summary">Por favor, dobre o dispositivo e expanda-o. Se o botão de aprovação se tornar clicável, o teste passou.</string>
+    <string name="cit_fourth_pen_hall_test">Teste do detector da Touch Pen PPE S Hall:</string>
+    <string name="cit_fp_cali_diaglog_msg">Certifique-se de que a tela esteja calibrada com a película protetora oficial da Xiaomi ou sem película protetora e mantenha a área da impressão digital limpa e sem danos.</string>
+    <string name="cit_fp_cali_diaglog_tip">Dicas</string>
     <string name="cit_fp_fod_cali_title">Calibração de impressão digital fod</string>
     <string name="cit_front_camera_check_summary">"Instruções do teste:
 
@@ -530,6 +534,7 @@ Não desligue a tela durante o teste."</string>
     <string name="cit_notificationlight">LED de notificação</string>
     <string name="cit_notificationlight_off">LED de notificação desligado</string>
     <string name="cit_notificationlight_on">LED de notificação ligado</string>
+    <string name="cit_null">Nulo</string>
     <string name="cit_otg_not_supported">"Este dispositivo não suporta teste OTG"</string>
     <string name="cit_pass">Passou</string>
     <string name="cit_pencil_reverse_wireless_charger_summary">Por favor, coloque o lápis na área de detecção a parte direita da mesa para iniciar o teste.</string>
@@ -575,6 +580,7 @@ Ao calibrar, certifique-se de que não haja nada entre o sensor e sua mão (ex.:
     <string name="cit_reset_check_title">Teste de reinicialização</string>
     <string name="cit_reset_test">Testar</string>
     <string name="cit_sar_sensor_collect_cali_description">Calibrar e coletar dados do Sensor Sar</string>
+    <string name="cit_second_pen_hall_test">Teste do detector S Hall com caneta de toque:</string>
     <string name="cit_sd_fail">Ocorreu um erro</string>
     <string name="cit_sd_mount">Montar cartão SD</string>
     <string name="cit_sd_mount_sucess">Cartão SD montado</string>
@@ -630,6 +636,7 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
     <string name="cit_tfcard_support_title">Suporte ao TFCard</string>
     <string name="cit_tfcard_total_size">Tamanho total</string>
     <string name="cit_tfcard_unmounted">Cartão SD indisponível</string>
+    <string name="cit_third_pen_hall_test">Teste do detector da Touch Pen PPE N Hall:</string>
     <string name="cit_tof_sensor_check_summary">Os valores para TOF devem aparecer abaixo</string>
     <string name="cit_tof_sensor_check_title">Sensor Tof</string>
     <string name="cit_tool">Ferramentas adicionais</string>

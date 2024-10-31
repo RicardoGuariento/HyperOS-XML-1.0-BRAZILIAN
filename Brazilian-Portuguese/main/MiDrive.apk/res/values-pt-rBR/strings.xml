@@ -150,7 +150,7 @@
     <string name="document_preview_cancel_text">Parar carregamento</string>
     <string name="document_preview_download_failed">"Não foi possível carregar. Tente novamente."</string>
     <string name="download_done">Download completo</string>
-    <string name="download_done_info_for_sys_title">Baixado com sucesso. Toque para visualizar.</string>
+    <string name="download_done_info_for_sys_title">Baixado com sucesso. Toque para ver.</string>
     <string name="download_fail">"Não foi possível baixar"</string>
     <string name="download_list">"Downloads"</string>
     <string name="download_list_empty">Ainda não há itens aqui</string>
@@ -656,7 +656,7 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="upload_metered_network_dialog_title">Usando dados móveis</string>
     <string name="uploading">Enviando</string>
     <string name="user_agreement_title">Contrato do Usuário do Mi Drive</string>
-    <string name="user_protocol_and_privacy_protocol"><Data>"Eu li e concordei com o nosso&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>"</Data></string>
+    <string name="user_protocol_and_privacy_protocol"><Data>"Eu li e aceito o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>"</Data></string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="video_picker_title">Selecionar vídeos</string>

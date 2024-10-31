@@ -953,12 +953,12 @@ Todos os itens de personalização usados atualmente neste dispositivo. As prefe
     <string name="privacy_pad_fold_revoke_agree_detail_title">Leia e aceite a \"Declaração sobre a Retirada de Consentimento à Política de Privacidade do Plano de fundo e personalização\" antes de retirar o seu consentimento.</string>
     <string name="privacy_pad_fold_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade de Personalização. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Uma vez que o Personalização fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar serviços de Plano de fundo e personalização."</string>
     <string name="privacy_pad_fold_update_content">Política de Privacidade do Plano de fundo e personalização foi atualizada:</string>
-    <string name="privacy_pad_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do Usuário e Política de Privacidade. No entanto, os recursos e serviços básicos do Personalização ainda estão disponíveis para você.
+    <string name="privacy_pad_important_prompt_content">"Parece que você ainda não aceitou o nosso Contrato do Usuário e Política de Privacidade. No entanto, os recursos e serviços básicos do Personalização ainda estão disponíveis para você.
 Sempre que você usar os itens armazenados neste dispositivo para personalização (ex.: configurá-los como planos de fundo ou toques), pediremos que você permita que este app acesse o armazenamento do dispositivo."</string>
     <string name="privacy_permission_management_description">Detalhes de permissões</string>
     <string name="privacy_permission_related_content">Permissões</string>
-    <string name="privacy_permit_privacy_policy_content">"Você não poderá continuar usando a nossa, a menos que concorde com a nova versão da &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a>. Concordar com a Política de Privacidade atualizada agora?"</string>
-    <string name="privacy_phone_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do Usuário e a Política de Privacidade. No entanto, os recursos e serviços básicos do Temas ainda estão disponíveis para você.
+    <string name="privacy_permit_privacy_policy_content">"Você não poderá continuar usando a nossa, a menos que aceite a nova versão da &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a>. Aceitar a Política de Privacidade atualizada agora?"</string>
+    <string name="privacy_phone_important_prompt_content">"Parece que você ainda não aceitou o nosso Contrato do Usuário e a Política de Privacidade. No entanto, os recursos e serviços básicos do Temas ainda estão disponíveis para você.
 Sempre que você usar os itens armazenados neste dispositivo para personalização (ex.: configurá-los como planos de fundo ou toques), pediremos que você permita que este app acesse o armazenamento do dispositivo."</string>
     <string name="privacy_phone_logoff_service_content">Cancelar serviços do Temas</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
@@ -995,11 +995,11 @@ Todos os itens de personalização usados ​​atualmente neste dispositivo. As
     <string name="privacy_phone_revoke_agree_detail_title">Leia e aceite a \"Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas\" antes de retirar seu consentimento.</string>
     <string name="privacy_phone_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Temas. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Temas fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços do Temas."</string>
     <string name="privacy_phone_update_content">Política de Privacidade do Temas foi atualizada:</string>
-    <string name="privacy_read_statement">Concorde com os termos e condições primeiro</string>
+    <string name="privacy_read_statement">Aceite os termos e condições primeiro</string>
     <string name="privacy_read_the_updated_privacy_policy_content">"Leia e aceite a nova versão da &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a> antes de continuar."</string>
     <string name="privacy_reading_the_application_list">Acesse a lista de apps instalados neste dispositivo</string>
     <string name="privacy_remind_user_mode_agree">Aceitar</string>
-    <string name="privacy_remind_user_mode_content"><Data>Concorde com a nossa Política de Privacidade para usar este recurso. Leia a nossa &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a>&lt;/font> para saber como coletamos, usamos, divulgamos, processamos e armazenamos as informações pessoais que você nos fornece quando usa o Temas.</Data></string>
+    <string name="privacy_remind_user_mode_content"><Data>Aceite a nossa Política de Privacidade para usar este recurso. Leia a nossa &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a>&lt;/font> para saber como coletamos, usamos, divulgamos, processamos e armazenamos as informações pessoais que você nos fornece quando usa o Temas.</Data></string>
     <string name="privacy_remind_user_mode_title">Atenção!</string>
     <string name="privacy_revoke_agree_content">Retirada de consentimento</string>
     <string name="privacy_revoke_agree_content_1">1. Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi onde você usou sua Conta Mi. Você não poderá mais usar os itens que comprou.</string>
@@ -1009,7 +1009,7 @@ Todos os itens de personalização usados ​​atualmente neste dispositivo. As
     <string name="privacy_revoke_succeed">Retirou consentimento com sucesso</string>
     <string name="privacy_revoking_warning">Retirando consentimento…</string>
     <string name="privacy_select_mode">Selecionar modo</string>
-    <string name="privacy_select_mode_desc">"Como você não concordou com a nossa Política de Privacidade, selecione um dos seguintes modos:"</string>
+    <string name="privacy_select_mode_desc">"Como você não aceitou a nossa Política de Privacidade, selecione um dos seguintes modos:"</string>
     <string name="privacy_settings">Privacidade</string>
     <string name="privacy_update_prompt_title">Política de Privacidade atualizada</string>
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.
@@ -1552,7 +1552,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="theme_share_app_name">Temas Mi</string>
     <string name="theme_staggered_item_text">Receber Mi Créditos</string>
     <string name="theme_user_agreement_allow">Aceitar</string>
-    <string name="theme_user_agreement_content1">"Ao usar este produto, você está concordando com nosso "</string>
+    <string name="theme_user_agreement_content1">"Ao usar este produto, você está aceitando o nosso "</string>
     <string name="theme_user_agreement_content2">Contrato do Usuário</string>
     <string name="theme_user_agreement_content3">" e "</string>
     <string name="theme_user_agreement_content4">Política de Privacidade</string>

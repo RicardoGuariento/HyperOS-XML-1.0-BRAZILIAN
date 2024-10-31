@@ -140,7 +140,7 @@
     <string name="button_sure_abandon">Descartar mudanças?</string>
     <string name="card_vote_item_vs">"VS"</string>
     <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
-    <string name="china_version_first_start_network_msg">"Você precisa concordar com o %1$s e %2$s da Xiaomi para poder usar o Clima. O Clima precisa acessar sua localização e se conectar à internet para funcionar normalmente. Aceitar?"</string>
+    <string name="china_version_first_start_network_msg">"Você precisa aceitar o %1$s e %2$s da Xiaomi para poder usar o Clima. O Clima precisa acessar sua localização e se conectar à internet para funcionar normalmente. Aceitar?"</string>
     <string name="city_exceeded_warning">"Não é possível adicionar mais locais. Remova um local antes de adicionar um novo."</string>
     <string name="clear_net_mock_success">Simulação de rede limpa com sucesso</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
@@ -199,7 +199,7 @@ Puxe para baixo para atualizar ou verificar as configurações de rede"</string>
     <string name="dialog_privacy_policy_update_msg">"A Política de Privacidade do Clima foi atualizada:
 %1$s
 Leia e aceite a nova versão da %2$s antes de continuar."</string>
-    <string name="dialog_privacy_policy_update_next_msg">"Você não poderá continuar usando nossos serviços a menos que concorde com a nova versão da %1$s. Aceitar a Política de Privacidade atualizada?"</string>
+    <string name="dialog_privacy_policy_update_next_msg">"Você não poderá continuar usando nossos serviços a menos que aceite a nova versão da %1$s. Aceitar a Política de Privacidade atualizada?"</string>
     <string name="dialog_privacy_policy_update_title">Política de Privacidade atualizada</string>
     <string name="dialog_score_bad">Insatisfeito</string>
     <string name="dialog_score_general">Neutro</string>
@@ -216,7 +216,7 @@ Leia e aceite a nova versão da %2$s antes de continuar."</string>
     <string name="empty_view_refresh">Tente novamente</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
-    <string name="eu_region_version_first_start_network_msg">"Ao usar este produto, você concorda que este produto conectará a rede, coletará, processará e usará suas informações pessoais, incluindo as coordenadas das cidades que você pesquisar e outros tipos de dados especificados em nossa Política de Privacidade. Consulte nossa Política de Privacidade para saber como coletamos e processamos informações. Ao tocar em \"Aceitar\", você aceita o %1$s e a %2$s da Xiaomi."</string>
+    <string name="eu_region_version_first_start_network_msg">"Ao usar este produto, você aceita que este produto conectará a rede, coletará, processará e usará suas informações pessoais, incluindo as coordenadas das cidades que você pesquisar e outros tipos de dados especificados em nossa Política de Privacidade. Consulte nossa Política de Privacidade para saber como coletamos e processamos informações. Ao tocar em \"Aceitar\", você aceita o %1$s e a %2$s da Xiaomi."</string>
     <string name="evening">"PM"</string>
     <string name="exo_controls_fastforward_description">Avanço rápido</string>
     <string name="exo_controls_fullscreen_description">Modo Tela cheia</string>

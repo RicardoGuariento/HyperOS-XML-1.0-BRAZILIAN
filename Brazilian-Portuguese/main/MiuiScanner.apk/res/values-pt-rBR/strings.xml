@@ -343,7 +343,7 @@
     <string name="importFailed">"Não foi possível importar"</string>
     <string name="import_contact">Importar contato</string>
     <string name="import_picture">Importar</string>
-    <string name="impunity_declaration_content">O Scanner precisa usar sua câmera e processar as imagens que você captura enquanto usa o app. Não use o Scanner para tirar fotos dos objetos que contêm suas informações pessoais. Ao tocar em \"Aceitar\", você está concordando com a nossa &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Política de Privacidade&lt;/a>&lt;/font> e permitindo que o Scanner conecte-se à internet."</string>
+    <string name="impunity_declaration_content">O Scanner precisa usar sua câmera e processar as imagens que você captura enquanto usa o app. Não use o Scanner para tirar fotos dos objetos que contêm suas informações pessoais. Ao tocar em \"Aceitar\", você está aceitando a nossa &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Política de Privacidade&lt;/a>&lt;/font> e permitindo que o Scanner conecte-se à internet."</string>
     <string name="impunity_declaration_negative_text">Sair</string>
     <string name="impunity_declaration_title">Política de Privacidade</string>
     <string name="intelligent_participle">Frases</string>
@@ -636,10 +636,10 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="previous">Voltar</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_policy_update">Política de Privacidade atualizada</string>
-    <string name="privacy_policy_update_message"><Data>"Você não poderá continuar usando o Scanner a menos que concorde com a nova versão de sua &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Concorda com a Política de Privacidade atualizada agora?"</Data></string>
+    <string name="privacy_policy_update_message"><Data>"Você não poderá continuar usando o Scanner a menos que aceite a nova versão de sua &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Aceitar a Política de Privacidade atualizada agora?"</Data></string>
     <string name="privacy_policy_update_welcome">A Política de Privacidade do Scanner foi atualizada:</string>
     <string name="privacy_policy_withdrawal_error">"Não foi possível retirar o consentimento. Espere alguns minutos e tente novamente."</string>
-    <string name="privacy_policy_withdrawal_message"><Data>"Se você continuar, retirará seu consentimento com a Política de Privacidade do Scanner. Isso será considerado uma recusa em aceitar os serviços do Scanner. Você terá que concordar com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> novamente se você decidir usar o Scanner. Retirar consentimento agora?"</Data></string>
+    <string name="privacy_policy_withdrawal_message"><Data>"Se você continuar, retirará seu consentimento com a Política de Privacidade do Scanner. Isso será considerado uma recusa em aceitar os serviços do Scanner. Você terá que aceitar a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> novamente se você decidir usar o Scanner. Retirar consentimento agora?"</Data></string>
     <string name="processing">Processando…</string>
     <string name="prompt">Atenção!</string>
     <string name="qr_code_details">Detalhes do código QR:</string>
