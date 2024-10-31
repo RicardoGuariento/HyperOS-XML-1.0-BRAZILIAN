@@ -3676,7 +3676,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="lockscreen_clock_id_fallback">PADRÃO</string>
     <string name="log_access_confirmation_allow">Permitir acesso único</string>
     <string name="log_access_confirmation_body">"Os registros do dispositivo registram o que acontece no seu dispositivo. Os apps podem usar esses registros para encontrar e corrigir problemas. Alguns registros podem conter informações confidenciais, portanto, permita que apenas apps em que você confia acessem todos os registros do dispositivo. Se você não permitir que este app acesse todos os registros do dispositivo, ele ainda poderá acessar seus próprios registros. O fabricante do seu dispositivo ainda poderá acessar alguns registros ou informações do seu dispositivo."</string>
-    <string name="log_access_confirmation_deny">Não permita</string>
+    <string name="log_access_confirmation_deny">Não permitir</string>
     <string name="log_access_confirmation_learn_more">Saiba mais</string>
     <string name="log_access_confirmation_learn_more_at">Saiba mais em %s</string>
     <string name="log_access_confirmation_title">Permitir que %s acesse todos os registros do dispositivo?</string>

@@ -742,7 +742,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_error_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_error_unknown">Erro desconhecido</string>
     <string name="passport_error_user_agreement_error">Aceite os termos e condições primeiro</string>
-    <string name="passport_error_user_agreement">Aceite primeiro com nosso Contrato do Usuário</string>
+    <string name="passport_error_user_agreement">Aceite o nosso Contrato do Usuário primeiro</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
@@ -775,7 +775,7 @@ Como a prestação de serviços Mi Créditos depende da coleta de informações 
     <string name="passport_logout_account">Sair</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
     <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
-    <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="passport_network_error">Ocorreu um erro de rede.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
     <string name="passport_next">Próximo</string>

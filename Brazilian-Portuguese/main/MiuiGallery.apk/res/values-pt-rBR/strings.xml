@@ -2223,7 +2223,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_error_unknow_host_network_error">"Não foi possível conectar-se à rede"</string>
     <string name="passport_error_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_error_unknown">Erro desconhecido</string>
-    <string name="passport_error_user_agreement">Aceite primeiro com nosso Contrato do Usuário</string>
+    <string name="passport_error_user_agreement">Aceite o nosso Contrato do Usuário primeiro</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
@@ -2251,7 +2251,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_logout_account">Sair</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
     <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
-    <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="passport_network_error">Ocorreu um erro de rede.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
     <string name="passport_next">Próximo</string>
@@ -2599,7 +2599,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="privacy_permission_disagree">Não permitido</string>
     <string name="privacy_permission_location">Localização</string>
     <string name="privacy_permission_location_detail">Para exibir fotos e vídeos no mapa</string>
-    <string name="privacy_permission_request_message"><Data>A Galeria precisa de acesso a %3$s. As informações que coletamos serão usadas em conformidade com nosso &lt;a href=\"%1$s\">\"Termos de serviço\"&lt;/a> e a &lt;a href=\"%2$s\">\"Política de Privacidade\"&lt;/a>. Permitir?</Data></string>
+    <string name="privacy_permission_request_message"><Data>A Galeria precisa de acesso a %3$s. As informações que coletamos serão usadas em conformidade com nosso &lt;a href=\"%1$s\">\"Termos de Serviço\"&lt;/a> e a &lt;a href=\"%2$s\">\"Política de Privacidade\"&lt;/a>. Permitir?</Data></string>
     <string name="privacy_permission_request_negative">Restringir</string>
     <string name="privacy_permission_request_positive">Permitir</string>
     <string name="privacy_permission_request_title">Permissões necessárias</string>
@@ -2739,7 +2739,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="rename_fail_msg">"Não foi possível renomear"</string>
     <string name="rename_from_contact">Nome dos contatos</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não aceita em conceder tais permissões, não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não aceitar em conceder tais permissões, não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>

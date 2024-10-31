@@ -4,6 +4,7 @@
     <string name="AI_Record_number">Número de registro do ICP: 京ICP备10046444号-98A</string>
     <string name="AI_diwbkiad_dekete_model">Excluir modelo</string>
     <string name="AI_download_delete_message">"Se você excluir o Criador de imagem Mi IA, não poderá mais usar seus recursos. Excluir mesmo assim?"</string>
+    <string name="AI_download_delete_model">Excluir modelo</string>
     <string name="AI_download_delete_neg">Cancelar</string>
     <string name="AI_download_delete_pos">Excluir</string>
     <string name="AI_download_delete_title">Excluir modelo?</string>
@@ -11,6 +12,8 @@
     <string name="AI_download_function_message">Instale o Criador de imagem Mi IA para que o Mi IA gere imagens a partir de suas descrições.</string>
     <string name="AI_download_title">Criador de imagem Mi IA</string>
     <string name="AI_version_number">Versão: %d</string>
+    <string name="HM_permission_desc_common">Para aprender padrões e melhorar a precisão de recomendações</string>
+    <string name="HM_permission_desc_phone_state">Para executar padrões relacionados a chamadas</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
@@ -39,15 +42,27 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="about_MiAI_engine">Sobre o Motor Mi IA</string>
+    <string name="about_MiAI_engine_hyper">Sobre o Motor Xiaomi HyperAI</string>
+    <string name="accessbility_permission_title">Apps baixados</string>
+    <string name="accessbility_permission_toast_msg">"Ative os recursos de acessibilidade do Motor Xiaomi HyperAI para poder realizar esta ação"</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
-    <string name="aiSearch_privacy_cta_all_purpose_version_one">O Motor Mi IA fornece recursos de sistema que suportam recursos como Sugestões do Mi AI, Xiaomi HyperMind, pesquisa Xiaomi HyperAI e Assistente, coletando e analisando informações sobre como você usa seu dispositivo. Ele fornece recursos de pesquisa para pesquisa Xiaomi HyperAI e permite que você encontre itens por meio de pesquisa em linguagem natural. Você pode usar o Motor Mi IA para pesquisar apps do sistema, incluindo Galeria, Arquivos, Gravador, Mi AI e muito mais. Sua concordância com a Política de Privacidade do Motor Mi IA também cobre serviços que dependem do Motor Mi IA (ex.: Xiaomi HyperMind).</string>
-    <string name="aiSearch_privacy_cta_general_purpose_version_one">O Motor Mi IA fornece recursos de sistema que suportam recursos como Sugestões do Mi AI, Xiaomi HyperMind, pesquisa Xiaomi HyperAI e Assistente, coletando e analisando informações sobre como você usa seu dispositivo.</string>
+    <string name="aiSearch_enhance_setting_desc">Use a pesquisa em linguagem natural para encontrar itens em apps do sistema</string>
+    <string name="aiSearch_enhance_setting_quick_desc">Pesquise mais apps do sistema para resultados mais precisos</string>
+    <string name="aiSearch_enhance_setting_quick_title">Pesquisar</string>
+    <string name="aiSearch_enhance_setting_system_desc">Pesquise fotos, vídeos, arquivos, gravações, notas e mensagens e descubra exatamente onde eles estão na Galeria, Arquivos, Gravador, Notas e Mensagens.</string>
+    <string name="aiSearch_enhance_setting_system_title">Pesquisar apps do sistema</string>
+    <string name="aiSearch_enhance_setting_title">Pesquisa com IA</string>
+    <string name="aiSearch_enhance_setting_xiaoai_desc">Pesquise arquivos e visualize todos os resultados no app correspondente. Você também pode encontrar seus arquivos por meio das Perguntas e respostas com o Mi AI.</string>
+    <string name="aiSearch_enhance_setting_xiaoai_title">"Mi AI"</string>
+    <string name="aiSearch_privacy_cta_all_purpose_version_one">O Motor Mi IA fornece recursos de sistema que suportam recursos como Sugestões do Mi AI, Xiaomi HyperMind, Pesquisa Xiaomi HyperAI e Assistente, coletando e analisando informações sobre como você usa seu dispositivo. Ele fornece recursos de pesquisa para Pesquisa Xiaomi HyperAI e permite que você encontre itens por meio de pesquisa em linguagem natural. Você pode usar o Motor Mi IA para pesquisar apps do sistema, incluindo Galeria, Arquivos, Gravador, Mi AI e muito mais. Sua concordância com a Política de Privacidade do Motor Mi IA também cobre serviços que dependem do Motor Mi IA (ex.: Xiaomi HyperMind).</string>
+    <string name="aiSearch_privacy_cta_general_purpose_version_one">O Motor Mi IA fornece recursos de sistema que suportam recursos como Sugestões do Mi AI, Xiaomi HyperMind, Pesquisa Xiaomi HyperAI e Assistente, coletando e analisando informações sobre como você usa seu dispositivo.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_audioANDfile">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Arquivos, Pesquisa e Mi AI.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_data_to_cloud">Para melhor responder às suas perguntas relacionadas à sua vida e atividades, o Motor Mi IA enviará alguns itens relacionados (fotos, vídeos, arquivos, etc.) para a nuvem após você perguntar sobre eles. Esses dados serão usados apenas para perguntas e respostas no Assistente de Voz Mi AI.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_imageANDvideo">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Galeria, Pesquisa e Mi AI.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_sms">Para fornecer serviços de pesquisa em linguagem natural em apps do sistema, incluindo Galeria, Pesquisa e Mi AI.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_user_notice">O Motor Mi IA fornece recursos de pesquisa em linguagem natural para alguns apps. Para usar esses recursos, primeiro aceite a Política de Privacidade do Motor Mi IA. Aceitar agora?</string>
+    <string name="aiSearch_privacy_dialog_permission_desc_user_notice_hyper">O Motor Xiaomi HyperAI fornece recursos de pesquisa em linguagem natural para alguns apps. Aceite a Política de Privacidade do Motor Xiaomi HyperAI para poder usar esses recursos.</string>
     <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Carregar dados pessoais para a nuvem</string>
     <string name="aiSearch_privacy_dialog_permission_title_user_notice">Termos e Condições</string>
     <string name="aireco_comm_reject">Agora não</string>
@@ -71,6 +86,8 @@
     <string name="aireco_intent_dialog_op_gps_service_title">Ative os serviços de localização</string>
     <string name="am">"AM"</string>
     <string name="app_name">Motor Mi IA</string>
+    <string name="app_name_hyper">Motor Xiaomi HyperAI</string>
+    <string name="background_download">Entendi</string>
     <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
     <string name="bottomsheet_action_expand">Expandir a página inferior</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
@@ -133,6 +150,8 @@
     <string name="case00032_audioProjectWhenArriveHome_scene_name">Transferir a reprodução de áudio ao chegar em casa</string>
     <string name="case00036_00037_muteWhenDooebellRing_description">%1$s será silenciado quando alguém tocar a campainha</string>
     <string name="case00036_00037_muteWhenDoorbellRing_scene_name">Silenciar o alto-falante quando a campainha tocar</string>
+    <string name="cellular_message">Usar sua conexão de dados móveis para baixar este arquivo?</string>
+    <string name="cellular_title">Aviso sobre o uso de dados</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
@@ -144,6 +163,20 @@
     <string name="cognition_func_detail_msg">Reconhece e prevê situações e fornece serviços personalizados</string>
     <string name="cognition_func_name">Mecanismo de cognição no dispositivo</string>
     <string name="cognition_func_open">Mecanismo de cognição no dispositivo</string>
+    <string name="cognition_os2_permission_cta_desc_HM">Controles inteligentes</string>
+    <string name="cognition_os2_permission_cta_desc_aiBattery">Mecanismo de carregamento inteligente</string>
+    <string name="cognition_os2_permission_cta_desc_aiSearch">Pesquisa Xiaomi HyperAI</string>
+    <string name="cognition_os2_permission_cta_desc_computingSharing">Suporte computacional</string>
+    <string name="cognition_os2_permission_cta_desc_title">O Motor Xiaomi HyperAI é um centro de capacidade do sistema que adquire e analisa o comportamento do usuário em seu dispositivo para fornecer reconhecimento de cenários e controles inteligentes para os seguintes serviços: %1$s.</string>
+    <string name="cognition_os2_permission_cta_desc_xiaoaiPlus">"Super Mi AI"</string>
+    <string name="cognition_os2_permission_default_desc_appList">Para permitir que o Super Mi AI obtenha suporte a Ações de apps</string>
+    <string name="cognition_os2_permission_default_desc_context">"Para perceber o ambiente ao redor; Para construir o índice de busca do Xiaomi HyperAI; Para avaliar o status de chamadas; Para determinar quando você está acordado ou dormindo; Para construir o índice de Pesquisa Xiaomi HyperAI; Para construir o índice de Pesquisa Xiaomi HyperAI; Para construir o índice de Pesquisa Xiaomi HyperAI; Para construir o índice de Pesquisa Xiaomi HyperAI; Para permitir que o Super Mi AI obtenha suporte para Ações de apps"</string>
+    <string name="cognition_os2_permission_default_desc_location">Para perceber o ambiente ao redor</string>
+    <string name="cognition_os2_permission_default_desc_microphone">"Para determinar quando você está acordado ou dormindo"</string>
+    <string name="cognition_os2_permission_default_desc_phoneState">Para avaliar o status de chamadas</string>
+    <string name="cognition_os2_permission_default_desc_serchIndex">"Para construir o índice de Pesquisa Xiaomi HyperAI"</string>
+    <string name="cognition_os2_permission_default_desc_title">O Motor Xiaomi HyperAI é um centro de capacidade do sistema que adquire e analisa o comportamento do usuário em seu dispositivo para fornecer reconhecimento de cenários e controles inteligentes para serviços, incluindo Pesquisa Xiaomi HyperAI, Suporte computacional e Mecanismo de carregamento inteligente.</string>
+    <string name="cognition_os2_permission_request_content_desc">Para fornecer serviços de pesquisa de conteúdo, o Motor Xiaomi HyperAI precisa das seguintes permissões: %1$s.</string>
     <string name="cognition_permission_all_files_name">Acessar todos os arquivos</string>
     <string name="cognition_permission_comma">", "</string>
     <string name="cognition_permission_content_no">Agora não</string>
@@ -156,12 +189,14 @@
     <string name="cognition_permission_location_msg">Para acessar sua localização atual</string>
     <string name="cognition_permission_location_name">\"Acessar a localização precisa\"</string>
     <string name="cognition_permission_nearby_device_name">\"Descobrir dispositivos próximos\"</string>
+    <string name="cognition_permission_note_name">Acessar notas</string>
     <string name="cognition_permission_phone_state_name">\"Acessar informações relacionadas à chamada\"</string>
     <string name="cognition_permission_related">Permissões</string>
     <string name="cognition_permission_request_content_desc">Conceda a seguinte permissão para poder usar os serviços de pesquisa: %1$s</string>
     <string name="cognition_permission_request_content_title">Permissões necessárias</string>
     <string name="cognition_permission_runtime_msg">Para acessar informações de localização anteriores armazenadas no dispositivo, a fim de fornecer serviços mais precisos e personalizados.</string>
     <string name="cognition_permission_sms_name">Acessar SMS e MMS</string>
+    <string name="cognition_permission_soundrecord_name">Gravar áudio</string>
     <string name="cognition_permission_storage">Acessar arquivos armazenados no dispositivo</string>
     <string name="cognition_permission_storage_msg">Para acessar informações de localização anteriores armazenadas no dispositivo</string>
     <string name="cognition_privacy_cta_all_purpose">"O Xiaomi HyperMind é baseado no Motor Mi IA. O Motor Mi IA pode reconhecer cenários, aprender seus padrões e oferecer serviços precisos e personalizados. "</string>
@@ -170,7 +205,8 @@
     <string name="cognition_privacy_dialog_get_background_loc_permission_title">Permissões necessárias</string>
     <string name="cognition_privacy_dialog_get_mijia_cta_message">O Motor Mi IA precisa coletar informações sobre seus dispositivos domésticos inteligentes para aprender seus padrões. Faça login no Mi Home para começar. Abrir o app agora?</string>
     <string name="cognition_privacy_dialog_get_mijia_cta_title">Faça login no Mi Home</string>
-    <string name="cognition_privacy_dialog_get_mijia_data_message">"O Motor Mi IA precisa coletar informações sobre seus dispositivos domésticos inteligentes e cenas no Mi Home para ajudá-lo a aprender e usar padrões. Confirme que você fez login no app com sua conta (%s) e toque em \"Aceitar\" para permitir a coleta dessas informações."</string>
+    <string name="cognition_privacy_dialog_get_mijia_data_message">"O Motor Mi IA precisa coletar informações sobre seus dispositivos domésticos inteligentes e cenários no Mi Home para ajudá-lo a aprender e usar padrões. Certifique-se de ter feito login no app com a sua conta (%s) e toque em \"Aceitar\" para permitir a coleta dessas informações."</string>
+    <string name="cognition_privacy_dialog_get_mijia_data_message_hyper">"O Motor Xiaomi HyperAI precisa coletar informações sobre seus dispositivos domésticos inteligentes do Mi Home e como você os usa para poder aprender seus padrões. Certifique-se de ter feito login no Mi Home com a sua conta (%s) e permita-nos coletar as informações relevantes do Mi Home."</string>
     <string name="cognition_privacy_dialog_get_mijia_data_title">Permissões necessárias</string>
     <string name="cognition_privacy_dialog_get_noti_permission_message">Esta é uma permissão necessária. Você pode conceder essa permissão nas Configurações.</string>
     <string name="cognition_privacy_dialog_get_noti_permission_title">Permitir que o Xiaomi HyperMind envie notificações</string>
@@ -295,8 +331,26 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para acessar informações de localização anteriores armazenadas no dispositivo</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
+    <string name="dist_compute_ai_list_summary_content">Obtenha resumos inteligentes de notificações e mensagens para ver informações importantes rapidamente</string>
+    <string name="dist_compute_ai_list_summary_title">Briefing por IA</string>
+    <string name="dist_compute_ai_writing_content">Aprimore a sua escrita via IA com o suporte de seus dispositivos com maior poder computacional</string>
+    <string name="dist_compute_ai_writing_title">Escrita IA</string>
+    <string name="dist_compute_cancel">Cancelar</string>
+    <string name="dist_compute_download_guidance_content">Baixe os modelos grandes necessários para o seu dispositivo para poder usar o Suporte computacional. Baixar agora?</string>
+    <string name="dist_compute_download_guidance_title">Baixar o modelo grande</string>
+    <string name="dist_compute_download_now">Baixar</string>
+    <string name="dist_compute_pad_already_connected">Conectado: %1$s</string>
+    <string name="dist_compute_pad_button_neutral">Entendi</string>
+    <string name="dist_compute_pad_notification_content">Recursos do Power AI com suporte para dispositivos próximos</string>
+    <string name="dist_compute_pad_notification_title">"Você está usando o Suporte computacional"</string>
+    <string name="dist_compute_pad_remind_content">Conecte um dispositivo com maior poder computacional que esteja conectado à sua conta para poder usar o Suporte computacional. Você pode fazer isso em Configurações > Xiaomi HyperAI > Suporte computacional.</string>
+    <string name="dist_compute_pad_remind_title">Conectar dispositivo</string>
+    <string name="dist_compute_pad_subtitle_local">Use recursos de Briefing por IA e Escrita IA com suporte para dispositivos próximos</string>
+    <string name="dist_compute_privacy_management">Privacidade</string>
+    <string name="dist_compute_setting_switch_content_local">"Dispositivos próximos podem usar recursos de Briefing por IA e Escrita IA usando o poder computacional deste dispositivo"</string>
+    <string name="dist_compute_title">Suporte computacional</string>
     <string name="download_cancel">Cancelar</string>
-    <string name="download_complete">Baixado</string>
+    <string name="download_complete">Atualizado</string>
     <string name="download_done">Pronto</string>
     <string name="download_notification_title">Melhore a estabilidade e otimize sua experiência</string>
     <string name="download_notification_update">Toque para atualizar</string>
@@ -306,6 +360,7 @@
     <string name="download_resume">%d%%</string>
     <string name="download_start">Baixar</string>
     <string name="download_updata">Atualizar</string>
+    <string name="download_update">Atualizar</string>
     <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -370,6 +425,11 @@
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione o horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
+    <string name="miai_authorization_bluetooth_dia_subtitle">Permita que este app acesse o status de conexão Bluetooth para acionar automações e padrões.</string>
+    <string name="miai_authorization_call_dia_subtitle">Para executar padrões durante chamadas</string>
+    <string name="miai_authorization_location_background_dia_subtitle">"Permita que este app acesse sua localização quando não estiver em uso para acionar automações e padrões."</string>
+    <string name="miai_authorization_location_front_dia_subtitle">Permita que este app acesse informações de localização e conexão Wi-Fi para acionar automações e padrões.</string>
+    <string name="miai_authorization_micophone_dia_subtitle">Permita que este app acesse o microfone para acionar automações e padrões.</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -402,6 +462,10 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Isso é tudo por enquanto"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
+    <string name="model_manager_title">Gerenciar modelos</string>
+    <string name="model_message">Versão %d</string>
+    <string name="model_notification">Baixando o modelo grande…</string>
+    <string name="model_title">Modelo grande no dispositivo</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -490,6 +554,7 @@
     <string name="mtrl_timepicker_cancel">Cancelar</string>
     <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="night">"PM"</string>
+    <string name="no_internet_toast">Sem internet. Conecte-se e tente novamente.</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="notification_execution_failed">"Não foi possível executar a ação"</string>
@@ -595,7 +660,7 @@
     <string name="passport_logout_account">Sair</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
     <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
-    <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="passport_network_error">Ocorreu um erro de rede.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
     <string name="passport_next">Próximo</string>
@@ -681,7 +746,7 @@
     <string name="privacy_cancel_privacy_title">Cancelando serviços</string>
     <string name="privacy_cancel_service">Cancelar serviços</string>
     <string name="privacy_cannel_service">Cancelar serviços</string>
-    <string name="privacy_cannel_service_content">"Se continuar, você cancelará os serviços do Motor Mi IA. Todas as suas informações pessoais armazenadas no Motor Mi IA serão excluídas permanentemente, o que também afetará o uso das sugestões do Xiaomi HyperMind e Mi AI. Cancelar serviços agora?"</string>
+    <string name="privacy_cannel_service_content">"Se continuar, você cancelará os serviços do Motor Xiaomi HyperAI. Todas as suas informações pessoais relacionadas serão excluídas permanentemente. Cancelar serviços agora?"</string>
     <string name="privacy_close_personalized">Desativar</string>
     <string name="privacy_confirm">"OK"</string>
     <string name="privacy_cta_all_purpose_new_user">O Motor Mi IA é um serviço básico que oferece suporte às Sugestões do Mi AI, fornecendo reconhecimento contextual e recursos de reconhecimento inteligente. Ele pode perceber sua situação, aprender seus hábitos e fornecer serviços precisos e personalizados. Sua concordância com a Política de Privacidade do Motor Mi IA também cobre serviços que dependem do Motor Mi IA (ex.: Xiaomi HyperMind).</string>
@@ -689,18 +754,18 @@
     <string name="privacy_dialog_location_message">Permita que às Sugestões do Mi AI acessem sua localização e selecione \"Sempre permitir\". Você pode conceder essa permissão nas Configurações.</string>
     <string name="privacy_dialog_location_title">Permissões necessárias</string>
     <string name="privacy_dialog_retention_comment"><Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
-    <string name="privacy_dialog_retention_content_agree_privacy"><Data>"Aceite a &lt;a href=\"%1$s\">Política de Privacidade do Motor Mi IA&lt;/a> para poder usar às Sugestões do Mi AI. Caso não aceite, você só poderá usar sugestões de apps. Aceitar a &lt;a href=\"%2$s\">Política de Privacidade do Motor Mi IA&lt;/a> agora?"</Data></string>
+    <string name="privacy_dialog_retention_content_agree_privacy"><Data>"Aceite a &lt;a href=\"%1$s\">Política de Privacidade do Motor Xiaomi HyperAI&lt;/a> para poder usar às Sugestões do Mi AI. Caso não aceite, você só poderá usar sugestões de apps. Aceitar a &lt;a href=\"%2$s\">Política de Privacidade do Motor Xiaomi HyperAI&lt;/a> agora?"</Data></string>
     <string name="privacy_dialog_retention_content_express_permission">Este recurso precisa se conectar à internet para fornecer os serviços necessários. Podemos solicitar as seguintes permissões para fornecer serviços adicionais: ativar e desativar o Bluetooth e Wi-Fi, acessar o número de telefone, status de chamada, conteúdo de SMS e MMS, informações sobre apps instalados em seu dispositivo, endereço MAC do dispositivo, localização, música, áudio, fotos e vídeos no seu dispositivo. Você pode ajustar suas configurações de permissões a qualquer momento.</string>
     <string name="privacy_docs">Política de Privacidade</string>
     <string name="privacy_experience_cancel_dialog">Cancelar</string>
     <string name="privacy_experience_comment_dialog">Você pode alterar suas preferências em Sugestões do Mi AI > Privacidade > Programa de Experiência do Usuário.</string>
-    <string name="privacy_experience_comment_read_template"><Data>Leia e aceite a &lt;a href=\"%1$s\">Política de Privacidade do Motor Mi IA&lt;/a> antes de continuar.</Data></string>
-    <string name="privacy_experience_content_dialog">"Participar do nosso Programa de Experiência do Usuário nos permite usar seus dados para ajudar a fazer com que o Motor Mi IA aprenda mais rapidamente e se torne mais preciso.
+    <string name="privacy_experience_comment_read_template"><Data>Leia e aceite a &lt;a href=\"%1$s\">Política de Privacidade do Motor Xiaomi HyperAI&lt;/a> antes de continuar.</Data></string>
+    <string name="privacy_experience_content_dialog">"Se continuar, você ingressará em nosso Programa de Experiência do Usuário e permitirá que seus dados sejam usados para melhorar os recursos de aprendizagem do Motor Xiaomi HyperAI, oferecendo serviços mais precisos e oportunos.
 
-Permita permissões de localização e ative os serviços de localização para ajudar a melhorar o Motor Mi IA.
+Conceda permissões de localização e mantenha os serviços de localização ativados para ajudar o Motor Xiaomi HyperAI a melhorar.
 
-Todas as informações serão mantidas anônimas e esses dados serão usados para melhorar o serviço quando seu dispositivo estiver ocioso, carregando e conectado ao Wi-Fi."</string>
-    <string name="privacy_experience_item_content">Ajude o Motor Mi IA a entendê-lo melhor e a melhorar seus recursos</string>
+Nós nos preocupamos com sua privacidade. Todas as informações são anonimizadas. O Motor Xiaomi HyperAI aprenderá quando seu dispositivo estiver ocioso, carregando e conectado ao Wi-Fi."</string>
+    <string name="privacy_experience_item_content">Ajude a melhorar as capacidades de aprendizagem do Motor Xiaomi HyperAI para serviços mais precisos</string>
     <string name="privacy_experience_item_title">Participar do Programa de Experiência do Usuário</string>
     <string name="privacy_experience_join_dialog">Participar</string>
     <string name="privacy_experience_title_dialog">Programa de Experiência do Usuário</string>
@@ -711,14 +776,14 @@ Todas as informações serão mantidas anônimas e esses dados serão usados par
     <string name="privacy_manager_permission_detail">Gerencie suas configurações de permissões para garantir sua privacidade e segurança</string>
     <string name="privacy_manager_setting">Configurações de privacidade</string>
     <string name="privacy_manager_user_improvement_plan">Programa de Experiência do Usuário</string>
-    <string name="privacy_manager_user_improvement_plan_detail">Permita que o Motor Mi IA use seus dados para melhorar seus serviços</string>
+    <string name="privacy_manager_user_improvement_plan_detail">Permita que o Motor Xiaomi HyperAI use seus dados para melhorar seu algoritmo de recomendação</string>
     <string name="privacy_op_gps_service_dialog_message">Permita que às Sugestões do Mi AI acessem sua localização para que ele possa fornecer serviços mais precisos. Você pode conceder essa permissão nas Configurações.</string>
     <string name="privacy_op_gps_service_dialog_title">Permissões necessárias</string>
     <string name="privacy_permission_tip_text">Conceda permissão para acessar a localização e selecione \"Sempre permitir\"</string>
     <string name="privacy_personalized">Recomendações personalizadas</string>
     <string name="privacy_personalized_close_content">"Quando esse recurso estiver desativado, você não receberá recomendações personalizadas e o pedido do cartão não será baseado no seu histórico de uso."</string>
     <string name="privacy_personalized_close_title">Desativar recomendações personalizadas</string>
-    <string name="privacy_personalized_content">"Quando esse recurso estiver desativado, o Motor Mi IA não usará suas informações pessoais para fornecer serviços personalizados."</string>
+    <string name="privacy_personalized_content">Se você desativar esse recurso, o Motor Xiaomi HyperAI não usará mais suas informações pessoais para fornecer serviços personalizados. Esta informação é usada apenas para Sugestões do Mi AI no momento.</string>
     <string name="privacy_refuse">Agora não</string>
     <string name="privacy_request_background_location_permission_reason">Para fornecer sugestões de viagens, códigos de viagem e sugestões de casas inteligentes com base em informações de localização básicas.</string>
     <string name="privacy_request_location_permission_reason">Para fornecer sugestões de viagens, códigos de viagem e sugestões de casas inteligentes com base em informações de localização.</string>
@@ -729,14 +794,15 @@ Todas as informações serão mantidas anônimas e esses dados serão usados par
     <string name="privacy_update_user_notice_title">Atenção!</string>
     <string name="privacy_user_agreement">Contrato do usuário</string>
     <string name="privacy_user_experience">Programa de Experiência do Usuário</string>
-    <string name="privacy_user_experience_banner_content">"Aqui está o que nosso Programa de Experiência do Usuário oferece:
-1. Serviços mais precisos, incluindo aqueles relacionados a transporte público, viagens e serviços domésticos inteligentes.
-2. Oportunidades de comunicação individual com os desenvolvedores da Xiaomi.
-3. Seja o primeiro a experimentar novos recursos baseados no Motor Mi IA."</string>
-    <string name="privacy_user_experience_banner_title">Ajude-nos a melhorar o Motor Mi IA</string>
+    <string name="privacy_user_experience_banner_content">"Ao ingressar em nosso Programa de Experiência do Usuário, aqui está o que você receberá:
+1. Serviços mais precisos de viagem, deslocamento diário e casa inteligente.
+2. Oportunidade de se comunicar individualmente com os desenvolvedores.
+3. Seja o primeiro a experimentar os novos recursos do Motor Xiaomi HyperAI."</string>
+    <string name="privacy_user_experience_banner_title">Ajude o Motor Xiaomi HyperAI a se tornar ainda melhor</string>
     <string name="privacy_withdraw">Retirar</string>
-    <string name="privacy_withdraw_content">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Motor Mi IA. Deixaremos de coletar suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Motor Mi IA (incluindo serviços como Xiaomi HyperMind e Sugestões do Mi AI) fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar esses serviços."</string>
+    <string name="privacy_withdraw_content">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Motor Xiaomi HyperAI. Deixaremos de coletar suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Motor Xiaomi HyperAI fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada uma recusa em aceitar nosso fornecimento de serviços de Sugestões Mi AI. Retirar o consentimento agora?."</string>
     <string name="privacy_withdraw_title">Retirada de consentimento</string>
+    <string name="prompt_delete_model">Excluir este modelo?</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -769,7 +835,9 @@ Todas as informações serão mantidas anônimas e esses dados serão usados par
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="space_btn">Entendi</string>
+    <string name="space_message">Espaço de armazenamento insuficiente. Libere espaço e tente novamente.</string>
+    <string name="space_title">Espaço de armazenamento insuficiente</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -819,6 +887,8 @@ Todas as informações serão mantidas anônimas e esses dados serão usados par
     <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>
+    <string name="title_dynamicfeature">Título do módulo</string>
+    <string name="title_ocr_plugin">"OCR"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>
@@ -826,6 +896,9 @@ Todas as informações serão mantidas anônimas e esses dados serão usados par
     <string name="tuesday_shortest">Ter</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
+    <string name="voice_control_accessbility_desc">"Ativar os recursos de acessibilidade do Motor Xiaomi HyperAI permite ver e controlar sua tela e operar apps de acordo com suas instruções.
+Dica: Você receberá um aviso de rotina do sistema ao ativar os recursos de acessibilidade. Tenha certeza de que o Motor Xiaomi HyperAI não infringirá nenhum dos seus direitos ao usar esses recursos."</string>
+    <string name="warning_delete_model">"Se você excluir este modelo grande do seu dispositivo, não poderá usar alguns recursos de IA do dispositivo, a menos que faça o download dele novamente. Excluir agora?"</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

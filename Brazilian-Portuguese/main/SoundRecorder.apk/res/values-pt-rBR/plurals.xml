@@ -84,6 +84,10 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="recent_delete_tip">
+        <item quantity="other">As gravações excluídas podem ser restauradas em até %d dias</item>
+        <item quantity="one">As gravações excluídas podem ser restauradas em até %d dia</item>
+    </plurals>
     <plurals name="record_downloading_complete_count">
         <item quantity="other">%d gravações baixadas</item>
         <item quantity="one">%d gravação baixada</item>

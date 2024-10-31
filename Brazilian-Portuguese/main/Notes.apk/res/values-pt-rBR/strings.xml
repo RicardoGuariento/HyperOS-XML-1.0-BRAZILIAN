@@ -79,7 +79,7 @@
     <string name="ai_result_warn">O conteúdo acima foi gerado por IA. A precisão pode variar.</string>
     <string name="ai_search_hint_text">Insira seus comandos</string>
     <string name="ai_sensitive_content_warn">"Não é possível usar os Recursos IA para conteúdo sensível ou inapropriado"</string>
-    <string name="ai_summary">Resumo IA</string>
+    <string name="ai_summary">Resumo por IA</string>
     <string name="ai_text_widget_cancel">Cancelar</string>
     <string name="ai_text_widget_check">Revisão</string>
     <string name="ai_text_widget_copy">Copiar</string>
@@ -209,7 +209,7 @@
     <string name="cloud_trash_bin_title">Notas excluídas da nuvem</string>
     <string name="complete_extension">Extensão concluída</string>
     <string name="complete_polish">Polimento concluído</string>
-    <string name="confirm_cancel">Não aceitar</string>
+    <string name="confirm_cancel">"Não aceitar"</string>
     <string name="confirm_ok">Aceitar</string>
     <string name="content_text">A Escrita IA oferece recursos que incluem expansão, melhoria, revisão e resumo de sua escrita e criação de textos com base em seus comandos.</string>
     <string name="continuous_default_hint">Copiar texto, salvar imagens e capturas de tela como excertos</string>
@@ -914,7 +914,7 @@
     <string name="select_up_limit_toast">Selecione até %d itens</string>
     <string name="send">Enviar</string>
     <string name="send_notifications_for_reminder">Para enviar lembretes</string>
-    <string name="sensitive_content_warn">"Não é possível criar um resumo IA para conteúdo sensível"</string>
+    <string name="sensitive_content_warn">"Não é possível criar um resumo por IA para conteúdo sensível"</string>
     <string name="set_alarm_description">Definir alarme</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Ladrilhos</string>

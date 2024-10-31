@@ -1548,9 +1548,9 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_roaming_warning_checkbox">Não mostrar novamente</string>
     <string name="dialog_roaming_warning_message">A operadora poderá cobrar tarifas pelo uso do roaming de dados internacional. Ativar mesmo assim?</string>
     <string name="dialog_roaming_warning_ok">Ativar</string>
-    <string name="dialog_skt_roaming_warning_cancel">Não aceitar</string>
+    <string name="dialog_skt_roaming_warning_cancel">"Não aceitar"</string>
     <string name="dialog_skt_roaming_warning_message">"Leia e aceite as condições abaixo para utilizar dados em roaming. Podem ser aplicadas cobranças de roaming internacional. Sem um plano de dados roaming, podem ser aplicadas cobranças elevadas aos apps que atualizam automaticamente.
- • Quando não aceitar em usado roaming de dados, o roaming de dados será desativado
+ • Quando não aceitar em usar roaming de dados, o roaming de dados será desativado
  • Voz HD é usado como padrão nas redes suportadas
  • Dados de roaming 5G estão disponíveis apenas nas nossas redes parceiras
 "</string>

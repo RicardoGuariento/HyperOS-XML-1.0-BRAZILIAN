@@ -99,7 +99,7 @@ Faça login em sua Conta Mi em Configurações > Conta Mi para sincronizar as pe
     <string name="camera_associate_failed">"Não foi possível conectar-se à câmera"</string>
     <string name="camera_associate_success">Câmera conectada</string>
     <string name="camera_composed_button">Combinar</string>
-    <string name="camera_composed_no_device">"Parece que o dispositivo não está por perto"</string>
+    <string name="camera_composed_no_device">"Parece que o dispositivo não está próximo"</string>
     <string name="camera_composed_title">"Combinar com a câmera deste dispositivo"</string>
     <string name="camera_composed_using_title">Câmeras combinadas</string>
     <string name="camera_connect_fail">"Não foi possível conectar-se. Tente novamente."</string>
@@ -324,7 +324,7 @@ seus dispositivos?"</string>
     <string name="circulate_help_error">"Não foi possível conectar-se à rede"</string>
     <string name="circulate_help_exit_button_content_description">Sair</string>
     <string name="circulate_help_feedback_button">"Feedback"</string>
-    <string name="circulate_jump_to_mijia">Abrir Xiaomi Home</string>
+    <string name="circulate_jump_to_mijia">Abrir Mi Home</string>
     <string name="circulate_local_pad_name">Meu tablet</string>
     <string name="circulate_local_phone_name">Meu dispositivo</string>
     <string name="circulate_more_button_content_description">Mais</string>
@@ -1159,7 +1159,7 @@ para que o Xiaomi HyperMind aprenda e refine seus padrões"</string>
     <string name="passport_logout_account">Sair</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
     <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
-    <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="passport_network_error">Ocorreu um erro de rede.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
     <string name="passport_next">Próximo</string>

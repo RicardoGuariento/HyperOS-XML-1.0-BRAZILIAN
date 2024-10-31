@@ -192,7 +192,7 @@
     <string name="dialog_legal_workday_desc">"O Relógio não tem permissão para conectar-se à internet e atualizar as informações sobre os dias úteis. Os alarmes de dias úteis dispararão de segunda a sexta."</string>
     <string name="dialog_message_agree">Aceitar</string>
     <string name="dialog_message_for_contact_permission">Para disponibilizar os alarmes de aniversário, o Relógio precisa de acesso aos seus contatos. Aceitar?</string>
-    <string name="dialog_message_negative">Não aceitar</string>
+    <string name="dialog_message_negative">"Não aceitar"</string>
     <string name="dialog_message_not_remind">"Não mostrar novamente"</string>
     <string name="dialog_net_permission_in_repeat_type"><Data>Este recurso precisa de uma conexão com a internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="dialog_privacy_content">Para obter informações relevantes sobre feriados públicos, ajustar alarmes e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
@@ -200,7 +200,7 @@
     <string name="dialog_privacy_content_news">Para fornecer serviços personalizados e incluir notícias matinais em seus alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e %2$s. Aceitar?</string>
     <string name="dialog_privacy_content_timer">Para baixar arquivos de áudio para os timers de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
     <string name="dialog_privacy_content_timer_data">"Para baixar arquivos de áudio para os timers de ruído ambiente (≈20 MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Você está usando dados móveis agora. Aceitar?"</string>
-    <string name="disagree">Não aceitar</string>
+    <string name="disagree">"Não aceitar"</string>
     <string name="done">Concluído</string>
     <string name="dynamic_alarm_speech">Alarme inteligente</string>
     <string name="early_morning">"AM"</string>
