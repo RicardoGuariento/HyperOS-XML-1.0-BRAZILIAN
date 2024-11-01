@@ -69,6 +69,7 @@
     <string name="ai_recognize">Reconhecimento de voz por IA</string>
     <string name="ai_summary">Resumo por IA</string>
     <string name="ai_watermark">Este conteúdo foi gerado por IA e é fornecido apenas para a sua referência.</string>
+    <string name="airecorder_mic_in_use_while_in_call_tip">"Não é possível gravar quando o microfone está em uso"</string>
     <string name="airecorder_month_day_hour_minute_format">dd/MM h:mm aaa</string>
     <string name="airecorder_notification_channel_name">Gravações</string>
     <string name="airecorder_notification_content_title">Gravador</string>
@@ -77,6 +78,7 @@
     <string name="airecorder_notification_recording_stopped">Gravação parada</string>
     <string name="airecorder_notification_recording_ticker">Telefone silenciado</string>
     <string name="airecorder_pause_status_focus_notification">Gravação pausada</string>
+    <string name="airecorder_record_while_in_call_tip">"Não é possível gravar durante chamadas"</string>
     <string name="airecorder_recording_status_focus_notification">Gravando</string>
     <string name="airecorder_speaker">Interlocutor</string>
     <string name="airecorder_stop_status_focus_notification">Gravação concluída</string>
@@ -322,6 +324,7 @@ Envie este código para o supervisor."</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="menu">"Menu"</string>
     <string name="message_file_size_error">O gravador atingiu o tamanho máximo de arquivo suportado por %s</string>
+    <string name="mic_in_use_while_in_call_tip">"Não é possível gravar quando o microfone está em uso"</string>
     <string name="mi_account_msg">Faça o login com a Conta Mi para transcrever arquivos na nuvem e obter os primeiros 60 minutos gratuitamente.</string>
     <string name="mi_account_ok">Fazer login</string>
     <string name="mi_account_title">Fazer login na Conta Mi</string>
@@ -378,7 +381,7 @@ Envie este código para o supervisor."</string>
     <string name="month_february">Fevereiro</string>
     <string name="month_february_short">Fev</string>
     <string name="month_february_shortest">Fev</string>
-    <string name="month_format">MMMM</string>
+    <string name="month_format">MM</string>
     <string name="month_january">Janeiro</string>
     <string name="month_january_short">"Jan"</string>
     <string name="month_january_shortest">"Jan"</string>

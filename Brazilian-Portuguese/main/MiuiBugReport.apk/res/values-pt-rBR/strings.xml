@@ -260,6 +260,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_detail_feedback_reply_hint">Responder</string>
     <string name="feedback_detail_feedback_summary">"Feedback"</string>
     <string name="feedback_detail_need_content">Insira o conteúdo primeiro</string>
+    <string name="feedback_detail_one_click_log_upload">Enviar logs com um toque</string>
     <string name="feedback_detail_title">Detalhes</string>
     <string name="feedback_detail_upload_generate_log">Gerar logs</string>
     <string name="feedback_detail_upload_image">Fazer upload de imagens/vídeos</string>
@@ -302,6 +303,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_select_upload_log_not_select_desc">"\"Adicionar logs\" não selecionado"</string>
     <string name="feedback_select_upload_log_select_desc">\"Adicionar logs\" selecionado</string>
     <string name="feedback_status_answered">Respondido</string>
+    <string name="feedback_status_capturing_logs">Capturando logs</string>
     <string name="feedback_status_change_notification_title">"O progresso de seu relatório foi atalizado"</string>
     <string name="feedback_status_collect_log_failed">"Não foi possível obter os logs"</string>
     <string name="feedback_status_commit_failed_title">"Não foi possível enviar o relatório"</string>
@@ -309,6 +311,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_status_commit_succ_title">Enviado</string>
     <string name="feedback_status_commit_uploading_title">Enviando…</string>
     <string name="feedback_status_forum_reply">Responder</string>
+    <string name="feedback_status_generating_logs">Gerando logs</string>
     <string name="feedback_status_get_and_save_bbs_info_failed">"Não foi possível obter a URL do anexo"</string>
     <string name="feedback_status_jira_comment">Adicionar comentário</string>
     <string name="feedback_status_more">Detalhes</string>
