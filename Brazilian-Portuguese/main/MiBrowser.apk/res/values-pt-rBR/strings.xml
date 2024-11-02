@@ -2705,11 +2705,11 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="tt_dislike_header_tv_title">Selecionar</string>
     <string name="tt_display_error">Erro de exibição</string>
     <string name="tt_error_access_method_pass">Método de acesso ilegal</string>
-    <string name="tt_error_ad_able_false_msg">Proibir anúncios de solicitação por conformidade, verifique as configurações COPPA/CCPA/GDPR.</string>
+    <string name="tt_error_ad_able_false_msg">Proibir anúncios de solicitação por conformidade. Por favor, verifique as configurações COPPA/CCPA/GDPR.</string>
     <string name="tt_error_ad_sec_false_msg">Falha na verificação de segurança</string>
     <string name="tt_error_ad_type">Tipo de anúncio ilegal</string>
-    <string name="tt_error_adtype_differ">Erro de tipo de anúncio</string>
-    <string name="tt_error_apk_sign_check_error">Valor APK SHA1 ilegal</string>
+    <string name="tt_error_adtype_differ">Erro do tipo de anúncio</string>
+    <string name="tt_error_apk_sign_check_error">Valor do APK SHA1 ilegal</string>
     <string name="tt_error_bidding_type">O canal não é um tipo de lance. Verifique o tipo de lance de canal.</string>
     <string name="tt_error_code_adcount_error">Número incorreto do anúncio</string>
     <string name="tt_error_code_click_event_error">Erro de evento de clique</string>
@@ -2720,7 +2720,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="tt_error_media_id">ID de mídia ilegal</string>
     <string name="tt_error_media_type">Tipo de mídia ilegal</string>
     <string name="tt_error_new_register_limit">O novo espaço de anúncio excedeu o limite diário de solicitações</string>
-    <string name="tt_error_origin_ad_error">Erro de tipo de origem</string>
+    <string name="tt_error_origin_ad_error">Erro do tipo de origem</string>
     <string name="tt_error_package_name">Erro no nome do pacote</string>
     <string name="tt_error_redirect">Erro de redirecionamento</string>
     <string name="tt_error_request_invalid">Pedido inválido</string>
@@ -2748,7 +2748,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="tt_load_success_text">Carregamento bem-sucedido</string>
     <string name="tt_loading_language">Carregamento da página de destino…</string>
     <string name="tt_logo_cn">ANÚNCIO</string>
-    <string name="tt_logo_en">ANÚNCIO</string>
+    <string name="tt_logo_en">Anúncio</string>
     <string name="tt_msgPlayable">Termine de jogar para receber recompensas</string>
     <string name="tt_multiple_ad_indicator">%1$d de %2$d</string>
     <string name="tt_negtiveBtnBtnText">Sair</string>
@@ -2768,7 +2768,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="tt_reder_ad_load_timeout">Tempo limite de carregamento do modelo</string>
     <string name="tt_render_diff_template_invalid">Diferença de modelo inválida</string>
     <string name="tt_render_fail_meta_invalid">Modelo inválido</string>
-    <string name="tt_render_fail_template_parse_error">Erro de análise de modelo</string>
+    <string name="tt_render_fail_template_parse_error">Erro de análise do modelo</string>
     <string name="tt_render_fail_timeout">Tempo limite de renderização</string>
     <string name="tt_render_fail_unknown">Falha na renderização desconhecida</string>
     <string name="tt_render_main_template_invalid">Modelo principal inválido</string>
