@@ -562,7 +562,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_britem_other">Outros</string>
     <string name="new_britem_pic">Imagens</string>
     <string name="new_britem_video">Vídeos</string>
-    <string name="new_confirm_enable_encrypt_content">O HyperOS associa os backups criptografados à sua Conta Mi. Você precisará fazer login em sua Conta Mi para restaurar os itens destes backups.</string>
+    <string name="new_confirm_enable_encrypt_content">"Os backups criptografados estão associados à sua Conta Mi. Você precisará fazer login em sua Conta Mi para restaurar os itens destes backups."</string>
     <string name="new_confirm_enable_encrypt_title">Criptografar</string>
     <string name="new_local_button_backup">Fazer backup</string>
     <string name="new_local_button_restore">Restaurar</string>
@@ -608,8 +608,8 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="new_tab_pc_restore">Restaurar</string>
     <string name="new_task_finished">Concluído</string>
     <string name="new_usb_detail_description">"Observação:
-%1$d. Este método permite fazer o backup de apps e dados de terceiros.
-%2$d. Certifique-se de que há espaço suficiente em seu drive USB para armazenar os backups."</string>
+%1$d. Faça backup do conteúdo em uma unidade USB.
+%2$d. Certifique-se de que a unidade USB tenha espaço de armazenamento suficiente antes de começar."</string>
     <string name="new_usb_disconnect_dialog_message">Conecte um drive USB primeiro.</string>
     <string name="new_usb_disconnect_dialog_title">Não foi possível encontrar o drive USB</string>
     <string name="new_usb_select_data_no_space">Só há %s de espaço disponível no seu drive USB. Libere espaço de armazenamento.</string>

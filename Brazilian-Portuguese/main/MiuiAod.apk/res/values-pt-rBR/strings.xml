@@ -209,6 +209,7 @@ dd/MM"</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="full_aod_not_support_reason_depth_video">"Não é possível definir o mesmo estilo da Tela de bloqueio ao usar o efeito de profundidade do vídeo"</string>
     <string name="full_aod_not_support_reason_super_wallpaper">"A Tela ambiente com Super planos de fundo não pode ser consistente com a Tela de bloqueio"</string>
     <string name="full_aod_not_support_reason_template">"A Tela ambiente com rabiscos não pode ser consistente com a Tela de bloqueio"</string>
     <string name="full_aod_not_support_reason_third_theme">"A Tela ambiente com temas de terceiros não pode ser consistente com a Tela de bloqueio"</string>
@@ -232,7 +233,7 @@ dd/MM"</string>
     <string name="kg_apply">Aplicar</string>
     <string name="kg_apply_to_all_alert_dialog_negative_text">Só na Tela de bloqueio</string>
     <string name="kg_apply_to_all_alert_dialog_positive_text">Aplicar</string>
-    <string name="kg_apply_to_all_alert_dialog_title">Aplicar este plano de fundo à Tela inicial também?</string>
+    <string name="kg_apply_to_all_alert_dialog_title">Aplicar este plano de fundo na Tela inicial também?</string>
     <string name="kg_apply_to_aod_alert_dialog_negative_text">Não, obrigado</string>
     <string name="kg_apply_to_aod_alert_dialog_positive_text">Ativar</string>
     <string name="kg_apply_to_aod_alert_dialog_title">Ativar a Tela ambiente também?</string>
@@ -268,7 +269,7 @@ dd/MM"</string>
     <string name="kg_classic_item_temperature">Temperatura</string>
     <string name="kg_classic_item_type_date">Data</string>
     <string name="kg_classic_item_type_health">Saúde</string>
-    <string name="kg_classic_item_type_time">Tempo</string>
+    <string name="kg_classic_item_type_time">Hora</string>
     <string name="kg_classic_item_type_weather">Clima</string>
     <string name="kg_classic_item_ultraviolet_ray">Índice UV</string>
     <string name="kg_classic_item_vitality">Estatísticas</string>
@@ -294,8 +295,8 @@ dd/MM"</string>
     <string name="kg_depth_preset_network_fail_download_pause">Sem conexão de rede. Download pausado.</string>
     <string name="kg_depth_produce_video_detail_failed">O efeito de profundidade só pode ser usado para pessoas, cães e gatos.</string>
     <string name="kg_depth_produce_video_failed">"Não foi possível aplicar o efeito de profundidade"</string>
-    <string name="kg_depth_produce_video_progress_dialog_label">IA está processando o efeito de profundidade de vídeo…</string>
-    <string name="kg_depth_video_apply_aod_close_toast">Efeito de profundidade de vídeo ativado. A Tela ambiente em tela cheia está desativada.</string>
+    <string name="kg_depth_produce_video_progress_dialog_label">A IA está processando o efeito de profundidade do vídeo…</string>
+    <string name="kg_depth_video_apply_aod_close_toast">Efeito de profundidade do vídeo ativado. A Tela ambiente em tela cheia está desativada.</string>
     <string name="kg_dialog_apply_linkage_video_wallpaper_confirm_title">Aplicar tema</string>
     <string name="kg_dialog_apply_linkage_video_wallpaper_negative_button">Cancelar</string>
     <string name="kg_dialog_apply_linkage_video_wallpaper_positive_button">Aplicar</string>
@@ -320,6 +321,7 @@ dd/MM"</string>
     <string name="kg_doodle_text_not_support_wallpaper_tip">"Este plano de fundo não suporta rabiscos"</string>
     <string name="kg_edit_cancel_dialog_content">Descartar todas as alterações agora?</string>
     <string name="kg_edit_cancel_dialog_title">Descartar alterações?</string>
+    <string name="kg_effects_not_support_gallery_tip">"Não é possível definir efeitos ao usar a apresentação de slides de planos de fundo"</string>
     <string name="kg_effects_tip_button">Entendi</string>
     <string name="kg_effects_tip_desc">"O efeito de profundidade de campo não pode ser combinado com filtros. Usar um deles substituirá o outro."</string>
     <string name="kg_effects_tip_not_support">"Não é possível aplicar efeitos a planos de fundo dinâmicos"</string>
@@ -350,8 +352,8 @@ dd/MM"</string>
     <string name="kg_font_filter_object_label_minute">Minutos</string>
     <string name="kg_font_filter_object_label_signature">Assinatura</string>
     <string name="kg_font_filter_object_label_time">Hora</string>
-    <string name="kg_font_filter_object_label_time_weather">Weather clock</string>
-    <string name="kg_font_filter_rhombus_secondary_label">Cólon</string>
+    <string name="kg_font_filter_object_label_time_weather">Relógio com clima</string>
+    <string name="kg_font_filter_rhombus_secondary_label">Coluna</string>
     <string name="kg_function_button_text_color">Cor</string>
     <string name="kg_function_button_text_effect">Efeitos de plano de fundo</string>
     <string name="kg_function_button_text_font">Efeitos de fonte</string>
@@ -366,7 +368,7 @@ dd/MM"</string>
     <string name="kg_guidance_dialog_title">Nova Tela de bloqueio personalizada</string>
     <string name="kg_hierarchy_loading_tip">Detectando camadas…</string>
     <string name="kg_hierarchy_not_support_avoid_tip">Ajuste a posição do plano de fundo para tornar o efeito de profundidade visível</string>
-    <string name="kg_hierarchy_not_support_gallery_tip">"Não é possível aplicar efeitos de profundidade em apresentação de slides"</string>
+    <string name="kg_hierarchy_not_support_gallery_tip">"Não é possível ativar o efeito de profundidade ao usar a apresentação de slides de planos de fundo"</string>
     <string name="kg_hierarchy_not_support_third_party_wallpaper_service_tip">"Planos de fundo de terceiros não suportam efeitos de profundidade"</string>
     <string name="kg_hierarchy_not_support_wallpaper_tip">"Este plano de fundo não suporta efeito de profundidade"</string>
     <string name="kg_hierarchy_switch_label">Efeito de profundidade</string>
@@ -399,8 +401,10 @@ dd/MM"</string>
     <string name="kg_template_description_rhombus">O tempo é importante. Faça-o valer a pena.</string>
     <string name="kg_template_preview_content_description">Prévia</string>
     <string name="kg_template_title_classic">Clássico</string>
+    <string name="kg_template_title_classic_phone">Cenário</string>
     <string name="kg_template_title_eastern_art">Estética oriental</string>
     <string name="kg_template_title_magazine">Revista</string>
+    <string name="kg_template_title_magazine_phone">Pessoas</string>
     <string name="kg_template_title_mine">Tela de bloqueio</string>
     <string name="kg_template_title_rhombus">Losango</string>
     <string name="kg_time_language_string">Dígitos</string>
@@ -454,7 +458,7 @@ dd/MM"</string>
 dd/MM/yyyy"</string>
     <string name="miui_lock_aqi_level_description_critical">Perigoso</string>
     <string name="miui_lock_aqi_level_description_excellent">Bom</string>
-    <string name="miui_lock_aqi_level_description_good">Razoável</string>
+    <string name="miui_lock_aqi_level_description_good">Normal</string>
     <string name="miui_lock_aqi_level_description_mild">Moderado</string>
     <string name="miui_lock_aqi_level_description_moderate">Insalubre</string>
     <string name="miui_lock_aqi_level_description_serious">Grave</string>
