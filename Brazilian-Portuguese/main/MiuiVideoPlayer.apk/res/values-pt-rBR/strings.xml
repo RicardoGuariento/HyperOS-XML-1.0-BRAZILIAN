@@ -121,6 +121,7 @@
     <string name="auth_fail_warning">Sessão expirada. Faça o login novamente.</string>
     <string name="auto_play_next_off">Reprodução automática desativada</string>
     <string name="auto_play_next_on">Reprodução automática ativada</string>
+    <string name="back">Voltar</string>
     <string name="back_recommend_exchange">Ver</string>
     <string name="back_recommend_exit">Sair</string>
     <string name="back_recommend_title">Confira vídeos mais populares</string>
@@ -398,6 +399,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="diversion_online_button">Assista mais vídeos</string>
     <string name="diy_channels_tips">Você pode personalizar sua lista de canais agora.</string>
     <string name="do_not_show_again">"Não mostrar novamente"</string>
+    <string name="doing_query_account">Verificando informações da conta…</string>
     <string name="download">"Downloads"</string>
     <string name="download_checking_tip">Preparando o download…</string>
     <string name="download_complete">Baixado</string>
@@ -482,6 +484,7 @@ O Mi Vídeo precisa coletar informações pessoais necessárias para fornecer se
     <string name="explore">Descobrir</string>
     <string name="explore_on_mi_video">Encontre mais no Mi Vídeo</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
+    <string name="facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
     <string name="failed_to_fetch_data">Não foi possível carregar as informações.</string>
     <string name="failure">Não foi possível baixar</string>
@@ -717,10 +720,12 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi com um número de telefone. Não é possível adicionar mais contas.</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="got_it">Entendi</string>
+    <string name="google_login_btn_content_description">Fazer login com o Google</string>
     <string name="goto_sign_up">Criar conta</string>
     <string name="gps_prompt_context">Baixar com rede móvel?</string>
     <string name="gps_prompt_title">Dicas</string>
     <string name="have_learned">Entendi</string>
+    <string name="header_help">Ajuda</string>
     <string name="hello_blank_fragment">Olá fragmento em branco</string>
     <string name="hidden_channels">Os seguintes canais não serão exibidos na Página inicial.</string>
     <string name="hide">Ocultar</string>
@@ -732,7 +737,7 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="history_local_video">"Local"</string>
     <string name="history_online_video">"Online"</string>
     <string name="hot">"Popular"</string>
-    <string name="i_know">"OK"</string>
+    <string name="i_know">Entendi</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="identity">Identificação</string>
     <string name="incentive_details">Detalhes</string>
@@ -811,6 +816,8 @@ para vídeos"</string>
     <string name="language_setting_tips">Selecione suas preferências de idioma para receber recomendações de conteúdos mais relevantes. Você pode alterar suas preferências de idioma em Perfil > Idioma.</string>
     <string name="language_setting_tips_dialog">Você pode selecionar as preferências de idioma para o conteúdo em Conta > Idioma.</string>
     <string name="later">Depois</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API baseado em SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="library_roundedimageview_libraryDescription">Um ImageView rápido (Drawable) que suporta cantos arredondados (ovais ou círculos) com base no exemplo original de Romain Guy.</string>
     <string name="live_now">Ao vivo agora</string>
     <string name="live_title">Ao vivo</string>
@@ -899,6 +906,11 @@ para vídeos"</string>
     <string name="local_zoom_adjust_button">Alterar modo de exibição</string>
     <string name="lock_screen">Tela de bloqueio</string>
     <string name="login">Fazer login</string>
+    <string name="login_by_local_phone_long_text">Fazer login agora</string>
+    <string name="login_by_local_phone_short_text">Fazer login</string>
+    <string name="login_other">Outra Conta Mi</string>
+    <string name="login_register_by_local_phone_long_text">Criar conta</string>
+    <string name="login_with_sns">Outras maneiras de fazer login</string>
     <string name="logo_neverthink">Com curadoria de Neverthink.tv</string>
     <string name="logout">Sair</string>
     <string name="logout_account">Sair</string>
@@ -1077,6 +1089,7 @@ Usaremos essa permissão apenas para encontrar os vídeos que você procura e n�
     <string name="mi_video">Mi Vídeo</string>
     <string name="mi_video_pip_mode">"PiP"</string>
     <string name="midnight">"AM"</string>
+    <string name="mishop_login_other">Outra conta</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -1408,45 +1421,75 @@ Atualize o Mi Vídeo para a versão mais recente primeiro."</string>
     <string name="passport_barcode_add_account_prompt">Para adicionar uma conta, digitalize o código QR novamente após fazer login.</string>
     <string name="passport_can_not_receive_verification_code">"Não recebeu o código de verificação?"</string>
     <string name="passport_captcha_title">"Captcha"</string>
+    <string name="passport_can_not_recevie_verify_code">"Não recebeu o código?"</string>
     <string name="passport_checking_account">Verificando senha…</string>
     <string name="passport_close">Fechar</string>
     <string name="passport_delete_account">Sair</string>
+    <string name="passport_clear_input">Limpar conteúdo inserido</string>
+    <string name="passport_copy_link">Copiar URL</string>
+    <string name="passport_copy_to_clipboard_successful">Copiado com sucesso</string>
+    <string name="passport_dialog_captcha_title">Código</string>
+    <string name="passport_dialog_doing_login">Entrando…</string>
+    <string name="passport_dialog_doing_register">Criando conta…</string>
+    <string name="passport_dialog_is_my_account">Sim</string>
+    <string name="passport_dialog_is_your_mi_account">Esta é a sua Conta Mi?</string>
+    <string name="passport_dialog_loading">Aguarde…</string>
+    <string name="passport_dialog_nick_name_prefix">Apelido: %s</string>
+    <string name="passport_dialog_phone_number_prefix">Número de telefone: %s</string>
+    <string name="passport_dialog_register_other">"Não, vou criar uma"</string>
     <string name="passport_email">Endereço de e-mail</string>
     <string name="passport_empty_password">"A senha não pode ficar vazia"</string>
     <string name="passport_empty_user_name">"O nome de usuário não pode ficar vazio"</string>
     <string name="passport_error_auth_fail">Sessão expirada. Faça login novamente.</string>
     <string name="passport_error_device_id">"Não é possível obter o ID do dispositivo"</string>
+    <string name="passport_error_dynamic_token_error">O código de verificação está incorreto</string>
     <string name="passport_error_email">O endereço de e-mail inserido é inválido</string>
     <string name="passport_error_empty_captcha_code">Insira o captcha</string>
     <string name="passport_error_empty_email">Digite seu endereço de e-mail</string>
-    <string name="passport_error_empty_phone_num">Digite o número do telefone</string>
+    <string name="passport_error_empty_password">Digite sua senha</string>
     <string name="passport_error_empty_pwd">"A senha não pode ficar vazia"</string>
     <string name="passport_error_empty_vcode">Digite o código de verificação</string>
     <string name="passport_error_empty_voice_code">Insira o captcha</string>
     <string name="passport_error_illegal_pwd">Senha inválida</string>
+    <string name="passport_error_empty_user_id">Digite seu nome de usuário</string>
+    <string name="passport_error_length_limit">O texto digitado é muito longo</string>
     <string name="passport_error_network">"Não é possível conectar-se à rede"</string>
     <string name="passport_error_no_password_user">"Você não definiu uma senha ainda. Faça o login com SMS."</string>
-    <string name="passport_error_phone_error">Número de telefone inválido</string>
+    <string name="passport_error_phone">Número de telefone inválido</string>
     <string name="passport_error_server">Erro no servidor</string>
+    <string name="passport_error_sms_limit">Muitos códigos de verificação foram enviados para este número. Tente mais tarde.</string>
+    <string name="passport_error_ticket_invalid">Este código está incorreto</string>
+    <string name="passport_error_timeout_network_error">O pedido excedeu o tempo limite</string>
+    <string name="passport_error_token_expired">Código expirado. Tente novamente.</string>
+    <string name="passport_error_unknow_error">Ocorreu um erro</string>
+    <string name="passport_error_unknow_host_network_error">"Não foi possível conectar-se à rede"</string>
+    <string name="passport_error_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_error_unknown">Erro desconhecido</string>
+    <string name="passport_error_user_agreement">Aceite o nosso Contrato do Usuário primeiro</string>
     <string name="passport_error_user_agreement_error">Aceite os termos e condições primeiro</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto</string>
-    <string name="passport_forget_password"><u>Esqueci a senha</u></string>
-    <string name="passport_get_verify_code">Obter código</string>
-    <string name="passport_getting_verify_code">Aguarde…</string>
+    <string name="passport_error_user_password">"As senhas não coincidem"</string>
+    <string name="passport_get_login_type_next">Próximo</string>
+    <string name="passport_header_back">Voltar</string>
     <string name="passport_identification_expired">Código de verificação expirado. Recomeçar.</string>
     <string name="passport_input_captcha_hint">Digite o código</string>
     <string name="passport_input_password_hint">Digite a senha</string>
-    <string name="passport_input_phone_hint">Digite o número de telefone</string>
-    <string name="passport_input_vcode_hint">Digite o código de verificação</string>
+    <string name="passport_input_phone_number_hint">Digite o número de telefone</string>
+    <string name="passport_input_verify_code">Digite o código de verificação</string>
     <string name="passport_input_voice_captcha_hint">Digite o código de verificação por voz</string>
     <string name="passport_input_voice_hint">Digite o código de voz</string>
     <string name="passport_international_phone_password_login_tip">(Usuários fora da China devem inserir o número do telefone móvel no seguinte formato: +[código de área][número de telefone], por exemplo: +32 912345678)</string>
     <string name="passport_log_detail">Ver detalhes</string>
     <string name="passport_login_failed">"Não consigo fazer login"</string>
+    <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
+    <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
+    <string name="passport_network_error">Ocorreu um erro de rede.</string>
+    <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
     <string name="passport_next">Próximo</string>
     <string name="passport_next_step">PRÓXIMO</string>
+    <string name="passport_password_not_show">"Não mostrar senha"</string>
     <string name="passport_password_req_notice">A senha deve conter de 8 a 16 caracteres e combinar pelo menos dois dos seguintes itens: letras, números ou símbolos especiais (ex.: 123abc@#, 123abc ou abc@#).</string>
+    <string name="passport_password_show">Mostrar senha</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
     <string name="passport_quick_login_dialog_step2_title">Verificação em 2 etapas</string>
     <string name="passport_quick_login_dialog_title">Verificar senha</string>
@@ -1457,6 +1500,9 @@ Atualize o Mi Vídeo para a versão mais recente primeiro."</string>
     <string name="passport_register_restricted">Muitas contas foram associadas a este número. Experimente um diferente.</string>
     <string name="passport_reload_ph_ticket">Reenviar</string>
     <string name="passport_relogin_notice">Você precisa fazer login novamente</string>
+    <string name="passport_resend_ticket">Reenviar código</string>
+    <string name="passport_retry">Tentar novamente</string>
+    <string name="passport_send_sms_to">Código enviado para %1$s</string>
     <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="passport_sending_vcode">Enviando código…</string>
@@ -1469,14 +1515,15 @@ Atualize o Mi Vídeo para a versão mais recente primeiro."</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação por imagem</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
     <string name="passport_talkback_voice_captcha">Reproduzir código de verificação por voz</string>
-    <string name="passport_timeout_network_error">Pedido da rede expirado</string>
-    <string name="passport_trust_device">Confiar neste dispositivo</string>
-    <string name="passport_trying_read_verify_code_sms">Obtendo código de verificação…</string>
-    <string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
+    <string name="passport_ticket_send_by_second">Enviar em %d</string>
+    <string name="passport_to_forget_password">Esqueceu sua senha?</string>
+    <string name="passport_to_password_login">Fazer login usando senha</string>
+    <string name="passport_to_verify_code_login">Fazer login por SMS</string>
     <string name="passport_unknow_host_network_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_user_agreement_link">&lt;Data>Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data></string>
     <string name="passport_user_agreement_link_more">&lt;Data>Li e aceito os seguintes documentos: o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
     <string name="passport_user_id_intro">Insira a senha para %1$s</string>
     <string name="passport_v_code_error">Código de verificação incorreto</string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
@@ -1484,6 +1531,8 @@ Atualize o Mi Vídeo para a versão mais recente primeiro."</string>
     <string name="passport_vcode_sms_send_prompt">Código enviado para %s</string>
     <string name="passport_verification_failed">"Não foi possível verificar"</string>
     <string name="passport_verify">Verificar</string>
+    <string name="passport_user_password_hint">Senha</string>
+    <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para o seu telefone de recuperação (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Instale o WeChat primeiro</string>
     <string name="passport_wrong_captcha">O código inserido está incorreto</string>
     <string name="passport_wrong_phone_number_format">O formato do número do telefone inserido é inválido</string>
@@ -1508,6 +1557,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="phone_hint">Número de telefone</string>
     <string name="phone_num_use_for">O número de telefone é usado para:</string>
     <string name="phone_number">Número de telefone</string>
+    <string name="phone_auto_login_register_with_local_number">Criar conta</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="pip">"PiP"</string>
     <string name="pip_not_supported_toast">Atualize o HyperOS para poder usar Picture-in-Picture.</string>
@@ -1536,6 +1586,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="playlist_remove">Remover</string>
     <string name="playlist_title">"Playlist"</string>
     <string name="playlist_view_more">Mais playlists</string>
+    <string name="please_agree_protocal">Por favor, aceite o protocolo</string>
     <string name="plus_add_shortcut">Criar atalho na Tela inicial</string>
     <string name="plus_change_poster">Alterar capa do álbum</string>
     <string name="plus_continue_watching">Continuar assistindo</string>
@@ -1673,6 +1724,9 @@ Aumentar a segurança da sua conta."</string>
     <string name="privacy_revoke_setting">Ao desativar o seletor, você retirará o seu consentimento à Política de Privacidade do Mi Vídeo.</string>
     <string name="privacy_revoke_subtitle">Retirando o consentimento à Política de Privacidade do Mi Vídeo</string>
     <string name="privacy_revoke_title">Retirada de consentimento</string>
+    <string name="progressbar_title">Verificando problemas de segurança…</string>
+    <string name="protocal_dialog_confirm">Aceitar</string>
+    <string name="protocal_dialog_title">Atenção!</string>
     <string name="pro_prize_popup_style_one">Remover anúncios por %s</string>
     <string name="pro_prize_popup_style_two">Desbloqueie mais recursos por %s</string>
     <string name="progressbar_title">Procurando por problemas de segurança…</string>
@@ -1687,6 +1741,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="push_message_switch">Notificações push</string>
     <string name="push_message_tips">Ative para receber notificações push</string>
     <string name="pw_channels">Canais</string>
+    <string name="qq_login_btn_content_description">Fazer login com QQ</string>
     <string name="question_click_bottom_tab">Você também pode tocar em um atalho para abrir um site.</string>
     <string name="question_click_with_light">Toque no botão de download depois que acender.</string>
     <string name="question_edit_url_here">Pesquise ou insira a URL aqui.</string>
@@ -1704,6 +1759,9 @@ Aumentar a segurança da sua conta."</string>
     <string name="recommend_slide_to_more">Deslize para mais</string>
     <string name="recommend_switch_alert">Para remover esta seção, vá nas configurações do Mi Vídeo</string>
     <string name="recommend_to_you">Recomendado para você</string>
+    <string name="register_by_local_phone_long_text">Criar conta</string>
+    <string name="register_by_local_phone_short_text">Criar conta</string>
+    <string name="related_search">Itens relacionados</string>
     <string name="reload_sub_title">Toque para tentar novamente.</string>
     <string name="reload_title">Não foi possível conectar-se à rede.</string>
     <string name="remaining_space">Disponível: %s</string>
@@ -1724,7 +1782,13 @@ Aumentar a segurança da sua conta."</string>
     <string name="report_content_violence">Discurso de ódio</string>
     <string name="report_fail">Não foi possível reportar. Tente novamente.</string>
     <string name="report_success">Reportado com sucesso</string>
-    <string name="request_camera_permission_message">Este serviço precisa de sua permissão a seguir, nós cumpriremos estritamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesso a câmera: experimente serviços de gravação em tempo real para configurar a foto de perfil &lt;/b>&lt;br>&lt;br> Caso não aceite em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a chamada de permissão acima nas configurações do sistema para retirar o seu consentimento.</string>
+    <string name="request_agree">Permitir</string>
+    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não aceitar para conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="request_cancel">Cancelar</string>
+    <string name="request_error_invalid_token">"Não foi possível verificar"</string>
+    <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
+    <string name="request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
     <string name="resend_email_reach_limit_title">Muitas tentativas</string>
@@ -1801,11 +1865,14 @@ Aumentar a segurança da sua conta."</string>
     <string name="sign_in_progress">Fazendo o login…</string>
     <string name="sign_in_title">Faça o login com sua Conta Mi</string>
     <string name="skip_ad">Pular</string>
+    <string name="skip_query_account">Pular</string>
     <string name="slid_fail_message">Não foi possível salvar</string>
     <string name="slide_or_click_to_open_ad">Deslize ou toque para saber mais</string>
     <string name="slide_save_message">Gerando vídeo…</string>
     <string name="slide_to_open_ad">Deslize para saber mais</string>
     <string name="small_mango_play_next_episode">Próximo episódio</string>
+    <string name="small_title_hide">Mostrar menos</string>
+    <string name="small_title_more">Mostrar mais</string>
     <string name="small_video_cancel_button">Cancelar</string>
     <string name="small_video_download_button">Baixar</string>
     <string name="small_video_load_more_hint">Deslize para cima para reproduzir mais vídeos</string>
@@ -2203,9 +2270,20 @@ Aumentar a segurança da sua conta."</string>
     <string name="update_find_new_version">Uma atualização está disponível</string>
     <string name="update_phone_notice">Alterar configurações de segurança</string>
     <string name="upload_error_log">Enviar logs</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade.&lt;/a> O primeiro login criará automaticamente uma Conta Mi"</Data></string>
+    <string name="user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
-    <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
+    <string name="user_name_phone_number">Número de telefone</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="v_agree">Aceitar</string>
@@ -2283,7 +2361,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="vp_VideoView_error_button">"OK"</string>
     <string name="vp_VideoView_error_text_unknown">Ocorreu um erro</string>
     <string name="vp_VideoView_error_title">Erro desconhecido</string>
-    <string name="vp_app_name">Reprodutor de Vídeos</string>
+    <string name="vp_app_name">Reprodutor de vídeos</string>
     <string name="vp_copyright_unsported_audio">Não é possível reproduzir a faixa de áudio do vídeo devido a restrições de direitos autorais</string>
     <string name="vp_copyright_unsported_video">Não é possível reproduzir este vídeo devido a restrições de direitos autorais</string>
     <string name="vp_hardware_unsported">Este vídeo não pode ser reproduzido no seu dispositivo.</string>
@@ -2291,11 +2369,14 @@ Aumentar a segurança da sua conta."</string>
     <string name="vp_replay">Repetir</string>
     <string name="vp_upcoming_auto_play">Reprodução automática</string>
     <string name="vp_upcoming_title">A seguir</string>
+    <string name="wallet">Carteira</string>
     <string name="website_button_add_bookmarks">Adicionar favorito</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="welcome_tip_content1">Um Reprodutor de vídeos poderoso</string>
+    <string name="weibo_login_btn_content_description">Fazer login com o Weibo</string>
+    <string name="weixin_login_btn_content_description">Fazer login com o WeChat</string>
+    <string name="welcome_tip_content1">Um reprodutor de vídeos poderoso</string>
     <string name="welcome_tip_content2">Milhões de vídeos para assistir online ou baixar</string>
     <string name="welcome_tip_explore_more">Descobrir</string>
     <string name="welcome_tip_into_mivideo">Comece agora</string>

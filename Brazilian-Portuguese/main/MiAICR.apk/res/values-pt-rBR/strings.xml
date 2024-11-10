@@ -12,6 +12,8 @@
     <string name="AI_download_function_message">Instale o Criador de imagem Mi IA para que o Mi IA gere imagens a partir de suas descrições.</string>
     <string name="AI_download_title">Criador de imagem Mi IA</string>
     <string name="AI_version_number">Versão: %d</string>
+    <string name="FOCUS_MIJIA_LOW_VERSION">A versão atual do Mi Home é baixa, atualize para o Mi Home 10.0 ou superior.</string>
+    <string name="FOCUS_NOT_INSTALL_MIJIA">O Mi Home não está instalado. Baixe-o para obter mais detalhes.</string>
     <string name="HM_permission_desc_common">Para aprender padrões e melhorar a precisão de recomendações</string>
     <string name="HM_permission_desc_phone_state">Para executar padrões relacionados a chamadas</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
@@ -44,7 +46,7 @@
     <string name="about_MiAI_engine">Sobre o Motor Mi IA</string>
     <string name="about_MiAI_engine_hyper">Sobre o Motor Xiaomi HyperAI</string>
     <string name="accessbility_permission_title">Apps baixados</string>
-    <string name="accessbility_permission_toast_msg">"Ative os recursos de acessibilidade do Motor Xiaomi HyperAI para poder realizar esta ação"</string>
+    <string name="accessbility_permission_toast_msg">"Ative os recursos de acessibilidade do Motor Xiaomi HyperAI para executar esta ação"</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="aiSearch_enhance_setting_desc">Use a pesquisa em linguagem natural para encontrar itens em apps do sistema</string>
@@ -84,6 +86,8 @@
     <string name="aireco_intent_dialog_notification_title">Permissões necessárias</string>
     <string name="aireco_intent_dialog_op_gps_service_message">As Sugestões do Mi AI precisam acessar sua localização para fornecer sua gama completa de serviços. Você pode conceder essa permissão nas Configurações.</string>
     <string name="aireco_intent_dialog_op_gps_service_title">Ative os serviços de localização</string>
+    <string name="aireco_intent_voice_assistant_launch_small_program_error">O serviço remoto está errado e o WeChat Mini Program não consegue ser aberto.</string>
+    <string name="aireco_intent_voice_error_privacy_update">O Xiaoai Voice atualizou a Política de Privacidade, acesse Xiaoai Voice para concordar com a Política de Privacidade e experimente.</string>
     <string name="am">"AM"</string>
     <string name="app_name">Motor Mi IA</string>
     <string name="app_name_hyper">Motor Xiaomi HyperAI</string>
@@ -150,7 +154,7 @@
     <string name="case00032_audioProjectWhenArriveHome_scene_name">Transferir a reprodução de áudio ao chegar em casa</string>
     <string name="case00036_00037_muteWhenDooebellRing_description">%1$s será silenciado quando alguém tocar a campainha</string>
     <string name="case00036_00037_muteWhenDoorbellRing_scene_name">Silenciar o alto-falante quando a campainha tocar</string>
-    <string name="cellular_message">Usar sua conexão de dados móveis para baixar este arquivo?</string>
+    <string name="cellular_message">Usar os dados móveis para baixar este arquivo?</string>
     <string name="cellular_title">Aviso sobre o uso de dados</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
@@ -406,6 +410,17 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="focus_alread_arrive">Chegou</string>
+    <string name="focus_data_error">Não é possível encontrar dados de intenção</string>
+    <string name="focus_hypermind_operation_metro_info">Você chegou a %1$s, você pode abrir o código de embarque para entrar e sair da estação.</string>
+    <string name="focus_hypermind_operation_success">Sucesso</string>
+    <string name="focus_metro_code">Código de embarque</string>
+    <string name="focus_operate_failed">Algo deu errado</string>
+    <string name="focus_please_show_qr_code">, você pode escanear o código para pegar o ônibus</string>
+    <string name="focus_proactive_intelligence">Inteligência proativa</string>
+    <string name="focus_weather_button">Veja opções de viagem</string>
+    <string name="focus_weather_context">%1$s começa %2$s</string>
+    <string name="focus_weather_title">Há %1$s durante o período de deslocamento, é recomendável sair mais cedo, lembre-se de levar capa de chuva e preste atenção à segurança ao viajar.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -466,6 +481,7 @@
     <string name="model_message">Versão %d</string>
     <string name="model_notification">Baixando o modelo grande…</string>
     <string name="model_title">Modelo grande no dispositivo</string>
+    <string name="model_unzip">Descompactando…</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -564,6 +580,7 @@
     <string name="notification_operation_failed">"Não foi possível lembrar o padrão"</string>
     <string name="notification_remember_habit">Padrão lembrado</string>
     <string name="notification_remember_this_habit">Lembrar padrão</string>
+    <string name="open_qr_code_for_traffic">Abra o código de embarque</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_crop_user_avatar">Cortar foto</string>
     <string name="passport_account_empty_user_name">Digite seu nome</string>
@@ -742,8 +759,8 @@
     <string name="privacy_banner_title">Sua segurança. Nossa prioridade.</string>
     <string name="privacy_cancel">Cancelar</string>
     <string name="privacy_cancel_not_do">"Não cancelar"</string>
-    <string name="privacy_cancel_privacy">Retirada de consentimento</string>
-    <string name="privacy_cancel_privacy_title">Cancelando serviços</string>
+    <string name="privacy_cancel_privacy_detail">Retire o seu consentimento com a Política de Privacidade do Motor Xiaomi HyperAI</string>
+    <string name="privacy_cancel_privacy_title">Retirada de consentimento</string>
     <string name="privacy_cancel_service">Cancelar serviços</string>
     <string name="privacy_cannel_service">Cancelar serviços</string>
     <string name="privacy_cannel_service_content">"Se continuar, você cancelará os serviços do Motor Xiaomi HyperAI. Todas as suas informações pessoais relacionadas serão excluídas permanentemente. Cancelar serviços agora?"</string>
@@ -753,6 +770,18 @@
     <string name="privacy_cta_all_purpose_old_user">O Motor Mi IA é um serviço básico que oferece suporte às Sugestões do Mi AI, fornecendo reconhecimento contextual e recursos de reconhecimento inteligente. Ele pode perceber sua situação, aprender seus hábitos e fornecer serviços precisos e personalizados. Com esta atualização, os dados da nuvem de sugestões do Mi AI serão transferidos para o novo serviço e os dados locais não serão mais usados. O Motor Mi IA reaprenderá essas informações. Sua concordância com a Política de Privacidade do Motor Mi IA também cobre serviços que dependem do Motor Mi IA (ex.: Xiaomi HyperMind).</string>
     <string name="privacy_dialog_location_message">Permita que às Sugestões do Mi AI acessem sua localização e selecione \"Sempre permitir\". Você pode conceder essa permissão nas Configurações.</string>
     <string name="privacy_dialog_location_title">Permissões necessárias</string>
+    <string name="privacy_dialog_manager_data_access_car_content">Conceda permissões no app Xiaomi EV</string>
+    <string name="privacy_dialog_manager_data_access_car_title">"Xiaomi EV"</string>
+    <string name="privacy_dialog_manager_data_access_description">Com sua permissão, a Inteligência proativa pode ajudá-lo a criar controles automatizados para dispositivos do ecossistema Humano × Carro × Casa. Como a Inteligência proativa e as automações do Xiaomi Home dependem do mesmo mecanismo de automação, esta permissão se estende a ambos os recursos.</string>
+    <string name="privacy_dialog_manager_data_access_detail"><Data>Para obter mais detalhes, consulte a &lt;a href=\"%1$s\">Declaração de Compartilhamento de Dados do Ecossistema Humano × Carro × Casa&lt;/a></Data></string>
+    <string name="privacy_dialog_manager_data_access_granted">Permitir acesso a:</string>
+    <string name="privacy_dialog_manager_data_access_health_content">Dados de saúde e condicionamento físico e identificadores de dispositivos vestíveis inteligentes</string>
+    <string name="privacy_dialog_manager_data_access_health_title">"Mi Fitness"</string>
+    <string name="privacy_dialog_manager_data_access_home_content">Informações sobre dispositivos domésticos inteligentes do Xiaomi Home, localização, informações sobre como os dispositivos são usados e informações relatadas por dispositivos domésticos inteligentes.</string>
+    <string name="privacy_dialog_manager_data_access_home_title">"Xiaomi Home"</string>
+    <string name="privacy_dialog_manager_data_access_phone_content">Informações sobre o seu dispositivo e como você o usa no Motor Xiaomi HyperAI</string>
+    <string name="privacy_dialog_manager_data_access_phone_title">Telefone Xiaomi</string>
+    <string name="privacy_dialog_manager_data_access_title">Permissões Humano × Carro × Casa</string>
     <string name="privacy_dialog_retention_comment"><Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="privacy_dialog_retention_content_agree_privacy"><Data>"Aceite a &lt;a href=\"%1$s\">Política de Privacidade do Motor Xiaomi HyperAI&lt;/a> para poder usar às Sugestões do Mi AI. Caso não aceite, você só poderá usar sugestões de apps. Aceitar a &lt;a href=\"%2$s\">Política de Privacidade do Motor Xiaomi HyperAI&lt;/a> agora?"</Data></string>
     <string name="privacy_dialog_retention_content_express_permission">Este recurso precisa se conectar à internet para fornecer os serviços necessários. Podemos solicitar as seguintes permissões para fornecer serviços adicionais: ativar e desativar o Bluetooth e Wi-Fi, acessar o número de telefone, status de chamada, conteúdo de SMS e MMS, informações sobre apps instalados em seu dispositivo, endereço MAC do dispositivo, localização, música, áudio, fotos e vídeos no seu dispositivo. Você pode ajustar suas configurações de permissões a qualquer momento.</string>
@@ -771,19 +800,29 @@ Nós nos preocupamos com sua privacidade. Todas as informações são anonimizad
     <string name="privacy_experience_title_dialog">Programa de Experiência do Usuário</string>
     <string name="privacy_logout">Cancelar</string>
     <string name="privacy_management">Privacidade</string>
+    <string name="privacy_manager_data_access_car_content">Conceda permissões no app Xiaomi EV</string>
+    <string name="privacy_manager_data_access_car_title">"Xiaomi EV"</string>
+    <string name="privacy_manager_data_access_home_content">Informações sobre dispositivos domésticos inteligentes do Xiaomi Home, localização, informações sobre como os dispositivos são usados e informações relatadas por dispositivos domésticos inteligentes.</string>
+    <string name="privacy_manager_data_access_home_title">"Xiaomi Home"</string>
+    <string name="privacy_manager_data_access_management_tips">Permita que a Inteligência proativa (chamada de Sugestões do Xiaomi Home no Xiaomi Home) e as automações do Xiaomi Home acessem os dados Humano × Carro × Casa associados à sua conta para poder gerenciar dispositivos e automações associadas.</string>
+    <string name="privacy_manager_data_access_management_title">Acesso Humano × Carro × Casa</string>
+    <string name="privacy_manager_data_access_phone_content">Informações sobre o seu dispositivo e como você o usa no Motor Xiaomi HyperAI</string>
+    <string name="privacy_manager_data_access_phone_title">Telefone Xiaomi</string>
+    <string name="privacy_manager_data_access_wear_content">Dados de saúde e condicionamento físico e identificadores de dispositivos vestíveis inteligentes</string>
+    <string name="privacy_manager_data_access_wear_title">"Mi Fitness"</string>
     <string name="privacy_manager_law">Documentos legais</string>
     <string name="privacy_manager_permission">Permissões</string>
     <string name="privacy_manager_permission_detail">Gerencie suas configurações de permissões para garantir sua privacidade e segurança</string>
     <string name="privacy_manager_setting">Configurações de privacidade</string>
     <string name="privacy_manager_user_improvement_plan">Programa de Experiência do Usuário</string>
-    <string name="privacy_manager_user_improvement_plan_detail">Permita que o Motor Xiaomi HyperAI use seus dados para melhorar seu algoritmo de recomendação</string>
+    <string name="privacy_manager_user_improvement_plan_detail">Deixe o Motor Xiaomi HyperAI usar seus dados para melhorar seus serviços</string>
     <string name="privacy_op_gps_service_dialog_message">Permita que às Sugestões do Mi AI acessem sua localização para que ele possa fornecer serviços mais precisos. Você pode conceder essa permissão nas Configurações.</string>
     <string name="privacy_op_gps_service_dialog_title">Permissões necessárias</string>
     <string name="privacy_permission_tip_text">Conceda permissão para acessar a localização e selecione \"Sempre permitir\"</string>
     <string name="privacy_personalized">Recomendações personalizadas</string>
     <string name="privacy_personalized_close_content">"Quando esse recurso estiver desativado, você não receberá recomendações personalizadas e o pedido do cartão não será baseado no seu histórico de uso."</string>
     <string name="privacy_personalized_close_title">Desativar recomendações personalizadas</string>
-    <string name="privacy_personalized_content">Se você desativar esse recurso, o Motor Xiaomi HyperAI não usará mais suas informações pessoais para fornecer serviços personalizados. Esta informação é usada apenas para Sugestões do Mi AI no momento.</string>
+    <string name="privacy_personalized_content">Use seus dados para fornecer serviços mais precisos e personalizados</string>
     <string name="privacy_refuse">Agora não</string>
     <string name="privacy_request_background_location_permission_reason">Para fornecer sugestões de viagens, códigos de viagem e sugestões de casas inteligentes com base em informações de localização básicas.</string>
     <string name="privacy_request_location_permission_reason">Para fornecer sugestões de viagens, códigos de viagem e sugestões de casas inteligentes com base em informações de localização.</string>
@@ -793,14 +832,14 @@ Nós nos preocupamos com sua privacidade. Todas as informações são anonimizad
     <string name="privacy_tip_item_view_location_permission_hint">Permita que este app acesse a localização e selecione \"Sempre permitir\"</string>
     <string name="privacy_update_user_notice_title">Atenção!</string>
     <string name="privacy_user_agreement">Contrato do usuário</string>
-    <string name="privacy_user_experience">Programa de Experiência do Usuário</string>
+    <string name="privacy_user_experience">Participe do Programa de Experiência do Usuário</string>
     <string name="privacy_user_experience_banner_content">"Ao ingressar em nosso Programa de Experiência do Usuário, aqui está o que você receberá:
 1. Serviços mais precisos de viagem, deslocamento diário e casa inteligente.
 2. Oportunidade de se comunicar individualmente com os desenvolvedores.
 3. Seja o primeiro a experimentar os novos recursos do Motor Xiaomi HyperAI."</string>
     <string name="privacy_user_experience_banner_title">Ajude o Motor Xiaomi HyperAI a se tornar ainda melhor</string>
     <string name="privacy_withdraw">Retirar</string>
-    <string name="privacy_withdraw_content">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Motor Xiaomi HyperAI. Deixaremos de coletar suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Motor Xiaomi HyperAI fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada uma recusa em aceitar nosso fornecimento de serviços de Sugestões Mi AI. Retirar o consentimento agora?."</string>
+    <string name="privacy_withdraw_content">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Motor Xiaomi HyperAI. Deixaremos de coletar suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Motor Xiaomi HyperAI fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada uma recusa em aceitar esses serviços, incluindo a Inteligência proativa, Pesquisa Xiaomi HyperAI, Super Mi AI e Suporte computacional. Retirar o consentimento agora?."</string>
     <string name="privacy_withdraw_title">Retirada de consentimento</string>
     <string name="prompt_delete_model">Excluir este modelo?</string>
     <string name="saturday">Sábado</string>
@@ -897,7 +936,7 @@ Nós nos preocupamos com sua privacidade. Todas as informações são anonimizad
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="voice_control_accessbility_desc">"Ativar os recursos de acessibilidade do Motor Xiaomi HyperAI permite ver e controlar sua tela e operar apps de acordo com suas instruções.
-Dica: Você receberá um aviso de rotina do sistema ao ativar os recursos de acessibilidade. Tenha certeza de que o Motor Xiaomi HyperAI não infringirá nenhum dos seus direitos ao usar esses recursos."</string>
+Dica: Você receberá um alerta de rotina do sistema ao ativar os recursos de acessibilidade. Tenha certeza de que o Motor Xiaomi HyperAI não infringirá nenhum dos seus direitos ao usar esses recursos."</string>
     <string name="warning_delete_model">"Se você excluir este modelo grande do seu dispositivo, não poderá usar alguns recursos de IA do dispositivo, a menos que faça o download dele novamente. Excluir agora?"</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>

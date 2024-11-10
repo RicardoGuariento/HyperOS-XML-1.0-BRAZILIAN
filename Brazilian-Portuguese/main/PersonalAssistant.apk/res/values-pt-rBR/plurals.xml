@@ -208,6 +208,14 @@
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
     </plurals>
+    <plurals name="pa_travel_departure_date_tip_other">
+        <item quantity="other">Parte em %d dias</item>
+        <item quantity="one">Parte em %d dia</item>
+    </plurals>
+    <plurals name="pa_travel_select_title">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
     <plurals name="pa_travel_train_tip_delay_min">
         <item quantity="other">O trem está atrasado em %d minutos</item>
         <item quantity="one">O trem está atrasado em %d minuto</item>

@@ -16,4 +16,9 @@
         <item>Sábado</item>
         <item>Domingo</item>
     </string-array>
+    <string-array name="pa_service_delivery_dislike_option">
+        <item>Recomendo em outro horário</item>
+        <item>Recomendo com menos frequência</item>
+        <item>"Não recomendo este serviço"</item>
+    </string-array>
 </resources>

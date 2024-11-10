@@ -41,6 +41,8 @@
     <string name="HIPS_Perm_Intl_group_name_call_log">Histórico de chamadas</string>
     <string name="HIPS_Perm_Intl_group_name_camera">Câmera</string>
     <string name="HIPS_Perm_Intl_group_name_contact">Contatos</string>
+    <string name="HIPS_Perm_Intl_group_name_read_note">Notas</string>
+    <string name="HIPS_Perm_Intl_group_name_read_record">Gravações</string>
     <string name="HIPS_Perm_Intl_group_name_location">Localização</string>
     <string name="HIPS_Perm_Intl_group_name_storage">Armazenamento</string>
     <string name="HIPS_Perm_Location">Obter informações de localização</string>
@@ -100,6 +102,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Obtenha o número de telefone para fazer login</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Caso não consiga fazer login com um toque, volte para a página de login e tente novamente."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Este app deseja adquirir seu número de telefone para fazer login. Permitir?</string>
+    <string name="HIPS_Perm_operator_read_note">Acessar notas</string>
+    <string name="HIPS_Perm_operator_read_record">Acessar gravações</string>
     <string name="HIPS_Perm_operator_shake">Acessar o movimento e a orientação do dispositivo</string>
     <string name="HIPS_Perm_operator_shake_Desc">"Para detectar a posição do dispositivo no espaço, reconhecer tremores e fornecer recursos sensoriais interativos."</string>
     <string name="HIPS_Perm_operator_wall_paper">Serviços de Planos de fundo dinâmico</string>
@@ -382,8 +386,10 @@
     <string name="permdesc_read_call_log">Permitir que %1$s acesse o histórico de chamadas?</string>
     <string name="permdesc_read_contacts">Permitir que %1$s acesse contatos?</string>
     <string name="permdesc_read_mms">Permitir que %1$s leia mensagens multimídia?</string>
+    <string name="permdesc_read_note">Permitir que %1$s acesse as notas?</string>
     <string name="permdesc_read_phone_numbers">Permitir que %1$s leia números de telefone neste dispositivo?</string>
     <string name="permdesc_read_phone_state">Permitir que %1$s acesse o status do dispositivo e as informações da rede móvel?</string>
+    <string name="permdesc_read_record">Permitir que %1$s acesse as gravações?</string>
     <string name="permdesc_read_sms">Permitir que %1$s leia mensagens de texto e multimídia?</string>
     <string name="permdesc_read_storage">Permitir que %1$s acesse fotos, vídeos, áudio e arquivos neste dispositivo?</string>
     <string name="permdesc_receive_sms">Permitir que %1$s receba SMS e MMS?</string>
