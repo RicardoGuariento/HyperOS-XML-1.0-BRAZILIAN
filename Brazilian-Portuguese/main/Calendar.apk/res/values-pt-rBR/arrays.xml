@@ -16,29 +16,25 @@
     <string-array name="aquarius_info">
         <item>aquário</item>
         <item>Aquário</item>
-        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="aries_info">
         <item>áries</item>
         <item>Áries</item>
-        <item>21/3 - 19/4</item>
     </string-array>
     <string-array name="cancer_info">
         <item>câncer</item>
         <item>Câncer</item>
-        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="capricorn_info">
         <item>capricórnio</item>
         <item>Capricórnio</item>
-        <item>22/12 - 19/1</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Apenas este evento</item>
         <item>Todos os eventos na série</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Só por esta vez</item>
+        <item>Só esta vez</item>
         <item>Desativar lembrete repetido</item>
     </string-array>
     <string-array name="date_calculate_spinner">
@@ -124,7 +120,6 @@
     <string-array name="gemini_info">
         <item>gêmeos</item>
         <item>Gêmeos</item>
-        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="global_criket_match">
         <item>Internacional</item>
@@ -149,12 +144,10 @@
     <string-array name="leo_info">
         <item>leão</item>
         <item>Leão</item>
-        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>Libra</item>
-        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="locale_calendar_array">
         <item>Nenhum</item>
@@ -181,7 +174,7 @@
         <item>Dezembro</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Só por esta vez</item>
+        <item>Só esta vez</item>
         <item>Definir lembrete repetido</item>
     </string-array>
     <string-array name="panchang_weeks">
@@ -200,7 +193,6 @@
     <string-array name="pisces_info">
         <item>peixes</item>
         <item>Peixes</item>
-        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Desativado</item>
@@ -364,17 +356,14 @@
     <string-array name="sagittarius_info">
         <item>sagitário</item>
         <item>Sagitário</item>
-        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>escorpião</item>
         <item>Escorpião</item>
-        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
         <item>touro</item>
         <item>Touro</item>
-        <item>20/4 - 20/5</item>
     </string-array>
     <string-array name="timezone_labels_v3">
         <item>Ilhas Marshall</item>
@@ -493,7 +482,6 @@
     <string-array name="virgo_info">
         <item>virgem</item>
         <item>Virgem</item>
-        <item>23/8 - 22/9</item>
     </string-array>
     <string-array name="weather_forecasts">
         <item>Limpo</item>

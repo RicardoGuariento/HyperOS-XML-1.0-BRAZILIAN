@@ -117,11 +117,11 @@
         <item quantity="one">O item contém %d widget. Toque duas vezes para abrir a descrição do widget.</item>
     </plurals>
     <plurals name="pa_base_time_hour_ago">
-        <item quantity="other">%d hrs atrás</item>
-        <item quantity="one">%d hr atrás</item>
+        <item quantity="other">%d h atrás</item>
+        <item quantity="one">%d h atrás</item>
     </plurals>
     <plurals name="pa_base_time_minute_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="pa_edit_text_limit">

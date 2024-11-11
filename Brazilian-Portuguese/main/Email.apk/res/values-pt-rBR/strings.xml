@@ -868,7 +868,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="long_press_to_select_tip">Toque e segure para selecionar uma mensagem, toque em outras para selecionar mais.</string>
     <string name="mail">E-mail</string>
     <string name="mail_body_turncated">O e-mail é muito grande para ser carregado, acesse-o através de um PC para ver o conteúdo completo</string>
-    <string name="mail_description_content">O E-mail é um cliente de e-mails que pode gerenciar várias contas, enviar e receber mensagens e sincronizar suas informações de agenda e contatos. Certifique-se de que não precisará destes recursos antes de desinstalar o app. Suas informações de conta Exchange também serão excluídas.</string>
+    <string name="mail_description_content">O E-mail é um cliente de e-mails que pode gerenciar várias contas, enviar e receber mensagens e sincronizar suas informações de Agenda e Contatos. Certifique-se de que não precisará destes recursos antes de desinstalar o app. Suas informações de conta Exchange também serão excluídas.</string>
     <string name="mail_description_title">Sobre o E-mail</string>
     <string name="mail_header_network_not_available">Você não tem uma conexão de rede.</string>
     <string name="mail_outlook_login_tips">"Você será redirecionado à Microsoft para inserir sua senha"</string>
@@ -1639,7 +1639,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="toastbar_calendar_permission_switch_close">Para receber lembretes da Agenda, conceda as permissões necessárias ao app nas Configurações</string>
     <string name="toastbar_contacts_permission_switch_allow_only_using">Não foi possível sincronizar os contatos. Altere as permissões dos contatos para \"Sempre permitir\" para resolver este problema.</string>
     <string name="toastbar_contacts_permission_switch_close">Permita acesso aos contatos para poder adicioná-los como contatos do sistema</string>
-    <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Ative a sincronização de agenda e contatos para sincronizá-los</string>
+    <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Ative a sincronização de Agenda e Contatos para sincronizá-los</string>
     <string name="toastbar_local_calendar_sync_switch_close">Ative a sincronização da Agenda para receber lembretes</string>
     <string name="toastbar_local_contacts_sync_swtich_close">Permita que este app sincronize contatos para poder adicioná-los como contatos do sistema</string>
     <string name="today">Hoje</string>

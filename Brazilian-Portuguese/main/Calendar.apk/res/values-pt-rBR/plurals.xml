@@ -316,8 +316,8 @@
         <item quantity="one">%d evento em andamento</item>
     </plurals>
     <plurals name="widget_normal_agenda_next_minutes">
-        <item quantity="other">Próximo evento em %d minutos</item>
-        <item quantity="one">Próximo evento em %d minuto</item>
+        <item quantity="other">Próximo evento em %d min</item>
+        <item quantity="one">Próximo evento em %d min</item>
     </plurals>
     <plurals name="widget_normal_agenda_tomorrow_total">
         <item quantity="other">%d eventos amanhã</item>
