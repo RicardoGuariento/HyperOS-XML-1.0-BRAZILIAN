@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d mins</item>
+        <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="car_map_hour">
@@ -46,7 +46,7 @@
         <item quantity="one">%d m</item>
     </plurals>
     <plurals name="car_map_minute">
-        <item quantity="other">%d mins</item>
+        <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="circulate_audio_group_subtitle_format">

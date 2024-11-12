@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">em %d mins</item>
+        <item quantity="other">em %d min</item>
         <item quantity="one">em 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="birthday_format">
@@ -82,7 +82,7 @@
         <item quantity="one">%1$d hora</item>
     </plurals>
     <plurals name="duration_unit_minute_format">
-        <item quantity="other">%1$d mins</item>
+        <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="duration_unit_second_format">
@@ -165,11 +165,11 @@
         <item quantity="one">Próximo período em %1$d dia</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%1$d mins</item>
+        <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="minutes_ago">
-        <item quantity="other">%1$d mins atrás</item>
+        <item quantity="other">%1$d min atrás</item>
         <item quantity="one">%1$d min atrás</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">

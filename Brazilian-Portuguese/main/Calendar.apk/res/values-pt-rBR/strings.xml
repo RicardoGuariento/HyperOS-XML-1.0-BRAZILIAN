@@ -1030,11 +1030,9 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="preferences_default_reminder_title">Hora padrão de lembretes</string>
     <string name="preferences_home_tz_title">Fuso horário local</string>
     <string name="preferences_notification_ringtone_title">Som</string>
-    <string name="preferences_popup_alert_smart_summary_new">Eventos urgentes são eventos com um horário exato</string>
-    <string name="preferences_popup_alert_title">Lembretes pop-up</string>
-    <string name="preferences_show_indic_date_title">Mostrar Agenda Índica</string>
     <string name="preferences_popup_alert_smart_summary_new">Eventos sensíveis ao tempo são os eventos com hora exata</string>
     <string name="preferences_popup_alert_title">Alertas pop-up</string>
+    <string name="preferences_show_indic_date_title">Mostrar Agenda Índica</string>
     <string name="preferences_title">Agenda</string>
     <string name="preferences_use_home_tz_descrip">Mostrar a agenda e o horário de eventos em seu fuso horário doméstico quando em viagens</string>
     <string name="preferences_use_home_tz_title">Usar fuso horário local</string>
@@ -1073,7 +1071,6 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="premission_read_phone_state">Acessar informações do dispositivo</string>
     <string name="premission_read_write_storage">Armazenar</string>
     <string name="premission_read_write_storage_new">Acessar armazenamento</string>
-    <string name="privacy_and_permissions">Privacidade e permissões</string>
     <string name="productivity_add_event">Criar evento</string>
     <string name="productivity_cannot_move_event">"Não é possível mover este evento"</string>
     <string name="productivity_move_event_hint">Pressione e segure um evento para movê-lo para outra data</string>
@@ -1169,10 +1166,9 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="set_reminder">Definir lembrete</string>
     <string name="service_rejected_temporarily">Certificado rejeitado temporariamente</string>
     <string name="setting">Configurações</string>
-    <string name="setting_about_calendar_version">Versão da Agenda:</string>
+    <string name="setting_about_calendar_version">Versão da Agenda: %1$s-%2$s</string>
     <string name="setting_about_imei">IMEI:</string>
     <string name="setting_about_miui_version">Versão do OS:</string>
-    <string name="setting_about_calendar_version">Versão da Agenda: %1$s-%2$s</string>
     <string name="setting_about_summary">Versão:</string>
     <string name="setting_accounts">Contas da agenda</string>
     <string name="setting_chinese_calendar">Calendário Chinês</string>

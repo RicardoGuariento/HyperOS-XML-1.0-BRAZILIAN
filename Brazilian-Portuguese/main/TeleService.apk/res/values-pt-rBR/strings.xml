@@ -682,9 +682,9 @@ Seleção"</string>
     <string name="cfnrc_title">Encaminhar quando inacessível</string>
     <string name="cfnrc_title_cta">Encaminhar quando inacessível</string>
     <string name="cfnry_time_fifteen_sec">%d s</string>
-    <string name="cfnry_time_five_sec">%d seg</string>
+    <string name="cfnry_time_five_sec">%d s</string>
     <string name="cfnry_time_setting_title">Definir tempo de espera</string>
-    <string name="cfnry_time_ten_sec">%d seg</string>
+    <string name="cfnry_time_ten_sec">%d s</string>
     <string name="cfnry_time_thirty_sec">%d s</string>
     <string name="cfnry_time_twenty_five_sec">%d s</string>
     <string name="cfnry_time_twenty_sec">%d s</string>
@@ -2424,7 +2424,7 @@ Cancelar serviços agora?"</string>
     <string name="satellite_signal_boost_toast">O amplificador de sinal será desligado quando as comunicações via satélite estiverem desligadas</string>
     <string name="satellite_start">Entendi</string>
     <string name="satellite_start_battery">Entendi</string>
-    <string name="satellite_thermal_hangup_delay">O dispositivo está superaquecido. A chamada terminará em %d seg. Espere seu dispositivo esfriar.</string>
+    <string name="satellite_thermal_hangup_delay">O dispositivo está superaquecido. A chamada terminará em %d s. Espere seu dispositivo esfriar.</string>
     <string name="satellite_tiantong_setting">Comunicações do Tiantong Satellite</string>
     <string name="satellite_use_message">"Em áreas sem sinal terrestre regular, como montanhas, desertos e oceanos, ou em áreas onde os sistemas de comunicação terrestre foram danificados por desastres naturais, seu dispositivo móvel pode se conectar a satélites para enviar e receber SMS, fazer e receber chamadas e buscar assistência desde que você esteja em uma área onde não haja obstruções por %d° ao sul."</string>
     <string name="satellite_use_phone_message">"Depois que o Modo satélite estiver ativado, você poderá fazer e receber chamadas via satélite. Siga as instruções na tela para garantir a qualidade da chamada e manter a conexão via satélite durante a chamada. O viva-voz estará ativado por padrão. Fique parado e não mude a posição do seu dispositivo durante a chamada para evitar interrupções."</string>

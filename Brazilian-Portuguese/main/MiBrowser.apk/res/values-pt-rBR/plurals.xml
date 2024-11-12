@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d mins</item>
+        <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="adblock_notification">
@@ -94,15 +94,15 @@
         <item quantity="one">Jogue %1$d vez, %2$s</item>
     </plurals>
     <plurals name="festival_news_second_task_tips">
-        <item quantity="other">Navegue por %1$d segs, %2$s</item>
-        <item quantity="one">Navegue por %1$d seg, %2$s</item>
+        <item quantity="other">Navegue por %1$d s, %2$s</item>
+        <item quantity="one">Navegue por %1$d s, %2$s</item>
     </plurals>
     <plurals name="festival_news_task_gifts">
         <item quantity="other">Ganhe %2$d caixas de presente</item>
         <item quantity="one">Ganhe %2$d caixa de presente</item>
     </plurals>
     <plurals name="festival_news_task_tips">
-        <item quantity="other">Navegue por %1$d mins, %2$s</item>
+        <item quantity="other">Navegue por %1$d min, %2$s</item>
         <item quantity="one">Navegue por %1$d min, %2$s</item>
     </plurals>
     <plurals name="festival_task_finish">

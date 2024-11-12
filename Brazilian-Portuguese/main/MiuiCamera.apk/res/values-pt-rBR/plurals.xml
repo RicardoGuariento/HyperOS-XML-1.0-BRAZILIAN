@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d mins</item>
+        <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="accessibility_auto_night_tip">
@@ -98,8 +98,8 @@
         <item quantity="one">%1$d segundo</item>
     </plurals>
     <plurals name="friend_mode_display_first_dialog">
-        <item quantity="other">Timer ativado (%1$d segs). As fotos serão transferidas para este dispositivo.</item>
-        <item quantity="one">Timer ativado (%1$d seg). As fotos serão transferidas para este dispositivo.</item>
+        <item quantity="other">Timer ativado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
+        <item quantity="one">Timer ativado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>

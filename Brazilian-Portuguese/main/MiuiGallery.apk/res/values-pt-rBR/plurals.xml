@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d mins</item>
+        <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
@@ -66,24 +66,24 @@
         <item quantity="one">Aguarde %s hora</item>
     </plurals>
     <plurals name="ai_create_remain_time_minute">
-        <item quantity="other">Aguarde %s mins</item>
+        <item quantity="other">Aguarde %s min</item>
         <item quantity="one">Aguarde %s min</item>
     </plurals>
     <plurals name="ai_creation_wait_message_time">
-        <item quantity="other">Criando… | Aguarde: %d segs</item>
-        <item quantity="one">Criando… | Aguarde: %d seg</item>
+        <item quantity="other">Criando… | Aguarde: %d s</item>
+        <item quantity="one">Criando… | Aguarde: %d s</item>
     </plurals>
     <plurals name="ai_creation_wait_queue">
         <item quantity="other">Criando… | %d pessoas na sua frente</item>
         <item quantity="one">Criando… | %d pessoa na sua frente</item>
     </plurals>
     <plurals name="ai_creation_wait_time_minute">
-        <item quantity="other">Aguarde %d mins</item>
+        <item quantity="other">Aguarde %d min</item>
         <item quantity="one">Aguarde %d min</item>
     </plurals>
     <plurals name="ai_enhance_bar_waiting">
-        <item quantity="other">Criando… | %d segs restantes</item>
-        <item quantity="one">Criando… | %d seg restante</item>
+        <item quantity="other">Criando… | %d s restantes</item>
+        <item quantity="one">Criando… | %d s restante</item>
     </plurals>
     <plurals name="ai_hour">
         <item quantity="other">%s horas</item>
@@ -94,7 +94,7 @@
         <item quantity="one">Uma pessoa pode criar até %d imagem IA.</item>
     </plurals>
     <plurals name="ai_minute">
-        <item quantity="other">%d mins</item>
+        <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="ai_search_picker_hint_text">
@@ -106,8 +106,8 @@
         <item quantity="one">"A duração do vídeo não pode exceder %d segundo"</item>
     </plurals>
     <plurals name="ai_select_photo_time_count">
-        <item quantity="other">Selecionando fotos (%d segs restantes)…</item>
-        <item quantity="one">Selecionando fotos (%d seg restantes)…</item>
+        <item quantity="other">Selecionando fotos (%d s restantes)…</item>
+        <item quantity="one">Selecionando fotos (%d s restantes)…</item>
     </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Compartilhado com %d pessoas</item>
@@ -162,7 +162,7 @@
         <item quantity="one">%d item é muito grande para fazer backup</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">Será retomada em %d mins</item>
+        <item quantity="other">Será retomada em %d min</item>
         <item quantity="one">Será retomada em %d min</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">

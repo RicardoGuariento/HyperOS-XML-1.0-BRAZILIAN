@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d mins</item>
+        <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="add_game_notification_title">
@@ -997,8 +997,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%1$s | Retornou um SMS vazio %2$d vez</item>
     </plurals>
     <plurals name="power_20s_shutdown">
-        <item quantity="other">O dispositivo desligará em %d seg</item>
-        <item quantity="one">O dispositivo desligará em %d seg</item>
+        <item quantity="other">O dispositivo desligará em %d s</item>
+        <item quantity="one">O dispositivo desligará em %d s</item>
     </plurals>
     <plurals name="power_battery_hour">
         <item quantity="other">%s horas</item>
@@ -1293,7 +1293,7 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">Atualização disponível para %d app.</item>
     </plurals>
     <plurals name="summary_condition_lock_screen_format">
-        <item quantity="other">Após a tela ser bloqueada por %d mins</item>
+        <item quantity="other">Após a tela ser bloqueada por %d min</item>
         <item quantity="one">Após a tela ser bloqueada por %d min</item>
     </plurals>
     <plurals name="summary_flow_verify">
@@ -1301,11 +1301,11 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">As estatísticas de uso de dados com a operadora não sincronizam há %d dia</item>
     </plurals>
     <plurals name="summary_result_absorbed_time_format">
-        <item quantity="other">"%d mins"</item>
+        <item quantity="other">"%d min"</item>
         <item quantity="one">"%d min"</item>
     </plurals>
     <plurals name="summary_result_lock_screen_format">
-        <item quantity="other">Bloquear tela após %d mins</item>
+        <item quantity="other">Bloquear tela após %d min</item>
         <item quantity="one">Bloquear tela após %d min</item>
     </plurals>
     <plurals name="system_check_content">

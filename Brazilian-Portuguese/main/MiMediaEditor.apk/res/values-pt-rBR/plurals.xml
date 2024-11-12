@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d mins</item>
+        <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="file_type_detail_count">
@@ -189,7 +189,7 @@
         <item quantity="one">%1$d filtro importado com sucesso</item>
     </plurals>
     <plurals name="vlog_import_minutes_limit">
-        <item quantity="other">"A duração excede %d mins agora. "</item>
+        <item quantity="other">"A duração excede %d min agora. "</item>
         <item quantity="one">"A duração excede %d min agora. "</item>
     </plurals>
     <plurals name="vlog_import_minutes_no_support_nums">
@@ -197,7 +197,7 @@
         <item quantity="one">%d vídeo ignorado.</item>
     </plurals>
     <plurals name="vlog_no_support_duration">
-        <item quantity="other">"Não foi possível importar. A duração excede %d mins."</item>
+        <item quantity="other">"Não foi possível importar. A duração excede %d min."</item>
         <item quantity="one">"Não foi possível importar. A duração excede %d min."</item>
     </plurals>
     <plurals name="vlog_talkback_crop_scale_value">

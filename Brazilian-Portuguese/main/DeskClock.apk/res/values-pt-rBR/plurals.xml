@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d mins</item>
+        <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
@@ -129,16 +129,16 @@
         <item quantity="one">Disparar %1$s vez</item>
     </plurals>
     <plurals name="snooze_duration_desc">
-        <item quantity="other">A cada %1$s mins, disparar %2$s vezes</item>
+        <item quantity="other">A cada %1$s min, disparar %2$s vezes</item>
         <item quantity="one">A cada %1$s min, disparar %2$s vez</item>
     </plurals>
     <plurals name="snooze_duration_min">
-        <item quantity="other">A cada %1$s mins</item>
+        <item quantity="other">A cada %1$s min</item>
         <item quantity="one">A cada %1$s min</item>
     </plurals>
     <plurals name="snooze_duration_summary">
-        <item quantity="other">O alarme disparará %2$s vezes (%1$s mins. cada)</item>
-        <item quantity="one">O alarme disparará %2$s vez (%1$s min.)</item>
+        <item quantity="other">O alarme disparará %2$s vezes (%1$s min cada)</item>
+        <item quantity="one">O alarme disparará %2$s vez (%1$s min)</item>
     </plurals>
     <plurals name="snooze_duration_minute">
         <item quantity="other">A cada %1$d minutos</item>
@@ -149,7 +149,7 @@
         <item quantity="one">Disparar %1$d vez</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Soneca por %d mins</item>
+        <item quantity="other">Soneca por %d min</item>
         <item quantity="one">Soneca por %d min</item>
     </plurals>
     <plurals name="stopwatch_running_notification_day">

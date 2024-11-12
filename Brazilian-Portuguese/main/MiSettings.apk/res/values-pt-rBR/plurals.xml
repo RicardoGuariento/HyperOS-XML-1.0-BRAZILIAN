@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d mins</item>
+        <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="category_limit_notify_content">
@@ -225,8 +225,8 @@
         <item quantity="one">Agora não (%d s)</item>
     </plurals>
     <plurals name="pcl_install_check_count_down">
-        <item quantity="other">Contagem regressiva: %d segs</item>
-        <item quantity="one">Contagem regressiva: %d seg</item>
+        <item quantity="other">Contagem regressiva: %d s</item>
+        <item quantity="one">Contagem regressiva: %d s</item>
     </plurals>
     <plurals name="pcl_mixed_recording_incorrect_too_short">
         <item quantity="other">Insira pelo menos %d caracteres</item>
@@ -285,7 +285,7 @@
         <item quantity="one">Descanse por %d minuto</item>
     </plurals>
     <plurals name="steady_on_screen_time_pick">
-        <item quantity="other">%d mins</item>
+        <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="steady_on_screen_tip_title">

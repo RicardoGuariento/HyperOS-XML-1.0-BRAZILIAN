@@ -19,14 +19,14 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d mins</item>
+        <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
+        <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
@@ -79,7 +79,7 @@ Animações mais longas serão interrompidas neste ponto."</item>
         <item quantity="one">Meta de atividade: %1$s minuto</item>
     </plurals>
     <plurals name="health_chart_sport_time_schedule_format">
-        <item quantity="other">%1$s/%2$s mins</item>
+        <item quantity="other">%1$s/%2$s min</item>
         <item quantity="one">%1$s/%2$s min</item>
     </plurals>
     <plurals name="health_chart_stand_count_schedule_format_desc">
