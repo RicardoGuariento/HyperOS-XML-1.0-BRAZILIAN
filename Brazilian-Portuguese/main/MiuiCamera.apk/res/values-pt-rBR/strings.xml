@@ -439,7 +439,7 @@ e ajustar preferências automaticamente"</string>
     <string name="audio_gain_mutex_all_tip">"O ajuste de volume não funciona com Áudio dimensional imersivo ou redução inteligente de ruído"</string>
     <string name="audio_gain_mutex_nr_tip">"O ajuste de volume não funciona com redução inteligente de ruído"</string>
     <string name="audio_map_summary_tip">Monitore o volume dos canais esquerdo e direito em tempo real e ajuste-os usando o controle deslizante</string>
-    <string name="audio_track_mutex_truecolor_setting_tips">"O Rastreamento de origem não é compatível com vídeos Dolby Vision/8K/%sFPS"</string>
+    <string name="audio_track_mutex_truecolor_setting_tips">"O Rastreamento de origem não é compatível com vídeos Dolby Vision/8K/%s FPS"</string>
     <string name="audio_track_mutex_truecolor_setting_tips_new">"O Rastreamento de origem não é compatível com vídeos Dolby Vision/8K/alta taxa de quadros"</string>
     <string name="audio_volume_overhigh_tip">O som está muito alto. Reduza o volume para melhores resultados.</string>
     <string name="auto_hibernation_enter_tip">Prestes a desligar a tela…</string>
@@ -629,8 +629,8 @@ e ajustar preferências automaticamente"</string>
     <string name="cclock_intro_img_text_709">Padrão</string>
     <string name="cclock_intro_img_text_cclock">MasterCinema</string>
     <string name="cclock_intro_title">MasterCinema</string>
-    <string name="cclock_mutex_4k120fps">"O MasterCinema não é suportado para vídeos 4K/%dFPS"</string>
-    <string name="cclock_mutex_4k60fps">"O MasterCinema não é suportado para vídeos 4K/60FPS"</string>
+    <string name="cclock_mutex_4k120fps">"O MasterCinema não é suportado para vídeos 4K/%d FPS"</string>
+    <string name="cclock_mutex_4k60fps">"O MasterCinema não é suportado para vídeos 4K/60 FPS"</string>
     <string name="cclock_mutex_8k">"O MasterCinema não é suportado para vídeos 8K"</string>
     <string name="cclock_mutex_sat">O MasterCinema só é suportado na câmera principal</string>
     <string name="cclock_tip_hdr_disable">"O HDR não é suportado durante o uso do MasterCinema"</string>
@@ -857,7 +857,7 @@ e ajustar preferências automaticamente"</string>
     <string name="connect_view_sub_title_monitor">Câmeras conectadas</string>
     <string name="connect_view_sub_title_new">"A configuração multicâmera usa mais largura de banda para reduzir a latência.
 Recomendamos conectar-se a redes Wi-Fi de %s GHz que suportem o padrão de sexta geração."</string>
-    <string name="connect_view_sub_title_new2" formatted="false">"A configuração multicâmera usa mais largura de banda para reduzir a latência. Recomendamos conectar-se a redes Wi-Fi de %1s GHz que suportem o padrão de sexta geração. 4K %2sFPS não é compatível."</string>
+    <string name="connect_view_sub_title_new2" formatted="false">"A configuração multicâmera usa mais largura de banda para reduzir a latência. Recomendamos conectar-se a redes Wi-Fi de %1s GHz que suportem o padrão de sexta geração. 4K %2s FPS não é compatível."</string>
     <string name="connect_view_title">Configuração multicâmera</string>
     <string name="connect_view_toast_start_error_camera">"Não foi possível iniciar a câmera. Tente novamente."</string>
     <string name="connect_view_toast_start_error_monitor">"Não foi possível iniciar o monitor. Tente novamente."</string>
@@ -1801,9 +1801,9 @@ fiquem maiores nas fotos"</string>
     <string name="module_name_super_moon">Superlua</string>
     <string name="module_name_video">Vídeo</string>
     <string name="module_name_vlog">"VLOG"</string>
-    <string formatted="false" name="moiton_detection_960_fps_video_tip">Os vídeos %1dFPS podem ter até %2d segundos de duração</string>
+    <string formatted="false" name="moiton_detection_960_fps_video_tip">Os vídeos %1d FPS podem ter até %2d segundos de duração</string>
     <string name="moiton_detection_tip">Detectando movimento… Mantenha o dispositivo estável.</string>
-    <string name="moiton_detection_video_3840fps_3840">%dFPS</string>
+    <string name="moiton_detection_video_3840fps_3840">%d FPS</string>
     <string name="moiton_detection_video_electric_quantity_tip">Carregue seu dispositivo para poder usar este recurso</string>
     <string name="moiton_detection_video_temperature_stop_tip">Seu dispositivo está superaquecido. A gravação parará em %d segundos.</string>
     <string name="moiton_detection_video_temperature_tip">Resfrie seu dispositivo para poder usar esse recurso</string>
@@ -1894,7 +1894,7 @@ fiquem maiores nas fotos"</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
     <string name="mtrl_timepicker_cancel">Cancelar</string>
     <string name="mtrl_timepicker_confirm">"OK"</string>
-    <string name="mutex_hdr_quality" formatted="false">"HDR não é compatível com %1s/%2sFPS"</string>
+    <string name="mutex_hdr_quality" formatted="false">"HDR não é compatível com %1s/%2s FPS"</string>
     <string name="multi_window_mode_not_supported">"A câmera não pode ser usada no modo multi janela"</string>
     <string name="network_access_user_notice_agree">Aceitar</string>
     <string name="network_access_user_notice_message_live_video"><Data>"A Câmera precisa se conectar à internet para fornecer efeitos, música e outros recursos para vídeos curtos.&lt;br/>&lt;br/>Ao tocar em \"Aceitar\" abaixo, você estará aceitando o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a>, e permitindo que a Câmera conecte-se à internet."</Data></string>
@@ -2150,9 +2150,9 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_delay_capture_10s">Atraso de %d s</string>
     <string name="pref_camera_delay_capture_3s">Atraso de %d s</string>
     <string name="pref_camera_delay_capture_5s">Atraso de %d s</string>
-    <string name="pref_camera_delay_capture_entry_10s">10s de atraso</string>
-    <string name="pref_camera_delay_capture_entry_3s">3s de atraso</string>
-    <string name="pref_camera_delay_capture_entry_5s">5s de atraso</string>
+    <string name="pref_camera_delay_capture_entry_10s">10 s de atraso</string>
+    <string name="pref_camera_delay_capture_entry_3s">3 s de atraso</string>
+    <string name="pref_camera_delay_capture_entry_5s">5 s de atraso</string>
     <string name="pref_camera_delay_capture_entry_audio">Áudio</string>
     <string name="pref_camera_delay_capture_title">"Timer"</string>
     <string name="pref_camera_device_watermark_title">"Marca d'água do dispositivo"</string>
@@ -3013,9 +3013,9 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="tomorrow">Amanhã</string>
     <string name="too_low_battery">Bateria fraca</string>
     <string name="top_menu_hint_text">Deslize para baixo para abrir o menu</string>
-    <string name="track_focus_mutex_hdr10plus_8k_setting_tips">"O Foco de rastreamento de movimento não é compatível com vídeos HDR10+/8K/60FPS"</string>
-    <string name="track_focus_mutex_hdr10plus_setting_tips">"O Foco de rastreamento de movimento não é compatível com vídeos HDR10+/60FPS"</string>
-    <string name="track_focus_mutex_truecolor_setting_tips">"O Foco de rastreamento de movimento não é compatível com vídeos Dolby Vision/8K/60FPS"</string>
+    <string name="track_focus_mutex_hdr10plus_8k_setting_tips">"O Foco de rastreamento de movimento não é compatível com vídeos HDR10+/8K/60 FPS"</string>
+    <string name="track_focus_mutex_hdr10plus_setting_tips">"O Foco de rastreamento de movimento não é compatível com vídeos HDR10+/60 FPS"</string>
+    <string name="track_focus_mutex_truecolor_setting_tips">"O Foco de rastreamento de movimento não é compatível com vídeos Dolby Vision/8K/60 FPS"</string>
     <string name="track_focus_mutex_truecolor_setting_tips_new">"O Foco de rastreamento de movimento não é compatível com vídeos Dolby Vision/8K/alta taxa de quadros"</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
@@ -3168,8 +3168,8 @@ Você pode usar os botões abaixo para editar texto, visualizar a reprodução e
     <string name="video_prompter_redo_description">Refazer</string>
     <string name="video_prompter_shrink_description">Minimizar</string>
     <string name="video_prompter_undo_description">Desfazer</string>
-    <string name="video_quality_audio_track_conflict_toast">"O Rastreamento de origem não é compatível com vídeos de 8K/%sFPS"</string>
-    <string name="video_quality_track_focus_conflict_toast">"O Foco de rastreamento de movimento não é compatível com vídeos de 8K/60FPS"</string>
+    <string name="video_quality_audio_track_conflict_toast">"O Rastreamento de origem não é compatível com vídeos de 8K/%s FPS"</string>
+    <string name="video_quality_track_focus_conflict_toast">"O Foco de rastreamento de movimento não é compatível com vídeos de 8K/60 FPS"</string>
     <string name="video_reach_size_limit">Limite de tamanho atingido.</string>
     <string name="video_shortcut_short">Vídeo</string>
     <string name="video_tag_flag_title">Marcar</string>

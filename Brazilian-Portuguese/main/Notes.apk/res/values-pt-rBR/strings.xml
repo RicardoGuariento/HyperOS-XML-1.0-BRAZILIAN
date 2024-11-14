@@ -65,6 +65,8 @@
     <string name="ai_failed">"Não foi possível gerar. Tente novamente."</string>
     <string name="ai_feature_disabled">Você violou os padrões da comunidade várias vezes. Este recurso não está mais disponível.</string>
     <string name="ai_generate_stop_button">Parar</string>
+    <string name="ai_generating_check">Revisando o texto…</string>
+    <string name="ai_generating_stop_check">Parar</string>
     <string name="ai_generating_title">Gerando…</string>
     <string name="ai_insert_original_text">Inserir original</string>
     <string name="ai_invitation_text_agree">Aceitar</string>
@@ -95,6 +97,9 @@
     <string name="ai_text_widget_summary">Resumo</string>
     <string name="ai_text_widget_summary_settings">Melhore sua escrita e gere texto a qualquer hora e em qualquer lugar</string>
     <string name="ai_text_widget_title">Escrita IA</string>
+    <string name="ai_title_stop_extension">Extensão interrompida</string>
+    <string name="ai_title_stop_polish">Polimento interrompido</string>
+    <string name="ai_title_stop_summary">Resumo interrompido</string>
     <string name="ai_translate">Tradução IA</string>
     <string name="ai_unsupport_directive_title">"Não é possível executar este comando"</string>
     <string name="ai_watermark">Este conteúdo foi gerado por IA e é fornecido apenas para a sua referência.</string>
