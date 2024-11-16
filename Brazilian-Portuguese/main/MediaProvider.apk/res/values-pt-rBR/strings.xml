@@ -51,6 +51,9 @@
     <string name="deselect">Desmarcar</string>
     <string name="deselect_all">Desmarcar</string>
     <string name="deselected">Desmarcado</string>
+    <string name="dialog_button_text">Entendi</string>
+    <string name="dialog_error_message">Tente novamente mais tarde. Suas fotos estarão disponíveis assim que o problema for resolvido.</string>
+    <string name="dialog_error_title">"Não é possível carregar algumas fotos"</string>
     <string name="error_a11y_label">Erro: inválido</string>
     <string name="error_icon_content_description">Erro</string>
     <string name="exo_controls_cc_disabled_description">Ativar legendas</string>
@@ -125,6 +128,9 @@
     <string name="material_timepicker_select_time">Selecione o horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
+    <string name="mtrl_checkbox_state_description_checked">Marcada</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente marcada</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Desmarcada</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
@@ -134,11 +140,13 @@
     <string name="mtrl_picker_confirm">"OK"</string>
     <string name="mtrl_picker_date_header_title">Selecione a data</string>
     <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
-    <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Data de término %1$s</string>
     <string name="mtrl_picker_invalid_format">Formato inválido.</string>
     <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
     <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Ir para o ano %1$d</string>
     <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$s</string>
     <string name="mtrl_picker_out_of_range">Fora do intervalo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
@@ -147,12 +155,14 @@
     <string name="mtrl_picker_range_header_title">Selecione um intervalo</string>
     <string name="mtrl_picker_range_header_unselected">Data de início – Data de término</string>
     <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_start_date_description">Data de início %1$s</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
     <string name="mtrl_picker_text_input_day_abbr">"dia"</string>
     <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
     <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
+    <string name="mtrl_picker_today_description">Hoje %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção diária</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
@@ -161,6 +171,7 @@
     <string name="not_selected">não selecionado</string>
     <string name="not_set">Não definido</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
+    <string name="permdesc_accessMediaOwnerPackageName">Permite que o app acesse os nomes dos pacotes proprietários de todos os arquivos de mídia acessíveis.</string>
     <string name="permission_delete_audio">{count, plural, =1 {Permitir ^1 excluir este arquivo de áudio?} other {Permitir ^1 excluir ^2 arquivos de áudio?} }</string>
     <string name="permission_delete_generic">{count, plural, =1 {Permitir ^1 excluir este item?} other {Permitir que ^1 excluir ^2 itens?} }</string>
     <string name="permission_delete_image">{count, plural, =1 {Permitir ^1 excluir esta foto?} other {Permitir que ^1 excluir ^2 fotos?} }</string>
@@ -201,15 +212,19 @@
     <string name="permission_write_generic">{count, plural, =1 {Permitir ^1 modificar este item?} other {Permitir ^1 modificar ^2 itens?} }</string>
     <string name="permission_write_image">{count, plural, =1 {Permitir ^1 modificar esta foto?} other {Permitir ^1 modificar ^2 fotos?} }</string>
     <string name="permission_write_video">{count, plural, =1 {Permitir ^1 modificar este vídeo?} other {Permitir ^1 modificar ^2 vídeos?} }</string>
+    <string name="permlab_accessMediaOwnerPackageName">Acessar o nome do pacote do proprietário da mídia</string>
+    <string name="picker_add_button_allow_none_option">Não permitir nenhum</string>
     <string name="picker_add_button_multi_select">Adicionar (^1)</string>
     <string name="picker_add_button_multi_select_permissions">Permitir (^1)</string>
     <string name="picker_album_item_count">{count, plural, =1 {^1 item} other {^1 itens} }</string>
     <string name="picker_album_media_empty_message">Não há fotos ou vídeos compatíveis</string>
     <string name="picker_albums">Álbuns</string>
     <string name="picker_albums_empty_message">Nenhum álbum</string>
-    <string name="picker_app_label">Mídia</string>
+    <string name="picker_app_label">Seletor de mídia</string>
     <string name="picker_banner_cloud_account_changed_desc">As fotos de %1$s agora estão incluídas aqui</string>
     <string name="picker_banner_cloud_account_changed_title">Conta %1$s atualizada</string>
+    <string name="picker_banner_cloud_change_account_button">Alterar conta</string>
+    <string name="picker_banner_cloud_choose_account_button">Alterar conta</string>
     <string name="picker_banner_cloud_choose_account_desc">Para incluir fotos de %1$s aqui, escolha uma conta no app</string>
     <string name="picker_banner_cloud_choose_account_title">Escolha a conta %1$s</string>
     <string name="picker_banner_cloud_choose_app_button">Escolha o app</string>
@@ -231,20 +246,26 @@
     <string name="picker_gif">"GIF"</string>
     <string name="picker_header_permissions">Selecione itens para permitir acesso</string>
     <string name="picker_item_content_desc">%1$s tirada em %2$s</string>
+    <string name="picker_loading_photos_message">Obtendo todas as suas fotos</string>
     <string name="picker_motion_photo">Foto em movimento</string>
     <string name="picker_motion_photo_text">Foto em movimento</string>
     <string name="picker_mute_video">Silenciar vídeo</string>
     <string name="picker_pause_video">Pausar</string>
     <string name="picker_personal_profile">Mudar para pessoal</string>
+    <string name="picker_personal_profile_label">Pessoal</string>
     <string name="picker_photo">Foto</string>
     <string name="picker_photos">Fotos</string>
     <string name="picker_photos_empty_message">Sem fotos ou vídeos</string>
     <string name="picker_play_video">Reproduzir</string>
     <string name="picker_preview">Prévia</string>
     <string name="picker_privacy_message">Este app só pode acessar as fotos que você selecionar</string>
+    <string name="picker_profile_admin_msg">Não é permitido acessar dados de %1$s de um app %2$s</string>
     <string name="picker_profile_admin_msg_from_personal">Não é permitido acessar dados do perfil de trabalho de um app pessoal</string>
     <string name="picker_profile_admin_msg_from_work">Não é permitido acessar dados pessoais de um app de trabalho</string>
     <string name="picker_profile_admin_title">Bloqueado pelo seu administrador</string>
+    <string name="picker_profile_paused_msg">Para abrir %1$s fotos, ative seus apps %2$s e tente novamente.</string>
+    <string name="picker_profile_paused_title">%s apps estão pausados</string>
+    <string name="picker_profile_switch_message">Mudar para %s</string>
     <string name="picker_profile_work_paused_msg">Para abrir fotos do perfil de trabalho, ative seus apps do perfil de trabalho e tente novamente.</string>
     <string name="picker_profile_work_paused_title">Os apps de trabalho estão pausados</string>
     <string name="picker_settings">Apps de mídia em nuvem</string>
@@ -254,11 +275,16 @@
     <string name="picker_settings_system_settings_menu_title">App de mídia em nuvem</string>
     <string name="picker_settings_title">App de mídia em nuvem</string>
     <string name="picker_settings_toast_error">Não foi possível alterar o app de mídia na nuvem neste momento.</string>
+    <string name="picker_sync_notification_channel">Seletor de mídia</string>
+    <string name="picker_sync_notification_text">Sincronizando mídia…</string>
+    <string name="picker_sync_notification_title">Seletor de mídia</string>
     <string name="picker_unmute_video">Desmutar vídeo</string>
     <string name="picker_video_item_content_desc">Vídeo gravado em %1$s com duração %2$s</string>
     <string name="picker_view_selected">Ver selecionado</string>
     <string name="picker_work_profile">Mudar para o trabalho</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+    <string name="preloading_cancel_button">Cancelar</string>
+    <string name="preloading_dialog_title">Preparando sua mídia selecionada</string>
     <string name="preloading_progress_message">%1$d de %2$d pronto</string>
     <string name="recent">Recentes</string>
     <string name="ringtone_default">Toque padrão</string>
@@ -273,6 +299,7 @@
     <string name="selected">Selecionado</string>
     <string name="settings_label">Configurações</string>
     <string name="settingslib_category_personal">Pessoal</string>
+    <string name="settingslib_category_private">Privado</string>
     <string name="settingslib_category_work">Trabalho</string>
     <string name="sound_name_awaken">Despertar</string>
     <string name="sound_name_bounce">Salto</string>
@@ -283,6 +310,7 @@
     <string name="sound_name_rise">Subir</string>
     <string name="sound_name_sway">Balançar</string>
     <string name="sound_name_wag">Abanar</string>
+    <string name="side_sheet_accessibility_pane_title">Página lateral</string>
     <string name="storage_description">Armazenamento local</string>
     <string name="transcode_alert_channel">Alertas de transcodificação nativa</string>
     <string name="transcode_cancel">Cancelar</string>

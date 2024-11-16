@@ -255,7 +255,7 @@ Deseja sair agora?} }"</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="already_auto">Já está em seleção automática.</string>
     <string name="always_enable_mms">Sempre receber MMS</string>
-    <string name="always_enable_mms_summary">Sempre irá receber MMS, mesmo com os dados móveis desativados.</string>
+    <string name="always_enable_mms_summary">Receba MMS mesmo quando os dados móveis estiverem desligados</string>
     <string name="am">"AM"</string>
     <string name="ambulance_type_description">Ambulância</string>
     <string name="animator_duration_scale_title">Escala de duração da animação</string>
@@ -924,7 +924,7 @@ Seleção"</string>
     <string name="dialerKeyboardHintText">Use o teclado para discar</string>
     <string name="dialog_alert_title">Atenção!</string>
     <string name="dialog_cancel">Cancelar</string>
-    <string name="dialog_network_priority_title">Prioridade</string>
+    <string name="dialog_network_priority_title">Rede prioritária</string>
     <string name="dialog_ota_change_number_fail">Não foi possível alterar o número do telefone. Se este erro ocorrer ao tentar novamente, contate sua operadora."</string>
     <string name="dialog_ota_change_number_lgu">Baixar o USIM agora?</string>
     <string name="dialog_ota_change_number_lgu_roaming">Não é possível alterar números de telefone enquanto estiver no exterior.</string>
@@ -948,9 +948,8 @@ Seleção"</string>
     <string name="disable_cfb_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando o seu dispositivo está ocupado.</string>
     <string name="disable_cfnrc_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando o seu dispositivo está inacessível.</string>
     <string name="disable_cfnry_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando a ligação não for atendida.</string>
-    <string name="disable_esim_dialog_summary">"SIM %s será ativado se você desativar o eSIM agora.
-Desativar o eSIM?"</string>
-    <string name="disable_esim_dialog_title">Desativando eSIM</string>
+    <string name="disable_esim_dialog_summary">"Se você desativar o eSIM, não poderá usá-lo. Desativar mesmo assim?"</string>
+    <string name="disable_esim_dialog_title">Desativar eSIM</string>
     <string name="disable_esim_error_toast_message">"Não foi possível desativar o eSIM"</string>
     <string name="disable_esim_progress_activating_message">Desativando o eSIM…</string>
     <string name="disable_fdn">Desativar FDN</string>
@@ -981,7 +980,7 @@ Desativar o eSIM?"</string>
     <string name="dtmf_tone_entries_normal">"Normal"</string>
     <string name="dtmf_tones_summary">Definir duração dos tons DTMF</string>
     <string name="dtmf_tones_title">Tons DTMF</string>
-    <string name="dual_4g_switch_summary">Permitir conectividade 4G nos dois slots SIM.</string>
+    <string name="dual_4g_switch_summary">Permite a conectividade 4G nos dois slots SIM</string>
     <string name="dual_4g_switch_title">"Dual 4G"</string>
     <string name="dual_sim_smart_call_forward_dialog_message">Para que esse recurso funcione corretamente, o encaminhamento de chamadas deve estar ativado em ambos os cartões SIM. Verifique com sua operadora detalhes sobre opções e tarifas de encaminhamento de chamadas.</string>
     <string name="dual_sim_smart_call_forward_failed">"Não foi possível configurar"</string>
@@ -1049,9 +1048,8 @@ Desativar o eSIM?"</string>
     <string name="enable_disable_stock_quotes">Cotação de ações</string>
     <string name="enable_disable_technology_news">Notícias de tecnologia</string>
     <string name="enable_dual_4g_if_dual_ct">Preferir redes 4G para ambos os cartões SIM para usar VoLTE no cartão SIM secundário quando dois cartões da China Telecom estiverem instalados.</string>
-    <string name="enable_dual_4g_prompt_when_turn_on_volte">O VoLTE requer uma conexão 4G em ambos os cartões SIM. Ativar o Dual 4G agora?</string>
-    <string name="enable_esim_dialog_summary">"SIM %s será ativado se você desativar o eSIM agora.
-Desativar o eSIM?"</string>
+    <string name="enable_dual_4g_prompt_when_turn_on_volte">O VoLTE requer conectividade 4G para ambos os slots SIM. Alterar para o Dual 4G agora</string>
+    <string name="enable_esim_dialog_summary">"Se você ativar o eSIM, não poderá usar seu SIM atual %s. Ativar eSIM mesmo assim?"</string>
     <string name="enable_esim_dialog_title">Ativando o eSIM</string>
     <string name="enable_esim_error_toast_message">"Não foi possível ativar o eSIM"</string>
     <string name="enable_esim_progress_activating_message">Ativando o eSIM…</string>
@@ -1142,8 +1140,8 @@ Desativar o eSIM?"</string>
     <string name="fiveg_carrier_aggregation_title">Agregação da operadora 5G</string>
     <string name="fiveg_endc_available1">NR ENDC disponível:</string>
     <string name="fiveg_endc_status1">Status do Endc:</string>
-    <string name="fiveg_hosted_mode_summary">Selecionar a melhor rede automaticamente para poupar bateria</string>
-    <string name="fiveg_hosted_mode_title">Mudança Inteligente de 5G</string>
+    <string name="fiveg_hosted_mode_summary">Selecione a melhor rede automaticamente para economizar bateria</string>
+    <string name="fiveg_hosted_mode_title">Mudança inteligente de 5G</string>
     <string name="fiveg_icon_type1">Tipo de ícone do Nr:</string>
     <string name="fiveg_info">Ver informações 5G</string>
     <string name="fiveg_infos">Informações 5G</string>
@@ -1151,26 +1149,26 @@ Desativar o eSIM?"</string>
     <string name="fiveg_network_mode_default">Automático</string>
     <string name="fiveg_network_mode_nsa">NSA</string>
     <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
-    <string name="fiveg_network_mode_title">Selecione o modo da rede 5G</string>
+    <string name="fiveg_network_mode_title">Selecionar modo da rede 5G</string>
     <string name="fiveg_network_title">Redes 5G</string>
-    <string name="fiveg_nrca_switch_summary">Use 5G carrier aggregation for better connectivity</string>
-    <string name="fiveg_nrca_switch_title">5G carrier aggregation</string>
+    <string name="fiveg_nrca_switch_summary">Melhora a conexão 5G para ambientes de teste</string>
+    <string name="fiveg_nrca_switch_title">Agregação de operadora 5G</string>
     <string name="fiveg_plmn_info_list1">Lista de informações de PLMN:</string>
     <string name="fiveg_power_switch_summary">Torna a conectividade 5G mais econômica de bateria em certos cenários</string>
     <string name="fiveg_power_switch_title">Economizador de bateria 5G</string>
     <string name="fiveg_restrict_dcnr1">DCNR restrito:</string>
-    <string name="fiveg_sa_switch_open_dialog_content">A conexão 5G pode ser instável no modo autônomo, que pode afetar os serviços de telefonia. Ativar o Modo Autônomo mesmo assim?</string>
+    <string name="fiveg_sa_switch_open_dialog_content">A conexão 5G pode ficar instável no Modo autônomo, o que pode afetar os serviços de telefonia. Ativar o Modo autônomo mesmo assim?</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atenção!</string>
-    <string name="fiveg_sa_switch_summary">Permitir conexão de redes 5G em modo autônomo</string>
+    <string name="fiveg_sa_switch_summary">Usa a rede SA no SIM 2 (apenas para teste)</string>
     <string name="fiveg_sa_switch_title">Usar rede SA</string>
-    <string name="fiveg_sa_switch_warning_toast">Por favor, reinicie o dispositivo para que as alterações tenham efeito.</string>
+    <string name="fiveg_sa_switch_warning_toast">Reinicie seu dispositivo para aplicar as alterações</string>
     <string name="fiveg_sa_vice_switch_summary">Permitir que o SIM secundário use rede 5G independente</string>
-    <string name="fiveg_sa_vice_switch_title">SA no SIM secundário</string>
+    <string name="fiveg_sa_vice_switch_title">Rede SA no SIM 2</string>
     <string name="fiveg_signal_strength1">Força do sinal 5G:</string>
     <string name="fiveg_switch_per_slot_summary">Use o 5G para aumentar a velocidade de conexão de dados móveis</string>
     <string name="fiveg_switch_per_slot_title">5G</string>
     <string name="fiveg_switch_status1">Status da comutação 5G:</string>
-    <string name="fiveg_switch_title">Rede 5G</string>
+    <string name="fiveg_switch_title">Usar redes 5G</string>
     <string name="fiveg_upperlayer_indication1">Status do indicador da camada superior:</string>
     <string name="flash_when_ring_summary">Usar o flash para notificar sobre chamadas recebidas</string>
     <string name="flash_when_ring_title">Piscar flash quando tocar</string>
@@ -1429,7 +1427,7 @@ aguardando a entrada do código de desbloqueio"</string>
     <string name="lable_network_not_supported">Rede sem suporte</string>
     <string name="lafs_disable">Programação de voos do aeroporto local desativada</string>
     <string name="lafs_enable">Programação de voos do aeroporto local ativada</string>
-    <string name="last_sim_callback_summary">Ao fazer chamadas a partir do histórico de chamadas, use um cartão SIM usado durante a chamada anterior com este contato</string>
+    <string name="last_sim_callback_summary">Ao fazer chamadas a partir do histórico de chamadas, use um cartão SIM usado durante a chamada anterior com este contato.</string>
     <string name="last_sim_callback_title">Lembrar preferências do SIM</string>
     <string name="launch_defaults_none">Nenhum padrão definido</string>
     <string name="launch_defaults_some">Alguns padrões definidos</string>

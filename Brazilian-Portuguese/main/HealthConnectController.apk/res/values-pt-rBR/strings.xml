@@ -32,23 +32,38 @@
     <string name="action_drag_label_move_down">Mover para baixo</string>
     <string name="action_drag_label_move_top">Mover para o topo</string>
     <string name="action_drag_label_move_up">Mover para cima</string>
+    <string name="active_calories_burned">Ativo: %1$s</string>
     <string name="active_calories_burned_label">Calorias ativas queimadas</string>
+    <string name="active_calories_burned_lowercase_label">Calorias ativas queimadas</string>
     <string name="active_calories_burned_read_content_description">Leia dados de calorias ativas queimadas</string>
     <string name="active_calories_burned_uppercase_label">Calorias ativas queimadas</string>
     <string name="active_calories_burned_write_content_description">Grave dados de calorias ativas queimadas</string>
-    <string name="activity_category_lowercase">Atividade</string>
+    <string name="activity_category_lowercase">atividade</string>
     <string name="activity_category_uppercase">Atividade</string>
     <string name="activity_type_australian_football">Futebol australiano</string>
+    <string name="additional_access_background_footer">Ative pelo menos uma permissão de leitura para ativar o acesso em segundo plano para este app</string>
+    <string name="additional_access_combined_footer">Ative pelo menos uma permissão de leitura para ativar o acesso a dados anteriores ou em segundo plano para este app</string>
+    <string name="additional_access_history_footer">Ative pelo menos uma permissão de leitura para ativar o acesso a dados anteriores para este app</string>
+    <string name="additional_access_label">Acesso adicional</string>
     <string name="aggregation_total">"Total: %s"</string>
     <string name="all_categories_title">Todas as categorias</string>
+    <string name="all_data_selected_deletion_confirmation_dialog">Excluir permanentemente todos os dados do Conexão e saúde?</string>
+    <string name="all_data_selected_deletion_confirmation_toast">Todos os dados excluídos</string>
     <string name="all_entries_button">Ver todas as entradas</string>
+    <string name="all_medical_data_content_description">Escreva todos os dados médicos</string>
+    <string name="all_medical_data_lowercase_label">Todos os dados médicos</string>
+    <string name="all_medical_data_uppercase_label">Todos os dados médicos</string>
+    <string name="amrap_performance_goal">Tantas repetições quanto possível</string>
     <string name="app_access_title">Acesso ao app</string>
+    <string name="app_data_title">Dados do app</string>
     <string name="app_label">Conexão e saúde</string>
     <string name="app_perms_content_provider_24h">Acessado nas últimas 24 horas</string>
     <string name="app_priority_button">Prioridade do app</string>
+    <string name="app_sources_header">Fontes de apps</string>
     <string name="app_update_needed_banner_button">Verifique se há atualizações</string>
     <string name="app_update_needed_banner_description_multiple">Alguns apps precisam estar atualizados para continuar funcionando com o Conexão e saúde</string>
     <string name="app_update_needed_banner_description_single">%1$s precisa estar atualizado para continuar funcionando com o Conexão e saúde</string>
+    <string name="app_update_needed_banner_learn_more_button">Saiba mais</string>
     <string name="app_update_needed_banner_title">Atualização do app necessária</string>
     <string name="app_update_needed_seen">Atualização do app</string>
     <string name="arm_curl">Flexão de braço</string>
@@ -58,8 +73,19 @@
     <string name="auto_delete_rationale">Quando você muda essas configurações, o app Conexão e saúde exclui os dados para refletir suas novas preferências</string>
     <string name="auto_delete_section">Exclusão automática de dados</string>
     <string name="auto_delete_title">Exclusão automática</string>
+    <string name="automatic_export_off">Desativado</string>
+    <string name="automatic_export_on">Ativado</string>
     <string name="back_button">Voltar</string>
     <string name="back_extension">Extensão de costas</string>
+    <string name="background_read_description">"Permita que este app acesse os dados do Conexão e saúde quando você não estiver usando o app"</string>
+    <string name="background_read_request_description">"Se você permitir, este app poderá acessar os dados do Conexão e saúde quando você não estiver usando o app."</string>
+    <string name="background_read_request_title">Permitir que %1$s acesse dados em segundo plano?</string>
+    <string name="background_read_title">Acessar dados em segundo plano</string>
+    <string name="backup_and_restore_footer_body_text">Exportar permite salvar seus dados para transferi-los para um novo telefone</string>
+    <string name="backup_and_restore_footer_link_text">Saiba mais</string>
+    <string name="backup_and_restore_settings_screen_title">Backup e restauração</string>
+    <string name="backup_and_restore_settings_summary">Exportar e importar dados</string>
+    <string name="backup_title">"Backup"</string>
     <string name="badminton">Badminton</string>
     <string name="ball_slam">Lançamento de bola \"slam ball\"</string>
     <string name="barbell_shoulder_press">Desenvolvimento de ombros com barra</string>
@@ -152,9 +178,11 @@
     <string name="check_for_updates_description">Confira se os apps instalados estão atualizados</string>
     <string name="chloride">Cloreto</string>
     <string name="cholesterol">Colesterol</string>
+    <string name="choose_frequency">Escolher frequência</string>
+    <string name="choose_frequency_category">Escolher frequência</string>
+    <string name="choose_frequency_description">Escolha salvar os dados uma vez ou configure-os para salvar automaticamente em horários regulares.</string>
     <string name="chromium">Cromo</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
-    <string name="config_headlineFontFamily" />
     <string name="confirming_message_x_months">{count, plural, =1{Conexão e saúde excluirá automaticamente novos dados após # mês. Definir esta opção também excluirá os dados existentes com mais de # mês.} other{Conexão e saúde excluirá automaticamente novos dados após # meses. Definir esta opção também excluirá os dados existentes com mais de # meses.} }</string>
     <string name="confirming_question_all">Excluir permanentemente todos os dados de todos os tempos?</string>
     <string name="confirming_question_app_data_all">Excluir permanentemente todos os dados do app %s?</string>
@@ -183,6 +211,7 @@
     <string name="connected_apps_all_apps_connected_subtitle">%1$s apps têm acesso</string>
     <string name="connected_apps_button_no_permissions_subtitle">Nenhuma</string>
     <string name="connected_apps_button_subtitle">%1$s de %2$s apps têm acesso</string>
+    <string name="connected_apps_connected_subtitle">{count, plural, =1 {1 app tem acesso} other {# apps têm acesso}}</string>
     <string name="connected_apps_empty_list_section_title">"No momento você não tem nenhum app compatível instalado"</string>
     <string name="connected_apps_one_app_connected_subtitle">%1$s app tem acesso</string>
     <string name="connected_apps_section_title">Acesso permitido</string>
@@ -204,8 +233,25 @@
     <string name="data_access_exercise_description">Esses dados incluem informações como tempo de atividade, tipo de exercício, voltas, repetições, sessões ou braçadas de natação.</string>
     <string name="data_access_sleep_description">Esses dados incluem informações como estágios e sessões de sono</string>
     <string name="data_entry_header">%1$s • %2$s</string>
-    <string name="data_point_action_content_description">Excluir entrada de dados</string>
+    <string name="data_point_action_content_description">Excluir entrada de dados %s</string>
+    <string name="data_restore_in_progress_content">O Conexão e saúde está restaurando dados e permissões. Isso pode levar algum tempo para ser concluído.</string>
+    <string name="data_restore_in_progress_dialog_button">Entendi</string>
+    <string name="data_restore_in_progress_dialog_title">Restauração do Conexão e saúde em andamento</string>
+    <string name="data_restore_in_progress_screen_title">Restauração em andamento</string>
+    <string name="data_restore_pending_banner_button">Atualizar agora</string>
+    <string name="data_restore_pending_banner_content">Antes de continuar restaurando seus dados, atualize seu sistema.</string>
+    <string name="data_restore_pending_banner_title">Atualização necessária</string>
+    <string name="data_sources_add_app">Adicionar um app</string>
+    <string name="data_sources_and_priority_title">Fontes de dados e prioridade</string>
+    <string name="data_sources_empty_state">Nenhuma fonte de app</string>
+    <string name="data_sources_empty_state_footer">Depois que você conceder permissão ao app para gravar dados de %1$s, as fontes serão exibidas aqui.</string>
+    <string name="data_sources_footer">Adicione fontes de apps à lista para ver como os totais de dados podem mudar. Remover um app desta lista impedirá que ele contribua para os totais, mas ainda terá permissões de gravação.</string>
+    <string name="data_sources_help_link">Como funcionam as fontes e a priorização</string>
     <string name="data_title">Dados e acesso</string>
+    <string name="data_totals_header">Totais de dados</string>
+    <string name="date_picker_day">Dia</string>
+    <string name="date_picker_month">Mês</string>
+    <string name="date_picker_week">Semana</string>
     <string name="date_owner_format">%1$s • %2$s</string>
     <string name="date_range_long">de %1$s a %2$s</string>
     <string name="day_duration_accessibility">{count, plural, =1 {1 dia} other {# dias}}</string>
@@ -234,10 +280,10 @@
     <string name="deletion_started_title">Os dados existentes serão excluídos</string>
     <string name="deletion_started_x_months">{count, plural, =1{O Conexão de saúde excluirá todos os dados anteriores a # mês. Pode levar um dia para que essas alterações apareçam nos seus apps conectados.} other{Conexão e saúde excluirá todos os dados anteriores a # meses. Pode levar um dia para que essas alterações apareçam nos apps conectados.} }</string>
     <string name="denied_apps_banner_button">Veja detalhes</string>
-    <string name="denied_apps_banner_message_many_apps">A plataforma Conexão e saúde removeu as permissões de %1$s, %2$s, %3$s e outros apps</string>
-    <string name="denied_apps_banner_message_one_app">A plataforma Conexão e saúde removeu as permissões do app %s</string>
-    <string name="denied_apps_banner_message_three_apps">A plataforma Conexão e saúde removeu as permissões dos apps %1$s, %2$s e %3$s</string>
-    <string name="denied_apps_banner_message_two_apps">A plataforma Conexão e saúde removeu as permissões dos apps %1$s e %2$s</string>
+    <string name="denied_apps_banner_message_many_apps">O Conexão e saúde removeu as permissões de %1$s, %2$s, %3$s e outros apps</string>
+    <string name="denied_apps_banner_message_one_app">O Conexão e saúde removeu as permissões do app %s</string>
+    <string name="denied_apps_banner_message_three_apps">O Conexão e saúde removeu as permissões dos apps %1$s, %2$s e %3$s</string>
+    <string name="denied_apps_banner_message_two_apps">O Conexão e saúde removeu as permissões dos apps %1$s e %2$s</string>
     <string name="denied_apps_banner_title">Permissões de apps removidas</string>
     <string name="denied_apps_dialog_got_it_button">Entendi</string>
     <string name="denied_apps_dialog_message">"Se um app for suspenso ou removido do Google Play, o Conexão e saúde vai remover automaticamente as permissões dele.
@@ -267,6 +313,7 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="dumbbell_triceps_extension_left_arm">Extensão do tríceps esquerdo com halter</string>
     <string name="dumbbell_triceps_extension_right_arm">Extensão do tríceps direito com halter</string>
     <string name="dumbbell_triceps_extension_two_arm">Extensão dos tríceps com halter</string>
+    <string name="edit_data_sources">Editar fontes de apps</string>
     <string name="elevation_gained_lowercase_label">Ganho de elevação</string>
     <string name="elevation_gained_read_content_description">Leia dados de ganho de elevação</string>
     <string name="elevation_gained_uppercase_label">Ganho de elevação</string>
@@ -279,22 +326,45 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="energy_unit_calorie_label">Calorias</string>
     <string name="energy_unit_kilojoule_label">Quilojoules</string>
     <string name="energy_unit_title">Energia</string>
+    <string name="enter_deletion_button_content_description">Insira a exclusão</string>
     <string name="entry_details_title">Detalhes da entrada</string>
     <string name="error_a11y_label">Erro: inválido</string>
     <string name="error_icon_content_description">Erro</string>
     <string name="exercise_class">Aula de ginástica</string>
     <string name="exercise_laps_header">Voltas</string>
     <string name="exercise_lowercase_label">Exercício</string>
+    <string name="exercise_permission_dialog_disable_summary">%1$s requer acesso ao exercício para que as rotas de exercício sejam ativadas</string>
+    <string name="exercise_permission_dialog_disable_title">Desativar ambos os tipos de dados?</string>
+    <string name="exercise_permission_dialog_enable_title">Ativar ambos os tipos de dados?</string>
+    <string name="exercise_permission_dialog_enabled_summary">%1$s precisa de acesso de leitura ao exercício para que as rotas de exercício sejam ativadas</string>
+    <string name="exercise_permission_dialog_negative_button">Não</string>
+    <string name="exercise_permission_dialog_positive_button">Sim</string>
     <string name="exercise_read_content_description">Leia dados de exercício</string>
     <string name="exercise_route_lowercase_label">Trajeto do exercício</string>
     <string name="exercise_route_read_content_description">Leia trajeto do exercício</string>
     <string name="exercise_route_uppercase_label">Trajeto do exercício</string>
     <string name="exercise_route_write_content_description">Grave trajeto do exercício</string>
+    <string name="exercise_routes_read_content_description">Leia rotas de exercícios</string>
     <string name="exercise_segments_header">Segmentos de exercício</string>
     <string name="exercise_uppercase_label">Exercício</string>
     <string name="exercise_write_content_description">Grave dados de exercício</string>
+    <string name="exit_deletion_button_content_description">Sair da exclusão</string>
     <string name="expand_button_title">Avançado</string>
+    <string name="export_and_import_title">Exportar e importar</string>
+    <string name="export_back_button">Voltar</string>
     <string name="export_data_button">Exportar dados</string>
+    <string name="export_destination_title">Escolha para onde exportar</string>
+    <string name="export_file_access_error_banner_button">Configurar</string>
+    <string name="export_file_access_error_banner_summary">Houve um problema com a exportação de %1$s. Configure uma nova exportação agendada e tente novamente.</string>
+    <string name="export_file_access_error_banner_title">"Não foi possível exportar dados"</string>
+    <string name="export_import_choose_account_cancel_button">Cancelar</string>
+    <string name="export_import_choose_account_done_button">Pronto</string>
+    <string name="export_import_choose_account_title">Escolha uma conta</string>
+    <string name="export_import_go_to_play_store_text">Vá para a Play Store</string>
+    <string name="export_import_install_apps_text">Para mais opções, instale apps de armazenamento em nuvem para vê-los aqui.</string>
+    <string name="export_import_tap_to_choose_account">Toque para selecionar uma conta</string>
+    <string name="export_invalid_storage">Escolha um app de armazenamento para exportar seus dados</string>
+    <string name="export_next_button">Próximo</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="fencing">Esgrima</string>
     <string name="floors_climbed">{count, plural, =1 {1 andar} other {# andares}}</string>
@@ -312,6 +382,9 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="football_australian">Futebol australiano</string>
     <string name="forward_twist">Torção para frente</string>
     <string name="free_up_space_button">Libere espaço</string>
+    <string name="frequency_daily">Diário</string>
+    <string name="frequency_monthly">Mensal</string>
+    <string name="frequency_weekly">Semanal</string>
     <string name="frisbee_disc">Frisbee</string>
     <string name="front_raise">Elevação frontal</string>
     <string name="golf">Golfe</string>
@@ -328,9 +401,9 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="heart_rate_series_range_long">de %1$s a %2$s</string>
     <string name="heart_rate_uppercase_label">Frequência cardíaca</string>
     <string name="heart_rate_value">{count, plural, =1 {1 bpm} other {# bpm}}</string>
-    <string name="heart_rate_variability_lowercase_label">Variabilidade da frequência cardíaca (índice diferencial)</string>
+    <string name="heart_rate_variability_lowercase_label">Variabilidade da frequência cardíaca</string>
     <string name="heart_rate_variability_read_content_description">Leia dados de variabilidade da frequência cardíaca</string>
-    <string name="heart_rate_variability_uppercase_label">Variabilidade da frequência cardíaca (índice diferencial)</string>
+    <string name="heart_rate_variability_uppercase_label">Variabilidade da frequência cardíaca</string>
     <string name="heart_rate_variability_write_content_description">Grave dados deLer variabilidade da frequência cardíaca</string>
     <string name="heart_rate_write_content_description">Gravador dados da frequência cardíaca</string>
     <string name="height_cm">{height, plural, =1 {1 cm} other {# cm}}</string>
@@ -356,8 +429,14 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="hip_circumference_uppercase_label">Circunferência do quadril</string>
     <string name="hip_circumference_write_content_description">Grave dados de circunferência do quadril</string>
     <string name="hip_thrust">Elevação pélvica</string>
+    <string name="historic_access_description">Permita que este app acesse os dados do Conexão e saúde adicionados antes de %1$s</string>
+    <string name="historic_access_description_fallback">Permita que este app acesse todos os dados anteriores do Conexão e saúde</string>
+    <string name="historic_access_request_description">Se você permitir, este app poderá acessar os dados do Conexão e saúde adicionados antes de %1$s.</string>
+    <string name="historic_access_request_description_fallback">Se você permitir, este app poderá acessar todos os dados anteriores do Conexão e saúde.</string>
+    <string name="historic_access_request_title">Permitir que %1$s acesse dados anteriores?</string>
+    <string name="historic_access_title">Acessar dados anteriores</string>
     <string name="home_subtitle">Gerencie os dados de saúde e condicionamento físico no seu dispositivo e controle quais apps podem ter acesso a eles</string>
-    <string name="hour_duration">%1$sh</string>
+    <string name="hour_duration">%1$s h</string>
     <string name="hour_duration_accessibility">{count, plural, =1 {1 hora} other {# horas}}</string>
     <string name="hour_minute_duration_accessibility">%1$s %2$s</string>
     <string name="hour_minute_duration_short">%1$s h e %2$s min</string>
@@ -369,6 +448,23 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="ice_hockey">Hóquei no gelo</string>
     <string name="ice_skating">Patinação no gelo</string>
     <string name="icon_content_description">Ícone de diálogo</string>
+    <string name="immunization_content_description">Leia dados de imunização</string>
+    <string name="immunization_lowercase_label">Imunização</string>
+    <string name="immunization_uppercase_label">Imunização</string>
+    <string name="import_cancel_button">Cancelar</string>
+    <string name="import_data">Importar dados</string>
+    <string name="import_data_description">Restaurar dados de um arquivo exportado anteriormente</string>
+    <string name="import_decrypt_footer_body_text">Se você ainda possui seu telefone antigo, poderá exportar novamente seus dados com uma nova senha.</string>
+    <string name="import_decryption_description">Sua senha de criptografia é necessária para importar seus dados do Conexão e saúde</string>
+    <string name="import_decryption_forgotten_password_link_text">Esqueceu a senha?</string>
+    <string name="import_decryption_title">Digite a senha</string>
+    <string name="import_invalid_storage">Escolha um app de armazenamento para importar seus dados</string>
+    <string name="import_next_button">Próximo</string>
+    <string name="import_password_hint">Senha</string>
+    <string name="import_source_location_title">Importar de</string>
+    <string name="import_wrong_file_error_banner_button">Escolher arquivo</string>
+    <string name="import_wrong_file_error_banner_summary">"O arquivo selecionado não é compatível para restauração. Certifique-se de selecionar o arquivo exportado correto."</string>
+    <string name="import_wrong_file_error_banner_title">"Não foi possível restaurar os dados"</string>
     <string name="inactive_apps">Apps inativos</string>
     <string name="inactive_apps_message">Esses apps não podem mais gravar %s, mas ainda têm dados armazenados no Conexão e saúde.</string>
     <string name="inactive_apps_section_message">Estes apps não têm mais acesso, mas ainda possuem dados armazenados na plataforma Conexão e saúde</string>
@@ -388,6 +484,9 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="kilograms_short_label">{count, plural, =1 {1 kg} other {# kg}}</string>
     <string name="kj">{count, plural, =1 {1 kJ} other {# kJ}}</string>
     <string name="kj_long">{count, plural, =1 {1 quilojoule} other {# quilojoules}}</string>
+    <string name="last_export_time">Última exportação: %1$s</string>
+    <string name="last_month_header">Mês passado</string>
+    <string name="last_week_header">Semana passada</string>
     <string name="lat_pull_down">Puxada por trás</string>
     <string name="lateral_raise">Elevação lateral</string>
     <string name="lean_body_mass_lowercase_label">Massa corporal magra</string>
@@ -403,6 +502,8 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="loading">Carregando…</string>
     <string name="lunge">Agachamento afundo</string>
     <string name="magnesium">Magnésio</string>
+    <string name="manage_data_category_title">Gerenciar dados</string>
+    <string name="manage_data_preferences_category_title">Preferências</string>
     <string name="manage_data_section">Gerenciar dados</string>
     <string name="manage_permissions">Gerenciar permissões</string>
     <string name="manage_permissions_learn_more">Leia a Política de Privacidade</string>
@@ -422,6 +523,7 @@ Isso significa que o app não vai poder mais acessar seus dados armazenados no C
     <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Fim do intervalo</string>
     <string name="material_slider_range_start">Início do intervalo</string>
+    <string name="material_slider_value">Valor</string>
     <string name="material_timepicker_am">"AM"</string>
     <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
@@ -497,6 +599,10 @@ Clique em \"Retomar\" para reabrir o app e continuar transferindo seus dados e p
     <string name="millimoles_per_liter_long">{count, plural, =1 {1 milimole por litro} other {# milimoles por litro}}</string>
     <string name="milliseconds">{count, plural, =1 {1 ms} other {# ms}}</string>
     <string name="milliseconds_long">{count, plural, =1 {1 milissegundo} other {# milissegundos}}</string>
+    <string name="mindfulness_lowercase_label">Atenção plena</string>
+    <string name="mindfulness_read_content_description">Leia dados de atenção plena</string>
+    <string name="mindfulness_uppercase_label">Atenção plena</string>
+    <string name="mindfulness_write_content_description">Grave dados de atenção plena</string>
     <string name="minute_duration">%1$s min</string>
     <string name="minute_duration_accessibility">{count, plural, =1 {1 minuto} other {# minutos}}</string>
     <string name="module_update_needed_seen">Atualização do módulo</string>
@@ -504,20 +610,27 @@ Clique em \"Retomar\" para reabrir o app e continuar transferindo seus dados e p
     <string name="monounsaturated_fat">Gordura monoinsaturada</string>
     <string name="mountain_climber">Escalador</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
+    <string name="mtrl_checkbox_state_description_checked">Marcada</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente marcada</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Desmarcada</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
     <string name="mtrl_picker_a11y_prev_month">Alterar para o mês anterior</string>
+    <string name="mtrl_picker_announce_current_range_selection">Seleção de data de início: %1$s – Seleção de data de término: %2$s</string>
     <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">Nenhum</string>
     <string name="mtrl_picker_cancel">Cancelar</string>
     <string name="mtrl_picker_confirm">"OK"</string>
     <string name="mtrl_picker_date_header_title">Selecionar data</string>
     <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
-    <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Data de término %1$s</string>
     <string name="mtrl_picker_invalid_format">Formato inválido.</string>
     <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Usar %1$s</string>
     <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Ir para o ano %1$d</string>
     <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$s</string>
     <string name="mtrl_picker_out_of_range">Fora do intervalo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
@@ -525,12 +638,14 @@ Clique em \"Retomar\" para reabrir o app e continuar transferindo seus dados e p
     <string name="mtrl_picker_range_header_title">Selecionar intervalo</string>
     <string name="mtrl_picker_range_header_unselected">Data de início – Data de término</string>
     <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_start_date_description">Data de início %1$s</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
     <string name="mtrl_picker_text_input_day_abbr">"dia"</string>
     <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
     <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
+    <string name="mtrl_picker_today_description">Hoje %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
@@ -546,16 +661,20 @@ Clique em \"Retomar\" para reabrir o app e continuar transferindo seus dados e p
     <string name="mucus_sticky">Pegajoso</string>
     <string name="mucus_unusual">Incomum</string>
     <string name="mucus_watery">Aquoso</string>
+    <string name="multiple_data_types_deletion_confirmation_toast">%s itens excluídos</string>
     <string name="nav_app_bar_navigate_up_description">Navegar para cima</string>
     <string name="nav_app_bar_open_drawer_description">Abrir gaveta de navegação</string>
     <string name="navigation_next_day">Dia seguinte</string>
     <string name="navigation_previous_day">Dia anterior</string>
     <string name="navigation_selected_day">Dia selecionado</string>
+    <string name="needs_updating_apps_section_title">Precisa de atualização</string>
+    <string name="next_export_time">Próxima exportação: %1$s</string>
     <string name="niacin">Niacina</string>
     <string name="no_apps_allowed">Nenhum app permitido</string>
     <string name="no_apps_denied">Nenhum app negado</string>
     <string name="no_categories">"Você não tem dados na plataforma Conexão e saúde"</string>
     <string name="no_data">Não há dados</string>
+    <string name="no_data_footer">Os dados de apps com acesso ao Conexão e saúde serão exibidos aqui</string>
     <string name="no_recent_access">Nenhum app acessou recentemente o Conexão e saúde</string>
     <string name="no_results">Nenhum resultado</string>
     <string name="not_connected_apps_section_title">Acesso não permitido</string>
@@ -571,6 +690,8 @@ Clique em \"Retomar\" para reabrir o app e continuar transferindo seus dados e p
     <string name="onboarding_get_started_button_text">Começar</string>
     <string name="onboarding_go_back_button_text">Voltar</string>
     <string name="onboarding_title">Começar a usar o app Conexão e saúde</string>
+    <string name="one_data_type_deletion_confirmation_toast">%s dados excluídos</string>
+    <string name="only_one_connected_app_button_subtitle">%1$s de %2$s apps têm acesso</string>
     <string name="other_android_permissions">Para gerenciar outras permissões do Android que este app pode acessar, vá até Configurações > Apps</string>
     <string name="other_android_permissions_content_description">Para gerenciar outras permissões do Android que esse app pode acessar, vá até \"Configurações\" e toque em \"Apps\"</string>
     <string name="ovulation_high">Alta</string>
@@ -605,14 +726,29 @@ Isso não afeta outras permissões que este app possa ter, como localização, c
     <string name="permissions_disconnect_all_dialog_title">Remover o acesso para todos os apps?</string>
     <string name="permissions_disconnect_dialog_checkbox">Também excluir dados do app %1$s da plataforma Conexão e saúde</string>
     <string name="permissions_disconnect_dialog_disconnect">Remover tudo</string>
-    <string name="permissions_disconnect_dialog_message">"O %1$s não vai mais poder ler nem gravar dados do Conexão e saúde.
+    <string name="permissions_disconnect_dialog_message">"O %1$s não poderá mais ler ou gravar dados do Conexão e saúde.
 
-Isso não afeta outras permissões que esse app possa ter, como local, câmera ou microfone."</string>
+Isso não afeta outras permissões que esse app possa ter, como localização, câmera ou microfone."</string>
+    <string name="permissions_disconnect_dialog_message_background">"O %1$s não poderá mais ler ou gravar dados do Conexão e saúde, incluindo dados em segundo plano.
+
+Isso não afeta outras permissões que este app possa ter, como localização, câmera ou microfone."</string>
+    <string name="permissions_disconnect_dialog_message_combined">"O %1$s não poderá mais ler ou gravar dados do Conexão e saúde, incluindo dados anteriores e de histórico.
+
+Isso não afeta outras permissões que este app possa ter, como localização, câmera ou microfone."</string>
+    <string name="permissions_disconnect_dialog_message_history">"O %1$s não poderá mais ler ou gravar dados do Conexão e saúde, incluindo dados antigos.
+
+Isso não afeta outras permissões que este aplicativo possa ter, como localização, câmera ou microfone."</string>
     <string name="permissions_disconnect_dialog_title">Remover todas as permissões?</string>
     <string name="permlab_readCaloriesBurned">Ler dados de calorias queimadas</string>
     <string name="phosphorus">Fósforo</string>
     <string name="pilates">Pilates</string>
     <string name="plank">Prancha</string>
+    <string name="planned_exercise_block_repetitions">{count, plural, =1 {1 vez} other {# vezes}}</string>
+    <string name="planned_exercise_lowercase_label">Planos de treinamento</string>
+    <string name="planned_exercise_read_content_description">Leia dados de planos de treinamento</string>
+    <string name="planned_exercise_session_notes_title">Notas</string>
+    <string name="planned_exercise_uppercase_label">Planos de treinamento</string>
+    <string name="planned_exercise_write_content_description">Grave dados de planos de treinamento</string>
     <string name="playstore_app_title">Play Store</string>
     <string name="polyunsaturated_fat">Gordura poli-insaturada</string>
     <string name="potassium">Potássio</string>
@@ -634,23 +770,35 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="range_after_x_months">{count, plural, =1{Depois de # mês}other{Depois de # meses}}</string>
     <string name="range_never">Never</string>
     <string name="range_off">Desativado</string>
+    <string name="rate_of_perceived_exertion_goal">Nível de esforço: %1$d/10</string>
     <string name="read_data_access_label">Ler: %s</string>
     <string name="read_permission_category">Permitir que "%1$s" leia</string>
     <string name="recent_access_header">Acesso recente</string>
     <string name="recent_access_screen_description">Veja quais apps acessaram seus dados nas últimas 24 horas</string>
+    <string name="recent_access_time_content_descritption">Hora: %1$s</string>
+    <string name="remove_button_content_description">Botão para remover %s da lista de prioridades</string>
+    <string name="removed_additional_permissions_toast">Permissões adicionais removidas para este app</string>
+    <string name="reorder_button_action_description">Toque duas vezes e arraste para reordenar</string>
+    <string name="reorder_button_content_description">Botão para arrastar e reordenar %s na lista de prioridades</string>
     <string name="repetitions">{count, plural, =1 {1 repetição} other {# repetições}}</string>
     <string name="repetitions_format">%1$s: %2$s</string>
     <string name="repetitions_long">{count, plural, =1 {1 repetição} other {# repetições}}</string>
+    <string name="request_additional_permissions_description">%1$s também quer acessar estas configurações do Conexão e saúde</string>
+    <string name="request_additional_permissions_header_title">Permitir acesso adicional para %1$s?</string>
     <string name="request_permissions_allow">Permitir</string>
     <string name="request_permissions_allow_all">Permitir tudo</string>
     <string name="request_permissions_cancel">Cancelar</string>
     <string name="request_permissions_dont_allow">Não permitir</string>
     <string name="request_permissions_header_desc">Escolha dados que você quer que esse app leia ou grave no Conexão e saúde</string>
-    <string name="request_permissions_header_time_frame_desc">Se o app tiver acesso à leitura, vai poder ler novos dados e dados dos últimos 30 dias.</string>
+    <string name="request_permissions_header_time_frame_desc">Se você conceder acesso de leitura, o app poderá ler novos dados e dados dos últimos 30 dias.</string>
+    <string name="request_permissions_header_time_frame_history_desc">Se você conceder acesso de leitura, o app poderá ler dados novos e antigos</string>
     <string name="request_permissions_header_title">Permitir que o app %1$s acesse o Conexão e saúde?</string>
     <string name="request_permissions_privacy_policy">Política de Privacidade</string>
     <string name="request_permissions_rationale">Descubra como o %1$s processa seus dados na %2$s do desenvolvedor</string>
+    <string name="request_route_allow">Permitir esta rota</string>
+    <string name="request_route_allow_all">Permitir todas as rotas</string>
     <string name="request_route_disclaimer_notice">O app poderá ler dados de seu local anterior no trajeto</string>
+    <string name="request_route_dont_allow">"Não permitir"</string>
     <string name="request_route_header_title">Permitir que o app %1$s acesse o trajeto desse exercício na plataforma Conexão e saúde?</string>
     <string name="request_route_info_access_management_summary">Você pode gerenciar o acesso de apps às suas rotas de treino nas configurações da plataforma Conexão e saúde</string>
     <string name="request_route_info_access_management_title">Como posso gerenciar o acesso?</string>
@@ -678,6 +826,11 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="riboflavin">Riboflavina</string>
     <string name="rock_climbing">Escalada</string>
     <string name="roller_hockey">Hóquei em patins</string>
+    <string name="route_permissions_always_allow">Sempre permitir</string>
+    <string name="route_permissions_ask">Perguntar sempre</string>
+    <string name="route_permissions_deny">"Não permitir"</string>
+    <string name="route_permissions_label">Acessar rotas de exercícios</string>
+    <string name="route_permissions_summary">Permitir que %1$s acesse rotas</string>
     <string name="rowing">Remo</string>
     <string name="rowing_machine">Máquina de remo</string>
     <string name="rugby">Rúgbi</string>
@@ -685,6 +838,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="running_treadmill">Corrida em esteira</string>
     <string name="sailing">Iatismo</string>
     <string name="saturated_fat">Gordura saturada</string>
+    <string name="scheduled_export">Exportação agendada</string>
     <string name="scuba_diving">Mergulho autônomo</string>
     <string name="search_breadcrumbs_data">Conexão e saúde > Dados e acesso</string>
     <string name="search_breadcrumbs_permissions">Conexão e saúde > Permissões do app</string>
@@ -693,16 +847,21 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="search_keywords_home">fitness, bem-estar</string>
     <string name="search_keywords_permissions">permissões</string>
     <string name="search_menu_title">Pesquisar</string>
+    <string name="searchview_clear_text_content_description">Limpar texto</string>
+    <string name="searchview_navigation_content_description">Voltar</string>
     <string name="see_all_categories">Ver todas as categorias</string>
     <string name="see_all_compatible_apps">Veja todos os apps compatíveis</string>
     <string name="see_all_compatible_apps_description">Encontre apps na Google Play</string>
+    <string name="see_app_data">Ver dados do app</string>
     <string name="select_all_apps_title">Todos os apps</string>
+    <string name="selected_date_view_action_description">Alterar</string>
     <string name="selenium">Selênio</string>
     <string name="send_feedback">Enviar feedback</string>
     <string name="send_feedback_description">"Conte-nos quais apps de saúde e fitness você gostaria que funcionasse com o Conexão e saúde"</string>
     <string name="session_title">%1$s, %2$s</string>
     <string name="set_auto_delete_button">Ativar a exclusão automática</string>
     <string name="set_units_label">Definir unidades de dados</string>
+    <string name="set_units_title">Definir unidades</string>
     <string name="settings_and_help_header">Configurações e ajuda</string>
     <string name="settingslib_learn_more_text">Saiba mais</string>
     <string name="sexual_activity_lowercase_label">Atividade sexual</string>
@@ -715,10 +874,18 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="share_data_description">Escolha os dados que cada app pode ler ou gravar no Conexão e saúde</string>
     <string name="shoulder_press">Desenvolvimento</string>
     <string name="show_recent_access_entries_button_title">Ver todos os acessos recentes</string>
+    <string name="side_sheet_accessibility_pane_title">Página lateral</string>
     <string name="single_arm_triceps_extension">Extensão de tríceps unilateral</string>
     <string name="sit_up">Abdominal</string>
     <string name="skating">Patinação</string>
     <string name="skiing">Esqui</string>
+    <string name="skin_temperature_baseline_title">Linha de base</string>
+    <string name="skin_temperature_delta_details_heading">Variação da linha de base</string>
+    <string name="skin_temperature_lowercase_label">Temperatura da pele</string>
+    <string name="skin_temperature_measurement_location_title">Local de medição</string>
+    <string name="skin_temperature_read_content_description">Leia dados da temperatura da pele</string>
+    <string name="skin_temperature_uppercase_label">Temperatura da pele</string>
+    <string name="skin_temperature_write_content_description">Grave dados da temperatura da pele</string>
     <string name="sleep_category_lowercase">Sono</string>
     <string name="sleep_category_uppercase">Sono</string>
     <string name="sleep_lowercase_label">Dados do sono</string>
@@ -743,6 +910,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="soccer">Futebol</string>
     <string name="sodium">Sódio</string>
     <string name="softball">Softbol</string>
+    <string name="some_data_selected_deletion_confirmation_dialog">Permanently delete selected data from Health Connect?</string>
     <string name="specimen_source_capillary_blood">Sangue capilar</string>
     <string name="specimen_source_interstitial_fluid">Fluido intersticial</string>
     <string name="specimen_source_plasma">Plasma</string>
@@ -781,6 +949,8 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="swimming_open_water">Natação em águas abertas</string>
     <string name="swimming_other">Outro</string>
     <string name="swimming_pool">Natação em piscina</string>
+    <string name="tab_access">Acessar</string>
+    <string name="tab_entries">Entradas</string>
     <string name="table_tennis">Tênis de mesa</string>
     <string name="temperature_celsius">{value, plural, =1 {1 ℃} other {# ℃}}</string>
     <string name="temperature_celsius_long">{value, plural, =1 {1° Celsius} other {#° Celsius}}</string>
@@ -805,6 +975,8 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="tennis">Tênis</string>
     <string name="thiamin">Tiamina</string>
     <string name="things_to_try">Coisas para tentar</string>
+    <string name="this_month_header">Esse mês</string>
+    <string name="this_week_header">Essa semana</string>
     <string name="time_range">%1$s - %2$s</string>
     <string name="time_range_all">Excluir todos os dados</string>
     <string name="time_range_long">%1$s a %2$s</string>
@@ -818,6 +990,7 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="time_range_one_week">Excluir últimos 7 dias</string>
     <string name="time_range_title">Escolha os dados para excluir</string>
     <string name="today_header">Hoje</string>
+    <string name="total_calories_burned">Total: %1$s</string>
     <string name="total_calories_burned_lowercase_label">Calorias totais queimadas</string>
     <string name="total_calories_burned_read_content_description">Ler calorias totais queimada</string>
     <string name="total_calories_burned_uppercase_label">Calorias totais queimadas</string>
@@ -833,6 +1006,14 @@ Isso não afeta outras permissões que esse app possa ter, como local, câmera o
     <string name="upper_twist">Torção superior</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
+    <string name="velocity_minute_km">%1$s min/km</string>
+    <string name="velocity_minute_km_long">%1$s minuto por quilômetro</string>
+    <string name="velocity_minute_miles">%1$s min/mi</string>
+    <string name="velocity_minute_miles_long">%1$s minuto por milha</string>
+    <string name="velocity_minute_per_one_hundred_meters">%1$s min/100 metros</string>
+    <string name="velocity_minute_per_one_hundred_meters_long">%1$s minuto por 100 metros</string>
+    <string name="velocity_minute_per_one_hundred_yards">%1$s min/100 jardas</string>
+    <string name="velocity_minute_per_one_hundred_yards_long">%1$s minuto por 100 jardas</string>
     <string name="velocity_speed_km">{value, plural, =1 {1 km/h} other {# km/h}}</string>
     <string name="velocity_speed_km_long">{value, plural, =1 {1 quilômetro por hora} other {# quilômetros por hora}}</string>
     <string name="velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}}</string>

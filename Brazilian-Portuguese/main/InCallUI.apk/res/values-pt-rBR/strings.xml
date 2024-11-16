@@ -102,6 +102,8 @@
     <string name="call_record_wait_label">Aguardando</string>
     <string name="call_recording">Gravação de chamada em andamento</string>
     <string name="call_recording_deny_permission_msg">"Não é possível gravar. Conceda as permissões nas Configurações primeiro."</string>
+    <string name="call_recording_disclaimer_msg">"A lei aplicável na jurisdição em que você ou outros participantes da chamada estão localizados pode exigir que todas as partes concordem com a gravação. Você é obrigado a cumprir tais leis e a Xiaomi não será responsável por qualquer uso ilegal deste recurso. As gravações de chamadas são armazenadas apenas no seu dispositivo e não podem ser acessadas pela Xiaomi."</string>
+    <string name="call_recording_disclaimer_title">Isenção de responsabilidade</string>
     <string name="call_recording_error_low_storage">Não há espaço suficiente no armazenamento.</string>
     <string name="call_recording_error_privacy">"Não é possível gravar enquanto você está no Modo convidado"</string>
     <string name="call_recording_error_sd_access">"Não é possível acessar o cartão SD"</string>
@@ -359,6 +361,10 @@
     <string name="notification_on_hold">Em espera</string>
     <string name="notification_ongoing_call">Chamada em andamento</string>
     <string name="notification_requesting_video_call">Solicitação de vídeo recebida</string>
+    <string name="offline_call_chat_text">Comunicação entre dispositivos</string>
+    <string name="offline_call_rssi_great_text">Sinal forte</string>
+    <string name="offline_call_rssi_poor_text">Sinal fraco</string>
+    <string name="offline_call_rssi_poor_toast">Sinal de Bluetooth fraco. Isso pode afetar a qualidade da chamada.</string>
     <string name="ok">"OK"</string>
     <string name="on_call_recording">Gravando</string>
     <string name="onscreenEndCallText">Finalizar</string>
@@ -531,6 +537,7 @@ Mantenha o dispositivo nesta posição."</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="speakerphone_tip">Dobre o dispositivo para usar o fone de ouvido ou alto-falante</string>
+    <string name="start_call_record">Iniciar</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

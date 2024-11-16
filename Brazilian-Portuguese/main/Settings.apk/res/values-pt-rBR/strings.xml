@@ -1576,10 +1576,10 @@ para ^2"</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Qualidade de áudio e conexão balanceada (%1$d kbps/%2$d kbps)</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Otimizado para qualidade de conexão (%1$d kbps/%2$d kbps)</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Melhor efeito (taxa de bits adaptável)</string>
-    <string name="bluetooth_a2dp_profile_summary_connected">Conectado ao áudio de mídia</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Conectado ao áudio da mídia</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Usado para áudio de mídia</string>
-    <string name="bluetooth_active_battery_level">Ativo, bateria %1$s</string>
-    <string name="bluetooth_active_battery_level_untethered">Ativo, E: %1$s de bateria, D: %2$s de bateria</string>
+    <string name="bluetooth_active_battery_level">Ativo | Bateria %1$s</string>
+    <string name="bluetooth_active_battery_level_untethered">Ativo, E: %1$s bateria | D: %2$s bateria</string>
     <string name="bluetooth_active_no_battery_level">Ativo</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avançado</string>
     <string name="bluetooth_ask_disablement">%1$s quer desativar o Bluetooth</string>
@@ -1615,9 +1615,9 @@ para ^2"</string>
     <string name="bluetooth_auracast_source_explain_summary">Quando ativado, as pessoas próximas podem receber áudio do seu dispositivo com um código de conexão.</string>
     <string name="bluetooth_auracast_source_opend_summary">Código de conexão:</string>
     <string name="bluetooth_battery_level">Bateria %1$s</string>
-    <string name="bluetooth_battery_level_untethered">E: %1$s de bateria, D: %2$s de bateria</string>
+    <string name="bluetooth_battery_level_untethered">E: %1$s bateria | D: %2$s bateria</string>
     <string name="bluetooth_bc_profile_summary_connected">Conectado ao servidor BA</string>
-    <string name="bluetooth_bc_profile_summary_use_for">Use para BA.</string>
+    <string name="bluetooth_bc_profile_summary_use_for">Usado para BA</string>
     <string name="bluetooth_bcast_rcvr_device_name">Receptor de transmissão</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Cancelar</string>
     <string name="bluetooth_blacklist_remove_device">Desbloquear</string>
@@ -1724,10 +1724,10 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_connected_multiple_devices_summary">Conectado a vários dispositivos</string>
     <string name="bluetooth_connected_no_a2dp">Conectado (sem mídia) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Conectado (sem mídia) | Bateria %1$s %2$s</string>
-    <string name="bluetooth_connected_no_headset">Conectado (sem telefone) %1$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Conectado (sem telefone) | Bateria %1$s %2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem telefone ou mídia) %1$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectado (sem telefone ou mídia) | Bateria %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset">Conectado (sem dispositivo) %1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Conectado (sem dispositivo) | Bateria %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem dispositivo ou mídia) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectado (sem dispositivo ou mídia) | Bateria %1$s %2$s</string>
     <string name="bluetooth_connected_no_map">Conectado (sem acesso a mensagens) %1$s</string>
     <string name="bluetooth_connected_summary">Conectado a %1$s</string>
     <string name="bluetooth_connecting">Conectando…</string>
@@ -1788,7 +1788,7 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Reinicie o dispositivo para alterar essa configuração.</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Reiniciar?</string>
     <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
-    <string name="bluetooth_disable_absolute_volume_summary">Desativar volume absoluto para o Bluetooth no caso de problemas com dispositivos remotos, como volumes extremamente altos ou a impossibilidade de controlá-lo.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Desativa o recurso de volume absoluto do Bluetooth em caso de problemas de volume com dispositivos remotos, como volume inaceitavelmente alto ou falta de controle.</string>
     <string name="bluetooth_disable_hw_offload_dialog_cancel">Cancelar</string>
     <string name="bluetooth_disable_hw_offload_dialog_confirm">Reiniciar</string>
     <string name="bluetooth_disable_hw_offload_dialog_message">Você precisa reiniciar seu dispositivo para alterar esta configuração.</string>
@@ -1817,14 +1817,14 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_dock_settings_headset">Como viva-voz</string>
     <string name="bluetooth_dock_settings_remember">Lembrar configurações</string>
     <string name="bluetooth_dock_settings_title">Usar dock para áudio</string>
-    <string name="bluetooth_dun_profile_summary_connected">Conectado ao servidor DUN</string>
-    <string name="bluetooth_dun_profile_summary_use_for">Usado para acesso à rede dial up</string>
+    <string name="bluetooth_dun_profile_summary_connected">Conectado ao servidor Dun</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Usado para acesso à rede Dial-up</string>
     <string name="bluetooth_empty_list_bluetooth_off">Com o Bluetooth ativado, o dispositivo pode se comunicar com dispositivos próximos</string>
     <string name="bluetooth_empty_list_user_restricted">Você não tem permissão para alterar as configurações do Bluetooth.</string>
     <string name="bluetooth_enable">"Bluetooth"</string>
     <string name="bluetooth_enable_alphanumeric_pin">O PIN contém letras ou símbolos</string>
     <string name="bluetooth_enable_gabeldorsche">Ativar Gabeldorsche</string>
-    <string name="bluetooth_enable_gabeldorsche_summary">Ativa a pilha de recursos Bluetooth Gabeldorsche.</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">Ativa a pilha de recursos Gabeldorsche do Bluetooth</string>
     <string name="bluetooth_enable_leaudio_allow_list">Ativar lista de permissões de áudio Bluetooth LE</string>
     <string name="bluetooth_enable_leaudio_allow_list_summary">Ative o recurso de lista de permissões de áudio Bluetooth LE.</string>
     <string name="bluetooth_enable_opp_high_speed">Transferências Bluetooth de alta velocidade</string>
@@ -1853,16 +1853,16 @@ Você não conectou a %2$s antes."</string>
       (Deixe o PIN de transmissão em branco se for uma fonte de transmissão não criptografada)"</string>
     <string name="bluetooth_hd_music_play_summary">Reproduza áudio de %dkHz em dispositivos Bluetooth sem reduzir a taxa de amostragem. Os efeitos Dolby não estarão disponíveis quando esse recurso estiver ativado.</string>
     <string name="bluetooth_hd_music_play_title">Reproduzir áudio de %dkHz</string>
-    <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do telefone</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Usado para áudio do telefone</string>
-    <string name="bluetooth_hearing_aid_left_active">Ativo (somente o esquerdo)</string>
+    <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do dispositivo</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Usado para áudio do dispositivo</string>
+    <string name="bluetooth_hearing_aid_left_active">Ativo (apenas esquerdo)</string>
     <string name="bluetooth_hearing_aid_left_and_right_active">Ativo (ambos)</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado ao aparelho auditivo</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Usado para aparelho auditivo</string>
-    <string name="bluetooth_hearing_aid_right_active">Ativo (somente o direito)</string>
-    <string name="bluetooth_hearingaid_left_battery_level">Esquerdo | bateria %1$s</string>
+    <string name="bluetooth_hearing_aid_right_active">Ativo (apenas direito)</string>
+    <string name="bluetooth_hearingaid_left_battery_level">Esquerdo | Bateria %1$s</string>
     <string name="bluetooth_hearingaid_left_pairing_message">Pareando aparelho auditivo esquerdo…</string>
-    <string name="bluetooth_hearingaid_right_battery_level">Direito | bateria %1$s</string>
+    <string name="bluetooth_hearingaid_right_battery_level">Direito | Bateria %1$s</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Pareando aparelho auditivo direito…</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado ao dispositivo de entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">Usado para entrada</string>
@@ -1879,8 +1879,8 @@ Aqui está o que pode estar errado:
     <string name="bluetooth_is_discoverable">Visível para todos os disp. Bluetooth próx. (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Visível para todos os dispositivos Bluetooth próximos</string>
     <string name="bluetooth_is_visible_message">%1$s está visível para dispositivos próximos enquanto as configurações do Bluetooth estão abertas.</string>
-    <string name="bluetooth_le_audio_profile_summary_connected">Conectado a LE Audio</string>
-    <string name="bluetooth_le_audio_profile_summary_use_for">Use para LE Audio</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Conectado ao LE Audio</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Usado para LE Audio</string>
     <string name="bluetooth_left_name">Esquerdo</string>
     <string name="bluetooth_lock_voice_dialing">Bloquear discagem por voz</string>
     <string name="bluetooth_lock_voice_dialing_summary">Impedir o uso do discador Bluetooth quando a tela estiver bloqueada.</string>
@@ -1955,7 +1955,7 @@ Para parear o esquerdo, verifique se ele está ligado e pronto para pareamento."
     <string name="bluetooth_pairing_will_share_phonebook">O pareamento garante acesso aos seus contatos e histórico de chamadas quando conectado.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhando internet local com dispositivos</string>
     <string name="bluetooth_pan_profile_summary_use_for">Usado para acesso à internet</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Conectado a disp. para acesso à internet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Conectado ao dispositivo para acesso à internet</string>
     <string name="bluetooth_paring_group_msg">Confirme para parear com o conjunto coordenado</string>
     <string name="bluetooth_pb_acceptance_dialog_text">O %1$s deseja acessar seus contatos e seu histórico de chamadas. Quer conceder acesso ao %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Não perguntar novamente</string>
@@ -1984,23 +1984,23 @@ Você não se conectou a %2$s antes."</string>
     <string name="bluetooth_preference_paired_dialog_title">Dispositivo pareado</string>
     <string name="bluetooth_preference_scan_title">Procurar dispositivos</string>
     <string name="bluetooth_profile_a2dp">Áudio de mídia</string>
-    <string name="bluetooth_profile_a2dp_high_quality">Usar áudio de alta qualidade: %1$s</string>
-    <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Usar áudio de alta qualidade</string>
-    <string name="bluetooth_profile_bc">BC perfil</string>
+    <string name="bluetooth_profile_a2dp_high_quality">Áudio HD: %1$s</string>
+    <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Áudio HD</string>
+    <string name="bluetooth_profile_bc">Perfil BC</string>
     <string name="bluetooth_profile_broadcast">Transmissão</string>
     <string name="bluetooth_profile_details">Configurações do perfil</string>
     <string name="bluetooth_profile_dun">Acesso à rede dial-up</string>
-    <string name="bluetooth_profile_headset">Áudio do telefone</string>
+    <string name="bluetooth_profile_headset">Chamadas telefônicas</string>
     <string name="bluetooth_profile_hearing_aid">Aparelho auditivo</string>
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
-    <string name="bluetooth_profile_le_audio">LE Audio</string>
-    <string name="bluetooth_profile_map">Usado para acessar mensagens</string>
+    <string name="bluetooth_profile_le_audio">Áudio LE</string>
+    <string name="bluetooth_profile_map">Mensagens de texto</string>
     <string name="bluetooth_profile_opp">Transferência de arquivo</string>
     <string name="bluetooth_profile_pan">Acesso à internet</string>
-    <string name="bluetooth_profile_pan_nap">Compart. de conexão com a internet</string>
-    <string name="bluetooth_profile_pbap">Contatos e compartilhamento do histórico de chamadas</string>
+    <string name="bluetooth_profile_pan_nap">Compartilhar conexão com a internet</string>
+    <string name="bluetooth_profile_pbap">Compartilhar contatos e histórico de chamadas</string>
     <string name="bluetooth_profile_pbap_summary">Usado para compartilhar contatos</string>
-    <string name="bluetooth_profile_sap">Usado para acessar o SIM</string>
+    <string name="bluetooth_profile_sap">Acesso ao SIM</string>
     <string name="bluetooth_profile_vcp">Controle de volume</string>
     <string name="bluetooth_profile_volume_control">Controle de volume</string>
     <string name="bluetooth_quick_toggle_summary">Ativar Bluetooth</string>
@@ -2032,28 +2032,28 @@ adaptativo aptX: Modo de Codec"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Selecionar codec de áudio Bluetooth:
 Bits por amostra"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Modo de canal de áudio Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Selecionar codec de áudio bluetooth:
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Selecione o codec de áudio Bluetooth:
 Modo de canal"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec de áudio Bluetooth LDAC: Qualidade de reprodução</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Selecionar codec de áudio Bluetooth LDAC:
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Selecione o codec de áudio LDAC Bluetooth:
 Qualidade de reprodução"</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec de áudio Bluetooth LHDC: Latência</string>
-    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Selecionar codec de áudio Bluetooth LHDC:
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Selecione o codec de áudio LHDC Bluetooth:
 Latência"</string>
-    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec de áudio Bluetooth LHDC: Qualidade de reprodução</string>
-    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Selecionar codec de áudio Bluetooth LHDC:
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec de áudio LHDC Bluetooth: Qualidade de reprodução</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Selecionar codec de áudio LHDC Bluetooth:
 Qualidade de reprodução"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Taxa de amostra do áudio Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selecionar codec de áudio bluetooth:
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Selecione o codec de áudio Bluetooth:
 Taxa de amostra"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">"Transmissão: %1$s"</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec de áudio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Selecionar codec de áudio Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_type_help_info">Itens em cinza não são suportados pelo telefone ou fone de ouvido</string>
+    <string name="bluetooth_select_a2dp_codec_type_help_info">Itens em cinza não são suportados pelo dispositivo ou fone de ouvido</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Selecionar versão Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versão Bluetooth AVRCP</string>
     <string name="bluetooth_select_map_version_dialog_title">Selecionar versão do Bluetooth MAP</string>
-    <string name="bluetooth_select_map_version_string">Versão do Bluetooth MAP</string>
+    <string name="bluetooth_select_map_version_string">Versão Bluetooth MAP</string>
     <string name="bluetooth_setting_off">Desativado</string>
     <string name="bluetooth_setting_on">Ativado</string>
     <string name="bluetooth_settings">"Bluetooth"</string>
@@ -3483,7 +3483,7 @@ Para tentar resolver esse problema, você pode forçar a parada do app %1$s e im
 Para resolver esse problema, desative a localização para esse app."</string>
     <string name="dialog_location_ok">Desativar</string>
     <string name="dialog_location_title">Desativar localização?</string>
-    <string name="dialog_network_priority_title">Prioridade</string>
+    <string name="dialog_network_priority_title">Rede prioritária</string>
     <string name="dialog_no">Não</string>
     <string name="dialog_restrict_all_mobile_summary">A conexão de dados móveis do %s será restringida para todos os apps depois disso.</string>
     <string name="dialog_restrict_all_mobile_title">Restringir conexão de dados móveis do %s</string>
@@ -3749,7 +3749,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dropdown_menu">Menu suspenso</string>
     <string name="dsda_close_toast">O Modo ativo duplo está desativado. Reinicialize o dispositivo para aplicar as alterações.</string>
     <string name="dsda_open_toast">O Modo ativo duplo está ativado. Reinicialize o dispositivo para aplicar as alterações.</string>
-    <string name="dsda_switch_summary">Permite que ambos os cartões SIM usem dados móveis e façam chamadas simultaneamente</string>
+    <string name="dsda_switch_summary">Quando estiver em ambiente de rede 5G, permita que ambos os cartões SIM usem dados móveis e façam chamadas simultaneamente.</string>
     <string name="dsda_switch_title">Modo ativo duplo</string>
     <string name="dsds_activation_failure_body_msg1">Remova o SIM e insira-o novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
     <string name="dsds_activation_failure_body_msg2">Tente ativar o SIM novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
@@ -3859,7 +3859,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_blurs_on_windows_title">Permitir desfoques</string>
     <string name="enable_compatibility">Dimensionar app</string>
     <string name="enable_crbt_pref_summary">"Não mostre vídeos de perfil para chamadas recebidas durante o teste"</string>
-    <string name="enable_crbt_pref_title">Desative vídeos de perfil para chamadas recebidas</string>
+    <string name="enable_crbt_pref_title">Desativar vídeos de perfil para chamadas recebidas</string>
     <string name="enable_freeform_support">Ativar janelas flutuantes</string>
     <string name="enable_freeform_support_summary">Ative o suporte experimental para janelas flutuantes.</string>
     <string name="enable_gnss_raw_meas_full_tracking">Forçar medições completas de GNSS</string>
@@ -3882,7 +3882,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_notes_role_summary">Ative integrações de sistemas de anotações por meio da função Notes. Se a função Notes já estiver ativada, não faz nada.</string>
     <string name="enable_notes_role_title">Forçar a ativação da função do Notes</string>
     <string name="enable_opengl_traces_title">Ativar rastreamento OpenGL</string>
-    <string name="enable_preferred_network_type_summary">Visualize e defina seu tipo de rede em Configurações > Cartões SIM e redes móveis > Cartão SIM</string>
+    <string name="enable_preferred_network_type_summary">Visualize e defina seu tipo de rede em Configurações > Redes móveis > Cartão SIM</string>
     <string name="enable_preferred_network_type_title">Mostrar menu de tipo de rede preferido</string>
     <string name="enable_quick_setting">Mostrar em \"Configurações rápidas\"</string>
     <string name="enable_quick_start">Ativar o início rápido</string>
@@ -4356,7 +4356,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fiveg_nrca_switch_title">Agregação de operadora 5G</string>
     <string name="fiveg_sa_switch_summary">Usa a rede SA no SIM 2 (apenas para teste)</string>
     <string name="fiveg_sa_vice_switch_title">Rede SA no SIM 2</string>
-    <string name="fiveg_vonr_switch_summary">Usa VoNR em ambientes de rede 5G para melhorar a experiência de chamada. Este recurso é fornecido apenas para fins de teste.</string>
+    <string name="fiveg_vonr_switch_summary">Use VoNR em ambientes de rede 5G para melhorar a experiência de chamada. Este recurso é fornecido apenas para fins de teste.</string>
     <string name="fiveg_vonr_switch_title">Configurações VoNR</string>
     <string name="fix_connectivity">Corrigir conectividade</string>
     <string name="flash_drive_backup_disable">Conecte o drive USB primeiro</string>

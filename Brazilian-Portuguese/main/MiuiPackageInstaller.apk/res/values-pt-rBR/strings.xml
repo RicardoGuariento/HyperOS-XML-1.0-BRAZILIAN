@@ -260,7 +260,10 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="elder_mode_title">Proteção aos idosos</string>
     <string name="empty_app">Nenhum app</string>
     <string name="enhance_mode_close_feedback">Obrigado por usar a Proteção aprimorada</string>
+    <string name="enhance_mode_close_tip">O Modo seguro permanecerá ativado mesmo se você desativar a Proteção aprimorada.</string>
     <string name="enhance_mode_feedback_reason">Por que você está desativando esse recurso?</string>
+    <string name="enhance_mode_intro">Suporta apenas a instalação de apps que foram revisados pelo GetApps</string>
+    <string name="enhance_mode_open_tip">Ative o Modo seguro primeiro</string>
     <string name="enhance_safe_guard_mode_description">Instale apenas apps que passaram nos testes da Play Store para proteger seu dispositivo contra vírus e malware</string>
     <string name="enhance_safe_guard_title">Ative a Proteção aprimorada para evitar apps com riscos</string>
     <string name="enhance_safe_mode">Proteção aprimorada</string>
@@ -402,6 +405,11 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="install_app_loading">Verificando o pacote de instalação…</string>
     <string name="install_apps_user_restriction_dlg_text">Este usuário não tem permissão para instalar apps</string>
     <string name="install_completed_pure_open_tip_title">Ative o Modo seguro para bloquear apps arriscados e garantir sua segurança.</string>
+    <string name="install_failed_secure_frp">"Para sua segurança, o Android não permite a instalação de apps imediatamente após a redefinição do dispositivo se sua Conta do Google ainda estiver conectada."</string>
+    <string name="install_failed_secure_frp_suggestion">"Passo 1: Toque em \"Serviços básicos do Google\" e ative-o.
+Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de redefinir o dispositivo.
+%1$s"</string>
+    <string name="install_failed_secure_frp_suggestion_clickable">Abrir Configurações</string>
     <string name="install_hint_enhanced_mode_hint">Proteção aprimorada</string>
     <string name="install_hint_enhanced_mode_hint_desc">"A Proteção aprimorada está ativada. Este app foi substituído pela versão que passou em nossos testes de segurança. Se você ainda quiser instalar esta versão, toque em \"︙\" e selecione \"Permitir uma vez\". "</string>
     <string name="install_hint_enhanced_mode_hint_desc_clickable">Saiba mais</string>
@@ -743,6 +751,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="open">Ativar</string>
     <string name="open_and_exit">Ativar</string>
     <string name="open_enhanced_protection">Ative a Proteção aprimorada</string>
+    <string name="open_safe_mode">Ativar</string>
     <string name="open_install_authorization">Exigir autorização antes de instalar apps de risco</string>
     <string name="open_now">Ativar</string>
     <string name="open_pure_mode_sucess_toast">O Modo seguro está ativado. As alterações serão aplicadas durante a próxima instalação.</string>
@@ -1000,6 +1009,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="permission_name_system_camera">Usar câmera do sistema</string>
     <string name="permission_name_write_calendar">Adicionar e editar eventos do calendário</string>
     <string name="permission_name_write_external_storage">Salvar itens no armazenamento do dispositivo</string>
+    <string name="permissoion_management">Permissões</string>
     <string name="perm_sysopt_boost_auto_start">Permissão de início automático</string>
     <string name="perm_sysopt_boost_auto_start_summary">Este app pode iniciar automaticamente</string>
     <string name="permdesc_togglePermissions">Permite que o proprietário inicie a interface do usuário para alternar as permissões do app. Não deve ser necessário para apps comuns.</string>
@@ -1193,6 +1203,7 @@ Como alternativa, você pode desativar o Modo simples e tentar novamente.</strin
     <string name="security_mode_open_notification_action_button">Detalhes</string>
     <string name="security_mode_open_notification_msg">Seu dispositivo está protegido</string>
     <string name="security_mode_open_notification_title">Modo seguro está ativado</string>
+    <string name="security_mode_open_title">Bem-vindo</string>
     <string name="security_mode_renamed">O Modo seguro agora é</string>
     <string name="security_mode_renamed_ok">Entendi</string>
     <string name="send">Enviar</string>
@@ -1207,8 +1218,8 @@ para instalar outros apps"</string>
 estão seguros"</string>
     <string name="service_mode_advantage_app_security_detection_title">Nossos testes de segurança</string>
     <string name="service_mode_advantage_bottom_tip">Modo seguro</string>
-    <string name="service_mode_advantage_icon_dark_desc">"Os apps baixados nem sempre são seguros. &lt;br>Eles podem expor seus dados privados. &lt;br>Muitos apps são usados ​​para fraudes e golpes. &lt;br>&lt;font color=#569a77>Modo seguro&lt;/font> está aqui para resolver esses problemas."</string>
-    <string name="service_mode_advantage_icon_desc">"Os apps baixados nem sempre são seguros. &lt;br>Eles podem expor seus dados privados. &lt;br>Muitos apps são usados ​​para fraudes e golpes.&lt;br>&lt;font color=#52E0A6>Modo seguro&lt;/font> está aqui para resolver esses problemas."</string>
+    <string name="service_mode_advantage_icon_dark_desc">"Os apps baixados nem sempre são seguros. &lt;br>Eles podem expor seus dados privados. &lt;br>Muitos apps são usados ​​para fraudes e golpes. O&lt;br>&lt;font color=#569a77>Modo seguro&lt;/font> está aqui para resolver esses problemas."</string>
+    <string name="service_mode_advantage_icon_desc">"Os apps baixados nem sempre são seguros. &lt;br>Eles podem expor seus dados privados. &lt;br>Muitos apps são usados ​​para fraudes e golpes. O&lt;br>&lt;font color=#52E0A6>Modo seguro&lt;/font> está aqui para resolver esses problemas."</string>
     <string name="service_mode_advantage_pay_protection_subtitle">O Modo seguro verifica o ambiente de pagamento em busca de possíveis riscos para manter suas transações seguras.</string>
     <string name="service_mode_advantage_pay_protection_tip">Proteja suas finanças</string>
     <string name="service_mode_advantage_pay_protection_title">Proteção do ambiente de pagamento</string>
@@ -1251,24 +1262,27 @@ apps vem"</string>
     <string name="service_mode_telecom_fraud_protection_summary">Reconhece e intercepta chamadas e mensagens fraudulentas e evita transferências fraudulentas de fundos.</string>
     <string name="set_management_measures">Definir medidas de proteção</string>
     <string name="settings">Configurações</string>
-
+    <string name="settings_security_mode_service_detailed_msg_1">Proteção contra apps arriscados</string>
+    <string name="settings_security_mode_service_detailed_msg_2">Monitorar comportamento do app</string>
+    <string name="settings_security_mode_service_detailed_msg_3">Proteção de privacidade</string>
+    <string name="settings_security_mode_service_detailed_msg_4">Instale apps seguros</string>
     <string name="settings_security_mode_service_list_title_off_msg">Ative o Modo seguro para aproveitar os seguintes recursos:</string>
     <string name="settings_security_mode_service_list_title_on_msg">O Modo seguro oferece os seguintes recursos</string>
     <string name="settings_security_mode_service_msg_0">Novas medidas antifraude e de proteção da privacidade</string>
-    <string name="settings_security_mode_service_msg_1">Verifique apps de fontes desconhecidas antes da instalação</string>
-    <string name="settings_security_mode_service_msg_2">Controle e restrinja atividades prejudiciais de apps</string>
-    <string name="settings_security_mode_service_msg_3">Controle as permissões relacionadas à privacidade</string>
-    <string name="settings_security_mode_service_msg_4">Verifique o ambiente de pagamento quanto a problemas de segurança</string>
+    <string name="settings_security_mode_service_msg_1">Identifica e limita fontes de instalação desconhecidas para evitar que apps maliciosos coloquem em risco sua segurança</string>
+    <string name="settings_security_mode_service_msg_2">Garante que o processo de instalação do app seja livre de riscos e garante a estabilidade do sistema</string>
+    <string name="settings_security_mode_service_msg_3">Mantém um banco de dados de risco de apps inspecionado manualmente para avaliar os níveis de risco</string>
+    <string name="settings_security_mode_service_msg_4">Controla rigorosamente as permissões de apps para evitar solicitações excessivas que possam violar sua privacidade</string>
     <string name="settings_security_mode_service_opening_msg_1">Proteção contra apps arriscados</string>
     <string name="settings_security_mode_service_opening_msg_2">Monitore o comportamento do app</string>
     <string name="settings_security_mode_service_opening_msg_3">Segurança de pagamento</string>
     <string name="settings_security_mode_service_opening_msg_4">Proteção de privacidade</string>
     <string name="settings_security_mode_service_opening_msg_5">Proteção antifraude</string>
     <string name="settings_security_mode_service_title_0">Instalar apps seguros</string>
-    <string name="settings_security_mode_service_title_1">Proteção contra apps arriscados</string>
-    <string name="settings_security_mode_service_title_2">Monitorar comportamento do app</string>
-    <string name="settings_security_mode_service_title_3">Proteção de privacidade</string>
-    <string name="settings_security_mode_service_title_4">Segurança de pagamento</string>
+    <string name="settings_security_mode_service_title_1">Revisão da fonte do aplicativo</string>
+    <string name="settings_security_mode_service_title_2">Monitoramento de instalação</string>
+    <string name="settings_security_mode_service_title_3">Identificação de apps arriscados</string>
+    <string name="settings_security_mode_service_title_4">Gerenciamento de permissão de privacidade</string>
     <string name="settings_security_mode_status_off_msg">Desativar</string>
     <string name="settings_security_mode_status_on_msg">Modo seguro está ativado</string>
     <string name="settings_security_mode_title_off_msg">Modo seguro</string>

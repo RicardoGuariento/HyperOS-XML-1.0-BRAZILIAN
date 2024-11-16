@@ -1385,9 +1385,17 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_title_smart_subtitle">Transcrição da legenda</string>
     <string name="cs_title_ultraclear">Modo Ultra HD</string>
     <string name="cs_tool_box_max_screen_guide_case_1">Experimente a interpretação simultânea e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_max_screen_guide_case_1_new">Experimente a interpretação simultânea, o Embelezador e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_max_screen_guide_case_2">Experimente uma variedade de recursos de chamadas na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_max_screen_guide_case_2_new">Experimente o Embelezador e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_max_screen_guide_case_3_new">Experimente vários recursos de chamadas na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_max_screen_guide_case_4_new">Experimente a interpretação simultânea e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_phone_guide_case_1">Experimente a interpretação simultânea e outros recursos na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_phone_guide_case_1_new">Experimente a interpretação simultânea, o Embelezador e muito mais na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_phone_guide_case_2">Experimente uma variedade de recursos na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_phone_guide_case_2_new">Experimente o Embelezador e outros recursos da Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_phone_guide_case_3_new">Experimente vários recursos excelentes na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_phone_guide_case_4_new">Experimente a interpretação simultânea e outros recursos na Caixa de ferramentas de chamada</string>
     <string name="cs_voice_print">Gravar impressão de voz</string>
     <string name="cs_voice_search">impressão de voz</string>
     <string name="cs_vt_camera_toast_case1">Abra a câmera no app atual</string>
@@ -2664,6 +2672,7 @@ das suas sessões de jogos"</string>
     <string name="gd_setting_conversation_desc">Fornece uma variedade de recursos para uso em chamadas de áudio e vídeo em tela cheia</string>
     <string name="gd_setting_dock_activity_title">Caixa de ferramentas lateral</string>
     <string name="gd_setting_dock_call_summary">Recursos para chamadas de voz e vídeo (ex.: Luz de preenchimento)</string>
+    <string name="gd_setting_dock_call_summary_new">Use o Embelezador e outros recursos durante chamadas de áudio e vídeo em tela cheia</string>
     <string name="gd_setting_dock_call_title">Caixa de ferramentas de chamada</string>
     <string name="gd_setting_dock_game_summary">Melhore a exibição e o desempenho durante os jogos</string>
     <string name="gd_setting_dock_game_summary_new">Melhore a exibição e o desempenho durante os jogos</string>
@@ -6630,6 +6639,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="pc_current_power_mode">Modo atual</string>
     <string name="pc_cycle_count_protect_title">Ciclos</string>
     <string name="pc_have_no_battery_issue">Sem problemas</string>
+    <string name="pc_health_charge_protect_noti_summary_title">O dispositivo irá parar de carregar quando o nível da bateria atingir %1$s</string>
     <string name="pc_health_charge_protect_notification_summary">Ative a Proteção da bateria para reduzir o envelhecimento da bateria</string>
     <string name="pc_health_charge_protect_summary">Para prolongar a vida útil da bateria, o dispositivo irá parar de carregar quando o nível da bateria atingir %1$s</string>
     <string name="pc_health_charge_protect_title">Proteção da bateria</string>

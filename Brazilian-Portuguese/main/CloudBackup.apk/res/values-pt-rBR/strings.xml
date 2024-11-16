@@ -434,6 +434,8 @@ Por favor, envie este código para o técnico."</string>
     <string name="notification_channel_remind">Lembrete</string>
     <string name="notification_channel_service">Serviço</string>
     <string name="ok">"OK"</string>
+    <string name="oobe_no_available_backups">Nenhum backup disponível</string>
+    <string name="oobe_use_as_new_device">Você pode usar este dispositivo como um novo dispositivo.</string>
     <string name="open_backup_switch">Alterne o botão de backup</string>
     <string name="open_wechat_dialog_message">"Fazer backup de todos os dados do WeChat consumirá grandes quantidades de armazenamento muito rapidamente. Se o armazenamento for insuficiente, o backup dos seus dados não será feito na nuvem e poderão ser perdidos. Ativar mesmo assim?"</string>
     <string name="open_wechat_dialog_negative_btn">Cancelar</string>
@@ -473,6 +475,14 @@ Por favor, envie este código para o técnico."</string>
     <string name="request_permission_post_notification_title">Notificações</string>
     <string name="request_permissions_dialog_description">Conceda permissões para enviar notificações e lembretes para poder desfrutar de todos os serviços que o backup na nuvem oferece.</string>
     <string name="request_permissions_dialog_title">Permissões necessárias</string>
+    <string name="restore_32bit_apps_no_tango_page_primary_button">Continuar</string>
+    <string name="restore_32bit_apps_no_tango_page_secondary_button">Cancelar restauração</string>
+    <string name="restore_32bit_apps_no_tango_page_sub_title">"Esses apps não são compatíveis com a arquitetura %d-bit e não podem ser restaurados neste dispositivo. Você pode continuar o processo de restauração, mas esses apps serão ignorados."</string>
+    <string name="restore_32bit_apps_no_tango_page_title">Apps incompatíveis</string>
+    <string name="restore_32bit_apps_page_primary_button">Ativar</string>
+    <string name="restore_32bit_apps_page_secondary_button">Agora não</string>
+    <string name="restore_32bit_apps_page_sub_title">"Esses apps não são compatíveis com a arquitetura %d-bit. Toque abaixo para ativar o Modo de compatibilidade de apps para restaurar esses apps."</string>
+    <string name="restore_32bit_apps_page_title">Modo de compatibilidade de apps</string>
     <string name="restore_app_order_finish">Concluído</string>
     <string name="restore_app_order_loading">Aguarde…</string>
     <string name="restore_app_order_retry">Repetir</string>

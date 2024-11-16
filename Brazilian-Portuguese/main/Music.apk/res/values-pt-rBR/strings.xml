@@ -240,6 +240,9 @@ Todos os benefícios da assinatura e músicas pagas serão apagados. Você não 
 Quando você opta por limpar todos os dados permanentemente, você é desconectado do app. Limpar todos os dados agora?"</string>
     <string name="asm_delete_data">Limpar dados</string>
     <string name="asm_delete_data_local_and_online">Limpar dados offline e de serviços de streaming</string>
+    <string name="asm_dialog_talk_one">"E aí?"</string>
+    <string name="asm_dialog_talk_three">"Aqui está um teste gratuito de %d mês para começar"</string>
+    <string name="asm_dialog_talk_two">"Vamos explorar novas músicas juntos!"</string>
     <string name="asm_dialog_title_tips">Assinatura VIP</string>
     <string name="asm_dialog_vip_confirm_text">Inscrever-se</string>
     <string name="asm_dialog_vip_message">Inscreva-se para uma assinatura VIP para ouvir músicas de alta qualidade e baixar ainda mais conteúdo.</string>
@@ -289,11 +292,14 @@ Quando você opta por limpar todos os dados permanentemente, você é desconecta
     <string name="asm_message">Notificações</string>
     <string name="asm_network_error">Verifique sua conexão de rede</string>
     <string name="asm_new_song_title">Novas musicas</string>
+    <string name="asm_no_copyright_or_expire">Sem direitos autorais ou expirar</string>
     <string name="asm_no_need_download_songs">A música está na fila de download</string>
     <string name="asm_no_network">"Não foi possível conectar-se à rede"</string>
+    <string name="asm_no_vip">Usuários não VIP</string>
     <string name="asm_not_action_is_local_music">"Não é possível executar esta ação em arquivos locais"</string>
     <string name="asm_notify_use_mobile_download">Baixando com dados móveis</string>
     <string name="asm_online_service_switch">Ative os serviços online nas configurações do app</string>
+    <string name="asm_online_song_error">Erro de carregamento de música ASM</string>
     <string name="asm_page_empty_search">Nenhum resultado encontrado</string>
     <string name="asm_page_error_airplane">Desative o Modo avião para conectar-se</string>
     <string name="asm_page_error_data">Ocorreu um erro</string>
@@ -325,6 +331,7 @@ Quando você opta por limpar todos os dados permanentemente, você é desconecta
     <string name="asm_unknow_album">Álbum desconhecido</string>
     <string name="asm_unknow_artist">Artista desconhecido</string>
     <string name="asm_unlock_tracks_ad_free">Com uma assinatura, você pode aproveitar músicas em alta qualidade e downloads sem anúncios ou interrupções.</string>
+    <string name="asm_vip_center">"Premium"</string>
     <string name="audio_ad_countdown">Pular anúncio em %s s</string>
     <string name="audio_ad_pass">Pular anúncio</string>
     <string name="audio_picker_title">Escolha uma música</string>
@@ -1248,6 +1255,7 @@ Envie este código para o supervisor."</string>
     <string name="need_to_show">Mostrar mais</string>
     <string name="network_disable">"Não foi possível conectar-se à rede"</string>
     <string name="network_error_and_retry">"Não foi possível conectar. Toque para tentar novamente."</string>
+    <string name="network_not_available">Sem rede</string>
     <string name="network_request_error">"Não é possível conectar-se à rede"</string>
     <string name="network_settings_error">"Não é possível conectar-se à rede"</string>
     <string name="network_tip_title">Transmita um mundo de novas músicas</string>

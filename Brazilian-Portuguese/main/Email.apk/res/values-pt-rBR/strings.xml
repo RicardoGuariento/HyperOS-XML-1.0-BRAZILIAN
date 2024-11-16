@@ -317,6 +317,11 @@ IMAP"</string>
     <string name="bottom_bar_more_quickreply">Resposta rápida</string>
     <string name="bottom_bar_more_share">Compartilhar</string>
     <string name="bottom_bar_no_quickreply_toast">Nenhuma resposta rápida</string>
+    <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
+    <string name="bottomsheet_action_expand">Expandir a página inferior</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="bottomsheet_drag_handle_clicked">Arraste a alça com um toque duplo</string>
+    <string name="bottomsheet_drag_handle_content_description">Arrastar alça</string>
     <string name="broker_helper_manifest">Filtro de intenção para AndroidManifest.xml</string>
     <string name="broker_helper_package">Nome do pacote deve ser inserido ao registrar o app</string>
     <string name="broker_helper_redirect">Redirecionar URI para arquivo de configuração json</string>
@@ -1168,6 +1173,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="ntes_had_send">Mensagem enviada</string>
     <string name="ntes_had_send_to_content">Se você já enviou um SMS a partir do número de telefone associado, toque em \"Mensagem enviada\" para continuar.</string>
     <string name="ntes_login_auth_too_much">"Não é possível adicionar mais de 5 códigos de verificação. Faça login em sua caixa de entrada em um computador e exclua os códigos que você não está usando."</string>
+    <string name="ntes_login_error_exceed_num_limit">Excedeu o limite numérico</string>
     <string formatted="false" name="ntes_login_error_message">"Não é possível obter informações da conta (Erro %s). %s."</string>
     <string name="ntes_password_error_hint">"Caso ocorram erros ao inserir a senha, feche esta página e abra-a novamente."</string>
     <string name="ntes_phone_send">Enviar uma mensagem de texto a partir do número de telefone associado</string>

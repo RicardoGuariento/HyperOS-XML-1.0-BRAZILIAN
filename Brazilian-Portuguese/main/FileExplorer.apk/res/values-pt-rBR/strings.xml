@@ -42,6 +42,8 @@
     <string name="afternoon">"PM"</string>
     <string name="aggree_desc">Permita que este app conecte-se à internet e conceda as permissões necessárias listadas acima.</string>
     <string name="agree">Aceitar</string>
+    <string name="ai_search_progress">Analisando arquivos… (%s)</string>
+    <string name="ai_search_progress_tips">"Mantenha seu dispositivo conectado ao carregador. Ele analisará os arquivos mais rapidamente quando a tela estiver desligada."</string>
     <string name="am">"AM"</string>
     <string name="app_all_purpose">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar os arquivos armazenados no seu dispositivo."</string>
     <string name="app_all_purpose_global">Bem-vindo ao Arquivos! Você pode usar este app para pré-visualizar e gerenciar os arquivos armazenados no seu dispositivo.</string>
@@ -63,6 +65,11 @@
     <string name="available_size">Disponível: %s</string>
     <string name="big5_summary">Codificação padrão para o Chinês Tradicional do Windows</string>
     <string name="big5_title">BIG5</string>
+    <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
+    <string name="bottomsheet_action_expand">Expandir a página inferior</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="bottomsheet_drag_handle_clicked">Arraste a alça com um toque duplo</string>
+    <string name="bottomsheet_drag_handle_content_description">Arrastar alça</string>
     <string name="by_date">Data de modificação</string>
     <string name="by_name">Nome</string>
     <string name="by_size">Tamanho</string>
@@ -145,6 +152,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="cloud_guide_summary_text">Sincronize automaticamente seus itens com todos os seus dispositivos</string>
     <string name="cloud_guide_title_text">Sincronizar com o Mi Drive</string>
     <string name="cloud_permission_storage_desc">Para salvar fotos e documentos em seu dispositivo</string>
+    <string name="cloud_recently_deleted">Excluído recentemente</string>
     <string name="cloud_recycle_bin">Itens excluídos recentemente</string>
     <string name="cloud_recently_deleted">Excluído recentemente</string>
     <string name="cloud_space_full">O armazenamento em nuvem está cheio. Atualize seu plano de armazenamento para poder enviar mais itens.</string>
