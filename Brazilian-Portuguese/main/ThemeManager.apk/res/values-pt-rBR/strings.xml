@@ -893,7 +893,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="personalized_cta_content_text">Bem-vindo ao Temas! Você pode usar este app para gerenciar seus planos de fundo, tons de toque, fontes e muito mais.</string>
     <string name="phone_exit_theme_warning_content">"Você não poderá realizar as seguintes ações depois de sair:
 1. Visualizar e usar os itens que você comprou ou adicionou aos favoritos.
-2. Adicionar comentários e likes, siguir outras pessoas e interagir com elas."</string>
+2. Adicionar comentários e likes, seguir outras pessoas e interagir com elas."</string>
     <string name="phone_exit_theme_warning_title">Fazer logout do Temas?</string>
     <string name="phone_log_in_theme">Fazer login no Temas</string>
     <string name="phone_log_in_theme_detail"><Data>"Li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do Temas, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
@@ -1793,4 +1793,84 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="yesterday">Ontem</string>
+    <string name="system_personalize_title">Personalização</string>
+    <string name="personalize_theme_title">Temas</string>
+    <string name="personalize_aod_notify_style_title">Notificações na tela ambiente</string>
+    <string name="choose_from_photo">Selecionar da Galeria</string>
+    <string name="ai_wallpaper">Planos de fundo dinâmicos IA</string>
+    <string name="ai_moving_your_wallpaper">Dê vida aos seus planos de fundo com IA</string>
+    <string name="ai_wallpaper_inside_invitation">Teste beta dos planos de fundo dinâmicos com IA</string>
+    <string name="ai_wallpaper_i_know">Entendi</string>
+    <string name="ai_wallpaper_inside_invitation_agree">Concordo</string>
+    <string name="ai_wallpaper_inside_invitation_disagree">"Não Concordo"</string>
+    <string name="ai_wallpaper_inside_invitation_description">Este recurso usa inteligência artifical para usar fotos de paisagens, cidades, plantas e carros e criar papéis de parede de vídeo dinâmicos. Clique \"Concordo\" para usar!</string>
+    <string name="ai_wallpaper_network_connection_exception">"Não foi possível se conectar à rede"</string>
+    <string name="ai_wallpaper_network_exception">Ocorreu um erro na rede</string>
+    <string name="ai_wallpaper_no_longer">"Não mostrar novamente"</string>
+    <string name="ai_wallpaper_not_conform_to_generation_condition">"Não é possível gerar um papel de parede para esta imagem"</string>
+    <string name="ai_wallpaper_notification_title">Temas</string>
+    <string name="ai_wallpaper_retry">Tente novamente</string>
+    <string name="ai_wallpaper_select_picture">Selecionar</string>
+    <string name="ai_wallpaper_selection_prompt">Select fotos</string>
+    <string name="ai_wallpaper_selection_prompt_message">Para obter melhores resultados, escolha fotos que se enquadrem nas categorias a seguir e certifique-se de que o foco principal da imagem esteja claro e visível.</string>
+    <string name="ai_wallpaper_no_longer">"Não mostrar novamente"</string>
+    <string name="ai_wallpaper_function_introduction">Transforme imagens de paisagens, cidades, plantas, carros e muito mais em vídeos dinâmicos</string>
+    <string name="ai_wallpaper_start_use">Começar</string>
+    <string name="ai_wallpaper_service_exception">Ocorreu um erro</string>
+    <string name="ai_wallpaper_start_use">Começar</string>
+    <string name="ai_wallpaper_tips_car">Caros</string>
+    <string name="ai_wallpaper_tips_city">Cidades</string>
+    <string name="ai_wallpaper_tips_content_violation">"Este conteúdo pode violar nossas diretrizes. Não é possível continuar gerando o papel de parede."</string>
+    <string name="ai_wallpaper_tips_network_exception">"Não foi possível conectar. Confira as conexões de rede e tente novamente."</string>
+    <string name="ai_wallpaper_tips_plant">Plantas</string>
+    <string name="ai_wallpaper_tips_service_exception">Erro no servidor. Aguarde alguns minutos e tente novamente.</string>
+    <string name="ai_wallpaper_tips_title_content_violation">Conteúdo Impróprio</string>
+    <string name="ai_wallpaper_tips_view">Paisagens</string>
+    <string name="ai_select_title">"Não foi possível processar a imagem"</string>
+    <string name="ai_select_message">Selecione apenas imagens de paisagens, cidades, plantas e carros, e certifique-se de que o foco principal da imagem esteja claro e visível.</string>
+    <string name="ai_select_again">Selecionar</string>
+    <string name="ai_wallpaper_cancel">Cancelar</string>
+    <string name="ai_generate_loading">Gerando plano de fundo…</string>
+    <string name="ai_generate_background">Finalizar em segundo plano</string>
+    <string name="function_introduction">Saber mais</string>
+    <string name="about_ai_wallpaper">Sobre</string>
+    <string name="ai_generate">Gerado por IA</string>
+    <string name="ai_generate_determine">Analisando imagens…</string>
+    <string name="ai_generate_action">Gerar</string>
+    <string name="ai_generate_loading">Gerando plano de fundo…</string>
+    <string name="ai_generate_wallpaper_done">Plano de fundo dinâmico com IA gerado com sucesso</string>
+    <string name="ai_generate_wallpaper_fail">"Não foi possível gerar papel de parede dinâmico com IA"</string>
+    <string name="ai_generate_wallpaper_fail_message">As fotos que você selecionou podem ter violado nossas diretrizes. Selecione novas fotos.</string>
+    <string name="ai_inquire_apply_wallpaper">Aplicar esse plano de fundo?</string>
+    <string name="ai_read_the_privacy_policy">&lt;Data>Leia e aceite o &lt;a href=\"%1$s\">Contrato do usuário&lt;/a> e &lt;a href=\"%2$s\">Política de privacidade&lt;/a> antes de continuar.&lt;/Data></string>
+    <string name="ai_read_the_privacy_policy_pad">&lt;Data>Leia e aceite o &lt;a href=\"%1$s\">Contrato do usuário&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade de Papel de Parede e Personalização&lt;/a> antes de continuar.&lt;/Data></string>
+    <string name="ai_wallpaper_click_to">Toque para ver</string>
+    <string name="ai_wallpaper_account_exception">"Parece que há um problema com sua conta. Tente mais tarde ou troque a conta."</string>
+    <string name="ai_cannot_scrolling_with_the_screen">"Não é possível ativar a rolagem para este plano de fundo"</string>
+    <string name="ai_generate_forbid">"Estamos atualizando esse recurso. Fique ligado!"</string>
+    <string name="ai_generate_message">"Se você gerar um plano de fundo dinâmico, as alterações feitas na versão estática. Gerar agora?"</string>
+    <string name="ai_generate_text">Gerar plano de fundo dinâmico</string>
+    <string name="ai_generate_title">Gerar plano de fundo dinâmico?</string>
+    <string name="ai_generate_verify_text">Verificando o conteúdo da imagem…</string>
+    <string name="ai_generate_waiting">Há muitas pessoas na fila no momento, tente novamente mais tarde</string>
+    <string name="apply_wallpaper_dialog_title">Aplicar este plano de fundo?</string>
+    <string name="apply_wallpaper_only_home">Apenas na tela inicial</string>
+    <string name="apply_wallpaper_to_lockscreen">Aplicar este plano de fundo na tela de bloqueio também?</string>
+    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">"Você está usando um conjunto de plano de fundo. Se você aplicar um novo, tanto o plano de fundo da tela inicial quanto o da tela de bloqueio serão substituídos, e a tela será restaurada ao seu estilo anterior. Aplicar agora?"</string>
+    <string name="apply_wallpaper_warning_use_linked_wallpaper">"Você está usando um conjunto de plano de fundo. Se você aplicar um novo, tanto o plano de fundo da tela inicial quanto o da tela de bloqueio serão substituídos, e a tela será restaurada ao seu estilo anterior. Aplicar agora?"</string>
+    <string name="kg_effects_tip_title">Efeito de profundidade e filtros</string>
+    <string name="kg_effects_tip_desc">"O efeito de profundidade não pode ser combinado com filtros. Usar um deles substituirá o outro."</string>
+    <string name="kg_effects_tip_not_support">"Não é possível aplicar efeitos a papéis de parede dinâmicos"</string>
+    <string name="kg_effects_tip_not_support_third_party_wallpaper_service">"Papéis de parede de terceiros não suportam efeitos"</string>
+    <string name="kg_enable_blur">Efeito fosco</string>
+    <string name="kg_function_button_text_hierarchy">Profundidade</string>
+    <string name="kg_hierarchy_switch_label">Efeito de profundidade</string>
+    <string name="effect_lock">Efeito na tela de bloqueio</string>
+    <string name="effect_home">Efeito na tela inicial</string>
+    <string name="kg_function_button_text_effect">Efeitos do plano de fundo</string>
+    <string name="kg_wallpaper_filter_title">Efeitos do plano de fundo</string>
+    <string name="kg_wallpaper_scroll_type_tips">Rolar plano de fundo</string>
+    <string name="kg_wallpaper_filter_type_obscure">Fosco</string>
+    <string name="kg_wallpaper_filter_type_striped_glass">Vidro</string>
+    <string name="kg_effects_tip_button">Entendi</string>
 </resources>
