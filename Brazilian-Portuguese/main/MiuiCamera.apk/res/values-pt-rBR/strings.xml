@@ -514,6 +514,7 @@ e ajustar preferências automaticamente"</string>
     <string name="beauty_makeups_solid">Contorno</string>
     <string name="beauty_makeups_subeffect_filter">Filtros</string>
     <string name="beauty_makeups_subeffect_makeup">Maquiagem</string>
+    <string name="beauty_makeups_tianmei">Peônia</string>
     <string name="beauty_makeups_toughman">"Bronze"</string>
     <string name="beauty_makeups_xiazhi">Sombra de pálpebra inferior</string>
     <string name="beauty_makeups_yanku">Rainha de gelo</string>
@@ -738,6 +739,7 @@ e ajustar preferências automaticamente"</string>
     <string name="color_effect_entry_blackgold_describe">Este filtro de alto contraste retém apenas as cores amarelo e azul escuro. Use-o em ruas bem iluminadas de uma cidade noturna.</string>
     <string name="color_effect_entry_blackice">Gelo preto</string>
     <string name="color_effect_entry_blackwhite">P&amp;B</string>
+    <string name="color_effect_entry_bright_shining">Brilhante</string>
     <string name="color_effect_entry_butter">Creme</string>
     <string name="color_effect_entry_classic">Clássico</string>
     <string name="color_effect_entry_clearness">Limpo</string>
@@ -1431,7 +1433,7 @@ no Modo Retrato"</string>
     <string name="live_tab_music_close_accessibility">Desativar música</string>
     <string name="live_video_original_sound">Áudio original</string>
     <string name="live_workspace_title">Rascunhos</string>
-    <string name="live_workspace_title_edit">Selecione itens para excluir</string>
+    <string name="live_workspace_title_edit">Selecionar itens para excluir</string>
     <string name="live_workspace_title_pause">Parar</string>
     <string name="live_workspace_title_play">Reproduzir</string>
     <string name="live_workspace_title_pre_edit">Selecionar itens para excluir</string>
@@ -1853,6 +1855,8 @@ fiquem maiores nas fotos"</string>
     <string name="more_mode_style_popup">Painel \"Mais\"</string>
     <string name="more_mode_style_tab">Guia \"Mais\"</string>
     <string name="morning">"AM"</string>
+    <string name="motion_capture_tip_auto">Captura de movimento ativada automaticamente</string>
+    <string name="motion_capture_tip_off">Captura de movimento desativada</string>
     <string name="msg_bubble_doc4_first_use">Toque para reconhecer o texto</string>
     <string name="msg_toast_doc4_recognition_failed">Ocorreu um erro. Tente novamente.</string>
     <string name="msg_toast_doc4_text_not_found">"Não foi possível detectar o texto"</string>
@@ -2392,7 +2396,9 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_suspend_shutter_button_title">Obturador adicional</string>
     <string name="pref_camera_tap_shoot_summary">Toque na tela de visualização para tirar uma foto</string>
     <string name="pref_camera_tap_shoot_title">Toque para tirar uma foto</string>
+    <string name="pref_camera_tele_depth_entry_expand">PDCE</string>
     <string name="pref_camera_tele_depth_entry_expand_new">Profundidade de campo estendida</string>
+    <string name="pref_camera_tele_depth_entry_simple">PDC raso</string>
     <string name="pref_camera_tele_depth_entryvalue_expand">expandir</string>
     <string name="pref_camera_tele_depth_entryvalue_simple">simples</string>
     <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
@@ -2440,6 +2446,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_watermark_leica">"Leica"</string>
     <string name="pref_camera_watermark_standard">"Regular"</string>
     <string name="pref_camera_watermark_title">Marcar data e hora nas fotos</string>
+    <string name="pref_camera_watermark_title_leica">"Leica"</string>
+    <string name="pref_camera_watermark_title_standard">"Regular"</string>
     <string name="pref_camera_whitebalance_entry_auto">"AUTO"</string>
     <string name="pref_camera_whitebalance_entry_auto_abbr">"AUTO"</string>
     <string name="pref_camera_whitebalance_entry_cloudy">Nublado</string>
@@ -2460,6 +2468,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">"TELE 5X"</string>
     <string name="pref_camera_zoom_mode_entry_tele_abbr">"TELE"</string>
     <string name="pref_camera_zoom_mode_entry_tele_standalone">"TELE 5X"</string>
+    <string name="pref_camera_zoom_mode_entry_telex_abbr">Externo</string>
     <string name="pref_camera_zoom_mode_entry_ultra">"ULTRA WIDE"</string>
     <string name="pref_camera_zoom_mode_entry_ultra_abbr">"UW"</string>
     <string name="pref_camera_zoom_mode_entry_wide">"WIDE"</string>
@@ -2626,19 +2635,19 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_video_speed_fast_title">Time-lapse</string>
     <string name="pref_video_speed_slow_title">Câmera lenta</string>
     <string name="pref_video_subtitle">Legendas</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_10">10X (%.1f-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_120">120X (%d-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_150">150X (%d-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_1800">1800X (%d-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_2">2X (%.2f-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_240">240X (%d-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (%d-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_300">300X (%d-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_4">4X (%.2f-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_450">450X (%d-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_60">60X (%d-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_90">90X (%d-s de intervalo)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_900">900X (%d-s de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_10">10X (%.1f-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_120">120X (%d-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_150">150X (%d-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_1800">1800X (%d-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_2">2X (%.2f-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_240">240X (%d-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (%d-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_300">300X (%d-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_4">4X (%.2f-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_450">450X (%d-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_60">60X (%d-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_90">90X (%d-segundo de intervalo)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_900">900X (%d-segundo de intervalo)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Intervalo do time-lapse</string>
     <string name="pref_watermark_off">Desativada</string>
     <string name="pref_watermark_on">Ativada</string>
@@ -2964,7 +2973,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="tip_flash_screen_light_on">Flash suave: ativado</string>
     <string name="tip_flash_soft_light_off">Flash suave: desativado</string>
     <string name="tip_flash_soft_light_torch">Flash suave: Modo lanterna</string>
-    <string name="tip_flash_torch">Flash: Sempre ativado</string>
+    <string name="tip_flash_torch">Flash: lanterna</string>
     <string name="tip_friend_mode_connect_when_24GHz">Use uma conexão de %s GHz para melhorar a qualidade da visualização</string>
     <string name="tip_friend_mode_display_device_name_connect">Visualização compartilhada</string>
     <string name="tip_friend_mode_display_device_name_disconnect">O outro dispositivo saiu desta sessão</string>
@@ -2995,6 +3004,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="tip_ultra_pixel_50M">50MP</string>
     <string name="tip_ultra_pixel_50M_format">Resolução de imagem: %s</string>
     <string name="tip_ultra_pixel_50M_off">%s: desativado</string>
+    <string name="tip_ultra_pixel_50M_on">%s ativado</string>
     <string name="tip_ultra_pixel_64M">64MP</string>
     <string name="tip_ultra_pixel_XXXM">200MP</string>
     <string name="tip_ultra_raw_off">Ultra RAW: desativado</string>
@@ -3249,6 +3259,7 @@ Distância do foco"</string>
     <string name="workspace_street_zoom">Distância focal: %s</string>
     <string name="workspace_street_zoom_adapter">"%s
 Distância focal"</string>
+    <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Falha ao conectar o Gerenciador de downloads, verifique o estado do Gerenciador de downloads no Gerenciamento de apps.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
@@ -3256,5 +3267,7 @@ Tamanho: %2$s"</string>
 Tamanho da atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Atualização de %1$s!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
     <string name="yesterday">Ontem</string>
 </resources>

@@ -22,6 +22,18 @@
         <item quantity="other">Em %d min</item>
         <item quantity="one">Em %d min</item>
     </plurals>
+    <plurals name="input_method_phrase_more_file">
+        <item quantity="other">%1$d arquivos</item>
+        <item quantity="one">%1$d arquivo</item>
+    </plurals>
+    <plurals name="input_method_phrase_more_image">
+        <item quantity="other">%1$d imagens</item>
+        <item quantity="one">%1$d imagem</item>
+    </plurals>
+    <plurals name="input_method_phrase_more_video">
+        <item quantity="other">%1$d vídeos</item>
+        <item quantity="one">%1$d vídeo</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>

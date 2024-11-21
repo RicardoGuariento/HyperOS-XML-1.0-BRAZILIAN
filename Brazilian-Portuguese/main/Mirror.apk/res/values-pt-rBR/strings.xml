@@ -32,12 +32,13 @@
     <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps Lock</string>
     <string name="accessibility_keyboard_letter_board_shift2number_button">Números</string>
     <string name="accessibility_keyboard_letter_board_shift2symbol_button">Símbolos</string>
-    <string name="accessibility_keyboard_ok_button">Digitar</string>
-    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Cartas</string>
+    <string name="accessibility_keyboard_ok_button">"Enter"</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Letras</string>
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Bloqueio de símbolo</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
+    <string name="app_has_uninstall">Este app foi desinstalado</string>
     <string name="app_name">"MIUI+"</string>
     <string name="app_no_storage_permission">Permita %1$s para acessar o armazenamento em Configurações > Apps > %2$s > Permissões primeiro</string>
     <string name="app_not_support_subscreen">"Não é possível maximizar esta janela"</string>
@@ -47,6 +48,7 @@
     <string name="call_error_notify_title">Conexão de rede instável</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_button">Cancelar</string>
+    <string name="cant_open_more_windows">"Não consigo abrir mais janelas"</string>
     <string name="cast_mcc_tips_button_cancel">Ignorar</string>
     <string name="cast_mcc_tips_button_ok">Configurações</string>
     <string name="cast_mcc_tips_message">Para evitar atrasos ao usar o MIUI+, conecte os dois dispositivos à mesma rede Wi-Fi.</string>
@@ -86,7 +88,7 @@
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_boss_terminal_name">"Notebook Mi"</string>
     <string name="default_error_msg">Erro desconhecido</string>
-    <string name="desktop_switch_is_closed">A Tela inicial+ está desativada</string>
+    <string name="desktop_switch_is_closed">Tela inicial+ desativada</string>
     <string name="device_busy">Dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="device_max_screen_count_toast">Este dispositivo suporta apenas a abertura de duas janelas ao mesmo tempo</string>
     <string name="device_screen_fold_switch_tip">Execute esta ação na tela interna</string>
@@ -520,6 +522,9 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="screen_record_notification_title">Tela de gravação…</string>
     <string name="screen_succeed_to_open">Conectado com sucesso</string>
     <string name="search_menu_title">Pesquisar</string>
+    <string name="searchable_settings_desc">Procure por apps em dispositivos conectados</string>
+    <string name="secure_screen_hint">"Para proteger sua privacidade,
+execute esta ação no seu dispositivo."</string>
     <string name="seize_cancel">Cancelar</string>
     <string name="seize_content">Pare de compartilhar sua tela para poder transferir itens. Parar de compartilhar agora?</string>
     <string name="seize_ok">Confirmar</string>
@@ -646,7 +651,10 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
-    <string name="sub_screen_lock_message">"Desbloqueie seu dispositivo para continuar"</string>
+    <string name="sub_screen_lock_message">"Desbloqueie seu dispositivo
+para continuar"</string>
+    <string name="subscreen_exception_hint">"O dispositivo não está atualizado para a versão mais recente. Podem ocorrer erros de exibição."</string>
+    <string name="subscreen_multi_window_tips">"A exibição vertical não é compatível. Volte para a exibição horizontal."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -654,7 +662,8 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="switch_wlan_failed">"Não foi possível conectar"</string>
     <string name="switch_wlan_failed_desc">"Não foi possível conectar-se a esta rede Wi-Fi automaticamente. Tente conectar manualmente nas Configurações."</string>
     <string name="switch_wlan_failed_desc_china">"Não foi possível conectar-se a esta rede Wi-Fi automaticamente. Tente conectar manualmente nas Configurações."</string>
-    <string name="switch_wlan_success">Conectado com sucesso</string>
+    <string name="switch_wlan_success">Mudou para a mesma rede Wi-Fi</string>
+    <string name="switch_wlan_success_china">Mudou para a mesma rede Wi-Fi</string>
     <string name="switch_wlan_tips">Conecte-se à mesma rede</string>
     <string name="switch_wlan_tips_china">Conecte-se à mesma rede</string>
     <string name="switch_wlan_tips_desc">Você pode se conectar à mesma rede Wi-Fi do outro dispositivo para uma melhor experiência. Conectar agora?</string>

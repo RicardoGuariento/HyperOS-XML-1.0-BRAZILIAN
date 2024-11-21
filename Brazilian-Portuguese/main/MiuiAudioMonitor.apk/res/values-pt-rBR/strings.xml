@@ -31,9 +31,11 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
-    <string name="app_name">Assistente de gravação</string>
+    <string name="app_name">Gravador de chamadas de voz</string>
     <string name="assistant_note_one">Um atalho na barra de status aparecerá durante chamadas de voz</string>
     <string name="assistant_note_two">Toque no atalho para gravar chamadas</string>
+    <string name="button_disagree">Cancelar</string>
+    <string name="button_record_start">Gravar</string>
     <string name="call_assistant">Assistente VoIP</string>
     <string name="call_in_progress">Chamada em andamento</string>
     <string name="call_recording_notification_complete_one">Gravado com sucesso. Toque para ver.</string>
@@ -49,13 +51,16 @@
     <string name="copy">Copiar</string>
     <string name="cta_HIPS_Perm_Location_Desc">Para gravar chamadas e áudio</string>
     <string name="cta_main_purpose">"Bem-vindo ao Gravador de chamadas de voz! Você pode usar este app para gravar chamadas de voz feitas em app de terceiros. Este app acessará os nomes dos contatos para nomear as gravações salvas.
-Observe que a violação dos direitos de privacidade de outras pessoas é ilegal. Você não pode usar nenhuma informação obtida por meio deste recurso para violar a privacidade de terceiros. Se você usar as informações acima ilegalmente, você assumirá todos os riscos legais daí decorrentes.
+Observe que a violação dos direitos de privacidade de outras pessoas é ilegal. Você não pode usar nenhuma informação obtida por meio deste recurso para violar a privacidade de terceiros. Se você usar as informações acima ilegalmente, você assumirá todos os riscos legais decorrentes delas.
 "</string>
     <string name="custom_define_perference_title">Detalhes das permissões</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Para gravar chamadas e áudio</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para salvar gravações</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
+    <string name="desc_privacy_policy_cn">"Com o Gravador de chamadas de voz, você pode gravar chamadas de voz feitas em apps de terceiros. Este app acessará os nomes dos contatos para nomear as gravações salvas.
+Observe que a violação dos direitos de privacidade de outras pessoas é ilegal. Você não pode usar nenhuma informação obtida por meio deste recurso para violar a privacidade de terceiros. Se você usar as informações acima ilegalmente, você assumirá todos os riscos legais decorrentes delas."</string>
+    <string name="desc_privacy_policy_global">"As leis locais aplicáveis a você ou a qualquer outra parte desta chamada podem exigir que todos concordem com a gravação da conversa. Você é responsável por cumprir tais leis e a Xiaomi não será responsável por qualquer violação das leis devido às suas ações ou omissões. Use a gravação de chamadas com responsabilidade. As gravações são armazenadas apenas no seu dispositivo e a Xiaomi não terá acesso a elas. Começar a gravar agora?"</string>
     <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -272,6 +277,7 @@ Observe que a violação dos direitos de privacidade de outras pessoas é ilegal
     <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>
+    <string name="title_record_call">Gravar chamada</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>

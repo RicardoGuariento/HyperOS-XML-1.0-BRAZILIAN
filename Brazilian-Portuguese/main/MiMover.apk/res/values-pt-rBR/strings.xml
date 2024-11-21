@@ -105,6 +105,13 @@
     <string name="button_scanning">Procurando…</string>
     <string name="button_send">Enviar</string>
     <string name="calendar_permission_desc">Para transferir eventos para outros dispositivos</string>
+    <string name="call_notification_answer_action">Atender</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Recusar</string>
+    <string name="call_notification_hang_up_action">Desligar</string>
+    <string name="call_notification_incoming_text">Chamada recebida</string>
+    <string name="call_notification_ongoing_text">Chamada em andamento</string>
+    <string name="call_notification_screening_text">Filtrando uma ligação recebida</string>
     <string name="calllog">Histórico de chamadas</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_btn">Cancelar</string>
@@ -388,6 +395,7 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="league_client_traditional">Agora não</string>
     <string name="league_client_update">Atualizar %s</string>
     <string name="league_mi_device">Xiaomi</string>
+    <string name="learn_new_version_character">Saiba mais</string>
     <string name="less_than_1_minute">Menos de 1 minuto</string>
     <string name="loading_data">Aguarde…</string>
     <string name="location_permission_desc">Para encontrar dispositivos próximos</string>
@@ -510,6 +518,7 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="need_more_memory_title">Espaço de armazenamento insuficiente</string>
     <string name="new_app_name">Nova versão</string>
     <string name="new_main_activity_label">"Mi Mover"</string>
+    <string name="new_provision_title">Transferir itens</string>
     <string name="new_trans_intro_desc_2">"Não é necessário digitar a senha na nova versão do Mi Mover. Basta abrir o Mi Mover no seu antigo dispositvo, toque \"Sou remetente\" e toque no nome do hotspot para conectar."</string>
     <string name="new_trans_intro_desc_3">O Mi Mover precisa de espaço de armazenamento para criar um arquivo de transferência no seu antigo dispositvo antes de enviá-lo para o novo. Libere espaço de armazenamento para poder continuar.</string>
     <string name="new_trans_intro_desc_4">Pode haver problemas de compatibilidade de dispositivos, sistemas e versões de apps que impedem que alguns apps sejam transferidos com êxito.</string>
@@ -651,15 +660,20 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="provisiion_set_old_pad_summary">Use o Mi Mover para importar dados do seu dispositivo antigo sem conexão com a internet</string>
     <string name="provisiion_set_old_phone">Importar do dispositivo antigo</string>
     <string name="provisiion_set_old_phone_summary">Use o Mi Mover para importar dados do seu dispositivo antigo sem se conectar à internet</string>
+    <string name="provision_back">Voltar</string>
     <string name="provision_cta_title">Transferir do dispositivo antigo</string>
     <string name="provision_cta_title_pad">Transferir do dispositivo antigo</string>
+    <string name="provision_next">Próximo</string>
     <string name="provision_receiver_finish_button">Próximo</string>
     <string name="provision_receiver_waiting_title">Continuar no dispositivo antigo</string>
     <string name="provision_select_data_null">Selecione os itens para transferir</string>
     <string name="provision_select_data_one">Selecione os itens a serem transferidos</string>
+    <string name="provision_set_cloud_backup">Restaurar da MiCloud</string>
+    <string name="provision_set_cloud_backup_summary">Conecte-se à internet para baixar e restaurar backups da MiCloud</string>
     <string name="provision_set_new_pad">Usar como novo dispositivo</string>
     <string name="provision_set_new_phone">Use como novo dispositivo</string>
     <string name="provision_set_old_pad">Importar do dispositivo antigo</string>
+    <string name="provision_skip_underline">Pular</string>
     <string name="qq_app">"QQ"</string>
     <string name="qq_app_receive_fail">"Não foi possível receber o QQ"</string>
     <string name="qq_app_send_fail">"Não foi possível enviar o QQ"</string>
@@ -1020,13 +1034,17 @@ Baixar e instalar o Mi Mover."</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
-    <string name="xiaomi_mobile">Celular Mi</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Falha ao conectar o Gerenciador de downloads, verifique o estado do Gerenciador de downloads no Gerenciamento de apps</string>
+    <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Falha ao conectar o Gerenciador de downloads, verifique o estado do Gerenciador de downloads no Gerenciamento de apps.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"Apresentando a versão %1$s
 Tamanho da atualização delta: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s atualização!</string>
+    <string name="xiaomi_update_sdk_dialog_title">Uma atualização está disponível</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
+    <string name="xiaomi_update_sdk_update_dialog_cancel">Agora não</string>
+    <string name="xiaomi_update_sdk_update_dialog_ok">Atualizar</string>
     <string name="yesterday">Ontem</string>
 </resources>

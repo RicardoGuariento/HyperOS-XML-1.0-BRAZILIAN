@@ -87,7 +87,7 @@
     <string name="ad_download_now">Baixar</string>
     <string name="ad_feed_badge">Anúncios</string>
     <string name="ad_pop_btn_hidden">Ocultar</string>
-    <string name="ad_pop_des">Baixar:</string>
+    <string name="ad_pop_des">Baixando app:</string>
     <string name="add">Adicionar</string>
     <string name="add_cw_fail_tip">"Não foi possível adicionar o plano de fundo"</string>
     <string name="add_cw_success_tip">Plano de fundo adicionado com sucesso</string>
@@ -131,6 +131,7 @@
     <string name="apply_to_wallpaper">Aplicar na Tela inicial</string>
     <string name="apply_warning_content">"Você está usando um Super plano de fundo. Se você alterar o plano de fundo, ele será aplicado às Telas inicial e de bloqueio. Aplicar agora?"</string>
     <string name="apply_warning_content_with_aod">"Você está usando um Super plano de fundo. Se você alterar o plano de fundo, ele será aplicado às Telas inicial e de bloqueio, e a exibição sempre ativa poderá ser redefinida para o padrão. Aplicar agora?"</string>
+    <string name="apply_warning_content_with_linked_wallpaper">"Você está usando um conjunto de planos de fundo. Se você aplicar um novo plano de fundo, a Tela inicial e a Tela de bloqueio serão substituídas e a Tela ambiente poderá ser restaurada ao estilo anterior. Aplicar agora?"</string>
     <string name="apply_warning_content_with_maml">"Você está usando um tema de terceiros. Se você alterar o plano de fundo, o relógio da Tela de bloqueio pode ser redefinido para o padrão. Aplicar agora?"</string>
     <string name="apply_warning_title">Aplicar plano de fundo</string>
     <string name="article_item_hot">Confira %s+ artigos populares</string>
@@ -158,7 +159,7 @@
     <string name="carousel_declaration_title">Subscrição do Carrossel de planos de fundo</string>
     <string name="carousel_declaration_title_new">Planos de fundo novos diariamente</string>
     <string name="carousel_suggest">Atenção!</string>
-    <string name="carousel_suggest1">Obtenha novos planos de fundo entregues diretamente na sua Tela de bloqueio diariamente de forma gratuita</string>
+    <string name="carousel_suggest1">Obtenha novos planos de fundo entregues diretamente na sua Tela de bloqueio diariamente de forma gratuita.</string>
     <string name="carousel_suggest2">O Carrossel de planos de fundo está ativado?</string>
     <string name="category_subscribe_failed">"Não foi possível se inscrever"</string>
     <string name="change_activate_email">Alterar endereço de e-mail</string>
@@ -200,7 +201,7 @@
     <string name="current_connection_invalid">Aguarde até que o dispositivo se conecte à rede</string>
     <string name="current_data_invalid">Ocorreu um erro</string>
     <string name="current_network_invalid">Conecte-se à rede primeiro</string>
-    <string name="current_no_more_pictures">Sem mais imagens</string>
+    <string name="current_no_more_pictures">"Isso é tudo por agora"</string>
     <string name="current_permission_network_denied">Permitir que o Carrossel de planos de fundo conecte-se à rede</string>
     <string name="custom_wallpaper_des">Ative o Carrossel de planos de fundo, adicione suas fotos e imagens online ao mix para que apareçam na Apresentação de slides automaticamente.</string>
     <string name="cw_add">Adicionar</string>
@@ -231,7 +232,7 @@
     <string name="cw_local_pic">Selecionar imagens</string>
     <string name="cw_my_fav">Favoritos</string>
     <string name="cw_permission_tip">Permita que o Carrossel de planos de fundo tenha acesso ao armazenamento em Configurações > Apps > Gerenciar apps</string>
-    <string name="cw_wallpaper_empty_dlg_btn">"OK"</string>
+    <string name="cw_wallpaper_empty_dlg_btn">Entendi</string>
     <string name="cw_wallpaper_empty_dlg_content">"Você não adicionou nenhum plano de fundo à sua Apresentação de slides personalizada. O Carrossel de planos de fundo exibirá planos de fundo recomendados"</string>
     <string name="cw_wallpaper_empty_dlg_title">Sem itens adicionados</string>
     <string name="cw_wallpaper_manager">Gerenciar planos de fundo</string>
@@ -258,7 +259,7 @@
     <string name="detail_menu_history">Histórico</string>
     <string name="detail_menu_home">Ir para início</string>
     <string name="detail_menu_setting">Configurações do app</string>
-    <string name="detail_menu_settingbtn_save">Salvar </string>
+    <string name="detail_menu_settingbtn_save">Salvar</string>
     <string name="detail_menu_settingbtn_setting">Configurações</string>
     <string name="detail_menu_settingbtn_share">Compartilhar</string>
     <string name="detail_menu_wall">"Planos de fundo de hoje"</string>
@@ -312,7 +313,7 @@ Envie este código para o supervisor."</string>
     <string name="external_storage_permission_summary">Permita que este app acesse arquivos em seu dispositivo para poder adicionar seus próprios planos de fundo ao Carrossel de planos de fundo e salvar o conteúdo baixado em seu dispositivo.</string>
     <string name="facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
-    <string name="favor_list_no_data">Sem itens</string>
+    <string name="favor_list_no_data">Sem itens aqui</string>
     <string name="favor_list_title">Favoritos</string>
     <string name="favor_success">Adicionado aos favoritos com sucesso</string>
     <string name="feed_article_entrance_about">Sobre \"%s\"</string>
@@ -367,7 +368,7 @@ Envie este código para o supervisor."</string>
     <string name="goto_confirm">Configurações</string>
     <string name="goto_sign_up">Criar conta</string>
     <string name="header_help">Ajuda</string>
-    <string name="history_list_no_data">Sem itens</string>
+    <string name="history_list_no_data">Sem itens aqui</string>
     <string name="hour_1">A cada hora</string>
     <string name="hour_3">A cada 3 horas</string>
     <string name="i_know">Entendi</string>
@@ -403,7 +404,7 @@ Envie este código para o supervisor."</string>
     <string name="lks_apply_wallpaper_dlg_cancel">Cancelar</string>
     <string name="lks_apply_wallpaper_dlg_title">Aplicar este plano de fundo?</string>
     <string name="lks_click_for_new_wallpaper">Toque para ver um novo plano de fundo</string>
-    <string name="lks_click_to_add_to_carousel">Toque para adicionar à apresentação de slides</string>
+    <string name="lks_click_to_add_to_carousel">Toque para adicionar à Apresentação de slides</string>
     <string name="lks_cta_dont_mention">"Não mostrar novamente"</string>
     <string name="lks_cta_ok">Aceitar</string>
     <string name="lks_cta_reject">"Não aceitar"</string>
@@ -509,7 +510,7 @@ dd 'de' MMMM"</string>
     <string name="logout_summary">"Você não poderá sincronizar suas assinaturas e configurações personalizadas entre os dispositivos após sair. Sair mesmo assim?"</string>
     <string name="logout_title">Sair agora?</string>
     <string name="look_str">"Popular"</string>
-    <string name="loop_service_dlg_content">A apresentação de slides percorre automaticamente as imagens da Tela de bloqueio adaptadas às suas preferências, incluindo temas como viagens, comida, arte, entretenimento e muito mais. Ativar a Apresentação de slides da Tela de bloqueio e adicionar esta imagem?</string>
+    <string name="loop_service_dlg_content">A Apresentação de slides percorre automaticamente as imagens da Tela de bloqueio adaptadas às suas preferências, incluindo temas como viagens, comida, arte, entretenimento e muito mais. Ativar a Apresentação de slides da Tela de bloqueio e adicionar esta imagem?</string>
     <string name="loop_service_dlg_negative">Agora não</string>
     <string name="loop_service_dlg_positive">Ativar</string>
     <string name="loop_service_dlg_positive_toast_day">A Apresentação de slides está ativada. O plano de fundo mudará todos os dias. Você pode ajustar a duração nas configurações do Carrossel de planos de fundo.</string>
@@ -1020,7 +1021,7 @@ mm"</string>
     <string name="revoke_privacy">Retirada de consentimento</string>
     <string name="revoke_privacy_running">Retirando consentimento…</string>
     <string name="revoke_privacy_summary">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Carrossel de planos de fundo. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como o Carrossel de planos de fundo fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços do Carrossel de planos de fundo. Retirar o consentimento agora?"</string>
-    <string name="rv_with_footer_empty">Nada aqui ainda.</string>
+    <string name="rv_with_footer_empty">Nada aqui ainda</string>
     <string name="rv_with_footer_loading"><CDATA>Aguarde…</CDATA></string>
     <string name="rv_with_footer_pull_load_more">Puxe para baixo para ver mais</string>
     <string name="same_new_and_old_pwd">Não pode ser a mesma senha que a atual</string>

@@ -511,8 +511,10 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="local_backup_password_toast_confirmation_mismatch">Nova senha e confirmação não correspondem</string>
     <string name="local_backup_password_toast_success">Novo conjunto de senha de backup</string>
     <string name="local_backup_password_toast_validation_failure">Configuração de falha Senha de backup</string>
-    <string name="managed_user_title">Todos os apps de trabalho.</string>
+    <string name="managed_user_title">Todos os apps de trabalho</string>
+    <string name="masculine">Masculino</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
+    <string name="material_hour_24h_suffix">%1$s horas</string>
     <string name="material_hour_selection">Selecione a hora</string>
     <string name="material_hour_suffix">"%1$s horas"</string>
     <string name="material_minute_selection">Selecione os minutos</string>
@@ -633,6 +635,7 @@ Qualquer pessoa pode ler essas informações da sua Tela de bloqueio e discar se
     <string name="not_default_data_content_description">Não definido para usar dados</string>
     <string name="not_grant_admin">Não, não faça deles administradores</string>
     <string name="not_set">Não definido</string>
+    <string name="not_specified">Não especificado</string>
     <string name="o_negative">O-</string>
     <string name="o_positive">O+</string>
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>

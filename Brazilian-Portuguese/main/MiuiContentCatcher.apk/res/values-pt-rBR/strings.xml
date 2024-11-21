@@ -30,6 +30,8 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
+    <string name="android.credentials.TYPE_PASSWORD_CREDENTIAL">Senha</string>
+    <string name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">Chave de acesso</string>
     <string name="app_name">Serviço de extensão do app</string>
     <string name="auth_activity_label">Códigos de verificação</string>
     <string name="auth_fingerprint_content">Verificando impressão digital…</string>
@@ -43,9 +45,9 @@
     <string name="autofill_hint_phone">Número de telefone</string>
     <string name="autofill_hint_username">Usuário</string>
     <string name="autofill_item_activity_label">Senhas de apps</string>
-    <string name="autofill_list_activity_label">Senhas de apps</string>
+    <string name="autofill_list_activity_label">Senhas e chaves de acesso</string>
     <string name="autofill_list_title">Gerenciar senhas</string>
-    <string name="autofill_password">Preencher senhas automaticamente</string>
+    <string name="autofill_password">Preencher automaticamente senhas e chaves de acesso</string>
     <string name="autofill_password_activity_label">Códigos de verificação</string>
     <string name="autofill_service_label">Gerenciar senhas</string>
     <string name="autofill_setting_activity_label">Gerenciar senhas</string>
@@ -55,9 +57,27 @@
     <string name="change_passwork_dialog_title">Atualizar a senha?</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
+    <string name="continuity_credential_dialog_btn_positive">Permitir</string>
+    <string name="continuity_credential_dialog_content">%1$s está solicitando o uso de sua chave de acesso \"%2$s\" para entrar em %3$s.</string>
+    <string name="continuity_credential_dialog_title">Permitir que %s use a chave de acesso</string>
+    <string name="continuity_credential_notification_content">%s está solicitando a verificação de uma chave de acesso</string>
+    <string name="continuity_credential_request_expire">A verificação expirou</string>
     <string name="copy">Copiar</string>
+    <string name="create_creadential_need_enrolled_fingerprints_desc">Registre uma impressão digital para poder usar uma chave de acesso.</string>
+    <string name="create_creadential_need_enrolled_fingerprints_title">Registrar impressão digital</string>
+    <string name="create_creadential_need_open_sync_desc">Ative o Gerenciador de senhas para poder gerenciar e usar chaves de acesso em todos os seus dispositivos Xiaomi.</string>
+    <string name="create_creadential_need_open_sync_title">Ativar o Gerenciador de senhas</string>
+    <string name="create_time">Criado</string>
+    <string name="credential_desc">Chave de acesso</string>
+    <string name="credential_manage_desc">As chaves de acesso permitem que você faça login em suas contas com mais rapidez e segurança do que os métodos de login convencionais. Esta chave de acesso está associada à sua impressão digital neste dispositivo Xiaomi e é sincronizada entre dispositivos através dos serviços MiCloud.</string>
+    <string name="credential_notification_login_account_desc">Faça login na sua Conta Mi para poder usar uma chave de acesso.</string>
+    <string name="credential_notification_open_sync_desc">Ative o Gerenciador de senhas para poder usar uma chave de acesso.</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
+    <string name="del_credential_btn_text">Excluir</string>
+    <string name="del_credential_dialog_title">Excluir chave de acesso</string>
+    <string name="del_credential_err_notify">"Não foi possível excluir. Tente novamente."</string>
+    <string name="del_credential_progress_text">Excluindo…</string>
     <string name="delete">Excluir</string>
     <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
@@ -181,6 +201,7 @@
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="ok">"OK"</string>
+    <string name="open">Ativar</string>
     <string name="password_manager">Gerenciador de senhas</string>
     <string name="password_manager_summary">Sincronize suas senhas com a nuvem</string>
     <string name="pm">"PM"</string>
@@ -192,6 +213,11 @@
     <string name="search">Pesquisar</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
+    <string name="setting">Gravar</string>
+    <string name="settings_clear_data_confirmation_description">"Se você excluir as senhas agora, terá que inseri-las manualmente na próxima vez que fizer login.
+Excluir a senha?"</string>
+    <string name="settings_clear_data_confirmation_title">Excluindo senhas</string>
+    <string name="show_password_talkback">Mostrar senha</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
     <string name="solar_term_clear_and_bright">Claro e brilhante</string>
@@ -216,10 +242,6 @@
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
-    <string name="settings_clear_data_confirmation_description">"Se você excluir as senhas agora, terá que inseri-las manualmente na próxima vez que fizer login.
-Excluir a senha?"</string>
-    <string name="settings_clear_data_confirmation_title">Excluindo senhas</string>
-    <string name="show_password_talkback">Mostrar senha</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

@@ -60,6 +60,7 @@
     <string name="back_info">Deseja sair desta interface?</string>
     <string name="back_mic_check_record_tip">Gravando. Por favor, diga algo no Microfone na parte de baixo do dispositivo.</string>
     <string name="battery_authentic">Autênticidade da bateria</string>
+    <string name="battery_auto_plug_wirelee_summary">Carregador sem fio conectado com sucesso, teste aprovado.</string>
     <string name="battery_dual_connector">Segundo conector da bateria</string>
     <string name="battery_id">ID da bateria</string>
     <string name="battery_info">Informações relacionadas ao carregamento da bateria</string>
@@ -373,6 +374,7 @@ Clique no botão apropriado de acordo com o número que você ouvir."</string>
     <string name="cit_first_pen_hall_test">Teste do detector S Hall com caneta de toque:</string>
     <string name="cit_flash_life_check_summary">Estimativa do tempo de vida da luz de flash do dispositivo</string>
     <string name="cit_flash_life_check_title">Vida da luz de flash</string>
+    <string name="cit_flash_timeout_tip">O tempo do teste expirou, entre novamente no teste de flash.</string>
     <string name="cit_flicker_sensor_check_summary">Os valores para oscilação devem aparecer abaixo</string>
     <string name="cit_flicker_sensor_check_title">Sensor de tremulação</string>
     <string name="cit_flip_board_bottom_speaker_test_title">Teste do alto-falante inferior em Flip Board</string>
@@ -1153,10 +1155,13 @@ Após a calibração ser concluída, controle o acessório perto e longe do disp
     <string name="status_running">Executando</string>
     <string name="status_text">"Status:"</string>
     <string name="temperature">Temperatura</string>
-    <string name="test_back_mic">Microfone inferior</string>
     <string name="testagain">Pode pressionar o botão Início para testar novamente</string>
+    <string name="test_back_handset">Teste do aparelho traseiro</string>
+    <string name="test_back_mic">Microfone inferior</string>
     <string name="test_bottom_speaker">Alto-falante inferior</string>
     <string name="test_headset">Teste de fone de ouvido</string>
+    <string name="test_flash">Teste do flash</string>
+    <string name="test_front_handset">Teste do aparelho frontal</string>
     <string name="test_front_mic">Microfone frontal</string>
     <string name="test_main_mic">Microfone principal</string>
     <string name="test_top_mic">Microfone superior</string>
@@ -1164,6 +1169,7 @@ Após a calibração ser concluída, controle o acessório perto e longe do disp
     <string name="test_receiver">Receptor</string>
     <string name="test_receiver_summary">"Você ouvirá dois números aleatórios.
 Toque no botão apropriado de acordo com o número que você ouvir."</string>
+    <string name="test_second_flash">Teste do segundo flash</string>
     <string name="test_speaker">alto-falante</string>
     <string name="test_speaker_summary">"Você ouvirá dois números aleatórios.
 Toque no botão apropriado de acordo com o número que você ouvir."</string>

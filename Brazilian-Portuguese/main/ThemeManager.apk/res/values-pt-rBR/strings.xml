@@ -118,6 +118,7 @@
     <string name="apply_wallpaper_after_three_theme">"No momento, você está usando um tema de terceiros. Se você alterar o plano de fundo da Tela de bloqueio, isso pode fazer com que o estilo do relógio da Tela de bloqueio seja restaurado para o padrão. Aplicar agora?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio, e a Tela ambiente será restaurada para a configuração anterior. Aplicar agora?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio. Aplicar agora?"</string>
+    <string name="apply_wallpaper_warning_when_use_super_wallpaper">Atualize os Super plano de fundo para a versão mais recente para poder continuar a usá-los.</string>
     <string name="apply_warning_get_device_dialog_message">Para poder usar o conteúdo baixado, permita que este recurso acesse o ID do seu dispositivo primeiro. Você pode conceder essa permissão em Configurações > Privacidade.</string>
     <string name="apply_warning_tip_get_device_status">Primeiro permita que este app acesse o ID do seu dispositivo em Perfil > Configurações.</string>
     <string name="aqi_format">IQA %s</string>
@@ -1649,6 +1650,7 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos."</string>
     <string name="update_immediately">Atualizar agora</string>
     <string name="update_latest">Seu app está atualizado</string>
     <string name="update_no_net">Ocorreu um erro de rede. Tentar novamente.</string>
+    <string name="update_now">Atualizar</string>
     <string name="update_title">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
     <string name="use_hint">Atenção!</string>
     <string name="use_now">Adicionar</string>
@@ -1760,6 +1762,7 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos."</string>
     <string name="warning_miui_optimization_closed_dialog_message">"Parece que você não ativou a otimização do HyperOS. Sem ela, este tema não funcionará corretamente quando aplicado. Você pode aplicá-lo de qualquer maneira ou ativar a otimização do HyperOS nas Configurações."</string>
     <string name="warning_miui_optimization_closed_dialog_title">Atenção!</string>
     <string name="warning_subscribe_wallpaper_group_content">"Você ativou a apresentação de slides na Tela inicial. %1$s será aplicado à sua Tela inicial."</string>
+    <string name="warning_update_super_wallpaper">Atualizar Super plano de fundo</string>
     <string name="weather_no_data">Não há dados meteorológicos</string>
     <string name="wechat_not_found">Instale o WeChat primeiro</string>
     <string name="wednesday">Quarta</string>

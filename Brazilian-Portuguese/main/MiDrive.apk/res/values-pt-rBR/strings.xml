@@ -675,6 +675,18 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
+    <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Falha ao conectar o Gerenciador de downloads, verifique o estado do Gerenciador de downloads no Gerenciamento de apps.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
+Tamanho: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Apresentando a versão %1$s
+Tamanho da atualização delta: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">Uma atualização está disponível</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
+    <string name="xiaomi_update_sdk_update_dialog_cancel">Agora não</string>
+    <string name="xiaomi_update_sdk_update_dialog_ok">Atualizar</string>
     <string name="year_month_day_format">"dd 'de' MMMM 'de' yyyy"</string>
     <string name="yesterday">Ontem</string>
 </resources>
