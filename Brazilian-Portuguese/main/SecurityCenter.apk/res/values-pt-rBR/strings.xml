@@ -6084,7 +6084,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="untrust_app_perm_title">App de fonte desconhecida</string>
     <string name="untrust_app_perm_warn">Este app vem de uma fonte desconhecida e pode representar riscos à segurança. Ele pode usar as permissões listadas abaixo para comprometer sua privacidade. Conceda essas permissões após uma consideração cuidadosa.</string>
     <string name="unused_apps_switch">Pausar atividade do app se não for usado</string>
-    <string name="unused_apps_switch_summary">Remove permissões, exclue arquivos temporários e interrompe notificações.</string>
+    <string name="unused_apps_switch_summary">Remove permissões, exclui arquivos temporários e interrompe notificações.</string>
     <string name="upgrade_tvm_component_desc">Para garantir a segurança de suas transações, atualize o Plugin do componente chave do dispositivo via Segurança.</string>
     <string name="upgrade_tvm_component_title">Atualizar o Plugin do componente chave do dispositivo</string>
     <string name="usage_sorted_activity_lable">Uso de dados</string>
@@ -7076,4 +7076,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="widget_button_text">Adicione peças pequenas</string>
     <string name="widget_cleaner_message">Pode limpar o lixo</string>
     <string name="widget_cleaner_size_unit">MB</string>
+    <string name="permission_group_record">Esta permissão permite que o aplicativo acesse itens do Gravador.</string>
+    <string name="permission_group_note">Esta permissão permite que o aplicativo acesse itens do Notas.</string>
+    <string name="location_services_title">Serviços de localização</string>
 </resources>
