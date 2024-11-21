@@ -2493,6 +2493,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_wlan_is_off">Wi-Fi está desativado</string>
     <string name="quick_settings_wlan_state_change_message_off">Wi-Fi desativado</string>
     <string name="quick_settings_wlan_state_change_message_on">Wi-Fi ativado</string>
+    <string name="quick_settings_task_manager_lable">Apps Ativos</string>
     <string name="quick_settings_work_mode_label">Apps de trabalho</string>
     <string name="quick_step_accessibility_toggle_overview">Alternar visão geral</string>
     <string name="rain_probability_desc">Possibilidade de precipitação:: %s</string>
@@ -3803,4 +3804,6 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_admin_restricted_network">Não permitido pela sua organização</string>
     <string name="wifitrackerlib_checking_for_internet_access">Verificando acesso à internet…</string>
     <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Indisponível com as configurações de segurança atuais</string>
+    <string name="quick_settings_state_saved_wifi_devices">Redes Wi-Fi salvas</string>
+    <string name="quick_settings_state_saved_bt_devices">Dispositivos Bluetooth Salvos</string>
 </resources>
