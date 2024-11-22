@@ -7005,6 +7005,8 @@ Selecione seu sistema operacional:"</string>
     <string name="near_loclscreen_summary">A tela acenderá automaticamente quando você chegar perto do seu dispositivo. As notificações ficarão ocultas.</string>
     <string name="near_loclscreen_title">Ativar tela ao retornar</string>
     <string name="nearby_wifi">Redes disponíveis</string>
+    <string name="nearby_wifi_refresh">Atualizar</string>
+    <string name="nearby_wifi_title">Dispositivos disponíveis</string>
     <string name="need_reboot_now">Reinicie para instalar a atualização.</string>
     <string name="netcheck_title">Diagnóstico de rede</string>
     <string name="network_1x">1x</string>
@@ -9425,6 +9427,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="service_started_by_app">Iniciado pelo app.</string>
     <string name="service_stop">Parar</string>
     <string name="service_stop_description">O app iniciou este serviço em execução. Pará-lo poderá causar erros.</string>
+    <string name="service_support">Suporte</string>
     <string name="services_subtitle">Serviços</string>
     <string name="set_data_limit">Definir limite de dados</string>
     <string name="set_data_warning">Definir alerta de uso de dados</string>
@@ -12254,6 +12257,7 @@ você pode usar a rede de outros usuários também."</string>
     <string name="wifi_share_login_summary">Se esta for uma rede pública, você poderá compartilhá-la com outros usuários Xiaomi.</string>
     <string name="wifi_share_notification_summary">Você se conectou a uma rede Wi-Fi pública.</string>
     <string name="wifi_share_other_network">Outras redes</string>
+    <string name="wifi_share_plain_password_text">Senha: %s</string>
     <string name="wifi_share_qrcode_finish">Concluído</string>
     <string name="wifi_share_qrcode_summary">Para compartilhar, escaneie o código QR acima.</string>
     <string name="wifi_share_qrcode_title">Compartilhar rede Wi-Fi</string>
@@ -12852,7 +12856,4 @@ Atualizar configurações para:
     <string name="zone_menu_by_region">Selecionar por região</string>
     <string name="zone_time_type_dst">Horário de verão</string>
     <string name="zone_time_type_standard">Horário padrão</string>
-    <string name="nearby_wifi_refresh">Atualizar</string>
-    <string name="wifi_share_plain_password_text">Senha: %s</string>
-    <string name="service_support">Suporte</string>
 </resources>

@@ -2781,7 +2781,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="scan_qr_code">Escanear código QR</string>
     <string name="scan_qr_code_buttom_text">Leia o código QR para acessar este álbum</string>
     <string name="scan_qr_to_accept_invitation">Leia o código QR para aceitar o convite</string>
-    <string name="scanning_device_tips"><Data>Procurando dispositivos próximos. A outra pessoa precisa ativar o Xiaomi Share no centro de controle. &lt;a>Saiba mais&lt;/a></Data></string>
+    <string name="scanning_device_tips">Procurando dispositivos próximos… Certifique-se de que o outro dispositivo esteja no modo detectável.</string>
     <string name="scope_storage_dialog_cancel_btn">Cancelar</string>
     <string name="scope_storage_dialog_confirm_btn">Avançar</string>
     <string name="scope_storage_dialog_description">As permissões da Galeria foram atualizadas. Permita que a Galeria acesse esta pasta para poder ver seu conteúdo.</string>

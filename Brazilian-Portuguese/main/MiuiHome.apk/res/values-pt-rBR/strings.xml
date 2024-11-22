@@ -355,7 +355,7 @@
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="external_not_support_split_screen_j18">A Tela dividida não é compatível com a tela externa</string>
-    <string name="failed_to_delete_temporary">Não é possível remover</string>
+    <string name="failed_to_delete_temporary">"Não é possível remover"</string>
     <string name="failed_to_drop">Não é possível mover</string>
     <string name="failed_to_drop_widget_invalid">Este widget é inválido</string>
     <string name="find_app_by_color">Agrupe ícones por cor para encontrar apps mais rapidamente</string>
@@ -1046,6 +1046,7 @@ Segurança melhorada."</string>
     <string name="sort_by_not_defined">Ordenar automaticamente</string>
     <string name="split_screen_position_top">Parte superior dividida</string>
     <string name="start_activity_failed">"Não é possível iniciar a launcher"</string>
+    <string name="start_new_window">Nova janela</string>
     <string name="starting_preset_app">Iniciando…</string>
     <string name="status_bar_recent_memory_giga">"%1$s GB"</string>
     <string name="status_bar_recent_memory_info1">"Memória RAM
@@ -1123,6 +1124,7 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
+    <string name="third_party_wallpaper_not_support_effect">"Planos de fundo de terceiros não suportam efeitos"</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_frequent_phrases">Adicione frases frequentes</string>
+    <string name="ai_recognition">IA</string>
     <string name="app_name">Ação textual</string>
     <string name="call">Ligar</string>
     <string name="call_notification_answer_action">Atender</string>
@@ -15,9 +16,11 @@
     <string name="floating_toolbar_open_overflow_description">Mais opções</string>
     <string name="frequent_phrases">Frases frequentes</string>
     <string name="google_call">Ligar</string>
+    <string name="google_check">Ver</string>
     <string name="google_email">E-mail</string>
     <string name="google_map">Mapa</string>
     <string name="google_open">Abrir</string>
+    <string name="google_track">Localizar</string>
     <string name="google_translate">Traduzir</string>
     <string name="open">Navegar</string>
     <string name="query">Consulta</string>

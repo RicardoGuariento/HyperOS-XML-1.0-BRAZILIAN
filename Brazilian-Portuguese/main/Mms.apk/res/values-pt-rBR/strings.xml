@@ -67,8 +67,23 @@ Tente novamente."</string>
     <string name="adding_attachments_title">Adicionando anexos</string>
     <string name="adding_recipients">Adicionando destinatários…</string>
     <string name="afternoon">"PM"</string>
+    <string name="agree_and_open">Aceitar</string>
+    <string name="ai_smart_message_content"><Data>O Resumo de mensagem IA depende do Mensagens inteligentes para fornecer seus recursos. Leia e aceite o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> para continuar.</Data></string>
+    <string name="ai_smart_message_titile">Ativar Mensagens inteligentes</string>
+    <string name="ai_sum_internal_test_agree">Aceitar</string>
+    <string name="ai_sum_internal_test_content">O Resumo de mensagem IA usa grandes recursos de modelo para resumir mensagens e mostrar informações importantes. Ativar esse recurso aumentará ligeiramente o consumo de energia.</string>
+    <string name="ai_sum_internal_test_disagree">"Não aceitar"</string>
+    <string name="ai_sum_internal_test_title">Teste beta do Resumo de mensagem IA</string>
+    <string name="ai_summary_description">Deixe a IA resumir mensagens longas para mostrar informações importantes. Este recurso aumentará ligeiramente o consumo de energia.</string>
+    <string name="ai_summary_dialog_content"><Data>"O Resumo de mensagem IA fornece resumos inteligentes de informações importantes de mensagens longas. A Xiaomi precisa acessar o conteúdo da mensagem para fornecer esse recurso, mas a Xiaomi não armazenará essas informações.&lt;br />&lt;br />Leia e aceite a &lt;a href=\"%1$s\">Contrato do Usuário do Resumo de Mensagem IA&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade do Resumo de Mensagem IA&lt;/a> antes de usar este serviço."</Data></string>
+    <string name="ai_summary_dialog_title">Permissões necessárias</string>
+    <string name="ai_summary_privacy_content">"Quando você usa o Resumo de mensagem IA, o conteúdo do resumo (incluindo quaisquer dados privados nele contidos) será processado pela Xiaomi, mas a Xiaomi não armazenará esses dados."</string>
+    <string name="ai_summary_privacy_tip"><Data>Leia a &lt;a href=\"%1$s\">Política de Privacidade do Resumo de Mensagem IA&lt;/a> para entender como gerenciamos seus dados. Para obter mais informações sobre esse serviço, leia o &lt;a href=\"%2$s\">Contrato do Usuário do Resumo de Mensagem IA&lt;/a>.</Data></string>
+    <string name="ai_summary_privacy_title">Declaração de privacidade</string>
     <string name="aim_show_card">Exibir cartão</string>
     <string name="aim_show_original">Exibir mensagem</string>
+    <string name="alert_ai_sum_close_content">"Se você desativar as Mensagens inteligentes, não poderá usar o Resumo de mensagem IA."</string>
+    <string name="alert_ai_sum_close_title">Desativar Mensagens inteligentes?</string>
     <string name="alert_dlg_cancel_button">Cancelar</string>
     <string name="alert_dlg_ok_button">"OK"</string>
     <string name="allow">"OK"</string>
@@ -153,6 +168,7 @@ Tente novamente."</string>
     <string name="card_insert_to_contact">Importar contato</string>
     <string name="change_duration_activity">Alterar duração</string>
     <string name="charge_link">Verificar transação</string>
+    <string name="chatbot_info_title">Informações básicas</string>
     <string name="chatbot_list_title">Mensagens 5G</string>
     <string name="chatbot_main_title">"Mini apps"</string>
     <string name="check_all">Selecionar todos</string>
@@ -223,13 +239,16 @@ Tente novamente."</string>
     <string name="confirm_upload_sms">Fazer upload das mensagens para melhorar o recurso de bloqueio</string>
     <string name="contact_card_unknown_contact">Contato desconhecido</string>
     <string name="contact_not_exists">"Esta pessoa não está em seus contatos."</string>
+    <string name="context_menu_access_link">Abrir URL</string>
     <string name="context_menu_add_calendar">Adicionar à Agenda</string>
     <string name="context_menu_add_contact">Adicionar a um contato</string>
     <string name="context_menu_add_to_browser_favorite">Adicionar aos favoritos do Navegador</string>
     <string name="context_menu_browse_web">Navegar</string>
     <string name="context_menu_call">Chamar</string>
+    <string name="context_menu_call_phone">Chamar</string>
     <string name="context_menu_contact">Contato: %1$s</string>
     <string name="context_menu_copy">Copiar</string>
+    <string name="context_menu_copy_link">Copiar URL</string>
     <string name="context_menu_copy_notice">Copiado para a área de transferência</string>
     <string name="context_menu_new_contact">Novo contato</string>
     <string name="context_menu_send_mail">Enviar e-mail</string>
@@ -298,6 +317,7 @@ Tente novamente."</string>
     <string name="dialog_sim_locked_confirm">"OK"</string>
     <string name="dialog_sim_locked_message">"Seu cartão SIM não está totalmente operacional com este dispositivo porque ele não está em conformidade com os termos e condições da sua assinatura. Caso tenha alguma dúvida ou precise de maiores informações sobre isso, entre em contato com os serviços de atendimento da Xiaomi ou a loja que vendeu os produtos para você."</string>
     <string name="dialog_smart_message_privacy_tips">Os serviços de Mensagens inteligentes são fornecidos parcialmente por Dianhuabang. Antes de usar o Mensagens inteligentes, você precisa aceitar a \"%1$s\". As Mensagens inteligentes precisa de uma conexão com a internet e de acesso à sua localização para funcionar normalmente. Aceitar?</string>
+    <string name="dialog_sim_locked_message_translation_for_pad">"Seu cartão SIM não está totalmente operacional com este dispositivo porque ele não está em conformidade com os termos e condições da sua assinatura. Caso tenha alguma dúvida ou precise de maiores informações sobre isso, entre em contato com os serviços de atendimento da Xiaomi ou a loja que vendeu os produtos para você."</string>
     <string name="dialog_smart_message_privacy_tips_title">Política de Privacidade do Dianhuabang</string>
     <string name="dialog_title_correct_as_ad">Mover para mensagens promocionais</string>
     <string name="dialog_title_correct_as_normal">Mover para mensagens</string>
@@ -314,6 +334,8 @@ Tente novamente."</string>
     <string name="done">Concluído</string>
     <string name="download">Baixar</string>
     <string name="download_later">"Não é possível baixar agora. Tente novamente mais tarde."</string>
+    <string name="download_miui_calendar_detail">Baixe a Agenda para poder adicionar eventos e lembretes da agenda. Abrir o GetApps agora?</string>
+    <string name="download_miui_calendar_title">Baixar Agenda</string>
     <string name="download_pending">Baixando vídeo…</string>
     <string name="downloading">Baixando</string>
     <string name="downloading_file_can_not_play">Aguarde até que a gravação termine de ser baixada</string>
@@ -372,6 +394,7 @@ Tente novamente."</string>
     <string name="fcm_fallback_notification_channel_label">Diversos</string>
     <string name="fdn_check_failure">Você só pode enviar mensagens para os números de chamadas fixas (FDN).</string>
     <string name="file_expired">Este arquivo expirou</string>
+    <string name="file_name_too_long">"Não foi possível enviar. O nome do arquivo é muito longo."</string>
     <string name="feature_mx">Mi Mensagens</string>
     <string name="feature_mx_summary"><b>O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da internet sem a cobrança de tarifas</b>. É necessária uma mensagem SMS para ativar este serviço. A sua operadora cobrará por esta mensagem. Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar este recurso.</string>
     <string name="feature_smart_sms">Mensagens inteligentes</string>
@@ -551,8 +574,10 @@ Verifique seu cartão SIM."</string>
     <string name="message_received">Recebida</string>
     <string name="message_rejected">Rejeitada</string>
     <string name="message_saved_as_draft">Mensagem salva como rascunho.</string>
+    <string name="message_send_failed">"Não foi possível enviar a mensagem"</string>
     <string name="message_send_failed_title">"Mensagem não enviada"</string>
     <string name="message_send_read_report">O relatório será enviado.</string>
+    <string name="message_send_status">Enviar status</string>
     <string name="message_sent">Enviado</string>
     <string name="message_size_label">"Tamanho da mensagem: "</string>
     <string name="message_too_big_for_audio">A mensagem é muito grande</string>
@@ -588,6 +613,11 @@ Verifique seu cartão SIM."</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
+    <string name="miuix_navigator_category_group_collapse">Recolher</string>
+    <string name="miuix_navigator_category_group_expand">Expandir</string>
+    <string name="miuix_navigator_content_switch_description">Mostrar barra lateral</string>
+    <string name="miuix_navigator_multiple_choice">Selecionar</string>
+    <string name="miuix_navigator_navigator_switch_description">Ocultar barra lateral</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -610,6 +640,7 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mms_mi_message_main_purpose">Bem-vindo ao Mi Mensagens! Uma mensagem SMS é necessária para ativar o Mi Mensagens. Sua operadora cobrará por esta mensagem.</string>
     <string name="mms_mi_message_request_notice">Queremos que você aproveite ao máximo o Mi Mensagens.</string>
     <string name="mms_mx_privacy_policy">Política de Privacidade do Mi Mensagens</string>
+    <string name="mms_satellite_privacy_policy">Política de Privacidade de Mensagens via Satélite</string>
     <string name="mms_smart_msg_main_purpose">As Mensagens inteligentes pode reconhecer IDs de remetentes, fornecer serviços de menu inteligente e identificar mensagens suspeitas.</string>
     <string name="mms_smart_msg_privacy_policy">Política de Privacidade das Mensagens inteligentes</string>
     <string name="mms_title">Mensagens</string>
@@ -691,7 +722,8 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx_activate_status_desc_check_net_connection">"Não foi possível conectar-se à rede"</string>
     <string name="mx_activate_status_desc_fail">"Não foi possível ativar o Mi Mensagens"</string>
     <string name="mx_activate_status_desc_prepare_sending_sms">Enviando mensagem de ativação…</string>
-    <string name="mx_activate_status_desc_query_activte_info">Verificando info. do cartão SIM…</string>
+    <string name="mx_activate_status_desc_query_activte_info">Verificando informações do cartão SIM…</string>
+    <string name="mx_activate_status_desc_query_activte_info_translation_for_pad">Verificando informações do cartão SIM…</string>
     <string name="mx_activate_status_desc_request_activation_sms_phone_error">O número do telefone inserido é inválido</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail">Não foi possível ativar o Mi Mensagens</string>
     <string name="mx_auto_resend_mms">Enviar como MMS</string>
@@ -702,10 +734,12 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx_btn_enable_now">Ativar</string>
     <string name="mx_count_dspt">"Você já enviou %1$d SMS e %2$d MMS gratuitamente"</string>
     <string name="mx_current_status">Configurações</string>
-    <string name="mx_dspt">Enviar mensagens SMS e MMS para outros dispositivos Xiaomi sem cobrança de tarifas quando você estiver conectado ao Wi-Fi.</string>
-    <string name="mx_dspt_listview">Envie mensagens para outros dispositivos Xiaomi sem a cobrança de tarifas</string>
+    <string name="mx_dspt">"Envie mensagens para outros dispositivos Xiaomi sem cobrança de tarifas quando você estiver conectado ao Wi-Fi"</string>
+    <string name="mx_dspt_listview">"Envie mensagens para outros dispositivos Xiaomi sem cobrança de tarifas quando você estiver conectado ao Wi-Fi"</string>
+    <string name="mx_dspt_listview_translation_for_pad">"Envie mensagens para outros dispositivos Xiaomi sem cobrança de tarifas quando você estiver conectado ao Wi-Fi"</string>
     <string name="mx_dspt_provision">O Mi Mensagens permite que você envie mensagens para outros usuários HyperOS pela internet sem a cobrança de tarifas da operadora. Um SMS pode ser requerido para reativar o Mi Mensagens. Sua operadora irá cobrar por esta mensagem. Além disso, o serviço precisa de acesso aos dados móveis para verificar quando um usuário está ou não online. Aceitar?</string>
     <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
+    <string name="mx_dspt_translation_for_pad">"Envie mensagens para outros dispositivos Xiaomi sem cobrança de tarifas quando você estiver conectado ao Wi-Fi"</string>
     <string name="mx_enable">Mi Mensagens</string>
     <string name="mx_enable_ex">Mi Mensagens e Voz</string>
     <string name="mx_enable_popup_msg">O Mi Mensagens permite que você envie mensagens para outros dispositivos com HyperOS sem a cobrança de tarifas.</string>
@@ -745,6 +779,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="night">"PM"</string>
     <string name="no">Cancelar</string>
     <string name="no_block_button_msg">Desbloquear</string>
+    <string name="no_conversation_selected">Selecione uma conversa para ver</string>
     <string name="no_conversations">Nenhuma conversa</string>
     <string name="no_delivery_report">Nenhum relatório de entrega</string>
     <string name="no_dialogue_yet">Selecione uma conversa</string>
@@ -818,7 +853,9 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="playing_failed">"Não é possível reproduzir"</string>
     <string name="pm">"PM"</string>
     <string name="pnr">PNR</string>
+    <string name="pop_text">"Mantenha seu dispositivo conectado ao carregador. Isso organizará as mensagens mais rapidamente quando a tela estiver desligada."</string>
     <string name="pref_advanced_settings_title">Configurações adicionais</string>
+    <string name="pref_ai_summary">Resumo de mensagem IA</string>
     <string name="pref_allow_network_access_summary">Obtenha as últimas informações em entregas e outros serviços</string>
     <string name="pref_cell_broadcast">Alertas de emergência</string>
     <string name="pref_collapse_sp_messages_summary">Agrupa SMS informativos automaticamente</string>
@@ -900,6 +937,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="pref_title_perm_read_mms">Ler SMS</string>
     <string name="pref_title_perm_send_mms">Enviar SMS</string>
     <string name="pref_title_perm_storage">Acessar armazenamento</string>
+    <string name="pref_title_perm_storage_translation_for_pad">Acessar armazenamento</string>
     <string name="pref_title_perm_write_contacts">Editar contatos</string>
     <string name="pref_title_privacy_authority">Autorização</string>
     <string name="pref_title_privacy_policy_detail">Política de Privacidade</string>
@@ -965,6 +1003,7 @@ Leia e aceite a nova versão da Política de Privacidade antes de continuar."</s
     <string name="private_protect">Proteção de privacidade</string>
     <string name="private_settings">Configurações</string>
     <string name="processing">Trabalhando…</string>
+    <string name="progress_text">Organizando mensagens… (%s)</string>
     <string name="promo_back_btn_text_xiaomi">Voltar para o Mi Mensagens</string>
     <string name="promo_install_btn_text">Próxima</string>
     <string name="promo_install_bullet_1_xiaomi">Use o Google Assistente em mensagens de texto e tarefas</string>
@@ -988,6 +1027,8 @@ Leia e aceite a nova versão da Política de Privacidade antes de continuar."</s
     <string name="prvate_contact">Contatos privados</string>
     <string name="quick_reply">Responder</string>
     <string name="rate_limit_surpassed">"OK"</string>
+    <string name="rcs_ad_close">Fechar este anúncio</string>
+    <string name="rcs_ad_name">Anúncio</string>
     <string name="rcs_auto_resend_as_sms_remind_change">Alterar configurações</string>
     <string name="rcs_auto_resend_as_sms_remind_desp">Mensagens de até 900B podem ser convertidas como SMS quando o sinal de rede estiver fraco. Toque em \"Alterar configurações\" se você não quiser converter suas mensagens para SMS.</string>
     <string name="rcs_auto_resend_as_sms_remind_title">Converter para SMS</string>
@@ -995,6 +1036,33 @@ Leia e aceite a nova versão da Política de Privacidade antes de continuar."</s
     <string name="rcs_auto_resend_sms">Converter para SMS</string>
     <string name="rcs_auto_resume">Retomar upload interrompidos automaticamente</string>
     <string name="rcs_auto_resume_only_by_wifi">Retomar uploads apenas quando conectado ao Wi-Fi</string>
+    <string name="rcs_bw_allow">Permitir</string>
+    <string name="rcs_bw_app_not_found">App não encontrado</string>
+    <string name="rcs_bw_cancel">Cancelar</string>
+    <string name="rcs_bw_close">Fechar</string>
+    <string name="rcs_bw_download_desc">Aguarde enquanto baixa</string>
+    <string name="rcs_bw_download_title">Navegador de mensagens 5G</string>
+    <string name="rcs_bw_link_copied">Link copiado</string>
+    <string name="rcs_bw_menu_copy">Copiar link</string>
+    <string name="rcs_bw_menu_jump">Abrir no Navegador</string>
+    <string name="rcs_bw_menu_refresh">Recarregar</string>
+    <string name="rcs_bw_menu_search">Pesquisar na página</string>
+    <string name="rcs_bw_menu_share">Enviar para Contatos</string>
+    <string formatted="false" name="rcs_bw_network_error_desc">Mensagem de erro (%d,%s)</string>
+    <string name="rcs_bw_network_error_title">Não é possível abrir a página</string>
+    <string name="rcs_bw_open_file_failed">Falha no acesso aos arquivos</string>
+    <string name="rcs_bw_permission_tip_audio">Solicitar acesso ao seu microfone</string>
+    <string name="rcs_bw_permission_tip_location">Solicitar acesso à sua localização</string>
+    <string name="rcs_bw_permission_tip_media_id">Solicitar acesso às informações do seu dispositivo</string>
+    <string name="rcs_bw_permission_tip_midi">Solicitar acesso ao seu dispositivo MIDI</string>
+    <string name="rcs_bw_permission_tip_video">Solicitar para usar sua webcam</string>
+    <string name="rcs_bw_preview_image">Confira a foto</string>
+    <string name="rcs_bw_refuse">Recusar</string>
+    <string name="rcs_bw_retry">Toque na tela para recarregar</string>
+    <string name="rcs_bw_save_image">Salvar imagem</string>
+    <string name="rcs_bw_share_image">Compartilhar fotos</string>
+    <string name="rcs_bw_share_title_http_tip">Página da web fornecida por %s</string>
+    <string name="rcs_bw_start_app_failed">Falha ao abrir o app</string>
     <string name="rcs_cfs_dialog_content">As mensagens não puderam ser entregues usando o RCS. Enviar uma mensagem de texto em vez disso?</string>
     <string name="rcs_cfs_dialog_title">Transferência de mensagens alternativa</string>
     <string name="rcs_chat_bot_instruction">Sobre o proprietário</string>
@@ -1084,6 +1152,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_message_title">Mensagens 5G</string>
     <string name="rcs_more_bar_title">Mais informações</string>
     <string name="rcs_msg">Mensagens 5G</string>
+    <string name="rcs_msg_privacy_policy">Política de Privacidade do Mensagens 5G</string>
     <string name="rcs_my_black_chatbot_title">Lista de bloqueio</string>
     <string name="rcs_not_online">Não é possível usar o Mensagens 5G. Verifique suas configurações de rede e tente novamente.</string>
     <string name="rcs_offline">Não conectado ao Mensagens 5G. Aguarde um momento e tente novamente.</string>
@@ -1122,12 +1191,17 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_send_rms_remind_desp">O Mensagens 5G é um serviço de mensagens instantâneas fornecido pela China Mobile. Você pode desativar este recurso nas Configurações.</string>
     <string name="rcs_send_rms_remind_title">Usar Mensagens 5G</string>
     <string name="rcs_service_agreement">Contrato de Serviço</string>
+    <string name="rcs_service_clear_all">Limpar tudo</string>
+    <string name="rcs_service_dm_url_runner">Corredor</string>
+    <string name="rcs_service_dm_url_runner_maap">Corredor Maap</string>
     <string name="rcs_setting">Configurações do Mensagens 5G</string>
     <string name="rcs_setting_tips">Você pode alterar os métodos de entrega alternativos nas configurações do app.</string>
     <string name="rcs_silence_message">Silenciar notificações de mensagens</string>
     <string name="rcs_summary_auto_resend_mms">"Converter mensagens multimídia 5G para MMS se a mensagem original não puder ser enviada. Sua operadora cobrará por esta mensagem."</string>
     <string name="rcs_summary_auto_resend_sms">"Converter mensagens de texto 5G para SMS se a mensagem original não puder ser enviada. Sua operadora cobrará por esta mensagem."</string>
-    <string name="rcs_summary_silence_message">Silenciar notificações de mensagens quando o cliente de desktop estiver em execução</string>
+    <string name="rcs_summary_silence_message">Silencie notificações de mensagens quando o cliente de desktop estiver em execução</string>
+    <string name="rcs_summary_silence_message_translation_for_pad">Silencie notificações de mensagens quando o cliente de desktop estiver em execução</string>
+    <string name="rcs_unable_send_file">"Não foi possível enviar este arquivo"</string>
     <string name="rcs_unavailable">"Não é possível usar Mensagens 5G agora. O cartão SIM da China Mobile não é seu cartão de dados padrão."</string>
     <string name="rcs_up_not_online">O Mensagens 5G está offline. Verifique suas configurações de rede e tente novamente.</string>
     <string name="rcs_wait_for_retry_text">Aguardando…</string>
@@ -1178,6 +1252,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="refreshing">Atualizando…</string>
     <string name="release_cancel">Solte para cancelar</string>
     <string name="release_end">Solte para parar</string>
+    <string name="remember_my_choice">Lembrar minha escolha</string>
     <string name="remove">Remover</string>
     <string name="remove_music">Remover música</string>
     <string name="remove_picture">Remover imagem</string>
@@ -1197,6 +1272,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="restore_blocked_message">Restaurar</string>
     <string name="restore_to_phone_memory_failed">"Não foi possível restaurar"</string>
     <string name="restored_to_phone_memory">Restaurado</string>
+    <string name="restored_to_phone_memory_translation_for_pad">Restaurado</string>
     <string name="rms_audio_body">[Áudio]</string>
     <string name="rms_audio_file_duration_too_long">"Não é possível enviar arquivos de áudio com mais de 180 segundos"</string>
     <string name="rms_audio_file_length_too_large">"Não é possível enviar arquivos de áudio maiores do que %1$d MB"</string>
@@ -1263,6 +1339,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="seats">Assento</string>
     <string name="search_sms">Pesquisar mensagens</string>
     <string name="second_mms_introduction">Mude para o Segundo espaço para visualizar mensagens privadas</string>
+    <string name="second_mms_introduction_translation_for_pad">Mude para o Segundo espaço para visualizar mensagens privadas</string>
     <string name="second_mms_switch">Trocar</string>
     <string name="secs">s</string>
     <string name="security_alert_desc"><font color="#7f000000">"O remetente não está em seus contatos. \"
@@ -1284,9 +1361,11 @@ Dê uma olhada nos recomendados!"</string>
     <string name="select_phone_number">Selecione um número de telefone</string>
     <string name="select_recipient">Escolher destinatários</string>
     <string name="select_sim">Selecione o cartão SIM</string>
+    <string name="select_sim_translation_for_pad">Selecione o cartão SIM</string>
     <string name="select_top_text">Texto na parte superior</string>
     <string name="send">Enviar</string>
     <string name="send_after_compress">Comprimir</string>
+    <string name="send_fail">"Não foi possível enviar"</string>
     <string name="send_message_dlg_check_hint">Não mostrar novamente</string>
     <string name="send_message_dlg_mgs">Alerta CMCC: Precisamos registrar seu dispositivo em nossa plataforma de gerenciamento para fornecer serviços gratuitos de suporte. A plataforma CMSS gerencia dispositivos móveis e permite que você altere configurações e atualize o software remotamente. Uma mensagem de texto gratuita com informações de seu dispositivo será enviada para o registro. A mensagem será enviada apenas uma vez e não conterá dados pessoais. Esta mensagem não pode ser enviada por usuários em Hong Kong, Macau, Taiwan ou outros países. Selecione \"OK\" para aceitar e registrar seu dispositivo. Selecione \"Cancelar\" se você não aceita os termos. Neste caso, os serviços não serão fornecidos a você.</string>
     <string name="send_message_dlg_title">Gerenciamento do dispositivo</string>
@@ -1301,6 +1380,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="send_signature_confirm_dialog_title">Enviar mensagem</string>
     <string name="send_sms">Enviar mensagem</string>
     <string name="send_sms_with_location">Permita que este app acesse sua localização para poder enviar mensagens incluindo sua localização. Você pode conceder essa permissão nas Configurações.</string>
+    <string name="send_success">Enviado com sucesso</string>
     <string name="send_to">Para:</string>
     <string name="sent_at_time">Enviado às %1s</string>
     <string name="sent_label">"Enviada: "</string>
@@ -1327,7 +1407,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="sim_card1">Cartão SIM 1</string>
     <string name="sim_card2">Cartão SIM 2</string>
     <string name="sim_card_cloud">%s (Mi Mensagens)</string>
-    <string name="sim_copy_to_phone_memory">Copiar para a memória do telefone</string>
+    <string name="sim_copy_to_phone_memory">Copiar para a memória do dispositivo</string>
+    <string name="sim_copy_to_phone_memory_translation_for_pad">Copiar para a memória do dispositivo</string>
     <string name="sim_delete">Excluir</string>
     <string name="sim_empty">Nenhuma mensagem no cartão SIM</string>
     <string name="sim_full_body">Exclua algumas mensagens para liberar espaço.</string>
@@ -1387,6 +1468,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
+    <string name="soundrecorder_not_found">Instale o Gravador primeiro</string>
     <string name="sp_category_all">Todas as mensagens de serviço</string>
     <string name="sp_category_bank">Mensagens de notificação de bancos</string>
     <string name="sp_category_title_prefix">%s</string>
@@ -1402,10 +1484,12 @@ Dê uma olhada nos recomendados!"</string>
     <string name="status_received">Recebida</string>
     <string name="status_rejected">Rejeitada</string>
     <string name="status_unread">Não lida</string>
+    <string name="stay_open">Continuar</string>
     <string name="stick">Fixar</string>
     <string name="stick_conversation">Fixar conversa atual</string>
     <string name="sticked">Fixado com sucesso</string>
     <string name="sticked_conversation">A conversa já foi fixada</string>
+    <string name="still_close">Desativar</string>
     <string name="storage_dialog_attachments">"Anexos do MMS: "</string>
     <string name="storage_dialog_available_space">"Espaço disponível: "</string>
     <string name="storage_dialog_database">"Banco de dados: "</string>
@@ -1559,6 +1643,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="to_address_label">"Para: "</string>
     <string name="to_label">"Para "</string>
     <string name="to_send_wrapper">A mensagem será enviada às %s</string>
+    <string name="to_xiaomi_account_login">Fazer login</string>
     <string name="toast_failed_to_close_priv_auth">Não foi possível revogar a autorização. Verifique suas configurações de rede e tente novamente.</string>
     <string name="toast_new_not_show_microphone_perm_req">Permitir que o app Mensagens acesse o microfone para usar este recurso</string>
     <string name="toast_not_show_account_perm_req">Permita que o app Mensagens acesse contas armazenadas em seu dispositivo para usar este recurso</string>
@@ -1615,6 +1700,8 @@ Tentativas efetuadas: %s."</string>
     <string name="updating">Atualizando…</string>
     <string name="url_fraud_dangerous_alert">"O site que você está tentando acessar pode ser perigoso. Ele pode possivelmente danificar seu dispositivo ou seus dados. Acessar mesmo assim?
 %s"</string>
+    <string name="url_fraud_dangerous_alert_translation_for_pad">"O site que você está tentando acessar pode ser perigoso. Ele pode possivelmente danificar seu dispositivo ou seus dados. Acessar mesmo assim?
+%s"</string>
     <string name="url_fraud_risky_alert">"O site %s que você está tentando acessar pode ser perigoso. Acessá-lo mesmo assim?
 "</string>
     <string name="url_fraud_title">O site pode ser falso</string>
@@ -1665,7 +1752,12 @@ Apenas os primeiros 50 caracteres de cada item do cartão médico serão retidos
     <string name="wednesday_shortest">Qua</string>
     <string name="wild_msg_processing">Trabalhando…</string>
     <string name="wild_msg_title">Escolha os números a sincronizar</string>
+    <string name="wrong_mms_version_msg">"Instale uma versão do Mensagens compatível com seu dispositivo e sistema."</string>
+    <string name="wrong_mms_version_title">Erro de versão</string>
     <string name="xiaomi_account_service_retry_main_purpose">Os serviços da Conta Mi devem ser ativados para que este recurso funcione normalmente. Você pode ativar os serviços da Conta Mi em Configurações > Gerenciar apps.</string>
+    <string name="xiaomi_account_login_content">"Devido às leis e regulamentos relevantes, a verificação de identidade é necessária para usar recursos relacionados à IA.
+Faça login na sua Conta Mi para poder usar este recurso."</string>
+    <string name="xiaomi_account_login_title">Fazer login com a Conta Mi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
@@ -1677,7 +1769,4 @@ Apenas os primeiros 50 caracteres de cada item do cartão médico serão retidos
     <string name="zero_sms_feedback_message">Mensagens reportadas são enviadas aos nossos servidores junto com os números de telefone dos seus remetentes. Estas mensagens são usadas apenas para melhorar a funcionalidade da Lista de bloqueio.</string>
     <string name="zero_sms_feedback_success">Reportado com sucesso</string>
     <string name="zero_sms_feedback_title">Reportar</string>
-    <string name="mx_dspt_listview_translation_for_pad">"Enviar mensagens SMS e MMS para outros dispositivos Xiaomi sem cobrança de tarifas quando você estiver conectado ao Wi-Fi."</string>
-    <string name="mx_dspt_translation_for_pad">"Envie mensagens para outros dispositivos Xiaomi sem a cobrança de tarifas."</string>
-    <string name="context_menu_access_link">Abrir Link</string>
 </resources>
