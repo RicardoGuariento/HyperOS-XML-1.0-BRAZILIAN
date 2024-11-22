@@ -339,6 +339,8 @@
     <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
     <string name="calllog_record_none_toast">Nenhuma gravação de chamadas para mostrar</string>
     <string name="calllog_record_searching_toast">Procurando gravações de chamada…</string>
+    <string name="callrecordview_item_op_time_ai_automatic_answer">Resposta automática de IA</string>
+    <string name="callrecordview_item_op_time_ai_call">Assistente de chamada IA</string>
     <string name="callrecordview_item_op_time_minutes_seconds">"%1$d min e %2$d s"</string>
     <string name="callrecordview_item_op_time_missed">"Não atendida"</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -351,6 +353,7 @@
     <string name="callrecordview_item_op_time_xiaoai_manual_answer">Resposta manual</string>
     <string name="callrecordview_item_op_video">Vídeo</string>
     <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
+    <string name="callrecordview_menu_ai">Assistente de chamada IA</string>
     <string name="callrecordview_menu_aiphone">Chamadas por IA</string>
     <string name="callrecordview_menu_batch_delete">Excluir lote</string>
     <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
@@ -1352,6 +1355,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="scan_merge">Procurando contatos duplicados…</string>
     <string name="scan_not_installed">Instale o Scanner primeiro</string>
     <string name="scan_not_installed_china">Instale o Mi AI Scanner primeiro</string>
+    <string name="scan_not_installed_china_ai">Instale o AI Scanner para poder usar este recurso</string>
     <string name="scan_not_installed_global">Instale o Scanner primeiro</string>
     <string name="scan_qrcode_card_hint1">Digitalize o código QR acima</string>
     <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
