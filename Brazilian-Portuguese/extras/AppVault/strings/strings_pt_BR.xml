@@ -8,7 +8,7 @@
     <string name="search_filter_size_all">Todos os tamanhos</string>
     <string name="widget_apps">Apps com suporte a widgets</string>
     <string name="widget_num_limit">Não é possível adicionar mais widgets ao Assistente. Exclua widgets mais antigos para adicionar novos.</string>
-    <string name="widget_num_warn">Adicionado com sucesso. Lembre-se de que ao colocar muitos widgets na Tela inicial pode deixar seu dispositivo mais lento.</string>
+    <string name="widget_num_warn">Adicionado com sucesso. Lembre-se de que colocar muitos widgets na Tela inicial pode deixar seu dispositivo lento.</string>
     <!-- Categories -->
     <string name="theme_clock">Relógios personalizados</string>
     <string name="theme_pals">Pets</string>
@@ -38,6 +38,7 @@
     <string name="app_whatsapp">WhatsApp</string>
     <!-- Shortcut groups -->
     <string name="shortcuts_external">Atalhos externos</string>
+    <string name="shortcuts_popular">Usado com frequência</string>
     <string name="shortcuts_system">Atalhos do sistema</string>
     <!-- Shortcut names -->
     <string name="auto_optimize">Otimizar</string>
@@ -66,20 +67,22 @@
     <string name="widget_browser_shortcuts">Atalhos</string>
     <string name="widget_browser_shortcuts_desc">Principais recursos ao seu alcance</string>
     <string name="widget_calculator_basic">Básico</string>
-    <string name="widget_calculator_basic_desc">Adição, subtração, multiplicação e divisão regulares</string>
+    <string name="widget_calculator_basic_desc">Execute operações aritméticas básicas</string>
     <string name="widget_calculator_currency">Moeda</string>
     <string name="widget_calculator_currency_desc">Conversão de moeda de vários países</string>
     <string name="widget_calendar_agenda">Próximos eventos</string>
     <string name="widget_calendar_agenda_desc">Veja as informações dos próximos eventos</string>
     <string name="widget_calendar_agenda_special">Eventos especiais</string>
-    <string name="widget_calendar_agenda_special_desc">Veja aniversários e timers</string>
-    <string name="widget_calendar_countdown">Timer</string>
-    <string name="widget_calendar_countdown_desc">Veja informações de timers</string>
+    <string name="widget_calendar_agenda_special_desc">Veja aniversários, contagens regressivas e datas comemorativas</string>
+    <string name="widget_calendar_countdown">Contagem regressiva</string>
+    <string name="widget_calendar_countdown_desc">Veja informações de contagem regressiva</string>
     <string name="widget_calendar_date">Data</string>
     <string name="widget_calendar_date_desc">Veja informações da data de hoje</string>
+    <string name="widget_calendar_month">Visualização mensal</string>
+    <string name="widget_calendar_month_desc">Veja informações da data do mês atual</string>
     <string name="widget_camera_filter">Filtros Leica</string>
     <string name="widget_camera_filter_desc">Quatro conjuntos de filtros Leica</string>
-    <string name="widget_camera_lens">Lentes PRO</string>
+    <string name="widget_camera_lens">Lentes Pro</string>
     <string name="widget_camera_lens_desc">Experimente com a distância focal</string>
     <string name="widget_clock_dual">Relógio duplo</string>
     <string name="widget_clock_dual_desc">Saiba a hora em seu local atual e selecionados</string>
@@ -97,6 +100,8 @@
     <string name="widget_gallery_custom_desc">Adicione o widget e toque nele para selecionar fotos</string>
     <string name="widget_gallery_recommend">Recordações</string>
     <string name="widget_gallery_recommend_desc">Lembre seus momentos mais brilhantes</string>
+    <string name="widget_health_mens">Ciclos</string>
+    <string name="widget_health_mens_desc">Veja seus dados menstruais</string>
     <string name="widget_health_sleep">Sono</string>
     <string name="widget_health_sleep_desc">Veja seus dados de sono</string>
     <string name="widget_health_stats">Estatísticas</string>
@@ -132,7 +137,7 @@
     <string name="widget_security_cleaner">Limpeza</string>
     <string name="widget_security_cleaner_desc">Otimize seu dispositivo e aumente o desempenho</string>
     <string name="widget_security_cleaner_garbage">Limpeza</string>
-    <string name="widget_security_cleaner_garbage_desc">Limpa a lixeira do seu dispositivo</string>
+    <string name="widget_security_cleaner_garbage_desc">Limpa o lixo do seu dispositivo</string>
     <string name="widget_security_cleaner_memory">Aumentar velocidade</string>
     <string name="widget_security_cleaner_memory_desc">Limpa a memória para aumentar a velocidade</string>
     <string name="widget_security_optimize">Segurança</string>
@@ -147,12 +152,21 @@
     <string name="widget_smarthome_environment_desc">Veja a temperatura, umidade e qualidade do ar da sua casa</string>
     <string name="widget_weather_aqi">Qualidade do ar</string>
     <string name="widget_weather_aqi_desc">Veja o IQA nos locais que você selecionar</string>
+    <string name="widget_weather_custom">Clima personalizado</string>
+    <string name="widget_weather_custom_desc">Personalize seu próprio widget de clima</string>
     <string name="widget_weather_forecast">Previsão</string>
     <string name="widget_weather_forecast_desc">Veja a previsão do tempo</string>
-    <string name="widget_weather_forecast_detail">Previsão</string>
+    <string name="widget_weather_forecast_detail">Previsão detalhada</string>
     <string name="widget_weather_forecast_detail_desc">Veja a previsão do tempo detalhada</string>
     <string name="widget_weather_realtime">Clima</string>
     <string name="widget_weather_realtime_desc">Veja informações meteorológicas atuais</string>
-    <string name="widget_weather_today">Clima</string>
+    <string name="widget_weather_sun">Nascer e pôr do sol</string>
+    <string name="widget_weather_sun_desc">Veja os horários do nascer e pôr do sol em sua localização</string>
+    <string name="widget_weather_today">O clima de hoje</string>
     <string name="widget_weather_today_desc">Veja informações meteorológicas detalhadas</string>
+    <!-- Widget configs -->
+    <string name="widget_config_calendar_dynamic_info">Mostrar eventos</string>
+    <string name="widget_config_gallery_select_photo">Selecionar fotos</string>
+    <string name="widget_config_gallery_show_title">Mostrar título</string>
+    <string name="widget_config_gallery_show_title_off">O título não aparecerá no widget da Tela inicial</string>
 </resources>
