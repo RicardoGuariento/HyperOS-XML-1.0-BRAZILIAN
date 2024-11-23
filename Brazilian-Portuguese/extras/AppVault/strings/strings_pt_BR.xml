@@ -38,7 +38,7 @@
     <string name="app_whatsapp">WhatsApp</string>
     <!-- Shortcut groups -->
     <string name="shortcuts_external">Atalhos externos</string>
-    <string name="shortcuts_popular">Frequentemente Usados</string>
+    <string name="shortcuts_popular">Usado com frequência</string>
     <string name="shortcuts_system">Atalhos do sistema</string>
     <!-- Shortcut names -->
     <string name="auto_optimize">Otimizar</string>
@@ -63,26 +63,26 @@
     <string name="widget_appvault_smart_shortcuts">Sugestões de apps</string>
     <string name="widget_appvault_smart_shortcuts_desc">Início rápido de apps e funções usados com frequência</string>
     <string name="widget_browser_search">Procurar</string>
-    <string name="widget_browser_search_desc">Pesquisar na web com um toque</string>
+    <string name="widget_browser_search_desc">Pesquise na web com um toque</string>
     <string name="widget_browser_shortcuts">Atalhos</string>
     <string name="widget_browser_shortcuts_desc">Principais recursos ao seu alcance</string>
     <string name="widget_calculator_basic">Básico</string>
-    <string name="widget_calculator_basic_desc">Adição, subtração, multiplicação e divisão regulares</string>
+    <string name="widget_calculator_basic_desc">Execute operações aritméticas básicas</string>
     <string name="widget_calculator_currency">Moeda</string>
     <string name="widget_calculator_currency_desc">Conversão de moeda de vários países</string>
     <string name="widget_calendar_agenda">Próximos eventos</string>
     <string name="widget_calendar_agenda_desc">Veja as informações dos próximos eventos</string>
     <string name="widget_calendar_agenda_special">Eventos especiais</string>
-    <string name="widget_calendar_agenda_special_desc">Veja aniversários e cont. regressiva</string>
-    <string name="widget_calendar_countdown">Contagem Regressiva</string>
+    <string name="widget_calendar_agenda_special_desc">Veja aniversários, contagens regressivas e datas comemorativas</string>
+    <string name="widget_calendar_countdown">Contagem regressiva</string>
     <string name="widget_calendar_countdown_desc">Veja informações de contagem regressiva</string>
     <string name="widget_calendar_date">Data</string>
     <string name="widget_calendar_date_desc">Veja informações da data de hoje</string>
-    <string name="widget_calendar_month">Visualização Mensal</string>
+    <string name="widget_calendar_month">Visualização mensal</string>
     <string name="widget_calendar_month_desc">Veja informações da data do mês atual</string>
     <string name="widget_camera_filter">Filtros Leica</string>
     <string name="widget_camera_filter_desc">Quatro conjuntos de filtros Leica</string>
-    <string name="widget_camera_lens">Lentes PRO</string>
+    <string name="widget_camera_lens">Lentes Pro</string>
     <string name="widget_camera_lens_desc">Experimente com a distância focal</string>
     <string name="widget_clock_dual">Relógio duplo</string>
     <string name="widget_clock_dual_desc">Saiba a hora em seu local atual e selecionados</string>
@@ -168,5 +168,5 @@
     <string name="widget_config_calendar_dynamic_info">Mostrar eventos</string>
     <string name="widget_config_gallery_select_photo">Selecionar fotos</string>
     <string name="widget_config_gallery_show_title">Mostrar título</string>
-    <string name="widget_config_gallery_show_title_off">O título não aparecerá no widget da tela inicial</string>
+    <string name="widget_config_gallery_show_title_off">O título não aparecerá no widget da Tela inicial</string>
 </resources>
