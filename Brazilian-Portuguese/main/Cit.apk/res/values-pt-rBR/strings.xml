@@ -875,6 +875,7 @@ Falha no teste!"</string>
     <string name="cit_usb_OTG_plug_re_plugin">O teste foi concluído, não há necessidade de reteste.</string>
     <string name="cit_usb_charger_in">Carregando via USB</string>
     <string name="cit_usb_charger_out">Carregador USB desconectado</string>
+    <string name="cit_usb_typec_test_title">Auxiliares de teste funcional USB Tipo-C</string>
     <string name="cit_uwb_calibrate_color_black">Preto</string>
     <string name="cit_uwb_calibrate_color_cali_tip">Selecione a parte posterior do dispositivo antes de realizar a calibração de dados</string>
     <string name="cit_uwb_calibrate_color_gray">Cinza</string>
@@ -1192,6 +1193,14 @@ Toque no botão apropriado de acordo com o número que você ouvir."</string>
     <string name="touch_auto">Autoteste do touchscreen em andamento, aguarde…</string>
     <string name="tp_color">Cor TP:</string>
     <string name="tp_version">Versão TP:</string>
+    <string name="usb_typec_test1_but1">Insira a suspensão USB2</string>
+    <string name="usb_typec_test1_but2">Insira a suspensão USB3</string>
+    <string name="usb_typec_test1_but_resume">Retomar</string>
+    <string name="usb_typec_test1_title">Teste de suspensão de fonte USB Type-C TD4.9.1</string>
+    <string name="usb_typec_test2_but1">USB2</string>
+    <string name="usb_typec_test2_but2">USB3</string>
+    <string name="usb_typec_test2_but_exit">SAIR</string>
+    <string name="usb_typec_test2_title">Teste de fonte USB Type-C TD4.9.3 PR_Swap</string>
     <string name="verified_boot_lock">Bloqueado</string>
     <string name="verified_boot_unlock">Desbloqueado</string>
     <string name="verify">Verificar</string>

@@ -632,6 +632,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="advanced_battery_title">Uso da bateria</string>
     <string name="advanced_gesture">Gestos personalizados</string>
     <string name="advanced_screen_paper_mode_title">Modo leitura</string>
+    <string name="advanced_screen_paper_mode_title_new">Conforto ocular</string>
     <string name="advanced_section_header">Avançado</string>
     <string name="advanced_security_title">Avançado</string>
     <string name="advanced_settings">Configurações adicionais</string>
@@ -1151,6 +1152,11 @@ Alterar as configurações agora?"</string>
     <string name="back_navigation_animation_summary">Ativa animações do sistema para retorno preditivo</string>
     <string name="back_sensitivity_dialog_message">O aumento da sensibilidade pode prejudicar gestos que usam as bordas da tela</string>
     <string name="back_sensitivity_dialog_title">Sensibilidade da parte de trás</string>
+    <string name="back_strap_image_simplified_text">Quando o dispositivo estiver voltado para baixo com a tela desligada, a luz de fundo exibirá lembretes de notificação.</string>
+    <string name="back_strap_image_text">Quando o dispositivo estiver voltado para baixo com a tela desligada, a luz de fundo exibirá lembretes de notificação e efeitos de iluminação para diferentes cenas.</string>
+    <string name="back_strap_status_close">Desativado</string>
+    <string name="back_strap_status_open">Ativado</string>
+    <string name="back_strap_title">Efeitos de luz de fundo</string>
     <string name="back_tap">Toque na traseira</string>
     <string name="back_triple_tap">Toque triplo na traseira</string>
     <string name="background_activity_disabled_dialog_text">"Como o app não está configurado para otimizar bateria, não é possível restringi-lo.
@@ -7005,6 +7011,8 @@ Selecione seu sistema operacional:"</string>
     <string name="near_loclscreen_summary">A tela acenderá automaticamente quando você chegar perto do seu dispositivo. As notificações ficarão ocultas.</string>
     <string name="near_loclscreen_title">Ativar tela ao retornar</string>
     <string name="nearby_wifi">Redes disponíveis</string>
+    <string name="nearby_wifi_refresh">Atualizar</string>
+    <string name="nearby_wifi_title">Dispositivos disponíveis</string>
     <string name="need_reboot_now">Reinicie para instalar a atualização.</string>
     <string name="netcheck_title">Diagnóstico de rede</string>
     <string name="network_1x">1x</string>
@@ -8576,6 +8584,7 @@ Essa configuração afeta todos os usuários do dispositivo."</string>
     <string name="safety_center_title">Segurança e privacidade</string>
     <string name="sar">Informação de exposição RF</string>
     <string name="satellite_call_assistant">Configurações de chamada</string>
+    <string name="satellite_management_title">Rede de satélite</string>
     <string name="satellite_network_title">Recursos de chamada via satélite</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_first_day_of_week">Sábado</string>
@@ -9425,6 +9434,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="service_started_by_app">Iniciado pelo app.</string>
     <string name="service_stop">Parar</string>
     <string name="service_stop_description">O app iniciou este serviço em execução. Pará-lo poderá causar erros.</string>
+    <string name="service_support">Suporte</string>
     <string name="services_subtitle">Serviços</string>
     <string name="set_data_limit">Definir limite de dados</string>
     <string name="set_data_warning">Definir alerta de uso de dados</string>
@@ -12254,6 +12264,7 @@ você pode usar a rede de outros usuários também."</string>
     <string name="wifi_share_login_summary">Se esta for uma rede pública, você poderá compartilhá-la com outros usuários Xiaomi.</string>
     <string name="wifi_share_notification_summary">Você se conectou a uma rede Wi-Fi pública.</string>
     <string name="wifi_share_other_network">Outras redes</string>
+    <string name="wifi_share_plain_password_text">Senha: %s</string>
     <string name="wifi_share_qrcode_finish">Concluído</string>
     <string name="wifi_share_qrcode_summary">Para compartilhar, escaneie o código QR acima.</string>
     <string name="wifi_share_qrcode_title">Compartilhar rede Wi-Fi</string>
@@ -12852,7 +12863,4 @@ Atualizar configurações para:
     <string name="zone_menu_by_region">Selecionar por região</string>
     <string name="zone_time_type_dst">Horário de verão</string>
     <string name="zone_time_type_standard">Horário padrão</string>
-    <string name="nearby_wifi_refresh">Atualizar</string>
-    <string name="wifi_share_plain_password_text">Senha: %s</string>
-    <string name="service_support">Suporte</string>
 </resources>

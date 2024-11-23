@@ -130,6 +130,17 @@
         <item>Cabeçalhos filtrados</item>
         <item>Pacotes de mídia filtrados</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Deixe apenas cabeçalhos ACL</item>
+        <item>Filtrar pacotes de mídia A2DP</item>
+        <item>Filtrar canal RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Desativar</item>
+        <item>Preencha com sequência de caracteres</item>
+        <item>Deixe apenas o cabeçalho</item>
+        <item>Remover totalmente</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Mostrar horas, minutos e segundos</item>
         <item>Mostrar horas e minutos (padrão)</item>
@@ -325,6 +336,11 @@
         <item>Desativado</item>
         <item>Ativado</item>
     </string-array>
+     <string-array name="tile_states_hearing_devices">
+        <item>Indisponível</item>
+        <item>Desativado</item>
+        <item>Ativado</item>
+     </string-array>
     <string-array name="tile_states_hotspot">
         <item>Indisponível</item>
         <item>Desativado</item>
@@ -365,6 +381,11 @@
         <item>Desativado</item>
         <item>Ativado</item>
     </string-array>
+     <string-array name="tile_states_record_issue">
+        <item>Indisponível</item>
+        <item>Desativado</item>
+        <item>Ativado</item>
+     </string-array>
     <string-array name="tile_states_reduce_brightness">
         <item>Indisponível</item>
         <item>Desativado</item>
@@ -424,6 +445,14 @@
         <item>Escala de animação 2x</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>Este é um exemplo de síntese de voz em inglês.</item>
+        <item>Este é um exemplo de síntese de voz em francês.</item>
+        <item>Este é um exemplo de síntese de voz em alemão.</item>
+        <item>Este é um exemplo de síntese de voz em italiano.</item>
+        <item>Este é um exemplo de síntese de voz em espanhol.</item>
+        <item>Este é um exemplo de síntese de voz em coreano.</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Muito devagar</item>

@@ -6591,6 +6591,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="label">Rótulo</string>
     <string name="layoutDirection">RTL</string>
     <string name="location">Localização</string>
+    <string name="location_services_title">Serviços de localização</string>
     <string name="miui_blur_location">Permitir que todos os apps acessem a localização aproximada</string>
     <string name="model_type_pad">Plano</string>
     <string name="model_type_phone">Celular</string>
@@ -6677,15 +6678,17 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="permission_group_audio">Esta permissão permite que os apps acessem músicas e outros arquivos de áudio armazenados neste dispositivo.</string>
     <string name="permission_group_calendar">Esta permissão permite que os apps acessem, adicionem, excluam e editem eventos da agenda.</string>
     <string name="permission_group_call_log">Esta permissão permite que os apps acessem ou editem o histórico de chamadas.</string>
-    <string name="permission_group_camera">Essa permissão permite que apps usem a câmera para tirar fotos ou gravar vídeos.</string>
+    <string name="permission_group_camera">Esta permissão permite que apps usem a câmera para tirar fotos ou gravar vídeos.</string>
     <string name="permission_group_contact">Esta permissão permite que os apps acessem ou editem contatos, bem como visualizem os contatos do app criados neste dispositivo.</string>
     <string name="permission_group_file">Esta permissão permite que os apps acessem todos os arquivos armazenados neste dispositivo.</string>
     <string name="permission_group_file_less_t">Esta permissão permite que os apps acessem fotos, vídeos, áudio e outros arquivos armazenados neste dispositivo.</string>
     <string name="permission_group_image_video">Esta permissão permite que os apps acessem fotos e vídeos armazenados neste dispositivo.</string>
     <string name="permission_group_location">Esta permissão permite que os apps acessem informações de localização via rede ou satélite.</string>
     <string name="permission_group_microphone">Esta permissão permite que os apps usem o microfone para gravar áudio.</string>
-    <string name="permission_group_nearby_device">Essa permissão permite que os apps descubram e se conectem a dispositivos próximos, bem como determinem suas localizações.</string>
-    <string name="permission_group_phone">Essa permissão permite que os apps façam, atendam e finalizem chamadas, bem como acessem seu número de telefone, status do dispositivo e informações da rede móvel.</string>
+    <string name="permission_group_nearby_device">Esta permissão permite que os apps descubram e se conectem a dispositivos próximos, bem como determinem suas localizações.</string>
+    <string name="permission_group_note">Esta permissão permite que o app acesse itens do Notas.</string>
+    <string name="permission_group_phone">Esta permissão permite que os apps façam, atendam e finalizem chamadas, bem como acessem seu número de telefone, status do dispositivo e informações da rede móvel.</string>
+    <string name="permission_group_record">Esta permissão permite que o app acesse itens do Gravador.</string>
     <string name="permission_group_sms">Esta permissão permite que os apps enviem e visualizem SMS e MMS.</string>
     <string name="permission_group_sport_healthy">Esta permissão permite que os apps acessem suas informações de atividade (ex.: contagem de passos, treinos).</string>
     <string name="permission_instruction_read_read_calendar">Esta permissão permite que os apps adicionem, excluam e editem eventos da agenda.</string>
@@ -7076,7 +7079,4 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="widget_button_text">Adicione peças pequenas</string>
     <string name="widget_cleaner_message">Pode limpar o lixo</string>
     <string name="widget_cleaner_size_unit">MB</string>
-    <string name="permission_group_record">Esta permissão permite que o aplicativo acesse itens do Gravador.</string>
-    <string name="permission_group_note">Esta permissão permite que o aplicativo acesse itens do Notas.</string>
-    <string name="location_services_title">Serviços de localização</string>
 </resources>
