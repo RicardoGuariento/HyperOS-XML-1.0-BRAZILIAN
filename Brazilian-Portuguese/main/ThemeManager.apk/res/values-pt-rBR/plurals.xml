@@ -29,6 +29,9 @@
         <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
+    <plurals name="ai_generate_progress">
+        <item quantity="other">Isso levará cerca de %s segundos.</item>
+    </plurals>
     <plurals name="anonymous_resource_count_aod">
         <item quantity="other">%1$d temas AOD</item>
         <item quantity="one">%1$d tema AOD</item>
@@ -72,6 +75,10 @@
     <plurals name="atmospheric_pressure_desc">
         <item quantity="other">Pressão atmosférica: %s hectopascais</item>
         <item quantity="one">Pressão atmosférica: %s hectopascal</item>
+    </plurals>
+    <plurals name="author_follow">
+        <item quantity="other">%d seguindo</item>
+        <item quantity="one">%d seguindo</item>
     </plurals>
     <plurals name="de_author_fans_amount">
         <item quantity="other">%1$d fãs</item>
@@ -271,5 +278,9 @@
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d imagens</item>
         <item quantity="one">%1$s | %2$d imagem</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s graus, %2$s</item>
+        <item quantity="one">Temperatura: %1$s grau, %2$s</item>
     </plurals>
 </resources>
