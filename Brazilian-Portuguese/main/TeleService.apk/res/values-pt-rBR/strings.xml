@@ -1819,7 +1819,7 @@ A rede preferencial será usada."</string>
     <string name="network_type_3g_preferred_cmcc">3G/2G</string>
     <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
     <string name="network_unlock">Desbloquear</string>
-    <string name="networks_title">Redes móveis</string>
+    <string name="networks_title">Selecionar operadora</string>
     <string name="newPin2Label">Novo PIN2</string>
     <string name="newPinLabel">Novo PIN</string>
     <string name="new_password_label">Nova senha de %d dígitos</string>
@@ -1874,7 +1874,7 @@ Entre em contato com suas operadoras"</string>
     <string name="nr_usaged_used_time">Duração do uso</string>
     <string name="nrca_need_reset">Reinicie seu dispositivo para aplicar as alterações</string>
     <string name="nrca_switch_summary">Usa a agregação de operadora 5G para melhorar a conectividade</string>
-    <string name="nrca_switch_title">Usar NRCA</string>
+    <string name="nrca_switch_title">Usar agregação de operadora 5G</string>
     <string name="number">Número</string>
     <string name="numerous_emergency_numbers_title">Números de emergência</string>
     <string name="obtain_location_information">Localização</string>
@@ -2135,14 +2135,14 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G preferencial (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G preferencial</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM automático</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G preferencial)</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (Automático)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G automático</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_vd">4G/3G/2G automático</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G automático</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mtn">2G/3G/4G automático</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">5G preferencial</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM automático</string>
-    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G preferencial)</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (Automático)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">5G/4G/3G/2G automático</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_vd">5G/4G/3G/2G automático</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G automático</string>
@@ -2592,7 +2592,7 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="smart_forwarding_settings_menu_summary">Quando um número não estiver acessível, sempre encaminhe as chamadas para o outro número</string>
     <string name="smart_multinetwork_acceleration_title">Aceleração de rede inteligente</string>
     <string name="smart_switch_dual_sim_diag_cancel">Cancelar</string>
-    <string name="smart_switch_dual_sim_diag_message">"Parece que seu chip de dados atual não fornece uma conexão de rede estável. Alternar entre cartões SIM de dados automaticamente pode melhorar a qualidade da conexão. Você pode ativar esse recurso em Configurações."</string>
+    <string name="smart_switch_dual_sim_diag_message">"Parece que seu chip de dados atual não fornece uma conexão de rede estável. Alternar entre cartões SIM de dados automaticamente pode melhorar a qualidade da conexão. Você pode ativar esse recurso nas Configurações."</string>
     <string name="smart_switch_dual_sim_diag_ok">Configurações</string>
     <string name="smart_switch_dual_sim_diag_title">Atenção!</string>
     <string name="smart_switch_dual_sim_prompt">Conectar-se à rede de dados móveis usando o SIM %1$s pode gerar taxas de dados adicionais. Defina um limite de uso de dados para evitar taxas adicionais.</string>
@@ -3008,8 +3008,8 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
     <string name="volte_provision_text">Chamadas VoLTE fornecem melhor qualidade do que chamadas normais. Enviar SMS para ativar?</string>
     <string name="volte_provision_title">Ativar chamadas VoLTE</string>
     <string name="volte_provisioned_switch_string">VoLTE provisionado</string>
-    <string name="volte_switch_not_support_summary">Chamadas VoLTE não são suportadas para o cartão SIM usado em dados móveis.</string>
-    <string name="volte_switch_not_support_summary2">Chamadas VoLTE não são suportadas pela operadora.</string>
+    <string name="volte_switch_not_support_summary">"Chamadas VoLTE não são suportadas para o cartão SIM usado em dados móveis."</string>
+    <string name="volte_switch_not_support_summary2">"Chamadas VoLTE não são suportadas pela operadora."</string>
     <string name="volte_switch_summary">Utiliza o VoLTE para melhorar a qualidade de chamadas de voz</string>
     <string name="volte_switch_summary2">Confirme se a sua operadora suporta este recurso antes de ativá-lo. Caso contrário, chamadas normais poderão ser afetadas.</string>
     <string name="volte_switch_title">Usar VoLTE</string>
@@ -3139,7 +3139,7 @@ Por favor, verifique a validade dos certificados"</string>
 O armazenamento de credenciais pode não estar ativo"</string>
     <string name="wifi_wapi_psk_type">Tipo de senha</string>
     <string name="wifi_wapi_user_certificate">Certificado de usuário</string>
-    <string name="wificall_switch_summary">Usa o Wi-Fi para fazer e receber chamadas sempre que possível</string>
+    <string name="wificall_switch_summary">Use o Wi-Fi para chamadas quando permitido pela operadora (apenas para teste)</string>
     <string name="wificall_switch_title">Fazer chamadas usando Wi-Fi</string>
     <string name="wifitrackerlib_auto_connect_disable">Autoconexão desativada</string>
     <string name="wifitrackerlib_available_via_app">Disponível via %1$s</string>
