@@ -90,6 +90,9 @@
     <string name="ai_generate_wallpaper_fail">"Não foi possível gerar o plano de fundo dinâmico IA"</string>
     <string name="ai_generate_wallpaper_fail_message">As fotos que você selecionou podem ter violado nossas diretrizes. Selecione novas fotos.</string>
     <string name="ai_generating_wallpaper">Gerando plano de fundo…</string>
+    <string name="ai_in_line">"Você está na fila…"</string>
+    <string name="ai_image_format_does_not_support_generation">Formato não suportado</string>
+    <string name="ai_image_size_too_large">A imagem é muito grande</string>
     <string name="ai_inquire_apply_wallpaper">Aplicar este plano de fundo?</string>
     <string name="ai_moving_your_wallpaper">Veja como a IA pode dar vida aos seus planos de fundo</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.&lt;/Data></string>
@@ -98,6 +101,7 @@
     <string name="ai_select_message">Selecione apenas imagens de paisagens, cidades, plantas e carros e certifique-se de que o assunto principal da imagem esteja claro e desobstruído.</string>
     <string name="ai_select_title">"Não é possível processar imagens"</string>
     <string name="ai_select_wallpaper">Selecionar plano de fundo</string>
+    <string name="ai_service_unavailable">"Este recurso não está disponível"</string>
     <string name="ai_waiting_in_line_please_wait">"Você está na fila. Fique Ligado…"</string>
     <string name="ai_wallpaper">Planos de fundo dinâmicos IA</string>
     <string name="ai_wallpaper_account_exception">"Parece que há um problema com sua conta. Tente novamente mais tarde ou troque de conta."</string>
