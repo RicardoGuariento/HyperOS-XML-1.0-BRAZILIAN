@@ -44,6 +44,7 @@
     <string name="atrace_saved">Salvo com sucesso</string>
     <string name="atrace_saving">Salvando log do atrace…</string>
     <string name="atrace_start">Gravando log do atrace…</string>
+    <string name="avg_current_title">Corrente média:</string>
     <string name="base_info">Informação base</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
@@ -318,6 +319,7 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="pref_config_title">Otimização de desempenho</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy">Política de Privacidade</string>
+    <string name="ramdump_debug_enable">Definir status de registro da tela laranja</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -331,6 +333,7 @@ Dados móveis, hotspot Wi-Fi, GPS e câmera serão restringidos."</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_result_text">"Não foi possível encontrar nenhum app"</string>
     <string name="send">Enviar</string>
+    <string name="set_ramdump_debug_switch_status">Por favor, confirme se a captura de log da tela laranja está ativada no momento. Se a função estiver habilitada, pressione o botão de diminuir volume e o dispositivo entrará no estado de captura de log da tela laranja. Se você precisar sair deste estado, reinicie o dispositivo.</string>
     <string name="show_system_app">Mostrar apps do sistema</string>
     <string name="sleep_config_enhance_description">"Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o NFC, Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações."</string>
     <string name="sleep_config_enhance_description_non_nfc">"Sempre que o HyperOS detectar que você está dormindo, ela encerrará apps em segundo plano, restringirá o Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações."</string>

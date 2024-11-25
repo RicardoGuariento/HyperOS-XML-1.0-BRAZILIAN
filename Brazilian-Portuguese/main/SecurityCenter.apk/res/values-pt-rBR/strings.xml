@@ -642,6 +642,13 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_permission_use_neccesary">Permissões necessárias</string>
     <string name="app_permission_use_no_neccesary">Permissões opcionais</string>
     <string name="app_permission_use_title">Permissões</string>
+    <string name="app_powerkeeper_config_description">"O HyperOS consegue identificar apps com processos específicos em segundo plano (ex.: apps de mensagem, posicionamento e reprodutores de mídia), e aplica as regras de economia de uma forma que não influencie as atividades importantes em segundo plano."</string>
+    <string name="app_powerkeeper_miui_auto">Economia de bateria (recomendado)</string>
+    <string name="app_powerkeeper_miui_auto_summary">Identifica apps e atividades para manter processos importantes em execução. A Economia de bateria irá tratar apps importantes de forma seletiva.</string>
+    <string name="app_powerkeeper_no_restrict">Nenhuma restrição</string>
+    <string name="app_powerkeeper_no_restrict_summary">"A Economia de bateria não restringirá as atividades deste app"</string>
+    <string name="app_powerkeeper_restrict_bg">Restringir apps em segundo plano</string>
+    <string name="app_powerkeeper_restrict_running">Encerra os apps após %d minutos de atividade em segundo plano</string>
     <string name="app_predict_black_list_empty">Nenhum item aqui ainda</string>
     <string name="app_predict_black_list_setting_title">Lista de bloqueio de sugestões de apps</string>
     <string name="app_predict_classification_search_empty">Nenhum resultado encontrado</string>
@@ -1318,6 +1325,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="compatible_dialog_more_info">Saiba mais</string>
     <string name="compatible_dialog_title">Atenção!</string>
     <string name="comprehensive_protection_measures">Proteção abrangente</string>
+    <string name="config_restrict_running_warning">Se você continuar, todas as atividades em segundo plano do app serão interrompidas, o que poderá afetar seus recursos. Continuar mesmo assim?</string>
     <string name="confirmSecondSpacePassword">Confirmar senha do Segundo espaço</string>
     <string name="confirm_ai_allow_all_permission">Alterar o status da permissão para \"Exibir notificação\" para todos os apps?</string>
     <string name="confirm_allow_all_permission">Permitir que todos os apps usem este recurso?</string>
@@ -1397,7 +1405,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_tool_box_phone_guide_case_3_new">Experimente vários recursos excelentes na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_phone_guide_case_4_new">Experimente a interpretação simultânea e outros recursos na Caixa de ferramentas de chamada</string>
     <string name="cs_voice_print">Gravar impressão de voz</string>
-    <string name="cs_voice_search">impressão de voz</string>
+    <string name="cs_voice_search">Impressão de voz</string>
     <string name="cs_vt_camera_toast_case1">Abra a câmera no app atual</string>
     <string name="cs_vt_camera_toast_case2">Sem dispositivo compatível próximo</string>
     <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Central de alerta, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada.</string>
@@ -2281,6 +2289,7 @@ monitoramento de terremotos"</string>
     <string name="gamebox_func_wlan_open">O Wi-Fi está ativado agora</string>
     <string name="gamebox_game_center_app_not_find">Instale os jogos primeiro</string>
     <string name="gamebox_hangup">Desligar tela</string>
+    <string name="gamebox_hangup_new">Desligar tela</string>
     <string name="gamebox_hangup_tips_content">Este recurso permite que você desligue a tela, mas mantenha o jogo executando em segundo plano. Ele é desativado automaticamente quando o dispositivo for desbloqueado.</string>
     <string name="gamebox_hangup_tips_title">Desligar tela</string>
     <string name="gamebox_immersion">Modo imersivo</string>
@@ -2523,6 +2532,7 @@ mas também aumenta o consumo de energia e pode causar superaquecimento"</string
     <string name="gb_predownload_message">"Atualize King of Glory, Game for Peace e outros jogos compatíveis em segundo plano enquanto você não estiver usando este dispositivo"</string>
     <string name="gb_predownload_message_new">Update compatible games automatically while not using device</string>
     <string name="gb_predownload_noti_message">"%2$1.2f GB de conteúdo atualizado já está neste dispositivo. Você poderá usá-lo assim que a nova versão for lançada."</string>
+    <string name="gb_predownload_noti_small_size_message">"%2$1.2f MB de novos recursos baixados. Você poderá usá-los assim que a nova versão for lançada."</string>
     <string name="gb_predownload_noti_title">%s atualizado em segundo plano com sucesso</string>
     <string name="gb_predownload_receive">Obter recompensas</string>
     <string name="gb_predownload_receive_error">Ocorreu um erro de rede. Tente novamente.</string>
@@ -2716,9 +2726,9 @@ das suas sessões de jogos"</string>
     <string name="global_dock_guide_desc_with_split_screen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 • Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a Tela dividida.
 • Pressione e segure o indicador para mover a janela."</string>
-    <string name="global_dock_guide_desc_with_split_screen_new">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
-• Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a Tela dividida.
-• Pressione e segure o indicador para mover a janela."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"Toque em um app na barra lateral para abri-lo em uma janela flutuante.
+Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a Tela dividida.
+Pressione e segure o indicador para mover a janela."</string>
     <string name="global_dock_guide_desc_without_split_screen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 • Pressione e segure o indicador para mover a janela."</string>
     <string name="global_dock_guide_desc_without_split_screen_new">"Deslize para abrir a barra lateral e toque em um app para abri-lo em uma janela flutuante.
@@ -3855,6 +3865,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_main_power_manager_hour_minute">%1$s h e %2$s min até carregar totalmente</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s d e %2$s h restante(s)</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h e %2$s min restante(s)</string>
+    <string name="pc_misight_reminder_check">Ver</string>
     <string name="pc_no_more_remind">"Não lembrar"</string>
     <string name="pc_ordinary_charge_summary">Sempre permitir o carregamento até %1$s</string>
     <string name="pc_ordinary_charge_title">Carregamento regular</string>
@@ -4195,8 +4206,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_surface_temp_low">Gelada</string>
     <string name="power_center_surface_temp_lower">Fria</string>
     <string name="power_center_surface_temp_normal">"Normal"</string>
-    <string name="power_center_time_to_boot">Hora</string>
-    <string name="power_center_time_to_shutdown">Hora</string>
+    <string name="power_center_time_to_boot">Hora de ligar</string>
+    <string name="power_center_time_to_shutdown">Hora de desligar</string>
     <string name="power_center_title">Bateria</string>
     <string name="power_center_unoffical_battery_button">Encontre uma assistência técnica autorizada</string>
     <string name="power_center_unoffical_battery_dialog">Aviso de bateria não autorizada</string>
@@ -6294,7 +6305,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="warningcenter_disaster_detail_title">Detalhes</string>
     <string name="warningcenter_disaster_guide_title">Orientações de segurança</string>
     <string name="warningcenter_disaster_icon_title">Aviso de demonstração</string>
-    <string name="warningcenter_disaster_info">"Publicado por CMA's Warning Center"</string>
+    <string name="warningcenter_disaster_info">Receba avisos de desastres para se manter seguro e minimizar riscos</string>
     <string name="warningcenter_disaster_info_title">Sobre os alertas</string>
     <string name="warningcenter_disaster_level_1">Nível I (Extremamente severo)</string>
     <string name="warningcenter_disaster_level_2">Nível II (Severo)</string>
@@ -6650,6 +6661,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="pc_night_charge_protect_summary">Ajusta a duração do carregamento automaticamente para retardar o envelhecimento da bateria</string>
     <string name="pc_night_charge_protect_title">Proteção de carregamento noturno</string>
     <string name="pc_night_sleep_mode_summary">Desative automaticamente alguns recursos para economizar bateria quando o sono for detectado</string>
+    <string name="pc_night_sleep_mode_summary_pad">"Enquanto a tela estiver desligada, seu dispositivo fechará apps em segundo plano e restringirá o uso da rede. Se o dispositivo não for usado por um longo período, ele entrará em suspensão ou desligará automaticamente."</string>
     <string name="pc_night_sleep_mode_title">Modo noturno</string>
     <string name="pc_power_consume_check">Verificação da bateria</string>
     <string name="pc_power_consume_check_ing">Verificando…</string>
@@ -6778,8 +6790,8 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="permission_usage_virtual_phone_state_once">%1$s | Retornou um status de chamada vazio</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Retornou um SMS vazio</string>
     <string name="permission_warning_for_cancel">Cancelar</string>
-    <string name="permission_warning_for_ensure">Conceder</string>
-    <string name="permission_warning_for_risk">Se você decidir conceder as permissões, mensagens em branco serão devolvidas ao app para proteger sua privacidade.</string>
+    <string name="permission_warning_for_ensure">Aceitar</string>
+    <string name="permission_warning_for_risk">Se você decidir em aceitar as permissões, mensagens em branco serão devolvidas ao app para proteger sua privacidade.</string>
     <string name="phone_number_protect">Tornar o número de telefone privado</string>
     <string name="power_center_super_wireless_charge_enter_noti_summary">A velocidade do ventilador do carregador sem fio aumentou e a velocidade de carregamento está mais rápida</string>
     <string name="power_center_super_wireless_charge_enter_noti_title">Modo de carregamento sem fio ultrarrápido</string>

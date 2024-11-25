@@ -29,6 +29,10 @@
         <item quantity="other">%d min atrás</item>
         <item quantity="one">%d min atrás</item>
     </plurals>
+    <plurals name="aon_on_confirm">
+        <item quantity="other">OK (%d s)</item>
+        <item quantity="one">OK (%d s)</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>

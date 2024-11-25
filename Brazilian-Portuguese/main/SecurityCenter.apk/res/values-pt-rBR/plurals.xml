@@ -648,6 +648,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="other">Seu dispositivo está sem bateria. Entrando no Modo hibernação em %1$d segundos.</item>
         <item quantity="one">Seu dispositivo está sem bateria. Entrando no Modo hibernação em %1$d segundo.</item>
     </plurals>
+    <plurals name="pc_extreme_mode_count_down_title_new">
+        <item quantity="other">Bateria fraca. Seu dispositivo entrará no Modo hibernação em %1$d segundos. O desempenho e a intensidade do sinal podem ser ligeiramente reduzidos.</item>
+        <item quantity="one">Bateria fraca. Seu dispositivo entrará no Modo hibernação em %1$d segundo. O desempenho e a intensidade do sinal podem ser ligeiramente reduzidos.</item>
+    </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dias</item>
         <item quantity="one">%s dia</item>
@@ -971,6 +975,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
     <plurals name="permission_usage_terminal_camera">
         <item quantity="other">"%1$s | Usou a câmera %2$d vezes"</item>
         <item quantity="one">"%1$s | Usou a câmera %2$d vez"</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_file">
+        <item quantity="other">%1$s | Arquivos acessados neste dispositivo %2$d vezes</item>
+        <item quantity="one">%1$s | Arquivos acessados neste dispositivo %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_terminal_screen">
         <item quantity="other">"%1$s | Usou a tela %2$d vezes"</item>
