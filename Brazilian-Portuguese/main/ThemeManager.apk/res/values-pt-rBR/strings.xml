@@ -72,15 +72,17 @@
     <string name="add_home_icon_success">Adicionado com sucesso</string>
     <string name="add_resource_detail_fail">"Não é possível adicionar o recurso"</string>
     <string name="afternoon">"PM"</string>
+    <string name="ai_account_violated_service_unavailable_try_again_later">Sua conta violou nossas diretrizes diversas vezes e foi suspensa. Tente novamente mais tarde.</string>
     <string name="ai_apply_wallpaper">Aplicar</string>
     <string name="ai_cannot_scrolling_with_the_screen">"Não é possível ativar a rolagem para este plano de fundo"</string>
     <string name="ai_delete_wallpaper">Sair</string>
+    <string formatted="false" name="ai_estimated_two_three_minutes">Isso levará %1d–%2d minutos</string>
     <string name="ai_generate">Gerado por IA</string>
     <string name="ai_generate_action">Gerar</string>
     <string name="ai_generate_background">Terminar em segundo plano</string>
     <string name="ai_generate_determine">Analisando fotos…</string>
     <string name="ai_generate_fail">"Não foi possível gerar"</string>
-    <string name="ai_generate_forbid">"Estamos atualizando esse recurso. Fique atento!"</string>
+    <string name="ai_generate_forbid">"Estamos atualizando esse recurso. Fique ligado!"</string>
     <string name="ai_generate_loading">Gerando plano de fundo…</string>
     <string name="ai_generate_message">"Se você gerar um plano de fundo dinâmico, quaisquer alterações feitas na versão estática do plano de fundo não serão salvas. Gerar agora?"</string>
     <string name="ai_generate_text">Gerar plano de fundo dinâmico</string>
@@ -89,15 +91,24 @@
     <string name="ai_generate_wallpaper_done">Plano de fundo dinâmico IA gerado com sucesso</string>
     <string name="ai_generate_wallpaper_fail">"Não foi possível gerar o plano de fundo dinâmico IA"</string>
     <string name="ai_generate_wallpaper_fail_message">As fotos que você selecionou podem ter violado nossas diretrizes. Selecione novas fotos.</string>
+    <string name="ai_generating">Gerando…</string>
     <string name="ai_generating_wallpaper">Gerando plano de fundo…</string>
+    <string name="ai_image_format_does_not_support_generation">Formato não suportado</string>
+    <string name="ai_image_size_too_large">A imagem é muito grande</string>
+    <string name="ai_in_line">"Você está na fila…"</string>
     <string name="ai_inquire_apply_wallpaper">Aplicar este plano de fundo?</string>
     <string name="ai_moving_your_wallpaper">Veja como a IA pode dar vida aos seus planos de fundo</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="ai_read_the_privacy_policy_pad">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade do Plano de Fundo e Personalização&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="ai_select_again">Selecionar</string>
+    <string name="ai_select_images_in_the_following_formats">Selecione imagens em qualquer um dos seguintes formatos suportados: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC e HEIF.</string>
+    <string name="ai_select_images_smaller_than_one_hundred">Selecione uma imagem de %d MB e tente novamente.</string>
     <string name="ai_select_message">Selecione apenas imagens de paisagens, cidades, plantas e carros e certifique-se de que o assunto principal da imagem esteja claro e desobstruído.</string>
     <string name="ai_select_title">"Não é possível processar imagens"</string>
     <string name="ai_select_wallpaper">Selecionar plano de fundo</string>
+    <string name="ai_service_temporarily_unavailable">"Este recurso não está disponível"</string>
+    <string name="ai_service_unavailable">"Este recurso não está disponível"</string>
+    <string name="ai_waiting_in_line_please_wait">"Você está na fila. Fique ligado…"</string>
     <string name="ai_wallpaper">Planos de fundo dinâmicos IA</string>
     <string name="ai_wallpaper_account_exception">"Parece que há um problema com sua conta. Tente novamente mais tarde ou troque de conta."</string>
     <string name="ai_wallpaper_cancel">Cancelar</string>
@@ -1970,6 +1981,7 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos."</string>
     <string name="video_silence_apply_success">Vídeo sem som configurado com sucesso</string>
     <string name="video_wallpaper_apply_warning">Este plano de fundo será aplicado à Tela inicial e à Tela de bloqueio. Aplicar agora?</string>
     <string name="video_wallpaper_import">Toque para adicionar itens</string>
+    <string name="vip_level_dialog_positive">Entendi</string>
     <string name="vlog_saving_no_edit">Preparando vídeo…</string>
     <string name="vlog_talkback_view_pause">Pausar</string>
     <string name="vlog_talkback_view_play">Reproduzir</string>
