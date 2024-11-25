@@ -5,10 +5,10 @@
     <string name="dual_4g_switch_summary">Permite a conectividade 4G nos dois slots SIM</string>
     <string name="dual_4g_switch_title">Dual 4G</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">O VoLTE requer conectividade 4G para ambos os slots SIM. Alterar para o Dual 4G agora?</string>
-    <string name="opened_dual_4g_confirm_prompt">Parece que você tem um cartão SIM apenas para LTE. O Dual LTE foi ativado automaticamente.</string>
-    <string name="opened_dual_4g_confirm_prompt_with_sim">O cartão SIM %1$s suporta apenas LTE. Para garantir que o seu cartão SIM funciona normalmente, o dual LTE foi ativado.</string>
+    <string name="opened_dual_4g_confirm_prompt">Parece que você tem um cartão SIM apenas de 4G. Dual 4G ativado automaticamente.</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">O cartão SIM %1$s suporta apenas 4G. Para garantir que o seu cartão SIM funciona normalmente, o dual 4G foi ativado.</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">LTE preferencial</string>
-    <string name="turn_off_dual_4g_failed">Não foi possível desativar o Dual LTE.</string>
-    <string name="turn_on_dual_4g_failed">Não foi possível ativar o Dual LTE.</string>
+    <string name="turn_off_dual_4g_failed">Não foi possível desativar o Dual 4G.</string>
+    <string name="turn_on_dual_4g_failed">Não foi possível ativar o Dual 4G.</string>
     <string name="volte_switch_summary">Use o VoLTE para melhorar a qualidade de chamadas de voz</string>
 </resources>
