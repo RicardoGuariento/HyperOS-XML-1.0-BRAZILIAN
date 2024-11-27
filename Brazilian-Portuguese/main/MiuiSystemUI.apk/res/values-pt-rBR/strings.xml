@@ -1204,8 +1204,8 @@ Digite seu PIN para desbloquear."</string>
     <string name="high_temp_dialog_message">"Seu dispositivo tentará ser resfriado automaticamente. Você ainda pode usar o dispositivo, mas ele poderá funcionar mais lentamente.
 
 Assim que ele tiver resfriado, ele voltará ao normal."</string>
-    <string name="high_temp_notif_message">Alguns recursos serão limitados até que o seu dispositivo resfrie.
-Toque para obter mais informações"</string>
+    <string name="high_temp_notif_message">"Alguns recursos serão limitados até que o seu dispositivo resfrie.
+Toque para obter mais informações."</string>
     <string name="high_temp_title">O dispositivo está esquentando</string>
     <string name="home">Configurações da Tela inicial</string>
     <string name="how_to_back_home">Ir à Tela inicial</string>
@@ -1286,8 +1286,8 @@ total"</string>
     <string name="interruption_level_priority_twoline">"Apenas
 prioridades"</string>
     <string name="invalid_charger">"Carregamento USB não suportado. Use o carregador fornecido com o dispositivo."</string>
-    <string name="invalid_charger_text">Use o carregador fornecido com o dispositivo.</string>
-    <string name="invalid_charger_title">Não é possível carregar através do USB.</string>
+    <string name="invalid_charger_text">Use o carregador fornecido com o dispositivo</string>
+    <string name="invalid_charger_title">"Não é possível carregar através do USB"</string>
     <string name="invalid_confirm_pin_hint">Os PINs não correspondem</string>
     <string name="invalid_sim_pin_hint">O PIN deve conter de 4 a 8 números</string>
     <string name="invalid_sim_puk_hint">O PUK deve conter no mínimo 8 números</string>
@@ -1320,6 +1320,7 @@ prioridades"</string>
     <string name="keyboard_key_page_up">"Page Up"</string>
     <string name="keyboard_key_space">Espaço</string>
     <string name="keyboard_key_tab">"Tab"</string>
+    <string name="keyboard_shortcut_clear_text">Limpar texto</string>
     <string name="keyboard_shortcut_group_applications">"Apps"</string>
     <string name="keyboard_shortcut_group_applications_assist">Assistente</string>
     <string name="keyboard_shortcut_group_applications_browser">Navegador</string>
@@ -2078,6 +2079,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="output_title">Saída de mídia</string>
     <string name="over_one_week_timestamp">Mais de 1 semana atrás</string>
     <string name="over_two_weeks_timestamp">Mais de 2 semanas atrás</string>
+    <string name="ultraviolet_rays_abbreviation">IUV</string>
     <string name="overlay_display_devices_title">Simular telas secundárias</string>
     <string name="overview">Visão geral</string>
     <string name="owner_info_settings_edit_text_hint">Ex.: Android do Diorgenes</string>
@@ -3153,6 +3155,8 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="using_camera">Este app está acessando a câmera</string>
     <string name="using_camera_and_microphone">Este app está acessando a câmera e o microfone</string>
     <string name="using_microphone">Este app está acessando o microfone</string>
+    <string name="uvi_format">IUV %1$s %2$s</string>
+    <string name="uvi_format_desc">Índice ultravioleta: %1$s, %2$s</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo em apps instalados via ADB/ADT.</string>
@@ -3579,6 +3583,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="font_scaling_larger">Aumentar</string>
     <string name="font_scaling_smaller">Faça menor</string>    
     <string name="format_lunar_calendar_month_day_desc">Data de acordo com o Calendário Tradicional Chinês: %s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s de %2$s, data de acordo com o Calendário Tradicional Chinês: %3$s, feriado: %4$s</string>
     <string name="format_month_day_style1">d/MMM</string>
     <string name="format_month_day_style2">d/M</string>
     <string name="format_month_day_week">EEE, dd MMM</string>    
@@ -3624,6 +3629,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="hdmi_cec_set_menu_language_description">Alteração de idioma do sistema solicitada por outro dispositivo</string>
     <string name="hdmi_cec_set_menu_language_title">Deseja alterar o idioma do sistema para %1$s?</string>
     <string name="health_chart_calories_unit">Calorias</string>
+    <string name="health_chart_sleep_time_format">%1$s h %2$s min</string>
     <string name="health_chart_sleep_time_good">Suficiente</string>
     <string name="health_chart_sleep_time_low">Insuficiente</string>
     <string name="health_chart_sleep_time_normal">Normal</string>

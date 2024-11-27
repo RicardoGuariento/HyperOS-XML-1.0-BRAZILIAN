@@ -854,7 +854,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="delete_in_home_page">Os itens selecionados serão excluídos da nuvem e de todos os dispositivos conectados e armazenados na lixeira da nuvem por %d caso você tenha um plano gratuito. Excluir mesmo assim?</string>
     <string name="delete_in_process">Excluindo…</string>
     <string name="delete_media_dialog_comment">Esses itens serão movidos primeiro para \"Itens excluídos\". A partir daí, você pode recuperá-los ou excluí-los permanentemente.</string>
-    <string name="delete_media_for_cloud">Os itens selecionados serão removidos da nuvem e de todos os dispositivos sincronizados para os itens excluídos recentemente.</string>
+    <string name="delete_media_for_cloud">Os itens selecionados serão removidos da nuvem e de todos os dispositivos sincronizados e movidos para \"Itens excluídos\".</string>
     <string name="delete_media_from_cloud">Os itens selecionados serão excluídos de todos os dispositivos e da nuvem. Excluir mesmo assim?</string>
     <string name="delete_origin">Excluir itens do álbum original</string>
     <string name="delete_other_shared_images">"Não é possível excluir fotos compartilhadas por outras pessoas"</string>
@@ -1292,7 +1292,7 @@ estão disponíveis"</string>
     <string name="filter_travel_charlotte">"Charlotte"</string>
     <string name="finish_create_baby_album_toast">Álbum criado para \"%s\" na MiCloud</string>
     <string name="finish_fill_baby">Criar</string>
-    <string name="first_delete_media_for_cloud">Os itens selecionados serão removidos da nuvem e de todos os dispositivos sincronizados e movidos para os \"Itens excluídos\" e serão excluídos permanentemente após %d dias, a não ser que você tenha um plano de armazenamento na nuvem. Excluir mesmo assim?</string>
+    <string name="first_delete_media_for_cloud">Os itens selecionados serão removidos da nuvem e de todos os dispositivos sincronizados e movidos para \"Itens excluídos\". Eles serão excluídos permanentemente após %d dias, a não ser que você tenha um plano de armazenamento na nuvem. Excluir mesmo assim?</string>
     <string name="first_time_add_video_to_secret_tips">Atualize a Galeria para poder adicionar vídeos ao álbum privado</string>
     <string name="flash_off">Sem flash</string>
     <string name="flash_on">Com flash</string>
@@ -2491,6 +2491,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_movie_module_loading">Carregando Clipes…</string>
     <string name="photo_movie_select_image_range">Clipes podem conter %1$d-%2$d fotos</string>
     <string name="photo_page_lock_screen">Bloquear orientação</string>
+    <string name="photo_page_pdf_save_to_download_ok">PDF salvo em Downloads</string>
     <string name="photo_page_rotate_screen">Girar tela</string>
     <string name="photo_page_save_uri_image_fail">"Não foi possível salvar na Galeria"</string>
     <string name="photo_page_save_uri_image_ok">Foto salva na Galeria</string>
@@ -2781,7 +2782,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="scan_qr_code">Escanear código QR</string>
     <string name="scan_qr_code_buttom_text">Leia o código QR para acessar este álbum</string>
     <string name="scan_qr_to_accept_invitation">Leia o código QR para aceitar o convite</string>
-    <string name="scanning_device_tips">Procurando dispositivos próximos… Certifique-se de que o outro dispositivo esteja no modo detectável.</string>
+    <string name="scanning_device_tips"><Data>Procurando dispositivos próximos. A outra pessoa precisa ativar o Xiaomi Share no centro de controle. &lt;a>Saiba mais&lt;/a></Data></string>
     <string name="scope_storage_dialog_cancel_btn">Cancelar</string>
     <string name="scope_storage_dialog_confirm_btn">Avançar</string>
     <string name="scope_storage_dialog_description">As permissões da Galeria foram atualizadas. Permita que a Galeria acesse esta pasta para poder ver seu conteúdo.</string>
@@ -3608,9 +3609,9 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="trash_purge_all_cloud">Todos os itens na lixeira serão excluídos permanentemente da nuvem e todos os dispositivos sincronizados. Excluir mesmo assim?</string>
     <string name="trash_purge_all_local">Todos os itens na lixeira serão excluídos permanentemente. Excluir mesmo assim?</string>
     <string name="trash_purge_all_media">"Excluir permanentemente todos os itens da nuvem e todos os dispositivos sincronizados? Você não pode reverter esta ação."</string>
-    <string name="trash_purge_dialog_title">Limpar lixeira</string>
+    <string name="trash_purge_dialog_title">Limpar itens</string>
     <string name="trash_purge_positive_button">Excluir</string>
-    <string name="trash_size">Itens excluídos (%s)</string>
+    <string name="trash_size">Itens excluídos (%1$s)</string>
     <string name="trash_vip_button_login">Estender</string>
     <string name="trash_vip_button_login_top_level">Renovar</string>
     <string name="trash_vip_button_unlogin">Fazer login</string>

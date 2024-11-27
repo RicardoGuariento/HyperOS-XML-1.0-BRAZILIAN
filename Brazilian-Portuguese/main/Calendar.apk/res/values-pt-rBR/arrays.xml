@@ -9,7 +9,7 @@
     </string-array>
     <string-array name="additional_cal_dialog_labels">
         <item>Nenhum</item>
-        <item>Calendário islâmico</item>
+        <item>Calendário Islâmico</item>
         <item>Calendário Nacional da Índia</item>
         <item>Calendário Vikram</item>
     </string-array>
@@ -151,13 +151,13 @@
     </string-array>
     <string-array name="locale_calendar_array">
         <item>Nenhum</item>
-        <item>Calendário tradicional chinês</item>
-        <item>Calendário islâmico</item>
-        <item>Calendário hebraico</item>
-        <item>Calendário japonês</item>
-        <item>Calendário persa</item>
-        <item>Calendário indiano</item>
-        <item>Calendário budista</item>
+        <item>Calendário Chinês Tradicional</item>
+        <item>Calendário Islâmico</item>
+        <item>Calendário Hebraico</item>
+        <item>Calendário Japonês</item>
+        <item>Calendário Persa</item>
+        <item>Calendário Indiano</item>
+        <item>Calendário Budista</item>
     </string-array>
     <string-array name="months_English_array">
         <item>Janeiro</item>
@@ -255,7 +255,7 @@
     </string-array>
     <string-array name="repeat_choose_end">
         <item>Nunca</item>
-        <item>Data</item>
+        <item>Hora</item>
         <item>Contagem</item>
     </string-array>
     <string-array name="repeat_choose_month">
@@ -350,7 +350,7 @@
     <string-array name="response_labels2">
         <item>"Não responder"</item>
         <item>Aceitar</item>
-        <item>Decidir mais tarde</item>
+        <item>Decidir depois</item>
         <item>Recusar</item>
     </string-array>
     <string-array name="sagittarius_info">
@@ -386,7 +386,7 @@
         <item>Horário do Atlântico (Canadá)</item>
         <item>Manaus</item>
         <item>Santiago</item>
-        <item>Newfoundland</item>
+        <item>Terra Nova e Labrador</item>
         <item>Brasília</item>
         <item>Buenos Aires</item>
         <item>Groenlândia</item>
@@ -399,7 +399,7 @@
         <item>Dublin</item>
         <item>Amsterdã</item>
         <item>Berlim</item>
-        <item>Belgrade</item>
+        <item>Belgrado</item>
         <item>Bruxelas</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
@@ -437,7 +437,7 @@
         <item>Chongqing</item>
         <item>Hong Kong</item>
         <item>Macau</item>
-        <item>Cingapura</item>
+        <item>Singapura</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
@@ -449,7 +449,7 @@
         <item>Darwin</item>
         <item>Brisbane</item>
         <item>Hobart</item>
-        <item>Sidney</item>
+        <item>Sydney</item>
         <item>Canberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
