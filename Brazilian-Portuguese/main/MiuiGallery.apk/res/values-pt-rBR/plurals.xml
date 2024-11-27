@@ -744,7 +744,7 @@
         <item quantity="one">"Você não poderá restaurar %d item selecionado se você o excluir. Excluir mesmo assim?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
-        <item quantity="other">Os itens permanecem aqui por até %1$d dias (%2$s)</item>
+        <item quantity="other">Os itens permanecem aqui por %1$d dias (%2$s)</item>
         <item quantity="one">Os itens permanecem aqui por %1$d dia (%2$s)</item>
     </plurals>
     <plurals name="trash_vip_info_text_login_medium_or_low_level">
@@ -756,7 +756,7 @@
         <item quantity="one">Os itens excluídos são armazenados na nuvem por %1$d dia</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
-        <item quantity="other">Os itens permanecem aqui por até %1$d dias. Faça o upgrade do seu plano para estender este período.</item>
+        <item quantity="other">Os itens permanecem aqui por %1$d dias. Faça o upgrade do seu plano para estender este período.</item>
         <item quantity="one">Os itens permanecem aqui por %1$d dia. Faça o upgrade do seu plano para estender este período.</item>
     </plurals>
     <plurals name="video_count_format">
