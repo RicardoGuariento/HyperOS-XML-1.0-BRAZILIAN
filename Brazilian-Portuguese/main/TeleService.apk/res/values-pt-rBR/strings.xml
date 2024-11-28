@@ -1145,6 +1145,7 @@ Seleção"</string>
     <string name="fiveg_icon_type1">Tipo de ícone do Nr:</string>
     <string name="fiveg_info">Ver informações 5G</string>
     <string name="fiveg_infos">Informações 5G</string>
+    <string name="fiveg_interruption_remind">"Parece que seu SIM %s não pode usar serviços 5G SA. Contate sua operadora para mais informações."</string>
     <string name="fiveg_network_config_type1">Tipo de configuração de rede:</string>
     <string name="fiveg_network_mode_default">Automático</string>
     <string name="fiveg_network_mode_nsa">NSA</string>
@@ -1882,6 +1883,9 @@ Entre em contato com suas operadoras"</string>
     <string name="oem_radio_info_label">Info./Conf. do OEM</string>
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
     <string name="oem_unlock_enable_summary">Permitir que o Bootloader seja desbloqueado</string>
+    <string name="offline_call_has_call">A outra pessoa está ocupada. Tente novamente em um ou dois minutos.</string>
+    <string name="offline_call_not_match_contact">"Não foi possível ligar. Você não é o contato da outra pessoa."</string>
+
     <string name="ok">"OK"</string>
     <string name="okay">"OK"</string>
     <string name="oldPin2Label">PIN2 antigo</string>
