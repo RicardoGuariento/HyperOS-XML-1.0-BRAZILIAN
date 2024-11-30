@@ -2245,9 +2245,9 @@ monitoramento de terremotos"</string>
     <string name="game_perf_config_motion_desc">Ajuste a sensibilidade do toque em jogos</string>
     <string name="game_perf_config_network_desc">Reduza o atraso e a instabilidade da rede</string>
     <string name="game_perf_config_network_title">Aumento de velocidade da rede</string>
-    <string name="game_perf_config_strategy_diy">Personalizado</string>
-    <string name="game_perf_config_strategy_fps_first">Prioridade de taxa de quadros</string>
-    <string name="game_perf_config_strategy_picture_first">Prioridade de imagem</string>
+    <string name="game_perf_config_strategy_diy">Equilibrado</string>
+    <string name="game_perf_config_strategy_fps_first">Melhor desempenho</string>
+    <string name="game_perf_config_strategy_picture_first">Melhor imagem</string>
     <string name="game_perf_config_strategy_title">Estratégia de desempenho</string>
     <string name="game_performance_wild_mode">Wild Boost</string>
     <string name="game_performance_wild_mode_tips">"Ative para melhorar o desempenho do dispositivo
@@ -2266,9 +2266,9 @@ monitoramento de terremotos"</string>
     <string name="game_toolbox_display_style_desc">Ajustar o estilo visual (suporta HDR de jogos)</string>
     <string name="game_toolbox_display_style_game_hdr">HDR do Jogo</string>
     <string name="game_toolbox_display_style_title">Estilo visual</string>
-    <string name="game_toolbox_fps_average">Média de %d FPS</string>
-    <string name="game_toolbox_fps_realtime">%d FPS em Tempo Real</string>
-    <string name="game_toolbox_fps_shake">Instab. de %d FPS</string>
+    <string name="game_toolbox_fps_average">Média %d FPS</string>
+    <string name="game_toolbox_fps_realtime">Real %d FPS</string>
+    <string name="game_toolbox_fps_shake">Jitter %d FPS</string>
     <string name="game_toolbox_immersion_sound_desc">Ao usar fones de ouvido, capture com precisão efeitos sonoros como passos e vozes, melhorando a imersão no jogo</string>
     <string name="game_toolbox_immersion_sound_title">Som Imersivo</string>
     <string name="game_toolbox_margin_restrain_description">Defina a faixa de rejeição de toque para reduzir toques acidentais</string>
