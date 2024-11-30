@@ -76,6 +76,10 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="offline_call_map_distance_meters">
+        <item quantity="other">Distância: %d metros</item>
+        <item quantity="one">Distância: %d metro</item>
+    </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d dispositivos conectados</item>
         <item quantity="one">%1$d dispositivo conectado</item>

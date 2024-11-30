@@ -277,6 +277,7 @@ Taxa de amostragem"</string>
     <string name="cached_apps_freezer_disabled">Desativado</string>
     <string name="cached_apps_freezer_enabled">Ativado</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Seu dispositivo precisa ser reiniciado para que esta alteração seja aplicada. Reinicie agora ou cancele.</string>
+    <string name="call_allowed_title">Chamada permitida</string>
     <string name="cancel">Cancelar</string>
     <string name="carrier_network_change_mode">Mudança de rede da operadora</string>
     <string name="category_personal">Pessoal</string>
@@ -562,6 +563,8 @@ Protocolo de conexão mais rápido"</string>
     <string name="headset_updating">"Atualizando "</string>
     <string name="help_feedback_label">Ajuda e feedback</string>
     <string name="help_label">Ajuda e feedback</string>
+    <string name="HIPS_Action_Accept">Permitir</string>
+    <string name="HIPS_Action_Reject">Negar</string>
     <string name="home">Configurações da Tela inicial</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="ime_security_warning">Este método de entrada pode coletar todo o texto digitado, incluindo dados pessoais, como senhas e números de cartão de crédito. Ele vem do app %1$s. Usar este método de entrada?</string>
@@ -617,6 +620,9 @@ Protocolo de conexão mais rápido"</string>
     <string name="local_backup_password_toast_confirmation_mismatch">A nova senha e a confirmação não correspondem</string>
     <string name="local_backup_password_toast_success">Nova senha de backup definida</string>
     <string name="local_backup_password_toast_validation_failure">Falha ao definir senha de backup</string>
+    <string name="location_display_summary">Mostrar informações de localização para pessoas próximas</string>
+    <string name="location_display_title">Exibição de localização</string>
+    <string name="Location_map_of_nearby_title">Mapa de localização nas proximidades</string>
     <string name="lyra_account_ap_summary">Permite que tablets e computadores próximos conectados à sua Conta Mi ativem o hotspot neste dispositivo e se conectem a ele</string>
     <string name="lyra_account_ap_title">Assistência de rede</string>
     <string name="lyra_auto_connect_cancel">Cancelar</string>
@@ -813,6 +819,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção diária</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
+    <string name="nearby_contacts">Contatos próximos</string>
     <string name="night">"PM"</string>
     <string name="no_application">Nenhum</string>
     <string name="noon">"PM"</string>
@@ -822,6 +829,43 @@ Protocolo de conexão mais rápido"</string>
     <string name="notify_device_lose_connection_title">Conexão perdida com %1$s</string>
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
     <string name="oem_unlock_enable_summary">Permite que o bootloader seja desbloqueado</string>
+    <string name="offline_app_name">Comunicação entre dispositivos</string>
+    <string name="offline_call_balack_list">Lista de bloqueio</string>
+    <string name="offline_call_balack_list_join">Adicionar à lista de bloqueio</string>
+    <string name="offline_call_balack_list_join_title">Adicionar %1$s à lista de bloqueio?</string>
+    <string name="offline_call_balack_list_remove_device_title">Remover %1$s da lista de bloqueio?</string>
+    <string name="offline_call_balack_list_remove_title">Remover esta pessoa da lista de bloqueio?</string>
+    <string name="offline_call_callable_all">Todos</string>
+    <string name="offline_call_callable_close">Desligado</string>
+    <string name="offline_call_callable_only_contact">Apenas contatos</string>
+    <string name="offline_call_callable_title">Quem pode me ligar</string>
+    <string name="offline_call_cancel">Cancelar</string>
+    <string name="offline_call_dial_out">Faça uma chamada</string>
+    <string name="offline_call_earthquake_summary">Ative a comunicação offline automaticamente em caso de terremoto em sua localização</string>
+    <string name="offline_call_earthquake_title">Ative automaticamente em um terremoto</string>
+    <string name="offline_call_join">Adicionar</string>
+    <string name="offline_call_map_baidu">Baidu Maps</string>
+    <string name="offline_call_map_gaode">Amap</string>
+    <string name="offline_call_map_mode">Modo mapa</string>
+    <string name="offline_call_map_navigation">Navegue até a localização deles</string>
+    <string name="offline_call_map_select">Selecione o método de navegação</string>
+    <string name="offline_call_map_tengxun">Tencent Maps</string>
+    <string name="offline_call_nearby_all_device">Mapa de localização de pessoas próximas</string>
+    <string name="offline_call_nearby_device_refresh">Atualizar</string>
+    <string name="offline_call_nearby_device_title">Pessoas próximas</string>
+    <string name="offline_call_nearby_dialog_message">"Você pode navegar até a localização de %1$s ou ligar para %1$s."</string>
+    <string name="offline_call_nearby_dialog_negative">Navegar</string>
+    <string name="offline_call_nearby_dialog_positive">Ligar</string>
+    <string name="offline_call_notification_broadcast_close">Desativar</string>
+    <string name="offline_call_notification_broadcast_location">A comunicação entre dispositivos está compartilhando sua localização</string>
+    <string name="offline_call_notification_broadcast_start">A comunicação entre dispositivos está transmitindo</string>
+    <string name="offline_call_remove">Remover</string>
+    <string name="offline_call_settings_summary">Comunique-se com telefones Xiaomi próximos quando estiver off-line e quando o Bluetooth estiver ativado em ambos os dispositivos</string>
+    <string name="offline_call_settings_title">Comunicação entre dispositivos</string>
+    <string name="offline_call_show_location_title">Compartilhar minha localização com pessoas próximas</string>
+    <string name="offline_chat_summary">"Converse com contatos próximos via Bluetooth quando não estiver conectado à internet. Este recurso não oferece suporte ao uso de fones de ouvido Bluetooth durante chamadas."</string>
+    <string name="offline_chat_title">Comunicação entre dispositivos</string>
+    <string name="offline_connecting">Conectando…</string>
     <string name="ok_button">"OK"</string>
     <string name="okay">"OK"</string>
     <string name="osu_completing_sign_up">Completando o registro…</string>
@@ -833,6 +877,8 @@ Protocolo de conexão mais rápido"</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="perm_ble_des">Acessar configurações do BLE</string>
     <string name="perm_ble_lab">Acessar configurações do BLE</string>
+    <string name="permgroupdesc_location">Permitir que %1$s acesse informações de localização?</string>
+    <string name="phone_in_talk">Uma chamada já está em andamento</string>
     <string name="picture_color_mode">Modo de cor da imagem</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="play_decode_audio">Reproduzir áudio</string>
@@ -900,6 +946,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="progress_scanning">Buscando…</string>
     <string name="prompt_desc">O uso desta função consumirá %s MB de seus dados. Deseja continuar o download?</string>
     <string name="remaining_length_format">%1$s restante(s)</string>
+    <string name="remove_black_list_title">Remover lista de bloqueio</string>
     <string name="request_uninstall">Solicitar desinstalação do módulo</string>
     <string name="reset_function_msg">Redefinir este recurso poderá prevenir o funcionamento normal de %1$s.</string>
     <string name="retail_demo_reset_message">Insira a senha para executar a redefinição de dados de fábrica no modo de demonstração</string>
@@ -991,6 +1038,9 @@ Protocolo de conexão mais rápido"</string>
     <string name="speed_label_very_fast">Muito rápida</string>
     <string name="speed_label_very_slow">Muito lenta</string>
     <string name="standby_bucket_summary">Estado de espera do app: %s</string>
+    <string name="start_failed_confirm">Entendi</string>
+    <string name="start_failed_content">Insira um cartão SIM e faça login com a conta Xiaomi para poder usar a comunicação entre dispositivos.</string>
+    <string name="start_failed_title">"Não foi possível ligar"</string>
     <string name="start_speech">Iniciar fala</string>
     <string name="status_unavailable">Indisponível</string>
     <string name="stop_speech">Parar fala</string>
@@ -1148,6 +1198,11 @@ Qualquer usuário pode atualizar apps para todos os outros usuários. As configu
 Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="user_add_user_title">Adicionar novo usuário?</string>
     <string name="user_add_user_type_title">Adicionar</string>
+    <string name="user_agreement_cancel">Cancelar</string>
+    <string name="user_agreement_confirm">Concordo</string>
+    <string name="user_agreement_content">"A comunicação entre dispositivos é um serviço de chamadas de voz baseado em Bluetooth (doravante referido como \"este Serviço\") fornecido pela Xiaomi Inc. (doravante referida como \"Xiaomi\", \"nós\", \"nosso\", ou \"nos\"). Levamos a proteção da sua privacidade e informações pessoais a sério. Forneceremos as medidas de proteção de segurança adequadas para suas informações pessoais de acordo com os requisitos legais e os padrões da indústria.&lt;br&lt;b>Quando você ativar esse recurso, acessaremos seus contatos, número de telefone, status de login da Conta Xiaomi, endereço MAC Bluetooth, status da chamada e status do cartão SIM para permitir que você se comunique com contatos selecionados quando não estiver conectado à internet. &lt;/b&lt;br&lt;b>Quando você ativar \"Exibir localização\" e \"Ativar automaticamente em caso de terremoto\", coletaremos sua localização precisa para exibição aos seus contatos selecionados.&lt;/b&lt;br&lt;b>Essas informações serão processadas apenas em seu dispositivo e não serão enviadas para a nuvem.&lt;/b&lt;brAs seguintes permissões são necessárias quando você usa a comunicação entre dispositivos: &lt;br&amp;bull; Permissões de Bluetooth: para fazer chamadas de voz para dispositivos próximos&lt;br&amp;bull; Acesso aos contatos: para descobrir e ligar para contatos próximos&lt;br&amp;bull; Permissão para conectar à internet: para conectar-se à rede e acessar o conteúdo do mapa&lt;br&amp;bull; Acesso à localização: para exibir a localização precisa aos contatos selecionados&lt;br&amp;bull; Permissões de telefone: para acessar o status da chamada (a comunicação entre dispositivos não pode ser usada quando uma chamada estiver em andamento)&lt;brSe você não concordar com as permissões acima, não poderá usar este serviço.&lt;brAlguns recursos são fornecidos por prestadores de serviços de terceiros. Por essa razão, precisamos fornecer algumas das suas informações pessoais a esses terceiros. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Toque aqui para ver&lt;/a> as circunstâncias sob as quais compartilhamos suas informações pessoais com nossos afiliados, parceiros e terceiros.&lt;brProcessaremos suas informações pessoais apenas pelo período de coleta descrito nesta declaração de privacidade ou conforme exigido pelas leis aplicáveis.&lt;brEstabelecemos um departamento dedicado à proteção das informações pessoais. Se você tiver dúvidas ou comentários sobre esta declaração de privacidade, ou sobre a coleta, uso ou divulgação de suas informações pessoais, você pode entrar em contato conosco em &lt;a href=https://privacy.mi.com/support  >https://privacy.mi.com/support&lt;/a>. Geralmente, responderemos dentro de quinze dias úteis.&lt;br>
+        Toque em \"Concordo\" para indicar que você leu e concorda com esta declaração de privacidade."</string>
+    <string name="user_agreement_title">Declaração de privacidade de comunicação entre dispositivos</string>
     <string name="user_guest">Convidado</string>
     <string name="user_image_choose_photo">Galeria</string>
     <string name="user_image_photo_selector">Selecione a imagem</string>
@@ -1168,6 +1223,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="verify_apps_over_usb_summary">Verifique comportamento nocivo em apps instalados via ADB/ADT</string>
     <string name="verify_apps_over_usb_title">Verificar apps por USB</string>
+    <string name="virtual_moresttings">Mais configurações</string>
     <string name="vpn_settings_not_available">As configurações de VPN não estão disponíveis para este usuário</string>
     <string name="wait_for_debugger">Aguardar depurador</string>
     <string name="wait_for_debugger_summary">O app de depuração aguardará o depurador antes de executar</string>
