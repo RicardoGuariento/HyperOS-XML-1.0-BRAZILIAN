@@ -1,6 +1,6 @@
 [![HyperOS](https://i.imgur.com/DBEfanq.png)](https://xiaomi.eu/)
 
-# HyperOS 1.0 Brazilian Portuguese XML translation for xiaomi.eu
+# HyperOS 1.0/2 Brazilian Portuguese XML translation for xiaomi.eu
 
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
@@ -21,6 +21,7 @@ For more info, visit:
 - [@Kircheiss](https://t.me/Kircheiss)
 - [@Feurrado](https://github.com/Feurrado)
 - [@igor](https://github.com/igormiguell)
+- [@EduardoRGCM](https://t.me/eduardorgcm)
 
 ##### Credits:
 - ingbrzy [miuios.cz](https://miuios.cz)
