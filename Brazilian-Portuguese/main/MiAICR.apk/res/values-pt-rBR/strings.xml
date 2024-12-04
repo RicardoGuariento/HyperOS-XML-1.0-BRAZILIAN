@@ -174,6 +174,7 @@
     <string name="cognition_os2_permission_cta_desc_title">O Motor Xiaomi HyperAI é um centro de capacidade do sistema que adquire e analisa o comportamento do usuário em seu dispositivo para fornecer reconhecimento de cenários e controles inteligentes para os seguintes serviços: %1$s.</string>
     <string name="cognition_os2_permission_cta_desc_xiaoaiPlus">"Super Mi AI"</string>
     <string name="cognition_os2_permission_default_desc_appList">Para permitir que o Super Mi AI obtenha suporte a Ações de apps</string>
+    <string name="cognition_os2_permission_default_desc_calendar">Para fornecer lembretes de eventos por meio da Inteligência proativa</string>
     <string name="cognition_os2_permission_default_desc_context">"Para perceber o ambiente ao redor; Para construir o índice de busca do Xiaomi HyperAI; Para avaliar o status de chamadas; Para determinar quando você está acordado ou dormindo; Para construir o índice de Pesquisa Xiaomi HyperAI; Para construir o índice de Pesquisa Xiaomi HyperAI; Para construir o índice de Pesquisa Xiaomi HyperAI; Para construir o índice de Pesquisa Xiaomi HyperAI; Para permitir que o Super Mi AI obtenha suporte para Ações de apps"</string>
     <string name="cognition_os2_permission_default_desc_location">Para perceber o ambiente ao redor</string>
     <string name="cognition_os2_permission_default_desc_microphone">"Para determinar quando você está acordado ou dormindo"</string>
@@ -417,8 +418,19 @@
     <string name="focus_hypermind_operation_metro_info">Você chegou a %1$s, você pode abrir o código de embarque para entrar e sair da estação.</string>
     <string name="focus_hypermind_operation_success">Sucesso</string>
     <string name="focus_metro_code">Código de embarque</string>
+    <string name="focus_network_error">Erro de rede</string>
     <string name="focus_operate_failed">Algo deu errado</string>
+    <string name="focus_operate_hm_code_1">O outro lado foi processado</string>
+    <string name="focus_operate_hm_code_2">Alguns dispositivos não conseguiram executar</string>
+    <string name="focus_operate_hm_code_3">A recomendação é inválida</string>
+    <string name="focus_operate_hm_code_4">O usuário desliga o interruptor principal</string>
+    <string name="focus_operate_hm_code_5">O usuário desliga o interruptor da função correspondente</string>
+    <string name="focus_operate_hm_code_6">O dispositivo está offline. Verifique e tente novamente.</string>
     <string name="focus_please_show_qr_code">, você pode escanear o código para pegar o ônibus</string>
+    <string name="focus_prepare_car_error">O dispositivo está offline. Verifique a conexão e tente novamente.</string>
+    <string name="focus_prepare_car_operation_success">Sucesso</string>
+    <string name="focus_prepare_car_remote_control_fail">"Não foi possível controlar remotamente. Verifique a conexão e tente novamente."</string>
+    <string name="focus_prepare_car_time_out">Executado. Veja o resultado no app Xiaomi EV.</string>
     <string name="focus_proactive_intelligence">Inteligência proativa</string>
     <string name="focus_weather_button">Veja opções de viagem</string>
     <string name="focus_weather_context">%1$s começa %2$s</string>

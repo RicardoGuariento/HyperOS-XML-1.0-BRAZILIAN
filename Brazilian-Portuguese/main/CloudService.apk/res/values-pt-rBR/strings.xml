@@ -847,7 +847,7 @@ Esta função criptografa e envia o ID do seu dispositivo para os servidores da 
     <string name="offline_find_doing_enable">Ativando a Localização offline…</string>
     <string name="offline_find_function">Localização offline</string>
     <string name="offline_find_msg_to_open_1">Ative a Localização offline neste dispositivo para poder visualizar a localização de outros dispositivos offline.</string>
-    <string name="offline_find_msg_to_open_2">Verifique este dispositivo como confiável e ative a Localização offline para poder visualizar a localização de outros dispositivos offline.</string>
+    <string name="offline_find_msg_to_open_2">Ative esse recurso para poder localizar este dispositivo ou visualizar a localização de outros dispositivos quando não estiver conectado à rede.</string>
     <string name="offline_find_msg_to_open_3">Para proteger a segurança dos seus dados, verifique se este dispositivo é confiável antes de ativar a Localização offline.</string>
     <string name="offline_find_title_to_open_1">Ativar a Localização offline</string>
     <string name="offline_find_title_to_open_2">Verificar este dispositivo</string>
@@ -1283,9 +1283,11 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="verify_loading_progressDialog">Verificando…</string>
     <string name="verify_login_error_not_support_toast">"Outro dispositivo ativou a Proteção avançada de dados. Como este dispositivo não oferece suporte a esse recurso, desative a Proteção avançada de dados para poder fazer login na sua Conta Mi neste dispositivo."</string>
     <string name="verify_notification_text">Permitir que este dispositivo use esse recurso em todos os seus dispositivos</string>
+    <string name="verify_notification_text_find_device_push">Permitir que o outro dispositivo localize este dispositivo</string>
     <string name="verify_notification_text_pc">A Proteção avançada de dados está ativada. Conceda as permissões necessárias em seu computador para poder acessar dados criptografados.</string>
     <string name="verify_notification_text_web">A Proteção avançada de dados está ativada. Conceda as permissões necessárias em i.mi.com para poder acessar dados criptografados.</string>
     <string name="verify_notification_title">Outro dispositivo ativou a criptografia de ponta a ponta</string>
+    <string name="verify_notification_title_find_device_push">Outro dispositivo ativou a \"Localização offline\"</string>
     <string name="verify_ocr_loading_progressDialog">Reconhecendo…</string>
     <string name="verify_process_dialog_message">Verificando…</string>
     <string name="verify_scan_Second_title">Digite a senha de %d dígitos</string>
@@ -1306,11 +1308,13 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="verify_warning_dialog_code_web">Digite este código em i.mi.com</string>
     <string name="verify_warning_dialog_message">%s deseja ativar a criptografia de ponta a ponta para todos os dispositivos conectados à sua Conta Mi. Este recurso permitirá que você acesse facilmente seus dados criptografados na nuvem em todos os dispositivos. Permitir agora?</string>
     <string name="verify_warning_dialog_message_default">Seu dispositivo Xiaomi</string>
+    <string name="verify_warning_dialog_message_find_device">"A \"Localização offline\" está ativada para %s. Quando esse recurso estiver ativado, você poderá verificar a localização do seu dispositivo quando estiver offline."</string>
     <string name="verify_warning_dialog_message_pc">A Proteção avançada de dados está ativada. Conceda as permissões necessárias em seu computador para poder acessar dados criptografados.</string>
     <string name="verify_warning_dialog_message_web">A Proteção avançada de dados está ativada. Conceda as permissões necessárias em i.mi.com para poder acessar dados criptografados.</string>
     <string name="verify_warning_dialog_negative_btn">"Não permitir"</string>
     <string name="verify_warning_dialog_positive_btn">Permitir</string>
     <string name="verify_warning_dialog_title">Outro dispositivo ativou a criptografia de ponta a ponta</string>
+    <string name="verify_warning_dialog_title_find_device">A \"Localização offline\" está ativada para outro dispositivo</string>
     <string name="verify_warning_dialog_title_pc">Permissões necessárias</string>
     <string name="verify_warning_dialog_title_web">Permissões necessárias</string>
     <string name="verify_warning_verify_dialog_message">Digite o código de verificação em %s</string>
