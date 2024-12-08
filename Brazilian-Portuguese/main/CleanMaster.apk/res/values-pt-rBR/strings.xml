@@ -342,6 +342,7 @@
     <string name="delete_confirm_msg">Excluir os arquivos selecionados permanentemente?</string>
     <string name="delete_slected_data">Redefinir</string>
     <string name="desc_image">imagem</string>
+    <string name="dialog_cancle">cancelar</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Excluir também as fotos da MiCloud</string>
     <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
     <string name="dialog_msg_add_white_list_error">"Não é possível adicionar este arquivo às exceções"</string>
@@ -353,6 +354,8 @@
     <string name="dialog_msg_uninstall_apps">Desinstalar estes apps?</string>
     <string name="dialog_msg_uninstall_apps_xspace">Desinstalar estes apps incluindo seus Dual apps?</string>
     <string name="dialog_ok_add_white_list_error">"OK"</string>
+    <string name="dialog_submit">Enviar</string>
+    <string name="dialog_title">O que há de errado com este anúncio?</string>
     <string name="dialog_title_add_white_list_error">Atenção!</string>
     <string name="dialog_title_backup_and_uninstall_apps">Backup e desinstalar</string>
     <string name="dialog_title_check_all">Selecionar todos</string>
@@ -903,6 +906,7 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="reset_app_dialog_summary">"Você está prestes a redefinir os apps selecionados. Todos os dados destes apps (incluindo seu status de login, configurações, imagens em cache, vídeos, arquivos e bate-papos) serão excluídos permanentemente, trazendo o app de volta ao estado inicial."</string>
     <string name="reset_app_dialog_title">Redefinindo apps</string>
     <string name="reset_selected">Redefinir %s</string>
+    <string name="report_issue">Relatar problema</string>
     <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> mais arquivos podem ser limpos. Libere mais espaço.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>Você pode limpar &lt;font color=#ff0000 >%1$s&lt;/font> de cache gerado pelo QQ.</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> de cache do WeChat. Libere mais espaço.</Data></string>

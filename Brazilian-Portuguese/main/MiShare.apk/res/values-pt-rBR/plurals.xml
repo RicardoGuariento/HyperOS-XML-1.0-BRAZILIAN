@@ -188,6 +188,66 @@
         <item quantity="other">Recebendo %2$d arquivos (%3$s) de %1$s…</item>
         <item quantity="one">Recebendo %2$d arquivo (%3$s) de %1$s…</item>
     </plurals>
+    <plurals name="share_notification_receive_confirm_title_file">
+        <item quantity="other">%1$d arquivos recebidos</item>
+        <item quantity="one">%1$d arquivo recebido</item>
+    </plurals>
+    <plurals name="share_notification_receive_confirm_title_image">
+        <item quantity="other">%1$d fotos recebidas</item>
+        <item quantity="one">%1$d foto recebida</item>
+    </plurals>
+    <plurals name="share_notification_receive_confirm_title_video">
+        <item quantity="other">%1$d vídeos recebidos</item>
+        <item quantity="one">%1$d vídeo recebido</item>
+    </plurals>
+    <plurals name="share_notification_receiving_title_file">
+        <item quantity="other">Recebendo %1$d arquivos</item>
+        <item quantity="one">Recebendo %1$d arquivo</item>
+    </plurals>
+    <plurals name="share_notification_receiving_title_image">
+        <item quantity="other">Recebendo %1$d fotos</item>
+        <item quantity="one">Recebendo %1$d foto</item>
+    </plurals>
+    <plurals name="share_notification_receiving_title_video">
+        <item quantity="other">Recebendo %1$d vídeos</item>
+        <item quantity="one">Recebendo %1$d vídeo</item>
+    </plurals>
+    <plurals name="share_notification_sending_title_file">
+        <item quantity="other">Enviando %1$d arquivos</item>
+        <item quantity="one">Enviando %1$d arquivo</item>
+    </plurals>
+    <plurals name="share_notification_sending_title_image">
+        <item quantity="other">Enviando %1$d fotos</item>
+        <item quantity="one">Enviando %1$d foto</item>
+    </plurals>
+    <plurals name="share_notification_sending_title_video">
+        <item quantity="other">Enviando %1$d vídeos</item>
+        <item quantity="one">Enviando %1$d vídeo</item>
+    </plurals>
+    <plurals name="share_received_describe_for_aod_status_bar_file">
+        <item quantity="other">%1$d arquivos recebidos</item>
+        <item quantity="one">%1$d arquivo recebido</item>
+    </plurals>
+    <plurals name="share_received_describe_for_aod_status_bar_image">
+        <item quantity="other">%1$d fotos recebidas</item>
+        <item quantity="one">%1$d foto recebida</item>
+    </plurals>
+    <plurals name="share_received_describe_for_aod_status_bar_video">
+        <item quantity="other">%1$d vídeos recebidos</item>
+        <item quantity="one">%1$d vídeo recebido</item>
+    </plurals>
+    <plurals name="share_receiving_describe_file">
+        <item quantity="other">%1$d arquivos</item>
+        <item quantity="one">%1$d arquivo</item>
+    </plurals>
+    <plurals name="share_receiving_describe_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="share_receiving_describe_video">
+        <item quantity="other">%1$d vídeos</item>
+        <item quantity="one">%1$d vídeo</item>
+    </plurals>
     <plurals name="someone_send_file_to_you_files">
         <item quantity="other">%1$s está enviando %2$d arquivos para você…</item>
         <item quantity="one">%1$s está enviando %2$d arquivo para você…</item>

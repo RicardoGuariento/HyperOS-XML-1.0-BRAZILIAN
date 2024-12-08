@@ -15,6 +15,14 @@
         <item>Tamanho</item>
         <item>Nome</item>
     </string-array>
+    <string-array name="feedback_content">
+        <item>Não estou interessado</item>
+        <item>Repetitivo</item>
+        <item>Conteúdo impróprio</item>
+        <item>Enganoso ou fraudulento</item>
+        <item>Conteúdo ilegal</item>
+        <item>Outro</item>
+    </string-array>
     <string-array name="installed_app_sort_type">
         <item>Usados com frequência</item>
         <item>Tamanho</item>

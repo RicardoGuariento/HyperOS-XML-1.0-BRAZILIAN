@@ -29,6 +29,14 @@
         <item quantity="other">%d min atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
+    <plurals name="aiSearch_buildDB_dialog_analysis_completed_progress_time">
+        <item quantity="other">%1$s completo. Cerca de %2$s minutos restantes.</item>
+        <item quantity="one">%1$s completo. Cerca de %2$s minuto restante.</item>
+    </plurals>
+    <plurals name="aiSearch_buildDB_dialog_secondary_confirmation_content">
+        <item quantity="other">A análise levará cerca de %1$s minutos para ser concluída. Seu dispositivo pode aquecer ou consumir um pouco mais de bateria durante esse processo. Começar agora?</item>
+        <item quantity="one">A análise levará cerca de %1$s minuto para ser concluída. Seu dispositivo pode aquecer ou consumir um pouco mais de bateria durante esse processo. Começar agora?</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>

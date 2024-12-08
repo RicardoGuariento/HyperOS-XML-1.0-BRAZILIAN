@@ -453,6 +453,7 @@
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="image_action_annotate">Adicionar descrição à imagem</string>
     <string name="image_action_browse">Ver imagem</string>
+    <string name="image_action_copy">Copiar imagem</string>
     <string name="image_action_delete">Excluir imagem</string>
     <string name="image_action_save_to_gallery">Salvar na Galeria</string>
     <string name="image_action_zoom_in">Aumentar zoom</string>
@@ -773,11 +774,11 @@
     <string name="pc_note_dual_screen_dialog_content">"Parece que você está editando notas no seu dispositivo. Para evitar conflitos de edição, feche o app Notas no seu dispositivo."</string>
     <string name="pc_note_edit_blank_view_tips">Arraste uma imagem aqui, para criar uma nota.</string>
     <string name="pc_note_edit_create_time">"Criado: "</string>
-    <string name="pc_note_edit_insert_doodle_by_phone">Criar um desenho no dispositivo</string>
+    <string name="pc_note_edit_insert_doodle_by_phone">Criar um rabisco no dispositivo</string>
     <string name="pc_note_edit_insert_picture_from_pc">Selecionar uma imagem do computador</string>
     <string name="pc_note_edit_insert_picture_from_phone">Selecionar uma imagem de um dispositivo móvel</string>
     <string name="pc_note_edit_last_modified_time">"Última edição: "</string>
-    <string name="pc_note_edit_lock_dialog_doodle_by_phone">Criando um desenho no dispositivo…</string>
+    <string name="pc_note_edit_lock_dialog_doodle_by_phone">Criando um rabisco no dispositivo…</string>
     <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Tirando uma foto com o dispositivo…</string>
     <string name="pc_note_edit_take_photo_by_phone">Tire uma foto com o dispositivo</string>
     <string name="pc_note_edit_text_format_body">Corpo</string>
