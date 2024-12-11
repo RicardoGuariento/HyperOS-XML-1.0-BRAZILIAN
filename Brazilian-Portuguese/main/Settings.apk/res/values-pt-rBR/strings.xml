@@ -683,6 +683,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="allow">Permitir</string>
     <string name="allow_all_rotations_title">Rotação em 360°</string>
     <string name="allow_bind_app_widget_activity_allow_bind">"Depois de criar o widget, o app poderá acessar tudo o que for exibido.
+    <string name="allow_update_system_app">Permitir atualizar apps do sistema</string>
 
 App: %1$s
 Widget: %2$s
