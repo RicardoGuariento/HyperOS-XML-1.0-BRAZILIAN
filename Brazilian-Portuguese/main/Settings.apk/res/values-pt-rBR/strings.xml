@@ -683,8 +683,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="allow">Permitir</string>
     <string name="allow_all_rotations_title">Rotação em 360°</string>
     <string name="allow_bind_app_widget_activity_allow_bind">"Depois de criar o widget, o app poderá acessar tudo o que for exibido.
-    <string name="allow_update_system_app">Permitir atualizar apps do sistema</string>
-
+    
 App: %1$s
 Widget: %2$s
 "</string>
@@ -711,6 +710,7 @@ Widget: %2$s
     <string name="allow_sound_title">Som</string>
     <string name="allow_turn_screen_on">Permitir que a tela seja ligada</string>
     <string name="allow_turn_screen_on_description">Permite que um app ligue a tela. Se essa permissão for concedida, o app poderá ativar a tela a qualquer momento sem sua intenção explícita.</string>
+    <string name="allow_update_system_app">Permitir atualizar apps do sistema</string>
     <string name="allow_vibrate_title">Vibração</string>
     <string name="alpha_build">"Alpha"</string>
     <string name="already_delete_system_app">Apps do sistema desinstalados</string>
